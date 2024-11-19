@@ -48,5 +48,5 @@ With **Itinera**, you can share your experiences, discover new destinations, and
 ### ⚙️ **Instructions**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/itinera.git
+   git clone https://github.com/menchiniDev/itinera.git
    cd itinera
