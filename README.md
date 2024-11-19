@@ -45,6 +45,11 @@ With **Itinera**, you can share your experiences, discover new destinations, and
 - Neo4j ⚙️
 - Python Libraries: `fpdf`, `Pillow`, `Flask`
 
+## **Project done by**
+- Bacherotti Nicolò
+- Menchini Lorenzo
+- Sacco Rossana Antonella
+
 ### ⚙️ **Instructions**
 1. **Clone the Repository**
    ```bash
