@@ -1,0 +1,66 @@
+{
+    "name": "Hôtel L'Espérance",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Ian",
+            "author_url": "https://www.google.com/maps/contrib/112347416048249349660/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnXWo8TL8NPXOEUZcc9c_voeS6f5ZOZUcPcCy18lRa6wTvbQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Good Hotel. The rooms are very modern. There has clearly been put some work into it. The huge bathrooms were especially a highlight.\n\nThe rooms are very clean.\n\nThe personnel are super friendly and helpful.\n\nThe hotel is only about 2mins on foot away from the next tram station where you have good connection to the city centre and the train station. it's right next to the shopping strip. You get brands like Primark within walking distance.\n\nPrice is absolutely fine for the quality you get\n\nThe only negative point for me is that the staircase is very narrow. So if you have big luggage it can get a bit difficult. Unfortunately there is no lift.",
+            "time": 1715750224,
+            "translated": false
+        },
+        {
+            "author_name": "Ilir Hoxha",
+            "author_url": "https://www.google.com/maps/contrib/114372010731390800869/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcAD9Y1oKoiccvsHcdYisShT0hGy9Or6VOifzJxpuS-E2bFA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "The heavy smell of the bed leaves me sleepless this hotel is terrible.. I stayed here for one night with my wife and my son, baby, scandalous source of infection  🤮🤮🤮",
+            "time": 1727946687,
+            "translated": false
+        },
+        {
+            "author_name": "Anxhela Hoxha",
+            "author_url": "https://www.google.com/maps/contrib/109950140597613351518/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5zXsAka_Dj7CMxhR7z5FEdtq-GFerP5AGUBdM-39Dd-9ZdU4b=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "this hotel is a hotbed of infection, I spent one night there and couldn't sleep because of the smell and order of the bed and the pipes... I vomited 🤮🤮🤮🤮🤮",
+            "time": 1727948740,
+            "translated": false
+        },
+        {
+            "author_name": "Dominik Bühler",
+            "author_url": "https://www.google.com/maps/contrib/114644081140090566171/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjMHAFMTU81mxX2er-mqDzUz6ElI2i_KVsrzD24191F6INzg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Absolutely unique Art Deco / Jugendstil rooms. Very friendly staff. Absolutely worth a visit.",
+            "time": 1717949145,
+            "translated": false
+        },
+        {
+            "author_name": "martina rossell",
+            "author_url": "https://www.google.com/maps/contrib/100267006308068552957/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0T2Fib60RTkyoyQ1nbT1CVwGjdWktuauqrhMvI7z8dysJI_lZ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Really good experience. In the center of the city, near of everything. The room was excellent and the service too. Really recommend this please🫶🏼",
+            "time": 1716990274,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Neste Senču",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Ivars Grīnbergs",
+            "author_url": "https://www.google.com/maps/contrib/112313278777034438116/reviews",
+            "language": "en-US",
+            "original_language": "lv",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZnxDIq7IUBdV9TT6iTAi_evWdKvUQFwaWg5ucTyjuoN48Sbk=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Set of small gas stations. It's a pity that you can only drive from both sides of the street.",
+            "time": 1654959363,
+            "translated": true
+        },
+        {
+            "author_name": "Andrejs G.",
+            "author_url": "https://www.google.com/maps/contrib/105047368385314140644/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0_vxs4AmpJS2ZvHhdGgEUjmqqb4tLht9Z6rYLmoi-TchVJl7P=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Automatic filling station. Fuel prices are always lower than at other gas stations in this network.",
+            "time": 1483754179,
+            "translated": true
+        },
+        {
+            "author_name": "Maxim Perepelica",
+            "author_url": "https://www.google.com/maps/contrib/113951777752199100289/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcD2nqLthG58QvR0b4RqPzdC48BLnlo5Wc5uDOZ-GiF1Jxc9xt=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "24-hour automatic gas station. Payment by card and banknotes. There is no store.",
+            "time": 1460886590,
+            "translated": true
+        },
+        {
+            "author_name": "Vidvuds Spriņģis",
+            "author_url": "https://www.google.com/maps/contrib/113039887330238146677/reviews",
+            "language": "en-US",
+            "original_language": "lv",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlVGyIuKwo8lU2sheX5qbfZkfinbcAcjCWrhy9spqxhxD7Pw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Easily accessible by entering Riga from the side of the VEF air bridge.",
+            "time": 1598519112,
+            "translated": true
+        },
+        {
+            "author_name": "В Т",
+            "author_url": "https://www.google.com/maps/contrib/103447331820440161878/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1YiZQRT70uTNyqXBN6RPx6Fse_0PANkcSN5i2CkOSmte1XH0F=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "One of the lowest prices for gasoline is often at this gas station.",
+            "time": 1468232891,
+            "translated": true
+        }
+    ]
+}

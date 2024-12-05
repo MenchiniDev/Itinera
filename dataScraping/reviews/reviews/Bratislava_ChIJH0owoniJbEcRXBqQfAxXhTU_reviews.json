@@ -1,0 +1,66 @@
+{
+    "name": "BERG restaurant",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Attila Kiss",
+            "author_url": "https://www.google.com/maps/contrib/101899930838663170679/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKR2xOqtz_LfgMgZ7PBI6fYL70Xal5TP0B0L0Tk-gFO8I_GnLg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The meal, service and atmosphere was perfect. Absolutely recommended.",
+            "time": 1730710324,
+            "translated": false
+        },
+        {
+            "author_name": "Giang NguyenThu",
+            "author_url": "https://www.google.com/maps/contrib/108727076551600927272/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5PVND782M_tiNf3wsAS9LDm_a4VyBpaquoetp96ifoX3lXos7gg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "This hidden gem offered a warm a cozy ambience. Their spaghetti and saffron risotto were just outstanding!",
+            "time": 1686042729,
+            "translated": false
+        },
+        {
+            "author_name": "Lucian",
+            "author_url": "https://www.google.com/maps/contrib/111787491353882052478/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm19mcu2Xc5tzxmzL2d1EHOGVpdARPvJgSpv1rRZl2lpQcr9gMEg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "It was a perfect choice for a dinner. Highly recommended for a romantic evening, business gatherings or just for a nice meal. The portions are big and what we ordered was very tasty. Prices are very fair for the quality, about 2/3 as city center. Their menu can be checked online. The only downside is the access toward the restaurant",
+            "time": 1525810771,
+            "translated": false
+        },
+        {
+            "author_name": "Mano Markovic",
+            "author_url": "https://www.google.com/maps/contrib/104206554634959747601/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8xsnaY35fpD2Dz2wzePrqs3w453g7dOv9D-y8HZDSaM9MGw=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Medioka menue.\nDo not have BeefStroganov\nThey put VINEGER as ingredients in the food.\nCheap acid to put in to your stomach.",
+            "time": 1724356775,
+            "translated": false
+        },
+        {
+            "author_name": "Peter Vascak",
+            "author_url": "https://www.google.com/maps/contrib/101781705284405376728/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOXfv2MikDodGTxOup6Ue0AQ0ummoSeNicgc4BEm2bN52IRlDV=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Celebrated my moms 70th birthday at the restaurant and all I can say was “we had and amazing experience”. Staff was very friendly and helpful always there to make us feel welcomed and comfortable.\nFood was very tasty and drinks great selection of wine and best beer was a Pilsner Urqel on tap;)\nI would recommend this restaurant for every occasions.",
+            "time": 1714634568,
+            "translated": false
+        }
+    ]
+}

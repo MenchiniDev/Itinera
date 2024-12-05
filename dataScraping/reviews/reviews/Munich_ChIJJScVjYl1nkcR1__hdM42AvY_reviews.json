@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Torbräu",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Christopher Cox",
+            "author_url": "https://www.google.com/maps/contrib/112919882368303409604/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTv2DaNjUJLznmBQPlR6cnAEL02TIhAzyncPezP5EMT89J6w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Great hotel in a perfect central location. Very well maintained historical building. Nice bar. Friendly staff. Modern rooms with coffee and free access to the mini bar. More than fair price for what you get. Strongly recommended and would hope to stay here again",
+            "time": 1731310801,
+            "translated": false
+        },
+        {
+            "author_name": "Mark Hayward",
+            "author_url": "https://www.google.com/maps/contrib/108064182702627475435/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX04Q4arhPdf4ju4F-z7i3V7dEtQ8zcHGhOFfNEW-ejrqrxv1I=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Wonderful 5 days in enchanting München. Our stay  at the Torbrau was everything we could hope for! Outstanding position close to absolutely everything of interest in the town and right next to the rail link. Fabulous. Staff were extremely helpful from concierge to domestic help. Special thank you to Aisha ( hope that’s Correct) and her two companions at the breakfast buffet! They were constantly charming and extremely helpful. Every morning their delightful personalities invigorated us. The breakfast itself was exceptional but paled in comparison to the charm and efficiency of these delightful people. Thank you so much!\nMark and Nicole (room 307)",
+            "time": 1728029895,
+            "translated": false
+        },
+        {
+            "author_name": "Colette Tan",
+            "author_url": "https://www.google.com/maps/contrib/112297245669411174670/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLXOOlWCjCzSrsGRd7ggzHRo2Wv3ahWzeBoUUOpzUxpmyyfw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Rooms were spacious and comfortable. Toilet was clean, though some appliances were a bit old / rusty. Only one free bottle of water is given a day, and you can't ask for more. But they do have free apples at the lobby.",
+            "time": 1732019951,
+            "translated": false
+        },
+        {
+            "author_name": "Gerald Ewald",
+            "author_url": "https://www.google.com/maps/contrib/101821722263946056023/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRSNSbzDE4XqJgLe0PttLdvOS0R1ZpSEKL0Y2wvz2eO5X5BA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great, clean hotel.  Friendly workers.  From what I can tell, the hotel is not wheelchair friendly.  We had to climb 5 or 6 steps to get to elevator to get to 1st floor as reception is on floor #0!",
+            "time": 1728642144,
+            "translated": false
+        },
+        {
+            "author_name": "Chris Juestel",
+            "author_url": "https://www.google.com/maps/contrib/104741145556894959148/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqUgGc8CRtP7bn-4PuXYJIiTDGFm7iqPtd45PYRJmFZmtXqg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "The Hotel Torbräu is a perfect location to explore Altstadt Munich, many shops, restaurants, and popular sites steps away. The staff was welcoming, friendly, and helpful. I found the hotel clean and we'll kept and the room modern and spotless. The shower, though small, was particularly nice... great water pressure and as hot as you'd like. A welcome pleasure to melt away a day/night of travel.\n\nBreakfast was good, with good strong coffee and tasty breakfast sausage, as you would expect in Munich. The dining room was sunny and comfortable, the balcony even better, with views of church steeples and chimes of the bells. A nice way to start the day.\n\nMy only detractor was some room to room noise. Fortunately I didn't have loud neighbors, but normal conversation barely sounded like the was a wall there.\n\nI would definitely stay here again.  The price, comfort, and location are a winning combo, at least for the room I had.  I'd have ear plugs on hand, just in case.",
+            "time": 1724305532,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Ha Long Restaurant",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Vlad Alukhanov",
+            "author_url": "https://www.google.com/maps/contrib/104508829502347100792/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6hlYmy2qYTeCemeIn0eMqsO72cC52DjitbdWAU3oSm-Cxkjua=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "I wanted to like this place, but the food was the worst ‘Asian’ food I ever had. Ordered fried noodles with duck and veg. It was a lump of noodle with some dry meat, covered in oil. No Asian flavors, no soy sauce, no garlic, just oily mess. 20chf!!!!",
+            "time": 1720115810,
+            "translated": false
+        },
+        {
+            "author_name": "Johan Bastiaens",
+            "author_url": "https://www.google.com/maps/contrib/107043884952643488583/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEkU1wa0TJgDmGuAfh_N22HS-OvUzYdZJHrc6-dLOlwYxoyCM=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Super friendly staff. You can see the owner takes pride in his business and is super helpful.\nFood is good and delicious.\nDefinitely a place I would go to again.",
+            "time": 1657044122,
+            "translated": false
+        },
+        {
+            "author_name": "Francesco",
+            "author_url": "https://www.google.com/maps/contrib/104655057082501207377/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhvRkH0dAtdi9-XNIB2TB93Buohw0y55UFVD_VhL_tikpLiA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Loved it! Loved it! Loved them. Staff so nice. Food is gorgeous and after coming back from Vietnam last month the comparison was a risk but full marks. Will eat every time in Schaan!!",
+            "time": 1666719764,
+            "translated": false
+        },
+        {
+            "author_name": "Xiaobing Zhou",
+            "author_url": "https://www.google.com/maps/contrib/117484551802227156718/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQbq9lzxjICoZK8AxWBqh6O5d3RXreiWSX_IxJ2CBHg3vgoPO8TQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Very kind staff and service, the food is delicious and freshly made. The opening hour is longer than other nearby restaurant. Has own parking places.",
+            "time": 1563741164,
+            "translated": false
+        },
+        {
+            "author_name": "Xiaoqiu QIU",
+            "author_url": "https://www.google.com/maps/contrib/108564775745102090173/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxE3s6aItLij5NkhaTthkEBIFrTmnCYhaXowaDHTBqbEJ0xxVu=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "It might take a bit of waiting, but the dishes at Ha Long are delicious and reasonably priced.",
+            "time": 1725737624,
+            "translated": false
+        }
+    ]
+}

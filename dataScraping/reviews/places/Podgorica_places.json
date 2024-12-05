@@ -1,0 +1,1042 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4389163,
+                "lng": 19.2569678
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4403077802915,
+                    "lng": 19.2581836802915
+                },
+                "southwest": {
+                    "lat": 42.4376098197085,
+                    "lng": 19.2554857197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Podgorica",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2819,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114327125099082570941\">Hotel Podgorica</a>"
+                ],
+                "photo_reference": "AdDdOWrtQO_x0FOClyFGCr3lPbw9cwojeHNJBIR5n6jTF04VMZSPj00G9-cm4nbF1SATRhummfI303OtaQHQIdy3dPAKCDwY3N4stlxv0wuNGsYG9hbk_ztjDUAcJ7A-d3FUG5kUEJhdDGElDaIjJr3D_X0IujmAo7tssmxMT9wLfTJluAA7",
+                "width": 4249
+            }
+        ],
+        "place_id": "ChIJJYXuSTjrTRMRPgA-r0a3EJo",
+        "plus_code": {
+            "compound_code": "C7Q4+HQ Podgorica, Montenegro",
+            "global_code": "8FJXC7Q4+HQ"
+        },
+        "rating": 4.2,
+        "reference": "ChIJJYXuSTjrTRMRPgA-r0a3EJo",
+        "scope": "GOOGLE",
+        "types": [
+            "car_rental",
+            "cafe",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 742,
+        "vicinity": "br.1 Ulica Svetlane Kane Radević, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.44223,
+                "lng": 19.262009
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4435597802915,
+                    "lng": 19.2634239802915
+                },
+                "southwest": {
+                    "lat": 42.4408618197085,
+                    "lng": 19.2607260197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Hemera",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112457280738630501911\">Darko Ćorić</a>"
+                ],
+                "photo_reference": "AdDdOWp0zUi1CjfWkkwdTfWcOGgcNAwpbQGVU2CMv9X-k1jytCJDDMKOwMqOxtkSu0yohBEaj3wrGT7e65pMbSQJ5BShuaaFkeZgys2d2AuH92GtkC2bRXoU2F8Y2YKKGdNyecb0yCakCGK32LKybA2CMeLopWuQHYk6FEsrFApeCaPZLz55",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJh8OKqEnrTRMRokIJTfpY0Hk",
+        "plus_code": {
+            "compound_code": "C7R6+VR Podgorica, Montenegro",
+            "global_code": "8FJXC7R6+VR"
+        },
+        "rating": 4.6,
+        "reference": "ChIJh8OKqEnrTRMRokIJTfpY0Hk",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 462,
+        "vicinity": "17 Njegoševa, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4418506,
+                "lng": 19.2629408
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.44313188029149,
+                    "lng": 19.2642534802915
+                },
+                "southwest": {
+                    "lat": 42.44043391970849,
+                    "lng": 19.2615555197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mimi",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105788989486101516060\">Goran Sekulić</a>"
+                ],
+                "photo_reference": "AdDdOWp_mftE55NRdXAkYV6aGBbH19ZLbgADwabwckWOlCrqk1dSS7La-oZkAj5dj0XPNSZ97HsZV27MCXybtKbgqdZiAabckizec2JcTS6g6I5Pn7K-XIpjUUFMwB9wixHFba3kGDsL5Yc-UsMiNZDD4ectQ86kCC_KIcZ8cfRdIVC-C8Mm",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJQRf_AknrTRMRokAzBGQ8V4I",
+        "rating": 4.3,
+        "reference": "ChIJQRf_AknrTRMRokAzBGQ8V4I",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 28,
+        "vicinity": "C7R7+P5W, Miljana Vukova, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4437028,
+                "lng": 19.24494
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.44515538029149,
+                    "lng": 19.2463420802915
+                },
+                "southwest": {
+                    "lat": 42.44245741970849,
+                    "lng": 19.2436441197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Garden",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101575759334350083728\">Studio LASSO</a>"
+                ],
+                "photo_reference": "AdDdOWpLbF3OB6DwjiRBta_Zg_WxMMSzCudLjdgAPbNElWTOi0zDxkMD-ziTwqY28tnVRlO7P88SoIKtwLtUsAOa0l4P2OUUMhSkRuymxNG3g80HyREQrB_qXNfRJ7b4Eem0K1v3fHYfVF8K-VGI0dYXzzHyzowwRN5jaPJRUTN2s1WpM3Wp",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJTYb-oi_rTRMRdR5bx9p9L1c",
+        "plus_code": {
+            "compound_code": "C6VV+FX Podgorica, Montenegro",
+            "global_code": "8FJXC6VV+FX"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJTYb-oi_rTRMRdR5bx9p9L1c",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 429,
+        "vicinity": "9 Bulevar Mihaila Lalića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4499716,
+                "lng": 19.2594678
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.45133963029149,
+                    "lng": 19.26070123029151
+                },
+                "southwest": {
+                    "lat": 42.4486416697085,
+                    "lng": 19.2580032697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pizzeria Me Gusta",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114165461009178996675\">Zlatko Raicevic</a>"
+                ],
+                "photo_reference": "AdDdOWpOF9u4eNuetZduXplo6wUKYjPPYcRFyeVP0Tau0gql0W9gED1wTbzOI3qDcRaKHnMEyF4EJVssnUJGYvNO4f1qDaAncY-BGXYDUtify5XrmZYP5yPoCaeL6Ld-BytE9A-qjCdnj96SIKf5Lg32ZHjER78edV6mFOanr1xfNO9hmnMI",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJdSoWWLWUTRMRKbh2Bv7P2ks",
+        "plus_code": {
+            "compound_code": "C7X5+XQ Podgorica, Montenegro",
+            "global_code": "8FJXC7X5+XQ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJdSoWWLWUTRMRKbh2Bv7P2ks",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 74,
+        "vicinity": "Serdara Jola Piletića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4439183,
+                "lng": 19.2644468
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4451981302915,
+                    "lng": 19.2660855302915
+                },
+                "southwest": {
+                    "lat": 42.4425001697085,
+                    "lng": 19.2633875697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 750,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118131821758840031032\">Prague Lounge Bar</a>"
+                ],
+                "photo_reference": "AdDdOWq4QrrH5IpcWpChzTPsjc7XFEbjlLuF3g5bOZiDllRQnOOCe-5P7cbRCHy6RM6UUdLjt96uipv8P4fGWxqpIvJ4SmoSyIpMTnMor3DR9PxAL1F6KQQ1dXBz1ObsXjlzz1istzZct4zkvqtYY_W_f12oMK6KJeJGaWURSOCs1-vEcYSX",
+                "width": 750
+            }
+        ],
+        "place_id": "ChIJxTpA40vrTRMRNuFe96ELPDo",
+        "plus_code": {
+            "compound_code": "C7V7+HQ Podgorica, Montenegro",
+            "global_code": "8FJXC7V7+HQ"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJxTpA40vrTRMRNuFe96ELPDo",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 70,
+        "vicinity": "17 Trg Argentine, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4365932,
+                "lng": 19.21927459999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.43799448029151,
+                    "lng": 19.2206861302915
+                },
+                "southwest": {
+                    "lat": 42.43529651970851,
+                    "lng": 19.2179881697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Konoba Odžaklija",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 540,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108781951327928391833\">Konoba Odžaklija</a>"
+                ],
+                "photo_reference": "AdDdOWrgr1OzPoXDaPh5S-6RDO7orUqDiopqhDHsrtMb0ufWaTpJSpb9P0VUv3Vil93Q1CUROkOiJucqGL3OD6gtCN2TmxIptyWu42riohrYXScGVfuk5ePL_KC6Ono19qgjTjRt4qChMDYc3ARnpeGmQ9_geSvB6yn5P9LYEZCmGJokGl0d",
+                "width": 809
+            }
+        ],
+        "place_id": "ChIJVRI-wunqTRMRTaV_y2JafEI",
+        "plus_code": {
+            "compound_code": "C6P9+JP Podgorica, Montenegro",
+            "global_code": "8FJXC6P9+JP"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJVRI-wunqTRMRTaV_y2JafEI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 117,
+        "vicinity": "72 Miloja Pavlovića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.43045649999999,
+                "lng": 19.2585209
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.43171723029149,
+                    "lng": 19.2598263802915
+                },
+                "southwest": {
+                    "lat": 42.4290192697085,
+                    "lng": 19.2571284197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "KRISTAL",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1085,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113003207262818051817\">KRISTAL</a>"
+                ],
+                "photo_reference": "AdDdOWoa7Q5MkgWH9vIliMb0-ETsqPqqElRUXrJVhd3BynONg9kJq5ZV_DExXhrng1hj0CgV4yqCqB4P21sX8C3fxs0DhhddFPhtmqX-8BU1M6k0eePiPV6TJJdUGgSseNNEchYE06GmLdbQPQ1tLtYJC26usZQUbvUrAzT9uDNamt_sUA8n",
+                "width": 1400
+            }
+        ],
+        "place_id": "ChIJE3LBWRXrTRMRYbLOS-pEPJQ",
+        "plus_code": {
+            "compound_code": "C7J5+5C Podgorica, Montenegro",
+            "global_code": "8FJXC7J5+5C"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJE3LBWRXrTRMRYbLOS-pEPJQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 329,
+        "vicinity": "Vampirica, 30 Bracana Bracanovića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4233293,
+                "lng": 19.2672667
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4243410802915,
+                    "lng": 19.2688570802915
+                },
+                "southwest": {
+                    "lat": 42.4216431197085,
+                    "lng": 19.2661591197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restoran 13Jul Plantaže",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105182109346952491603\">Miloš Rabrenović</a>"
+                ],
+                "photo_reference": "AdDdOWqiGHrGc-znTJsW2SQ3VWGhkgJrsvt9VlE8o2_bzGLepVsl-pJS9WVK0XRM_Z9rWomPInMxg7YRhmLCT8OOLq6kU_CoppuXP_3f7v2sR2LYgYOL4L7mc4SIxRhtJXyArg0OAYdT1qO0Q1YvG9_uKjOK5eBBl2BQzEykZJSG4sGkvUir",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJL-UcCm7rTRMR-oFr23JMWKM",
+        "plus_code": {
+            "compound_code": "C7F8+8W Podgorica, Montenegro",
+            "global_code": "8FJXC7F8+8W"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJL-UcCm7rTRMR-oFr23JMWKM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 84,
+        "vicinity": "2 Bulevar Šarla de Gola, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.44078210000001,
+                "lng": 19.2544496
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.44212643029149,
+                    "lng": 19.2558176302915
+                },
+                "southwest": {
+                    "lat": 42.4394284697085,
+                    "lng": 19.2531196697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dostava Hrane Podgorica",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100590982888685797023\">Shpëtim Bisha</a>"
+                ],
+                "photo_reference": "AdDdOWpp1lx_KpM2hBoN_mfaCXhU2bPYtuHAO81aL_RK7IzZq_aWtfwu-BYldr1QW9nn4OsJ8tmmPKhvde0JIi9xNJOoPcYzYC2gMoaFZdmZlw6zA5PPXZm_x5G_q3Q4NYRXwVA5JYidqBbxF9FVstvCFSjrWvrv-IabsOF4K3EUqeLJKcHo",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJk-OiWDfrTRMR-taET4eJl5c",
+        "rating": 3,
+        "reference": "ChIJk-OiWDfrTRMR-taET4eJl5c",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "C7R3+8Q8, Ivana Milutinovića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.440631,
+                "lng": 19.2654803
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4419131802915,
+                    "lng": 19.26672048029151
+                },
+                "southwest": {
+                    "lat": 42.4392152197085,
+                    "lng": 19.2640225197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restoran Radovce",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4624,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100400731893097917672\">V K</a>"
+                ],
+                "photo_reference": "AdDdOWrRrfg77ZkdMkvOtKouQNe_C_fsI9d6ucFeqMGTZ_ubRdTn-FtZmugOfMUq6vUJ0fb4-14OsbN1mQdYV8H5sIjaD1QY3coznakirC4keN1yBY3nqyp7eGMHZVVemfkAA8rDW1BNVNtQuK0Nt5Jv3r1Nhrzptq2M359A_ZJLO0hajVCO",
+                "width": 3468
+            }
+        ],
+        "place_id": "ChIJ5-XpMk_rTRMRWZv0TUCBvrE",
+        "plus_code": {
+            "compound_code": "C7R8+75 Podgorica, Montenegro",
+            "global_code": "8FJXC7R8+75"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJ5-XpMk_rTRMRWZv0TUCBvrE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 103,
+        "vicinity": "81000, 18 Balšića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4416909,
+                "lng": 19.2624296
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4430562302915,
+                    "lng": 19.2638975802915
+                },
+                "southwest": {
+                    "lat": 42.4403582697085,
+                    "lng": 19.2611996197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Hard Rock Cafe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3692,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114513639591343061067\">Hard Rock Cafe</a>"
+                ],
+                "photo_reference": "AdDdOWrNqoo5lZOg-uz5dZWL_Wad8mvq9JHFslTNRwpj3THyrCxXsPXpEpTRHmyEodp_9-fAxm3va3HWJVMRkCtg-We3JvMZD_Mp9k85XVK1KukydXtkgktk2qgKmUdat5N_Tq1PS8e_u5yfJGVxu800FysmDQgNXHApK4Id63tmYnbhCPzK",
+                "width": 6017
+            }
+        ],
+        "place_id": "ChIJ-38KuyXrTRMRHeYU2CdkaCc",
+        "plus_code": {
+            "compound_code": "C7R6+MX Podgorica, Montenegro",
+            "global_code": "8FJXC7R6+MX"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJ-38KuyXrTRMRHeYU2CdkaCc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1284,
+        "vicinity": "Independence Square, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4343426,
+                "lng": 19.2437159
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4354798302915,
+                    "lng": 19.2453366802915
+                },
+                "southwest": {
+                    "lat": 42.43278186970851,
+                    "lng": 19.2426387197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Modis Land, igraonica",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114932194322390977934\">Lucy O</a>"
+                ],
+                "photo_reference": "AdDdOWr2Y_oolvbmYJQXFcEmVxbivnige-wBEdpgZVZrDvrY89qWKsHYPBBCyYOM8itWujSSvZnn6tAt32mz_NDXv8hSOppBw31UiTIBpBLGoQU1ogd_OsPu6ttZ6jx8X6aL9FbAYY96EBLjdnFl8CGTMhiCiEjm-Z965abYpWiNH5VWxkAd",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJL3KvQiLrTRMRHT_-YGOLyXw",
+        "rating": 4.3,
+        "reference": "ChIJL3KvQiLrTRMRHT_-YGOLyXw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 33,
+        "vicinity": "C6MV+PFP, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4347152,
+                "lng": 19.2806797
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4360967302915,
+                    "lng": 19.2819267802915
+                },
+                "southwest": {
+                    "lat": 42.4333987697085,
+                    "lng": 19.2792288197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sicilia Stari Aerodrom",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107913570893840172226\">Igor Pejovic</a>"
+                ],
+                "photo_reference": "AdDdOWpJ_wjPxskPbb0XRbL55GAoNd9fBDL_8BHNn5CtLj3TLToNd8Q42xO_vlYjUVtydwA3meR2QCkVQkCINB9-fm-X5YhHYIT4u5pZHdkZJH-EIxQcHen7bhvLWVMkMVCf1Z-09dR3ol6WTBX9a-xf49KyGNDmN86lcy_CqrNyVcVrhFbZ",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJVyFPSVjrTRMRrmS2kpMGf5s",
+        "plus_code": {
+            "compound_code": "C7MJ+V7 Podgorica, Montenegro",
+            "global_code": "8FJXC7MJ+V7"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJVyFPSVjrTRMRrmS2kpMGf5s",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 315,
+        "vicinity": "Bulevar Pera Ćetkovića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4348799,
+                "lng": 19.2810075
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4363556802915,
+                    "lng": 19.2823442302915
+                },
+                "southwest": {
+                    "lat": 42.4336577197085,
+                    "lng": 19.2796462697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pizzeria Kvart",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2084,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114860745463755891370\">miroslav popović</a>"
+                ],
+                "photo_reference": "AdDdOWqtm84ezKuW51WCYT0rPsbY1pa3QaPrlyvaybeHc_RQ7oDGhMutG-B_MwtKAH0wKqooHR4y7xVjDbB19RUQWyUDhiKmN7LKIjw9dsoQrDxM63OuqseBlqK-5MSza-XkFUTeuchXy3wvpfLjMgI6zbmLEiXFgi8NWpyLfRQUNcwXyIG_",
+                "width": 4624
+            }
+        ],
+        "place_id": "ChIJVfe4O1jrTRMRLbGqMjuZq3g",
+        "plus_code": {
+            "compound_code": "C7MJ+XC Podgorica, Montenegro",
+            "global_code": "8FJXC7MJ+XC"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJVfe4O1jrTRMRLbGqMjuZq3g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "102 Avda Međedovića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4436639,
+                "lng": 19.2450735
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4451171802915,
+                    "lng": 19.2464759302915
+                },
+                "southwest": {
+                    "lat": 42.4424192197085,
+                    "lng": 19.2437779697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Slatka Magija",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115474367369222714362\">Aminah Imani</a>"
+                ],
+                "photo_reference": "AdDdOWoIwGMCe3ZRXOdhPguPrt_Pt5Zsa08tvQZHbD1L-_E2n9blfM7h-d2QwvNWv8nPE_vhDkdOkHPUQ6VqVzSLpjaq2rj_VrK8RphIy8WaQI6Ajs3ia3NaToazcANoVS7AXBjtnqGmj2FErcyDz9yFVjk-r7f2kUfuVbLcekY3tTq-RnDK",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJGcf2oi_rTRMRtHr9H5lgdkU",
+        "rating": 4.4,
+        "reference": "ChIJGcf2oi_rTRMRtHr9H5lgdkU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 125,
+        "vicinity": "C6VW+F28, Bulevar Mihaila Lalića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.43917929999999,
+                "lng": 19.2366582
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.44057348029148,
+                    "lng": 19.2381313302915
+                },
+                "southwest": {
+                    "lat": 42.43787551970849,
+                    "lng": 19.2354333697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gurman",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3468,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112048165888061491859\">Ratko Kuč</a>"
+                ],
+                "photo_reference": "AdDdOWppG_3Tr69WP_VZ60SpxYsBN2El-3JOTl68UVNUf1w86rY8wfKMDrLnTQ7Xix-YfcIJgFeKIp5FNhSPmH_iOcx9BeJZTQqnhn8gNeGYOxYnsEc9NpBcoKTIbBcMTMvse4RdOXJdIzNVv5W5N5kT5kuHVQLLYJL4cha3Vyz7y2Yoijln",
+                "width": 4624
+            }
+        ],
+        "place_id": "ChIJq6jsWifrTRMRNuM-ZB2CGjk",
+        "plus_code": {
+            "compound_code": "C6QP+MM Podgorica, Montenegro",
+            "global_code": "8FJXC6QP+MM"
+        },
+        "rating": 3.9,
+        "reference": "ChIJq6jsWifrTRMRNuM-ZB2CGjk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 126,
+        "vicinity": "Studentska, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4473913,
+                "lng": 19.2463125
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.44871793029149,
+                    "lng": 19.2476059302915
+                },
+                "southwest": {
+                    "lat": 42.4460199697085,
+                    "lng": 19.2449079697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gurman",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112756182845174113633\">Ekaterina Sankhip</a>"
+                ],
+                "photo_reference": "AdDdOWpBvtIAzy9cGAxAiijD_Oc215Qny13evRFwjh-v-w1vR8jX4oGlSzOTn5QOOn6eW6PkQOYyfIy-9rBD3i0xpolf5vvGdB1nVCniRBWH9wkd7X9NnaOjh7Hvj_1N2B5O9n2dwh-bH4LURMmPTeDdq85xT7EUyhAFTEz7a5ACSUPZqAOe",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJvTtw5i3rTRMR4NKh-BdYyjw",
+        "plus_code": {
+            "compound_code": "C6WW+XG Podgorica, Montenegro",
+            "global_code": "8FJXC6WW+XG"
+        },
+        "rating": 4,
+        "reference": "ChIJvTtw5i3rTRMR4NKh-BdYyjw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 148,
+        "vicinity": "36 Dalmatinska, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.4399473,
+                "lng": 19.234373
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.4413813802915,
+                    "lng": 19.2356637802915
+                },
+                "southwest": {
+                    "lat": 42.4386834197085,
+                    "lng": 19.2329658197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restoran Per Sempre",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 683,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109147758373176091173\">Restoran Per Sempre</a>"
+                ],
+                "photo_reference": "AdDdOWoKb1V5_vSbh4Kmms8FF3TCc_GqrIlKCFflzAN1M_uapILEp6b6vRv4TADeAOZqy2OD0vZs9Oz6XxftvTCykmiuooqGL4O9UcLf5ZCPjaaTXbhyoc2m90oyRCwRpdjK9ECqethrf37hIAeUsagZ01st5V2Gc6PvSG6ElAJWQKTjgBtt",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJd6CpsNjqTRMROjiYKMtpTz4",
+        "plus_code": {
+            "compound_code": "C6QM+XP Podgorica, Montenegro",
+            "global_code": "8FJXC6QM+XP"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJd6CpsNjqTRMROjiYKMtpTz4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 340,
+        "vicinity": "2/10 Vojvode Maša Đurovića, Podgorica"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.432398,
+                "lng": 19.2232053
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.43370248029149,
+                    "lng": 19.2245051802915
+                },
+                "southwest": {
+                    "lat": 42.43100451970849,
+                    "lng": 19.2218072197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Philia restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111906792001625976908\">Philia restaurant</a>"
+                ],
+                "photo_reference": "AdDdOWrMIZT-Q6YX9L2cDz7U1l2Zib26uZdigTzupPBuk5R1Jz_ahEf2EynmKOCzpWVgK295UVOjA15sBbhROQYh1Y5fNsUk3NKgLUoQxnktz8SZ644RXlqoXumTmq0u61qkXDgOWrW8BawGeBL5O5-mfe36RgGS9AICSv82ZY0K11dG_OVO",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJOyogr-jqTRMRJMGfVCXBxUI",
+        "plus_code": {
+            "compound_code": "C6JF+X7 Podgorica, Montenegro",
+            "global_code": "8FJXC6JF+X7"
+        },
+        "rating": 3.8,
+        "reference": "ChIJOyogr-jqTRMRJMGfVCXBxUI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "Cetinski put bb, Hotel Philia, Podgorica"
+    }
+]

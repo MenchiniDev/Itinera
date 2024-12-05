@@ -1,0 +1,66 @@
+{
+    "name": "Actor Hotel Budapest",
+    "rating": 3.4,
+    "reviews": [
+        {
+            "author_name": "Sławek Maydz",
+            "author_url": "https://www.google.com/maps/contrib/102199427097226651068/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3XcxzQnhJ0x5LhVNmfco6IIdm9ypeVBeN6VqhGOEzgjenMnA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very nice hotel at a reasonable price. The location in a quiet part of the city, but not far from the bustling center, is not without significance. Close to the metro and other means of transport. I recommend it!",
+            "time": 1724665358,
+            "translated": false
+        },
+        {
+            "author_name": "Petros Karatsareas",
+            "author_url": "https://www.google.com/maps/contrib/105452132970196954352/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDhPFBRk-6aKM4aNoL7z1Si5hQrXf9oURpsbOeIHLtZo0C2KBJ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "I recently had the pleasure of staying at Actor, and it was an absolute delight from start to finish. The staff were incredibly welcoming and attentive, making me feel right at home from the moment I walked through the door. The room was spacious, clean, and beautifully decorated, providing a cozy sanctuary after a long day of exploring Budapest. All amenities were top-notch. The hotel's location was perfect, offering convenient access to the city centre. Additionally, the complimentary breakfast buffet exceeded my expectations with a wide array of delicious options to choose from. Overall, my experience at Actor was nothing short of fantastic, and I can't wait to return for another unforgettable stay.",
+            "time": 1712135946,
+            "translated": false
+        },
+        {
+            "author_name": "Kaspars Deičmanis",
+            "author_url": "https://www.google.com/maps/contrib/113998278986372126217/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd9gLpXjONF5tGyl3lh8qlduHkxQLoEURApLKiwlzshV2PtNMH=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "I was there for 2 years ago. Good location, but dirty with cockroaches. Terrible breakfast. I do not recommend.",
+            "time": 1721676486,
+            "translated": false
+        },
+        {
+            "author_name": "שלום ארלנגר",
+            "author_url": "https://www.google.com/maps/contrib/118162442252305004056/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp4_5t0wSQHQIyCzOm7ChfCbTMBTS1O7mMC_ZeFXS70-fx5Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Shocking experience the worst hotel I've ever been in my life no air conditioning in the middle of the night the whole room is flooded with water don't approach crooked people and thieves",
+            "time": 1721338935,
+            "translated": false
+        },
+        {
+            "author_name": "Pedram Noohi",
+            "author_url": "https://www.google.com/maps/contrib/108947360926782225147/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwILsrKAeOVyIvLverzFmcjegoQ_oThXe3gBWbBgphLe-VyA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The lobby music was really good, and the receptionist gave me a lolipop",
+            "time": 1723821202,
+            "translated": false
+        }
+    ]
+}

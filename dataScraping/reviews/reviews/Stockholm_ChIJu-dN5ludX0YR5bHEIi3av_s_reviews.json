@@ -1,0 +1,66 @@
+{
+    "name": "Berns Hotel",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Russell Woodward",
+            "author_url": "https://www.google.com/maps/contrib/102640589251610355297/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIryHyfM7GKaDLaUabgv-DctwNvybyRHUX--ub8Iil-QOkt9g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Stayed in room 431, which was a fun experience...  interesting hotel with a very historic vibe.   The restaurant room is stunning.  Would stay here again of came back to Stockholm",
+            "time": 1729453603,
+            "translated": false
+        },
+        {
+            "author_name": "Guillermo Aguirre",
+            "author_url": "https://www.google.com/maps/contrib/100070202540622617487/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDGLackDXfSOwVqy9ZQxlfgdymxmxDW2rx1FnFvbJXKFlvc3yB=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Berns Hotel was a bit of a disappointment for us. While the pictures on their website showcase a grand entrance, a spacious hall, and a beautiful park, the reality is quite different. The entrance you see in the images is actually for the Asiastika restaurant, which is fantastic, and the nightclub. The hotel entrance is located on a small street and looks rather ordinary.\n\nOur room was decent, but it had a definite 90s vibe. However, the bed was incredibly comfortable, which was a major plus. The breakfast served in the restaurant was good and satisfying.\n\nPrice-wise, Berns Hotel is reasonable, especially if you can catch a good deal. Overall, while the hotel has its positives, it falls short of the expectations set by its online presence.",
+            "time": 1727164966,
+            "translated": false
+        },
+        {
+            "author_name": "Leonardo Lanaro",
+            "author_url": "https://www.google.com/maps/contrib/115193326323878037469/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPd600vj5SV6UryJGTvixxV6oYlt0GRI33Y6F8iLEZK0XNQIwA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Nice staff.  The hotel has an impressively beautiful dining space for breakfast ( and breakfast itself is very good).   We had a recently renovated comfortable room which was spacious and nicely appointed.\nThe location was superb.",
+            "time": 1725068426,
+            "translated": false
+        },
+        {
+            "author_name": "Joonas Hiltunen",
+            "author_url": "https://www.google.com/maps/contrib/108994825267836194120/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFnQElEi6_bDHYVAzWXlpDoPze-nQaXC5CiqN85LMc0Zv4Dbj9=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Stayed for one night. The location is excellent, short walk to anywhere. The room was very nice and clean. The bed was excellent. The breakfast was tasty but seemed to be poorly organised as only one waiter was working. We had to wait 10 minutes for some clean plates, some of the foods and juices were not refilled and most tables were full of the plates left by the previous guests.",
+            "time": 1721042297,
+            "translated": false
+        },
+        {
+            "author_name": "TRVLR",
+            "author_url": "https://www.google.com/maps/contrib/100480613569552719233/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGLE4VJYyCM3xAE-mvblv45ZqVtefmLROqVbrzWVtkAV45nqlN=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I stayed here for some nights in February. The room was very small, but perfectly organized to make the most out of the space. I had great comfort there. Breakfast was incredible - great options, great service, great food.",
+            "time": 1725482571,
+            "translated": false
+        }
+    ]
+}

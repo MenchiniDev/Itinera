@@ -1,0 +1,66 @@
+{
+    "name": "Garden",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Ann Olegovna",
+            "author_url": "https://www.google.com/maps/contrib/105533762698952743176/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjH5nREbVzPf1ul2lqUyBsXrOkC-T-c9DNtxGnGkVKFIOU3Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Nice place, the waiters are cute. The burger was cooked for half an hour, as a result, the middle of the cutlet was absolutely raw minced meat. There was no time to swear, but I will not come a second time.",
+            "time": 1729341306,
+            "translated": false
+        },
+        {
+            "author_name": "Jovana Vukicevic",
+            "author_url": "https://www.google.com/maps/contrib/117324301268490247262/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_nyiS6gDL92NrFHDz6GvwpUGPoM8mVviLt2fFU5E8OupjZ3BB=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Perfection!\nEverything was delicious. The stuff is very polite and helpfull.\n\nOne of the best places in Podgorica! Definitely a recommendation!",
+            "time": 1728681197,
+            "translated": false
+        },
+        {
+            "author_name": "Goga Markovic",
+            "author_url": "https://www.google.com/maps/contrib/101137591437823088723/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpTBEvEfWhSR0NNs67vMwqyONkiksI4_-qgaOygfJCdGzfGG8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "They produce again very good food. I loved coming here in the past, but then at one point their quality dropped.\nHappy to see they are back to pathetic previous again. Nice food and good service.",
+            "time": 1680281227,
+            "translated": false
+        },
+        {
+            "author_name": "Jean-ali Jiwan",
+            "author_url": "https://www.google.com/maps/contrib/103701255404603252281/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4XsMJ16VmtgwDwZ9oySVFH3hX4Zo18qYEj-EezQf6G-5PiwViJA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Super ! Great ambience, great service and amazing food. I had the seafood spaghettis in red sauce and I will remember it - Balanced & cooked to perfection. Two of us ate for €25. I will come back👌",
+            "time": 1642021780,
+            "translated": false
+        },
+        {
+            "author_name": "алексей мишин",
+            "author_url": "https://www.google.com/maps/contrib/110802194656791492401/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEw83A6PBfFTL0mCx_ogH_i4ZL8wNL7vDYYTwIxpqLnNR_Z4Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Very nice place!\nFood was good\nFriendly and attentive stuff ⭐️\nDesign&atmosphere ⭐️",
+            "time": 1705763660,
+            "translated": false
+        }
+    ]
+}

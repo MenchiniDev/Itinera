@@ -1,0 +1,1072 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.2061745,
+                "lng": 16.3712666
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2075973302915,
+                    "lng": 16.3724632802915
+                },
+                "southwest": {
+                    "lat": 48.2048993697085,
+                    "lng": 16.3697653197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Austria Trend Hotel Europa Wien",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 731,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103017435568656137924\">Austria Trend Hotel Europa Wien</a>"
+                ],
+                "photo_reference": "AdDdOWqqVGgkg8FGmM_rWd0IsLkAF4SIpefQ4Wr50a0QidGWleUzokqQl8cTBUomB8UeTprd_yws20xfWQz4YVwg5m5pR2RuAh_oxu_gY6LQ7dhqS_lqq4ikPuS0CWuciBlN97lwD9BbG_kYfMrQyVVByD7HqUsruTBXnf_xq5U1iMDlOirf",
+                "width": 1019
+            }
+        ],
+        "place_id": "ChIJP6fHu54HbUcR-q_daZOu-ew",
+        "plus_code": {
+            "compound_code": "694C+FG Vienna, Austria",
+            "global_code": "8FWR694C+FG"
+        },
+        "rating": 4.4,
+        "reference": "ChIJP6fHu54HbUcR-q_daZOu-ew",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1590,
+        "vicinity": "Kärntner Straße 18 Eingang, Neuer Markt 3, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.19952019999999,
+                "lng": 16.3388325
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2009064302915,
+                    "lng": 16.3400457802915
+                },
+                "southwest": {
+                    "lat": 48.1982084697085,
+                    "lng": 16.33734781970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Flemings Hotel Wien-Stadthalle",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5725,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103309307168016247287\">Flemings Hotel Wien-Stadthalle (former Flemings Conference Wien)</a>"
+                ],
+                "photo_reference": "AdDdOWouwp3CvPkjtdz9Y6SrWJuioCqtiVhMrItqGm3ED57Y71Gii9UBIXgj71CoiR227rmsorarukaSR6bg2cxGc_NFZM0RpjqOlZsHJ3MgSyMWTkDgQJye_S5nEMzwAqCMStK_wrSR1NbRvvtSKZewIByuDKavkKAeofnAJHAqD6rOy4xi",
+                "width": 3794
+            }
+        ],
+        "place_id": "ChIJfx32C_QHbUcRw-mgYyIHkRA",
+        "plus_code": {
+            "compound_code": "58XQ+RG Vienna, Austria",
+            "global_code": "8FWR58XQ+RG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJfx32C_QHbUcRw-mgYyIHkRA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2154,
+        "vicinity": "Neubaugürtel 26-28, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.19921710000001,
+                "lng": 16.333811
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2005355802915,
+                    "lng": 16.3350683802915
+                },
+                "southwest": {
+                    "lat": 48.1978376197085,
+                    "lng": 16.3323704197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Boutiquehotel Stadthalle",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1335,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103344120005756130415\">Boutiquehotel Stadthalle</a>"
+                ],
+                "photo_reference": "AdDdOWqfHpCytkons3H5HMlqhZpJMmVQDjmuyNqawFy5IhwzgpGdMBE5TYpqYvXfXjEcfxV8naR_fLY9f3Th52xQmdNS6ZI_DQdMZyi2SBOtlN2IRGO7icRdKt8cOjwrT_Hk41CNxOX3DzvO5X1xxDTTF8sOF8C4ojBMZRqwaJZNvky2DC4k",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJ19Vm4PYHbUcRr75G5Sm2HrI",
+        "plus_code": {
+            "compound_code": "58XM+MG Vienna, Austria",
+            "global_code": "8FWR58XM+MG"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ19Vm4PYHbUcRr75G5Sm2HrI",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1115,
+        "vicinity": "Hackengasse 20, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.2044655,
+                "lng": 16.3702399
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.20591218029149,
+                    "lng": 16.3716981302915
+                },
+                "southwest": {
+                    "lat": 48.2032142197085,
+                    "lng": 16.3690001697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Astoria Wien",
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100532881846056065513\">Hotel Astoria Wien</a>"
+                ],
+                "photo_reference": "AdDdOWq8Oi1S5k1hT-4sphYDEu2NBWChEPE91iJUpwTgejw1WrLZ8cgp4-fHSXO8PXzZWUn_BPOlGOGzv2xcqjUA2pdbGSVWkSDBjautsCubzR9U_-bxerXcwb1yADxyOruHLFf8oL8vMCmphimbBZDJTek-lhn0kjQZ0NDx2bxZs5-OEbbC",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJV7u6FpwHbUcRKQu5bNfmpJc",
+        "plus_code": {
+            "compound_code": "693C+Q3 Vienna, Austria",
+            "global_code": "8FWR693C+Q3"
+        },
+        "rating": 4.3,
+        "reference": "ChIJV7u6FpwHbUcRKQu5bNfmpJc",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 745,
+        "vicinity": "Eingang Führichgasse1, Kärntner Straße 32, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1952393,
+                "lng": 16.3675925
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1965479802915,
+                    "lng": 16.3689390802915
+                },
+                "southwest": {
+                    "lat": 48.1938500197085,
+                    "lng": 16.36624111970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Schick Hotel Erzherzog Rainer",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118131357983488603895\">Schick Hotel Erzherzog Rainer</a>"
+                ],
+                "photo_reference": "AdDdOWrvnsyI0w3MsAOh_QHmuGDm6KGTYfPJFpuP2HyOCrocK-Ho493IbQ9hyBaEhg4vednMdgBt83sj6nZSSKbJQhFMjRCC-xm2LpRvz80aE1nCjVQiGyin2eBomHLsbj_xKsEGES9t4KS2y2rEWt1utaa2zJvj4MdwlOgG18P4hfsdiN9q",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ0_0DgoEHbUcRpwgK5KTdOJg",
+        "plus_code": {
+            "compound_code": "59W9+32 Vienna, Austria",
+            "global_code": "8FWR59W9+32"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ0_0DgoEHbUcRpwgK5KTdOJg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 943,
+        "vicinity": "Wiedner Hauptstraße 27-29, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.2159089,
+                "lng": 16.4051164
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.21746968029149,
+                    "lng": 16.4062870802915
+                },
+                "southwest": {
+                    "lat": 48.21477171970849,
+                    "lng": 16.4035891197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "BASSENA Wien Messe Prater",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3648,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115903408946818307178\">BASSENA Wien Messe Prater</a>"
+                ],
+                "photo_reference": "AdDdOWpfknhjYDgkIkx5mf7xXfHdx445yRLKx0Gs0KVTC65zyTW2Fk1GUupg9LrXEsCvTgTTMQq0LK3z6he5tVk-ETS4qr1Kx5TztWscr-KguAtBt6iQRH1B-wloKgsSRFcvHYunH8_VfzxUOK0oG4vyB8nlty7tFo38h6L7NyCDN5ug4bWL",
+                "width": 5472
+            }
+        ],
+        "place_id": "ChIJOSLW_RkHbUcRrF3FmkQ3ub4",
+        "plus_code": {
+            "compound_code": "6C84+92 Vienna, Austria",
+            "global_code": "8FWR6C84+92"
+        },
+        "rating": 4.5,
+        "reference": "ChIJOSLW_RkHbUcRrF3FmkQ3ub4",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2795,
+        "vicinity": "Messestraße 2, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1858243,
+                "lng": 16.4044109
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.18711293029151,
+                    "lng": 16.4054511802915
+                },
+                "southwest": {
+                    "lat": 48.18441496970851,
+                    "lng": 16.4027532197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Austria Trend Hotel Doppio",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 544,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116766832704318135379\">Austria Trend Hotel Doppio</a>"
+                ],
+                "photo_reference": "AdDdOWpkdfrkQDXjODVp6M-EtJQTdpszEq0Cqhdfp5bFmLyOWcUcd28Qkp7udqnotJOw9Jpy-cKWzmdTyP0ehMKHVMKuQTogUz6hrWobH2-eK5Bssbi4zLYduZCpqY-UGC4dCyIzwLVJJlc70TPJdyvw2Qxl15hgvM1whfaHJtXLCj55mbp7",
+                "width": 1020
+            }
+        ],
+        "place_id": "ChIJw-drEJ8HbUcRikFDobh2cko",
+        "plus_code": {
+            "compound_code": "5CP3+8Q Vienna, Austria",
+            "global_code": "8FWR5CP3+8Q"
+        },
+        "rating": 4.4,
+        "reference": "ChIJw-drEJ8HbUcRikFDobh2cko",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1984,
+        "vicinity": "Rennweg 97, Rinnböckstraße 1/99, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.2143838,
+                "lng": 16.3802281
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.21574813029149,
+                    "lng": 16.3815021302915
+                },
+                "southwest": {
+                    "lat": 48.2130501697085,
+                    "lng": 16.3788041697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Stefanie",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2899,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100369702338106067691\">Schick Hotel Stefanie</a>"
+                ],
+                "photo_reference": "AdDdOWpBK2ARLHI5MeuT9f31AeI6LCBUVCXAMl-Mg1D6MswLXyFxJdY3sbamCY5iSQI3V-3bGYPhmm-2vrJAtGs735DmXc8h_0z_gdm4aVvb-yJT4ANkpbMMjr6_ptYErnQVbqqxDMPUlZTobYtoUKYLKf95sdFhvKExFm-sYMQ3B7u7CZNB",
+                "width": 3880
+            }
+        ],
+        "place_id": "ChIJu_aYNacHbUcRkochZc5VHSY",
+        "plus_code": {
+            "compound_code": "697J+Q3 Vienna, Austria",
+            "global_code": "8FWR697J+Q3"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJu_aYNacHbUcRkochZc5VHSY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1516,
+        "vicinity": "Taborstraße 12, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.2121475,
+                "lng": 16.368097
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2135560802915,
+                    "lng": 16.36936033029151
+                },
+                "southwest": {
+                    "lat": 48.2108581197085,
+                    "lng": 16.3666623697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Das Tigra",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2739,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106314782741219981047\">Boutique Hotel Das Tigra</a>"
+                ],
+                "photo_reference": "AdDdOWrHzKHaQ585mrDIfQJE48dCbmajnQ8Fb6_AM9rxHxfwR27xIAeZ6Bg5yYKvivwDgko6XNMh60KhTNx5kQsuWshwbvkqkCj5iYsJaRYy_GtkOb6oacWBtJmTPmrWLWJPxJshzh0CQSwywgE7_1EdlFkSqu3__1O-TmJfJKZ6XsgP4S2G",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJRbzYwaIHbUcRyLpGz3xuxAo",
+        "plus_code": {
+            "compound_code": "6969+V6 Vienna, Austria",
+            "global_code": "8FWR6969+V6"
+        },
+        "rating": 4.6,
+        "reference": "ChIJRbzYwaIHbUcRyLpGz3xuxAo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1080,
+        "vicinity": "Tiefer Graben 14-20, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.2008384,
+                "lng": 16.346127
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2021657302915,
+                    "lng": 16.3473951802915
+                },
+                "southwest": {
+                    "lat": 48.19946776970851,
+                    "lng": 16.3446972197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel am Brillantengrund",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2048,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117116607096943524633\">Hotel am Brillantengrund</a>"
+                ],
+                "photo_reference": "AdDdOWoFGGQZnyGb_kiyBSvuVMIPoQxNuwbKy_IUzr5d9dWcvcI6_mf5wu645lgdawkBmDiO7koJmUEXTf99Sv3clyQX1NNPkvwBA3bA8Gu7pkHNJdCjEjb_UY86UTuMs-DLezBEbJGyvkMIp-51pWTeMfKFBA1_ATxtv4NKx151IjHLIKS8",
+                "width": 3089
+            }
+        ],
+        "place_id": "ChIJaWZm0IwHbUcRINBgCDvxjlQ",
+        "plus_code": {
+            "compound_code": "682W+8F Vienna, Austria",
+            "global_code": "8FWR682W+8F"
+        },
+        "rating": 4.5,
+        "reference": "ChIJaWZm0IwHbUcRINBgCDvxjlQ",
+        "scope": "GOOGLE",
+        "types": [
+            "art_gallery",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 758,
+        "vicinity": "Bandgasse 4, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.215,
+                "lng": 16.3402778
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2163451302915,
+                    "lng": 16.3416930302915
+                },
+                "southwest": {
+                    "lat": 48.2136471697085,
+                    "lng": 16.3389950697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "BoutiqueHOTEL Donauwalzer",
+        "photos": [
+            {
+                "height": 3210,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114563749977037267908\">BoutiqueHOTEL Donauwalzer</a>"
+                ],
+                "photo_reference": "AdDdOWqwWUmV1V_PpajzCUuRtziUrPcdPqRPhmIareo_ZB3U7yYZXpdSJ9HFiKRUgUYCXzaUrznCaAWH6OdigRzfdZdu2jRWqwzSOvgwloSB6d2xk1uQsUuHnj_0xL0UXzGYPNeyoNBUyxPrYyYaP4Qgk8zPNGelsdIsmxhCsxKkUAOVuAeB",
+                "width": 4200
+            }
+        ],
+        "place_id": "ChIJRdYEqMIHbUcR0OlE4vMRpBk",
+        "plus_code": {
+            "compound_code": "688R+24 Vienna, Austria",
+            "global_code": "8FWR688R+24"
+        },
+        "rating": 4.5,
+        "reference": "ChIJRdYEqMIHbUcR0OlE4vMRpBk",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1691,
+        "vicinity": "Hernalser Gürtel 27, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1872621,
+                "lng": 16.3396939
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1886797302915,
+                    "lng": 16.3410486302915
+                },
+                "southwest": {
+                    "lat": 48.1859817697085,
+                    "lng": 16.3383506697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Fabrik",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1125,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113962684751253464957\">Hotel Fabrik Wien</a>"
+                ],
+                "photo_reference": "AdDdOWqCA9Y-G0jJs5Ilg-ZwaaCIP2u5q_2bjRuYj4NlL-yVlbE1AzSOnxMM_EhQuvnPGub5z8DbKFk7qa-CRh5qRrK2-Y8JZwfLZEhR6UyFR84qm78tB7VFP0xCS6UkpGWmY4gn8c5jBgsM-8uVIT1YZlzJJIAfGAdbaWvNJXmg9Lt1vuMC",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJU6R5WyKobUcR2cnnJOBtOy4",
+        "plus_code": {
+            "compound_code": "58PQ+WV Vienna, Austria",
+            "global_code": "8FWR58PQ+WV"
+        },
+        "rating": 4.6,
+        "reference": "ChIJU6R5WyKobUcR2cnnJOBtOy4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 398,
+        "vicinity": "Gaudenzdorfer Gürtel 73, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.2047201,
+                "lng": 16.35652469999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2059800302915,
+                    "lng": 16.3579548302915
+                },
+                "southwest": {
+                    "lat": 48.2032820697085,
+                    "lng": 16.35525686970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Sans Souci Wien",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3744,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109831947197017140428\">Hotel Sans Souci Wien</a>"
+                ],
+                "photo_reference": "AdDdOWokqicFJ7MoxUTH6YpysoDbgr7RV2KVBX6aUQEwCw1lhlVgouvgf9DIqL5qILvOEdwc8poDvW34s1OsKPCXzn92BQoC3CjcjZbfk2e4mv6WTxwfeyTxCcoswFNT54G5RVueDoy8nDgI6pWdj9FGoN4cBRA_dIChtjcEaRhHhA86UPzT",
+                "width": 5604
+            }
+        ],
+        "place_id": "ChIJ8_JZQZAHbUcRfOCRCB4Q_n4",
+        "plus_code": {
+            "compound_code": "6934+VJ Vienna, Austria",
+            "global_code": "8FWR6934+VJ"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ8_JZQZAHbUcRfOCRCB4Q_n4",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1026,
+        "vicinity": "Burggasse 2, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1949899,
+                "lng": 16.3844858
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1962206802915,
+                    "lng": 16.3856279302915
+                },
+                "southwest": {
+                    "lat": 48.1935227197085,
+                    "lng": 16.3829299697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Austria Trend Hotel Savoyen Vienna",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 730,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113649770703368211119\">Austria Trend Hotel Savoyen Vienna</a>"
+                ],
+                "photo_reference": "AdDdOWp9Xp21k-RZbqHSwTLvxUMKcMMLLAiak9UmzeI6kvwExkLGcMYPFtsyEbxJsMMq6pjYjHsNBZURAAObXPf85FHIhaIA8QFTjZnqd0Gn5Ud9E32u-OXMFJYVCwZwjodGDRfAmaN8pdXDaEcaNGjOBrUx5HVhPlkw6U-ZBN2JVRp_eZOX",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJz7XQMXsHbUcRygzEsoO8Sbw",
+        "plus_code": {
+            "compound_code": "59VM+XQ Vienna, Austria",
+            "global_code": "8FWR59VM+XQ"
+        },
+        "rating": 4.5,
+        "reference": "ChIJz7XQMXsHbUcRygzEsoO8Sbw",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2409,
+        "vicinity": "Rennweg 16, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1945687,
+                "lng": 16.3462532
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1958674302915,
+                    "lng": 16.3475785802915
+                },
+                "southwest": {
+                    "lat": 48.1931694697085,
+                    "lng": 16.34488061970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Austria Trend Hotel Anatol",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117739866252475204155\">Austria Trend Hotel Anatol</a>"
+                ],
+                "photo_reference": "AdDdOWpQ68GekMcwmgJ4kRnhpALMngKoYpa6JcnfurAbcf1Gfu3qLkjBcLuyZssil-pyKevaspc-WQBdyxMx3DPKFGTSRvQVj5iMiAWV8DCf8q2quGcKBAbMjbUKwUSCXp1VByA-E8lc7xKrTeJm1ARzvoMXC3w2WVwYNgGd5HpC95xbxT3q",
+                "width": 1197
+            }
+        ],
+        "place_id": "ChIJfxuFaIoHbUcRlmS5GH194AA",
+        "plus_code": {
+            "compound_code": "58VW+RG Vienna, Austria",
+            "global_code": "8FWR58VW+RG"
+        },
+        "rating": 4.4,
+        "reference": "ChIJfxuFaIoHbUcRlmS5GH194AA",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 895,
+        "vicinity": "Webgasse 26, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1888148,
+                "lng": 16.3837793
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1900151802915,
+                    "lng": 16.3851377302915
+                },
+                "southwest": {
+                    "lat": 48.1873172197085,
+                    "lng": 16.3824397697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Daniel Vienna",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3810,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114296229584927016602\">Hotel Daniel Vienna</a>"
+                ],
+                "photo_reference": "AdDdOWp3P89gekvUGAR9HCkegOIn2d3QhlaeArteJZurZzqw7RX7MxfZq0pj76PqAxsG7HNP1urC5m_5KXabfJzmQumg43eOWpg_fm7Np5DP38zc2Np6WgtqAonHoI0P4K1_LL3Pls_xYhiW9GywEZW25jWKblUM-AdyxsqoKv8HKdGfDh5a",
+                "width": 5726
+            }
+        ],
+        "place_id": "ChIJN-6bkGIHbUcR1bzed_FxFq0",
+        "plus_code": {
+            "compound_code": "59QM+GG Vienna, Austria",
+            "global_code": "8FWR59QM+GG"
+        },
+        "rating": 4.2,
+        "reference": "ChIJN-6bkGIHbUcR1bzed_FxFq0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1735,
+        "vicinity": "Landstraßer Gürtel 5, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.20940179999999,
+                "lng": 16.3534456
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2106946302915,
+                    "lng": 16.3547869802915
+                },
+                "southwest": {
+                    "lat": 48.2079966697085,
+                    "lng": 16.3520890197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Flemings Selection Hotel Wien-City",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5177,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116753137320506664747\">Flemings Selection Hotel Wien-City</a>"
+                ],
+                "photo_reference": "AdDdOWou7PZcdd_YRJzbX62k4fe1ekFrMuF3grrjna0IbjmA05xXpQTjLDz6oTCB_sdOER9uJk7sOL8CShRR8upRsiUvmDkWBUTce82YmOOKdiK3Lf1AFqdAkJFQcXPO5Uepn8apsa-ii1TtGqCXvQliw0u_-y8ti_MOwnP4etnPNUPjP8AC",
+                "width": 3632
+            }
+        ],
+        "place_id": "ChIJY_BO9JQHbUcRHxnHgS5GUeA",
+        "plus_code": {
+            "compound_code": "6953+Q9 Vienna, Austria",
+            "global_code": "8FWR6953+Q9"
+        },
+        "rating": 4.5,
+        "reference": "ChIJY_BO9JQHbUcRHxnHgS5GUeA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2228,
+        "vicinity": "Josefstädter Straße 10-12, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.18226740000001,
+                "lng": 16.3782597
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1835695802915,
+                    "lng": 16.3795703802915
+                },
+                "southwest": {
+                    "lat": 48.1808716197085,
+                    "lng": 16.3768724197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Zeitgeist Vienna Hauptbahnhof",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2587,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114056084758690468992\">Hotel Zeitgeist Vienna Hauptbahnhof</a>"
+                ],
+                "photo_reference": "AdDdOWpmTnrlL4i_oYjZL8R5AEWvRpQpsdWjlOly2fB5F3zk3CM2fy9Zdbc35-KSm-a2A16KxYzn-dUyYrninAcNv-JSdFQv_Y6mwRXRx8LMNN8LVIFSXWfPlagIitCNC2wuGUfFX3qxr1Rc9SnVuLl051d5JdzHcnGV5KknCxU20u5W2Ltf",
+                "width": 3880
+            }
+        ],
+        "place_id": "ChIJJ43ldNqpbUcR4BZncgkVViU",
+        "plus_code": {
+            "compound_code": "59JH+W8 Vienna, Austria",
+            "global_code": "8FWR59JH+W8"
+        },
+        "rating": 4.5,
+        "reference": "ChIJJ43ldNqpbUcR4BZncgkVViU",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "cafe",
+            "spa",
+            "parking",
+            "bar",
+            "lodging",
+            "health",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2539,
+        "vicinity": "Sonnwendgasse 15, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.2057193,
+                "lng": 16.3710878
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.20676768029149,
+                    "lng": 16.3728339302915
+                },
+                "southwest": {
+                    "lat": 48.20406971970849,
+                    "lng": 16.3701359697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Ambassador Wien",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2812,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114036602586458741096\">Ziad Semaan</a>"
+                ],
+                "photo_reference": "AdDdOWqhSmt7CQ7n98DLxy4UI1cHPeXID1pzdYC96zxvQDpGHfX4QsjsQq1f-i2_CLafDVoRmi0XEpbudZU71m1HGhNQSfIEnqO8YNuTGbJUpg9UTZqvOgq6nCYuG4gTXIXxRHj5w_PWPN2B2suCa3RmE6w4Oq_NBcNHWCn602ShnECMnlfC",
+                "width": 3889
+            }
+        ],
+        "place_id": "ChIJQTttpJ4HbUcRE1uDIFOEFLU",
+        "plus_code": {
+            "compound_code": "694C+7C Vienna, Austria",
+            "global_code": "8FWR694C+7C"
+        },
+        "rating": 4.1,
+        "reference": "ChIJQTttpJ4HbUcRE1uDIFOEFLU",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 899,
+        "vicinity": "Kärntner Straße 22, Wien"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.208367,
+                "lng": 16.3718471
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.2095942802915,
+                    "lng": 16.3730975302915
+                },
+                "southwest": {
+                    "lat": 48.2068963197085,
+                    "lng": 16.3703995697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Do&Co Hotel Vienna",
+        "photos": [
+            {
+                "height": 684,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103865148146130526744\">DO &amp; CO Hotel Vienna</a>"
+                ],
+                "photo_reference": "AdDdOWrsAEv4ozQbF7yjAKizpUrzlWBBclTqo6XAhvodkqrkKfhjF7_kk-3xsKbZjtOvBF1w_3e42qAzk2q8rqNqLNzKN_3XSI3iwxYcFoeonJ96WewBfv5S466fAWzde7IHRh5oTXbaoQ3OpXnOqhUswLOjJrWqinrn5DDDdtEEJWrxr3IV",
+                "width": 510
+            }
+        ],
+        "place_id": "ChIJMQdQLJ8HbUcRlLQ78418bzk",
+        "plus_code": {
+            "compound_code": "695C+8P Vienna, Austria",
+            "global_code": "8FWR695C+8P"
+        },
+        "rating": 4.3,
+        "reference": "ChIJMQdQLJ8HbUcRlLQ78418bzk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 570,
+        "vicinity": "Stephansplatz 12, Wien"
+    }
+]

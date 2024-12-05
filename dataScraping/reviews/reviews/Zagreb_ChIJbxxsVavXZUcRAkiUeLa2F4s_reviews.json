@@ -1,0 +1,66 @@
+{
+    "name": "Restoran ZLATNA ŠKOLJKA",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Amalia S",
+            "author_url": "https://www.google.com/maps/contrib/108566630529178450387/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7miu7Vd1QG5dhGnarih20KAzHV6OYw9oCpzWRs-tx-upB_5Oc=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Excellent service from a really kind and excellent server from Dubrovnik! Menu was a bit confusing and we didn’t like that it’s just one tablet because it was difficult sharing between three people. And some things in it were not explained too well. Food was excellent, wine was lovely, bread was great and the patio was very nice. Looking forward to going there again.",
+            "time": 1722463806,
+            "translated": false
+        },
+        {
+            "author_name": "Jazz B",
+            "author_url": "https://www.google.com/maps/contrib/114245171049913708823/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL11t4wg3ssZxc15RDy1ltmYemcQj27ujAmINN6mQyu0RMC3A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Cosy atmosphere, professional and polite staff and tasty but affordable food. Love the place.",
+            "time": 1731702839,
+            "translated": false
+        },
+        {
+            "author_name": "Klara Pensopositivo",
+            "author_url": "https://www.google.com/maps/contrib/100615986361048199983/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZ_OtxGRJK0hV-7T3I3b-NVS54Vc9DakYrLae1YOdQRIHRROhdBw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great delicious food, very professional waiters, nice, and clean ambient. Saturday lunch locals are here. Gavuni, small fish are my favourite here as well as carpacio with tuna fish.  Healthy and good.",
+            "time": 1693657912,
+            "translated": false
+        },
+        {
+            "author_name": "Hans de Raad",
+            "author_url": "https://www.google.com/maps/contrib/111779777074583634327/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAbgsYipwvLxkU3EROgw10Mzi4aWlwSsBtfMc9dPP_kOtA7IV14w=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Recently fully renovated, new owner, still very friendly service and good food. We'll surely keep coming back here!\n\nExcellent downtown neighborhood restaurant a little out of the center, great value for money for a nice inbetween lunch or dinner. Consistently good after multiple visits!",
+            "time": 1679658394,
+            "translated": false
+        },
+        {
+            "author_name": "Vedran",
+            "author_url": "https://www.google.com/maps/contrib/102128091506249990403/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2oYG3Ll40xjFzcgKyeMDMHmLbGvc_KQeRKiWT03aatduMv_Q=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Simple but well prepared and tasty dishes, mostly seafood. Helpful staff and cozy, welcoming atmosphere. Prices very reasonable. Recommendation for great tuna steak and also house wine plavac Zagalo - amazing value for money. Will be coming back for sure.",
+            "time": 1639253834,
+            "translated": false
+        }
+    ]
+}

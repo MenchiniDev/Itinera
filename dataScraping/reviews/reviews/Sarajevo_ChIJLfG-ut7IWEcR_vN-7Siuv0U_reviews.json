@@ -1,0 +1,66 @@
+{
+    "name": "Piccolo Mondo",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "hania daaboul",
+            "author_url": "https://www.google.com/maps/contrib/100979130495145546710/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQa8NWbYsOBdoHhTx2i-DSDGlyXV65A1FtkVJsxdPzsebGoIfdxA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Exceptional service! We had an amazing time here. The food was very tasty, and the servers were very friendly. The place is nicely decorated with a great atmosphere. I highly recommend it to everyone. It's also kid-friendly.",
+            "time": 1724601806,
+            "translated": false
+        },
+        {
+            "author_name": "Mirnesa",
+            "author_url": "https://www.google.com/maps/contrib/100543941890261225056/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRsK9rs1QjQKuM-57icS6GqWwfsE-hv-RXvpu2t7Mo5mEs2g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "One of the best places in Sarajevo to eat pizza. They serve it with 3 different sauces aside. Also, it would be nice if they invest more in interior design, especially garden and toilet, because it's really old.",
+            "time": 1703069390,
+            "translated": false
+        },
+        {
+            "author_name": "Selen Yilmaz",
+            "author_url": "https://www.google.com/maps/contrib/108349706864369773264/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW095ualRWkDqpC7jmt3C0d7LTVDRJf9GEBSy-Pzj__Px_OgpHrlQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Located in Center Sarajevo ..very delicious food..usually all tables are full .. better to book before .. regular price ..restaurant has non smoking area .. smoking is very common in the city so it's very easy to find.\nEasy Parking lot",
+            "time": 1700198810,
+            "translated": false
+        },
+        {
+            "author_name": "Moayad Nashar",
+            "author_url": "https://www.google.com/maps/contrib/116335505114530462013/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdXuyLwBR-TRFkJJAokFeQpRPPxmFbjSkf_rL6AO1ialLaKQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "3 weeks ago",
+            "text": "Friendly staff, and nice atmosphere.\nTomato soup was great. Other than that all food is subpar. Pizza more or less like the frozen one, while Lasagna was the worst.\nPositive reviews about food are one of the city's mysteries!",
+            "time": 1731187028,
+            "translated": false
+        },
+        {
+            "author_name": "Adis Herak",
+            "author_url": "https://www.google.com/maps/contrib/108602749219724733602/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWB0rokHDDIc57bIL20aMiF9kw6cENUmC4jxkJ8rWPPV7SBN6zLg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great place , the best pizza 🍕 in town. High quality 👌",
+            "time": 1722370735,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Classic Hotel Tirana",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Jakub Kwiatek",
+            "author_url": "https://www.google.com/maps/contrib/112999139307794949305/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8i4nUwmmGNeRlQPCa-3u7U8VtIfv0T9qeTXCX9CVVupQHKg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Good hotel, well maintained, excellent service - we parked our car without any problems despite the lack of space, breakfast was prepared especially for us in advance. Can be recommended.",
+            "time": 1727503625,
+            "translated": false
+        },
+        {
+            "author_name": "Frenk Gjoca",
+            "author_url": "https://www.google.com/maps/contrib/102259780174175012895/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb3SoEgOOXBcVr1DCDfbmYrPAu9HSYxymXUQpa9T9NnnHsp40=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Cozy,clean,organized and very well managed. The staff is amazing. Waiters,cooks bartenders and the front desk girls were all amazing. The room we stayed in was lovely, cozy and super clean. Great free breakfast buffet is another beautiful thing. The restaurant was open until 11pm and the menu was incredible. Fantastic chef! I was there with my family and we stayed for 13 days. Everything you need is around the area. 15 min walk and you are right downtown of Tirana. We are very very satisfied with our stay at the Classic Hotel in Tirana and we will be back soon. Five stars baby....",
+            "time": 1639836094,
+            "translated": false
+        },
+        {
+            "author_name": "Alketa Begu",
+            "author_url": "https://www.google.com/maps/contrib/107904648847140819003/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxBnCojh7kOSI_4G0LssDdCdwjxmREflMfVQofp7RohWmUJhy0=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The location is the best thing for the people. The rooms are very nice and quite.\nThe service is so fast and efficient.\nI like this hotel, we always organise conferences here .",
+            "time": 1698983433,
+            "translated": false
+        },
+        {
+            "author_name": "Nancy Claxton",
+            "author_url": "https://www.google.com/maps/contrib/108897078040596727542/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOAKpPGJWCs6GaArExmHkLxtoWyEBx3fVgi9lkZALo8lZfNLB0Xg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "The staff at this little hotel are phenomenal in every way. The amazing young women running the front desk helped me locate a lost passport, get additional lighting in my room, quickly sorted a malfunctioning ac unit, organized taxis, meals, even a manicure. The whole team is gracious and hospitable in every way. Just wonderful.",
+            "time": 1634381168,
+            "translated": false
+        },
+        {
+            "author_name": "Orshina",
+            "author_url": "https://www.google.com/maps/contrib/100032679021473327715/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsHqSqDjC5ycb9cKtQDdr9X_qARrmv5TAAUUyN7locbHZSBA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A great hotel in Tirana. We are so satisfied with everything. The staff is very kind and helpful, especially Jessie, Ledi and Visi. They helped us with everything! It's also clean, peaceful and is centrally located in town.",
+            "time": 1681161919,
+            "translated": false
+        }
+    ]
+}

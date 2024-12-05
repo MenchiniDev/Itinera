@@ -1,0 +1,66 @@
+{
+    "name": "Baltazar Ristorante & Enoteca",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Yihsuan Lu",
+            "author_url": "https://www.google.com/maps/contrib/110845311098889873143/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXiYGIWoRL54LH47ZExfw5iRKBCninMeX62ZJ44oDgvP3yVNdB=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Good dinner and the place is hiding behind a church. Pizza is a little salty but good, the elk pasta is an average to me. A you can visit when you are around to me.",
+            "time": 1732378790,
+            "translated": false
+        },
+        {
+            "author_name": "Anastasia An",
+            "author_url": "https://www.google.com/maps/contrib/113368431136114477046/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV42CcBx2QMxDBSQnX_hUFaBJxjCkQ4qJR-nsJbW5LVVJwEpkmb=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Very nice place tucked away in the courtyard of the Dome, with a cosy summer terrace. It serves Italian cuisine and Italian wines, quite good quality.",
+            "time": 1723320849,
+            "translated": false
+        },
+        {
+            "author_name": "Katerina Dima",
+            "author_url": "https://www.google.com/maps/contrib/107474382293748749058/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3cYchsoDPliJxXmAYbQcWBJr56kyXxP8_VFJ_96lXYzfa_A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "The good : Nice atmosphere, good service , good beer and good pizza in a good portion. Not the best pizza I have had, but quite nice.\nThe bad : I ordered the alle vongole pasta that very clearly says that has vongole shells . I hope the restaurant isn't doing this on purpose but I did not get vongole. I got cockles ( hjerteskjell) . And since there is no cockles pasta I am assuming they are passing the cockles for vongole. Not cool. Cockles are cheeper to buy and much much smaller than vongole, plus for the people that know, they do taste differently as well. You wouldn't want to order cod and get pollock right? The pasta itself was also not good at all. It felt like it was precooked a few days ago and just warmed slightly when served. Also such small quantity of pasta. The flavour was there which is good though, but again cockles flavour not vongole. I am ok with eating cockles pasta but then I dont want to pay for vongole and get cockles. For a restaurant that is supposed to be authentic italian food, this was very disappointing.\nConclusion : Just skip the pasta and get pizza instead.",
+            "time": 1719556818,
+            "translated": false
+        },
+        {
+            "author_name": "bart scheermeijer",
+            "author_url": "https://www.google.com/maps/contrib/101072620311802260869/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDnru6LunEu88F36MUGBggF9bx8Hu_YQ6lbfVYbpmJMO9V2owSHQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Great Italian place in Oslo, just behind the old church away from all the noise of the city. Had a great salmon with risotto here.",
+            "time": 1717517448,
+            "translated": false
+        },
+        {
+            "author_name": "BRUNET Emelyne",
+            "author_url": "https://www.google.com/maps/contrib/111736402000200435504/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLXM0cLgBt2RkKDwLF7P43W2B0VETsVmM3BJJbNTy-k-bFvvIe=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Everything in this restaurant is worth going !\nThe atmosphere is so hygge, the interior design of the inside is well done with a good mix of material and modern / retro style.\nThe staff is super competent. Accessible, customer oriented, available.\nAnd the food … way over my expectations ! Pasta were cooked perfectly and the meet (deer) was so soft and tasty!\nWe asked for a side salad and they did it. Amazing experience. It was recommended by a colleague and my turn : I totally recommend it !!",
+            "time": 1673390596,
+            "translated": false
+        }
+    ]
+}

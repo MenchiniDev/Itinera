@@ -1,0 +1,66 @@
+{
+    "name": "Vega Hotel Sofia",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "P B",
+            "author_url": "https://www.google.com/maps/contrib/110501559036215780098/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXscSmPMSBcRz42HbNLThy9uPOifPqNRVNjrq-3kQ06qsbKkbJK9Q=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We booked in Vega because it’s near a lot of consulates (which was our reason of the trip), so it was very convenient! The breakfast was amazing, simple but very good! Enjoyed every bite. The room was very clean and spacious, had complementary teas and coffee. The view was beautiful! In general, simple but nice hotel!",
+            "time": 1728035291,
+            "translated": false
+        },
+        {
+            "author_name": "Pete K",
+            "author_url": "https://www.google.com/maps/contrib/118002095327230101239/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuYTVXc9CG2JkfYSyLH9J_3FLWAhRuCvgiGaHWW4F3525FpBQ7oQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "Hotel rooms are modern, nice and spacious, always seems to be someone at reception. Breakfast had your standard intercontinental foods. I was told you had to pay extra to enter the gym but that seemed a bit excessive. There's a metro station 10 minutes walk away so it's fairly well placed. Only issue was when leaving we asked reception to book a taxi and a van to which a small car turned up and had no ID and didn't handle card or had cash for change. Then proceeded to charge us 30 euro for something that for previous trips cost less than 20l felt like a scam. Other than that I can't really complain",
+            "time": 1726222326,
+            "translated": false
+        },
+        {
+            "author_name": "Barsan Marius Ulderich",
+            "author_url": "https://www.google.com/maps/contrib/107732990190095472427/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDDQchU3NaETRND-DmU7tSFW5zQyZRuyF_6BO8oeq0IbAT51o=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Excelent accomodation, especially the beds are very confortable.\nProfessional and friendly staff.\nGood food and fast cleaning.\nFelt like home and will return with the first occasion !",
+            "time": 1731834692,
+            "translated": false
+        },
+        {
+            "author_name": "Mete Atamel",
+            "author_url": "https://www.google.com/maps/contrib/100310232682932305516/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu_0kB8Vh5ADhitJjWiDNCeYwBx6gcG3MZKxM6D6lslleK6logvQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "If you want to pay 4* prices for a mediocre 2-3* hotel, this is it. To give you some details:\n\n-Breakfast was basic\n-The wifi in the room only worked near the door\n-The shower didn't drain properly. Asked to fix it but nobody bothered\n-The room didn't have an iron, asked for one, to their credit, I received the next morning\n-No bottled water in the room\n-Last but not least, the hotel is near a busy intersection and the windows are not sound proof, so if you have light sleep like me, you will have a hard time sleeping.",
+            "time": 1717325619,
+            "translated": false
+        },
+        {
+            "author_name": "Nikita Bogatyy",
+            "author_url": "https://www.google.com/maps/contrib/112708695874194988373/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNj67wLBzVIVh20biKJpq2Oh9TAB-zWmV27cci2_warLTgW-Oc=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Stylish and modern room, however our view from the room was to wall.\nThe parking is also Elevator based, so be careful with your car and it’s length.\nThe breakfast was tasty but mediocre in terms of the amount of food served.",
+            "time": 1686035094,
+            "translated": false
+        }
+    ]
+}

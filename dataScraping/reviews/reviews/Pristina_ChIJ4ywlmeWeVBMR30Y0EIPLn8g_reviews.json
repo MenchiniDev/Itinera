@@ -1,0 +1,66 @@
+{
+    "name": "Frame",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "skyflier552",
+            "author_url": "https://www.google.com/maps/contrib/101514567509787319056/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIF6lZodtP2NDJFlH1mOB95fs-noznJV3dz6vpYx8cbd5qHc7M=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "2 years ago",
+            "text": "STOP, don't be scammed!\nI read the good reviews and was looking forward to have a nice dinner there.\nI ordered scampi with potatoes and vegetables. Look, what I got for 12€...\nI had to go to another restaurant to get a\nproper dinner..\nThe two small potato halves were cold..\nAvoid this scam!",
+            "time": 1668925548,
+            "translated": false
+        },
+        {
+            "author_name": "Maximus Folly",
+            "author_url": "https://www.google.com/maps/contrib/115377488102511971618/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuZ-HMtoo9YEW2FDZALqjMTeWBPNwHnjZVHd4ayZznkDVGqg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The squid tastes like it was made from the gods, coffee is great and service super efficient and friendly.",
+            "time": 1725457634,
+            "translated": false
+        },
+        {
+            "author_name": "artan zhushi",
+            "author_url": "https://www.google.com/maps/contrib/101096229280363780975/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgemoT6wByMLGEPFWjJOOhyUTkkhsCJWVG7cJ8Je0dGWn1ut8k6Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Rich menu, very good quality of food, nice and polite staff!",
+            "time": 1663937558,
+            "translated": false
+        },
+        {
+            "author_name": "Egzone Syla",
+            "author_url": "https://www.google.com/maps/contrib/116164520126399529960/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1tsfDebRcga6YUGHhlXfDyYdMlySURSKv3s8XpiwaCEF3bQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "The waitresses are very rude and not at all professional",
+            "time": 1714389065,
+            "translated": false
+        },
+        {
+            "author_name": "Arta Sejdiu",
+            "author_url": "https://www.google.com/maps/contrib/108663501544668763097/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxhcjJa5pNxC5Fr0oFKll2-pBuTuO374iGi5SiWa4WUi8Q1s6ZAA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "4 years ago",
+            "text": "👍One of the coziest spots with colorful terrace and tasty food in Pejton neighborhood.\n👎The noise from the works in the alley can be disturbing throughout the Sping-Summer 2020.",
+            "time": 1592311728,
+            "translated": false
+        }
+    ]
+}

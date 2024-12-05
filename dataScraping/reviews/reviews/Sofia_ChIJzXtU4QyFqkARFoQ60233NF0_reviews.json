@@ -1,0 +1,66 @@
+{
+    "name": "Manastirska Magernitsa Restaurant",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "F P",
+            "author_url": "https://www.google.com/maps/contrib/115562351005412792857/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhiPlQhpnNuxJ8hZtYz3wS5Fncif2VN2WUI_mYUyMP3mUZOlc=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "It was a pleasant discovery. The dishes seemed inspired by monastery or countryside recipes, as far as I understood. I chose a vegetarian option that reminded me of a quiche, and it was quite good. The waiter was friendly, and the place had a cozy atmosphere. Although we hadn’t made a reservation and were seated in the smoking area, which wasn’t ideal, the overall experience remained enjoyable. They also propose prayers before and after dinner, adding a unique touch to the experience.",
+            "time": 1731568054,
+            "translated": false
+        },
+        {
+            "author_name": "Nada Sausan",
+            "author_url": "https://www.google.com/maps/contrib/117651597001415593761/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsJoMniVp5EZKCGQflfYMhzahnupfEYOY_TSSDqC74acotKQnT=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Wow, this is definitely a hidden gem in Sofia. The place is beautiful and super Instagrammable, it really feels like you're in a Bulgarian village with traditional Bulgarian decorations.\n\nWhen we arrived, it seemed like the restaurant was about to close since it was a public holiday, but they still served us and seated us in the VIP section, which made the dinner feel really warm and family-like with my friends who are Bulgarian and from the Czech Republic. We were given welcome Pita Bread and a few tasting drinks. The service was excellent, and the food prices matched the portion, presentation, and the restaurant's ambiance. I highly recommend this one!",
+            "time": 1725694352,
+            "translated": false
+        },
+        {
+            "author_name": "Linh Phan",
+            "author_url": "https://www.google.com/maps/contrib/113528383895347497123/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7sCQ8niZkZxySW5ppadIzPcs8NU-_2q8UKgjr4T2OArg0FfSs=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The restaurant is super cozy and carries the traditional Bulgarian vibe. The decor is rustic, which adds to the whole experience. The food is hearty and comforting and has many cuisine to offer. I would recommend a visit if you want a taste of Bulgaria!",
+            "time": 1728251786,
+            "translated": false
+        },
+        {
+            "author_name": "Daniel Chalfon",
+            "author_url": "https://www.google.com/maps/contrib/116989536840101048577/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVltAnjqOkTN4RmG3QbFd21yEiNsG5EbOlJMgffxhDicABgPu4z=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great traditional Bulgarian food in an old house that is almost a museum.\nGood selection of local wines.\nService is great, but slow, specially if you are on the top floor.\nBetter make a reservation",
+            "time": 1721537006,
+            "translated": false
+        },
+        {
+            "author_name": "debora anjos",
+            "author_url": "https://www.google.com/maps/contrib/108168502125489192516/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWf8-8GrzQ5syVWDA73FZDu3CS0yTqbjVcq5bMehmOPfsexAKnDhA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I highly recommend here for an exceptional Bulgarian dining experience. The traditional Bulgarian dishes were authentic and flavorful. The waiter was incredibly knowledgeable, providing insightful advice on the spices used in the dishes and where to purchase them. It was a comprehensive and immersive introduction to Bulgarian cuisine and culture. Don't miss it!",
+            "time": 1722144816,
+            "translated": false
+        }
+    ]
+}

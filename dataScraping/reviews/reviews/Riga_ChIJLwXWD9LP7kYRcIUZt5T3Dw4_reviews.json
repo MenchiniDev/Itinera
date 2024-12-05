@@ -1,0 +1,66 @@
+{
+    "name": "Whitehouse Restorāns",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Linda",
+            "author_url": "https://www.google.com/maps/contrib/108924731824637296422/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGZpg1qVvMh7GW1CRw7yl7wRSQSppRNw_DpokD2pR_3Mdlwg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We visited this restaurant during Riga Restaurant Week. The flavors and textures of the dishes were interesting and creative, and the presentation was top-notch. The only downside was that the steak was a bit overcooked and too hard.\nWe liked also the chef's compliments that were included with our meal, and the wine pairings served with each course truly enhanced the overall dining experience.",
+            "time": 1730629133,
+            "translated": false
+        },
+        {
+            "author_name": "Madeline Gregory",
+            "author_url": "https://www.google.com/maps/contrib/103081469751090944067/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaShx0ww6rJKQjzWlHMUhaRdwQYjGUnGwBVLWCvEXT8NZTxc0n=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Definitely a very pricey option, but I had a really amazing meal here. First of all, if you sit outside you have a view of the park and you get a bit of that atmosphere, too.\n\nThe meal was really great - definitely smaller seeming portions, but could fill you up more than you’d expect - and the desserts were beautiful and fun.\n\nThe staff were very pleasant and helpful! They really made everything run smoothly and welcomed us.\n\nThanks again!",
+            "time": 1724631559,
+            "translated": false
+        },
+        {
+            "author_name": "Gi -",
+            "author_url": "https://www.google.com/maps/contrib/115966267342396741640/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAHj5i6LGrqXNH-b734kN9FaPIqnx7_fToLYiWSV8yci26S-jF=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "I didn’t know it was Riga Restaurant Week, which proved to be a great chance to try something new at an affordable price.\nThe restaurant’s vibe is exclusive, and so is the care.\nThe food was really good; the fish carpaccio was so tender, and the presentation was a solid 10/10 - for every dish. The bonus note was finding a young Italian waiter - it melted my heart as I am Italian and used to serve tables too. I do recommend Whitehouse!",
+            "time": 1730619337,
+            "translated": false
+        },
+        {
+            "author_name": "Cathy R",
+            "author_url": "https://www.google.com/maps/contrib/112136793713261712361/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeGP_p0bzzr1dgxzeqxwHbYfuNyIC2O1tLkyLJ2_mS_FCn8pQ5=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "One of the loveliest places anywhere in the world to sit on a summer night, enjoy a glass of wine and a creative, tasty dessert. Dessert was a work of art as well as enjoyable.\nWhite House is set in a beautiful park. Outdoor seats are under a simple covering that doesn't interfere with the view and protected us from a brief rain shower.",
+            "time": 1725363461,
+            "translated": false
+        },
+        {
+            "author_name": "Veronika Egerlová",
+            "author_url": "https://www.google.com/maps/contrib/103791283090472725133/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMSZ_EOgHXwsU935l8icKOfY-vB072OSF-tHVfNik0Ai-6tMA0=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Our recent dining experience at Whitehouse was nothing short of delightful. From the moment we arrived, we were greeted by the warm and welcoming staff, setting the tone for a wonderful evening.\nThe food was the star of the night. Each dish was expertly prepared, bursting with flavors that left us wanting more. The menu offered a variety of options, catering to different tastes and preferences, ensuring that we were more than satisfied.\nIn addition to the delicious food, the service was impeccable. The staff were attentive and friendly, making sure we had everything we needed and checking in regularly to ensure our dining experience was perfect.\nWhat truly set Whitehouse apart, however, was the iconic park view. Dining with such a beautiful backdrop added a special touch to our evening, making it a memorable experience.\nOverall, Whitehouse provided an excellent combination of delicious food, outstanding service, and a breathtaking view. We highly recommend it for anyone looking for a remarkable dining experience!",
+            "time": 1719399615,
+            "translated": false
+        }
+    ]
+}

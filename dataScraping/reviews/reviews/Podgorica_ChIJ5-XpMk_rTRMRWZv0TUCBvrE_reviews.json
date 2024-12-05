@@ -1,0 +1,66 @@
+{
+    "name": "Restoran Radovce",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Jayne Olschak",
+            "author_url": "https://www.google.com/maps/contrib/109793666451072187150/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhE9khLGJ8TgM7CfauaXz0vfZqjJcsZ8SerRPYag4DkUlqJls=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Horrendous.  At the end the guy said no tips. Then he rounded up from 6.50 to 10. I said no. I decide how much to tip. Then he demanded 10 euro. After I said no again he became incredibly rude and aggressive.  Awful service.  😖",
+            "time": 1722110373,
+            "translated": false
+        },
+        {
+            "author_name": "Anton Halauko",
+            "author_url": "https://www.google.com/maps/contrib/111760552663798700289/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVIMS670MGaeLsZ06pvRiULINhJwbUtaITKuE_o8cXRaivfdw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "We went here, and as we sat down, we noticed the attitude the waiter had, while ordering, the position on the menu we wanted to order wasn't available, very low level of English, very rude waiter. When I wanted to prepay for the lunch, the waiter was concerned why I don't give him any tip. Portions are big, but the taste... I've never eaten that dry meat in my life. The chicken risotto was tasteless, only chicken was recognizable. If we weren't so tired as we were, we wouldn't eat it at all.",
+            "time": 1713617678,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Israeli",
+            "author_url": "https://www.google.com/maps/contrib/100772389421346320856/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4APnmv_HQUTyElSUUr0XpNHPW3dHkTslywxRN8k5pfoP5OIR9=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Excellent food, relatively cheap and very tasty. Cool for breakfast. Nice friendly atmosphere.",
+            "time": 1687857106,
+            "translated": false
+        },
+        {
+            "author_name": "Agata Morzyk",
+            "author_url": "https://www.google.com/maps/contrib/111816668569767773606/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU76Jix5EDebhWFJN17_3Xb-13xzh-QJvZsB82RUElJwvhp8fK-=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I had a great experience at this restaurant - the food was delicious , with a great range of options to choose from. (also there are some vegatarian options wich is not very common in Podgorica). The service was top-notch, with attentive staff who made sure everything was just right throughout the meal.\nOverall, I would highly recommend this restaurant to anyone visting the town.",
+            "time": 1681970298,
+            "translated": false
+        },
+        {
+            "author_name": "Hola Quetal",
+            "author_url": "https://www.google.com/maps/contrib/109967177287326747511/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3L5dhyRuKd-ga7U7MlHti340A_ra0kyi85YODWlJm1zXa=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "Worst olives i ever tried.waiter doesn't even give the menu, tasteless cheese and olive oil\nBut GOOD WINE AND PERFECT LOCATION",
+            "time": 1661975688,
+            "translated": false
+        }
+    ]
+}

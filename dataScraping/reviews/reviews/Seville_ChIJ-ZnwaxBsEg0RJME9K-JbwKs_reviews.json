@@ -1,0 +1,66 @@
+{
+    "name": "Bodega Góngora",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Raphael Varisella",
+            "author_url": "https://www.google.com/maps/contrib/102764802364799874317/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3Br_wnez4WgRS5mrJSAnoeaCnMy2SmvdsDhmxrFnW4fDO4dmV4w=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Excellent, excellent, excellent! The location is prime for people watching, superb! The atmosphere and ambiance also awesome and one of a kind! We had great service from all of the staff, and the food was awesome! Everything from the spinach and chick peas, to the bacalau and cuttlefish was super flavorful! The jamon and queso plate was also great! Awesome all around experience!",
+            "time": 1732480547,
+            "translated": false
+        },
+        {
+            "author_name": "Joshua Chan",
+            "author_url": "https://www.google.com/maps/contrib/100482423872052305044/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUH6kpWpafKowDL09hGLN9MxRobIs5Ay8FAtEM7I-nO48IbXBI=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "2 weeks ago",
+            "text": "An overhyped, pricey, touristy venue right in the centre of Seville. The food is fried, oily, salty, and not particularly nice. Service is good but spoiled by the hawkers and vendors who attempt to force you to buy stuff while you are eating. Skip and go somewhere less tourist oriented.",
+            "time": 1732118358,
+            "translated": false
+        },
+        {
+            "author_name": "Jessica Webb",
+            "author_url": "https://www.google.com/maps/contrib/112619028671431487835/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvrasQDhTYwRoPwxwAxmEtZ2nZH3BEjohGPhl5VEYc1ytIjU__=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Worst meal we had in a week in Sevilla. Service was great but the food was so bad we didn’t even finish our lunch. Everything was under seasoned and the shrimp in garlic sauce were mushy. If you’re thinking about eating here, I’d keep walking.",
+            "time": 1729703770,
+            "translated": false
+        },
+        {
+            "author_name": "Daniela Lupsan",
+            "author_url": "https://www.google.com/maps/contrib/115582020495307432599/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTaA-TSUy3tK3eM_9wOM-UTswMktUuGjCjNHMEKF5wxSF7_uBlrw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Very good food, with the specificity of Andalusia, good prices! If you also take into account the fact that you are in the middle of the street, people pass by you, you are witnessing the live show of life in Seville.",
+            "time": 1713982560,
+            "translated": false
+        },
+        {
+            "author_name": "João Lopes",
+            "author_url": "https://www.google.com/maps/contrib/103830135997296676219/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVawVNADEy53CCZe3qNDCOfjmfrr8P18iBGImuhazy-KbZjm7SMAw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Amazing “huevos rotos”. The “jamon”. Overall great food. Nice employees who got\nInto the jokes\nWith the group.",
+            "time": 1726520207,
+            "translated": false
+        }
+    ]
+}

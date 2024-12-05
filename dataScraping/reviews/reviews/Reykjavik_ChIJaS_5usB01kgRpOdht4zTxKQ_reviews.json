@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Reykjavík Grand",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Amber Dyson",
+            "author_url": "https://www.google.com/maps/contrib/115545925897374867096/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU056rUAb_5HEBFwvVI6fod6SHGpzdKiXm_FzPou7RCToLwcQmn=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "This was a last minute hotel choice, as our first hotel was not going to work for us. We’re very glad we found this place! The service is great, and the newly remodeled family room was perfect for our needs. The bed is comfortable, and the heated bathroom floor is wonderful. The lobby is great and has a nice ambiance. Definitely check out the bar and restaurant!",
+            "time": 1733097043,
+            "translated": false
+        },
+        {
+            "author_name": "Pete Hales",
+            "author_url": "https://www.google.com/maps/contrib/113226967584188951802/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcL3sQYIu1un1AGa4US92HSrBSXjDQ8B469guBDi8-MLhatWlx=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Fantastic location walking g distance from Center of Reykjavik. Excellent facilities and Breakfast, plenty of choice. Reception staff very friendly and helpful. Would highly recommend a visit",
+            "time": 1733067985,
+            "translated": false
+        },
+        {
+            "author_name": "Krisztián Varga",
+            "author_url": "https://www.google.com/maps/contrib/114415930575325806933/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWt6V3mP_D2mIMYjIgd-bXBGCPAMc4C6Y45MiWCTiNzjRkPR2Ow=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "This was my first visit to Iceland, and since the trip had to be organized suddenly, there was only room in this hotel. Accessibility is excellent, the highway is close. 50 minutes by car from the airport. I asked for a room with a sea view, and the lady at reception was very helpful. She changed my booked room to one with a sea view, but she said that she was not sure that it really faced the sea. I went upstairs and looked at the room, but he was looking at the other side. I went down to perception again and the lady kindly changed the room again. I would also like to thank the lady! The furnishings of the rooms are great, modern and tasteful. The bathroom is clean, beautiful and well equipped. Unfortunately, the bed was uncomfortable for me, as it was very soft and springy. The breakfast is a classic continental breakfast, with a wide selection! The beach is a few minutes' walk away, from which there are wonderful sights in any direction. The prices are high, the hotel also belongs to the more expensive category, but this is not unusual in Iceland. overall I am very satisfied, I only give four stars because of the bed!",
+            "time": 1718525665,
+            "translated": false
+        },
+        {
+            "author_name": "Karl Chan",
+            "author_url": "https://www.google.com/maps/contrib/118021513671820968439/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8IELLGX3qWVEzu94u6JLeEvmkFlbrLg_uFJS4gtnJnGB7EXmP=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "The hotel facilities are very comprehensive, and everything is great. However, after going to the room, we found that there was no need to turn on the lights, as the hotel's billboard shone directly onto the bedside, which could be a problem if you have sleep issues. Additionally, the curtains in the room cannot be fully closed, and there will always be a crack in the middle, so this room would be very suitable if you are afraid of the dark.",
+            "time": 1724022436,
+            "translated": false
+        },
+        {
+            "author_name": "Mikayla L",
+            "author_url": "https://www.google.com/maps/contrib/102152432142482735744/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-TCj8Vb62u_2jRskpdBQrGoNmxewBl09FBhYIdmG5fzZ5WQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Hotel Reykjavik Grand was a wonderful starting point for our Iceland adventure. The hotel is modern and spacious, with comfortable rooms and excellent service. The breakfast spread was lovely, offering a variety of options to fuel our days of exploration. Its convenient location made it easy to explore Reykjavik before heading out into the countryside. Highly recommend for anyone staying in the capital!",
+            "time": 1727197796,
+            "translated": false
+        }
+    ]
+}

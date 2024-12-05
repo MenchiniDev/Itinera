@@ -1,0 +1,1076 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.09154119999999,
+                "lng": 14.4396656
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.09285028029149,
+                    "lng": 14.4410440802915
+                },
+                "southwest": {
+                    "lat": 50.09015231970849,
+                    "lng": 14.4383461197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Botanique Hotel Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106167476106740741683\">Botanique Hotel Prague</a>"
+                ],
+                "photo_reference": "AdDdOWq-PTlXXBRIQU_9mP6v1Fv-vpR3IBz5JiIkZ40drBCweWbhdMmeBzAnn2ffKfrQCst4Ysrq-3lE8JC4lMSlCjVWKYJnyTXJgfwScQY8QRHgpC-VnvQ-S30aHPPG9l-INHlwcy4uMQ2Z9kIQZCa-bldOnNa1imO2VmATSzg0zM6mnHe2",
+                "width": 6720
+            }
+        ],
+        "place_id": "ChIJe9ghf76UC0cR_E_G-qSN0Ng",
+        "plus_code": {
+            "compound_code": "3CRQ+JV Prague, Czechia",
+            "global_code": "9F2P3CRQ+JV"
+        },
+        "rating": 4.6,
+        "reference": "ChIJe9ghf76UC0cR_E_G-qSN0Ng",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3177,
+        "vicinity": "Sokolovská 11, Karlín"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0681438,
+                "lng": 14.4183567
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0697235302915,
+                    "lng": 14.4199064802915
+                },
+                "southwest": {
+                    "lat": 50.0670255697085,
+                    "lng": 14.4172085197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hermitage Hotel Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114507091571939046878\">Hermitage Hotel Prague</a>"
+                ],
+                "photo_reference": "AdDdOWosEaHbv7yOQe7F3AoCCCYJ0ndVafEsnsjWluNdX4XQZg5iI1eGw8cJ8xjzqDJJ3j-iD1MDeImWzfYw_Zgl9SUu_72QkHIZATUbb_Xyt8J_cD08Z7m7RH-COa8VX9bBZOtuARiLMggttq0v_fmkppBCirp5WOniAo4oWUZjd3IjiK-2",
+                "width": 3500
+            }
+        ],
+        "place_id": "ChIJSSfvS16UC0cR7NcxQtBqGhk",
+        "plus_code": {
+            "compound_code": "3C99+78 Prague, Czechia",
+            "global_code": "9F2P3C99+78"
+        },
+        "rating": 4.6,
+        "reference": "ChIJSSfvS16UC0cR7NcxQtBqGhk",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "gym",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2938,
+        "vicinity": "Svobodova 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.07858980000001,
+                "lng": 14.4250252
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.07988618029151,
+                    "lng": 14.4264837802915
+                },
+                "southwest": {
+                    "lat": 50.07718821970851,
+                    "lng": 14.4237858197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Majestic Plaza Hotel Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2860,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103642923034686544095\">Majestic Plaza Hotel Prague</a>"
+                ],
+                "photo_reference": "AdDdOWob6jrh4w_CYBDjFJlcZQauodXyumb-hQl3CQyQa6fKA-5KHuzr_5wj6yyiK594MSkegda7cysJIIJFKQFeQE-S4SYMpun2uvGgk-jIdiveru4KFGDguAD3YHmEMMiOTBvZYJT1HvUdd_zTU7wqrM8iv8GvkHZd0xzoiYNbxpFmJb9n",
+                "width": 2102
+            }
+        ],
+        "place_id": "ChIJuT4_HMCUC0cRBawpUh9ryDs",
+        "plus_code": {
+            "compound_code": "3CHG+C2 Prague-Prague 1, Czechia",
+            "global_code": "9F2P3CHG+C2"
+        },
+        "rating": 4.4,
+        "reference": "ChIJuT4_HMCUC0cRBawpUh9ryDs",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2935,
+        "vicinity": "Štěpánská 645/33, Nové Město, Praha 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.087293,
+                "lng": 14.408346
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0885779302915,
+                    "lng": 14.4096213302915
+                },
+                "southwest": {
+                    "lat": 50.0858799697085,
+                    "lng": 14.4069233697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Čertovka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1388,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115105282156124688814\">Hotel Čertovka</a>"
+                ],
+                "photo_reference": "AdDdOWpoa4cDbfOKibENg3j52jQ-oGF0hbP9Ca1WMv1zy-2MbPRIcHSyQ7k6wU7X5SOTooTuK1HN9p5JJvjEmznVxuwXuq5VPIsD_45PELecgmsUU8VlN3ikclpm-7JG5XFQGT76SLUmyk6nDHQRDO3v-CehxdSSATPULGD7R8cZ1LpHpZHT",
+                "width": 1755
+            }
+        ],
+        "place_id": "ChIJWeueB-SUC0cRH00ffLoiRvs",
+        "plus_code": {
+            "compound_code": "3CP5+W8 Prague-Prague 1, Czechia",
+            "global_code": "9F2P3CP5+W8"
+        },
+        "rating": 4.5,
+        "reference": "ChIJWeueB-SUC0cRH00ffLoiRvs",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 447,
+        "vicinity": "85, U Lužického semináře 2, Praha 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0875441,
+                "lng": 14.4008812
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0888478302915,
+                    "lng": 14.4023596302915
+                },
+                "southwest": {
+                    "lat": 50.0861498697085,
+                    "lng": 14.3996616697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Alchymist Grand Hotel and Spa",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100997307833805673922\">Ernesto Lertora</a>"
+                ],
+                "photo_reference": "AdDdOWpv0QtVkjR5xlgyT7w5MJpfX-jBiE_Vz8vt9JFHjZ-4UFDcPhj9OCn4hYkm6mm0wem23j5MOVu_wRw78v0u-I1gi3HZr3uC6ksGlHrRyZULZHkAT8LXPu-PuXD7d-9svFme8GPIs35IVkH0PZB4f8heoTPm-5OVF8-pLHtBmyuWAuEC",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJsV1z9R2VC0cRSpYhQyaSQww",
+        "plus_code": {
+            "compound_code": "3CQ2+29 Prague-Prague 1, Czechia",
+            "global_code": "9F2P3CQ2+29"
+        },
+        "rating": 4.7,
+        "reference": "ChIJsV1z9R2VC0cRSpYhQyaSQww",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 516,
+        "vicinity": "Tržiště 19, Praha 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0800928,
+                "lng": 14.4263048
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0814630802915,
+                    "lng": 14.4275626802915
+                },
+                "southwest": {
+                    "lat": 50.0787651197085,
+                    "lng": 14.4248647197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Almanac X Alcron Prague",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117620733221365474816\">Miroslav Hodek</a>"
+                ],
+                "photo_reference": "AdDdOWqxmLGBvfm2AIveXkuDvs-m0wzCqf94C-HWltu1HA8Fwj_QkfaR5w96ahdN-oGUc5GFHuaLj6TtF9v5wVX-XawpOkWgnUvW1jxuhWpMYc051idicsvNck9p1y-EoqKWgD_soSoE-PkyB6RngRw6n1nVmxfJObjXU3pRQoKZc7Iphlyx",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ3w3hVI2UC0cRnE9eAjYvpAY",
+        "plus_code": {
+            "compound_code": "3CJG+2G Prague-Prague 1, Czechia",
+            "global_code": "9F2P3CJG+2G"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ3w3hVI2UC0cRnE9eAjYvpAY",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "gym",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1668,
+        "vicinity": "Štěpánská 623 /40, Praha 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0812619,
+                "lng": 14.4284767
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0824997302915,
+                    "lng": 14.4296925802915
+                },
+                "southwest": {
+                    "lat": 50.0798017697085,
+                    "lng": 14.4269946197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Jalta Boutique Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1359,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102244716212078428598\">Jalta Boutique Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqBhIgxqcDKM0iI_x7khL71oUH2ZOB5fyxTOL0wgFCzm5JBCYIWiR-H3JxvT3R9KXLOVcO6dvttLAenNSH_gxcqQpu9-kX7Zf3blCZ5FBwq8URnsKrR-5yYMcdpIP0XXGKegOYXSwSry-fYPDdOJnEGv6oNf-cOeTYMq_LtCvEQfjuI",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ8c7IvJKUC0cRgBM-8cZU15Q",
+        "plus_code": {
+            "compound_code": "3CJH+G9 Prague, Czechia",
+            "global_code": "9F2P3CJH+G9"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ8c7IvJKUC0cRgBM-8cZU15Q",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1185,
+        "vicinity": "Václavské náměstí 818/45, Nové Město"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0846661,
+                "lng": 14.4141546
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0860335302915,
+                    "lng": 14.4153982302915
+                },
+                "southwest": {
+                    "lat": 50.0833355697085,
+                    "lng": 14.41270026970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Mozart Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1707,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113427911295145776654\">The Mozart Prague Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqalWOHRfRbmK593ZCNWWQ0oJTG84MVJL2bH7OBm6kAGQ-EYBxtMFWAkZ_DC-HlUwmwh9ZH1vDBaaT-_fbbuiiGV9h_nic5jhLYnkhWf6QpR34o9xYd4-cregTWmEuuoaLRVK4UzN2lK1Atf4Y0V1-GaVd5g-8q8_Q3XkftDOx7oG7Q",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJPfDigOWUC0cRZJbqe0rM9F4",
+        "plus_code": {
+            "compound_code": "3CM7+VM Prague-Prague 1, Czechia",
+            "global_code": "9F2P3CM7+VM"
+        },
+        "rating": 4.6,
+        "reference": "ChIJPfDigOWUC0cRZJbqe0rM9F4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1028,
+        "vicinity": "Karoliny Světlé 34, Praha 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0944733,
+                "lng": 14.4539287
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0958986802915,
+                    "lng": 14.4553460302915
+                },
+                "southwest": {
+                    "lat": 50.09320071970851,
+                    "lng": 14.45264806970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Pentahotel Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111976164214085577076\">Martin Břečka</a>"
+                ],
+                "photo_reference": "AdDdOWp-O7mSKnr6uRlJft2vnQuBq_JwMQf7XfpOyxXKQMZsXaghu3VrqtJrbl-xX7j_EUQPB0U9Zzz-Stqw2g_ob3MjQmXhKY_r97-MudvRvtnxFldQ0KWkBkGjVWsk_ulqTSwDVc_I-o_Xq1zl9cOhYfU87VDdcmOf5d_bKkoezNNQNQ5i",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJf6aUN6SUC0cRJ59OMJH-jDo",
+        "plus_code": {
+            "compound_code": "3FV3+QH Prague-Prague 8, Czechia",
+            "global_code": "9F2P3FV3+QH"
+        },
+        "rating": 4.5,
+        "reference": "ChIJf6aUN6SUC0cRJ59OMJH-jDo",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3072,
+        "vicinity": "Sokolovská 112, Karlín, Praha 8"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0908432,
+                "lng": 14.4045839
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0921058302915,
+                    "lng": 14.4058412802915
+                },
+                "southwest": {
+                    "lat": 50.0894078697085,
+                    "lng": 14.4031433197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Golden Well Hotel Prague",
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103775744954068383497\">Golden Well Hotel Prague</a>"
+                ],
+                "photo_reference": "AdDdOWpuEk8yMsrECZcVDSI3w6sl65GzFfUKSkik-ch-yhAtY7kRUDF8M7tNJDq_GRDlzvRdwSla5GVETSkB2gOAmsHGGeZmbHye7QtCkxSs_ZLVMq_xSqRCJBs40WjDZNMpixMNwgFSKW7AmyKUBOwYyqe5aP_ktYA5VSV-E29TP4j3Y2Y",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJvd6BteGUC0cRwJvOlvLJvEE",
+        "plus_code": {
+            "compound_code": "3CR3+8R Prague-Prague 1, Czechia",
+            "global_code": "9F2P3CR3+8R"
+        },
+        "rating": 4.8,
+        "reference": "ChIJvd6BteGUC0cRwJvOlvLJvEE",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 179,
+        "vicinity": "U Zlaté studně 166/4, Malá Strana, Praha 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.10721179999999,
+                "lng": 14.4411046
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1085424802915,
+                    "lng": 14.4426236802915
+                },
+                "southwest": {
+                    "lat": 50.1058445197085,
+                    "lng": 14.4399257197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Absolutum Wellness Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3473,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103760198320990227105\">Absolutum Wellness Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWo2wzAh2wThN4-1NbkmxjwFmCvM6OKoAdjr3SzHTgTJ3I-cbiqyW6JT_4oWvEChy1ReyZ8ewNSf196jo_CWTK9agqO_yZx8zMP445koZcghbkpYt6Gab86iOiYLvC9Jxpdxis6N0DF_V4T5LIymO83ohxDTJQ_UN6HCsJPkvJyGg3ny",
+                "width": 4877
+            }
+        ],
+        "place_id": "ChIJC8HJg7WUC0cRekYIAzKpiKQ",
+        "plus_code": {
+            "compound_code": "4C4R+VC Prague, Czechia",
+            "global_code": "9F2P4C4R+VC"
+        },
+        "rating": 4.4,
+        "reference": "ChIJC8HJg7WUC0cRekYIAzKpiKQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 718,
+        "vicinity": "Jablonského 639/4, Praha 7"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0879402,
+                "lng": 14.4225559
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0893088802915,
+                    "lng": 14.4239689802915
+                },
+                "southwest": {
+                    "lat": 50.0866109197085,
+                    "lng": 14.4212710197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Black Elephant Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 450,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118261707401704931480\">Luxusní hotel Černý slon</a>"
+                ],
+                "photo_reference": "AdDdOWrK1sfcUUG_-5-efAj0tNE-vi588OfL_OYZ-aOk6rgYo0IhvVjZ4g9-y2ItgDVKDCYLN0sPeiWjwdlDPTERT8_RE92dDIPSi3oTTDbbi6gbr4kuxmgBskz-paCGBJ6B1jEclAvakhRvUI5YwWnzYokf344uli_PhfdnK8cG-tQIQfPv",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJd1dvb-mUC0cRzd2lJD4DFbs",
+        "plus_code": {
+            "compound_code": "3CQF+52 Prague, Czechia",
+            "global_code": "9F2P3CQF+52"
+        },
+        "rating": 4.3,
+        "reference": "ChIJd1dvb-mUC0cRzd2lJD4DFbs",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 497,
+        "vicinity": "Týnská ulička 629/1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0859063,
+                "lng": 14.4087321
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0872152802915,
+                    "lng": 14.4099527802915
+                },
+                "southwest": {
+                    "lat": 50.0845173197085,
+                    "lng": 14.4072548197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Archibald At The Charles Bridge",
+        "photos": [
+            {
+                "height": 2252,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109119786052370738480\">박자유</a>"
+                ],
+                "photo_reference": "AdDdOWpALM_87UCARmsnQGrKANv3hJmtOkYNzkDEJ9m5xybw2y7K3vnTcZESVkAh5mSJBg7p0Z2Uo6HRTB-lpMtKj7okx715Ic26rOW4AsJK2DEcFipJzbQIikqoKScGUDAe3kP8KIU7-tTrdIVz5zyGq-8Cn1ZktK-5VX_dpwBiHtBouuLU",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJe0C9b-SUC0cRD8s-sXvP1Gk",
+        "plus_code": {
+            "compound_code": "3CP5+9F Prague, Czechia",
+            "global_code": "9F2P3CP5+9F"
+        },
+        "rating": 4.6,
+        "reference": "ChIJe0C9b-SUC0cRD8s-sXvP1Gk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 835,
+        "vicinity": "15, Na Kampě 508, Malá Strana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0822462,
+                "lng": 14.4298726
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0836628302915,
+                    "lng": 14.4312916802915
+                },
+                "southwest": {
+                    "lat": 50.0809648697085,
+                    "lng": 14.4285937197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grandium Hotel Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1999,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106210440397069441505\">Grandium Hotel Prague</a>"
+                ],
+                "photo_reference": "AdDdOWoVoSMchz0vSD5gNFQZOA8NmPeedt01Syh_e5sf8kN2x9bXWq98GJnwCx43AgRm3CCRndXHdsthrxmT18jux0t2AuBjC09LMlkOqoflfmFHtLT0ylemXqjJoOmN7jY2PXq8CgoHNdDWRxvnIP_zMZTcwmY8gwOC62i7qWpBdvxiiPIt",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJYyef4ZKUC0cRn_CbBaxM7mU",
+        "plus_code": {
+            "compound_code": "3CJH+VW Prague, Czechia",
+            "global_code": "9F2P3CJH+VW"
+        },
+        "rating": 4.4,
+        "reference": "ChIJYyef4ZKUC0cRn_CbBaxM7mU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4734,
+        "vicinity": "Politických vězňů 913/12"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.07509419999999,
+                "lng": 14.4338354
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0761826302915,
+                    "lng": 14.43647165
+                },
+                "southwest": {
+                    "lat": 50.0734846697085,
+                    "lng": 14.43258625
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Lunik",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3744,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105554020837971634828\">Hotel Luník</a>"
+                ],
+                "photo_reference": "AdDdOWo8Q8Jkx4GePrYhM7p1qpWHPxie7Y2e-CV-I8FpjojJ7MXpNiUCaE0upl_JLOQJBAmnFKDJVE4CfDk7wmlNmq0qSxnWDLJLUxLPDUsH7di-aU441hUGzv5OWPZIPZngfn_BrKQvTA3TIIOs0yTBPpq8_GjgvSgHH8lpFcg08UVDYQSJ",
+                "width": 5616
+            }
+        ],
+        "place_id": "ChIJcbGRxI6UC0cRdXpdqMW5zDE",
+        "plus_code": {
+            "compound_code": "3CGM+2G Prague-Prague 2, Czechia",
+            "global_code": "9F2P3CGM+2G"
+        },
+        "rating": 4.3,
+        "reference": "ChIJcbGRxI6UC0cRdXpdqMW5zDE",
+        "scope": "GOOGLE",
+        "types": [
+            "storage",
+            "night_club",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 681,
+        "vicinity": "Londýnská 609/50, Praha 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0870934,
+                "lng": 14.4312843
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0885075802915,
+                    "lng": 14.4327010302915
+                },
+                "southwest": {
+                    "lat": 50.0858096197085,
+                    "lng": 14.4300030697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Grand Mark Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1327,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114015790235024724090\">The Grand Mark Prague</a>"
+                ],
+                "photo_reference": "AdDdOWqM-Wr_eIlPOsmHc-bxXftNGWw1c008ZHPn4e_xefQunIFopMVYZ9YNwnIC2e8wuvIWQcdtqMCSfWUmkvEVug4ucv7C3wxo-ugDTSG4EgiUbe9-YjgRDP2lWvaTmmJLOtaH5iCWQqso5MCQMOcdRnrIE7RY77wt8jehQR-BA_lOu8lW",
+                "width": 1772
+            }
+        ],
+        "place_id": "ChIJe-S425SUC0cR_ntrjEQTtRE",
+        "plus_code": {
+            "compound_code": "3CPJ+RG Prague, Czechia",
+            "global_code": "9F2P3CPJ+RG"
+        },
+        "rating": 4.7,
+        "reference": "ChIJe-S425SUC0cR_ntrjEQTtRE",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "lodging",
+            "park",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1625,
+        "vicinity": "Hybernská 12"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0882367,
+                "lng": 14.4281015
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0894421802915,
+                    "lng": 14.4296575802915
+                },
+                "southwest": {
+                    "lat": 50.0867442197085,
+                    "lng": 14.4269596197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel KINGS COURT Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1320,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115124024674891888264\">Hotel KINGS COURT Prague</a>"
+                ],
+                "photo_reference": "AdDdOWpa1eWbbgkFEA7hcBBxdzNqdcuXGrGkbD6EUxeam-dUHBupdETxxk1emJsaZmTYT8vu-DQo_CSAyAegCJJYX6CuyK0LqKzHUqSfd5EtcQ3CPRRvLokJ3WzSkXcSIxARWTW6e94vaEC6LOO91_3sH1BDLJYOylWeB3My6yXrbigbfdnZ",
+                "width": 1620
+            }
+        ],
+        "place_id": "ChIJw35d4-qUC0cRRFAu6zAKjkE",
+        "plus_code": {
+            "compound_code": "3CQH+76 Prague, Czechia",
+            "global_code": "9F2P3CQH+76"
+        },
+        "rating": 4.6,
+        "reference": "ChIJw35d4-qUC0cRRFAu6zAKjkE",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2544,
+        "vicinity": "U Obecního domu 660/3"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0716003,
+                "lng": 14.4302957
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0729824302915,
+                    "lng": 14.4316941802915
+                },
+                "southwest": {
+                    "lat": 50.0702844697085,
+                    "lng": 14.4289962197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Green Garden Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 6656,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102072914195276658980\">Green Garden Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpGoMEWzb37YhG2PcFR26S79RnWHgKkC3shznrKVpvlbduldFmsykrocWp-N2ng5azOHqutfBA0aQz3pv9-A4FiDIOM6KzuQeKGolycqWEmG50wqPufaCQiGQuWSsP5CyvfiYljtUVLq7CwwlWi_aGTQxry-GtFcVaJ_vipggAbM0Zf",
+                "width": 13312
+            }
+        ],
+        "place_id": "ChIJQYlWg4mUC0cRGmobN7FLZJo",
+        "plus_code": {
+            "compound_code": "3CCJ+J4 Prague-Prague 2, Czechia",
+            "global_code": "9F2P3CCJ+J4"
+        },
+        "rating": 4.5,
+        "reference": "ChIJQYlWg4mUC0cRGmobN7FLZJo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1134,
+        "vicinity": "Fügnerovo náměstí 1865/4, Praha 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.08984599999999,
+                "lng": 14.432864
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0911546302915,
+                    "lng": 14.4342343802915
+                },
+                "southwest": {
+                    "lat": 50.0884566697085,
+                    "lng": 14.4315364197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Art Deco Imperial Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4320,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101887201349611005403\">Art Deco Imperial Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWphE2gmHVKbU75_AYFp4K2YQkMro_eYkq4wCZTncbd6mp5qgs7SbxSL-vG3bveMQW3do6D7tezDX0zs6MRXBVuLfk0HX6eBNnxaYQVrox4h3BBrcGC3WNn5ySJ7NPdFFBTUtvjdXEyXYaH0qrifhgBBHef97qUypsEp0lQIt7iQcEw7",
+                "width": 6480
+            }
+        ],
+        "place_id": "ChIJRb_BWJWUC0cRfiwT1xvkIz4",
+        "plus_code": {
+            "compound_code": "3CQM+W4 Prague-Prague 1, Czechia",
+            "global_code": "9F2P3CQM+W4"
+        },
+        "rating": 4.6,
+        "reference": "ChIJRb_BWJWUC0cRfiwT1xvkIz4",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1478,
+        "vicinity": "Na Poříčí 15, Petrská čtvrť, Praha 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.0768382,
+                "lng": 14.403467
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.0782378802915,
+                    "lng": 14.4048168302915
+                },
+                "southwest": {
+                    "lat": 50.0755399197085,
+                    "lng": 14.4021188697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Martin Hotel Prague",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1133,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106719683474569599524\">Hotel u Martina</a>"
+                ],
+                "photo_reference": "AdDdOWpKxPCgwqGnO78TD4cPOi-oJV-ZZjRU0wVZaqNHVyDNWKAyqZOXFLukTdO8ox2hsVKPkALiPbCoi0jIjUVLwBtfgLyOrEmI-cSBCSrf9Xr1AiJt-B3MyNorrFq9qIQslD9J0R4mKgS8fQ71etWl2y1cYgOGLLMu6nKg2quK1685P3qL",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJ6_kXSfmUC0cRTYTCQMRGiRU",
+        "plus_code": {
+            "compound_code": "3CG3+P9 Prague, Czechia",
+            "global_code": "9F2P3CG3+P9"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ6_kXSfmUC0cRTYTCQMRGiRU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 929,
+        "vicinity": "Zubatého 289/3"
+    }
+]

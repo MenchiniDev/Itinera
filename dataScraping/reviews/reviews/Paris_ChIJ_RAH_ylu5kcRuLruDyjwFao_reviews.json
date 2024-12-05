@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Montalembert",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Philippine Aubert",
+            "author_url": "https://www.google.com/maps/contrib/114416730358940885127/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPTprxB1YFOoyMrO3_J8yn0ajLeVQZhEZY1w6vLvTyQjAAsip60Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "This hotel is a must ! The service is the best I have ever encountered : respectful, generous and amazingly nice.\nLocation is perfect. I will come back for also the restaurant, a drink and a café. They also have an intimate terrace. Thank you !",
+            "time": 1732651234,
+            "translated": false
+        },
+        {
+            "author_name": "Pranisha Rama",
+            "author_url": "https://www.google.com/maps/contrib/112454240329767502021/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1AqohT5FzgzkLGnQ4cdNrHbOJrpN45jAT6SRidofSJuMQEjA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This is such an amazing hotel, having traveled to Paris a few times, this is by far my favorite hotel. The service is incredible,  every single staff member we engaged with were extremely friendly and so helpful for any questions we had. For me the outstanding factor was housekeeping,  and their immaculate cleaning, and making sure every single amenity is replaced every day. Every day when we returned back to the hotel the room was spotless.  Such a great location too, you almost have the best of both worlds (location and peace and quiet). I truly would highly recommend this hotel, and personally I'll be staying here again when we come back.",
+            "time": 1719692795,
+            "translated": false
+        },
+        {
+            "author_name": "Jaclyn Little",
+            "author_url": "https://www.google.com/maps/contrib/102380112204318747077/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuV9Za6KsCaMoOD0vgUonpcp4AI_TjzCVGhqovzx2HuNLoIO3C=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Wow. This hotel is just perfection. I had read about it online, and so when looking for a hotel on the left bank, I remembered hearing amazing things.\n\nFirst, the location is spectacular. Right in the heart of the left bank within walking distance to anything your heart desires - restaurants, shopping, bars, grocery stores, late night eats - everything!\n\nWhat truly stood out was the exceptional level of service and attention to detail. Pschemick (I absolutely butchered the spelling of his name!) was an incredible host, bringing up our luggage, showing us to our room and all the amenities, helping us with our cabs, and always greeting us with a smile.\n\nUpone arrival to our gorgeous suite, we were greeted with a bottle of champagne (!!) and La Durée macarons which was absolutely so unexpected and just lovely. Talk about exception service!!\n\nThe room we stayed was beautifully decorated, well-appointed, comfortable, and laid out perfectly for two people. We loved the sitting room, the bathrooms (toilette separate from the shower) - especially the shower/bath combo, the furniture, the beds - literally everything.\n\nI cannot recommend this hotel enough to anyone wanting a beautiful hotel on the left bank. This will absolutely be our go-to hotel whenever we are lucky enough to find ourselves in Paris.\n\nSTAY HERE AND ENJOY!!!",
+            "time": 1724084602,
+            "translated": false
+        },
+        {
+            "author_name": "Emily S",
+            "author_url": "https://www.google.com/maps/contrib/112034291805846425025/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIh-wE201jY5HkLL6q4UFTcRfAdtxRsUITXkzYGjP8K6jrjkTc=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Prepare to be wow’d! Our hotel experience was wonderful here. The front desk service was impeccable. The room size and furnishings were wonderful. The neighborhood feels safe and was beautiful in the spring. I would stay here time and time again and plan on telling anyone who may visit to stay here as well! I am attaching photos of gorgeous floral arrangements and how spacious the marble bathroom was. WOW!!",
+            "time": 1714316080,
+            "translated": false
+        },
+        {
+            "author_name": "Jessie Weintz",
+            "author_url": "https://www.google.com/maps/contrib/115045158636576449819/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZ8P82RA4-boeIffOvqKQlObKK7o6u6kHjhlnbWvHeEklrQ8WJ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "5 star hotel with fantastic service centrally located with a neighborhood feel. Our 5 night stay was exceptional from booking through checkout. The room was clean, comfortable, and had a balcony to let in the Parisian nighttime breeze. Would recommend for the traveler who wants to be within walking distance of most sightseeing attractions.",
+            "time": 1713267391,
+            "translated": false
+        }
+    ]
+}

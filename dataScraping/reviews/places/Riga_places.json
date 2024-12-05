@@ -1,0 +1,1059 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.958751,
+                "lng": 24.1050077
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9600093302915,
+                    "lng": 24.10631113029151
+                },
+                "southwest": {
+                    "lat": 56.9573113697085,
+                    "lng": 24.1036131697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "MONIKA Centrum Hotels",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3471,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110165925781105654102\">MONIKA Centrum Hotels</a>"
+                ],
+                "photo_reference": "AdDdOWqYsY3uuVQdl2skz0wuD6VKCaIAyGvdUy9BovaiwQpADqv5EEK0rj2B-5eMF7RKoCEf-dhgefQbbWmFTd-SsqLIhxcl86ZbHqBC3zW_QbTjP-ep3zCAS2JiY3LM4RDJ5he0WFKW5JA9eMke0gAl14aOEI00q4vShGTNw3PA9xv46B7T",
+                "width": 5207
+            }
+        ],
+        "place_id": "ChIJmcMK_cTP7kYRRWCrMlXJ7xg",
+        "plus_code": {
+            "compound_code": "X454+G2 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X454+G2"
+        },
+        "rating": 4.5,
+        "reference": "ChIJmcMK_cTP7kYRRWCrMlXJ7xg",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1300,
+        "vicinity": "Elizabetes iela 21, Centra rajons, Rīga"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 56.96024990000001,
+                "lng": 24.1239539
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9616637802915,
+                    "lng": 24.1254346302915
+                },
+                "southwest": {
+                    "lat": 56.9589658197085,
+                    "lng": 24.1227366697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "City Hotel Teater",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 1872,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105516382857648499060\">City Hotel Teater</a>"
+                ],
+                "photo_reference": "AdDdOWonS66U0GaQiFwGQbhqy3u5Uq1QUcSZ1JtuuV1d_Wkl4TZ1PARgJQbyJweRDUqSQ84vEqetDhI05r2haExcEjMxvHtYqFMUudBhw9YbQqYdSuBEk39ihJ5KONqUb2sHbEwdNC4yvMaFt5TJNlJVYsDPvIXyPyyLylFBeLA7qWhFAcL-",
+                "width": 2808
+            }
+        ],
+        "place_id": "ChIJLVwn2cvP7kYR7pqDRbt41hY",
+        "plus_code": {
+            "compound_code": "X46F+3H Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X46F+3H"
+        },
+        "rating": 4,
+        "reference": "ChIJLVwn2cvP7kYR7pqDRbt41hY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 539,
+        "vicinity": "Bruņinieku iela 6, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.9497326,
+                "lng": 24.1033921
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9511109802915,
+                    "lng": 24.10469178029151
+                },
+                "southwest": {
+                    "lat": 56.9484130197085,
+                    "lng": 24.1019938197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Dome Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1296,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114465365314358668259\">Dome Hotel &amp; SPA</a>"
+                ],
+                "photo_reference": "AdDdOWoJluBSBcmKniL_ZbUKNZjR7FJpz1pxZhdSJJL8ZAE0zTjzQXfBWMp8BnCBXvT7AwDwWGDRE4mwzb4sEQf1qULFfYZxIUjuZgvOF505HY7sWlxcSV0SXHbi_uK_0_kl-EIiltWoy7_MGnJ_F9l_tMP67_fn4-yxneIniNWhIfsN9kgb",
+                "width": 1944
+            }
+        ],
+        "place_id": "ChIJz4avWdfP7kYRQup7jrPyhs8",
+        "plus_code": {
+            "compound_code": "W4X3+V9 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86W4X3+V9"
+        },
+        "rating": 4.8,
+        "reference": "ChIJz4avWdfP7kYRQup7jrPyhs8",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 188,
+        "vicinity": "Miesnieku iela 4, Centra rajons, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.9464396,
+                "lng": 24.109923
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9477675302915,
+                    "lng": 24.1113124802915
+                },
+                "southwest": {
+                    "lat": 56.9450695697085,
+                    "lng": 24.1086145197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Radi Un Draugi",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111666498988006011757\">Hestia Hotel Draugi</a>"
+                ],
+                "photo_reference": "AdDdOWrFdCbeh3Wb31gQV7sksa7NuYhAeUM290SI0vAZe2eOwE5wBj6oWmKJ1mteWSLf7uDoWJoJEt_KzQuRHF-nUi9RUmdS73PrHLtYETnc1M3T6AVSKKDp0VnKSf-w7nW5aJgPE8uOlyooyWOl3CvJDbI7s-n1WuyLGgS4HJaevl1OikHy",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJSbY_hdbP7kYRcv-vS6wQe_U",
+        "plus_code": {
+            "compound_code": "W4W5+HX Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86W4W5+HX"
+        },
+        "rating": 4.5,
+        "reference": "ChIJSbY_hdbP7kYRcv-vS6wQe_U",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 835,
+        "vicinity": "Mārstaļu iela 3, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.948319,
+                "lng": 24.105454
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9496890302915,
+                    "lng": 24.1067043802915
+                },
+                "southwest": {
+                    "lat": 56.9469910697085,
+                    "lng": 24.1040064197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Neiburgs Hotel & Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103963008801809187615\">Neiburgs Hotel &amp; Restaurant</a>"
+                ],
+                "photo_reference": "AdDdOWoGlJNdIpAGujh_zqrkXG1ZGcCBLW_82sZPEncNW6e8SvJafOJX4Vf160C0UJbw3JlFmHamVIopzHDdwhKob6Jd1-LsO6f3V3pwcqWAuLAMhiMfhMahhnvYykttoFOhSl_9HgNBaZMexLYJQTOgWhY7Q-xNdwpReyHcMoxOb9x9hxDQ",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJS47CFtfP7kYRt3QeTUl50ZM",
+        "plus_code": {
+            "compound_code": "W4X4+85 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86W4X4+85"
+        },
+        "rating": 4.7,
+        "reference": "ChIJS47CFtfP7kYRt3QeTUl50ZM",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 824,
+        "vicinity": "Jauniela 25/27, Centra rajons, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.9526726,
+                "lng": 24.0621032
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.95404883029149,
+                    "lng": 24.0635600302915
+                },
+                "southwest": {
+                    "lat": 56.95135086970849,
+                    "lng": 24.0608620697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "NB Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101825844173027732298\">NB Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWoZ0XkbIl7w1pmpNWSyuCsgh1a-WhPnJS-2FvEDx0pE8ElHxUYfGjK0zQEZ6WokxLs0FMkn9Rjl6jGmWC7GH9nMq72cdMiLqRquwP-xf2eSrCcM2wrYBL0r1qrBzAHPJDsnEKBZGqxw3UTqXTNYyZxFa-WWpLEwBpqVMWZoy35p62W2",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJZVUGqALQ7kYRG9Wkjm6_ZMc",
+        "plus_code": {
+            "compound_code": "X336+3R Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X336+3R"
+        },
+        "rating": 4,
+        "reference": "ChIJZVUGqALQ7kYRG9Wkjm6_ZMc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1088,
+        "vicinity": "Slokas iela 49, Kurzemes rajons, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.960366,
+                "lng": 24.1053566
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9617091802915,
+                    "lng": 24.1068571302915
+                },
+                "southwest": {
+                    "lat": 56.9590112197085,
+                    "lng": 24.1041591697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hestia Hotel Jugend",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114817210016966417452\">Hestia Hotel Jugend</a>"
+                ],
+                "photo_reference": "AdDdOWrO38NwHtJ_sBk8LO7q-qlaff0sF8vXbFVRQmao5RxrMMgU8x2vsm6L_IpMe_KACJp0iyBj4vpSO_3Hsmpaf3GyBProgJUvjzJRqAiLMo1RY-HXUOR5JhXIfMnZBAe5i9jzQJEamXynsOY-QlVh_A9cME1J6J1luqfQ-d1N5_cg-JgD",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJm_sYQsTP7kYR8w05qMUaKjk",
+        "plus_code": {
+            "compound_code": "X464+44 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X464+44"
+        },
+        "rating": 4.4,
+        "reference": "ChIJm_sYQsTP7kYR8w05qMUaKjk",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1087,
+        "vicinity": "Pulkveža Brieža iela 11, Centra rajons, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.94673299999999,
+                "lng": 24.114869
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9480978802915,
+                    "lng": 24.1163004802915
+                },
+                "southwest": {
+                    "lat": 56.9453999197085,
+                    "lng": 24.11360251970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "METROPOLE by Semarah hotels",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4016,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110688705466453235615\">Metropole by Semarah Hotels</a>"
+                ],
+                "photo_reference": "AdDdOWqqCB3pGlsvAaT01vivANAXZ-dEhxKZRAZmjE43rmJAuiwLDsZelMLFvw2BVYiGICRTYmPJa4xtmadVBg9pDuPYyIz4UVPEtGYowWK8X6qj1ZUgtsSMjxNZErkPLVF4nrkYtieYJIxKkaGG11Jg6yUC5DgF1qRtpem5lvOUIwi6r7_u",
+                "width": 6016
+            }
+        ],
+        "place_id": "ChIJQSJsXdTP7kYR7M5zTtn2sx4",
+        "plus_code": {
+            "compound_code": "W4W7+MW Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86W4W7+MW"
+        },
+        "rating": 4.4,
+        "reference": "ChIJQSJsXdTP7kYR7M5zTtn2sx4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 663,
+        "vicinity": "Aspazijas bulvāris 36/38, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.9478339,
+                "lng": 24.133776
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9491796302915,
+                    "lng": 24.1352518802915
+                },
+                "southwest": {
+                    "lat": 56.9464816697085,
+                    "lng": 24.1325539197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Džuljeta",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114492500037272315190\">Эдгар К</a>"
+                ],
+                "photo_reference": "AdDdOWqGm-YC0M6f6vkZW6ZxKhk8DKIGLtaXrHufFy7IHIWnyy0ana1QfdzisBFVH15Hv-N1MDby2Xqgdw23X5YNljbfNY2iV3jw0aZPLwG9t30h2G18NClZf2SPLTnPF5o9YOG0Er8NU-qPn9lVBViaXxCR3h2fz4SDi-wCitI6tdECRLc",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJf4mEey7O7kYRy-1XYOusByM",
+        "plus_code": {
+            "compound_code": "W4XM+4G Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86W4XM+4G"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJf4mEey7O7kYRy-1XYOusByM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 97,
+        "vicinity": "Lāčplēša iela 78, Latgales priekšpilsēta, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.952217,
+                "lng": 24.1316163
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9536099302915,
+                    "lng": 24.13304958029151
+                },
+                "southwest": {
+                    "lat": 56.9509119697085,
+                    "lng": 24.1303516197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "LIDO",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2252,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111928145693743928301\">Silverenio</a>"
+                ],
+                "photo_reference": "AdDdOWrGMWh0OYxS4DtH_Fwb-8X_QzFJPpICBUSyE8W_c9ZgAp1Y39tB_6q9S6f9Ne6eqZKF8-sCGFi1Ewjl1fWvcmKuNr09rXTfSXkp9PL0O6PtRfgkmVQGRzDU8hqqsEuySNORusJs-6GKsy3g0s73twdTxXJkfSp84rhS6DiEO0Dv-Coa",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJTxNMlzLO7kYRI7DhliEN7HE",
+        "plus_code": {
+            "compound_code": "X42J+VJ Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X42J+VJ"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJTxNMlzLO7kYRI7DhliEN7HE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2454,
+        "vicinity": "Ģertrūdes iela 54, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.939059,
+                "lng": 24.0909
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9404301802915,
+                    "lng": 24.0922076802915
+                },
+                "southwest": {
+                    "lat": 56.9377322197085,
+                    "lng": 24.0895097197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "PEPSI CENTRS",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1707,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100112098779844079561\">PEPSI CENTRS</a>"
+                ],
+                "photo_reference": "AdDdOWp66yy8mp9CAYaKxUtyCPNcWYM5tELPay6u5YpUlwfzSDiprpYYIsCcN1EhlSoGQW23qznSIWCg322xlSnbG-9AMGl0xUMvKwTMPcoF-cmfNz7um7CMBhArEwt10haUDAS_RRww2t33dnFNKiGhRlVjQIS5eP6rnNwSz_lT34R9bD8_",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJe3HbOCXQ7kYRCmKyXn_e5nM",
+        "plus_code": {
+            "compound_code": "W3QR+J9 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86W3QR+J9"
+        },
+        "rating": 4.3,
+        "reference": "ChIJe3HbOCXQ7kYRCmKyXn_e5nM",
+        "scope": "GOOGLE",
+        "types": [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2721,
+        "vicinity": "Uzvaras bulvāris 10, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.951969,
+                "lng": 24.1167318
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9532561802915,
+                    "lng": 24.1181514802915
+                },
+                "southwest": {
+                    "lat": 56.9505582197085,
+                    "lng": 24.1154535197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Whitehouse Restorāns",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2867,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110981814657338449420\">Whitehouse, restorāns</a>"
+                ],
+                "photo_reference": "AdDdOWovX2eM5tAHAPdrUW0Au5AIpk9Pr5S8RK58j3ScjLmjNVuwsLLIf1AuGzVBGWYfZB8yh5JiXrGW_s-1On1sSrw7RlL92-Dw9BpSnfYES3hyk9WfYoliqHlvHETDAiUzl0EfnDdkDhE4sHI1uLSONqCCe4aH15xDYZM5ID2lqhV51_c",
+                "width": 4300
+            }
+        ],
+        "place_id": "ChIJLwXWD9LP7kYRcIUZt5T3Dw4",
+        "plus_code": {
+            "compound_code": "X428+QM Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X428+QM"
+        },
+        "price_level": 4,
+        "rating": 4.6,
+        "reference": "ChIJLwXWD9LP7kYRcIUZt5T3Dw4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 851,
+        "vicinity": "Tērbatas iela 2, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.95405549999999,
+                "lng": 24.1267125
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.95537068029149,
+                    "lng": 24.1281189802915
+                },
+                "southwest": {
+                    "lat": 56.9526727197085,
+                    "lng": 24.1254210197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Galerija Istaba",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1140,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118430272945715774941\">ISTABA, Galerija</a>"
+                ],
+                "photo_reference": "AdDdOWok3eaqzvdeHpKPv4mSwz__s_75-xf8RyUfCzSjLq5KTkzgri8o6CpCbNyqN5GD7xIVjxUPJY9NNPrzoiF1vLq6l1d8ujsPvTlY_0V0jm2ttn6UuPLsd7-bsEL0cQQOygzodJDuXhyP8mfzErY46a7_E0HBXlASsSXEcGcVWazsGd3j",
+                "width": 1140
+            }
+        ],
+        "place_id": "ChIJx4DKO83P7kYRKWVjGZBUyOk",
+        "plus_code": {
+            "compound_code": "X43G+JM Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X43G+JM"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJx4DKO83P7kYRKWVjGZBUyOk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 372,
+        "vicinity": "Krišjāņa Barona iela 31B, Rīga"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 56.95158679999999,
+                "lng": 24.1065126
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.95282848029149,
+                    "lng": 24.1077805802915
+                },
+                "southwest": {
+                    "lat": 56.95013051970849,
+                    "lng": 24.1050826197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Balzambārs",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102546255764226288079\">Tommy Teibakk</a>"
+                ],
+                "photo_reference": "AdDdOWqB3EOMs4_u17LegbSd2p1UheeOOEt3EfZ8XC7YPLGTb-3AWOhrr-wRz0tTKpjUA1ogFKES0hgVNdwUWDxe34keQWQRi6asB7jc15w5zbyvqonG8muq_i6nZNH0vpfjqgj1CDBr72nyXAogCtT44lGYXVQuJzU75VkycyIcWCmSyxa_",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJWbYcmNDP7kYRQ69V7LLRuFc",
+        "plus_code": {
+            "compound_code": "X424+JJ Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X424+JJ"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJWbYcmNDP7kYRQ69V7LLRuFc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 486,
+        "vicinity": "Torņa iela 4, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.956301,
+                "lng": 24.1104095
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9577205802915,
+                    "lng": 24.11168283029151
+                },
+                "southwest": {
+                    "lat": 56.9550226197085,
+                    "lng": 24.1089848697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "La Boheme catering , SIA, Restorans",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJT_9K9s_P7kYRw8W2WesMDKM",
+        "plus_code": {
+            "compound_code": "X446+G5 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X446+G5"
+        },
+        "rating": 3.5,
+        "reference": "ChIJT_9K9s_P7kYRw8W2WesMDKM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "Jura Alunāna iela 2A, Centra rajons, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.97993489999999,
+                "lng": 24.115407
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.98124163029149,
+                    "lng": 24.1168014302915
+                },
+                "southwest": {
+                    "lat": 56.97854366970849,
+                    "lng": 24.1141034697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name": "Neste",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109532132119479777683\">Kaspars Kurpnieks</a>"
+                ],
+                "photo_reference": "AdDdOWpNn2liMm3PGwxFAyOKKHc2Vmf3mcw-9598zwL_G5_nHA8lG2XZgaVlFvz3hOLwATvj0b5koBpRiBFU7mYYwbaBSUIvrrNtnvfj2ZbSpWkbOFo7Hh7YYxnj-KxxYsU704E9HgenZMsUtaNBhayGxms4FwvjBgi2PzYhFXwencEHnAks",
+                "width": 2448
+            }
+        ],
+        "place_id": "ChIJGTRjFvHJ7kYR29eMbmC2O60",
+        "plus_code": {
+            "compound_code": "X4H8+X5 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X4H8+X5"
+        },
+        "rating": 4.1,
+        "reference": "ChIJGTRjFvHJ7kYR29eMbmC2O60",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "car_wash",
+            "convenience_store",
+            "car_repair",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 82,
+        "vicinity": "Rankas iela 2, Rīga"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 56.94237940000001,
+                "lng": 24.0800829
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9437783802915,
+                    "lng": 24.0814713302915
+                },
+                "southwest": {
+                    "lat": 56.94108041970851,
+                    "lng": 24.0787733697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Le Sommet",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 3932,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102230340989356544579\">Restaurant Le Sommet</a>"
+                ],
+                "photo_reference": "AdDdOWoXRY7rXrPBvlv_O27CI0fXP_xx6ukiRwd79vytHl8Z2y5BWFhhAqx4uf9KeddUS1h9an9o4bxaLmzY0YYIEwHBrW7Xd1NwSW0Eph2h3dupPHDYcMGKiNgOuKyxAao80FRRHAGaX-0xxUfk5UJrDUcrirVMablbW0HHgNIW7OdBpzwA",
+                "width": 5898
+            }
+        ],
+        "place_id": "ChIJF97KMyLQ7kYR5jE4nBO1PCE",
+        "plus_code": {
+            "compound_code": "W3RJ+X2 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86W3RJ+X2"
+        },
+        "rating": 4.4,
+        "reference": "ChIJF97KMyLQ7kYR5jE4nBO1PCE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 110,
+        "vicinity": "Slokas iela 1, Zemgales priekšpilsēta, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.9683056,
+                "lng": 24.144717
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.9696623302915,
+                    "lng": 24.1460732802915
+                },
+                "southwest": {
+                    "lat": 56.9669643697085,
+                    "lng": 24.1433753197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name": "Neste Senču",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115243244269214810756\">Julijs Kuzmins</a>"
+                ],
+                "photo_reference": "AdDdOWq_18MVtoqVgfhN1qbEKwnUuD_PTi_le3XA3gq8dGizN_tr5RGauYZeaW1HUZjLzG54lhGyfSt6X4nR616ijyUevJm61MSh47oMU7vPCPnUkS4jqcpDcKdBUi_JGh3GKsAvE3DWscP_1rb-kKqgaCAaW-f7XsEym7ZdwepJoAdUzc4a",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJh_CrUBTO7kYRRB2IltNqu7U",
+        "plus_code": {
+            "compound_code": "X49V+8V Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X49V+8V"
+        },
+        "rating": 4.2,
+        "reference": "ChIJh_CrUBTO7kYRRB2IltNqu7U",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "car_wash",
+            "convenience_store",
+            "car_repair",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "Senču iela 2, Rīga"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.95935679999999,
+                "lng": 24.1016938
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.96070358029149,
+                    "lng": 24.1031251802915
+                },
+                "southwest": {
+                    "lat": 56.95800561970849,
+                    "lng": 24.1004272197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Pūku priedītes",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 533,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111261975244956757082\">Pūku priedītes</a>"
+                ],
+                "photo_reference": "AdDdOWq9ZoaQEXZnJxi9mM8ScrqpHo7I8K-vq69k3OXDAwwZy0BCEOZFNPzF6OVIRy4AyKHb4MPddZbW6YSORAe9A8BX_18697sO9Mgu27acjwt2Nm7Tln02VTAZRGG8Vo1eVS3AV-RtBElpVsge_Jg1r-aQQiCRoauyUIA-6xeTXoswcS2f",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJpXddncTP7kYR88Rbg12DXvk",
+        "plus_code": {
+            "compound_code": "X452+PM Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X452+PM"
+        },
+        "rating": 5,
+        "reference": "ChIJpXddncTP7kYR88Rbg12DXvk",
+        "scope": "GOOGLE",
+        "types": [
+            "grocery_or_supermarket",
+            "health",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "Pūku priedītes\", Salaspils novads"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 56.9543545,
+                "lng": 24.1201441
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 56.95572723029149,
+                    "lng": 24.1215743302915
+                },
+                "southwest": {
+                    "lat": 56.9530292697085,
+                    "lng": 24.1188763697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Vairāk Saules",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 300,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103253900008796218316\">Vairāk Saules</a>"
+                ],
+                "photo_reference": "AdDdOWpAlwDOYN6S5n71OQCxjz6kKnCx1qO__tvrKeHy1Fzp5-Czr3d-c5yl2gFmLJW5sW0JXgvEmEqb9n5earnYFHZIfKYpah8imx7mF_4fbyW8mNvY0F4wgPBZYZR9oyZDUqxknlTr5JZsdkHC1QUN7YrRiOmEumZJIozR6ftQGfdviTHC",
+                "width": 980
+            }
+        ],
+        "place_id": "ChIJ975A6c3P7kYRWjyFxRuH8so",
+        "plus_code": {
+            "compound_code": "X43C+P3 Riga, Rīgas pilsēta, Riga, Latvia",
+            "global_code": "9G86X43C+P3"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ975A6c3P7kYRWjyFxRuH8so",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 951,
+        "vicinity": "Dzirnavu iela 60, Rīga"
+    }
+]

@@ -1,0 +1,1068 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4288889,
+                "lng": 24.7327778
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.43034468029152,
+                    "lng": 24.7337262302915
+                },
+                "southwest": {
+                    "lat": 59.42764671970851,
+                    "lng": 24.7310282697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Kreutzwald Hotel Tallinn",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100078819696233755402\">Kreutzwald Hotel Tallinn</a>"
+                ],
+                "photo_reference": "AdDdOWqULhgSz9f0R1DtpcCRKz_CwJNP9F98I59WnegKolrIfMOok-lxLdsC504ukp6pfCzXT7xZ1WiFJ6Sm_bW7sUa5YF7FN6Q8q73McsNcsFUVNf134EmTP7W8-7yn0DZlCpl7fcV3rVL4s9kVu7LLDii1l3pZdKp9BIBe7Y0fnHetNKrx",
+                "width": 2500
+            }
+        ],
+        "place_id": "ChIJK2o7_JqUkkYRhGLMtkaDFMw",
+        "plus_code": {
+            "compound_code": "CPHM+H4 Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPHM+H4"
+        },
+        "rating": 4.4,
+        "reference": "ChIJK2o7_JqUkkYRhGLMtkaDFMw",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1349,
+        "vicinity": "Endla 23, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4374281,
+                "lng": 24.7550818
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.43866958029151,
+                    "lng": 24.7564534802915
+                },
+                "southwest": {
+                    "lat": 59.4359716197085,
+                    "lng": 24.7537555197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Nordic Hotel Forum",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2668,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105930211577796518592\">Nordic Hotel Forum</a>"
+                ],
+                "photo_reference": "AdDdOWoiiC2tGFz6FnMxcbV0WGtlgm_C6qpVR5wrFt1_iAxlwRHy6wYglUjUixBwbJfHQ_M_p16aTZznzZCstLR78-Zw_BzdLehw-Cis6_X2yDsrdEii8luf3Rsc4W2zcCr64fCrLWlc2bP0FJW-3wQwkquqt0Ugfu6_yLpZ2PdKsB_fshEf",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJUWpAlWGTkkYR2SAvU5eaIoc",
+        "plus_code": {
+            "compound_code": "CQP4+X2 Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CQP4+X2"
+        },
+        "rating": 4.6,
+        "reference": "ChIJUWpAlWGTkkYR2SAvU5eaIoc",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3066,
+        "vicinity": "Viru väljak 3, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.43973159999999,
+                "lng": 24.7551212
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4410800802915,
+                    "lng": 24.7565610302915
+                },
+                "southwest": {
+                    "lat": 59.43838211970849,
+                    "lng": 24.7538630697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Metropol Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1738,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112803887159397651008\">Susann</a>"
+                ],
+                "photo_reference": "AdDdOWraogcmN1e1zPet2Jpaj-z2k7p0PFhSqKA_u2Rbmdev-25ghpww8TdiTGe9nw4x1qK7-A2eLWUISRPp613QvHdzE8lr1G2bHhRb34EEhjT4se4zRKkwQ23p6lRvT30uMMRfMRKBDJ-jTUCdcVnYJKmJ45sg8IBmwtNgyS2UUmr4eQ2s",
+                "width": 2711
+            }
+        ],
+        "place_id": "ChIJKYrLLmGTkkYR06ll1udBMvE",
+        "plus_code": {
+            "compound_code": "CQQ4+V2 Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CQQ4+V2"
+        },
+        "rating": 3.9,
+        "reference": "ChIJKYrLLmGTkkYR06ll1udBMvE",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2359,
+        "vicinity": "Roseni 13-10111, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4415091,
+                "lng": 24.7604697
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.44280673029151,
+                    "lng": 24.7620852802915
+                },
+                "southwest": {
+                    "lat": 59.44010876970849,
+                    "lng": 24.7593873197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hestia Hotel Europa",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 876,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116753446461290100738\">Hestia Hotel Europa</a>"
+                ],
+                "photo_reference": "AdDdOWo_k3k-mIQM7ZxB53-VOr-DNJ_t3YTKzWiEU43QPLs-TT5ZbKIguB30XcQsPHmFblFBa4L5koWR4Gj5KS-WLa9uWTO3ojC1wQodL6LMGMnNf-Jf9m-9suyOs8Fl7wvuIu60ulNR0Pk66xUMeDGc6WLC6TrtA3PR_DDpNLKpv3nNm0av",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJYRHrYGeTkkYRQD4iIHrckc4",
+        "plus_code": {
+            "compound_code": "CQR6+J5 Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CQR6+J5"
+        },
+        "rating": 4.4,
+        "reference": "ChIJYRHrYGeTkkYRQD4iIHrckc4",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3462,
+        "vicinity": "Paadi 5, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4385539,
+                "lng": 24.7438108
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4398680802915,
+                    "lng": 24.7452307802915
+                },
+                "southwest": {
+                    "lat": 59.43717011970849,
+                    "lng": 24.74253281970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "St.Olav Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107702832183427252618\">Thuy-Linh Phi</a>"
+                ],
+                "photo_reference": "AdDdOWrmoukVU0T_QhKa_e0h0um_Y7thoa6yVjAD-wwqF4GrUNyWO7Ag_zO2YCO-U2SIbw69ar5vL48S4am4wuEIbhgD7QLU0olmQ7z5n-GvIq-AdSmOAqoIo25sp0C45TS2xaydqZCQxBDOLzrFYdFayVU6skZ-TGwRiLrNHUIzt-mS1NvE",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJXe1BhmOTkkYRK4G2qiqishM",
+        "plus_code": {
+            "compound_code": "CPQV+CG Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPQV+CG"
+        },
+        "rating": 3.8,
+        "reference": "ChIJXe1BhmOTkkYRK4G2qiqishM",
+        "scope": "GOOGLE",
+        "types": [
+            "beauty_salon",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2005,
+        "vicinity": "Lai 5, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.43284939999999,
+                "lng": 24.761458
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4344366302915,
+                    "lng": 24.7626616302915
+                },
+                "southwest": {
+                    "lat": 59.43173866970849,
+                    "lng": 24.7599636697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Swissôtel Tallinn",
+        "photos": [
+            {
+                "height": 4823,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107604851026098443875\">Swissôtel Tallinn</a>"
+                ],
+                "photo_reference": "AdDdOWrih9100uGiB-ykuKxTv0Tv_Whul35NWCTiyc-yFuRI2SV_YQ8yVZ55tcd2kpOw2ZhMetdjyi5eGU-govYFXOQ-Io8f9_QQLJjpqVr8lAxUxw4zJLNpdadWGWhY09ezjuIalEgrHMMOuBlMRnBLSyKPhzqC41Q8n9hRa8zz9ZC4M3Ps",
+                "width": 3215
+            }
+        ],
+        "place_id": "ChIJAQAAfKCUkkYRIzhMw_UpFI4",
+        "plus_code": {
+            "compound_code": "CQM6+4H Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CQM6+4H"
+        },
+        "rating": 4.7,
+        "reference": "ChIJAQAAfKCUkkYRIzhMw_UpFI4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2718,
+        "vicinity": "Tornimae Street 3, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.44014809999999,
+                "lng": 24.7511311
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.44148873029151,
+                    "lng": 24.7522771802915
+                },
+                "southwest": {
+                    "lat": 59.4387907697085,
+                    "lng": 24.74957921970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Kalev Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1500,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113246877434494964775\">Kalev Spa Hotel &amp; Waterpark</a>"
+                ],
+                "photo_reference": "AdDdOWri0zz58_IumgUbhkDKYTKbtFWEfvqObcI77MulhdT_hXf7UEoW6lg4Rj24-6wePUzzON0_HAw1DNmxADQ5bH1Frpf_LC3jMURQXH5ntbi6UL7fAdrAwHtdWYFgcs7tWLxh-09iJ6TFfxgnCoT9_Wr9lcweHOBfafpgQWLjl3sg_Zi4",
+                "width": 2100
+            }
+        ],
+        "place_id": "ChIJLzI2WmGTkkYRLE5EGP1mtNw",
+        "plus_code": {
+            "compound_code": "CQR2+3F Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CQR2+3F"
+        },
+        "rating": 4.2,
+        "reference": "ChIJLzI2WmGTkkYRLE5EGP1mtNw",
+        "scope": "GOOGLE",
+        "types": [
+            "amusement_park",
+            "spa",
+            "beauty_salon",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3293,
+        "vicinity": "Aia tänav 18, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4387133,
+                "lng": 24.7474854
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4399943802915,
+                    "lng": 24.7492460302915
+                },
+                "southwest": {
+                    "lat": 59.43729641970849,
+                    "lng": 24.7465480697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Schlössle Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 9248,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104719938898964175619\">Kjerstin Ädel Malmborg</a>"
+                ],
+                "photo_reference": "AdDdOWpkrgT7tYMmp5NwbeV7X2eVqHLMQrlW_0mtZkxFpJzjzVInVjKF1cjjGFxOk_G0wJhHLQGWDnv1rwdz7ktvwLTuyShfayQxJ-zrkaDHH4UaGxi07cnoa7yCIjkzIzhlev3C9s5yQQiqk2kQC0YTFVJHErVLQ2OE_qaBENElqJFe91Z3",
+                "width": 6936
+            }
+        ],
+        "place_id": "ChIJ_SaBzWOTkkYRSMpeR32py0s",
+        "plus_code": {
+            "compound_code": "CPQW+FX Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPQW+FX"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ_SaBzWOTkkYRSMpeR32py0s",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 460,
+        "vicinity": "Pühavaimu 13-15, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.43738029999999,
+                "lng": 24.7467699
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4386131802915,
+                    "lng": 24.74941740000001
+                },
+                "southwest": {
+                    "lat": 59.43591521970849,
+                    "lng": 24.7458874
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Elevant resto",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117550851898510781014\">Elevant restoran</a>"
+                ],
+                "photo_reference": "AdDdOWo3n8eeawe1GBfnvsnjHjMGUEb5cMJa-JYtocxeQZQ2SOaUE3WozU_YOqZr5KjQ6mOG8lQ4TgHhOnCblXUYUtCw3XjiLvG7qLMl7A2CNJJWIRLdimybW1dXj8ffh-vvePJAEfrmRuJbCnaUl2osVT4HUJwD0TBqaX8v6DRzn8ILDn1B",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJO0fGI2KTkkYR-7Gs-IelRgo",
+        "plus_code": {
+            "compound_code": "CPPW+XP Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPPW+XP"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJO0fGI2KTkkYR-7Gs-IelRgo",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 916,
+        "vicinity": "Vene 5, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4366705,
+                "lng": 24.7459203
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4378725802915,
+                    "lng": 24.74676925
+                },
+                "southwest": {
+                    "lat": 59.43517461970849,
+                    "lng": 24.74397305
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restoran Olde Hansa",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105910787487717512266\">Alessandro</a>"
+                ],
+                "photo_reference": "AdDdOWrerCTdbr1eDr6XPfZ_NLct_Ke81f7-qtnoOYuJPw6wsmJIf5W0DyH6XTWLZdcOhQAzeEIC6wki1j1K7EWI79ZZSJly900McRZOru4beAaYC9FOxsld6nWO4hIryABC60AvMwz4_DXZkAVtmM2c9JaFmksnZXC50lIqAfeKLTLHUz1R",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJn6UcG2KTkkYRXQKgYrLUtvA",
+        "plus_code": {
+            "compound_code": "CPPW+M9 Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPPW+M9"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJn6UcG2KTkkYRXQKgYrLUtvA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 9811,
+        "vicinity": "Vana turg 1, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4383861,
+                "lng": 24.7456299
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.43974833029151,
+                    "lng": 24.7469473302915
+                },
+                "southwest": {
+                    "lat": 59.43705036970849,
+                    "lng": 24.74424936970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Cafe Maiasmokk",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105119428731437006737\">Kohvik Maiasmokk</a>"
+                ],
+                "photo_reference": "AdDdOWosqIhzKh467AbAxh6_cbT41wiuBzCXMKr3EjG-sTW8lVciMzEXkDPqGZs1rfmm3aFxZw8FGJoadbmCdiftP-30JjCPHTkPPSa7DCl-G41_5CUjqbTN5ZjaohhcnlCdezH6FyB_EbBXDIFRuodTaZYaQXVe5R9gJyae1jgTy64CSh5b",
+                "width": 6048
+            }
+        ],
+        "place_id": "ChIJQ--MSGKTkkYRFPIs_SFl3Hg",
+        "plus_code": {
+            "compound_code": "CPQW+97 Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPQW+97"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJQ--MSGKTkkYRFPIs_SFl3Hg",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3118,
+        "vicinity": "Pikk tänav 16, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4365454,
+                "lng": 24.7463433
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.43785688029151,
+                    "lng": 24.7471789
+                },
+                "southwest": {
+                    "lat": 59.4351589197085,
+                    "lng": 24.7438365
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "MammaMia Clazz Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 389,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115918916676008360383\">Restoran MammaMia Clazz</a>"
+                ],
+                "photo_reference": "AdDdOWp_6xUtU8XflaG0HPAdMwen2fzgPy3eahwtL6BBfDq3Kj4bYMWexa--vfrXVmMVZ622ofJm7t1mwMQj2BjF7dxDL09upGo_JaId78zcSaGb_j3E_JGPkjyVetwNiiOabWzOCEIIyD0YmoY4LUyzKI5aJxa7MqPI_SWFOdrsMWXFY8fO",
+                "width": 683
+            }
+        ],
+        "place_id": "ChIJSzyCHGKTkkYRHvR4pgIR9rg",
+        "plus_code": {
+            "compound_code": "CPPW+JG Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPPW+JG"
+        },
+        "price_level": 2,
+        "rating": 3.4,
+        "reference": "ChIJSzyCHGKTkkYRHvR4pgIR9rg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 972,
+        "vicinity": "Vana turg 2, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4361766,
+                "lng": 24.7463735
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.43722268029151,
+                    "lng": 24.74845905
+                },
+                "southwest": {
+                    "lat": 59.4345247197085,
+                    "lng": 24.74563165
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant C'est La Vie",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105692195135446292363\">Restaurant C&#39;est La Vie</a>"
+                ],
+                "photo_reference": "AdDdOWqI4x8pIzf68g1eIETSZ6Kpjcl11mNr1Hx14AdMsx8xiIPwRMclu0FY1jhptNKcsc-a2ENrcWvGFSjw6uhgyq0zBF-YKmJ9S_AK80Kt7x7IgFsTeJfpSuGlBFdkz2PabNLgRs9rrPsoGmySWqxVdKUy0MOENr_80ICF_BI_XfKP3bFI",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJa2L-AmKTkkYRTp5E1kkDp9I",
+        "plus_code": {
+            "compound_code": "CPPW+FG Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPPW+FG"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJa2L-AmKTkkYRTp5E1kkDp9I",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 256,
+        "vicinity": "Suur-Karja 5, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.44041029999999,
+                "lng": 24.747945
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4417076802915,
+                    "lng": 24.7495067302915
+                },
+                "southwest": {
+                    "lat": 59.43900971970849,
+                    "lng": 24.7468087697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Chedi",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 663,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110397216136840181901\">Chedi</a>"
+                ],
+                "photo_reference": "AdDdOWqxKqaVrskLCjnBqd4yeh4tJOkuXg2dQUGhz6j8rCxMnGO6acnsOdm5AlcGqs8_YMf2umSLDip06MSs1Q5q8eQJXG3PKY51ZC1wU4fvKVcnmvXdcv7c-mRETu8Yi_cuM3E47fLiTQq3Kz5Yw-ov9j3CUrbZYdfWWkgB7FFh_3UQlalJ",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJrxCD62OTkkYRQldSNMdDfWY",
+        "plus_code": {
+            "compound_code": "CPRX+55 Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPRX+55"
+        },
+        "rating": 4.5,
+        "reference": "ChIJrxCD62OTkkYRQldSNMdDfWY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 418,
+        "vicinity": "Sulevimägi 1, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.438219,
+                "lng": 24.774622
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.43958508029151,
+                    "lng": 24.7760547802915
+                },
+                "southwest": {
+                    "lat": 59.43688711970849,
+                    "lng": 24.7733568197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Villa Thai",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3568,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103168237008007045811\">Restoran Villa Thai</a>"
+                ],
+                "photo_reference": "AdDdOWrZ-cblVwwg3ciRdgVne5WcmmVy4nkkOga_GUi-nXATg6acijUTbWnXenNZwEjUvIs_P8GGRaAWR7a9Z0tyP3MUKqMWddS3HE4KOeoHKXp3IR9qLNTo9eq3IrgxopNodCLXtyT3ZFQgYhpZYQqBkKiwSOn8VA2bn61gl8C-UdJnO2Mp",
+                "width": 5320
+            }
+        ],
+        "place_id": "ChIJ6aWPvVuTkkYReUfSC4R1Epg",
+        "plus_code": {
+            "compound_code": "CQQF+7R Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CQQF+7R"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJ6aWPvVuTkkYReUfSC4R1Epg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1246,
+        "vicinity": "J. Vilmsi tänav 6, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.43318379999999,
+                "lng": 24.7418952
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4344912802915,
+                    "lng": 24.7431978302915
+                },
+                "southwest": {
+                    "lat": 59.43179331970849,
+                    "lng": 24.7404998697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pizza Americana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2048,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106272837391728926401\">Pizza Americana</a>"
+                ],
+                "photo_reference": "AdDdOWrKE9M5-yAc26WYinnxGXBmuD7mzh9tLJWzomT-LZhjCgd5qforkJoU_ap_e1UppFy8XnnsU5Du-BdCJTAqVUZiBCZzlrDE4a7BQgAfXafNBSHuOSQSgpJxlMmGpowJLpcssJ9eL4seTefRHLyT8_EUkfx8QHN-PtjLbohh28SIawX-",
+                "width": 1536
+            }
+        ],
+        "place_id": "ChIJEa2h552UkkYRKJ9P93bbt6E",
+        "plus_code": {
+            "compound_code": "CPMR+7Q Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPMR+7Q"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJEa2h552UkkYRKJ9P93bbt6E",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1687,
+        "vicinity": "Kaarli puiestee 2, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4369165,
+                "lng": 24.743681
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.43836043029151,
+                    "lng": 24.7446380302915
+                },
+                "southwest": {
+                    "lat": 59.4356624697085,
+                    "lng": 24.7419400697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Beer House",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1836,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111950181997349410254\">Tony Dk 1971</a>"
+                ],
+                "photo_reference": "AdDdOWqJDYvfBB9PomQCp5tfyX7XyWWByCEc4UEaA8ELuDE4fT1l_l5kCv_40L5SJZfBQOUXLjFJ4FBJ_TYuLFJ8mssu10-iHEUsgvPv5FOKi-YwrNqb8P5WgCD3NyQCS8tyBAsfkqA_Xpke-ZATjhf93O0qbyvyCYh_Lwtj1e6HWQr5Deg",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJSUYScmKTkkYRsa6Kz2QyQN0",
+        "plus_code": {
+            "compound_code": "CPPV+QF Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPPV+QF"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJSUYScmKTkkYRsa6Kz2QyQN0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3045,
+        "vicinity": "Dunkri 5, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.4393602,
+                "lng": 24.7542802
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.44070348029152,
+                    "lng": 24.7554691802915
+                },
+                "southwest": {
+                    "lat": 59.4380055197085,
+                    "lng": 24.7527712197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bowling KUULSAAL",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3265,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114507629028959298789\">Aivar Põllu</a>"
+                ],
+                "photo_reference": "AdDdOWqWb1Aoktyx_BjYQ7TlX_fVK-7enkL_8if7Q-1CddRvnU6LuRHQzpY0QIDGFroAnKQIRuvmar8oMrvnLeFJRAQZEqkQaH0RvOdFDWHmA1BtjCXqkeHTkqU6Sh-Zde2fYozi2KfWPzLxFKgkB1s61GWhzcJf2BB_YEkEBn4eVnQgXTo3",
+                "width": 4898
+            }
+        ],
+        "place_id": "ChIJb7NJJWGTkkYRaaFPlkGq1HM",
+        "plus_code": {
+            "compound_code": "CQQ3+PP Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CQQ3+PP"
+        },
+        "rating": 4.4,
+        "reference": "ChIJb7NJJWGTkkYRaaFPlkGq1HM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2036,
+        "vicinity": "Mere puiestee 6, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.43654009999999,
+                "lng": 24.7491785
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.4379446302915,
+                    "lng": 24.7506623302915
+                },
+                "southwest": {
+                    "lat": 59.4352466697085,
+                    "lng": 24.7479643697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Goodwin",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111163075631819350564\">Kalle Pihelgas</a>"
+                ],
+                "photo_reference": "AdDdOWq35-QOTyeQ0ibs_oi5gAucZipaaOgc1EXEtjDApd_K-JFgrCqgKRovwNu6mZBRBgrEHB8qUd1xlKvV_NKaeacTvz5LmunMtH-xEKRO9_ZCugwtv10oKlmlbFrvUzVyyZavQ6gojWHAoIZp0I-nzT3fv-oiWAO6manmP0WHucDoIDhy",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJ33bQlGGTkkYRykoUBVB9pBg",
+        "plus_code": {
+            "compound_code": "CPPX+JM Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPPX+JM"
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "ChIJ33bQlGGTkkYRykoUBVB9pBg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1879,
+        "vicinity": "Viru 22, Tallinn"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.44516369999999,
+                "lng": 24.7478027
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.44651488029151,
+                    "lng": 24.7491555802915
+                },
+                "southwest": {
+                    "lat": 59.4438169197085,
+                    "lng": 24.7464576197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Moon",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113833792241321335775\">Restoran Moon</a>"
+                ],
+                "photo_reference": "AdDdOWpcg6o0Dv-8NLX32Pr2Kxmw6P7cntUiXA4XUJDvMPDR4qwBcDxCuWVi2-KXSJgImsr2kKla4GmvWn9LVRxagj_mJtvDzOuWCHotoe0nJ16oforkyi3vaqdvmmj742YjcMUmOeLRi_wRJV6uSz7MD6wsMIKaQZUscaX2TmUjna3vVYFQ",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJwZYTGWWTkkYRBwLl838J0QQ",
+        "plus_code": {
+            "compound_code": "CPWX+34 Tallinn, Harju County, Estonia",
+            "global_code": "9GF6CPWX+34"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJwZYTGWWTkkYRBwLl838J0QQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1775,
+        "vicinity": "Võrgu tänav 3, Tallinn"
+    }
+]

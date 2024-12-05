@@ -1,0 +1,46 @@
+{
+    "name": "Philia restaurant",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "Ismar",
+            "author_url": "https://www.google.com/maps/contrib/117858007534416856133/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJzBSzaydkVIa14XF5TgxarUd_E7isE5oE0r1IUzn2uCrYcA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "",
+            "time": 1715542483,
+            "translated": false
+        },
+        {
+            "author_name": "igor Oncea",
+            "author_url": "https://www.google.com/maps/contrib/112299157569945304151/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWETjkxJMcI8Iu8vjITwUMBjKE_QDXUzi3MCpQ1r0mFJPS2J-3y=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1694885338,
+            "translated": false
+        },
+        {
+            "author_name": "Rumen Pavlov",
+            "author_url": "https://www.google.com/maps/contrib/100194202440353019645/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxK5kWmaU4qxojjlBoHYPbUhy7pxgnuCuIIr7UiOV4ImtkUpDx=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "",
+            "time": 1654148551,
+            "translated": false
+        },
+        {
+            "author_name": "Irena Mugosa",
+            "author_url": "https://www.google.com/maps/contrib/113688277614333696694/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9TU_K7eW1Tj-jZVjkI_uJlv58H1OU3RwA65D0PpA8XxyCeQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "",
+            "time": 1526190183,
+            "translated": false
+        }
+    ]
+}

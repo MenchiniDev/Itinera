@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Sans Souci Wien",
+    "rating": 4.8,
+    "reviews": [
+        {
+            "author_name": "Tracie B",
+            "author_url": "https://www.google.com/maps/contrib/108629586386536671576/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdZCWms3eIydZCqZ1OtiIypr8XuVza9ayKg43HXqpGb9HmtQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Hotel Sans Souci truly impressed us during our recent three-night stay. Upon arrival, Ritchie greeted us warmly and ensured a smooth check-in process. He provided us with valuable recommendations for local dining and attractions, as well as a thorough explanation of the hotel amenities. The room was immaculate, featuring modern European decor and attention to detail. We appreciated the spacious layout which made it a relaxing retreat after a day of exploring. Breakfast each morning was a standout experience. The variety of fresh options, including pastries, fruits, and local delicacies, catered to every taste. Daily coffee service was a delightful touch, we enjoyed cappuccinos both in the morning and during evening hours,\nThe spa facilities were exceptional. We particularly enjoyed the steam room and saunas, which provided a rejuvenating escape. The beautifully designed pool area was another highlight, well-maintained and perfect for a refreshing dip. The hotel's location was another major plus, it is conveniently situated within walking distance of many of Vienna's key attractions, making sightseeing easy and enjoyable. Overall, Hotel Sans Souci exceeded our expectations with its impeccable service, exceptional facilities, and prime location. We left wishing we could stay longer and would highly recommend it to anyone visiting Vienna.",
+            "time": 1729916681,
+            "translated": false
+        },
+        {
+            "author_name": "Alex Bilsland",
+            "author_url": "https://www.google.com/maps/contrib/106008647785337246190/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCBTd4S--YHmoYZHs7xZgxC-5pWssIMKa3UfrNf-odlLwtGss=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Outstanding hotel -- exceptionally attentive and helpful staff; excellent breakfast and supper; very comfortable room. The location is ideal for access to the museum quarter, the Vienna State Opera, and other venues. Public transit is right outside the door with the subway just a few minutes walk from the front door.\n\nWhat really struck me about this place was the extreme competence of the staff. The waiters provided great wine recommendations (my advice, stick to the Austrian wines); the cleaning staff did an excellent job; front desk staff were welcoming, efficient, and happy to help.",
+            "time": 1732627284,
+            "translated": false
+        },
+        {
+            "author_name": "Mohammed Abdulgaffar",
+            "author_url": "https://www.google.com/maps/contrib/114434792611031892332/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw_TRNLhDtUo_1Y4YKYohVIg2Cx8H8D88OAAwd_vaoV4-q2Xkd=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "I stayed at this hotel during Christmas and had a pleasant experience overall. The hotel and SPA were very nice, providing a relaxing atmosphere after busy days exploring. The location is excellent, conveniently close to most activities, and the Christmas market was within walking distance, which added to the festive charm.\n\nHowever, one downside was the lack of on-site parking. Guests have to pay extra for parking, which can be inconvenient. Despite this, the overall experience was enjoyable, and I would recommend it for its great location and amenities.",
+            "time": 1732891561,
+            "translated": false
+        },
+        {
+            "author_name": "Mikey Bee",
+            "author_url": "https://www.google.com/maps/contrib/100878093300854140722/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwnlpvdmUoCmerdFUKVh-MKXyqR6TR6-ZU_NiMrwqIphD3FW0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Easily 5 stars. So many good things to say about this place. the location is perfect for going anywhere. Everything is within walking distance, along with the metro right across the street. The staff knows what they're doing and exceptionally friendly and very helpful in all stages of your visit. The restaurant is good. The gym was nice, I was able to get a decent workout with sufficient dumbbells. There's a grocery store in the same building that is very handy. Room service was great. This hotel definitely contributed to a wonderful vacation. Highly recommend.",
+            "time": 1730270351,
+            "translated": false
+        },
+        {
+            "author_name": "Alicia Svigals",
+            "author_url": "https://www.google.com/maps/contrib/102688409053213147911/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGt685j3LbwudACvhRsDhkkHpq-E-vROJ5dH3A4fHMFe911rWMPg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "This place is special.  Completely unique, and its in large part the people - they are all wonderful, kind, helpful.  Best vibe of any hotel we've ever been to!!  Plus beautiful and full of wonderful art;  its like living in an art museum...",
+            "time": 1732717362,
+            "translated": false
+        }
+    ]
+}

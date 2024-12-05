@@ -1,0 +1,66 @@
+{
+    "name": "Aston Business hotel",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Olya Rebikova",
+            "author_url": "https://www.google.com/maps/contrib/112869931970308085326/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBjgVsyLxaU9JxyteMFm2Ke-jxeSflRL5sTMA-P-siVvIG66BaiQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "The rooms and bathroom are spacious, locked off parking is provided.\nMy room had a  little kettle and a fridge as well as a safe which I found helpful. The service is very attentive and friendly. The breakfast is wonderful, from salty items to sweets and fruits.\nThe location of the hotel was perfect for my business trip but it's 3.5km away from the city centre.",
+            "time": 1662365266,
+            "translated": false
+        },
+        {
+            "author_name": "Susana Gutierrez",
+            "author_url": "https://www.google.com/maps/contrib/111928870316875262580/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrEq0ZvnaKpFJS_ZqF6Rs1DFHSgel3XX86RfZQk6G887M97vOf=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Minimalistic and modern decorated place. Very friendly and professional personnel.  Very clean, big and well ventilated rooms. Breakfast delicious and good displayed.  Next time visiting the lovely Bratislava , I'll stay here! 100% recommended!",
+            "time": 1562771702,
+            "translated": false
+        },
+        {
+            "author_name": "Fabio Diglio",
+            "author_url": "https://www.google.com/maps/contrib/104571368272194490636/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnOCGSSRvAob2LLwaYA7LxZMqAv27sij_TCYm1SYCkB8GfPcqx2w=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "6 years ago",
+            "text": "Aston is a modern hotel with a strategic location, near to the airport and downtown (15 minutes by public bus).\nVery spacious room with good Wifi connection and overall service.\nProbably it is a better choice for business travellers, also because of facilities such as conference rooms and parking areas.\nAnyway, good value for money if you don't mind to take a bus to get to the city center.",
+            "time": 1516559213,
+            "translated": false
+        },
+        {
+            "author_name": "Андрей Ц",
+            "author_url": "https://www.google.com/maps/contrib/112859064768064220917/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8m2QbVpUPnWXNvNlOEX8No3yM4Z4sh-ymUHEhVx1iMczeyJo=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "High level of professionalism!\n\n24/7 reception\n\nPeople who work there really care about client.\n\nStrongly recommend and thanks for nice service!\n\nAppreciate for nice experience🥰🥰🥰",
+            "time": 1689471620,
+            "translated": false
+        },
+        {
+            "author_name": "PAVEL ČANČARA",
+            "author_url": "https://www.google.com/maps/contrib/105715909509803709705/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfnMMVizsEgNAlynhidJt0M35xXE2oqT7jmpwCDjxFnRqC2A=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Eventhough the hotelni 4****, the the rooms do not smell well. I also do not find the rooms comfortable-it is just common design. And the breakfast starts only at 7 am ( too late for me, when travelling for business).",
+            "time": 1495746806,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Fresh Paradise",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Schaul Laurent",
+            "author_url": "https://www.google.com/maps/contrib/115080184995092586422/reviews",
+            "language": "en-US",
+            "original_language": "de",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ8VMag5Ms7k34TtL5kMQyLnrkjenB4419gAPSZpat3rf5HmvN=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Very good and quick, you can't complain, they also respond to special requests and even the toilet is clean",
+            "time": 1716799147,
+            "translated": true
+        },
+        {
+            "author_name": "Rody Rodman",
+            "author_url": "https://www.google.com/maps/contrib/113292269353144301284/reviews",
+            "language": "en-US",
+            "original_language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLtH2NmXr5BTgTPIlXR-EIU5nRyEDF1UUtIPTkYH6-3uRh4Bk9=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Bifanas top",
+            "time": 1698314798,
+            "translated": true
+        },
+        {
+            "author_name": "Carlos domingues",
+            "author_url": "https://www.google.com/maps/contrib/100044398672680118549/reviews",
+            "language": "pt",
+            "original_language": "pt",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIdheD65CMPUMrNytfjDQ8GIEUslFCQXaWEY9BFASbg8R2uQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Bonne Bifana et Francesinha",
+            "time": 1675165020,
+            "translated": false
+        },
+        {
+            "author_name": "AKG Belkin",
+            "author_url": "https://www.google.com/maps/contrib/105257454080424255551/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbfhEMah1AYKSLEudmNzlvm05HuJ-VDaFw6bKts43UxhnqAHCl=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Good welcome and good food",
+            "time": 1526720256,
+            "translated": true
+        },
+        {
+            "author_name": "LISA MARIE",
+            "author_url": "https://www.google.com/maps/contrib/110547929196135793706/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUstyd3YMV2ory1QMYUkqqZQAU4LJXElVccGm2zTBOYdynaxqMn3w=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "GOOD",
+            "time": 1558885924,
+            "translated": true
+        }
+    ]
+}

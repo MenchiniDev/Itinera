@@ -1,0 +1,66 @@
+{
+    "name": "Hôtel Georgette",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Yuliya Shypilova",
+            "author_url": "https://www.google.com/maps/contrib/102983252000685447171/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbLKyW3luUZEu34OU4RAc7aQk7zIc-c9_V8KrBhVKB6ENYj6dm=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "The hotel is recently renovated, really nice, tidy, exceptionally well designed interior, great hotel staff. Excellent bathroom, big towels and useful amenities. The rooms are extremely comfortable. The only little thing is the noise inside the hotel in the morning when guests are leaving and staff is cleaning the rooms. But in comparison to all the rest of the facilities, I can tolerate this. Will definitely come again. Location is great for my needs, vibrant night life around but not in the close vicinity of the hotel. Noise from the street disappeared around midnight. In all fronts the hotel was beyond the expectations",
+            "time": 1721671495,
+            "translated": false
+        },
+        {
+            "author_name": "esti levine",
+            "author_url": "https://www.google.com/maps/contrib/104581154114064604263/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0KLQFkwsneHmLgH4zPHo95FnQUL01ArDTiQGtHDGSGV9Pyxr9=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "If you’re looking for a restaurant with rooms above , that’s the place for you. Hotel Georgette is not a typical 4 star hotel with breakfast  Tracklin and bars, but with a restaurant where you can order a coffee juice omelette or cereal. A very nice gentleman welcomed me in the evening showed me around and helped with every request. and in the morning greeted me the lovely ladies at the front desk. The ⭐️ night bathroom with its technology was the perfect atmosphere for the end of the day.",
+            "time": 1729266416,
+            "translated": false
+        },
+        {
+            "author_name": "Lachlan King",
+            "author_url": "https://www.google.com/maps/contrib/113807277175637866216/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9Mo_DSAV4W_-POW1xVi_bZ7WzQrwXNJA-CuOAtzfuXhfQ9A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "If I could rate this hotel more than 5 stars I would. The location is magnificent and I can’t speak higher of the staff. I unfortunately injured my ankle while I was on holiday and all the staff were so lovely and accommodating. No request or question ever seemed to bother them - they are very attentive. The attached restaurant is also very very good for both brunch and dinner foods. Rooms are decently sized for Paris standards and very clean and presentable. I am looking forward to coming back in the future :)",
+            "time": 1718893580,
+            "translated": false
+        },
+        {
+            "author_name": "Amir Baum",
+            "author_url": "https://www.google.com/maps/contrib/112394569722850073321/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg_Gw2iUAokB6y_lcSv8hKu_N4LmIEL9Wc9xuE96SGR3ID-zE=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "The safe in my room wasn't working, so I asked the shift manager for assistance. Unfortunately, he wasn't able to provide a solution or offer me another room. It seemed like they didn't consider the safe a priority, which was a bit disappointing.\n\nHowever, the rest of the service was excellent. The staff were very friendly and accommodating. When I realized I had forgotten my toothbrush, they kindly provided me with a personal hygiene kit at midnight. The room itself was fine, and the bathroom looked really nice and newly renovated.\n\nTake under consideration that you need to do a 100€ deposit while checking in and you can’t do that with phone wireless payment. Only with a physical credit card.",
+            "time": 1717833333,
+            "translated": false
+        },
+        {
+            "author_name": "Amit Goldman",
+            "author_url": "https://www.google.com/maps/contrib/117612241113481843686/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4G3XewQoQkFf3XtqqXySJmHMQfGhQIjwoyQcBDR_bhSdh7g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Hotel in an excellent location, the rooms are very clean and very beautiful, there is a boutique atmosphere.  There is a restaurant under the hotel, but regardless, in the whole area there are many shops, restaurants, cafes and bars.  There are 2 metro stations nearby (the closest is about a 5 minute walk) The staff was very nice and helped with what was needed.   Had a great time!",
+            "time": 1727370688,
+            "translated": false
+        }
+    ]
+}

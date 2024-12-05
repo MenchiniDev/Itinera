@@ -1,0 +1,66 @@
+{
+    "name": "Hard Rock Cafe",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "ベナクリス",
+            "author_url": "https://www.google.com/maps/contrib/103372744736103087814/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC-PwpboVI85Ek88FOugqJipC8ob8TTHfOwdJ_qDuj1eaWv4ny=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "We had the fajitas and the Asian salad, and both dishes were pleasant. The Asian salad came with a good-sized piece of salmon, and the overall taste was good. The salad leaves looked a little on the older side, but that didn't really affect the taste. The fajitas were good and everything we expected of the dish. The servers were very friendly, and the service overall was great.",
+            "time": 1725007232,
+            "translated": false
+        },
+        {
+            "author_name": "Kelly Choi",
+            "author_url": "https://www.google.com/maps/contrib/104055256414069209356/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuYV6wl0f1C0AzQO4ou-rfcyqhlkrP5oZ5niQEnlqDWH9GOjyG=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "The atmosphere was lovely it was cosy and the music was amazing, Not to mention the service was excellent all the staff were friendly.\n\nWe took the hot fudge brownie\nWhich has vanilla ice cream, chocolate sprinkles, whipped cream and a cherry.\n\nIt was delicious, but it's best to share with someone as it was quite big it comes out with 3 spoons, I think you would need about 4 people to finish 😆.\n( I added a cup in one of the photos to compare the size if you wish to see )\n\nIt was an amazing experience will definitely come again",
+            "time": 1730890785,
+            "translated": false
+        },
+        {
+            "author_name": "Christine de Pano",
+            "author_url": "https://www.google.com/maps/contrib/112269002250643516085/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRrR4JAzk9Uke93fPBIPPzNC8wnZPb8n0GYZOSvWhcgX2KQw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This Hard Rock Cafe is in an excellent spot at the Valletta Waterfront. I would recommend the outdoor seating, although live music is indoors. We ordered bbq bacon cheeseburger (had the patty medium rare and enjoyed it), salmon caesar salad (which is of really good serving size, can be shared by 2 people. The salmon was cooked although I had the initial expectation that it would be smoked) and the ribs (which was excellent! Had the half rack and was shared by 2 people). A wide range of beverages was available and had the strawberry basil lemonade (which they said is a crowd favorite) — a must try. Service was nothing but amazing. I highly commend Muhammad Ali — excellent service from start to end. Very accommodating, helpful, of pleasing personality and is a great photographer/videographer. Also commend the manager’s professionalism, Amjahd. Overall great experience.",
+            "time": 1726086224,
+            "translated": false
+        },
+        {
+            "author_name": "Ari Zingillioglu",
+            "author_url": "https://www.google.com/maps/contrib/110087642570736140977/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwEt92HM3zxKNR7Bhql1OXlh91n_Zp515H0fSC171j5UTCTE7NzQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Nestled in Vault 17, Cafe has a theme interior as usual. Friendly personnel, nice decors and wonderful music.\n\nWe got here during happy hour. So, whichever drink you order you get one free. It’s a great deal.\n\nThere’s also an outdoor seating area by the Marina where you can enjoy the views.",
+            "time": 1718695767,
+            "translated": false
+        },
+        {
+            "author_name": "Jord S",
+            "author_url": "https://www.google.com/maps/contrib/115698850595411891904/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9lpT_yTSRB3V7J2uTrer-E4Bpfur68nMnQCR0oFyWkEUjGrgoxA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Definitely not going back. We got the wrong order plus drinks added to our bill that we didn't drink. Terrible food arrived after almost 1 hour. Imagine going here on your lunch break. Their supervisor actually approached us but it seems he didn't understand why we were not happy of the food. The first and last time going here. Not recommended.",
+            "time": 1730045492,
+            "translated": false
+        }
+    ]
+}

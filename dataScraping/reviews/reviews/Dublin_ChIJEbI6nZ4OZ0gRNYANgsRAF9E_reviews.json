@@ -1,0 +1,66 @@
+{
+    "name": "The Green Hotel",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Sean McCarthy",
+            "author_url": "https://www.google.com/maps/contrib/107002271720613308243/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsIU5acDW4mOXirQyWZLFlaa83gM3HQI7K_DWVVXg-EVKJPNHT=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Amazing hotel. I am guessing the review score on Google reflects the older version of this hotel maybe?! The location is fantastic and rooms etc. really nice and very new smell of new wood! Major aspect though was service. Really helpful and friendly. Loved the staff on front desk, bar and breakfast!! Loved the speakeasy vibes in the bar and I highly recommend beauty and the beast cocktail. We loved this place! Could not recommend highly enough!",
+            "time": 1731631640,
+            "translated": false
+        },
+        {
+            "author_name": "j mac",
+            "author_url": "https://www.google.com/maps/contrib/111625663560835077804/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_qFkuqpu51rr2Vlux20z1_sHQlBerH2IEofNxc93qVp9Kpuk=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We are so happy that we booked our four nights at The Green Hotel. Fantastic location with a caring and friendly staff and I just love how the common areas are decorated!\nWe had a King Room with Executive Access, which is basically a self service lounge with coffee, snacks, and beer and wine. The room was very comfortable and spacious with a great shower.\nLove Marcela at the front desk and all the breakfast staff. Very helpful and friendly. It was my husband’s milestone birthday and they sent a small tray of sweets to the room upon our arrival.\nOur room rate included breakfast which was delicious and held us over until dinner.\nThe location can’t be beat, St. Stephens Green is across the street and so many sights are within walking distance.\nWe highly recommend this hotel.",
+            "time": 1728999401,
+            "translated": false
+        },
+        {
+            "author_name": "Ali Graham",
+            "author_url": "https://www.google.com/maps/contrib/105228294044068496599/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2IFLFKPAAlP2Z3TwmXN7NVFgXuc0edEFR47qnEtoHcz_ep70=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Great quiet location a short walk away from tourist areas. Rooms are clean and spacious. Staff friendly and attentive. Executive lounge is also a nice touch. Only issue we had is they only have one highchair. Bit of a nightmare at breakfast if there’s more than one baby/toddler in the hotel!",
+            "time": 1732487499,
+            "translated": false
+        },
+        {
+            "author_name": "Mike Allan",
+            "author_url": "https://www.google.com/maps/contrib/103738640134169670145/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZkiyPY1ABYvFxm2hr4o8NPeRWjdXwHcQWZNYBm404NZ8UIQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Excellent hotel choice.  Good location. Very helpful staff. Excellent breakfast with lovely fresh pastries and nice hot choices. The scrambled eggs are not great but they will make any eggs you like.\nThe room is mostly very comfortable.  Good furniture, great shower, clean and pleasant.  HVAC is very effective and super quiet. The duvet is far too warm, and the top sheet is attached- this was my only complaint.",
+            "time": 1725784600,
+            "translated": false
+        },
+        {
+            "author_name": "Nadine G",
+            "author_url": "https://www.google.com/maps/contrib/106276872072036676936/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9JecF0UWy01ktnhGaSmM2gSwPskhMx8YUs7eJztp7NraIqQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Great hotel - I've stayed here a few times for work and prefer it over others I've tried in the area. All staff I've interacted with are both friendly and qualified. Rooms are clean, well maintained and have a coffee/tea corner with nespresso. Great fitness center for a city hotel. It's right by the Stephen's Green, so you can run there, weather permitting, and finish the workout in the hotel fitness center. Location is also close to a number of good restaurants and Grafton Street.",
+            "time": 1731665949,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Cuinar-te Russafa",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Andy Wallace",
+            "author_url": "https://www.google.com/maps/contrib/108838384151716558367/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7OXa-PirwXoo2O8loDUgvlP32VN0qsDA1q651xI-HICyGbtFdgA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great value woth lovely services. There were 5 of us and we all agreed this was the best we visited in Valencia.",
+            "time": 1675895234,
+            "translated": false
+        },
+        {
+            "author_name": "Suj Eevan",
+            "author_url": "https://www.google.com/maps/contrib/115240131701102367174/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGnzPBxPRRq3kGZezWk57svr0KcAN4qC2aOOXwM7ngZ1LpKGc=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "A bit different to other places nearby but in a good way.\nAlternative dishes I found but rather good.\n\nGood prices.",
+            "time": 1550398653,
+            "translated": false
+        },
+        {
+            "author_name": "Becky Astley",
+            "author_url": "https://www.google.com/maps/contrib/110866377151766970039/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu5JCmfPnMooSfGnCbQrN1Nrz9M8zEVjPbANdM7fw_tGBXP2U=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "Lovely staff, friendly, but to be honest the food was small and overpriced, we had to ask for bread, and the menu didn't include coffee or dessert. We left hungry!",
+            "time": 1713357711,
+            "translated": false
+        },
+        {
+            "author_name": "Cardina Naveira",
+            "author_url": "https://www.google.com/maps/contrib/104608675400572635522/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhv-2L1rFjvh0vtXmXKbh0EII27vILKf0-VivDD1mnqF6rP3q3=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "We go for a menu, the one of € 18 and every dish was incredible an unique!!",
+            "time": 1582422869,
+            "translated": false
+        },
+        {
+            "author_name": "Daniel Prieto",
+            "author_url": "https://www.google.com/maps/contrib/115151582145581767142/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvBweXEY3UU47puRfup4McH5zBbkbCaPJhVsroUwUOhNRUxw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "Among the best tapas I tried in Valencia... the place itself is a. It \"cold\" but rest is perfect",
+            "time": 1707510305,
+            "translated": false
+        }
+    ]
+}

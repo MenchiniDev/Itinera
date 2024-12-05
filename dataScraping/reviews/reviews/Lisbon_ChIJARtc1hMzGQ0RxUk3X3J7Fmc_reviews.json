@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Açores Lisboa",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "L Miranda",
+            "author_url": "https://www.google.com/maps/contrib/118010643758220811947/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1rR61dESdZ1kFSZTBHs3RQkpfMLlfBA7MdYrvQoSWkEPYvw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Great location, the hotel was steps from the metro, easy to get to the city centre. Nice to come back to a quiet, relaxing place after a  day of sightseeing. The hotel staff are friendly and attentive, they with provided helpful suggestions for attractions and directions. There were plane’s flying over the hotel, but was not an issue, could barely hear them. Would definitely stay here again!",
+            "time": 1720231764,
+            "translated": false
+        },
+        {
+            "author_name": "Zhizi Hao",
+            "author_url": "https://www.google.com/maps/contrib/107384685518223815488/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC3WL5vgPZhYcbHlp6d24woqyuVcbIDGzh56pq9hwV2sY02IoT8g=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I haven't stayed with the hotel myself, but the lovely lovely people here helped me massively when I got lost in the city with a dead cellphone. They charged my phone, called me a taxi, and had a laugh with me together. Ana, Christina & the lovely security guard gentleman at the door, I'll be forever grateful!",
+            "time": 1729177457,
+            "translated": false
+        },
+        {
+            "author_name": "Phil Knutson",
+            "author_url": "https://www.google.com/maps/contrib/103750822564865646687/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSuO82CTuJCZ_eXfNV40-p_lM5CipeHzXaMAtSvEbzgjwNNLJ2=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "We stayed here on our last night in Lisbon. The room was nice but smelled musty and weird when we got there. The AC was hard to get on. We had to turn on/off switches many times to get it on. The beds were hard and the WiFi never worked. Other than that, it was safe, good location, good breakfast, great view from the top.",
+            "time": 1726359746,
+            "translated": false
+        },
+        {
+            "author_name": "Illoana Smith",
+            "author_url": "https://www.google.com/maps/contrib/114764191045637549866/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTPvN9EgIU61DD3PKlm-ebEIMwqZ4uGixhN7yN4ulkvDch41s=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We had one of the best meals ever at the Hotel Restaurant. Lara, our server was terrific and the food and presentation and wine was beyond excellent. We are all still talking about it! Kudos to the team.",
+            "time": 1727713963,
+            "translated": false
+        },
+        {
+            "author_name": "Faiyaz A",
+            "author_url": "https://www.google.com/maps/contrib/113101785513540025133/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLr1091DTVJW2scQGQBJqveTSh63rDm_MR6hWFMJ3i5svSoTA=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "Decent hotel but had some issues. Biggest pro is the location - it’s right outside Praça de Espanha metro station and situated halfway between the airport and the Lisbon historic city center. Service was good as well.\n\nThe hotel itself could use some work though. The rooms are a little dated and worn, and had a weird musty smell. Wifi also never worked inside. Bathroom was nice and clean though.\n\nWith a little improvement to the rooms this could be a really great hotel.",
+            "time": 1726657924,
+            "translated": false
+        }
+    ]
+}

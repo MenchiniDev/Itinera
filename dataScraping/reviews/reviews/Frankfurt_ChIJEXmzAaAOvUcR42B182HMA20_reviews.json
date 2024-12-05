@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Primus Frankfurt Sachsenhausen",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Sophie van Deelen",
+            "author_url": "https://www.google.com/maps/contrib/110101777077995778820/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZB9msHh72yhOPSCMG0-XHJ_H-BHhTbK8Umz8g2DZ8oIvhA1xN=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Small but cozy rooms. Just what you need for a city trip. Comfortable bed, housekeeping every day, clean. Location is not far from the center, but in a safer-feeling neighborhood. Crazy cheap, but you still get a nice stay. Friendly staff. The shower changed temperature about ten times though, but other than that it was nice",
+            "time": 1720427127,
+            "translated": false
+        },
+        {
+            "author_name": "Chelsea Catchpole",
+            "author_url": "https://www.google.com/maps/contrib/104844216282162216488/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGSlaYHOHR3rFf_2Gjuv6QpYT3BOBL_fGjEtYhtMnaGbQeTQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "This place is an absolute armpit. The shower curtain in the bathroom was moldy, the carpets are stained, it smells like stale cigarettes. They advertise parking but it has maybe 5 parking spots in a lot that should only be able to fit 2. It is near good food and some nightlife so you may be woken up in the middle of the night to the sound of drinkers retching in the street. The front desk was rarely open for help. Avoid unless you seriously need to save money on your stay. Even then, there are probably better spots.",
+            "time": 1727045085,
+            "translated": false
+        },
+        {
+            "author_name": "Spiro Linardakis",
+            "author_url": "https://www.google.com/maps/contrib/108695939701856815349/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBb4wslBlqNAnzf7c6RfGojSWtnTYOJ9Aww_g-a-9ywclMfA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Was a great place to stay. Not the biggest room, but still suited us perfectly. Was clean, location is fantastic and staff friendly. Would gladly stay here again. Excellent value proposition.",
+            "time": 1722774398,
+            "translated": false
+        },
+        {
+            "author_name": "Richard Koay",
+            "author_url": "https://www.google.com/maps/contrib/100049608823500200286/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFcDSnnw07VQlujfhQbFaNr3QWjs2T122E12ThtspMgeRL5qMa=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "This is probably the first hotel I have stayed in where the staff are not at the counter during most of the working hours, no AC in the rooms and there are sudden electrical Blackouts at night which kills off the WiFi till later. Main redeeming point here is the location, where there are many great restaurants around the area.",
+            "time": 1726080357,
+            "translated": false
+        },
+        {
+            "author_name": "Spence Walker",
+            "author_url": "https://www.google.com/maps/contrib/100130264392387726711/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO2M7qSzn1XaJxaOjxyddOM93-GqnnKj3vHmuXmv2wDpWBohh4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "4 weeks ago",
+            "text": "Typical Frankfurt mid level hotel.  Good location and reasonable prices compared to most.  No amenities here, just a clean place to sleep.",
+            "time": 1730922544,
+            "translated": false
+        }
+    ]
+}

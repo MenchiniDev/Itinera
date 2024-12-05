@@ -1,0 +1,66 @@
+{
+    "name": "Domino's Pizza",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Ksenia",
+            "author_url": "https://www.google.com/maps/contrib/112004655209641026562/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp0-pgwRS34NwIiZuOj6seLX9KXzqN-V4brTHdyUXAPI3SeQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "I don’t even know if start, from the completely impolite acting of “stuff” or the 45 euro spent for these 2 little things called “pizza”\nAsking just about gluten free options politely could guy keep repeating me if wanted gluten free bread, like 4 times, we seated and waited(we were the only 2 people” we asked even for a plastic fork or knife, they say they don’t have any, same as knowledge about gluten apparently cause on pizza was all containing gluten, honestly stay away from this place, pathetic",
+            "time": 1719175074,
+            "translated": false
+        },
+        {
+            "author_name": "Daniel Walshaw",
+            "author_url": "https://www.google.com/maps/contrib/117667672347466522352/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFSIbx2xgN_fIzckqye4dNpJxiQrOg4Caxmo6evT0V1I9GmA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Ordered 2 large pizzas to the wrong store instead of this store. This store found where my order had gone and without even being asked, said they will make my order for me. Great service",
+            "time": 1732558690,
+            "translated": false
+        },
+        {
+            "author_name": "Milda Bušmaitė",
+            "author_url": "https://www.google.com/maps/contrib/108993145373668222376/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK03_UpxUCsbWcVhXe_N2FF59FgWsczrKSqFOdebCtuI8aVfA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I don't even like pizza that much but time to time I order it and when I ordered it from this place... DAAAMN! It looks so good and tastes just amazing! Out of all pizza places I recommend this one!",
+            "time": 1717179163,
+            "translated": false
+        },
+        {
+            "author_name": "Surupa Chaki",
+            "author_url": "https://www.google.com/maps/contrib/104876142728406433746/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIzZwKAo_OSOCWSzk66ln9EL-c7L5N0Xs5A76mlqnmmOQ5M35uvA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The view from the restaurant is to die for.\nConvenience location at harbour front with great timing. Staffs are really helpful and nice.\nQuality of pizza is tooo good. Medium pizza is enough for 2 not so hungry people.\nI highly recommend to take the meal deals - good for money and quality.",
+            "time": 1688733986,
+            "translated": false
+        },
+        {
+            "author_name": "Greg Harmon",
+            "author_url": "https://www.google.com/maps/contrib/102988022486977948669/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_wbzbw7loXfwk67mBjiQcy5yi-NgCNmtBZOPa1hqiQxM1Dw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I'm a former dominos Pizza franchisee. I received excellent service and product from this store.\nWhen I called to order, I was told they normally don't take orders over the phone.  I explained that I couldn't get the website or app to work. The operator went the extra mile! Took my order and delivered it as promised! My driver was in full uniform and polite.  This was a great experience in a foreign country. I always look forward to stores like this one with well train staff to take care of the customer!",
+            "time": 1725916274,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel-Gasthof Löwen",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Andrejs L",
+            "author_url": "https://www.google.com/maps/contrib/102060160826681330760/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyiEB6JhVYMhU4bZ-5-A7LaQOmX-ZRKR9gYKNPpvlQbWaoKF0=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great place, with old style design and very qualified and polite personal. Food was great, especially meat, it was wonderful. At the beginning we received nice compliment from chef, Riesling soup, it was great. Then we ordered different, everything was very tasteful. I had 3 different types of meat, every one was delicious. Waitress was very professional, recommended nice local wine and helped us during evening.",
+            "time": 1668271096,
+            "translated": false
+        },
+        {
+            "author_name": "Monica Escobar",
+            "author_url": "https://www.google.com/maps/contrib/112480357321933209527/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsOg6z3xEMz1vJEub3QSUzNVe7cequIt_E7lx4oicmoJwsDv3m1g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "This place atmosphere was welcoming !\nMy husband and I decided for the rack of lamb w potatoes au gratin and vegetable mix which was cooked perfectly !\n\nPrepare for first class white linen white glove service and have an appetite as the portions are generous!\nWe each had 8 small lamb , cut and served in front of the guest!\n\nI regret not taking pictures 😎… of the quality and quantity of the portions !\nBut I did take my husband’s cappuccino ☕️ picture\nStaff is attentive and professional .",
+            "time": 1645304710,
+            "translated": false
+        },
+        {
+            "author_name": "Alex Z",
+            "author_url": "https://www.google.com/maps/contrib/105336235812275780539/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDqMkAzLmbNVdq4Yhg-7zsJy5Y5oZie3LsYGgHH2hblv1h-184=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "Visited for a wedding and had a very good experience. The staff is very friendly, eager to help, always with a smile. The food is good, e.g., we had a delicious green salad with caramelized nuts and a fruity dressing. All in all a good 4-4.5 star experience.",
+            "time": 1631976066,
+            "translated": false
+        },
+        {
+            "author_name": "Kirsten Wessel",
+            "author_url": "https://www.google.com/maps/contrib/116675949478805597059/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhhyBk3kt4I1e5T0-mHmPSkBj01rUrZM2Csv9uEo7dpvhJZ1Z3cA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Stopped here by chance for some coffees and were very pleasantly surprised by the amazingly kind staff, quick service, beautiful hotel, and great view from the terrace. Our waitresses spoke English and one of them helped us find a nearby electronics store and even looked up the store hours and location. Great chance visit. Would stay here when I'm in Liechtenstein next!",
+            "time": 1530769234,
+            "translated": false
+        },
+        {
+            "author_name": "Fred",
+            "author_url": "https://www.google.com/maps/contrib/105435229319473577908/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA58ZoctqW2daDxXC4P1fQ2k8wxZZrAvQ3OL_L0Qq807eNyyUVLA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Fantastically expensive for what you’re getting. Yes the food is good, but I was alarmed by the bill at the end (and I’m used to New York prices). The wine they grow on the land and sell by the glass really was very good.",
+            "time": 1531032478,
+            "translated": false
+        }
+    ]
+}

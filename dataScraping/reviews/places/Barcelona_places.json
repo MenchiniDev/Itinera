@@ -1,0 +1,1059 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.38607039999999,
+                "lng": 2.1683553
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3874827802915,
+                    "lng": 2.169651880291501
+                },
+                "southwest": {
+                    "lat": 41.3847848197085,
+                    "lng": 2.166953919708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Pulitzer",
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103033256991099629070\">Hotel Pulitzer Barcelona</a>"
+                ],
+                "photo_reference": "AdDdOWpnn-eB_OrYfPn1kLu1u_Y6l6Ax96XEh-8FEOEngBAoIy0QYVglKR5xRJzxSuuvMKwJrZR--7EUnkgmYurQOhC1VEWiYZXv7fsj76iCMTYWdqfBn63EUyQu5wyFqhib6a0C8oPXVLXQGXwTaO9GMlbFHPLTO6aQKGvruwtZMXwJ0qew",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJgXhci_OipBIR91I0pEH4UQ8",
+        "plus_code": {
+            "compound_code": "95P9+C8 Barcelona, Spain",
+            "global_code": "8FH495P9+C8"
+        },
+        "rating": 4.4,
+        "reference": "ChIJgXhci_OipBIR91I0pEH4UQ8",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1737,
+        "vicinity": "Carrer de Bergara, 8, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3849706,
+                "lng": 2.1777654
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3862712802915,
+                    "lng": 2.179006530291502
+                },
+                "southwest": {
+                    "lat": 41.3835733197085,
+                    "lng": 2.176308569708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel Central",
+        "photos": [
+            {
+                "height": 2659,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108276220246511566518\">Grand Hotel Central Barcelona</a>"
+                ],
+                "photo_reference": "AdDdOWqXWb9XqG0V8F-975svm_EJDCV7-Pevr_q_eLZvuwWaTQfv8vDyrSlSoBHNim3JmNCfdOA_nSPDLEmoqo8exYfnsaqkIyiYqWY-Ek9_WhJHI6WY7ilmkngM3LJG_oF7X_2hhDCDYnt7sCZb_n2RluHa2NwElGUApAwtIiRGvPqMeFIW",
+                "width": 3543
+            }
+        ],
+        "place_id": "ChIJg1-2b_mipBIRirLgoXI-GXU",
+        "plus_code": {
+            "compound_code": "95MH+X4 Barcelona, Spain",
+            "global_code": "8FH495MH+X4"
+        },
+        "rating": 4.5,
+        "reference": "ChIJg1-2b_mipBIRirLgoXI-GXU",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1474,
+        "vicinity": "Via Laietana, 30, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3951333,
+                "lng": 2.1591838
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3963785302915,
+                    "lng": 2.160684330291502
+                },
+                "southwest": {
+                    "lat": 41.3936805697085,
+                    "lng": 2.157986369708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Gallery Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 897,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100872590769468680954\">Gallery Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpSwxhs_oQbw5zQ0wkDoBRKiwycc7w0zQIyWtUIh_Cp2FcZpkMtQ_Qgo-wm9FqoXVue61F-Jcgi-kZCiw7y9J1iiimFr8kciedBGcVJTuRS4MikxHBLmDMumnphFNaqd6_R6s_KTY77BxkwZq_s1CEQbdVpypPBisLRNP1n553I3A-U",
+                "width": 1611
+            }
+        ],
+        "place_id": "ChIJ1efPXZGipBIRFNhPTEsXvQI",
+        "plus_code": {
+            "compound_code": "95W5+3M Barcelona, Spain",
+            "global_code": "8FH495W5+3M"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ1efPXZGipBIRFNhPTEsXvQI",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2063,
+        "vicinity": "Carrer del Rosselló, 249, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3752385,
+                "lng": 2.1683286
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3764675802915,
+                    "lng": 2.169668430291502
+                },
+                "southwest": {
+                    "lat": 41.3737696197085,
+                    "lng": 2.166970469708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Barcelona Universal",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114243081498579221906\">Hotel Barcelona Universal</a>"
+                ],
+                "photo_reference": "AdDdOWpj6ShS9RYaZngWJ2EuuxE5z-RtYkMkpbw1UWNn2MoM5LpjnRR8ftp-6lgvMau_hyADr3dQsWemOjOQ_6FywAmMOqAzBR7FbltkscqUDP8SD1eSca24dJvEZntIPC92JGmbETpuwgWM90Jexmkke5voKweWF_14_Q3ux5kmMgQWRPxe",
+                "width": 3387
+            }
+        ],
+        "place_id": "ChIJzxsVFlyipBIRV_JlzXfW9bA",
+        "plus_code": {
+            "compound_code": "95G9+38 Barcelona, Spain",
+            "global_code": "8FH495G9+38"
+        },
+        "rating": 4.4,
+        "reference": "ChIJzxsVFlyipBIRV_JlzXfW9bA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2470,
+        "vicinity": "Avinguda del Paral·lel, 76-80, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.394198,
+                "lng": 2.1490179
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3955431802915,
+                    "lng": 2.150531480291502
+                },
+                "southwest": {
+                    "lat": 41.39284521970851,
+                    "lng": 2.147833519708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Hesperia Presidente Barcelona",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3921,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103359066151863102260\">Hotel Hesperia Presidente Barcelona</a>"
+                ],
+                "photo_reference": "AdDdOWrYfOVv6oiAW7aaFxLBfkqcXTf2s0f2UcdRdqV3QUglHLKDCQiTOv6N_0MCOzdSTCFM4wd1Zr6BAulgYRRLJqU8SEVLXaEjoMKSI3Kzc_PMLGyekY6oemHmD-5eQbNMfG2UgqUyBN7Qos9NtH_yw9ssULzi9AVwBxdFOLZYXQfAZNU9",
+                "width": 5893
+            }
+        ],
+        "place_id": "ChIJw7XAZZyipBIRvIRiPPFeXQw",
+        "plus_code": {
+            "compound_code": "94VX+MJ Barcelona, Spain",
+            "global_code": "8FH494VX+MJ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJw7XAZZyipBIRvIRiPPFeXQw",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1909,
+        "vicinity": "Avinguda Diagonal, 570, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3969121,
+                "lng": 2.1923528
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.39831583029149,
+                    "lng": 2.193630380291502
+                },
+                "southwest": {
+                    "lat": 41.3956178697085,
+                    "lng": 2.190932419708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Sallès Hotel Pere IV",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115810310529686866468\">Hotel Sallés Pere IV</a>"
+                ],
+                "photo_reference": "AdDdOWqO4SvBYLnNe8tvjhXFHTKJpglP7aZpHZrkyV7RJ7wO7h5DXIyJbGX_BeMaBfJXe7k8OS4ymUdkclqX6FJ2B8jbv40TckFkkAB05g8ih9eKQJh46JvqqrCWQuNSCwT-kkeFCLkuAUKo6yrYzGVY3SUFxtS2eTC-Ws16QbiQWj9yJnY",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJFY1VoxmjpBIRehSCRUWTde0",
+        "plus_code": {
+            "compound_code": "95WR+QW Barcelona, Spain",
+            "global_code": "8FH495WR+QW"
+        },
+        "rating": 4.1,
+        "reference": "ChIJFY1VoxmjpBIRehSCRUWTde0",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "spa",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2378,
+        "vicinity": "Carrer de Pallars, 128, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3922,
+                "lng": 2.152400000000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.39347573029149,
+                    "lng": 2.153663230291502
+                },
+                "southwest": {
+                    "lat": 41.3907777697085,
+                    "lng": 2.150965269708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Tàmara - Barcelona",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2252,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116083550217297527604\">Restaurant Tamara</a>"
+                ],
+                "photo_reference": "AdDdOWo3FtqmJ7aOWZTAtAlx-uYGgu6AzEObTsF7BQPJp23B3qumVfOWbCJhYIZ4DvoZJZxy8hBumHi-Nwbt7EhfIjL95gXownGf3O_G-0qAaX6YzO314IANT7Nz_nb85T_qd1Cpsv49HkhxmeVP-VuR5IqY0ugHrjD2pFMM_mC4t_UAf-v6",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJPWK2IJuipBIRsPCRNMm1N1Q",
+        "plus_code": {
+            "compound_code": "95R2+VX Barcelona, Spain",
+            "global_code": "8FH495R2+VX"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJPWK2IJuipBIRsPCRNMm1N1Q",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1335,
+        "vicinity": "Carrer de Muntaner, 178, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3910391,
+                "lng": 2.1676872
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.39234923029149,
+                    "lng": 2.169088180291502
+                },
+                "southwest": {
+                    "lat": 41.38965126970849,
+                    "lng": 2.166390219708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Thai Barcelona",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1034,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104748000126571833840\">Thai Barcelona | Royal Cuisine</a>"
+                ],
+                "photo_reference": "AdDdOWprd6nzWG8YIa2WFmIAy5pHaxlzMKG_kruYMEv02D6fw0wn2-o9LMGeL9eMyvbq4pA9g6K3iFTeKtgQHK8xx9dzrdX_3SjfEGZkVV5hzveSnac6r5vhzA9nj4uJ9hdnAi8qzn21VWSlS0KvQACBuHqYLwH4RQnxtDROq8jdR5s8eFRa",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJDag3hu2ipBIR7vZDpaM-foo",
+        "plus_code": {
+            "compound_code": "95R9+C3 Barcelona, Spain",
+            "global_code": "8FH495R9+C3"
+        },
+        "price_level": 3,
+        "rating": 4.2,
+        "reference": "ChIJDag3hu2ipBIR7vZDpaM-foo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4135,
+        "vicinity": "Carrer de la Diputació, 273, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3938386,
+                "lng": 2.1361458
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.39527063029149,
+                    "lng": 2.137420080291502
+                },
+                "southwest": {
+                    "lat": 41.3925726697085,
+                    "lng": 2.134722119708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "ÁNDELE Santa Fe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103309390549100022385\">ÁNDELE Santa Fe</a>"
+                ],
+                "photo_reference": "AdDdOWonzQ3-qYeKA3F0sI-EJQ-bBUiJQYrn-FnDVSKIE2j0auHpAJgC1jBmiNzLcORRVFNjx2keB7hunmH1bs8_PktMSeFHIQyeRSaLRv-MRsu63ZHE_KfGkOC2QuMsDV7wCS44qNS9VPMGFHqbcOUgQyFG22Ses7ES25XCCn7C4xHEp2L_",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ8dRB0nqYpBIRTnBNVYyYh_o",
+        "plus_code": {
+            "compound_code": "94VP+GF Barcelona, Spain",
+            "global_code": "8FH494VP+GF"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ8dRB0nqYpBIRTnBNVYyYh_o",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3512,
+        "vicinity": "Carrer de Santa Fe de Nou Mèxic, 6, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.39155900000001,
+                "lng": 2.1728625
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3929654302915,
+                    "lng": 2.174310380291502
+                },
+                "southwest": {
+                    "lat": 41.3902674697085,
+                    "lng": 2.171612419708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Constanza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1067,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112267664192855592266\">Hotel Constanza Barcelona</a>"
+                ],
+                "photo_reference": "AdDdOWrUVu9eOKggPCp-9H6IUzg4rd-l6lJi6P_g3vCxLEvd553OPw7bMVfvH0oiXZ7aQTFiI7cFOE6U3NcFVzkJvaNaRNCoOtXSwMHxENGCN7Lna-jhzQjQTjoJ4_8d01UBWszAAUB390BRxMPoK0l8pfuFka8UGnmT28TlZJO07944daNf",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJLXoIxO-ipBIR7hryh1WNOsA",
+        "plus_code": {
+            "compound_code": "95RF+J4 Barcelona, Spain",
+            "global_code": "8FH495RF+J4"
+        },
+        "rating": 4.4,
+        "reference": "ChIJLXoIxO-ipBIR7hryh1WNOsA",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 838,
+        "vicinity": "Carrer del Bruc, 33, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3861894,
+                "lng": 2.1711552
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3875929302915,
+                    "lng": 2.172310930291502
+                },
+                "southwest": {
+                    "lat": 41.3848949697085,
+                    "lng": 2.169612969708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Olívia Plaza Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1535,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112114052123370659884\">Olivia Plaza Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrZ6y7pZIKilm1jxSadglfHpsdl0rhfPpp-DEGKd01H-fXen0-jTpCIGECumte24cDLTY8HFOxGavhB-l8WOTk6DecHB4QSUEkNs8DSKLLsjhid4h8vfgpxNIinixhqgN-FrNhYPzyHu4lUYpXVaNP1pgj38gvgxhEJaepJJJ3v4uXF",
+                "width": 2303
+            }
+        ],
+        "place_id": "ChIJbZmHN_GipBIRON4UI8EG07o",
+        "plus_code": {
+            "compound_code": "95PC+FF Barcelona, Spain",
+            "global_code": "8FH495PC+FF"
+        },
+        "rating": 4.5,
+        "reference": "ChIJbZmHN_GipBIRON4UI8EG07o",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1505,
+        "vicinity": "Plaça de Catalunya, 19, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3910035,
+                "lng": 2.171453999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3923904802915,
+                    "lng": 2.172866480291501
+                },
+                "southwest": {
+                    "lat": 41.3896925197085,
+                    "lng": 2.170168519708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "ICON BCN",
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117642617941317818380\">ICON BCN</a>"
+                ],
+                "photo_reference": "AdDdOWrUVSQTXNHS-JDpZriSQWjjjtoGsahcaokC1EpXHQBWhXQ2q0ssb_uyw04oncDqpH2QIkOyNYWOnxMH2rSj4TvssQbVxYa_tlgP-y3_hRguqu9V6z97Z0cDeT7Xt07jn7kGT4oyLV2yxmstFDzkNFtSR4ZaXB3G0kBKV2TbQcOl4RI",
+                "width": 864
+            }
+        ],
+        "place_id": "ChIJgcUVL-6ipBIRqiX5D88tO8g",
+        "plus_code": {
+            "compound_code": "95RC+CH Barcelona, Spain",
+            "global_code": "8FH495RC+CH"
+        },
+        "rating": 4.4,
+        "reference": "ChIJgcUVL-6ipBIRqiX5D88tO8g",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1190,
+        "vicinity": "Carrer de Roger de Llúria, 21, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3870228,
+                "lng": 2.174288499999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.38846828029151,
+                    "lng": 2.175714830291501
+                },
+                "southwest": {
+                    "lat": 41.38577031970851,
+                    "lng": 2.173016869708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Ohla Barcelona",
+        "photos": [
+            {
+                "height": 1867,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112737249190929384536\">Ohla Barcelona</a>"
+                ],
+                "photo_reference": "AdDdOWpXW31VVrYvjSMfSe_1Cg8KYdmvEwGOfS4j6m_yJ4WlB5fxdKXrmskchNC2BTmpL-b3dXxuTW3uDWagdmV7Ylwefd7IcspFDjcYhPAjKg62gPptQBI9nhyCcHYEylh-d3DK0-KRcyf5i9S6ieS8U-ZJq4rK3F2-dzz0MiuaIhB2N0Hr",
+                "width": 2800
+            }
+        ],
+        "place_id": "ChIJWwhpnvCipBIRt0wPJD16Jv0",
+        "plus_code": {
+            "compound_code": "95PF+RP Barcelona, Spain",
+            "global_code": "8FH495PF+RP"
+        },
+        "rating": 4.6,
+        "reference": "ChIJWwhpnvCipBIRt0wPJD16Jv0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1593,
+        "vicinity": "Via Laietana, 49, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3852732,
+                "lng": 2.1826869
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3866423802915,
+                    "lng": 2.184084030291502
+                },
+                "southwest": {
+                    "lat": 41.3839444197085,
+                    "lng": 2.181386069708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Da Nanni",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 900,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108858055174936481148\">Pizzeria Da Nanni Barcelona (El Born)</a>"
+                ],
+                "photo_reference": "AdDdOWrL-c-Hbk3UVjRfKdvV2-H6m4ONBmZX5LcJ4ZuYgTBBYhc3asAI9cUpP302YptKjHmYpJMAVoErJw3y5Qg7pK4_AQjSTiHXj6RETnFL_lgVyW08jIDqh0dMZttnwgYVV7nISg6jXu2DES12ow8GjJMv4y_hlI5lluNs9wW-UXyQy1hh",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJk_S0dv6ipBIRTseTfN_uc1g",
+        "plus_code": {
+            "compound_code": "95PM+43 Barcelona, Spain",
+            "global_code": "8FH495PM+43"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJk_S0dv6ipBIRTseTfN_uc1g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2400,
+        "vicinity": "Carrer del Rec, 30, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.40076,
+                "lng": 2.1590857
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.40209773029149,
+                    "lng": 2.160384580291502
+                },
+                "southwest": {
+                    "lat": 41.3993997697085,
+                    "lng": 2.157686619708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "La Vietnamita",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3963,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100751385249644108797\">La Vietnamita Gracia</a>"
+                ],
+                "photo_reference": "AdDdOWrb1kuXspDYxPRHUMAzV1CelOtYxdCvdRLTd-vge2JXOIw8hrK6BNQ-zpNt9t7FQJrvxdB81QZ08VrfTDmwdRSw4YzndGoMHqJb3OR09KSYKhW36qSV2RR7x0hdF2sefh-A1NyCw59o8cVQOEYWprJcTqPzEkqPY13E8ray5RoSh1Cr",
+                "width": 5945
+            }
+        ],
+        "place_id": "ChIJcRNmG5aipBIRvjtddo3D5pk",
+        "plus_code": {
+            "compound_code": "C525+8J Barcelona, Spain",
+            "global_code": "8FH4C525+8J"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJcRNmG5aipBIRvjtddo3D5pk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2486,
+        "vicinity": "Carrer del Torrent de l'Olla, 78, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.385663,
+                "lng": 2.1255729
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.38702758029149,
+                    "lng": 2.126837230291502
+                },
+                "southwest": {
+                    "lat": 41.3843296197085,
+                    "lng": 2.124139269708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Catalonia Rigoletto",
+        "photos": [
+            {
+                "height": 2800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111427210686711932709\">Hotel Catalonia Rigoletto</a>"
+                ],
+                "photo_reference": "AdDdOWqKRb8THEGZwdnrMjkju3HM4FwECrrbC3XFwL6R8j6wJJKWcKDST0LXyCix82AZJJOumTQsoVFOTvefPu19mb1UO4yw91IBoXXwDG2Bh5OSIq_Z7XemHWCIuCJuRWb8faVV8U-qQH4Cc46VGmz5FxbWW6icrjPSVoxSrgewKhN9LNZS",
+                "width": 4195
+            }
+        ],
+        "place_id": "ChIJTTeWIV6YpBIRbVMQu7q2HDU",
+        "plus_code": {
+            "compound_code": "94PG+76 Barcelona, Spain",
+            "global_code": "8FH494PG+76"
+        },
+        "rating": 4.2,
+        "reference": "ChIJTTeWIV6YpBIRbVMQu7q2HDU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 903,
+        "vicinity": "Carrer de Sabino Arana, 22, 24, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3860321,
+                "lng": 2.176199
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3873472302915,
+                    "lng": 2.177489730291502
+                },
+                "southwest": {
+                    "lat": 41.3846492697085,
+                    "lng": 2.174791769708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel ILUNION Almirante",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102171339617159154395\">Hotel ILUNION Almirante</a>"
+                ],
+                "photo_reference": "AdDdOWql3be5sZlKs5DrghtN-i5Z7di9KGKFgqPmzdPS_I1h1ry1kmKa1wQSRjElb1ckZVd-DH38hKUcxdablSO4gTdwDQ8CTrC1HYYL9C96yAQntBaslHsQAKFkWTdAll_swYb9zdCqvOBEVjJ4ZH6pf28iMCTgOHng3v_ysw1U2Svbjg4T",
+                "width": 1638
+            }
+        ],
+        "place_id": "ChIJLeQ8JPqipBIRkCQvTVKBJb0",
+        "plus_code": {
+            "compound_code": "95PG+CF Barcelona, Spain",
+            "global_code": "8FH495PG+CF"
+        },
+        "rating": 3.6,
+        "reference": "ChIJLeQ8JPqipBIRkCQvTVKBJb0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1192,
+        "vicinity": "Calle, Via Laietana, 42, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.38481199999999,
+                "lng": 2.1751122
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.38636858029149,
+                    "lng": 2.176656030291502
+                },
+                "southwest": {
+                    "lat": 41.38367061970849,
+                    "lng": 2.173958069708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Barcelona Catedral",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114102022975157413296\">Hotel Barcelona Catedral</a>"
+                ],
+                "photo_reference": "AdDdOWqEBy_uVesvLLgay54E4yqJZ8PCFFgv-Li8IXO5K1IZOZAhGcPXFYtapcBZq0oaxDnw5X4vduqpof6lKnWOpnp6A4p-SqSeL3t7PbctMFyWiT5yTLKDI_wL93K730E41bQUSSWG3Wg02td5X4Qt3-BOO30yDoi5_Sa6udWi6BPMo6tk",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJmRxO7_mipBIRdCiunF_6N_U",
+        "plus_code": {
+            "compound_code": "95MG+W2 Barcelona, Spain",
+            "global_code": "8FH495MG+W2"
+        },
+        "rating": 4.3,
+        "reference": "ChIJmRxO7_mipBIRdCiunF_6N_U",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1060,
+        "vicinity": "Carrer dels Capellans, 4, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3960002,
+                "lng": 2.2008581
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3973613802915,
+                    "lng": 2.202260130291502
+                },
+                "southwest": {
+                    "lat": 41.3946634197085,
+                    "lng": 2.199562169708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Best 4 Barcelona",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2880,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116366347162785619852\">Hotel Best 4 Barcelona</a>"
+                ],
+                "photo_reference": "AdDdOWoICFHU-QkNA7jvmtjEoVVeg-49O9bNrqrw9fg6bzi4zcZXcJX_gQVj-YdJmeG2fb_Ven9b7ebjbehqcJQbEWZRdfQoDNchWRi5FNo7M9l0GkgDNI9hvvmg_S6ZWILwGkBejLqzFGMEud8lJMzWeBBmpsIsyt1Jyz7uWQPZLwpHHnLC",
+                "width": 4320
+            }
+        ],
+        "place_id": "ChIJs909ahSjpBIRtBeJCzjkBbU",
+        "plus_code": {
+            "compound_code": "96W2+C8 Barcelona, Spain",
+            "global_code": "8FH496W2+C8"
+        },
+        "rating": 3.9,
+        "reference": "ChIJs909ahSjpBIRtBeJCzjkBbU",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1622,
+        "vicinity": "Carrer del Doctor Trueta, 164, Barcelona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.41016339999999,
+                "lng": 2.1695322
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.41148473029151,
+                    "lng": 2.170756680291502
+                },
+                "southwest": {
+                    "lat": 41.40878676970851,
+                    "lng": 2.168058719708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel ILUNION Bel Art",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5271,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115345728313057552091\">Hotel ILUNION Bel Art</a>"
+                ],
+                "photo_reference": "AdDdOWrJR7SSrf6_0zwYOIHJB4KDAgK4bZZYl-pjCybmziwTnnGbmaLeds_TYUDifdEws6AglYgIvRHPc2cxjhxPLddYeRDZpslFCu9_jNxDUGgBnPa9umdzqj_rd1Jwodq4A6_BDKWoo8Q4YMsxdSlfHw2T3aRb2K69hIJJOATkbaW1btSe",
+                "width": 7584
+            }
+        ],
+        "place_id": "ChIJ-eCkCMaipBIRz77Te9hjnnQ",
+        "plus_code": {
+            "compound_code": "C569+3R Barcelona, Spain",
+            "global_code": "8FH4C569+3R"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ-eCkCMaipBIRz77Te9hjnnQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1395,
+        "vicinity": "Carrer de Lepant, 406, Barcelona"
+    }
+]

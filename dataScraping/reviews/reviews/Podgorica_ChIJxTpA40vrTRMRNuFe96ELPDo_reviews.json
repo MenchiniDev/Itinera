@@ -1,0 +1,66 @@
+{
+    "name": "Prague",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Beauty Expert- GLAM BEAUTY PODGORICA",
+            "author_url": "https://www.google.com/maps/contrib/107726906682457788787/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWJ0zIi0YU_pdQekUx5kh5Xs6SVaTQAxeee-FSRWPfhzU5M3U=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "At the square very nice ambiance to sit and have something to eat and drink prices are fair. I had vegetable omlette and everything was fresh made and nicely cooked. Waiter so kind and politely. Speaks english ❤️🙏 thank you",
+            "time": 1696147662,
+            "translated": false
+        },
+        {
+            "author_name": "Kyle Heinlen",
+            "author_url": "https://www.google.com/maps/contrib/111187434266348889550/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNTrtpBaOxJYVd9rhaiKoDno6UQeWGmCN3msYNyxoUD0lfmn0I=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "The food is great every time. I have not been disappointed with anything here. The fruit is always very fresh here and tastes delicious. My biggest complaint is that there is a portion inside where it gets extremely hot to sit. Also, it is set for groups of four so having a larger group is not the easiest thing to have here.",
+            "time": 1498584846,
+            "translated": false
+        },
+        {
+            "author_name": "M B",
+            "author_url": "https://www.google.com/maps/contrib/100755435898967216856/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKghR1GYeg2AyxA4CVdPmmOVnWIijaitUlswu5-iEsMXiVF4Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great atmosphere, perfect food and drinks, friendly staff, definitely the best lounge bar in Podgorica.",
+            "time": 1694119851,
+            "translated": false
+        },
+        {
+            "author_name": "Vladislav Delic",
+            "author_url": "https://www.google.com/maps/contrib/107895338867959072739/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7VpVA2EgBCzHWdX5vhJD3OlNUAABaFQY1_Nj35NJwgdd-fA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Nice atmosphere, friendly staff, best pizza in Podgorica 👌\n\nPet friendly 🐕🤙",
+            "time": 1694116562,
+            "translated": false
+        },
+        {
+            "author_name": "Vasilije Đakovic",
+            "author_url": "https://www.google.com/maps/contrib/114377282694580068372/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2Edr2WF0FB0dpMzwWpNz_sUJ5Zs7x7EYPO7tuwQH42VYTzA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Fresh and delicious food, not too far from city center, overall great place",
+            "time": 1695482468,
+            "translated": false
+        }
+    ]
+}

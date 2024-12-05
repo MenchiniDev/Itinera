@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Continental, Oslo",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Aditya Patel",
+            "author_url": "https://www.google.com/maps/contrib/103552132297408530560/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV68yAaU75S_C3IrC6zWa7_ns5LHKu9oolCgPCDjpdaowClDjKw4w=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Hotel Continental, Oslo epitomizes luxury and sophistication. Its central location, impeccable service, and elegant ambiance make it a top choice for discerning travelers. Guests rave about the spacious, well-appointed rooms, the exquisite dining experiences at its renowned restaurants, and the attentive staff. While the price tag reflects its five-star status, the overall experience is one of refined indulgence. Whether you're seeking a romantic getaway, a business trip, or simply a taste of Oslo's finest, Hotel Continental delivers an unforgettable stay.",
+            "time": 1726333746,
+            "translated": false
+        },
+        {
+            "author_name": "Amy Shi",
+            "author_url": "https://www.google.com/maps/contrib/101504204748554036327/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHy9a8nsBSCWk9VuaL1ONfFTwZC1kSDXGU9eqrjyhBOVr-yfrj=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Well trained and friendly staff working at the hotel and they are very accommodating to our needs. Location is convenient, next to train station and bus stop,  walking distance to the pier and  lots of restaurants around the park next to the hotel. Breakfast was delicious and service was very attentive. Our suite room was at the corner, though one side facing construction the other side has beautiful view of the theater. Rooms are spacious.",
+            "time": 1721903952,
+            "translated": false
+        },
+        {
+            "author_name": "Chet Patel",
+            "author_url": "https://www.google.com/maps/contrib/101819030098461484277/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3kO35b-FccdUnbnno0OzMTaTRjwnumJ_HW1lDQzHyFYui7IeQmQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "As far as hotels in Oslo go, this is the best we've stayed in. Rooms are more spacious and comfortable. Staff is super friendly and professional. The location is probably the best in the city center: close to restaurants, shopping and tourist destinations. The restaurants within the hotel, as well as, the breakfast buffet were outstanding. If I had one complaint, it would be the limited equipment in the fitness center, but you have the basics to get the job done.",
+            "time": 1720511240,
+            "translated": false
+        },
+        {
+            "author_name": "H Dnsmz",
+            "author_url": "https://www.google.com/maps/contrib/110795343159749389177/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGmJ_47zyja8UH--WtTb0D7bJ0H3lEYS442YTHmow56LK_zg=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "The hotel boasts a great location, conveniently close to major attractions and amenities. The premises are neat and clean. However, the rooms are notably small. Traveling with children as a family, I booked two rooms a week in advance, yet the staff informed us upon arrival that no connecting rooms were available. Consequently, we had to accept two rooms situated far apart from each other. While the hotel offers parking, there is an additional charge of $100 per night, which I found to be quite expensive.",
+            "time": 1722337834,
+            "translated": false
+        },
+        {
+            "author_name": "Tomas Bueno",
+            "author_url": "https://www.google.com/maps/contrib/111152414064004396280/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVh5b98RJQHblL_-XY8Efc6f33T9kzYWuxHAVOgVkdvAWG9lAk=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Negative Review:\nMy recent stay at this hotel was extremely disappointing. Despite booking a three-night stay while traveling on a red-eye flight from Florida, the check-in process turned into a frustrating ordeal. Despite prepaying through American Express, upon my early morning arrival, I was informed that my room was not available due to being labeled as a \"no show.\" Instead of promptly resolving the issue, the front desk staff took their time creating a new reservation, leaving me waiting until 4 pm to finally obtain a room.\n\nThis lack of organization and communication is unacceptable. The hotel not only failed to deliver the service I had paid for but also refused to reimburse me for the first night that I missed due to their error. I wasted an entire day waiting for a room that should have been ready for me as a prepaid guest.\n\nSuch incompetence from the booking department and the apparent disregard for customer satisfaction is truly disheartening. While the front desk personnel were friendly, it was the management behind the scenes that failed me. It is unacceptable for a guest to be treated in this manner, especially when the reservation was made well in advance and paid for in full. Based on my experience, I cannot in good conscience recommend this hotel to anyone.\n\nIf my room had been available for an early morning check-in, I would have been okay with the charge.",
+            "time": 1718723585,
+            "translated": false
+        }
+    ]
+}

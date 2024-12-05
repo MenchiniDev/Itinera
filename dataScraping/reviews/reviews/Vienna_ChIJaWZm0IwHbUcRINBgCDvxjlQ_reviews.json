@@ -1,0 +1,66 @@
+{
+    "name": "Hotel am Brillantengrund",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Thomas W",
+            "author_url": "https://www.google.com/maps/contrib/103342037747336955746/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBxJVOwdTbjIBmABG67flwtbXhj7EB2FAebHdvBo4wOAfUTBbD=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Cute design-forward hotel that feels plucked from a 50's film. Very comfortable rooms and beds, though our washroom was a total puzzle to use. Excellent breakfast served from the bar/restaurant that gets very busy in the evening. Short walk to the U-bahn and several trams",
+            "time": 1731102040,
+            "translated": false
+        },
+        {
+            "author_name": "Joann Mistica",
+            "author_url": "https://www.google.com/maps/contrib/106157914402225252987/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJywJRb86jJvS2vPCXYToxNDNbxwZR3oory_f4rtaVBgk5-vg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "2 weeks ago",
+            "text": "The worst hotel I've ever stayed at in Vienna especially for the price. I had a hard time sleeping because they was a party in the courtyard past midnight. There were no holidays whatsoever.\n\nI didn't mind that the room was tiny but the wall paint, the giant lamp at the center, and just how everything was setup did not look good at all. The wifi is also unstable, the next day it stopped working at all. Beware of the vault in the room. My device fit in well when I first put it in so I was surprised that when I opened the vault to take it out, there was a resistance. Turns out there was a long rod inside and my device got chipped.\n\nThe breakfast was disappointing. I also had lunch and ordered bistek. It was the most sour bistek I've ever had and for a small serving, it was €19. It wasn't a big problem since I couldn't finish it because of its taste anyway.",
+            "time": 1732110635,
+            "translated": false
+        },
+        {
+            "author_name": "Raphaël de Courville",
+            "author_url": "https://www.google.com/maps/contrib/117168166103329825240/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQBiLSQV4tZXRbl5zX8jvZvZd9HmshwBI1bwv0gDKsiTBxxy8O=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Quaint and lovely place with beautiful interior design. Very welcoming people! The Pinoy breakfast is yummy. Some parts of the room could benefit from a little refresh (more outlets would be nice), but overall, it’s a great and enjoyable stay. Thanks!",
+            "time": 1728482781,
+            "translated": false
+        },
+        {
+            "author_name": "Mike LaVigne",
+            "author_url": "https://www.google.com/maps/contrib/106651124073223581623/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVp54QMdELtuHYNGLqVUH1x6jZd5K68CPbjyqyJNzyheAuzw=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Cute hotel but would not recommend if you like to sleep before midnight on summer nights.\n\nThere is a public bar in the courtyard. The rooms and windows open into the courtyard. On summer nights, the locals like to party at the bar until midnight. Perfect if you want to socialize but not great if you like to sleep before midnight. Even with the windows closed, it was not easy to sleep.\n\nOtherwise very friendly staff and perfectly clean and cute rooms.\n\nProbably a better option in cooler seasons when the courtyard is quiet.",
+            "time": 1719570245,
+            "translated": false
+        },
+        {
+            "author_name": "Alex",
+            "author_url": "https://www.google.com/maps/contrib/118314767334302263214/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZmWGkbGkuYv5J6Gcgkbmdz1SRnEXHRdjSY_S1xml2Vt4_UA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lunch and Dinner top top quality! Best in Vienna together with MeinKlang as both are unique because all products are ecologically sourced!!",
+            "time": 1728646194,
+            "translated": false
+        }
+    ]
+}

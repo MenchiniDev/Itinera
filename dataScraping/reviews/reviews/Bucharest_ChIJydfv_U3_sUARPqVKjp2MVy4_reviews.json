@@ -1,0 +1,66 @@
+{
+    "name": "KFC",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Vlad Popescu",
+            "author_url": "https://www.google.com/maps/contrib/105248246546534277868/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVE6yjwSUwm3ZU2T697gufh9rFvGCO7EVmxOijHqHvkDFwSOXkW=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "WOULD NOT RECOMMEND! They got our order wrong, the food was undercooked, the sprite was yellow and the bathrooms were HORRIBLE! See more details in the photos below!!",
+            "time": 1714659230,
+            "translated": false
+        },
+        {
+            "author_name": "cospro",
+            "author_url": "https://www.google.com/maps/contrib/106533085750023090746/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKlc41t3z5Mz2BSzy9QF1WmU47m1l_s5WH-limmfzGpjVnaXrU=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Something is wrong with this place and I don't know what. The atmosphere is not what I am looking for. The service is good, the food is good (as good as fast food can be).",
+            "time": 1723959388,
+            "translated": false
+        },
+        {
+            "author_name": "vlad alexandrescu",
+            "author_url": "https://www.google.com/maps/contrib/103112552269985485492/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmIbRQ5Ywz3BWyCwt5eW75EbBae9Npt7lMh8s7lXxh65vsp2Jl=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "Cold food, what is listed as non spicy is actually spicy. Cherry on top: they have neither forks, nor spoons.",
+            "time": 1714481395,
+            "translated": false
+        },
+        {
+            "author_name": "mihail nechifor",
+            "author_url": "https://www.google.com/maps/contrib/113437122367932382758/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA4rVm1q4fLuUS7CUsLIZVk0_s58FwaYgKPy6O9pEZ_87C9g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "If you want to get robbed, go here. Worst place I have seen so far. This was the second time my order was not complete, with items missing.",
+            "time": 1727348384,
+            "translated": false
+        },
+        {
+            "author_name": "Oleksandr",
+            "author_url": "https://www.google.com/maps/contrib/111000732270885006780/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4JSwpe97Dxpt10wfxyZ-p2z6nuK_C0RXbojNj_nc3FAHCRg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Worst KFC visit in my life. I waited more than 30 minutes for a simple order. No terminals to make an order, so you have to read from a screen above the cash desk, which is extremely uncomfortable. Staff just don't care at all, and didn't even apologize for such service. Also, what I got doesn't look right, at least the amount of sauce - a few days ago the amount of sauce was at least 2 times bigger. On a picture you see large fries + sauce 25g-21ml (3 LEI for this amount of sauce?) I like KFC, but recommend to avoid this particular place at all costs.",
+            "time": 1668283284,
+            "translated": false
+        }
+    ]
+}

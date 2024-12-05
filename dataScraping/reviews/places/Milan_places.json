@@ -1,0 +1,1049 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.47839,
+                "lng": 9.2016908
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47976448029149,
+                    "lng": 9.2029819802915
+                },
+                "southwest": {
+                    "lat": 45.47706651970849,
+                    "lng": 9.200284019708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel ibis Milano Centro",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114556383427902811802\">ibis Milano Centro</a>"
+                ],
+                "photo_reference": "AdDdOWp2Ze8Brla9UORKXPcmH4d_h6wBSJBMAjWSjOsafnotZ8xppNgTSVvy6vgDh-HZjQHEUiJqF3hispreqadQSC-acoXd5mb7_RND9qtUlfQOXJs-E6jnenFG8HaT4GmtbQCuapcOqzYdZUTHM3W70XDhwoe8lnzEAGp2GcfCjVRzo-yH",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJG5wkscfGhkcRxl6WAL7Vp3I",
+        "plus_code": {
+            "compound_code": "F6H2+9M Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF6H2+9M"
+        },
+        "rating": 3.8,
+        "reference": "ChIJG5wkscfGhkcRxl6WAL7Vp3I",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7070,
+        "vicinity": "Cin: It015146a12holv2mz, Via Camillo Finocchiaro Aprile, 2, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4806084,
+                "lng": 9.211757
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4818359302915,
+                    "lng": 9.213047430291503
+                },
+                "southwest": {
+                    "lat": 45.4791379697085,
+                    "lng": 9.210349469708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "UNAHOTELS Galles Milano",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1400,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109743493123614509324\">UNAHOTELS Galles Milano</a>"
+                ],
+                "photo_reference": "AdDdOWq0sKUY-eC3bKy8bUc4hUO-onu6Ih_L5GmvkOiVQMjkIV1AyLChKdctVJDZKX_v3SNygT6jGsrrPg8AQhbkGE7s3_-iWuwopn50uoeuDoCeAoNGmmCI4padC7VaASEJvrBGOPd1DA3sslJN9VFBICDDJGReDYClKmqCOH4svBdv3lpE",
+                "width": 2100
+            }
+        ],
+        "place_id": "ChIJ4aWTGcLGhkcRsGRVIFyvMgU",
+        "plus_code": {
+            "compound_code": "F6J6+6P Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF6J6+6P"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ4aWTGcLGhkcRsGRVIFyvMgU",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2912,
+        "vicinity": "Piazza Lima, 2, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4638223,
+                "lng": 9.194027300000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4651438302915,
+                    "lng": 9.195380230291503
+                },
+                "southwest": {
+                    "lat": 45.4624458697085,
+                    "lng": 9.192682269708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Rosa Grand",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108497707381101159571\">Rosa Grand Milano - Starhotels Collezione</a>"
+                ],
+                "photo_reference": "AdDdOWrqCLZBo5LUibjhb5TzkSNAwjg7mcc488VP2pUpdengRoSANBd1-k2iX9fIVvFVf5pvyQS3SFyRLHL-P3oE8AlM64qaJxoQxKZhaAc1iYPFo4kfo_I2cy0UBRiAtmRBG48IbCuwstyKXpgtmlWp9MQf89ZXC1pbTiktsmY0OlH6stNj",
+                "width": 511
+            }
+        ],
+        "place_id": "ChIJO6fbQq_GhkcRALpIaMXnqKY",
+        "plus_code": {
+            "compound_code": "F57V+GJ Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF57V+GJ"
+        },
+        "rating": 4.3,
+        "reference": "ChIJO6fbQq_GhkcRALpIaMXnqKY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2608,
+        "vicinity": "Piazza Fontana, 3, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.47699979999999,
+                "lng": 9.202225000000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47836503029149,
+                    "lng": 9.203599280291504
+                },
+                "southwest": {
+                    "lat": 45.47566706970849,
+                    "lng": 9.2009013197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Dhaba",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100968869619363215113\">Aman P</a>"
+                ],
+                "photo_reference": "AdDdOWoL-eB1FrLkX377DbI-avKhFak4gv_WeeH2CCmrOY6DGM0MPa6JSmrNxjDTd6EdsrmCilFUisNkCvCeuu2R2O8mR-JzFAh-h1jlTeIAYpLA1PzRNxMQLdXiOoUW-BMK3rK1HLXY17UsBtuqkZUDswjwZggeBaiT8xOeHgbSHUqfL3c1",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJHc5VnsfGhkcRTETvM1LUabA",
+        "plus_code": {
+            "compound_code": "F6G2+QV Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF6G2+QV"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJHc5VnsfGhkcRTETvM1LUabA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 639,
+        "vicinity": "Via Panfilo Castaldi, 22, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4517549,
+                "lng": 9.205873699999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4531838802915,
+                    "lng": 9.207015180291501
+                },
+                "southwest": {
+                    "lat": 45.4504859197085,
+                    "lng": 9.204317219708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "UNAHOTELS Mediterraneo Milano",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1402,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114841551605727296847\">UNAHOTELS Mediterraneo Milano</a>"
+                ],
+                "photo_reference": "AdDdOWo1lz9ulTNwwUuqj-bN7YoIxxMQVdyuRboJxmg2xdgjzx5iWLazidWBghYTJeqyA3lcAQi04qi6b6Xkdnh4wrZVHz4YWeObmP7_NDsdv0NCDRDg_AEDJOvjUr88XJgkwyL_l5sZN9QDgZ6zpN09h_O3dk-RMAaymXeRF0sT98vvxWx9",
+                "width": 2100
+            }
+        ],
+        "place_id": "ChIJB5DT1CPEhkcRERaUTVXwyxk",
+        "plus_code": {
+            "compound_code": "F624+P8 Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF624+P8"
+        },
+        "rating": 4,
+        "reference": "ChIJB5DT1CPEhkcRERaUTVXwyxk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 812,
+        "vicinity": "Via Lodovico Muratori, 14, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4921104,
+                "lng": 9.1476885
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4933835302915,
+                    "lng": 9.149062180291502
+                },
+                "southwest": {
+                    "lat": 45.4906855697085,
+                    "lng": 9.146364219708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Morfeo Milano",
+        "photos": [
+            {
+                "height": 1800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106386725601056638686\">Hotel Morfeo Milano</a>"
+                ],
+                "photo_reference": "AdDdOWp8tM3BJ8H2yXrB2Wl3CaMGZotN9vi8bQjzhCoXTtJh6lfLA61XE2UXv2zxpAo9ym8UHAv_VEnwNFPrAmPy2YsoxkXlP8cIw6D_iNXfty92PKE8n7ko1L2Kzc2ky77-FG2ROw_EsjTaeFiUCdn6UunPjhmGnzEtTX62SnnAFeXrlSZN",
+                "width": 1440
+            }
+        ],
+        "place_id": "ChIJ_TsEoQfBhkcRTCTzePJExyI",
+        "plus_code": {
+            "compound_code": "F4RX+R3 Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF4RX+R3"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ_TsEoQfBhkcRTCTzePJExyI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 702,
+        "vicinity": "Viale Certosa, 68, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4839265,
+                "lng": 9.207638
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4852424302915,
+                    "lng": 9.208938980291503
+                },
+                "southwest": {
+                    "lat": 45.4825444697085,
+                    "lng": 9.206241019708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Andreola Central",
+        "photos": [
+            {
+                "height": 2362,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104880951168287817234\">Hotel Andreola Central</a>"
+                ],
+                "photo_reference": "AdDdOWohZs5XYrw8crY78847QlsEkv7jlVAjLx8VHwwfuGgO96-NVZZVb1R6HxqE4d7BSSOlQ8WoZnIlM6U9zc_3AQ42Gx85HAsb_kOvyS88sekYmbC8Gi5lxVHubH911lbtos7Zo1NhOQXvg_Qz5yViFX9nsZ2jLV2Vd5B4MDbicZbGeQ9k",
+                "width": 1712
+            }
+        ],
+        "place_id": "ChIJOTV-YMPGhkcRVEH6BqdQsVw",
+        "plus_code": {
+            "compound_code": "F6M5+H3 Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF6M5+H3"
+        },
+        "rating": 4.2,
+        "reference": "ChIJOTV-YMPGhkcRVEH6BqdQsVw",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1300,
+        "vicinity": "Via Domenico Scarlatti, 24, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.46890579999999,
+                "lng": 9.186847099999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47033903029149,
+                    "lng": 9.1882025802915
+                },
+                "southwest": {
+                    "lat": 45.46764106970849,
+                    "lng": 9.185504619708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Milano Scala",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5464,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114107847715790546772\">Hotel Milano Scala</a>"
+                ],
+                "photo_reference": "AdDdOWrVE8dD76h06G16ZpNohUEt7Rgft4YBL8L9rDuRcDRT092SXI5noFAEUMlL7WLvczzOvA4yVwJgE8n-r2WUIT6ayF0NHGNE-DAKzf3y0dds14NA-61IzGZB1d5qOXzAKPJgwA3Vwiu2yVZXVrnAiFd8DaH0EnM1qHa2zIFHUfyQHMDc",
+                "width": 8192
+            }
+        ],
+        "place_id": "ChIJeyCF6rLGhkcRO2cVAlXiN-E",
+        "plus_code": {
+            "compound_code": "F59P+HP Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF59P+HP"
+        },
+        "rating": 4.4,
+        "reference": "ChIJeyCF6rLGhkcRO2cVAlXiN-E",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 678,
+        "vicinity": "Via dell'Orso, 7, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4405621,
+                "lng": 9.1921165
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4419637302915,
+                    "lng": 9.193533880291502
+                },
+                "southwest": {
+                    "lat": 45.4392657697085,
+                    "lng": 9.190835919708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "MiHotel",
+        "photos": [
+            {
+                "height": 612,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116301549070391304299\">MiHotel</a>"
+                ],
+                "photo_reference": "AdDdOWocbYQwOlrKh65hDFH5EnV2MnnXhIMSg-QS9IF-qzmsc5CG9eVCsrq7NBDzwLdtfez5KkCPwGP1LjRdLhhHWNPkHscmHBzxbMi7eQk3luI2nGAK8kK8ZuNpGKN68G_2n4qqL2F5I-CGBBza2j7Nahk9l-RjChFQ_8EdX4FoPwI4Dbnu",
+                "width": 816
+            }
+        ],
+        "place_id": "ChIJ60yDchPEhkcR4DSyK79Q5as",
+        "plus_code": {
+            "compound_code": "C5RR+6R Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFC5RR+6R"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ60yDchPEhkcR4DSyK79Q5as",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 251,
+        "vicinity": "Via dei Fontanili, 26, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.468501,
+                "lng": 9.183428
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4699274802915,
+                    "lng": 9.184822080291502
+                },
+                "southwest": {
+                    "lat": 45.4672295197085,
+                    "lng": 9.182124119708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "UNAHOTELS Cusani Milano",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1523,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112919835963066056435\">UNAHOTELS Cusani Milano</a>"
+                ],
+                "photo_reference": "AdDdOWo8XyTCp29vGpAbXIUykhfqCLvoRJaxWooER3TpxH6P9G3vN83-JIhRN_S-d_viIerNZ7cmRSFeVm0_VWJ17on9-FslYIaUnuf9IfhMA76QJf5cdiTmhXu14UlVvGydLpL8WNp9dnBD4-XS-qkNiqzNh0DZTQELaxQxPOuCOk2JvxeL",
+                "width": 2100
+            }
+        ],
+        "place_id": "ChIJH6HNY0zBhkcRKkbM_j9Hb3g",
+        "plus_code": {
+            "compound_code": "F59M+C9 Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF59M+C9"
+        },
+        "rating": 4.3,
+        "reference": "ChIJH6HNY0zBhkcRKkbM_j9Hb3g",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1363,
+        "vicinity": "Via Cusani, 13, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4734193,
+                "lng": 9.1910818
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4747459802915,
+                    "lng": 9.192536080291502
+                },
+                "southwest": {
+                    "lat": 45.4720480197085,
+                    "lng": 9.189838119708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Palazzo Parigi Hotel & Grand Spa Milano",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3143,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104841099395902227351\">Palazzo Parigi Hotel &amp; Grand Spa Milano</a>"
+                ],
+                "photo_reference": "AdDdOWqeWbp6sXeP4LZPH-mTy--vqTH4qnNcUn40r2sGIlQzb2beidAOdw7ZFdjEbPUX3g4bd3-Q8GoIWh3bNcVTG4ffeF53UFR1M0Cai7uYZ9MR6mZJ5iG02uBOQ3Q-wCf0kToOcG_AdcPIJIqfp02ocSHQrppityYREwh71XJwqAtFOEEl",
+                "width": 4709
+            }
+        ],
+        "place_id": "ChIJI58xObTGhkcR5_47rs8K5nk",
+        "plus_code": {
+            "compound_code": "F5FR+9C Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF5FR+9C"
+        },
+        "rating": 4.7,
+        "reference": "ChIJI58xObTGhkcR5_47rs8K5nk",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1676,
+        "vicinity": "Corso di Porta Nuova, 1, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.46623200000001,
+                "lng": 9.190525000000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.46773953029149,
+                    "lng": 9.191255130291502
+                },
+                "southwest": {
+                    "lat": 45.46504156970849,
+                    "lng": 9.188557169708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ristorante Papà Francesco",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2128,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104115297507173273274\">Ristorante Papà Francesco</a>"
+                ],
+                "photo_reference": "AdDdOWr3pgEZVHxT-1CCZgCT9Lzwnw3U6_CZU_iwOUhGl2lETpdX6juG513c_4jpVyopA6JKefr0CZhbhnOry3f8FbRjlp69kYMu2MExGLB_rXN9c-I6sEXC8kf3KRgyhVQTECGbDOsdCGzkxV5DWDlepp36PvXptia4Lh5p3TsWQE6h5CKQ",
+                "width": 2832
+            }
+        ],
+        "place_id": "ChIJZQYkC67GhkcR3qrMgBJoX4w",
+        "plus_code": {
+            "compound_code": "F58R+F6 Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF58R+F6"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJZQYkC67GhkcR3qrMgBJoX4w",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2694,
+        "vicinity": "Via Tommaso Marino, 5, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4699224,
+                "lng": 9.192502899999997
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4712487302915,
+                    "lng": 9.1938957802915
+                },
+                "southwest": {
+                    "lat": 45.4685507697085,
+                    "lng": 9.191197819708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel et de Milan",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1689,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106442965409330749177\">Grand Hotel et de Milan - Member of The Leading Hotels of the World</a>"
+                ],
+                "photo_reference": "AdDdOWpdpLruxyTzErWWdfUXxO1DZPRPnPnW7ct17Vl9T10vjtykS67spIHZcYT-PXcCO_kcP_JgxWpxvKLsXwLcGupJ7rbIgU9WAvzFGc6CiMfr8T_b_HjjekG-dW3CHKjZjrOAEFt7XUJv-Nhmf5dD9GfKKZOrWx0tZ5Ncj5kla-IYtExq",
+                "width": 2500
+            }
+        ],
+        "place_id": "ChIJz4oic7HGhkcR6DARPUTOSHk",
+        "plus_code": {
+            "compound_code": "F59V+X2 Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF59V+X2"
+        },
+        "rating": 4.7,
+        "reference": "ChIJz4oic7HGhkcR6DARPUTOSHk",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 884,
+        "vicinity": "Via Alessandro Manzoni, 29, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4854758,
+                "lng": 9.164106000000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4867927302915,
+                    "lng": 9.165559380291503
+                },
+                "southwest": {
+                    "lat": 45.48409476970851,
+                    "lng": 9.162861419708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "UNAHOTELS Scandinavia Milano",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115291343042988594891\">Luis Cencillo Abad</a>"
+                ],
+                "photo_reference": "AdDdOWrtotScvu72Erq6AWUe6EbqWFxFGgfmwIyJAXLDihQpsqz7oCGZjCDXrvGIhL_1Id3Oq9YtayHzmEIRlInuodegEcIFWbXEc1MOyqnk75WKPEBAnG4wTK4-Wf9dKyGIiUDKQOUTdoiZPjZaB1-w7j5AzdShSAICRMNN50WPA-kCtAZF",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJcUOA-RbBhkcRelNEdLzJ1uQ",
+        "plus_code": {
+            "compound_code": "F5P7+5J Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF5P7+5J"
+        },
+        "rating": 4.2,
+        "reference": "ChIJcUOA-RbBhkcRelNEdLzJ1uQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1546,
+        "vicinity": "Via Giovanni Battista Fauchè, 15, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.49501310000001,
+                "lng": 9.141737400000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49624948029151,
+                    "lng": 9.142947430291503
+                },
+                "southwest": {
+                    "lat": 45.49355151970851,
+                    "lng": 9.140249469708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Raffaello",
+        "photos": [
+            {
+                "height": 694,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101382774796423915541\">Hotel Raffaello</a>"
+                ],
+                "photo_reference": "AdDdOWou5CX7g5X2DaQFDXhCa66nsY4aNB1IzjAnrByie4rCdgTub-ZVMqhBqAtAmfQE_8SKDliBFgrG_Ba4rdAR-szqcN5G4VEXtlyNpOWAkxhDOsekI8PvJHmbK1nZaG1TwJUvJd8aor-V6-OOpeFEEz3zIiIGSbRBMv0NDMP2e7bAhuhK",
+                "width": 1217
+            }
+        ],
+        "place_id": "ChIJ6xqsVqnBhkcR_Qcjje6Wyfw",
+        "plus_code": {
+            "compound_code": "F4WR+2M Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF4WR+2M"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ6xqsVqnBhkcR_Qcjje6Wyfw",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1520,
+        "vicinity": "Viale Certosa, 108, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.47023799999999,
+                "lng": 9.195347
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4716394302915,
+                    "lng": 9.196707330291503
+                },
+                "southwest": {
+                    "lat": 45.4689414697085,
+                    "lng": 9.194009369708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Manzoni",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101512116760672638188\">Alex Pritts</a>"
+                ],
+                "photo_reference": "AdDdOWpMckLnlxNgsDGZ0TdTCeB73-amHQ3T2S8l77ZlWnAeWmqJSs-3eoHgFOh3rFVMZFws6n1pcoIPTxWy_HnQqO4QrXazh6YMEnbJpSp8lZuiektIJDx4yOKDjDi_zOpIeFord6NIBXcuw8jeGxBr1vc7CH0i0X10AbfJeWLa2FiYTiZ1",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ00XB7rDGhkcRs4ydZSPfZxc",
+        "plus_code": {
+            "compound_code": "F5CW+34 Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF5CW+34"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ00XB7rDGhkcRs4ydZSPfZxc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 255,
+        "vicinity": "Via Santo Spirito, 20, Milano"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 45.4816008,
+                "lng": 9.222579399999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48295623029149,
+                    "lng": 9.223974680291501
+                },
+                "southwest": {
+                    "lat": 45.4802582697085,
+                    "lng": 9.221276719708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Vietnamonamour",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102189383230638984049\">Oliviya Aheyenka</a>"
+                ],
+                "photo_reference": "AdDdOWopBcaxnCDty11ub6gJLKJ03F1xxY3O7K3shvL3eiOCX5affdECIm-p6dZK1HJD5lGUfJE8keL2-uDr4kmoFF0zUysXCIlfhpmEmPr0KF35MO59p7SyXLTuJqJsolymidOwrpga-yjLGpSXGpLE0akJ9e9NM8pwhYdx1B9KWy6kAqFI",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ4Zr5Ne7GhkcR0WzUTo6riM4",
+        "plus_code": {
+            "compound_code": "F6JF+J2 Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF6JF+J2"
+        },
+        "price_level": 3,
+        "rating": 4,
+        "reference": "ChIJ4Zr5Ne7GhkcR0WzUTo6riM4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 929,
+        "vicinity": "Via Alessandro Pestalozza, 7, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.50066309999999,
+                "lng": 9.144576299999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.5016084302915,
+                    "lng": 9.145413150000001
+                },
+                "southwest": {
+                    "lat": 45.4989104697085,
+                    "lng": 9.142594549999998
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu Hotel Milan",
+        "photos": [
+            {
+                "height": 1191,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107042798488738292041\">Radisson Blu Hotel, Milan</a>"
+                ],
+                "photo_reference": "AdDdOWp3-1Tr-3r57rj2pse-Lc10pjVoW5d5yTHy9TErI-1g7GLmAoIOWWSMLKe0XIyrgkia3IgRUd14bQh2Q7rqKHDQb7DYWqsFHZV0S3WVUHxhcRr0XSnupwohDtayuhqLL5tvyrcVcniAE74ODOd-SRfgnJ1EHy8uswtYffJJQd4xWFsP",
+                "width": 2119
+            }
+        ],
+        "place_id": "ChIJbQW5wVTAhkcRY80EmLTiCys",
+        "plus_code": {
+            "compound_code": "G42V+7R Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFG42V+7R"
+        },
+        "rating": 4.4,
+        "reference": "ChIJbQW5wVTAhkcRY80EmLTiCys",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2414,
+        "vicinity": "Via Villapizzone, 24, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.4683333,
+                "lng": 9.2072222
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.4696110802915,
+                    "lng": 9.208519880291503
+                },
+                "southwest": {
+                    "lat": 45.4669131197085,
+                    "lng": 9.205821919708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Château Monfort",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2132,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114499216042719337341\">Château Monfort</a>"
+                ],
+                "photo_reference": "AdDdOWqZgb74BMR_g7a4QgGDEbDWoBzDRoPCAVfp7Zw0s8eFBSsy2YmeolfJVCzb5GSqcJGZcxFhXQ9N1mfwg0P_KZR-JZQDmoXKAR7ZIoshU6PMEvcZTK4Xumqpg3MuH4f--ZnFXrQbwJskIjJdQ3cORByaSnKxsUZSqSLMoJINgo9Z2haZ",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJzcAkd73GhkcRW2_dAL25PD8",
+        "plus_code": {
+            "compound_code": "F694+8V Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFF694+8V"
+        },
+        "rating": 4.7,
+        "reference": "ChIJzcAkd73GhkcRW2_dAL25PD8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1121,
+        "vicinity": "Corso Concordia, 1, Milano"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 45.5065554,
+                "lng": 9.196755600000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.50783928029149,
+                    "lng": 9.197966230291502
+                },
+                "southwest": {
+                    "lat": 45.50514131970849,
+                    "lng": 9.195268269708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "ibis Milano Ca Granda",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105383694238901667579\">ibis Milano Ca Granda</a>"
+                ],
+                "photo_reference": "AdDdOWppKunLapM-nScK-lEYjtd8XVMdPz6nz2CWnxAsAG14QmOLsJVk5BOv2fiDhLltyElI_I705yerZPpU0ZV-ju1TGk7OcMBP_mPvWiXF70ZKL2ZCwo3UI9y3TTqBQKytx13DY4oqQq72NFpV38S0rQrrbzVyRKPi1K9DOYq6sbE8yBix",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJn8k1yjLHhkcRiVefTmsZuJ4",
+        "plus_code": {
+            "compound_code": "G54W+JP Milan, Metropolitan City of Milan, Italy",
+            "global_code": "8FQFG54W+JP"
+        },
+        "rating": 3.7,
+        "reference": "ChIJn8k1yjLHhkcRiVefTmsZuJ4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1623,
+        "vicinity": "Viale Giovanni Suzzani, 13/15, Milano"
+    }
+]

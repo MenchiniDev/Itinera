@@ -1,0 +1,66 @@
+{
+    "name": "Divaka",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Bencho Benchev",
+            "author_url": "https://www.google.com/maps/contrib/102436147268074520638/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9Up22SrCSb3vBvsunTWY14ip4Fcr932FZgoMm6Q9uc-5NMwc=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Everything we ordered was very tasty, quickly served by the friendly waitress! The atmosphere of the restaurant also lends itself to a deeper exploration of the beer menu, etc. ;)",
+            "time": 1722460270,
+            "translated": false
+        },
+        {
+            "author_name": "David",
+            "author_url": "https://www.google.com/maps/contrib/116092137586851619486/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLafaMHjoIUEtI-nr7t3Of_rcVxqhNzo9ltpvF2tmoN930hRqB=s128-c0x00000000-cc-rp-mo-ba8",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "Enjoyed the food, especially the fresh porcini mushrooms. So flavorful! Reasonable prices.",
+            "time": 1730940918,
+            "translated": false
+        },
+        {
+            "author_name": "Nikol Hristova",
+            "author_url": "https://www.google.com/maps/contrib/103691445531207299601/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG6US1ofqdIMwkUtvla0KO_BfvQSorqV4tlioNhxCc52EHXTI=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "9 months ago",
+            "text": "The food was tasty, but nothing special. It came very quickly! They served my starter together with the main dish, which wasn't desirable. The staff was polite overall, I had no issues with that. The menu for the food is waiting directly on the table, so that is something to be aware of as noone tells you about it. Price is good and the quantity of the dishes is good. However, I had on mh table ordered some meatballs that came with no sauce but only one small cherry tomato, which was a little disappointing. Overall, it is a good place for simple tasty Bulgarian food with good prices. I recommend the tarator cold soup!",
+            "time": 1709576637,
+            "translated": false
+        },
+        {
+            "author_name": "David Roberts",
+            "author_url": "https://www.google.com/maps/contrib/102201463739355412385/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1eQrw8_VerY8LHai6_rw_4arb8P6pxE1-P9vPKyC21YWRzg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Food was decent, can get better for that price in Sofia though. Service good!",
+            "time": 1730796723,
+            "translated": false
+        },
+        {
+            "author_name": "Kamen Tomov",
+            "author_url": "https://www.google.com/maps/contrib/116951119346224194261/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbzVH7jld4Eo-86LHHWlFHjZl0J4h1nD5YbzuF-xagvkIBnW6_=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "The salad was too small for the price. The desert was cheap and quite bad. Basically I only liked the glass of wine. Additionally the waitress was too touchy.",
+            "time": 1711313655,
+            "translated": false
+        }
+    ]
+}

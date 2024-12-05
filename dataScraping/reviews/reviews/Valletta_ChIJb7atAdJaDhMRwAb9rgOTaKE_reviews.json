@@ -1,0 +1,66 @@
+{
+    "name": "Bistro 516",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Carl J",
+            "author_url": "https://www.google.com/maps/contrib/115448646691844160409/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ597eXp1odV6aLGtyS-ENLkC3rC9zcMQNs7H22D-_7IYXDkg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This restaurant on the waterfront is an amazing place to dine. The food was absolutely perfect, and I couldn't believe they had a separate menu specifically for allergens—what a thoughtful addition! It felt like a gluten-free paradise, and the service was excellent. Thank you for a wonderful experience!",
+            "time": 1729927800,
+            "translated": false
+        },
+        {
+            "author_name": "Kate Estrada",
+            "author_url": "https://www.google.com/maps/contrib/107006342026519654421/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLQqrx0AJROqv8t2K8U-nhoO5Q0EQtbeRYl9juuzQZ6E3HSGqT=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "It was overall an okay experience. We went in the afternoon when there were barely any guests, and we were catered to promptly by the nice service crew. The ambience was also good, they have seats along the promenade overlooking the marina but we decided to stay inside the resto which also exudes a welcoming and chill atmosphere. The downside for us were the foods, the spare ribs was a bit too dry for our taste and a bit more glaze/sauce on the side might have provided a remedy. The fish (ordered fish and chips) seemed like something out of the frozen goods instead of something made from scratch, though the tartare sauce was delicious! The service was commendable and it was not as pricey, but maybe the other menus taste better than what we ordered.",
+            "time": 1721767719,
+            "translated": false
+        },
+        {
+            "author_name": "Lina",
+            "author_url": "https://www.google.com/maps/contrib/118377627124986523285/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxHM-BCE0nQV0eb7z5NFEu7wpqwKv7mdB-4ZJ_WSKZ4_8UNVuH=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "I selected this restaurant for my lunch because of its warm and inviting atmosphere. The service was exceptional, and we were promptly seated.\n\nOur food arrived without delay, and I opted for the Caesar salad, which was quite flavorful. The portion size was generous, although I was a bit let down by the dryness of the chicken, which somewhat detracted from the overall experience.",
+            "time": 1719520923,
+            "translated": false
+        },
+        {
+            "author_name": "Gluten free Bf",
+            "author_url": "https://www.google.com/maps/contrib/102165057257724942175/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhk-uxJlf4gPm8I8uduzRzR7rbVOdeKvYaIBYwDjOtGkXewA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "They have  Gluten free menu and they have a separate kitchen to make it! Also have gluten free beers too! We ordered a duck and paella 🥘 it was good and Love the duck so much! And the staff was nice and kept checking on us to see everything was okay!",
+            "time": 1712688316,
+            "translated": false
+        },
+        {
+            "author_name": "Robin Rimbaud-Scanner",
+            "author_url": "https://www.google.com/maps/contrib/114824982054016732743/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDuAM1ErwCd5_6O9R8Vcg01h8KpfAPUO_-qvrWTnYBLlu2Ri21=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "A great place to eat by the water in Valletta. We'd made a reservation and sat indoors but it was super busy and would recommend making a reservation to be certain of a seat.\n\nSuper friendly staff, with enormous portions of food. We needed to take ours away with us as there was just too much for our tummies. Super yummy and tasty!! GF options available too which is always encouraging!",
+            "time": 1716911131,
+            "translated": false
+        }
+    ]
+}

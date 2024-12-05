@@ -1,0 +1,66 @@
+{
+    "name": "ÁNDELE Santa Fe",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "C J Johnson",
+            "author_url": "https://www.google.com/maps/contrib/117293060772076276629/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_UZDY9DbPeWPUq4hsybPTHmHID5UFCerO5f-xEpVXnS5buUU=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Tacos are always great. And they have some bottled hot sauces, you have to ask for the Carolina Reeper or Scorpion Pepper sauce 😳",
+            "time": 1724945128,
+            "translated": false
+        },
+        {
+            "author_name": "J De Santiago",
+            "author_url": "https://www.google.com/maps/contrib/106606772926349934712/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4rvfi7qDA5NFzIVofa_qy3EfzF6ddnGveDyffpCQFUHOODIE=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The enchiladas were okay, but I would return because of the staff and atmosphere.",
+            "time": 1726722636,
+            "translated": false
+        },
+        {
+            "author_name": "Noah C. “NC” Brial",
+            "author_url": "https://www.google.com/maps/contrib/104346239970115404289/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhJicK5sD2iJu4IUrL12VuyIHdqVCkJqJ7U9qXjn9zX1kVxE1j=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Very good and well-accompanied meals. Wonderful service and beans are exceptionally good. Would definitely redo!",
+            "time": 1715867292,
+            "translated": false
+        },
+        {
+            "author_name": "Andre Vartan",
+            "author_url": "https://www.google.com/maps/contrib/116879433031190215274/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJC0nPO9zVy0NC4OftL-FZ147iqCPiSHnx87HnWXhDJIk0_kQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The enchilada norte is a must have 10/10, Santi was a great server",
+            "time": 1719516132,
+            "translated": false
+        },
+        {
+            "author_name": "jorien eva klaver",
+            "author_url": "https://www.google.com/maps/contrib/102067689011961002326/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUA9MQ2x3S0UtGfNeO_fqIj4uUn7-M7TBD2qqKX7ZAs5BtHdU=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "We’ve always had a good experience here. We do always eat early for Spanish standards so it’s nots never super busy. Which is perfect for us. Food is tasty, Margaritas nice!",
+            "time": 1697280507,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Belushi's",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Matthew Castonguay",
+            "author_url": "https://www.google.com/maps/contrib/105920312593078765835/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkeYfPACAdBaoJbdtWb0QODXT-XSBHluZZlRpYBCGkov6SVyS_=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I pretty much lived at this bar during my two week work trip to Amsterdam. Paula and Gabriel are two of the best bartenders, I also now consider them friends. The food is great, live music is also 10/10. Would absolutely recommend !",
+            "time": 1732365043,
+            "translated": false
+        },
+        {
+            "author_name": "Federico Franco",
+            "author_url": "https://www.google.com/maps/contrib/104463179872021794512/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJe3_yS78qCMUE5MiFY0zkVk9jt0L8EgcaVRdBeCgzKU7kdKA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great food and atmosphere but the service could’ve been a bit better. Waited at the table hoping to be served but the orders were taken at the bar and nobody told us. Minor comment though, rest was incredible 😁",
+            "time": 1729796165,
+            "translated": false
+        },
+        {
+            "author_name": "Flight Solutions LLC",
+            "author_url": "https://www.google.com/maps/contrib/106052255035916271339/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyYf3oTDlGhPQ2s4uJ1B2ZJel1MjjrBeBEiJlouD1AVOrL2AIB=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Very fun place I wish we had found earlier. Stopped in for a few drinks and appetizers at lunch. Beer and food was excellent as well as service received.  Highly recommend to anyone traveling through Amsterdam.",
+            "time": 1717577055,
+            "translated": false
+        },
+        {
+            "author_name": "Joyce BECHARA",
+            "author_url": "https://www.google.com/maps/contrib/118223533302681188925/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx_aEAYiNmh1DZsvNsSxUpPCpGIg1pKGAKzEzXUnLKNyVcKM2f=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "I loved it ! We watched a euro game there, the atmosphere was amazing, and the food was great. Service was a bit slow but i understand since the place was full",
+            "time": 1721724110,
+            "translated": false
+        },
+        {
+            "author_name": "Arsalan E",
+            "author_url": "https://www.google.com/maps/contrib/110738449143508495921/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3hNbQxeLoUohWe76-RW53lg2cc0KEDUMw0RUDzxnN3k42y8pmww=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Really great bar for watching any sports game. The staff were amazing and welcoming and the food was also really food. I was a huge fan of the wings.",
+            "time": 1719041041,
+            "translated": false
+        }
+    ]
+}

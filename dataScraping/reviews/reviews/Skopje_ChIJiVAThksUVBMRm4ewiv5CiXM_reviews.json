@@ -1,0 +1,66 @@
+{
+    "name": "Fruttissimo Juice Bar",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Igor Madzov",
+            "author_url": "https://www.google.com/maps/contrib/115627808898051266198/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVobF9oQdqKK-aD_q9k5fRXUrK_wFdQRGH844VT_vDvOuykOhFlvw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Fresh and fast this place is the best To-go Squeezed juices in town as well as  brunch and lunch salad place. You can make your own sallad with the ingredients they have and always go for the daily mixed juice as it cant get cheaper and fresher than that.",
+            "time": 1627995910,
+            "translated": false
+        },
+        {
+            "author_name": "Zivko Vasilevski",
+            "author_url": "https://www.google.com/maps/contrib/104220098231207509101/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9vV9TiZ9ucYptuhrMPRAEKEgS6LB6U62U_QDuTCqkilvNBGNM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "The daily juice promotion is awesome, the avocado and mozzarella salads are also awesome, the protein meal is phenomenal... I don't think there's anything bad here.",
+            "time": 1665668002,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan Boshkov",
+            "author_url": "https://www.google.com/maps/contrib/117944378814778506553/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJU45vheFDfUwW5miH44qjX9Dr7qQqOTxHwlxxrBX5eLkYAROS=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "The only place in Skopje that has given me RAW lemonade juice.\n\nSimply adore it!\n\nWill visit frequently and I highly recommend it!\n\n5 stars from me and congratulations to the team.\n\n👍👍👍👍👍👌👌👌👌👌👏👏👏👏👏",
+            "time": 1566827292,
+            "translated": false
+        },
+        {
+            "author_name": "Mihajlo Stojanov",
+            "author_url": "https://www.google.com/maps/contrib/108168893062701162542/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVETVuKIvU43y1jHy3Aa4Vc5zoORTXHWrUWr_m3EcSkhuULyY3F=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "My favourite place if I feel like having a refreshment. Always friendly! Great juices, great music... great place.",
+            "time": 1601497615,
+            "translated": false
+        },
+        {
+            "author_name": "Bojan Saveski",
+            "author_url": "https://www.google.com/maps/contrib/107432817274195555305/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx29ItDlUOcrXgjfUH8ozVZijhrVL8TO5Q39Kltslu4RDnQHfB=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Best fruity juices in the city 🍹🤍",
+            "time": 1684786400,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Porta",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Caterina Portesi",
+            "author_url": "https://www.google.com/maps/contrib/105292146334302328600/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXMnvnO7PSEoat31XJy6VNO4HNAE7Ay3A0OEdfoN4_JetVgoeP=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "Very good 3-star hotel. Practical location, good rooms with air conditioning and very friendly staff. Additional things that you don't find in you room can be asked and provided by the reception, like the hair drier. They also have a good choice of conference rooms in case you need to stay for business.",
+            "time": 1559293985,
+            "translated": false
+        },
+        {
+            "author_name": "Milos Przulj",
+            "author_url": "https://www.google.com/maps/contrib/103522353469178403448/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWS3cWeFgTykMb1OqfBwfGh2f6mjaG1o-9bbirRYaJHOnYOuch_=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "11 years ago",
+            "text": "Awesome hotel !  Very quiet, neat and clean in a completely safe neighbourhood.     They offer parking free of charge with a 24/7 monitoring service for a worry free peace of mind.\nAll of the staff was fluent in English with a very professional, yet friendly attitude.\nThe choice of freshly prepared food offered for breakfast, lunch and dinner was simply delicious in a price range much lower than  high end restaurants in the city. There was no need to wander around looking for a place to eat.\nIt's pretty close to the city downtown, and if you don't mind the 10-12min walk, you'll avoid the struggle to find parking downtown.",
+            "time": 1377374331,
+            "translated": false
+        },
+        {
+            "author_name": "Carolyn Fraser",
+            "author_url": "https://www.google.com/maps/contrib/108743646269187084475/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHtkNs6smX2vUKkT8f4BoLDQtUKzdMP4Nw5Ndy03OLg8nWiURw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "The bedroom was good, shower could have done with a bit of a fix though; the bathroom floor got very wet after each use. The food there was good too. Most mornings we got a buffet, and on mornings we didn't we had a nice cooked breakfast.",
+            "time": 1502445675,
+            "translated": false
+        },
+        {
+            "author_name": "Erik Petersen",
+            "author_url": "https://www.google.com/maps/contrib/100216364196484548876/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJBERmSLBmcfZoDhiOzOis7cv0s6sjdzePC9NIJpJHcriKMaKT=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "The international church rents space here. The conference room seems sufficient to the needs. There us always excellent coffee to be had from the hotel before and after the service.",
+            "time": 1512906089,
+            "translated": false
+        },
+        {
+            "author_name": "Brooke Filipovski",
+            "author_url": "https://www.google.com/maps/contrib/113609385085074307435/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbAklKQWa-ZSYW_WQzIC87PMYkD57R5X9xRMBR06B35aySgMXYzQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "We go here for chur each week so I can't speak to the accommodation but as far as meeting rooms go it is good. The food and coffee are also good and there is free, though limited parking available. Close to a bus line.",
+            "time": 1498991230,
+            "translated": false
+        }
+    ]
+}

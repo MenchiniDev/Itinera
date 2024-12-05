@@ -1,0 +1,66 @@
+{
+    "name": "Novotel",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Konstantia Sianou Karim",
+            "author_url": "https://www.google.com/maps/contrib/100222506886262566476/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsXUBeSIQrHjSQt37Nd7ki2BKJS9-onWOhUgRl8lG1JEOr5w=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Very nice hotel, with spacious and clean rooms. Great location for business meetings. Breakfast has a nice selection. The bar could have stayed open for a bit longer than 11.30m , but the staff are extremely professional and friendly. Especially Dylan was a great banter and exceptional talent behind the bar. Would definitely come back with my colleagues next time .",
+            "time": 1727403073,
+            "translated": false
+        },
+        {
+            "author_name": "Milena Gladek",
+            "author_url": "https://www.google.com/maps/contrib/103402951895437143953/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI4zmiDFXCa0nEafooEr9KDEXxIFl397ztIwscwfbErYE8=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Our check-in with Martina was excellent. Despite the long queue and the need to switch lines after the manager informed us they were closing the \"Priority Line,\" Martina remained friendly and helpful the entire time. She offered great recommendations for places to grab a bite and made the process much smoother. The room was spotless, and the bed was incredibly comfy—overall, a wonderful experience.\nThe little store close to reception was often closed, which was disappointing. Also, options for your welcome drink - which we forgot when we arrived, were very limited to take away.",
+            "time": 1731329723,
+            "translated": false
+        },
+        {
+            "author_name": "Marina Travels",
+            "author_url": "https://www.google.com/maps/contrib/101745325619526874553/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm54er-BY7NvBylcFdeiKw1Dcta5Q2MUmurx4R8xtgeVKbEnUW=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Positive: great location, great breakfast\nNegative: there are absolutely no amenities in the room. When asked, they provide it but the guest needs to come to the reception to get it. This is a service for a 3 star hotel.\nThere are some really nice employers there and some unfortunately not so friendly!",
+            "time": 1728929277,
+            "translated": false
+        },
+        {
+            "author_name": "JatHanspal",
+            "author_url": "https://www.google.com/maps/contrib/102497440488715147700/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKvinqCtIBfgs0GhlCjRaJUWGBgJ_PnH9mgOKNsM6uUGrS0Yre=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great hotel, Dylan was amazing at the bar. Superb stay. Rooms were clean and tidy. The whole experience from check in to stay and leaning on was great. The restaurant food was superb. Steak was bang on as well as the Caesar salad. Do stay and enjoy it.",
+            "time": 1728586537,
+            "translated": false
+        },
+        {
+            "author_name": "Dr.med. Ghada Atta",
+            "author_url": "https://www.google.com/maps/contrib/106683894621871250231/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB6vuv-LavNzMia4P93Zm3N_tqy6Od9Shlc4pd1C7ghitnZFY1mw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "I recently stayed at the Novotel Hotel for a vacation, and it was an excellent experience. The room was comfortable, and the service was exceptional. The staff made sure all my needs were met promptly and professionally. The breakfast was also fantastic—fresh, tasty, and with a great selection to choose from. I highly recommend Novotel for a relaxing and enjoyable stay",
+            "time": 1730636065,
+            "translated": false
+        }
+    ]
+}

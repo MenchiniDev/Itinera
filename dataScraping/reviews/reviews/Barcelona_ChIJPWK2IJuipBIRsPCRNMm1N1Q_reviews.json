@@ -1,0 +1,66 @@
+{
+    "name": "Tàmara - Barcelona",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Andrii Berbushenko",
+            "author_url": "https://www.google.com/maps/contrib/102121088994431008104/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-8Wekx2y25gxRb2EMjKXvFuHWimtiOMSGPe4EnYagH1gy-A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Small but nice local place. Great place to have a lunch. Especially need to say a few words about local alcohol cocktails - 5⭐️. Really great service. Dishes are awesome. Strictly recommended to visit.",
+            "time": 1722340426,
+            "translated": false
+        },
+        {
+            "author_name": "Inga Kozaeva",
+            "author_url": "https://www.google.com/maps/contrib/112117341624573379053/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEdJix2zdpSG2StrR6iD7p-9Jkl4zifQRg2EUYTrA6SqEad64=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I just had brunch at this place and that was a really good experience!\nI chose this place because of the pleasant atmosphere and varied menu and didn’t lose\n\nThey have prepared a really delicious and hearty toast with an egg and one of the best coffee, that I’ve tried in Barcelona. And the service here is really nice, thank you",
+            "time": 1716463518,
+            "translated": false
+        },
+        {
+            "author_name": "Roland Trimmel",
+            "author_url": "https://www.google.com/maps/contrib/115363041849670300228/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5J9ldOMfDivfHuU6Fy7RqsUDhKL50zayKg5sRvMDlPZ6PIjtq=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "This place serves amazing breakfast. Eggs, chips, baguette, fresh squeezed orange juice and coffee for €4.50 only. Coffee is great, try their tiramisu too! And, service was nice and friendly.",
+            "time": 1527942286,
+            "translated": false
+        },
+        {
+            "author_name": "Andrei Zaborila",
+            "author_url": "https://www.google.com/maps/contrib/102006530946323945086/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvKnWj0EPWawJLR2y5PhcR0CjJs8UIk8TcRKjf76MxqeVADYX7=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "The food was good, quite quantitative. Very good quality/price ratio in my opinion. The waitress spoke English well enough, the only problem was that the menu wasn't perfectly translated and we didn't get exactly what we ordered, based on the English menu.",
+            "time": 1632224573,
+            "translated": false
+        },
+        {
+            "author_name": "Isabel Abrego Escala",
+            "author_url": "https://www.google.com/maps/contrib/116658846662157362806/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeRhLLWtg4BruZOhcjRq16MCmd_fxCVfBcXQcJS0IE7_8KSum9=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "6 years ago",
+            "text": "Amazing menu with great quality - quantity value, just the meat was a little overcooked. The plates from the other tables looked very appealing. Service was a slow, but decent.",
+            "time": 1520160767,
+            "translated": false
+        }
+    ]
+}

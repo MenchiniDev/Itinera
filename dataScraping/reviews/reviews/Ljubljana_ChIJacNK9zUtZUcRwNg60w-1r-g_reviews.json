@@ -1,0 +1,66 @@
+{
+    "name": "Sputnik",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Gašper Grošelj",
+            "author_url": "https://www.google.com/maps/contrib/111846282792518751259/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0SLFqQ3--6l-giLgRAKLMOAwxkajQpavtU9W_loxftG4TVQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Great place for hosting events up to 50 people. The service is friendly and all in all top notch. The food, which was mostly finger food on the day, was excellent as well. The location is another big plus since it's just a quick drive away from the highway. Definitely a place worth choosing.",
+            "time": 1710595556,
+            "translated": false
+        },
+        {
+            "author_name": "Martin Ferjančič",
+            "author_url": "https://www.google.com/maps/contrib/118012818432584128060/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXebVu2FuFJ6rbGkmCT_6LffiocDlnUmusP1DhYJ-jL1S0qfq-1=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "The location of is not so central, it’s a minute drive from the main road, so even if you eat outside you have your peace and quiet. The food is excellent, absolutely no complaints on that. And for the price its incredible bang for the buck. Servers friendliness is also a 10/10. Will definitely be back! Btw photos have been taken at our private party.",
+            "time": 1710636417,
+            "translated": false
+        },
+        {
+            "author_name": "Arne Bratkič",
+            "author_url": "https://www.google.com/maps/contrib/111947653212221420806/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVa1phejy81SXh1lTJbB_BGIv0qjmm_qM51Js85ad9HRBLbD5_f=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "often come here to work, because I like the white bar noise in the background, mixed with lounge music. and I always end up staying for lunch or aperitif or just because the staff are so friendly that you just wanna keep on ordering...",
+            "time": 1728030503,
+            "translated": false
+        },
+        {
+            "author_name": "Zlatko Mahic",
+            "author_url": "https://www.google.com/maps/contrib/115054202529649458826/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkvk_spw3Qy8kTP05P44wD9aTLf8lZsKndCg6kcYLwmXkT9PlIOg=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "11 months ago",
+            "text": "Sputnik Restaurant in Ljubljana, Slovenia, is a popular spot for locals and visitors alike, known for its wide variety of food, lively atmosphere, and friendly staff. Their menu features international cuisine, including grilled chicken with mushroom rice, which i recently enjoyed.\n\nSputnik Restaurant exudes a vibrant and energetic ambiance, perfect for catching up with friends over a meal or enjoying a lively evening. Their spacious interior, coupled with the outdoor terrace, provides plenty of seating options to accommodate various groups and preferences. The restaurant often hosts live music events and DJ nights, adding to the lively atmosphere.",
+            "time": 1704375612,
+            "translated": false
+        },
+        {
+            "author_name": "Mitja Fabjan",
+            "author_url": "https://www.google.com/maps/contrib/106891958857226352587/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVG2ohXsYv_Ys6Is8dZ9-o_4oC0TEQbz2teIevS5cmVqd5IF3DD=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A location with a large parking space, a restaurant that never disappoints. Every day, there are several types of daily lunches, including a vegan option. An excellent choice for a very reasonable price, with consistent and verified quality.",
+            "time": 1680377509,
+            "translated": false
+        }
+    ]
+}

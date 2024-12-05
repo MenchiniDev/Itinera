@@ -1,0 +1,66 @@
+{
+    "name": "Subway Vaduz",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Sri Reddy",
+            "author_url": "https://www.google.com/maps/contrib/107743032838231826251/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3xALvUTDflCH-5vLfVPr-4Fn02uON0IY3l7FTkh7_p-ezlw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Amazing service. We came in 15 minutes before closing after a long drive on a Friday night but the server Ivo was very accommodating and provided exceptional service. He was still in training but he really made our night :)",
+            "time": 1673033766,
+            "translated": false
+        },
+        {
+            "author_name": "John Kunza",
+            "author_url": "https://www.google.com/maps/contrib/117493107320230121272/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY5kXfwRRHEDBKch9Ha7XRGPjw2jNC94DhPMWsbYrv354s3g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Great service at this subway. I come often and always happy to come again. Ivo is particularly at the service!",
+            "time": 1713033072,
+            "translated": false
+        },
+        {
+            "author_name": "Tobias Hammarberg",
+            "author_url": "https://www.google.com/maps/contrib/111443631510560653569/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-MfFO8zc8XJf64H6hMKF8TcUHDxKuwoEzW-x4alH5waGytc0K=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Rude service, I have rarely felt so badly treated. I order 2 pieces of the day's menu for 10 CH each. The employee asks if I want foot long, I ask what it costs. She answers 12.90 CHF piece. I say yes. When I pay (25.80) I only get sandwiches and I ask if they have forgot to give me my drinks and cookies.  She says that I had not ordered it, but I can get it and then the price is suddenly 32.20 CHF.  Super rude and poor communication by staff.",
+            "time": 1657196061,
+            "translated": false
+        },
+        {
+            "author_name": "Calvin",
+            "author_url": "https://www.google.com/maps/contrib/113403544113145432647/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaLHiKE0v4q9gFoax-Rs3TCeZ67-78jkYV6priudpin1ZT_24=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Arrived just before closing after a whole day of driving from the Dolomites. Was served by Ivo (sandwich artist in training) who was welcoming and understanding of just how hungry we were. He went above and beyond, continuing to work past opening hours to deliver our 4 sandwiches. It was a pleasure meeting and speaking with him.",
+            "time": 1673081779,
+            "translated": false
+        },
+        {
+            "author_name": "Conn Ashby",
+            "author_url": "https://www.google.com/maps/contrib/109562825378783249323/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVroeZrMlTSTxOP_ZrkfhIW_2tahcHuF_cq0nOF_ofcG9CMXsvG=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "The woman who served me (I didn't get her name) was very kind, and patient with my rusty German! She gave me an extra cookie as well! Many thanks😁",
+            "time": 1665850175,
+            "translated": false
+        }
+    ]
+}

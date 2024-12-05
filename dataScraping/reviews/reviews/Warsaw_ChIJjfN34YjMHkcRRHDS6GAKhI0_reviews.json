@@ -1,0 +1,66 @@
+{
+    "name": "Restauracja \"el Greco\"",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Mikko Rantala",
+            "author_url": "https://www.google.com/maps/contrib/101175662546123532768/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVunsP67pDKI8Q_kCOlmhgVEtTiFqzcZZUtcoFAZol7vCKilGI=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We went for lunch and sat outside. Had a mild incident with bee’s that went for a swim in our drinks (rest in peace). The staff got us a table inside and we got fresh drinks to replace the ones with drowned bee’s in them. All and all an excellent experience and I can highly recommend the place, thanks to awesome staff.",
+            "time": 1721668536,
+            "translated": false
+        },
+        {
+            "author_name": "Emanuele Nocerino",
+            "author_url": "https://www.google.com/maps/contrib/117219778315373539156/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXP1a5MG_qaYz0E08GraLapDQeJva832d5Rl8NDunRxiGpVE3ZO=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "We really loved it, food is nice and prices in line to the city in my opinion, not cheat not that expensive (considering inflation unfortunately), we had the fixed menu ZEUS for 220 zloty including, 2 starters, 2 main dishes, dessert and half liter of wine, portion are pretty big.\nWe didn't  manage to finish all of it so they packed the remaining dishes nicely.",
+            "time": 1715418665,
+            "translated": false
+        },
+        {
+            "author_name": "Ahmed Badri",
+            "author_url": "https://www.google.com/maps/contrib/112465989306994909071/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0lHJ2GMS6O68y4m9hKY_h6tQUOCxj3mW-4OwjB_ToG_89062iCg=s128-c0x00000000-cc-rp-mo-ba8",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Delicious food with reasonable prices, and large portions.",
+            "time": 1724612882,
+            "translated": false
+        },
+        {
+            "author_name": "Сабина Т",
+            "author_url": "https://www.google.com/maps/contrib/113844760934565880808/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3NFzdoeiplr6An4FQIHf3S8PP70Pu6wirg6Vo2-k6KKoFwyz6=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "It’s my first Greek restaurant and I am absolutely pleased with the dishes ) we ordered a set for two and the portions impressed us : They were big and delicious. The seafood was cooked in a proper way. The price is ok, so we will definitely visit this place again .",
+            "time": 1699434049,
+            "translated": false
+        },
+        {
+            "author_name": "Karolina Julia Sroka",
+            "author_url": "https://www.google.com/maps/contrib/107603293629827640022/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ-Iu0H7W-2njDF95Ik8KM1xj8mVwpSRLQNAvmVwasDwMxlg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "My favorite Greek restaurant in Warsaw ! Reminds me about Athens and Corfu.\nFood is fresh and absolutely delicious! Not so expensive. Saffron tea is so delicious that is now one of my favorite.\nStaff very friendly and helpful !",
+            "time": 1705861554,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Gallery 7",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Sara Trajkova",
+            "author_url": "https://www.google.com/maps/contrib/107699560599720759175/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSrg8kTnuMV_4OvG6uBb9Ev-3mM-MRyrIttP6g6uzzjVD_lQQg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "It is a hidden gem in the old bazar. Hard to find if you do not know where it is. This is a place where there are not a lot of dishes, the menu is so small, but you know that you will always get the same taste.",
+            "time": 1724333963,
+            "translated": false
+        },
+        {
+            "author_name": "Kevin VH",
+            "author_url": "https://www.google.com/maps/contrib/116024645539029003496/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVDBFuXPpQcJFquMyIHSStqlpF4B7ww6UUGnSY5X8O5uSXLOkd=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Great food! Love these pides! Perfect lunch stop as a vegetarian.",
+            "time": 1717425402,
+            "translated": false
+        },
+        {
+            "author_name": "수희이",
+            "author_url": "https://www.google.com/maps/contrib/108105072716224817345/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJF__bmPTx0131XHHmy-mA-6KQJ4C5K5R63A455U3iFln9qaA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Food was a bit spicy though I like spicy food. I like the atmosphere:)",
+            "time": 1727555913,
+            "translated": false
+        },
+        {
+            "author_name": "Gian Solpico",
+            "author_url": "https://www.google.com/maps/contrib/108567757956688317909/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYGumbSEWwUI52vUh4PtUj97Chgj43uGDXFhgijjniLtAKtBs=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Best turkish Pida in the city! I tried the one with the chicken and it was perfect. Just be careful with the hot sauce!\n\nLittle restaurant hidden nearby the Old Bazar,  the persons that own the people are lovely, a must-try in the city!",
+            "time": 1698534680,
+            "translated": false
+        },
+        {
+            "author_name": "Davidoff",
+            "author_url": "https://www.google.com/maps/contrib/107902457639217268458/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBSq2hSZ3Je_TiosEgfWkG7n5XCP5pa1vBFgirIMO4yUntLSqq=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The best lahmacun in Skopje, but be sure to bring cash.",
+            "time": 1727030640,
+            "translated": false
+        }
+    ]
+}

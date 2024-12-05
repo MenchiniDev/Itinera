@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Vila Tina",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Goran Gogo",
+            "author_url": "https://www.google.com/maps/contrib/109851564797206715817/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBmYMMDoofu-1yVX1jAsfkc4SNWvTuJs9Zm5YB37q2wgT-1aCJ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "A small 3 star hotel in Zagreb, over Maksimir forest. Private parking, breakfast and free internet.",
+            "time": 1729021680,
+            "translated": false
+        },
+        {
+            "author_name": "István Móni",
+            "author_url": "https://www.google.com/maps/contrib/109463461569898719050/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYfKXyYKpf_i4xKsh3kRFsXRWn02TaCPAj0GUP79fbG1Psm_Esdw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "The TV hadn't been working in the room for a long time since it had been disconnected from the electricity when I arrived at the hotel. (I tried to plugin, but it was wrong.) The restaurant is closed, and they serve drinks only. The lady was kind, but it was a pain not to have dinner there.",
+            "time": 1717998052,
+            "translated": false
+        },
+        {
+            "author_name": "Murielle Mueller",
+            "author_url": "https://www.google.com/maps/contrib/113145547667766163249/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4cBco-JRHOSkbgng25sDxQ8dfzM2afThN7XNzeizr7JyJhQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "What a wonderful hotel!  Our room was perfect and the breakfasts were excellent but what made our stay the best was the hospitality from the front desk personnel, especially Ivan.  So helpful.  So willing to assist you in anything you need.  The bus stop into the center of Zagreb was a one minute walk.  We really lucked out when we decided to stay at this hotel.",
+            "time": 1684374853,
+            "translated": false
+        },
+        {
+            "author_name": "Dino Pacariz",
+            "author_url": "https://www.google.com/maps/contrib/110977746145693346159/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLm_q9QpfjILDsidxIXcPP6IcwMNwy_waiK-A15pVzjKnhvFw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I've never met such well mannered, respectful, and helpful staff. The room was roomy, had a big wardrobe, great AC and a BIG radiator under the window. Everything is very clean and the bathroom was very fresh and nice to look at. The lobby and hallways were nice, too.\n\nCouldn't ask for a better hotel.",
+            "time": 1663354068,
+            "translated": false
+        },
+        {
+            "author_name": "Вяра Димова",
+            "author_url": "https://www.google.com/maps/contrib/108029598653619657421/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTHOzgOEWQNbEVNNDk8Sr3qFqIoF0u2TPPE9wsMlghDQaybWOTuQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "The staff were incredibly nice, always at your service, they really spoiled us with preparing a special table with decorations for me and hubby just because we wanted to have dinner served in the terrace. It was a pleasure talking to them, all were very friendly young men, who did everything so we feel welcome and special guests. The restaurant itself is amazing, they cook incredibly good meals with a special touch of exquisite taste. Local beer a'd wine they recommended was also top. The room was perfectly clean, had a balcony and a bathtub, which was much appreciated after a long journey. Spacious parking, some of the lots were even covered. Possibility to pay with debit card if you don't happen to have local currency. Breakfast was fresh and tasty, we got scrambled eggs prepared for us, as well as genuine espresso and squeezed orange juice. The hotel is located in a quiet area and I highly recommend it to anyone who is travelling through Zagreb.",
+            "time": 1569096410,
+            "translated": false
+        }
+    ]
+}

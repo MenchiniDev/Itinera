@@ -1,0 +1,66 @@
+{
+    "name": "Kleinhuis Hotel Baseler Hof Hamburg",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Al",
+            "author_url": "https://www.google.com/maps/contrib/105498514391080969679/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvDgIJ8p-vSmANeVCQWO4cQOTmsxNMD7LB646MaqgAJgO6y6L8=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "An affordable hotel with amazing service. It does not have AC, but the receptionist made her best to accommodate me. The rooms are simple and tidy. Sauna, gym, pool table and other entertainment included. Located right in the middle of the busiest area of Hamburg.",
+            "time": 1719754685,
+            "translated": false
+        },
+        {
+            "author_name": "ilo rekrap",
+            "author_url": "https://www.google.com/maps/contrib/106077580191257524670/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKGUUwnmupn9RG5mGVuP1a1wXnBNYIvx-C00AGZBOl7EA5aQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Great location, brilliant staff. Loses a star due to Breakfast which was very hectic and personally i fount the price a little too much, im happy to pay €18 for a breakfast of this quality. Apart from that it was brilliant and a huge benefit to get a room with a bath, worh asking for that when checking in!",
+            "time": 1729457029,
+            "translated": false
+        },
+        {
+            "author_name": "Leopoldo Aizersztein (Merrick)",
+            "author_url": "https://www.google.com/maps/contrib/101722904283484919593/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8npeh9c8k5-t6B2smSQXt4Wq2mNuxFAzSXTdI5715_F2ox5rxqw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "So close to everything you need to do and visit in Hamburg. Great staff, very helpful and willing to be so.\n\nRooms are a little outdated, but not just clean, Monica Clean.\n\nGood breakfast and well priced.",
+            "time": 1723356408,
+            "translated": false
+        },
+        {
+            "author_name": "Anton Sharafan",
+            "author_url": "https://www.google.com/maps/contrib/104397881909188633629/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRr0rVUne4JEZZYdp9QjN_4qilFYzyJmtJ2XirNlt7qgtgxw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "It was nice weekend at the Hotel. We was in the Palais Esplanade. Nice rooms, delicious breakfast, nice and friendly staff. Thank you. For sure will visit again.",
+            "time": 1729059905,
+            "translated": false
+        },
+        {
+            "author_name": "Gizem Kumova",
+            "author_url": "https://www.google.com/maps/contrib/103983611504916472099/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLaYFyz1kBlcjTHnQSBW_AYdWV_bm04b6_snOVRR1WdRNyN_o=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great stuff, location and all services & facilities. Only slightly small rooms and not renovated hotel but providing 5star service. Everything is thought of. Quick check in and check out.",
+            "time": 1723015072,
+            "translated": false
+        }
+    ]
+}

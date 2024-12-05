@@ -1,0 +1,66 @@
+{
+    "name": "McDonald's Unirea",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "PH PC",
+            "author_url": "https://www.google.com/maps/contrib/117429178736616591827/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoT4ybaXLTIfEYOKzFM-KU4PiUZ0RaE8CdshqIztA_rB9FaaHW=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "This is a very busy outlet, on the ground floor of the mall!\nDefinitely need more organising as the tables are not cleared, 🚻 need replenished soap, and toilet  rolls! We were served cold fries 🍟 and I went back to the counter to make a complaint and the lady just took the fries ans throw it in the bin in front of me and then unwillingly gave me another one that's on the fries rack. Not a place I would come back for the food but we don't mind the hot drinks and some dessert",
+            "time": 1717938639,
+            "translated": false
+        },
+        {
+            "author_name": "Катя Локанцова",
+            "author_url": "https://www.google.com/maps/contrib/115828295252597515507/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9Lh2pjrdZvQPU6WF7I4f1kjNlqV5HFAaXeXKFiu9qLBiro8t-6g=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I love it!! Very tasty, clean, smell good, good service",
+            "time": 1732361264,
+            "translated": false
+        },
+        {
+            "author_name": "Cristian D",
+            "author_url": "https://www.google.com/maps/contrib/105210849451974517870/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8mUbqQPO5BzMNU8H-nRpwSv5XVBN9gSEgM_hk2NSapo5Rew=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "Made an online order (pre paid) that simply disappeared and was marked as if i picked it up, after 1!!!! hour my 6th attempt to explain an employee that my order cant be in the system anymore (cause they only said „its in queue“) i managed to talk to the manager, she didnt know how to read my order on the app (wantes to give me also what i had below in my purchase history), so i had to tell her what i ordered, so i finally got my order after exactly one hour!\nIf i didnt get a little more angry to talk to the manager i wouldnt have gotten it at all since it disappeared from their system\nBesides that crazy chaos, noone there to coordinate people where to wait, to go in front to pick your order up you first have to fight through people, terribly managed mcdonalds and worst experience ive ever had in any McDonalds worldwide",
+            "time": 1732799173,
+            "translated": false
+        },
+        {
+            "author_name": "Georgiana Dumitru",
+            "author_url": "https://www.google.com/maps/contrib/100889207331003856532/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMUadpYZFHJvKqPAPAd8305uW6367zFL8ArGSVZhx5PvIaYA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "4 weeks ago",
+            "text": "Had to wash my own table before eating. What a pig house! Don't come here if you are in the center.",
+            "time": 1730895212,
+            "translated": false
+        },
+        {
+            "author_name": "T. GeBrim",
+            "author_url": "https://www.google.com/maps/contrib/100816743861429597199/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU4mqcJhbTpGglc6hTpsBUztC1bcFa2vTavWUZ9C3k1oW5A5k=s128-c0x00000000-cc-rp-mo-ba8",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "Remote ordering via touch-screen machine, staff will come to the customer's table to deliver. I feel like a big change.\nThe McDonald's restaurant has unconsciously become the place to provide Wi-Fi without talking to any staff. That's why I expect Donald to play the role of a communicator for children, who will become the eternal customers through their good memories.",
+            "time": 1715104716,
+            "translated": false
+        }
+    ]
+}

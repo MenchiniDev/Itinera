@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Savoy Roma",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Joanne Philpott",
+            "author_url": "https://www.google.com/maps/contrib/110958575895531012764/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk8inhzb3Jyugo5989ULqPbR12Ogyb4TUo-yVdLjPaWfEMMjw1VA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "This is a slightly older style hotel but the location makes up for this. We easily found some of the top attractions and most places where within walking distance. They have a nice rooftop that is best at night to view the city lights. We arrived in the morning time from our cruise ship but had to wait until 3pm for our room which we felt was a little too long. Overall we would come back because of the location.",
+            "time": 1729000913,
+            "translated": false
+        },
+        {
+            "author_name": "Chloe L",
+            "author_url": "https://www.google.com/maps/contrib/106769667576207758948/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFPwrqrwvcJj-90YQlamusDo4lanncweVppmT_lQnxClKWlg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Hotel is stunning, the staff are amazing and so welcoming. Rooms are beautiful,clean and beds are so comfortable, location is great and everything is walking distance from the hotel. The restaurant upstairs on the roof has stunning views and great food. I would recommend going to this hotel and would love to come back soon",
+            "time": 1724348320,
+            "translated": false
+        },
+        {
+            "author_name": "Caroline",
+            "author_url": "https://www.google.com/maps/contrib/101986411992234872932/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXir1GsRLbkJj3vciBC5LTpHxP6mJIc9Il0h0kEzlGpUjuaw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "We had a nice stay for 2 nights in Rome in September. The location of the hotel was lovely and our room ended up being much larger than anticipated. Like much of Europe, the air conditioning in our room was one of the least powerful ones in a hotel of our 2 week trip, which can be an American specific gripe. The staff was very friendly, and rooms were clean and comfortable!",
+            "time": 1725930530,
+            "translated": false
+        },
+        {
+            "author_name": "Joe McKennedy",
+            "author_url": "https://www.google.com/maps/contrib/111656102416297389952/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXABkFx7SHAa-RMnNMVyJKSBFG9GGc1LQRSuMlKkBYB8fEedUQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Hotel Savoy is centrally located for all types of activities, dining, walking, entertainment, food, drinks, gelato. Hotel is very comfortable and has roof top bar and nice restaurant. We really enjoyed our stay here and will definitely be coming back. Highly recommend.",
+            "time": 1729420735,
+            "translated": false
+        },
+        {
+            "author_name": "Cristiano Berbe",
+            "author_url": "https://www.google.com/maps/contrib/102184844334886253168/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcuhRdGfhEMKdOgpExXCG1kmP-1k8qrfI98d-ZD68AenKkl6TYqA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "I recently stayed at this hotel and, unfortunately, had a rather disappointing experience. The room was old and outdated, which significantly affected the overall comfort of my stay. Additionally, the service provided was below standards, leaving much to be desired in terms of hospitality and attentiveness.\n\nWhile it was a nice gesture to receive complimentary champagne, it did little to offset the other issues. Perhaps the most unbelievable aspect was that the hotel turns off the air conditioner from 2 AM to 6 AM. This was extremely uncomfortable and unthinkable for a hotel that aims to provide a pleasant stay for its guests.\n\nI would strongly reconsider staying here, as there are undoubtedly better options available that offer more modern amenities and superior service.",
+            "time": 1725739036,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Blauer Bock",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Patrick Whalen",
+            "author_url": "https://www.google.com/maps/contrib/104238135698796547567/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWiqK-3qYEZS0k5NBmiDNCBJGZUXsNRNHyW1HtE9jPcAi_j487=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Old hotel in an amazing location! The breakfast is superb. There are many attractions nearby. Staff was very friendly and gave us good directions to laundry and grocery stores. I only wish the rooms were cooler at night. Also the shower is a bit small.",
+            "time": 1727032686,
+            "translated": false
+        },
+        {
+            "author_name": "Autumn Kniffin",
+            "author_url": "https://www.google.com/maps/contrib/104136244087073214757/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDTRLzg1cruogL5RZAch5UT19edM4C9Wh8mkbr1DFY9q6KFFhZ=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Overall great experience at Blauer Bock. Rooms were a bit small but clean and well kept. Good view of the street. Good breakfast and nice staff. Also great location. I will say this place is rather expensive for the size of the rooms. But decent stay.",
+            "time": 1726250188,
+            "translated": false
+        },
+        {
+            "author_name": "S B",
+            "author_url": "https://www.google.com/maps/contrib/110755621207800456178/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHLd9OWrmEOkLZdKQBxlw9_Sqrfo4KJeZDF_TE1hSucanx4FLZ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This is wonderful hotel to stay at, very cozy and authentic. Great location and the breakfast buffet has a very healthy assortment of dishes to choose from. I recommend highly.",
+            "time": 1729964554,
+            "translated": false
+        },
+        {
+            "author_name": "Pablo E. Hernández Diez",
+            "author_url": "https://www.google.com/maps/contrib/107823069961508909772/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUkyLJJ9WsdnC_Y4Zoi_mrVRrgjjOAs7uTgcswIIOnQlqi1ts=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "We paid 383€ per night, rooms are extremely basic, no fridge, no extra pillows and we ran out of soap and was never refilled. The included breakfast was extremely basic and they told us it was worth “30€ per person” but it was far from it. Trays almost always empty even at an early hour.\nFor the price we expected a more top experience, but it’s like an ibis at most. Great location and very clean.",
+            "time": 1719133386,
+            "translated": false
+        },
+        {
+            "author_name": "Nathan McDonald",
+            "author_url": "https://www.google.com/maps/contrib/100558433125824288592/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDQzX5BQB0UDT-R53ESlOf5iy8qDLA9qXsIgo3K6BeHdcNOA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "We stayed in the economy room during an overnight layover to explore munich.\n\nThe economy room was very nice, actually bigger than I had expected. Great lighting, big windows, comfy bed, and ample storage.\n\nThe separated bathrooms are single bathrooms, not dorm style, which is great.\n\nAs all others have said, breakfast is great.",
+            "time": 1715324136,
+            "translated": false
+        }
+    ]
+}

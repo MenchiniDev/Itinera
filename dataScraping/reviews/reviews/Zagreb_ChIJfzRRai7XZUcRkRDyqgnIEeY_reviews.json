@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant TAČ",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Rosie Giunta",
+            "author_url": "https://www.google.com/maps/contrib/106300219014535439474/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVcnM3fPt3cNG9hyznXZIbYit4tbVt0N9HxxBX3t-ay00sZg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "I think it’s important to understand there is no printed menu or prices.  We ended up paying $250 for pasta with lobster for two.  We repeatedly told them nothing too big but….. it was enough for 5 people.  Food was very good and ambience was lovely.   Be advised there is no printed wine or food menu and no prices.\n\nThey saw Americans coming and literally took advantage of us.  Very disappointing!!!",
+            "time": 1718817864,
+            "translated": false
+        },
+        {
+            "author_name": "Cleverly Smart",
+            "author_url": "https://www.google.com/maps/contrib/104364091849546397371/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAzLe9fG9AJSXXgM70x9l5DvUyIGsGTcsQT2xQkUnol81AfKc3=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "The restaurant offers no menu; daily dishes are announced at your table, including options like fish carpaccio, tartare, fresh Adriatic scampi, and local meats, all served in generous traditional recipes.\n\nSharing is encouraged, enhancing the dining experience. While there's no wine list, the selection includes Croatian and regional wines, with staff ready to recommend.",
+            "time": 1712530455,
+            "translated": false
+        },
+        {
+            "author_name": "Dora Cvrtila",
+            "author_url": "https://www.google.com/maps/contrib/116582430061440898316/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwJR6utHfAE1p_fe_MrCEnLgyQmLmWcTftiK_E2A9bkrtQYvw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Recently discovered place, feels cozy, really private atmosphere, service is perfect, be prepared to spend about 45€ per person but food is impeccable! The most delicious duck I’ve ever tasted! The only problem was with crowded parking.",
+            "time": 1710605311,
+            "translated": false
+        },
+        {
+            "author_name": "Mate Grbavac",
+            "author_url": "https://www.google.com/maps/contrib/111246138214159584524/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLD1BbEGW-3GxNdbtfKbMEzXG_OAvx864_mh66LECz_wNNxxw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Superb quality and service. Always fresh fish and great steaks.",
+            "time": 1718809611,
+            "translated": false
+        },
+        {
+            "author_name": "Sally Beyzade",
+            "author_url": "https://www.google.com/maps/contrib/106144332602496546088/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBF-6mdOLFByXR9mT_-eUu3vg-ZKDuMcEX5daC1075DVlfeIPKIg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Came here for dinner on a Sunday night. Very friendly, knowledgeable waiter with excellent English. There is no menu but he explained all the dinner options clearly.\nWe had tomato soup, cured sea bass and charcuterie to start. Followed by fish stew, mussels and pasta and grilled lamb. Pistachio & raspberry tiramisu and fig Panna cotta for dessert. Lovely food and wine. A very memorable and enjoyable evening",
+            "time": 1725310390,
+            "translated": false
+        }
+    ]
+}

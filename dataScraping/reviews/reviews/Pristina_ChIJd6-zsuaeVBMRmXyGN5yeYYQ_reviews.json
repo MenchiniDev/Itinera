@@ -1,0 +1,66 @@
+{
+    "name": "Cavallero",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Gëzim Radoniqi",
+            "author_url": "https://www.google.com/maps/contrib/117111813444797902950/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUhvxNYFJN7zHgU7sCZP1gh8WNJ9n-VDIfsilL10FdSi1Nb6FQGw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "Best Mexican restaurant in town, specially for chilli spicy food lovers. Located in the heart of the city it is perfect choice for lunch or dinner. Friendly staff and great service. Highly recommended.",
+            "time": 1475909178,
+            "translated": false
+        },
+        {
+            "author_name": "Arian Sheremeti",
+            "author_url": "https://www.google.com/maps/contrib/103787184970587638173/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIKcleCDipjdghYU1xWodZUdWo-ncxgvwGBeL0um3ile014cGeSA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "BAD FOOD, POOR SERVICE, OUTRAGEOUS PRICES.\n\nI visited this establishment on four occasions, and I am certain I will not be returning. On my most recent visit, accompanied by my brother, the staff mixed up our order. The restaurant was far from crowded, with only four tables occupied, yet they still managed to make a mistake. We chose to accept the incorrect dish (a steak) because we didn't want to be overly fussy. However, the steak proved so tough that even a steak knife struggled with it, and chewing it became a genuine ordeal — my jaw ached terribly. The waiter failed to check on us throughout our meal. When he finally appeared to clear the table, I voiced our concerns, only to be met with silence. He simply turned his back and dismissed our issues. Recognizing our poor choice, we opted to seek dessert and coffee elsewhere and requested the bill. When I handed over my credit card, I was informed all point-of-sale systems were down and cash was the only acceptable payment. Consequently, I had to leave, locate the nearest ATM, withdraw cash, return, and settle the bill. Not once did they offer any form of compensation or even issue an apology for our inconvenience. I can say with certainty I will NEVER return!\"",
+            "time": 1688602410,
+            "translated": false
+        },
+        {
+            "author_name": "Christine Linnartz",
+            "author_url": "https://www.google.com/maps/contrib/105112068968514296833/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW3XcfmGRY9H1Fp0o6lRgyFq0L5D4cbU9Rd8tBEEj-msjJTisM1w=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Nice place with tasty Mexican food. They offer a great selection of vegetarian options. The interior is colorful and cosy, the staff is really friendly. The prices are compared to other places high. You pay around 5 - 6 Euros for a main dish, 1,50 Euros for a small glass of Peja Beer. But it's worth it!",
+            "time": 1526245209,
+            "translated": false
+        },
+        {
+            "author_name": "Agim Iljazi",
+            "author_url": "https://www.google.com/maps/contrib/111330588571905454599/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYaTk_K2LbmITBpSPgdC5JTrxLarEe9-pfTHAa070SC5DA_Vrp=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Salad, fajitas and tortillas are great!",
+            "time": 1501371760,
+            "translated": false
+        },
+        {
+            "author_name": "Iana Minochkina",
+            "author_url": "https://www.google.com/maps/contrib/111769320446104321243/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNgbAmqZDJ0pnZekKt8EHMOkPNb3MVODN3E5BkB6CKKsQZ2iD7=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "Great food, atmosphere and interesting decor - we definitely overestimated our stomach capacities with their size of portions 😊",
+            "time": 1472072629,
+            "translated": false
+        }
+    ]
+}

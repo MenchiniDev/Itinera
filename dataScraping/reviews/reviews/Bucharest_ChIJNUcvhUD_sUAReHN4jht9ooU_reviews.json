@@ -1,0 +1,66 @@
+{
+    "name": "Club A the Disco",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "David Grau Peñas",
+            "author_url": "https://www.google.com/maps/contrib/103346865244503802193/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfJuSdV-AQiSCE-kS22Z0BufuWuQIqG7aeN07PTApl6dXvNspY4Q=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "9 years ago",
+            "text": "One of the oldest bars in Bucharest. You'll find people there any day of the week and the prices are usually low, but the fact that it's placed in a basement with a single exit and that the building might collapse any time make me avoid the place. Besides that, the bouncers are among the rudest I've ever seen and there are chances you might leave with a black eye if they don't like you.\nThe bar/bistro on the ground floor serves pretty decent food at extremely good prices. The salads and pizza are delicious. The only problem is ventilation (or the lack of it), making it hard to breath inside. The terrace (or, more precisely, the tables on the sidewalk) is fine during the summer.",
+            "time": 1449592373,
+            "translated": false
+        },
+        {
+            "author_name": "Cosmin Bury",
+            "author_url": "https://www.google.com/maps/contrib/100497231903251315352/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdLbxNWHqZkH8aWiFULaoNUVbRQ_lq6nM1vnG5Idqjsood8Giryw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "The club is very nice for those who want to listen to some oldies but goldies music, the playlists is almost the same in every night, so don't go too often :)\nThe prices are decent, the menu is visible on the walls.\nThe air sistem needs an update, since it gets hot in there around 3-4am, because of all the people that dance.\nThe bathrooms are old and dirty, good to get that beer out, but bad if you need more...\nStill, I still do recomand it, it's nice to go to this club from time to time, you'll have a good time ;)",
+            "time": 1503467596,
+            "translated": false
+        },
+        {
+            "author_name": "Petcu Cezar",
+            "author_url": "https://www.google.com/maps/contrib/102989767281062589037/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtAXhDvuU8PxWrDs5EHu-fknubg08ih_e1XEg9boaUB6wnShhf=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "13 years ago",
+            "text": "Excellent place to spend some time with friends. Cheap drinks, efficient air conditioning, good music, nice people!! I went recently and they've upgraded the air conditioning. no more issues in here :D",
+            "time": 1317738291,
+            "translated": false
+        },
+        {
+            "author_name": "Marius Chilianu",
+            "author_url": "https://www.google.com/maps/contrib/103746691758946751537/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnJK-yD86PyHKg56N-vpoBEk5Qw1Z3vJY7_fL0SVaqWWEoNIOM=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "9 years ago",
+            "text": "Cheap drink, but is very crowded during weekends. The interior design is really old and there is a lot of smoke. Music is ok, but there are better places in the area.",
+            "time": 1421346475,
+            "translated": false
+        },
+        {
+            "author_name": "Adrian Mihai Stefanescu",
+            "author_url": "https://www.google.com/maps/contrib/104216604123952421712/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYzfB-F_qob9cOZxgNB4Tly2bYq-HaPYZ1mXJXcZsQWYxMwpTWog=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Music sometimes is good and sometimes average. Prices are good. Very diverse crowd. Oldest club in Bucharest. If you want some old school fun, this is perfect!",
+            "time": 1483276637,
+            "translated": false
+        }
+    ]
+}

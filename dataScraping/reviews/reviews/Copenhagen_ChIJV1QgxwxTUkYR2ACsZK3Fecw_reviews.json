@@ -1,0 +1,66 @@
+{
+    "name": "First Hotel Excelsior",
+    "rating": 3.6,
+    "reviews": [
+        {
+            "author_name": "Laura Flewellen",
+            "author_url": "https://www.google.com/maps/contrib/113920944411147096808/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIoLZOfPqrELaaQySWiNRyQyqox9Ce7Be3oGj1BRLBrwCQfQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "Newly refurbished rooms, comfortable rooms could do with more storage space for clothes though. Healthy breakfast on offer, the staff are very welcoming and polite",
+            "time": 1469135529,
+            "translated": false
+        },
+        {
+            "author_name": "Thomas Schulzki",
+            "author_url": "https://www.google.com/maps/contrib/113029086925051530849/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsOheWTJIxnLgIHzCBvaRWBvDaLuZez9wFn4fErBRmXG5r-Gy-0g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "8 years ago",
+            "text": "Good location - old hotel - good breakfast, but breakfast is not included and served in the basement",
+            "time": 1453127329,
+            "translated": false
+        },
+        {
+            "author_name": "Kenan Elmas",
+            "author_url": "https://www.google.com/maps/contrib/114719602621144724675/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxNf9dHEu6lLbit_FFDd3iygT1OfFE0Lb9kM0g1cyffqT4dzjP=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "8 years ago",
+            "text": "Nice hotel. But entrance under construction. They are renewing the lobby actually.",
+            "time": 1449697857,
+            "translated": false
+        },
+        {
+            "author_name": "Anders Andersen",
+            "author_url": "https://www.google.com/maps/contrib/113323071372432714825/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk0eqWmHgPjYaWu1MJx4fr2TFoIHIbUfUgi_KEJhp-q9cmE95o6Q=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "8 years ago",
+            "text": "Plus: Great location and nice rooms.\nMinus: Occasionally very long waiting time in the reception.",
+            "time": 1458673327,
+            "translated": false
+        },
+        {
+            "author_name": "Ola Skjetlein",
+            "author_url": "https://www.google.com/maps/contrib/115122320357350986822/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu9TGFwZ6eCQVZ6Pit1CU-Vj5hTISa86sKk5m47I4-orYM8zpwSw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "8 years ago",
+            "text": "it closed and renovated. Now it part of First  Mayfair.",
+            "time": 1469134244,
+            "translated": false
+        }
+    ]
+}

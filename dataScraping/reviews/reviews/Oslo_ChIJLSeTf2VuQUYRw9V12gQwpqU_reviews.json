@@ -1,0 +1,66 @@
+{
+    "name": "Mathallen Oslo",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Adeleye Sanni",
+            "author_url": "https://www.google.com/maps/contrib/106199809772578380656/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4S0nWy0lFApd6TwFrXQDmO-acvw8MId_KIGA-LgDKWem9pw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "The food was great as it was my first time having moose and visiting Norway with my wife and kids. The atmosphere was great although really crowded but overall, really enjoyed the meal",
+            "time": 1724589548,
+            "translated": false
+        },
+        {
+            "author_name": "Calogero Sutera",
+            "author_url": "https://www.google.com/maps/contrib/115641590034249733477/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6wx8XiFLSSLTGKKU30znw67b1xnFTcKDkBu3M7wi_M-LRGPveeg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "First time in this place and I was very satisfied. There are different types of cuisine, Korean, Chinese, Italian, Mexican etc. For the first time we ate Korean and it was really delicious. Super friendly staff. There is no table service in the whole place. The bathrooms are clean. Prices are average for Oslo. We will definitely come back :)",
+            "time": 1724177709,
+            "translated": false
+        },
+        {
+            "author_name": "Ana S",
+            "author_url": "https://www.google.com/maps/contrib/112620218115481138845/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ4_CG1a6wKdn5BLuWHuXaaHualGaWpY6clLZYh4xqbBZ2IkpENQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Awesome culinary experience, a lot to choose from, nice atmosphere, beautiful building, great service. The surroundings are also worth it, located in the artsy Grunerløkka.",
+            "time": 1729954957,
+            "translated": false
+        },
+        {
+            "author_name": "Rohit N.",
+            "author_url": "https://www.google.com/maps/contrib/107465264125007287458/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl1Dqgjdve-ln9fmDTxrcQe90azvyjTdR5jULaDvm1oeqW-_etBA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Food court with a great variety of options to eat or drink. Plenty of space to sit. Lots of vegan and vegetarian options. I had the tofu fillet from Doug's burger and it exceeded my expectations!",
+            "time": 1719848763,
+            "translated": false
+        },
+        {
+            "author_name": "Cristina N",
+            "author_url": "https://www.google.com/maps/contrib/111731934047997860838/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgfKA5K4bC6c2gB74oFWEGW6o9DaQUt0aNgdPdKp_kPKzf=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We enjoyed a nice lunch here! Go to the burger restaurant as it is more particular. Super interesting menu (must try), delicious food & good prices. Highly recommended. You can also buy whale salami :D",
+            "time": 1723057845,
+            "translated": false
+        }
+    ]
+}

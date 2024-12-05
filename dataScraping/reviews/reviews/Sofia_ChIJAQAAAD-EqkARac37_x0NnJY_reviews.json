@@ -1,0 +1,66 @@
+{
+    "name": "Hotel ZOO Sofia",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Viola Harmati",
+            "author_url": "https://www.google.com/maps/contrib/107386948418549558105/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUL40ri4n7r_YE2fWkMq18K7XuZ89jKMLvm5DqvjuwHNW1jwLV7=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Lovely hotel, very cozy and clean. Very good bed, air-condition, beautiful, quiet rooms, very clean bathrooms. Very good quality toiletries are provided, there is hairdryer too.\nSafe parking spaces for the cars.\nFood is excellent, both breakfast and a-la-carte menu in the restaurant.\nPolite and attentive staff.\nI recommend it to everyone.\nWish we could stay more :)",
+            "time": 1721766118,
+            "translated": false
+        },
+        {
+            "author_name": "Tsvetina Tsvetkova",
+            "author_url": "https://www.google.com/maps/contrib/110543198566855397167/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgh0cpaxgSiaRZdb6v3ic9tS4sgYwsYTwDAReWlWYcP2yGKw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "The hotel has extremely friendly and helpful staff ready to assist you at any time of the day. The rooms are classic and accommodated with everything you might need for your stay. But the highlight of my stay was the hotel's restaurant. The menu has vegan and vegetarian options and if you are a meat lover, you should definitely give their beef a try.",
+            "time": 1723026573,
+            "translated": false
+        },
+        {
+            "author_name": "ismail yılmaz erbaş",
+            "author_url": "https://www.google.com/maps/contrib/104128628728024060411/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjaqdku_6fzFi-TvMKblsGHCsM7bsr3CzGYJt-bi1ZOszTyg=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "The staff, especially the waiters, are completely rude. They are a joke. They want you to leave after you finish your dinner. They don't come and ask if you have any requests. Guest relations are very bad. The room sheets are small for the big bed.",
+            "time": 1729399985,
+            "translated": false
+        },
+        {
+            "author_name": "Mihailo Lucic",
+            "author_url": "https://www.google.com/maps/contrib/102475686050173090228/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIpSwL_ONKIvJ1l-SzQagjoS0PhD_YuQ6_z-2C8hI1eBwBwLGn=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "My stay was extremely disappointing due to poor facilities, unclean conditions, and unfriendly staff.\n\n1. The room was unbearably hot, with the AC being ineffective.\n2. The temperature was around 29-30 degrees Celsius.\n3. The beds were simply mattresses stacked on top of each other, not proper beds.\n3. The toilet was filthy. There was literal excrement on the toilet seat, which they didn't clean immediately. I had to clean it myself.\n4. The staff was unfriendly and unhelpful.\n5. Instead of informing guests at check-in about the need to validate their card before going out, the staff left us struggling at the automatic ramp.\n5. For the first two days, we could eat in the dining area, but afterward, we were rudely directed to a different dining area.\n6. The cleaning staff was found sleeping in the lounge area.\n7. The paid parking was not clearly communicated during booking, leading to unexpected charges.\n\nAll in all, I would not recommend this place.",
+            "time": 1718224055,
+            "translated": false
+        },
+        {
+            "author_name": "Mircea Scarlatescu",
+            "author_url": "https://www.google.com/maps/contrib/111542213951374108048/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNHhhbIHTFkUAFOBPIcGO73rq8MpWWAD0yBjqMhZVQs0j8-oiG=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great price/quality report. Great amenities, friendly staff\nThe hotel has private paid parking, it’s close to the ZOO entry and this makes it a very good stop location for families with kids.\nRecommended",
+            "time": 1720760878,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Le Majestic",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "María Ayelén León",
+            "author_url": "https://www.google.com/maps/contrib/104485325681085366773/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl_FZ_qQf5PdLGW9bnIqYvlVSondMrd3kDiIDBv5wtJ64b5w=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Great place to have delicious food. The waiter is a kind person. I recommend it totally!",
+            "time": 1711660746,
+            "translated": false
+        },
+        {
+            "author_name": "habib zgaya",
+            "author_url": "https://www.google.com/maps/contrib/115001614317534339345/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxsfoGTyuS9fR6176BbiknQNDHhUxMU21AEnr2-jzMlosg4l0=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Stabile quality, home made und delicious",
+            "time": 1703967841,
+            "translated": false
+        },
+        {
+            "author_name": "sissy p",
+            "author_url": "https://www.google.com/maps/contrib/110475722608542435772/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUT8iW3i-BIGCBxB_Npz1duHX-cCphnOUr-q4FK6tPuRgXZKKs=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Excellent !!!",
+            "time": 1718796912,
+            "translated": false
+        },
+        {
+            "author_name": "Alexandre Lengereau",
+            "author_url": "https://www.google.com/maps/contrib/100178668066632770946/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNJ67d21JtIBeW1_qwE8MM9UpvhBb-877ubgV169zkXsAcehQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Very good restaurant I recommend for lunch during the week the value for money is really important",
+            "time": 1732563948,
+            "translated": true
+        },
+        {
+            "author_name": "Ana Scar",
+            "author_url": "https://www.google.com/maps/contrib/106246724513243667957/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfvv8bfyMU__ku0wi5B7phnTmcCG_xiFj8sAW8102pKvXLwg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I recommend.\n\nVery good restaurant and dishes at more than affordable prices.\nThe staff is welcoming and attentive.\nI recommend.",
+            "time": 1717491332,
+            "translated": true
+        }
+    ]
+}

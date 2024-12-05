@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Devin",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Hans Krohn",
+            "author_url": "https://www.google.com/maps/contrib/106511411601103777774/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPBBDBZWDhRdbo-m6hFSh3m47-jb9rBCQcK-uejORrXk81yQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Absolutely perfect location, by the river and (short) walking distance to the old town and castle.\n\nFriendly and attentive staff. The room was spacious and clean, the bed was very comfortable. The shower is indeed on the small side. It has a curved glass door. The trick is to stand with the back to that door, and suddenly the shower is comfortable ans spacious enough :-)\n\nThe restaurant has a good selection of very tasty local dishes.\n\nI can recommend Devin Hotel and will certainly pick it again on my next visit to Bratislava!",
+            "time": 1728981810,
+            "translated": false
+        },
+        {
+            "author_name": "Sally Gardener",
+            "author_url": "https://www.google.com/maps/contrib/110767270977956054967/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVk1KCOxRoFk2b-h74MjiRqtL6or2OHxz5_BHbFTgIUWgOITUw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Lovely hotel, really comfortable bed, very spacious. Great view of the river. Really good convenient location… really nice sunset views also.\n\nBreakfast was nice with a good choice, the hotel was clean and spacious. Staff very friendly.\n\nThe only complaint we had was that I booked via hotels.com and it’s listed as having full access to the gym. However to us the gym for 1 day (and the gym is a basic dated gym) is €15!!! Extortionate and I may have chosen a different hotel if I was made aware previously.",
+            "time": 1727786153,
+            "translated": false
+        },
+        {
+            "author_name": "Pawel Reszelski",
+            "author_url": "https://www.google.com/maps/contrib/102017494339626361831/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJVQXI7W_lrM6lZyS7JhsKnW3gDeZBroAkcQx3I9UH4aUPlW-W=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Location is the strongest point of the hotel. Very good breakfast, varied. Hotel staff very friendly and helpful. The rooms are spacious, the mattresses are comfortable. I can only give high recommendations. The view of the Dunaj at sunrise completed the pleasant impressions of the stay.",
+            "time": 1722177664,
+            "translated": false
+        },
+        {
+            "author_name": "Cameron Paterson",
+            "author_url": "https://www.google.com/maps/contrib/107240780186310475391/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcmstv-z6mRM9GEzPH2ZjsYxDGdh1X5e7cHtD1HJboCJ_X1qY=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "It has a certain old-world charm. The concierge seemed positively delighted to see me and I thought I was genuinely the only guest in this massive hotel. Then I did see one or two others at breakfast. It is like a deserted ghost town. The room is nice, a touch noisy from the road. Shower is very small, to the point where it is cramped. Breakfast is OK.",
+            "time": 1719236954,
+            "translated": false
+        },
+        {
+            "author_name": "Alexander Kaiser",
+            "author_url": "https://www.google.com/maps/contrib/117331765348035101308/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLO-S6o8jAK_E2WRC_g4SJwj_4CbsZ7YkhnQlLcGiuvlxcsQw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We had a wonderful time. Hotel with charm right on the Danube. Great view of the Danube.\nThe selection at the breakfast buffet was good.",
+            "time": 1728906582,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,1067 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.139801,
+                "lng": 11.562207
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.14125638029149,
+                    "lng": 11.5634678802915
+                },
+                "southwest": {
+                    "lat": 48.1385584197085,
+                    "lng": 11.5607699197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Excelsior by Geisel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1462,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114977880662099194052\">Excelsior by Geisel</a>"
+                ],
+                "photo_reference": "AdDdOWqJYohidG3Cx7SNGfOV0QhdVHgdM3rxfxbqvlxiyOPyFRQYyTng5v4M1jwhvuHPpdO5c0CK2kqM4RLOL36CTaMkeHAff_Z49SGr2b-hZnaDvjOrfoHcEIgCrdH1L21nN9DtiO3v_g7kM90y7QbC5CGPiY4OWgY51rpIT0kn9VzzSvc",
+                "width": 2600
+            }
+        ],
+        "place_id": "ChIJs7WL5_l1nkcRMmcYaxcB7ps",
+        "plus_code": {
+            "compound_code": "4HQ6+WV Munich, Germany",
+            "global_code": "8FWH4HQ6+WV"
+        },
+        "rating": 4.5,
+        "reference": "ChIJs7WL5_l1nkcRMmcYaxcB7ps",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 985,
+        "vicinity": "Schützenstr 11, München-Ludwigsvorstadt-Isarvorstadt"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1416538,
+                "lng": 11.5592044
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1429646802915,
+                    "lng": 11.5605276802915
+                },
+                "southwest": {
+                    "lat": 48.1402667197085,
+                    "lng": 11.5578297197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Eden Hotel Wolff",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1922,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115472282346990879593\">Eden Hotel Wolff</a>"
+                ],
+                "photo_reference": "AdDdOWq9b9bh22OIuwlD6ehmEE3eDmEh4SA-di22n33WqOaEKbK0A7OL4lPC433DW0w2qyYtl1hQxLHaG8yuQZ0sB80wPxoNYoGIemgrwIJPaVK-XXj88N_QcV5W9lGQaGApfl55KQjjJ589T9-aoXHzUBvi8eXWxrWZC278_omxuiZykHoi",
+                "width": 2500
+            }
+        ],
+        "place_id": "ChIJgwzo2ft1nkcRXN6Tbj0VcAI",
+        "plus_code": {
+            "compound_code": "4HR5+MM Munich, Germany",
+            "global_code": "8FWH4HR5+MM"
+        },
+        "rating": 4.4,
+        "reference": "ChIJgwzo2ft1nkcRXN6Tbj0VcAI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1757,
+        "vicinity": "Arnulfstraße 4, München-Maxvorstadt"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1353541,
+                "lng": 11.57709
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.13715733029149,
+                    "lng": 11.5788419302915
+                },
+                "southwest": {
+                    "lat": 48.13445936970849,
+                    "lng": 11.5761439697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Am Markt",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106688939696779031531\">Hotel Am Markt Munich</a>"
+                ],
+                "photo_reference": "AdDdOWprs6ge0OUDvr_J8uGVgO7vtfcvd7krxDyAwgIvjNOVmTVVIDw4AtBYQBuakWT29EmSmK6ZeYLTP7BWRxodjJvJyNthygtTHBZUgonjYHKlO51LclZ_LzVnQkXao5V5t2PoXG1E8mPBfGPgkTBAn0L0xgcUYDZITAHn7FFOeJptJTUr",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJid_9i4p1nkcRUGISCm_mzbo",
+        "plus_code": {
+            "compound_code": "4HPG+4R Munich, Germany",
+            "global_code": "8FWH4HPG+4R"
+        },
+        "rating": 4.3,
+        "reference": "ChIJid_9i4p1nkcRUGISCm_mzbo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 485,
+        "vicinity": "Heiliggeiststraße 6, München-Altstadt-Lehel"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1390286,
+                "lng": 11.5570631
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1404445802915,
+                    "lng": 11.5584183802915
+                },
+                "southwest": {
+                    "lat": 48.1377466197085,
+                    "lng": 11.55572041970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Flemings Hotel München-City",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1336,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113256279676236788053\">Flemings Hotel München-City</a>"
+                ],
+                "photo_reference": "AdDdOWpcmW3PwIX_pfTBU8EQPm_vQtGcR7fhYEMqx4ezShAnKEh44ayOka35qO00zd2Nxv9Vtq8Zupvb9ovE9xEbprf2Nabmytfs1rln8qlyn7txdGCsjs_IBIxo7meXbQ3BzwXvA0g93E0XXpNPD7gvt81dkud0v-7qudczEdXO1WKT8ZdX",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJhZtM3_h1nkcRjUtR4CNk8U4",
+        "plus_code": {
+            "compound_code": "4HQ4+JR Munich, Germany",
+            "global_code": "8FWH4HQ4+JR"
+        },
+        "rating": 4.5,
+        "reference": "ChIJhZtM3_h1nkcRjUtR4CNk8U4",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1093,
+        "vicinity": "Bayerstraße 47, München-Ludwigsvorstadt-Isarvorstadt"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1372618,
+                "lng": 11.5789586
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.13856588029149,
+                    "lng": 11.5802676302915
+                },
+                "southwest": {
+                    "lat": 48.1358679197085,
+                    "lng": 11.5775696697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Lux",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110124129009515737409\">Hotel Lux</a>"
+                ],
+                "photo_reference": "AdDdOWpxHlKvyS4Zxk341gfEfm5TwNc3MHazLrLFCcidduV1tnla-YBmvC60CY4ggcxG-_6txuZ8A4JYjiJkz5a9s8fgtk-X941jWSpJAi8FaBqdf3blitIvJyUT6_ftrVNPzxN6Z7Wt_Jn1qMSoJrU6AF81RieQNkmYJn-ByN3AJaXeCaVM",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJk54_rot1nkcRfDhiXgN4Ebs",
+        "plus_code": {
+            "compound_code": "4HPH+WH Munich, Germany",
+            "global_code": "8FWH4HPH+WH"
+        },
+        "rating": 4.4,
+        "reference": "ChIJk54_rot1nkcRfDhiXgN4Ebs",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 548,
+        "vicinity": "Ledererstraße 13, München"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1359729,
+                "lng": 11.5758069
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.13710573029149,
+                    "lng": 11.5769093302915
+                },
+                "southwest": {
+                    "lat": 48.1344077697085,
+                    "lng": 11.5742113697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "LOUIS Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 683,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103254965626704275190\">LOUIS Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqN5qekZMZ2KrD34FXU-66fpbVhYfcR56KtcIEsFu2nfN2QNSV37AUggynwq30Uzas0LeC3Gq2bW9oQJ8rVbfoF_Vlc4rjuSOfqg-zy54lCsIX-aTymVtQM0_FW7XYC0SjbFBmJgkFOIFKD9RgHQRkNThYgnN2y1TQxOqe4ZJxRi3NH",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJF-xkv4p1nkcRW57u5Bw0jgY",
+        "plus_code": {
+            "compound_code": "4HPG+98 Munich, Germany",
+            "global_code": "8FWH4HPG+98"
+        },
+        "rating": 4.4,
+        "reference": "ChIJF-xkv4p1nkcRW57u5Bw0jgY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 497,
+        "vicinity": "Viktualienmarkt 6, München-Altstadt-Lehel"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1519229,
+                "lng": 11.5563283
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1533133302915,
+                    "lng": 11.5577521302915
+                },
+                "southwest": {
+                    "lat": 48.1506153697085,
+                    "lng": 11.5550541697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Europa",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103351662450102904590\">Polina Bayvel</a>"
+                ],
+                "photo_reference": "AdDdOWrL2LlgQ5RpjGLYGcYz3maYqp2jigwWruuOZYsOwFCpwWUaI8zt7_9mv5UF-4QCzeugpcAy92ri_zVaAlQNzLeoA-9ElnXcqjnQbYzquwS7jLYm3L5uNofEXW5ytQlNY2pm9ovAJd-cIRNWGFN_tk6tabiI0QGaE0J22KjX3TwGyaB_",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ9zw6i-F1nkcRPKoI583fFyY",
+        "plus_code": {
+            "compound_code": "5H24+QG Munich, Germany",
+            "global_code": "8FWH5H24+QG"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ9zw6i-F1nkcRPKoI583fFyY",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2107,
+        "vicinity": "Dachauer Straße 115, München"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1327495,
+                "lng": 11.5764049
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1341166802915,
+                    "lng": 11.5776438302915
+                },
+                "southwest": {
+                    "lat": 48.1314187197085,
+                    "lng": 11.5749458697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Deutsche Eiche",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114422221184622076714\">Hotel Deutsche Eiche</a>"
+                ],
+                "photo_reference": "AdDdOWp0VFPaX_-_FrWKWpPEHda-09otwWnEEH_3kI1xuMgFIsKxm3cCwnxLl4paVWfjg7C-AwWYNqe_6R6cfSzGYuVUO-dVGNU4w6enuqMdEU4eR7QMbU8UpqLr9cw4Inbbf0gb-ufcBfgaGOn9pF8J1vhA38hmefsom7FE_LQyYS0UpDe-",
+                "width": 3888
+            }
+        ],
+        "place_id": "ChIJuWG8S2DfnUcRbT-8T9g5EVY",
+        "plus_code": {
+            "compound_code": "4HMG+3H Munich, Germany",
+            "global_code": "8FWH4HMG+3H"
+        },
+        "rating": 4.5,
+        "reference": "ChIJuWG8S2DfnUcRbT-8T9g5EVY",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2242,
+        "vicinity": "Reichenbachstraße 13, München-Ludwigsvorstadt-Isarvorstadt"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.135557,
+                "lng": 11.5816012
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1368129802915,
+                    "lng": 11.5828886802915
+                },
+                "southwest": {
+                    "lat": 48.1341150197085,
+                    "lng": 11.5801907197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Torbräu",
+        "photos": [
+            {
+                "height": 640,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113728331203367967807\">Hotel Torbräu</a>"
+                ],
+                "photo_reference": "AdDdOWo-tK_Gy-oBbJG14229LXhWT0DcSdCIj8Xmd6LBJYoRnQqmupJ83Xbhaj215r77Tq7ctiHy5umBs4KR0k4UR4AMFYMqglg5YmS3n6pSpx7mwWJZkq0dERM_kmVwWojNIQ3_19uRMpYh8dsJxU_TwRdC6FOXoc9DE8F0gxsPYLhuY1DM",
+                "width": 438
+            }
+        ],
+        "place_id": "ChIJJScVjYl1nkcR1__hdM42AvY",
+        "plus_code": {
+            "compound_code": "4HPJ+6J Munich, Germany",
+            "global_code": "8FWH4HPJ+6J"
+        },
+        "rating": 4.5,
+        "reference": "ChIJJScVjYl1nkcR1__hdM42AvY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 582,
+        "vicinity": "Tal 41, München-Altstadt-Lehel"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.16760519999999,
+                "lng": 11.5867732
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.16882908029149,
+                    "lng": 11.5879563802915
+                },
+                "southwest": {
+                    "lat": 48.1661311197085,
+                    "lng": 11.5852584197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Flemings Hotel München-Schwabing",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1340,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104304225258118583970\">Flemings Hotel München-Schwabing</a>"
+                ],
+                "photo_reference": "AdDdOWr42qfwfPbHvZd1-g9rPFtTCtw5HQpMfxy_WehHCd5q3TIQFBcCjgOSJavHll5XluDXECFZWMDIH9sd0mpvWle_nps4JCqCzrjZYiMvMvdqMy2vhNVeeYwhdZxU2BxV8IRe6sfAw-UiemW4ngR1rcOLxfBL5YVB3Ng0edearwJ2_CyC",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJVQdk0cl1nkcRNbjM7SKXrYQ",
+        "plus_code": {
+            "compound_code": "5H9P+2P Munich, Germany",
+            "global_code": "8FWH5H9P+2P"
+        },
+        "rating": 4.4,
+        "reference": "ChIJVQdk0cl1nkcRNbjM7SKXrYQ",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1141,
+        "vicinity": "Leopoldstraße 130-132, München-Schwabing-Freimann"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.13780889999999,
+                "lng": 11.5452191
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.13920888029149,
+                    "lng": 11.5465902802915
+                },
+                "southwest": {
+                    "lat": 48.13651091970849,
+                    "lng": 11.5438923197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Westend",
+        "photos": [
+            {
+                "height": 2400,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116624085137985671018\">Hotel Westend - München</a>"
+                ],
+                "photo_reference": "AdDdOWq4hQ3qkylnAtO5_4umD-3Zn8G5w8OMibuvdCJFcf1jo7mxlOc5mq-227XyKeiXhBzR5u0YjpTDw6Wzj5mknzF_GeRGMFnyJeY_diDQdjdoOAyX8vCn3uMjzfzpFpn3vZ7vMnjc7zYnfODf9btu-hHN0zmZ4_kuZ5JnlzNOjIFycwKp",
+                "width": 3598
+            }
+        ],
+        "place_id": "ChIJIwCa1QF2nkcRgXo6U14MJXk",
+        "plus_code": {
+            "compound_code": "4GQW+43 Munich, Germany",
+            "global_code": "8FWH4GQW+43"
+        },
+        "rating": 4.3,
+        "reference": "ChIJIwCa1QF2nkcRgXo6U14MJXk",
+        "scope": "GOOGLE",
+        "types": [
+            "real_estate_agency",
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 558,
+        "vicinity": "Schwanthalerstraße 121, München"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1344066,
+                "lng": 11.5739138
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1357323302915,
+                    "lng": 11.5753576802915
+                },
+                "southwest": {
+                    "lat": 48.1330343697085,
+                    "lng": 11.5726597197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Blauer Bock",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112274309687536783010\">Hotel Blauer Bock - München</a>"
+                ],
+                "photo_reference": "AdDdOWqe8M5Z-T9AlSl05J23RVhGSR9onVoAxO2xdAzIZHl3BADChPzd1zV13nMJXpER-yGcOvSn-ryCCTQRCgOgI_JseYfh8UvGvOCZGCApOkL-JVA5gnBCnQsuWl6gYNWof0IXR8EEmgpK2Vt5lsl4p1LN1Mg7_JMtdbnWAtbawFkMAUWJ",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJJQg8B2DfnUcRTYMjVpShBSw",
+        "plus_code": {
+            "compound_code": "4HMF+QH Munich, Germany",
+            "global_code": "8FWH4HMF+QH"
+        },
+        "rating": 4.3,
+        "reference": "ChIJJQg8B2DfnUcRTYMjVpShBSw",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "cafe",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 348,
+        "vicinity": "Sebastiansplatz 9, München-Altstadt-Lehel"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.14353229999999,
+                "lng": 11.5514911
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1447375302915,
+                    "lng": 11.5525104302915
+                },
+                "southwest": {
+                    "lat": 48.1420395697085,
+                    "lng": 11.5498124697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Augustiner-Keller",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2772,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104179373513119187919\">Augustiner-Keller</a>"
+                ],
+                "photo_reference": "AdDdOWpj14-2CYN6-HiMJzFo0jHAaZTV6TSaSDNbYkGiDXqRbIbUyMSDluPkPCbJVb5uaXQvAScmDyIVZdM7BEqEb3Ej3oqT_p38IbKJdaMLXzeBisy_62Fzkdqdn4amvQRtXE_mWbARiMNLywb35Q0Icqt_AwYjUN8PdU58gelM_g-k9_YW",
+                "width": 4162
+            }
+        ],
+        "place_id": "ChIJe8ga9v11nkcRX8CtPNbgTJs",
+        "plus_code": {
+            "compound_code": "4HV2+CH Munich, Germany",
+            "global_code": "8FWH4HV2+CH"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJe8ga9v11nkcRX8CtPNbgTJs",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 34065,
+        "vicinity": "Arnulfstraße 52, München-Maxvorstadt"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.13763729999999,
+                "lng": 11.5797494
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1389888302915,
+                    "lng": 11.5810468802915
+                },
+                "southwest": {
+                    "lat": 48.1362908697085,
+                    "lng": 11.5783489197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Hofbräuhaus München",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111503306393928994055\">Hofbräuhaus München</a>"
+                ],
+                "photo_reference": "AdDdOWq7mkyKCGX9x9MJ6kfmexEYevudMEzMdhDp0C0TUw6qEXAiGcdU9MrA4N6HkXR8rhv9xrg-GqNPep7w09d6Pij0I0AuQludaoPR4l4Rgax4o7qWU-74SDrXLhqJE1Mxhx-2ufaWZt2wqa7uGlevPWEUYONig9JrdbRhjMBsyXKW6rMq",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJxfxSz4t1nkcRLxq9ze1wwak",
+        "plus_code": {
+            "compound_code": "4HQH+3V Munich, Germany",
+            "global_code": "8FWH4HQH+3V"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJxfxSz4t1nkcRLxq9ze1wwak",
+        "scope": "GOOGLE",
+        "types": [
+            "tourist_attraction",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 93003,
+        "vicinity": "Platzl 9, München"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.13596019999999,
+                "lng": 11.5708059
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1372871302915,
+                    "lng": 11.5720763802915
+                },
+                "southwest": {
+                    "lat": 48.13458916970851,
+                    "lng": 11.5693784197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Prinz Myshkin",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 888,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101537098906091743047\">Prinz Myshkin</a>"
+                ],
+                "photo_reference": "AdDdOWq4VDSkAnidGbGyVaJOHWHNr9P1RkUkzIPk43q-m0tLhvk9R14pc7vMMHi68W91yOURSQey8Nj4Eq4sCJBFwaMkbhLrP8nmJCY3bZfNyMJYwPTMX437OfTKEbj9qE7zkxnmeKi-9XnT4cu_eX7ilMJpwwP9G5IS2-lB44Re_X_Eqt4x",
+                "width": 980
+            }
+        ],
+        "place_id": "ChIJl3c4nfV1nkcR1SU_EWw5T28",
+        "plus_code": {
+            "compound_code": "4HPC+98 Munich, Germany",
+            "global_code": "8FWH4HPC+98"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJl3c4nfV1nkcR1SU_EWw5T28",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1301,
+        "vicinity": "Hackenstraße 2, München-Altstadt-Lehel"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1339279,
+                "lng": 11.6017373
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.13521883029149,
+                    "lng": 11.6030192302915
+                },
+                "southwest": {
+                    "lat": 48.1325208697085,
+                    "lng": 11.6003212697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taverna Paros",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 717,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112824998461944427413\">sir guven</a>"
+                ],
+                "photo_reference": "AdDdOWrXHaqqFjQjPSm8F1zuPEqigLry1k6d54BJYWLUvecB12PUpNztH_Y35kH3y5Z1jmQ4_GCZsL0BNCqKFQXfCTLkSHHKqVC-WYyCXaNsDPUo1OUoRKI5Vaz7fVbWCOCPNAMlL8LscEL9oAoZMA_CGapcL7KEMpGo4f5qNJ3uAdMyeFxe",
+                "width": 1068
+            }
+        ],
+        "place_id": "ChIJE0ThvH91nkcR380HuG7Qcac",
+        "plus_code": {
+            "compound_code": "4JM2+HM Munich, Germany",
+            "global_code": "8FWH4JM2+HM"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJE0ThvH91nkcR380HuG7Qcac",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2090,
+        "vicinity": "Kirchenstraße 27, München-Au-Haidhausen"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1361514,
+                "lng": 11.5829336
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1374873802915,
+                    "lng": 11.5841960802915
+                },
+                "southwest": {
+                    "lat": 48.1347894197085,
+                    "lng": 11.5814981197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Le Stollberg",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105241032932771046891\">Enora Heurlin</a>"
+                ],
+                "photo_reference": "AdDdOWo04YkbPPDSL5HtULQ_aoKV1v8gsfeRUcBLpUcL9PF30f-BH484U5yKB10eMoWn2F_ESji-xJ7qPNidnpJYV6zKz9gq0rdazRt3V4y04gu-pGY1IoHA9ffsFypM2drgR6LYsayXIemXshRL2DncbLh99n-3VI7jHqj042Ny7MBeWuwx",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJK16BoYl1nkcRk5iIAYcYFsw",
+        "plus_code": {
+            "compound_code": "4HPM+F5 Munich, Germany",
+            "global_code": "8FWH4HPM+F5"
+        },
+        "rating": 4.8,
+        "reference": "ChIJK16BoYl1nkcRk5iIAYcYFsw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 329,
+        "vicinity": "Stollbergstraße 2, München-Altstadt-Lehel"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.13881010000001,
+                "lng": 11.5746769
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1402420302915,
+                    "lng": 11.5755099802915
+                },
+                "southwest": {
+                    "lat": 48.1375440697085,
+                    "lng": 11.5728120197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Kilians Irish Pub",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "Photos are copyrighted by their owners"
+                ],
+                "photo_reference": "AdDdOWpfgLMbzGksEgAMLB0kxTq7_HTDlr43gnZvbkThUD51DTObNhW6yYIRl9a2hAeQk_3witHiFRS1nkmG74LGjlqk_lCgQKACrJX69GCUOiU7zH2p-98V4QEHehpoAyiBdbwJzSgTFXj93tRKxGgBJrnXPiDwOohyF3WwrnrgS5Ddrrdr",
+                "width": 5184
+            }
+        ],
+        "place_id": "ChIJo-2ZufR1nkcRWEZYKjOWbio",
+        "plus_code": {
+            "compound_code": "4HQF+GV Munich, Germany",
+            "global_code": "8FWH4HQF+GV"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJo-2ZufR1nkcRWEZYKjOWbio",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6677,
+        "vicinity": "Frauenplatz 11, München"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1398456,
+                "lng": 11.577291
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1410702302915,
+                    "lng": 11.5788167302915
+                },
+                "southwest": {
+                    "lat": 48.1383722697085,
+                    "lng": 11.5761187697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Spatenhaus at the opera",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 917,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105240159999137514037\">Spatenhaus an der Oper</a>"
+                ],
+                "photo_reference": "AdDdOWpR0jEnpbEbLkkmKnAtnedvlqlyvthsr1ZY1JeK8JIXeczUzRGEkzbSEw2YDki0hV-YIAOP44N8yEckpQAqEOcLjGrahUU4dGYLdr01QPXDZRfN5OJMLYoYAKfQrCoZbyAsGZDmKZCwO4YjK7j3ViiHHnFoOT0md7Mo0ZLQz88UYbiG",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJjRBYoIx1nkcRskPWyC0TqOk",
+        "plus_code": {
+            "compound_code": "4HQG+WW Munich, Germany",
+            "global_code": "8FWH4HQG+WW"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJjRBYoIx1nkcRskPWyC0TqOk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5264,
+        "vicinity": "Residenzstraße 12, München-Altstadt-Lehel"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1393599,
+                "lng": 11.581047
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1406065802915,
+                    "lng": 11.5825360302915
+                },
+                "southwest": {
+                    "lat": 48.1379086197085,
+                    "lng": 11.5798380697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Brenner",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 816,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101625426459645555172\">Brenner</a>"
+                ],
+                "photo_reference": "AdDdOWrK1sXbbHdP5v9C8yhEeKUQR0LlD8h7n3IxAGcfrqRZzGK1duZW1-AH2ELnYzkOfkJJLKpG8wr2DBjhwDadcAX9vuUAMwByo_ltDnpDpXyzCgnLCNocL-ZQEbDA5r-TAa4M12RO7HmnJF5J8u1v7GsReH6jLwT5BCrYtViNHCop6p9z",
+                "width": 1224
+            }
+        ],
+        "place_id": "ChIJKxwhCIx1nkcReLTa4aab6-I",
+        "plus_code": {
+            "compound_code": "4HQJ+PC Munich, Germany",
+            "global_code": "8FWH4HQJ+PC"
+        },
+        "price_level": 3,
+        "rating": 4.2,
+        "reference": "ChIJKxwhCIx1nkcReLTa4aab6-I",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5135,
+        "vicinity": "Maximilianstraße 15, München-Altstadt-Lehel"
+    }
+]

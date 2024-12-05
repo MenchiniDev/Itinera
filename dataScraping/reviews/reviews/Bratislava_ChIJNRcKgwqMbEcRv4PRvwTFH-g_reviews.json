@@ -1,0 +1,66 @@
+{
+    "name": "Patrónka Brewery & Restaurant",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Lenka M",
+            "author_url": "https://www.google.com/maps/contrib/110824770293548567697/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgHdK71waaGg6nhowGcpV8VYSck6jHqZ9AtIA4koP4ufHYMgSY=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A very good quality of food, reasonable prices, great service. The restaurant offers mostly local cuisine, variety of meat, vegetarian and sweet dishes. They offer a home-brewed beer.",
+            "time": 1681222633,
+            "translated": false
+        },
+        {
+            "author_name": "Friedrich Pammer",
+            "author_url": "https://www.google.com/maps/contrib/107386625173235502516/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyOvKhXlaR6flct5irfd_Jar9DZ97_RVDZ6sGIq478zJuCsrYVKA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Very nice restaurant and beer pub. The food and service is very good. Their own brewed beer, too. There is a nice garden seating as well. The interior is mostly wodden but modern. It's not in the city centre but it's worth a try! #probeergourmet",
+            "time": 1648900324,
+            "translated": false
+        },
+        {
+            "author_name": "Michal Ondrej",
+            "author_url": "https://www.google.com/maps/contrib/116911113078021839617/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE-6xjvXOhU0GJxxLlcconHmI2NqcMM1rY2ljeZ4RB9U65Wg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Food really good, nice place with plenty of room to sit and relax. Service also pretty good. Prices on the higher side but there are not many restaurants in this area so it is understandable",
+            "time": 1688381272,
+            "translated": false
+        },
+        {
+            "author_name": "vlado janoska",
+            "author_url": "https://www.google.com/maps/contrib/110589483033055591701/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEdfUCq5PtW6fOa98--oWHgCdRZoCL5nSbKXTsR9JfBlUo-0B0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "Good place for beer and food. You can enjoy here beer from local brewery. There are lot of various foods available. You can find here also seasonal menu.",
+            "time": 1556867640,
+            "translated": false
+        },
+        {
+            "author_name": "Otmar Čavojský",
+            "author_url": "https://www.google.com/maps/contrib/107696802474353971012/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiTYb_W_P3L3uBdmKVYAg-Z2BeG59Y-B2Y4FJdqkqT5vSEMw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Very good craft beer.  Higher pricing. Food from special offer was excellent.  If you plan visit during frequent hours, reserving table is highly recommended...",
+            "time": 1573672644,
+            "translated": false
+        }
+    ]
+}

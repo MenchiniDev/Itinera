@@ -1,0 +1,1066 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.16597299999999,
+                "lng": 24.964502
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.16727418029151,
+                    "lng": 24.9657699302915
+                },
+                "southwest": {
+                    "lat": 60.16457621970849,
+                    "lng": 24.96307196970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Grand Marina",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2250,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118259681986258433752\">Risto Tuomarla</a>"
+                ],
+                "photo_reference": "AdDdOWqwRb6ELegEW1-zTrWtF60pO7onE9X1ZS--9H8J5LGS-sJdrZQWneQznekT9MyHs_k-HAZmidAEP6Jrs6wKafhpVgO7CQyrZ7nlMG5lz9E2JnsSRV-ezbLQfhWfeYVVA7HfATFb-gc6fOpG0LC9A17rIL9nZhSr4AVB8-jYsjbJvniY",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJjT23ZMQLkkYRC3Gz5oSpNYw",
+        "plus_code": {
+            "compound_code": "5X87+9R Helsinki, Finland",
+            "global_code": "9GG65X87+9R"
+        },
+        "rating": 4.1,
+        "reference": "ChIJjT23ZMQLkkYRC3Gz5oSpNYw",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4243,
+        "vicinity": "Katajanokanlaituri 7, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.167551,
+                "lng": 24.9414321
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.16898253029151,
+                    "lng": 24.9427570802915
+                },
+                "southwest": {
+                    "lat": 60.16628456970849,
+                    "lng": 24.94005911970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Marski by Scandic",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111854023541980991403\">Hotelli Marski by Scandic</a>"
+                ],
+                "photo_reference": "AdDdOWpi225Pwu_3wYu_g7M7pRFe-ZcHxsE_ccQ8y18ZFZblOxvmLbm7S-YT9ak8DOas1iNxiGSlL0IWNF0qaE5erjPfBqY-wNdiEkrYSdkli-gkYocFSjRwp2DVnP3lsXYzwyl4Rlg3Rc_gwtvn1WljXvzOQ2SXONBIryBT21wPNRMCyjU1",
+                "width": 4500
+            }
+        ],
+        "place_id": "ChIJY0IKg8sLkkYRJywnvLoJUu8",
+        "plus_code": {
+            "compound_code": "5W9R+2H Helsinki, Finland",
+            "global_code": "9GG65W9R+2H"
+        },
+        "rating": 4.3,
+        "reference": "ChIJY0IKg8sLkkYRJywnvLoJUu8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2398,
+        "vicinity": "Mannerheimintie 10, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1642344,
+                "lng": 24.9321494
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.1655171802915,
+                    "lng": 24.9333850802915
+                },
+                "southwest": {
+                    "lat": 60.1628192197085,
+                    "lng": 24.9306871197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "GLO Hotel Art",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4016,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110546203603685534996\">GLO Hotel Art</a>"
+                ],
+                "photo_reference": "AdDdOWppovwESuCFZPa5uf6SkPwL7SNdBMOFndsavdZDJVFfsxUE8SHfzDT70hp4Na4SajbQaiSwkIkFSQnKzWa01wcPAPz_CfyNMRdsSSYYTxOB_k5PUSVYaGDA1AWvwrkzamYf8Uz6f0JTNLtYY2hK644wfiUKNM5YYQSIIKtXDKmBNUrx",
+                "width": 6016
+            }
+        ],
+        "place_id": "ChIJvZQCl8oLkkYR-aojK60_9Hw",
+        "plus_code": {
+            "compound_code": "5W7J+MV Helsinki, Finland",
+            "global_code": "9GG65W7J+MV"
+        },
+        "rating": 4.2,
+        "reference": "ChIJvZQCl8oLkkYR-aojK60_9Hw",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2066,
+        "vicinity": "Lönnrotinkatu 29, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1660773,
+                "lng": 24.9424771
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.16737768029151,
+                    "lng": 24.9443964802915
+                },
+                "southwest": {
+                    "lat": 60.1646797197085,
+                    "lng": 24.9416985197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Klaus K Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 379,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100441372783366051668\">Klaus K Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrRT9SD_37V5qCdjXTdRW0dNPH2z9JJ4PD28EUWGp4-37C0oT51xTzDwglt4C7CLLuJGwuuXZyNGz1POgoSlIO9Gl926s80AykqTXN-3g21jxHAk1l4XyDqcTdqWGX8FHpQV0LJf00zwjMp1EIxJx9ZlCGKfqHjqbYl7vEzaTcbQlNg",
+                "width": 1000
+            }
+        ],
+        "place_id": "ChIJ1SRMX8kLkkYROFfIICaTlEE",
+        "plus_code": {
+            "compound_code": "5W8R+CX Helsinki, Finland",
+            "global_code": "9GG65W8R+CX"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ1SRMX8kLkkYROFfIICaTlEE",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2531,
+        "vicinity": "Bulevardi 2-4, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.16788259999999,
+                "lng": 24.9472221
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.16928498029149,
+                    "lng": 24.9487414802915
+                },
+                "southwest": {
+                    "lat": 60.16658701970849,
+                    "lng": 24.9460435197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Kämp",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111674067123580633008\">Hotel Kämp</a>"
+                ],
+                "photo_reference": "AdDdOWpA_0mLzpRIjIhZ2yqLmiiYqoe62EngApW9zkjFeBPSNptDwCfcJu2Wgvx87c5slWBSzlIP834AmfRYuxJfLR4D6ehopXwlKyU26qdDd7xWMpOIOg-hZfKjQJyuowR14i0rGlAoXgxW-1t5yDGtU9y76nUqFnIG5fxArizfMFViahzP",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJb-mbCMwLkkYR1B0lZKAFEHE",
+        "plus_code": {
+            "compound_code": "5W9W+5V Helsinki, Finland",
+            "global_code": "9GG65W9W+5V"
+        },
+        "rating": 4.6,
+        "reference": "ChIJb-mbCMwLkkYR1B0lZKAFEHE",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1649,
+        "vicinity": "Pohjoisesplanadi 29, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.16579879999999,
+                "lng": 24.9697576
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.1671111302915,
+                    "lng": 24.9710551302915
+                },
+                "southwest": {
+                    "lat": 60.16441316970849,
+                    "lng": 24.9683571697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Eurohostel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109034471225208538239\">Eurohostel</a>"
+                ],
+                "photo_reference": "AdDdOWpz90BcjHPyN--0d5QnG8X_y-P9h7AW-ckXE_l4vNTg3oaw3ESV6h_Y6tOGipo40_Q3K3tz6qx051dprTHMeE-pGqcuAP2OY3DdeUbcVxx1gsZRhlZ-AL8FPka90XA8PPJ3yHSkaYiPTpI7q6TagUiJPQrb5xNu4W-GtqCscRXSKH5N",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJyRM2DsMLkkYRJ7p4v71MFoM",
+        "plus_code": {
+            "compound_code": "5X89+8W Helsinki, Finland",
+            "global_code": "9GG65X89+8W"
+        },
+        "rating": 4,
+        "reference": "ChIJyRM2DsMLkkYRJ7p4v71MFoM",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1700,
+        "vicinity": "Linnankatu 9, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.168412,
+                "lng": 24.94322289999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.16997173029149,
+                    "lng": 24.9444390302915
+                },
+                "southwest": {
+                    "lat": 60.16727376970849,
+                    "lng": 24.9417410697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant La Famiglia",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 8064,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116791638126615713669\">Ahmad Al Zarouni</a>"
+                ],
+                "photo_reference": "AdDdOWqffFPErhAVn7op1S9j9ExtuIIDAiXJyYaA2Qi6QlHSc9f8SBcOCCgRl1R1hqLgBNbRWHfSZWCRTHZNcdha7a9GCWf4OkJQKmq53cSfSyKUpmOnsDzA3r_JBeNIWwmL5MZpMMvkZSbyqODHMWSnitCIRW8GqJ_cIB3sgkdrRyagf519",
+                "width": 6048
+            }
+        ],
+        "place_id": "ChIJr4OpFcwLkkYRUZjaQ4K6CJ0",
+        "plus_code": {
+            "compound_code": "5W9V+97 Helsinki, Finland",
+            "global_code": "9GG65W9V+97"
+        },
+        "price_level": 2,
+        "rating": 3.7,
+        "reference": "ChIJr4OpFcwLkkYRUZjaQ4K6CJ0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2337,
+        "vicinity": "Keskuskatu 3, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1702354,
+                "lng": 24.9389642
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.17154648029151,
+                    "lng": 24.9403627802915
+                },
+                "southwest": {
+                    "lat": 60.1688485197085,
+                    "lng": 24.93766481970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant 10. Kerros",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4467,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113233260205873455458\">10. Kerros</a>"
+                ],
+                "photo_reference": "AdDdOWqIGJmpZWjxOXdP7JLNYQCxvn3lwU0VQj7dYGkIhzZD-RtANBKxvic3vDBsZZzhCzKiFqqHryNG2O_ps7s8dx_IwF2CQG5llBbqB_crVoHB88Z74TTFhl0rXiGmPQy_5X23a-VugD5It78NqqJnmVe4r2saZGM8MxLtdvvmcdE5uol0",
+                "width": 6704
+            }
+        ],
+        "place_id": "ChIJwxjL7swLkkYR3NB-jMptsPg",
+        "plus_code": {
+            "compound_code": "5WCQ+3H Helsinki, Finland",
+            "global_code": "9GG65WCQ+3H"
+        },
+        "price_level": 3,
+        "rating": 3.9,
+        "reference": "ChIJwxjL7swLkkYR3NB-jMptsPg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1206,
+        "vicinity": "Kaivokatu 3, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1875697,
+                "lng": 24.9481288
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.1888850302915,
+                    "lng": 24.9496241302915
+                },
+                "southwest": {
+                    "lat": 60.1861870697085,
+                    "lng": 24.9469261697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taverna Zorbas",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 406,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101471891399343545267\">Taverna Zorbas</a>"
+                ],
+                "photo_reference": "AdDdOWpLKGfwOjtVNZ4WjXVh9NQGL3QOEhs3f2W8IQtsUzXTQ70Ile85LnwfanNQmWeEpI1AazsjsGWWx9qoTytLWNXxgPOQ1-e5ctuLelpQ92MBTLw0FOvBc69g1EPhR26U8IWBJf67yUaHXqkoO9_Ezet853xK5Jg2vxgwHv8PDkKXtb4f",
+                "width": 500
+            }
+        ],
+        "place_id": "ChIJz_TnVoAJkkYR-rl4hxNyBOg",
+        "plus_code": {
+            "compound_code": "5WQX+27 Helsinki, Finland",
+            "global_code": "9GG65WQX+27"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJz_TnVoAJkkYR-rl4hxNyBOg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 530,
+        "vicinity": "Läntinen Brahenkatu 4, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1722064,
+                "lng": 24.9447456
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.17344838029151,
+                    "lng": 24.9461641802915
+                },
+                "southwest": {
+                    "lat": 60.1707504197085,
+                    "lng": 24.9434662197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Maya Bar & Grill",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3465,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105977438368603250255\">Kari</a>"
+                ],
+                "photo_reference": "AdDdOWr-BW-IGDUYrYEO3_SL6og3Qhtxt_Ek_DJMT2mrAleGj3pzG93rXYg6YXTJHrQ75oSMp4O05IXuLuEDTAn8XX_KuPXVR_7CoX0lpsxM0x-B1v_2js3ka4N2F4EwTRC1izQP6wZ_y9N5W5nOq_RCMbgbLxoWsEnega7462PS9wS1WQl0",
+                "width": 2080
+            }
+        ],
+        "place_id": "ChIJszzzkM0LkkYRyTdVrFXiH0M",
+        "plus_code": {
+            "compound_code": "5WCV+VV Helsinki, Finland",
+            "global_code": "9GG65WCV+VV"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJszzzkM0LkkYRyTdVrFXiH0M",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1657,
+        "vicinity": "Mikonkatu 18, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1721933,
+                "lng": 24.945499
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.17350518029151,
+                    "lng": 24.9466980802915
+                },
+                "southwest": {
+                    "lat": 60.1708072197085,
+                    "lng": 24.9440001197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bistro Vilho",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109768263426037694900\">Mikael F</a>"
+                ],
+                "photo_reference": "AdDdOWoIE32uuoJAx2hN_9pxr7LtOMd5EYWhY3ywdUkKj-cTRrmzqb05NNgBLZ0xvFwppKmdmK1C1RAW-N4PQpBS94bh3MygAHMh2g9_9DHiJLFi_-IaVOuWQwgLnmw0H46zNmNL5hAInR9RKJ59uoHHaJrMuBt5FxDV9vhXPiK916yGBLsE",
+                "width": 1918
+            }
+        ],
+        "place_id": "ChIJESJ8jc0LkkYR5ybVgmNQJaI",
+        "plus_code": {
+            "compound_code": "5WCW+V5 Helsinki, Finland",
+            "global_code": "9GG65WCW+V5"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJESJ8jc0LkkYR5ybVgmNQJaI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 157,
+        "vicinity": "Mikonkatu 23, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.15954189999999,
+                "lng": 24.9385622
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.16093003029151,
+                    "lng": 24.9398550802915
+                },
+                "southwest": {
+                    "lat": 60.1582320697085,
+                    "lng": 24.9371571197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ravintola Kamome",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2641,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109554767445173874767\">PH</a>"
+                ],
+                "photo_reference": "AdDdOWr04yV3YC-LrZKt8R9go3yqBDPMGTUwdM4CrGv_y3HukYci-iS7pnWtRWTLS2e8MpkNu_WsViiMc2zHvqVN9Z9NTVZa2x8qvirGm7UQZ750bMsWtfK7o9jI7-5bHkCmjXFzyK1OKomXiDgMAzkmxb3BEEsuwnixc0BUgGvlX5_RpQQq",
+                "width": 3507
+            }
+        ],
+        "place_id": "ChIJuQobXbYLkkYRfvHsikDzNWI",
+        "plus_code": {
+            "compound_code": "5W5Q+RC Helsinki, Finland",
+            "global_code": "9GG65W5Q+RC"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJuQobXbYLkkYRfvHsikDzNWI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 564,
+        "vicinity": "Pursimiehenkatu 12, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.16743289999999,
+                "lng": 24.94398859999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.1689143302915,
+                    "lng": 24.9453210302915
+                },
+                "southwest": {
+                    "lat": 60.16621636970849,
+                    "lng": 24.94262306970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Teatteri",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 400,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115152531343220762665\">Ravintola Teatterin Grilli</a>"
+                ],
+                "photo_reference": "AdDdOWoH_yNipG74s5Jy7pUSWBmCOHRJCULGV0JEBbIKXWvjzJ3CCbrhgeQU3ZMPmDANEfYDqLEh34LMg9WNDclAc1ZX8svD9ryk-xRds-i7sGYbgz3A-c-xBwCHD50Qbe_gyI6KXTfb7ihrgoc7Tiec2XoDLZYn46jzDZcz_PjanyKM9_Mr",
+                "width": 600
+            }
+        ],
+        "place_id": "ChIJNUOxB8wLkkYRf9YVdrOg7oc",
+        "plus_code": {
+            "compound_code": "5W8V+XH Helsinki, Finland",
+            "global_code": "9GG65W8V+XH"
+        },
+        "price_level": 3,
+        "rating": 4,
+        "reference": "ChIJNUOxB8wLkkYRf9YVdrOg7oc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "night_club",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1877,
+        "vicinity": "Pohjoisesplanadi 2, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.16738600000001,
+                "lng": 24.950323
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.16896898029151,
+                    "lng": 24.9515470302915
+                },
+                "southwest": {
+                    "lat": 60.1662710197085,
+                    "lng": 24.94884906970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Kappeli",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 9000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117941627577016708439\">オリーブ田中</a>"
+                ],
+                "photo_reference": "AdDdOWpmqpN08HTPEqA5qBRthbiCpqCy_5FbUH41qNbNEBzc20egZ35PxgRP24lTqQaeLEGk1ZOLdeLoT7fv2XS_dbwXUKIT5j2eTbbnpUrCdkbmULDiRXGAEOYDJPhsIPqGvKs8UWx0WGX4OaOWIMxOjqnEiw4EMT9DMyfsquFjYukSrgq4",
+                "width": 12000
+            }
+        ],
+        "place_id": "ChIJEZWOH88LkkYR27YLjPxFXoU",
+        "plus_code": {
+            "compound_code": "5X82+X4 Helsinki, Finland",
+            "global_code": "9GG65X82+X4"
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "ChIJEZWOH88LkkYR27YLjPxFXoU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4491,
+        "vicinity": "Eteläesplanadi 1, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1646781,
+                "lng": 24.9339551
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.1660667802915,
+                    "lng": 24.93532108029151
+                },
+                "southwest": {
+                    "lat": 60.16336881970849,
+                    "lng": 24.9326231197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Koto",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3888,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112528700033148263528\">Ari Suhonen</a>"
+                ],
+                "photo_reference": "AdDdOWoEGT7snsHK-UEmck6Dfzq-gUZuA9CTKrvvvWjLY78DRHUg1p2wOMlhzeakaY_80H8dxJehGE59ZbRbdNA37m5LoInKeXJ--CcmSjfUzKWBjXQhZAg8wTPlmJKv9i-BaFc2pp4wB8mh--Xzv7C2jyAFy06hixksTjtSIGQ4NRdrcfaE",
+                "width": 5184
+            }
+        ],
+        "place_id": "ChIJWy-H8soLkkYRgBBHQCr7eL8",
+        "plus_code": {
+            "compound_code": "5W7M+VH Helsinki, Finland",
+            "global_code": "9GG65W7M+VH"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJWy-H8soLkkYRgBBHQCr7eL8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 613,
+        "vicinity": "Lönnrotinkatu 22, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1666812,
+                "lng": 24.9369451
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.16806398029151,
+                    "lng": 24.9383857302915
+                },
+                "southwest": {
+                    "lat": 60.16536601970849,
+                    "lng": 24.9356877697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Lappi Ravintola",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1026,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115648861831712842060\">Lappi Ravintola</a>"
+                ],
+                "photo_reference": "AdDdOWomU_FX31VQoihIlEk_pboXgLEBJ2q_vtgeLsWaqJVj9rmtsTjVr9B-RMpo8RuHUtWU0dpyS2QZ7VFE2k6iSUmIzwbS2-xIqKECb_eDzJPMkY7r2EM07y7KZwdefbX3aHcgsAjePPbtf9vQNgSzSZ4KczMTl33w_jR_S1XZE8Gk71o",
+                "width": 1368
+            }
+        ],
+        "place_id": "ChIJ36bwCcsLkkYRB4sbBayISh0",
+        "plus_code": {
+            "compound_code": "5W8P+MQ Helsinki, Finland",
+            "global_code": "9GG65W8P+MQ"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJ36bwCcsLkkYRB4sbBayISh0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2199,
+        "vicinity": "Annankatu 22, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1883401,
+                "lng": 24.9442876
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.18959808029151,
+                    "lng": 24.9459410302915
+                },
+                "southwest": {
+                    "lat": 60.1869001197085,
+                    "lng": 24.9432430697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Helsinki Hall of Culture",
+        "photos": [
+            {
+                "height": 1152,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106423772189438328815\">Kulttuuritalo</a>"
+                ],
+                "photo_reference": "AdDdOWqHAsDgKNWunU7Q74CBi0crMjALohPdhm4M9U6wq9vYVqcfdoPHtEJGpvuIJqQC-0_qEZ_mufqqMY41rLz3d7uiQmboCDtBmg4ARbfvzLNWe373wF1GWzkq2X2rdTWJUHLtoUoqd0MVIYLN_Oc5Wdff-2FatnKsxNzomCHbdn66Stla",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJG4bl0IAJkkYRY3dPp11skrs",
+        "plus_code": {
+            "compound_code": "5WQV+8P Helsinki, Finland",
+            "global_code": "9GG65WQV+8P"
+        },
+        "rating": 4.1,
+        "reference": "ChIJG4bl0IAJkkYRY3dPp11skrs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2216,
+        "vicinity": "Sturenkatu 4, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1741141,
+                "lng": 24.9312242
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.17548258029151,
+                    "lng": 24.9325252302915
+                },
+                "southwest": {
+                    "lat": 60.1727846197085,
+                    "lng": 24.9298272697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ravintola Manala",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 435,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118439991104368660123\">Ravintola Manala</a>"
+                ],
+                "photo_reference": "AdDdOWqbkdbEfEqaSu2GloD3GmybByOxZYB6VCsVHMm6NWpk21Ksx-G38Uw1mbj3ZwSfHuGEgRdiVeoRWLLJIkA9ko36EjuyZWZwWqfzY3RoLzGbInQM5n72oV6FPYfArWOsqURFQFn39nmWW7p_W1v-kQU3gae2IXtUybA9sco8ACdEOqm1",
+                "width": 580
+            }
+        ],
+        "place_id": "ChIJl1BlQTIKkkYRtJXLVwivWyo",
+        "plus_code": {
+            "compound_code": "5WFJ+JF Helsinki, Finland",
+            "global_code": "9GG65WFJ+JF"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJl1BlQTIKkkYRtJXLVwivWyo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1590,
+        "vicinity": "Dagmarinkatu 2, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1839716,
+                "lng": 24.9204415
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.18519723029151,
+                    "lng": 24.9216725302915
+                },
+                "southwest": {
+                    "lat": 60.1824992697085,
+                    "lng": 24.9189745697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kulttuuritehdas Korjaamo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3635,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110122072419142142227\">Kulttuuritehdas Korjaamo</a>"
+                ],
+                "photo_reference": "AdDdOWqwxFUB9R2TmT8ACyHp_U5g3V7XXiWqndiFLd6RgYAAx7PPe_qBfuJKcFAh_Z25ZG3yQBinXYN1-9_syaoKiH0ZgRfhUVwMxhXrvi4sdneX54igAMGT62nDSwXCrE79BHtjWftGPZAouTPF_ZIQd7e7JmWjgWoJge6O4gWaacIYNDDZ",
+                "width": 5464
+            }
+        ],
+        "place_id": "ChIJLV_7LCQKkkYRRigRn5KKn38",
+        "plus_code": {
+            "compound_code": "5WMC+H5 Helsinki, Finland",
+            "global_code": "9GG65WMC+H5"
+        },
+        "rating": 4.1,
+        "reference": "ChIJLV_7LCQKkkYRRigRn5KKn38",
+        "scope": "GOOGLE",
+        "types": [
+            "tourist_attraction",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1314,
+        "vicinity": "Töölönkatu 51 B, Helsinki"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 60.1752656,
+                "lng": 24.9249891
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 60.17652543029151,
+                    "lng": 24.9263056302915
+                },
+                "southwest": {
+                    "lat": 60.17382746970849,
+                    "lng": 24.9236076697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ravintola KuuKuu",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113026795875276214074\">Ravintola KuuKuu</a>"
+                ],
+                "photo_reference": "AdDdOWoEmFR-htTa71yVZcDO_VYVeGz7Bj2_nxERTKEtIn81L0566bCIOhl1WSdlgUlUohbOj9e0kmkl8A_lQX-NsabiYhWKTautUi1_a8BVX0tO2KM5yXSb-cO5_1lpD00gc2UAsZ-l2g0dYcYmCKTKFEIDgcPDAwGDsSmdBzuVKJvRiAOj",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJmZ_2uzEKkkYRi4MhlKhFByw",
+        "plus_code": {
+            "compound_code": "5WGF+4X Helsinki, Finland",
+            "global_code": "9GG65WGF+4X"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJmZ_2uzEKkkYRi4MhlKhFByw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1109,
+        "vicinity": "Museokatu 17, Helsinki"
+    }
+]

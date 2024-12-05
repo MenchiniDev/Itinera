@@ -1,0 +1,66 @@
+{
+    "name": "Gostilna štorklja Simon Zgonc s.p.",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Damjan Kržišnik",
+            "author_url": "https://www.google.com/maps/contrib/101491152780261780192/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3ZF7aNWm7PQdkBWCQY2I8X7D7vu0-0L4-XSSmdWbbT_4UmJzkGg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Lunch is bellow avrage quality but if you chose something from menu it is quit good. Stuff is professional. They have outside garden with roof. Overall a good restavrant and best one around the hospital.",
+            "time": 1535436240,
+            "translated": false
+        },
+        {
+            "author_name": "Ioana Covaliu",
+            "author_url": "https://www.google.com/maps/contrib/114090980406474186329/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIauly7mU9O4u6OrsRo20WP8CInm7v1BznVdQL9UDIs1e3O8nw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I atw here a few times and the food was always delicious!!!\nReally accesible prices and nice staff.\nI recommend it!",
+            "time": 1660130339,
+            "translated": false
+        },
+        {
+            "author_name": "dennis klippel",
+            "author_url": "https://www.google.com/maps/contrib/107970413396903655971/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuJjXgnWX2ep_5H8NtWQuIuwr_Ai0ji2c7UUKKPimUyp52K2nG=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "Good affordable food, and fast and pleasant service.",
+            "time": 1566379966,
+            "translated": false
+        },
+        {
+            "author_name": "Petra Fetah",
+            "author_url": "https://www.google.com/maps/contrib/110854045048888773359/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBAM4Jlp9LiITjn2Wps-5NlIROLehXbNMFwhg1R_aBrXftkg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "4 years ago",
+            "text": "It's OK for a quick lunch break.",
+            "time": 1603177704,
+            "translated": false
+        },
+        {
+            "author_name": "Matej Lukin",
+            "author_url": "https://www.google.com/maps/contrib/115612102163703054397/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_0PuPbWYX7Vh9TFY0pXINZxJd6sIub1uJ7xSmQt4C9ELhG3kF=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Good chinese, sometimes slow to get served",
+            "time": 1484156564,
+            "translated": false
+        }
+    ]
+}

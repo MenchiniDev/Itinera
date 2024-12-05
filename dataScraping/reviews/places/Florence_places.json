@@ -1,0 +1,1061 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7576626,
+                "lng": 11.298592
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7589239302915,
+                    "lng": 11.3000397302915
+                },
+                "southwest": {
+                    "lat": 43.7562259697085,
+                    "lng": 11.2973417697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Italiana Hotels Florence",
+        "photos": [
+            {
+                "height": 2667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115642318537416508356\">Italiana Hotels Florence</a>"
+                ],
+                "photo_reference": "AdDdOWpXjscVyFKSTYGrHDG4FroXkXnSLZP5rubZOFeyV5rFSxT01waGPuAYzfAZbEuzDgV8hAhJLWYCAAdk0Yjl_SBTK89v3C92hdHAOpDVklPuCjucXSVpf2OEwOPa-WOc8543C4m-XgWRCk_D0S5L-IDiTOiJBh_dH6Ja70NTzRrTLLP_",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJg3gil3hTKhMR9pegJ1434I8",
+        "plus_code": {
+            "compound_code": "Q75X+3C Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ75X+3C"
+        },
+        "rating": 3.8,
+        "reference": "ChIJg3gil3hTKhMR9pegJ1434I8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2670,
+        "vicinity": "Viale Europa, 205, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.76796720000001,
+                "lng": 11.2515563
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.76924473029151,
+                    "lng": 11.2528925302915
+                },
+                "southwest": {
+                    "lat": 43.76654676970851,
+                    "lng": 11.2501945697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Lungarno",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105220696495432933578\">Hotel Lungarno</a>"
+                ],
+                "photo_reference": "AdDdOWps6cQxq5OO_XdQb10ETxFz46mK0EsO5-GTqjwz9zvqVUq__CF49GvZuWfmwrm7i5sZdlwOQlkIy_rNDXKv_8jl2CrTSoFuyeFnZmKKTdZF-i2ShPSy8jBJdAJPuw6i4ne4_j0MHkL_65bEKht4Qa-anOSzEvXEF_lnrr_D1pWOIRPd",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJez8bNVVRKhMR6QTW0w89UGo",
+        "plus_code": {
+            "compound_code": "Q792+5J Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ792+5J"
+        },
+        "price_level": 3,
+        "rating": 4.7,
+        "reference": "ChIJez8bNVVRKhMR6QTW0w89UGo",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 423,
+        "vicinity": "Borgo San Jacopo, 14, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.774635,
+                "lng": 11.2505918
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7760393302915,
+                    "lng": 11.2519916302915
+                },
+                "southwest": {
+                    "lat": 43.7733413697085,
+                    "lng": 11.2492936697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel Baglioni",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1415,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108894913706163836822\">Grand Hotel Baglioni</a>"
+                ],
+                "photo_reference": "AdDdOWrSCm6FXdPF9S1s0vLiokm0ZwisV7O6mKRvm-6ZguF8bkqGZyuhlAzA64Hk2YrHNnUl4JV5_NJh7BnAsFDrpuxgexoNSztYkDSPYmVqhLFYLRXTZL9jC3XWHMNNO4Q_Ch0Tan7q-mnvN5Y_qiTXcPilxjrxfPN0OTwfDfUGVdkuN6-f",
+                "width": 2119
+            }
+        ],
+        "place_id": "ChIJVSY-yqlWKhMRvt1mmq51lB4",
+        "plus_code": {
+            "compound_code": "Q7F2+V6 Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ7F2+V6"
+        },
+        "rating": 4.4,
+        "reference": "ChIJVSY-yqlWKhMRvt1mmq51lB4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2944,
+        "vicinity": "Piazza dell'Unità Italiana, 6, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7699928,
+                "lng": 11.2623128
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7713768302915,
+                    "lng": 11.2636763302915
+                },
+                "southwest": {
+                    "lat": 43.76867886970851,
+                    "lng": 11.2609783697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Palazzo Firenze by Baglioni Hotels & Resorts",
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103062557920605849460\">Palazzo Firenze by Baglioni Hotels &amp; Resorts</a>"
+                ],
+                "photo_reference": "AdDdOWpjhhhWpTpBjUUdUOqs0tDzM9CblWpLmQTXd0VPWV3oDMA2xM9EKwVgWRKoPy5iro4mDgZRWyqUCDyPzwVEhsyObJtGyAzQ0xlxja8RT0L-83LA7tBUmmzROmP-u7BtLk1qCyAdNRfLR1SBdVnC7Lwsql5OS5XQPNu4FTvWFVmgax4",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJJ9GCOAZUKhMRuCFIeQlEgvI",
+        "plus_code": {
+            "compound_code": "Q796+XW Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ796+XW"
+        },
+        "rating": 4.7,
+        "reference": "ChIJJ9GCOAZUKhMRuCFIeQlEgvI",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 256,
+        "vicinity": "Via Ghibellina, 87, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7572467,
+                "lng": 11.2475232
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7585728302915,
+                    "lng": 11.2487857302915
+                },
+                "southwest": {
+                    "lat": 43.7558748697085,
+                    "lng": 11.2460877697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Villa Cora",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2002,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105095577320913499160\">Villa Cora</a>"
+                ],
+                "photo_reference": "AdDdOWoQ-pnMEx9yBBF8Nvo2Cvon9Qba9QI36iR1KnxUW-c-6g3T-HrNFzwnRa24q6gAFzHkFjC_PsqIGnDU7xZwkYG6g7aRopvu6fmRNmWQSEmuPz7CK7QlDrh6LglM7dxgRwdqKmzVlslqgxa0Ku0-knhdNfg88g6WPnrKF9gejEi2lIHQ",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJuaMLi1lRKhMRqj9DilE3nyU",
+        "plus_code": {
+            "compound_code": "Q64X+V2 Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ64X+V2"
+        },
+        "rating": 4.8,
+        "reference": "ChIJuaMLi1lRKhMRqj9DilE3nyU",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 755,
+        "vicinity": "Viale Machiavelli, 18, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.771716,
+                "lng": 11.25577
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7731022302915,
+                    "lng": 11.2572737802915
+                },
+                "southwest": {
+                    "lat": 43.7704042697085,
+                    "lng": 11.2545758197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Brunelleschi",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1561,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110453062522703208762\">Brunelleschi Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWptHcayZtJ0TKIY5X9bFmudSwgSsN69aNj9O3bjkgXEoj0LIK550mKazopPoG_F-0FR3o5861sjmK-nIM5YXzCk_-tfX7QgOKIVhqtn-WWtaBGyiUHhUA9u-GTRX6wp-jMuaNbDjCNgrlwonmC8iA2gdyGjXW3ytW0RbAyNz8QOdasf",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJVYTq1xZLKhMR9hdzECEEL0Q",
+        "plus_code": {
+            "compound_code": "Q7C4+M8 Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ7C4+M8"
+        },
+        "rating": 4.7,
+        "reference": "ChIJVYTq1xZLKhMR9hdzECEEL0Q",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1342,
+        "vicinity": "Piazza Sant'Elisabetta, 3, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7729256,
+                "lng": 11.2498047
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7742481302915,
+                    "lng": 11.2509911302915
+                },
+                "southwest": {
+                    "lat": 43.7715501697085,
+                    "lng": 11.2482931697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Place Firenze",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112660528215959927570\">The Place Firenze</a>"
+                ],
+                "photo_reference": "AdDdOWrnHCxm9U-swUNdN8XakMdbr3d9bSSSws2dwDhuXpNNDPxucKKbcDxvu2NuNBwpAEOPPqtKJbi3YjBZ_FMmKV5iQWKoJale1daBCb2wigRcvnbXacZ0strxX_u6iELSMpv50x7ueOmnha3_xMm-jOIMwGAEvFWycj5-qoIwWw5bxKxR",
+                "width": 6720
+            }
+        ],
+        "place_id": "ChIJI4A8galWKhMRMeMpaP5CV9M",
+        "plus_code": {
+            "compound_code": "Q6FX+5W Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ6FX+5W"
+        },
+        "rating": 4.4,
+        "reference": "ChIJI4A8galWKhMRMeMpaP5CV9M",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 221,
+        "vicinity": "Piazza di Santa Maria Novella, 7, Firenze"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 43.778156,
+                "lng": 11.244398
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7794460802915,
+                    "lng": 11.2456838302915
+                },
+                "southwest": {
+                    "lat": 43.7767481197085,
+                    "lng": 11.2429858697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Londra",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 2832,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104430378354072094546\">Hotel Londra</a>"
+                ],
+                "photo_reference": "AdDdOWpQiEs0UhiYQ9G7wC4WXbyS6RqjAeQRh_BtpXYmi4hKs-UKmzs185upJ-gzYbhFcQjPSAD8AYAwKdHcSovEghxUHflFz7VjcYjVHyth0Gd7WV8Hn8oXrLJndBQykRcBeVtm8n53FO_VXePfpg0bnq-91hOlFJm5aAGXKNYKZQEC3xG1",
+                "width": 4256
+            }
+        ],
+        "place_id": "ChIJO4mg6-FnKhMRVbJmmOX2a4M",
+        "plus_code": {
+            "compound_code": "Q6HV+7Q Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ6HV+7Q"
+        },
+        "rating": 3.9,
+        "reference": "ChIJO4mg6-FnKhMRVbJmmOX2a4M",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1278,
+        "vicinity": "Via Jacopo da Diacceto, 16/20, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.76614929999999,
+                "lng": 11.2721806
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.76742168029149,
+                    "lng": 11.2735011802915
+                },
+                "southwest": {
+                    "lat": 43.76472371970849,
+                    "lng": 11.2708032197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "FH55 Grand Hotel Mediterraneo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3832,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106346911313673725031\">FH55 Grand Hotel Mediterraneo</a>"
+                ],
+                "photo_reference": "AdDdOWpZg_ic2DJ99oS6q_WlXPrufngQbBxBkMPb_MghT11ip7Mn2G1LyhFboBWC1BlTtEoG3Ctcv9L0EDI32Wy2CJVnDjmOvnp3Dy9mtsYIZvAzR6uSTwdyYI90hbiEZ8iZA1ia7opHXMdEHmK-3k0AKW-klQziUOeh5gLaxrY26zjzuqXL",
+                "width": 5740
+            }
+        ],
+        "place_id": "ChIJW9Y1fgpUKhMRzMGsQA5i3j4",
+        "plus_code": {
+            "compound_code": "Q78C+FV Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ78C+FV"
+        },
+        "rating": 4.1,
+        "reference": "ChIJW9Y1fgpUKhMRzMGsQA5i3j4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4257,
+        "vicinity": "Lungarno del Tempio, 44, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.79746319999999,
+                "lng": 11.2417809
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7987894802915,
+                    "lng": 11.2431617302915
+                },
+                "southwest": {
+                    "lat": 43.7960915197085,
+                    "lng": 11.2404637697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Raffaello Hotel",
+        "photos": [
+            {
+                "height": 535,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110656654989911292367\">Hotel Raffaello</a>"
+                ],
+                "photo_reference": "AdDdOWollE3OBZEjPaNxaB7KX4V-s-9Hfay2H3JQyxG4iR0c_7TCB0d7ZbUnI7Vaq1UQUVLJSqF9FPiHc4B-dVxoNFgFYwI9HN_oyXPrGLcgkXdIcZ4TlwbI1kYGhaZbemk5YC2kohUx__K_HXlOyvIcM76R_FkBUayJgf8ZgWOtmJtV_Eu_",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJLTD5UYRWKhMRyHmDOU4ozPs",
+        "plus_code": {
+            "compound_code": "Q6WR+XP Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ6WR+XP"
+        },
+        "rating": 3.6,
+        "reference": "ChIJLTD5UYRWKhMRyHmDOU4ozPs",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1244,
+        "vicinity": "Viale Giovanni Battista Morgagni, 19, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7522129,
+                "lng": 11.3064642
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.75361663029149,
+                    "lng": 11.3080769302915
+                },
+                "southwest": {
+                    "lat": 43.75091866970849,
+                    "lng": 11.3053789697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Together Florence Inn",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110900249983430598743\">Together Florence Urban Resort</a>"
+                ],
+                "photo_reference": "AdDdOWpg0Un0bVHsGvqDXhErYGxK8yRq6Kf3DOpw_7qgfBcyJ3BmhagTFHHAUglHNrF1dEG851Jy-WUnAjJQ7mkc-TqdPgKmVTccQKG6MSE3DKnXODF-YeCnJ9xYXkivz2WKATLVWc5rb0451LatzBqpyKdUZa6IEqE7sLdNBsH0SkzhzMjh",
+                "width": 5000
+            }
+        ],
+        "place_id": "ChIJ8bi_Y3BTKhMRvCOhjGKT_A0",
+        "plus_code": {
+            "compound_code": "Q824+VH Bagno a Ripoli, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ824+VH"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ8bi_Y3BTKhMRvCOhjGKT_A0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 540,
+        "vicinity": "Via Alcide de Gasperi, 6, Bagno a Ripoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.75436610000001,
+                "lng": 11.2589547
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.75571608029149,
+                    "lng": 11.2602994302915
+                },
+                "southwest": {
+                    "lat": 43.7530181197085,
+                    "lng": 11.2576014697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Art Hotel Villa Agape",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1366,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110467433659325679192\">Hotel Villa Agape</a>"
+                ],
+                "photo_reference": "AdDdOWp8QJwk6fJezO-gv1184uFIV7sKJWqSTU-emyK3kbl4IcpMCq4tlNDC0uWCwuUjV2n_6EXsjJQZ69XhzizXnIdoCoIkGJ6M-F2ysKiw0xOVZVj1DV-VeLAMN5PkYvLpiDWkj1ox-rdtNWIdE_oDMUQkQEmSOBPScYB65A4C0Bvf_rqg",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJtWgg-eNTKhMRoDdx8rdqtFg",
+        "plus_code": {
+            "compound_code": "Q735+PH Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ735+PH"
+        },
+        "rating": 4.7,
+        "reference": "ChIJtWgg-eNTKhMRoDdx8rdqtFg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 684,
+        "vicinity": "Via della Torre del Gallo, 8, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7667278,
+                "lng": 11.2516018
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.76813088029149,
+                    "lng": 11.2529053802915
+                },
+                "southwest": {
+                    "lat": 43.76543291970849,
+                    "lng": 11.2502074197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel La Scaletta Florence",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 543,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117752194781157051855\">Hotel La Scaletta al Ponte Vecchio</a>"
+                ],
+                "photo_reference": "AdDdOWp8netH7xAVtuhUs8jJUW4ysqdxQkOTf6WhbtfwHV3vStO0YHCdTw9Yw1m1auiMmUUd4yEFFfZAjnPybV8DDVx4yiGBzqQ7yZ1vOFeHniGJTiEJTt1KWEguGoeUFJ9eFnnPxZI1LsMsyLEe-bLWis6vpgJtB5ErqQjWhL0Ilxr_3372",
+                "width": 750
+            }
+        ],
+        "place_id": "ChIJ41cyaFVRKhMRhTaveTyC2W4",
+        "plus_code": {
+            "compound_code": "Q782+MJ Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ782+MJ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ41cyaFVRKhMRhTaveTyC2W4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 872,
+        "vicinity": "Via de' Guicciardini, 13, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.76897679999999,
+                "lng": 11.2532147
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.77030233029149,
+                    "lng": 11.2546509802915
+                },
+                "southwest": {
+                    "lat": 43.76760436970849,
+                    "lng": 11.2519530197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Gallery Hotel Art",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 500,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108809193309157667150\">Gallery Hotel Art</a>"
+                ],
+                "photo_reference": "AdDdOWpuvjeMfKymh2U6zszs6kuDiB8h7wWnwTHzbSymDu9OVOBBhAtviGGpMzMVIBnsXVL0lCNmB7_alrXOo4IdJsQW7wDvdyLR2nLNtQTnXZq43tyjXCMfNnwQ8lSrQMWB480NSs7pXWvR8uwyoBdMUH7TWtmE0WjA_a7kuwi7Ma62Ggc",
+                "width": 750
+            }
+        ],
+        "place_id": "ChIJqeAmEQBUKhMRvrAmRIBdaok",
+        "plus_code": {
+            "compound_code": "Q793+H7 Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ793+H7"
+        },
+        "rating": 4.5,
+        "reference": "ChIJqeAmEQBUKhMRvrAmRIBdaok",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 326,
+        "vicinity": "Vicolo dell'Oro, 5, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7718814,
+                "lng": 11.2541517
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7732272302915,
+                    "lng": 11.2556539302915
+                },
+                "southwest": {
+                    "lat": 43.7705292697085,
+                    "lng": 11.2529559697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Caffè Gilli",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2953,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107957212390091201444\">Caffè Gilli</a>"
+                ],
+                "photo_reference": "AdDdOWqxsUhfXXsdiMZC0lhL0SqRsfvMPrmCv0D07Lg5VYPL7DWM4DwbNoFFAH1YT_JCk-36xKzo-8NNPvvQ-vMtZmN4XcbB8xAk8NenIeoM7ZpRJG14iA8NrqNr2RbmuWPao-xU9_zZ3cFq_pCaCoO10AWNN66LGFwW0FzbpsuRN66N0cru",
+                "width": 4430
+            }
+        ],
+        "place_id": "ChIJFbiwjwFUKhMRPJ-oDzQyiBU",
+        "plus_code": {
+            "compound_code": "Q7C3+QM Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ7C3+QM"
+        },
+        "price_level": 3,
+        "rating": 4,
+        "reference": "ChIJFbiwjwFUKhMRPJ-oDzQyiBU",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "cafe",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6953,
+        "vicinity": "Via Roma, 1r, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7664029,
+                "lng": 11.2673936
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.76766978029149,
+                    "lng": 11.2687832302915
+                },
+                "southwest": {
+                    "lat": 43.76497181970849,
+                    "lng": 11.2660852697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "LHP Hotel River & SPA",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1560,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101722812038250759313\">Nino Cipolla</a>"
+                ],
+                "photo_reference": "AdDdOWozNgumrXMEWSue6hfS_zMFbOD4l6t5dWd9g3SAqe8aSI7eJ7mojjTac5oypR0VVqexc9xEHFYNPr1plZQCc8PTghpB4K7jYV1vSIwhl57usCQ3s-NW_EqFD2lGhYqbX-hs2fi82Hj_saalauB5rSa5ofVgRp8pR_-eHYdQIJMniouy",
+                "width": 3788
+            }
+        ],
+        "place_id": "ChIJ7xGZJ_ZTKhMRspXDmUK8OgM",
+        "plus_code": {
+            "compound_code": "Q788+HX Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ788+HX"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ7xGZJ_ZTKhMRspXDmUK8OgM",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 374,
+        "vicinity": "Lungarno della Zecca Vecchia, 18, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.77175459999999,
+                "lng": 11.2522415
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7731073302915,
+                    "lng": 11.2535657802915
+                },
+                "southwest": {
+                    "lat": 43.7704093697085,
+                    "lng": 11.2508678197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Helvetia & Bristol Firenze - Starhotels Collezione",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117764404833870182997\">Helvetia &amp; Bristol Firenze - Starhotels Collezione</a>"
+                ],
+                "photo_reference": "AdDdOWprPMOq8i6c2ua6QpyO0BcY2SnABpjEFhilNY3oF_n0wySNT88Cpmx-lg-55yPPgBWDInO62PRSNbGZXgiKkWNxc7wUgTn-DpJI58H-AYnne4YgvmIAyCr2fhehMSR6RXpcFko-SPUfzIEgCUt90y0Ffr5DU3geMvBlVLnTwJfAmS5Z",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJByGtCapWKhMRtINW-ZP9Imk",
+        "plus_code": {
+            "compound_code": "Q7C2+PV Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ7C2+PV"
+        },
+        "rating": 4.7,
+        "reference": "ChIJByGtCapWKhMRtINW-ZP9Imk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 535,
+        "vicinity": "Via dei Pescioni, 2, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7735589,
+                "lng": 11.2482737
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7748637302915,
+                    "lng": 11.2496996802915
+                },
+                "southwest": {
+                    "lat": 43.7721657697085,
+                    "lng": 11.2470017197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Croce di Malta",
+        "photos": [
+            {
+                "height": 533,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103257558025850203495\">Albergo Croce di Malta</a>"
+                ],
+                "photo_reference": "AdDdOWrE3leceOP-KVDqfxx-v5gcqcE4g_tFOvI7ozu9yhDs44RxgfCCMYBbocsiU3l-G8ZEpltXIOLPq_G3G3LpFkH6qfM7ymf7qlNlWdCXPnSUlCz22twENSkkRUdqI1kRitltGfTlzVaH3WzEhrehq1dzy5tVdHAW2g56V2vaWj9TIYjb",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJWSnyZKlWKhMRZTRkS1IEP6c",
+        "plus_code": {
+            "compound_code": "Q6FX+C8 Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ6FX+C8"
+        },
+        "rating": 4.4,
+        "reference": "ChIJWSnyZKlWKhMRZTRkS1IEP6c",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1200,
+        "vicinity": "Via della Scala, 7, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.7570178,
+                "lng": 11.3123165
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.7586175302915,
+                    "lng": 11.3133987302915
+                },
+                "southwest": {
+                    "lat": 43.7559195697085,
+                    "lng": 11.3107007697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Villa Olmi Firenze",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104986696593582777862\">Hotel Villa Olmi Firenze</a>"
+                ],
+                "photo_reference": "AdDdOWoIMcEwg8Tk_RzWaYjdx36kT0-GXINtaXNdWbjDG_nce63vhcKUEizSYaZgkpXmDfZZ4b72f3bHxj1Waeej5BRK-KCDK1tiqd6m-EYi5AWQjbFhgPtSwP-Znp9vQF2bxC1T42qRJfOnBmlW-5snLMWRcrHQNeCw1ZGxBsFrUbCshlpv",
+                "width": 2064
+            }
+        ],
+        "place_id": "ChIJfWNMsNXLeEcRyclro4g8rj0",
+        "plus_code": {
+            "compound_code": "Q846+RW Florence, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHQ846+RW"
+        },
+        "rating": 4.6,
+        "reference": "ChIJfWNMsNXLeEcRyclro4g8rj0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 754,
+        "vicinity": "Via Del Crocifisso Del Lume, 18, Firenze"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8019288,
+                "lng": 11.2979691
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8032887802915,
+                    "lng": 11.2993376802915
+                },
+                "southwest": {
+                    "lat": 43.8005908197085,
+                    "lng": 11.2966397197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "FH55 Hotel Villa Fiesole",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1476,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105368889290845942368\">FH55 Hotel Villa Fiesole</a>"
+                ],
+                "photo_reference": "AdDdOWoIIIZzIYvRNaU5n89OH17kzyZ89T_HDiEnD8ldkInEDo39g7jSoHu5xiz3RDctIGa1AG4iBTv2dJhVLb0RNmKSn0b866GeV1nTfHX8djtQSMzBBSl27enddGtw7-9VPRmGZfxaWk4UfK75n2w8G9bZ6yjKPE8yyuYXoYggi9M3myE9",
+                "width": 2213
+            }
+        ],
+        "place_id": "ChIJWX0ap6pVKhMRiUSKNv1rRnU",
+        "plus_code": {
+            "compound_code": "R72X+Q5 Fiesole, Metropolitan City of Florence, Italy",
+            "global_code": "8FMHR72X+Q5"
+        },
+        "rating": 4.5,
+        "reference": "ChIJWX0ap6pVKhMRiUSKNv1rRnU",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 369,
+        "vicinity": "Via Frà Giovanni da Fiesole Detto l'Angelico, 35, Fiesole"
+    }
+]

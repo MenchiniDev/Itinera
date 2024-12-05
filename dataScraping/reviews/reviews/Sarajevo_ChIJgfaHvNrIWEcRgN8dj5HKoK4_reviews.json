@@ -1,0 +1,66 @@
+{
+    "name": "Restoran Amerikanac Sarajevo",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Osiris Roost",
+            "author_url": "https://www.google.com/maps/contrib/100345987190365175495/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8upu4dCu-7L8UvPC9k9HXKhsag_3KLCFtO4-KkC57bHameuk=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "3 weeks ago",
+            "text": "The food was good, and the service was friendly. The space is cosy and romantic. It is very central in the city, but the entrance is difficult to find. The menu offers lots of options. The prices are higher than most restaurants.",
+            "time": 1731069211,
+            "translated": false
+        },
+        {
+            "author_name": "M D",
+            "author_url": "https://www.google.com/maps/contrib/105091256525642150508/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx6Lmr2DhR_eLnb3tKIZkbAWEsoNjW9luTcKvY1qyaJwTeIFOi=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Great place with great atmosphere! The staff was nice and helpful. The food was also really, really great apart from the fact that the gnocchi was a tad bit heavy. The salmon appetizer was flavorful. Definitely need to check the place again!",
+            "time": 1716714615,
+            "translated": false
+        },
+        {
+            "author_name": "Phillip Bates",
+            "author_url": "https://www.google.com/maps/contrib/106217889191515216213/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFh4pmd72gAHF246fi0R68JBoBDkZIZUUVsfiOXSk5wXvTzJXc0w=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "The restaurant is well appointed. I can only comment on the food that I had which was a veal steak. It was overcooked and tough for veal. The mushrooms were definitely from a can. The service was polite but curt. Overall, I might go back at some point to try some other dish.",
+            "time": 1726000016,
+            "translated": false
+        },
+        {
+            "author_name": "Marijana Kandic",
+            "author_url": "https://www.google.com/maps/contrib/102149664103534034755/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVutkgyBwQnD5-HgDjnmsi2YSdMYV4IvteTl2LStPH05Qt-qw_oHQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "If you love salmon paired with potatoes and spinach, this is the place to go to when in Sarajevo. Perfectly seasoned grilled salmon stake with amazingly cooked spinach and potatoes along a glass of white wine makes a lovely lunch or dinner. 😍 Love it!",
+            "time": 1728112477,
+            "translated": false
+        },
+        {
+            "author_name": "Rua",
+            "author_url": "https://www.google.com/maps/contrib/105441489231726803340/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu6nF3T3Q1P03puKS_wFCVcOTw41Ofsw4tboErGseZDS0d9hfIJA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Don't ever speak bad about that steak.",
+            "time": 1730306736,
+            "translated": false
+        }
+    ]
+}

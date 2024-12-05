@@ -1,0 +1,66 @@
+{
+    "name": "Nordic Light Hotel",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Tim Fountain",
+            "author_url": "https://www.google.com/maps/contrib/109423545153534446765/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI09HMRCnwnRmQOnsZxCUYuuOGug9RysSvzNTbUl8XRxpwfQg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Stayed for 3 nights and loved it. Location is fantastic, super close to train station, easy walk to get on express train to/from airport. Upgraded to a Corner Deluxe Room based on small rooms comments and it was well worth it. Room was huge with tons of windows. Breakfast was amazing each morning and bar area was nice in the evening. Highly recommend this hotel.",
+            "time": 1725902093,
+            "translated": false
+        },
+        {
+            "author_name": "Abbie Garness",
+            "author_url": "https://www.google.com/maps/contrib/107493246875001143351/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtlm9jpTYblnO9KoWdqD6fdDNhGXhbQWnEtT_ExcZKZ29cpg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We stayed at the Nordic Light hotel for 3 nights and it was amazing, especially for a first time visit to Stockholm!\n\nIt’s a very easy walk from the train station, only about a block away, making it super easy to find once you get off the Arlanda Express train (if you’re coming from the airport) and very convenient to get around the city.\n\nThe rooms were clean and spacious, even having quite a bit of clothing storage space (both hanging and folded), so it was easy to feel comfortable and unpack. the beds are comfortable and so is the pull out couch.\n\nOne tip, if you require total darkness when you sleep to bring an eye mask- depending on what time of year you’re planning to visit, as it doesn’t fully get dark at night in summer/ early autumn. (Obviously this is not the hotel’s fault, but something to note when visiting any of the Nordic countries!)\n\nThe breakfast is very good, with lots of different options to choose from. The dining area is clean, trendy, and modern, and a great way to begin each day.\n\nThe staff are also amazing, very friendly and super helpful. We were greeted immediately when we walked in, and were given recommendations for things to do, places to eat, and where to find the best views of Stockholm.\n\nI highly recommend this hotel!",
+            "time": 1727179152,
+            "translated": false
+        },
+        {
+            "author_name": "Helge Sølvberg",
+            "author_url": "https://www.google.com/maps/contrib/101902577753020266648/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEaFpOoc-3CuDJQVrIT41XPLORn9_hI1j_a3CeOtlZcc809cwn=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Cool design and nice rooms. Friendly and helpful staff. Right be the train station and airport express train. Fantastic breakfast; omelets and other variants of eggs, juices, ginger shots, smoothies and other healthy stuff + pan cakes, croissants and sweet stuff for your coffee...",
+            "time": 1729359098,
+            "translated": false
+        },
+        {
+            "author_name": "Jessica Kos Birney",
+            "author_url": "https://www.google.com/maps/contrib/115815398600771399350/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHNTyhPKYQab0MKLcURY7T-bor-ADv7YrrvssElhMT6zvcX9xm1g=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Staff has been incredible and the room is designed very nicely to hold 4 people, all our luggage, and still feel organized and like we have space. My daughter might have fallen over when she saw her first bathtub in over a month - and then promptly jumped in.\n\nThe breakfast is absolutely incredible and hosts a variety of options for everyone. We are thrilled we have several more days to enjoy.\n\nFront desk staff was also very supportive of our helping us find our way. Thank you!",
+            "time": 1724757291,
+            "translated": false
+        },
+        {
+            "author_name": "Gram Weaver",
+            "author_url": "https://www.google.com/maps/contrib/116010601667857987343/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjBT3q2JDb08SqfxlVQZJ2f_RfbDwpFheUz5BQPxnS4q20Yymv=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lovely hotel with a lovely team of staff: everyone we spoke to was friendly and helpful. The hotel is beautifully designed in both the rooms and the common areas. Location is perfect: we came off the Arlanda Express - the shuttle train from the airport - walked a few yards out of the station, took our phones out to find the hotel and realised we were standing right in front of it! Would definitely stay again.",
+            "time": 1730415209,
+            "translated": false
+        }
+    ]
+}

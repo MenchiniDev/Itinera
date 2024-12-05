@@ -1,0 +1,1065 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.8968634,
+                "lng": 14.5050961
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.89831243029149,
+                    "lng": 14.5066237302915
+                },
+                "southwest": {
+                    "lat": 35.89561446970849,
+                    "lng": 14.5039257697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel Excelsior Malta",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2699,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104062798243567517417\">Grand Hotel Excelsior Malta</a>"
+                ],
+                "photo_reference": "AdDdOWqsmslrPrP8yL87iMrKm9Zz6m2VX4d_vjJuj5Et3gfZp46y3aLz9FZjIki28SzvsqHmQ6sRv9BKCyVjpjNVSNYR03hqKSLxlsj-8DfkEk2tgicUz56RmOd5d5r7M_wNQlcfFOp_sNIfnm2yIVgZ6SkmhmN9Ey9dgIgM-ywGkLwudcwM",
+                "width": 4048
+            }
+        ],
+        "place_id": "ChIJK2Ig5zJFDhMRznJIaTUa2Sw",
+        "plus_code": {
+            "compound_code": "VGW4+P2 Floriana, Malta",
+            "global_code": "8F7PVGW4+P2"
+        },
+        "rating": 4.4,
+        "reference": "ChIJK2Ig5zJFDhMRznJIaTUa2Sw",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3988,
+        "vicinity": "Great Siege Road, Floriana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9194994,
+                "lng": 14.4944775
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.9209053802915,
+                    "lng": 14.4958118302915
+                },
+                "southwest": {
+                    "lat": 35.9182074197085,
+                    "lng": 14.4931138697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Cavalieri Art Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117270220604982439859\">David Němec</a>"
+                ],
+                "photo_reference": "AdDdOWoSP20PTq-yJTZx0HCJcr490t1vWkUL7nDNuk2HnPONuBASmtwatYf2DVVoB31x3i-uxFey3dVH-36-4rkN5xcZFZzzOpHhczHiYp67troju6u-BcijrNAIrFUKflyBcvUfjisEeFu0DEbw15wfWNqxcOo4PaXTanZHz0VnC3dcCMrJ",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJpW-1vGpFDhMRhit5LS8WWUE",
+        "plus_code": {
+            "compound_code": "WF9V+QQ St. Julian's, Malta",
+            "global_code": "8F7PWF9V+QQ"
+        },
+        "rating": 3.9,
+        "reference": "ChIJpW-1vGpFDhMRhit5LS8WWUE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2980,
+        "vicinity": "Spinola Road, San Ġiljan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9298791,
+                "lng": 14.4905066
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.93118278029149,
+                    "lng": 14.4916655802915
+                },
+                "southwest": {
+                    "lat": 35.92848481970849,
+                    "lng": 14.4889676197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu",
+        "photos": [
+            {
+                "height": 576,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101524611639971688485\">Radisson Blu Resort, Malta St. Julian&#39;s</a>"
+                ],
+                "photo_reference": "AdDdOWp2zEJTecz_ayMkIueOsvVQdbHKmE3oe3jXBnrU1tGXIA2e_6NRBQOUYgcTH-E4Fn35JQdDSMSmBYR6mwaJD4KCXRgyIZY9b2nhSmG9uw5V2RJp5ESEcczXCDRH4HMUWyDIS52FVmPiTgJGBVniynaxZFfbKfh_YcaQ40goYpFCwBUK",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJIQiqC3JFDhMRRPewNksM8lk",
+        "plus_code": {
+            "compound_code": "WFHR+X6 St. Julian's, Malta",
+            "global_code": "8F7PWFHR+X6"
+        },
+        "rating": 4.6,
+        "reference": "ChIJIQiqC3JFDhMRRPewNksM8lk",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4281,
+        "vicinity": "St. George's Bay, St. Julian's"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.907579,
+                "lng": 14.498767
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.9088915302915,
+                    "lng": 14.5001503302915
+                },
+                "southwest": {
+                    "lat": 35.9061935697085,
+                    "lng": 14.4974523697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Waterfront Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 567,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107638799870609036062\">The Waterfront Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWoJhOMTAT7Uk0HZ1ct0TH3xJh_DL_GFNO-qdlwtNLAe4JbXCtp5siiZ_5IV_Zo6jir6rcR0OTvgWyc4gxxQVenkxp5P6trNHEVDMGNnRlAiw7UFppWSL37ekHSGFqcA_3AOLmmkDOyKHAQKCAsYxJ5qofCmKJtuU05LLXcqFQmdXYDm",
+                "width": 850
+            }
+        ],
+        "place_id": "ChIJiTyDyDdFDhMRAbEB3Tno2tU",
+        "plus_code": {
+            "compound_code": "WF5X+2G Sliema, Malta",
+            "global_code": "8F7PWF5X+2G"
+        },
+        "rating": 4.3,
+        "reference": "ChIJiTyDyDdFDhMRAbEB3Tno2tU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2231,
+        "vicinity": "Triq Ix - Xatt, Tas-Sliema"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9070879,
+                "lng": 14.4982297
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.9084362302915,
+                    "lng": 14.4995796802915
+                },
+                "southwest": {
+                    "lat": 35.9057382697085,
+                    "lng": 14.4968817197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Kennedy Nova",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 798,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113602329621125744427\">Hotel Kennedy Nova</a>"
+                ],
+                "photo_reference": "AdDdOWoyhu-hx24SYsmqKsdIkncCx9aEx1MHa0KJ79fr2jfQer_9tmJqT5MdbKQn8iTomJSANxtdN-1tLl17P1L5wy1mq4F0X3hR__LtWOCQRUjk7c2Zddic8pYFVaKfm57-z3JzNynIVqiTtxB4Se47BCqb5Q3k1w0dddM_jN6xGwm_PgLh",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ0Sz2gzdFDhMR9XZPHT4JEA8",
+        "plus_code": {
+            "compound_code": "WF4X+R7 Gżira, Malta",
+            "global_code": "8F7PWF4X+R7"
+        },
+        "rating": 2.9,
+        "reference": "ChIJ0Sz2gzdFDhMR9XZPHT4JEA8",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 804,
+        "vicinity": "116 Triq Ix - Xatt, Il-Gżira"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.912619,
+                "lng": 14.5026689
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.9140145802915,
+                    "lng": 14.5039582802915
+                },
+                "southwest": {
+                    "lat": 35.9113166197085,
+                    "lng": 14.5012603197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "AX The Victoria Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102967802359624865644\">AX The Victoria Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWoLLyGuvSRovtfNGA6OATH2di_ZELV9fR92uEDLzvUD3Lxr7q7erti1qWLXumL0KJOLlmOVUA9kj1hnxE1a97dc37r9BkzEm_EDVcGhO1Bd-nActwDDp8Uoi6tXc2lTb00eL06wX_a2IHdX5PEMJ3o3NdG2MiBI7c2F2nNYDJjaVShz",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJKUdMCjxFDhMRcwDlAzZk5H0",
+        "plus_code": {
+            "compound_code": "WG73+23 Sliema, Malta",
+            "global_code": "8F7PWG73+23"
+        },
+        "rating": 4.5,
+        "reference": "ChIJKUdMCjxFDhMRcwDlAzZk5H0",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "spa",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1808,
+        "vicinity": "Gorg Borg Olivier Street Sliema"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9122695,
+                "lng": 14.5037161
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.9135542302915,
+                    "lng": 14.5049265802915
+                },
+                "southwest": {
+                    "lat": 35.9108562697085,
+                    "lng": 14.50222861970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "AX The Palace Malta",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115576991379285393664\">AX The Palace Malta</a>"
+                ],
+                "photo_reference": "AdDdOWorRP4aqvm28JAnyYUuUesuBm9b2uK_6OPGU0OOMFs5ZHnKB2K751RFYYiAptF6IU6ewxjgQF-k_NjAZYtRUkVVcxBT9olYEp4lrCxU_-gP2eXJEHThO7gdICTEk65Z_yqQKpywyogNS-NkN4AEk1rrC3UTbiraJ6VSRnpaBZP2UTkl",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJVcUwiDtFDhMRIf5EUL79ZPs",
+        "plus_code": {
+            "compound_code": "WG63+WF Sliema, Malta",
+            "global_code": "8F7PWG63+WF"
+        },
+        "rating": 4.5,
+        "reference": "ChIJVcUwiDtFDhMRIf5EUL79ZPs",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "cafe",
+            "spa",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2598,
+        "vicinity": "Triq Il - Kbira, Tas-Sliema"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.8970795,
+                "lng": 14.5127745
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.8984418302915,
+                    "lng": 14.5140263802915
+                },
+                "southwest": {
+                    "lat": 35.8957438697085,
+                    "lng": 14.5113284197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Luciano",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101988100246191689261\">Jim Sylvester</a>"
+                ],
+                "photo_reference": "AdDdOWqgr4H8_tT2YJhi9WvmNF0G5qchlzxJ3I_Fb0Berri2hVNpIJ63LdcZWSk0qxLdcxUMvfWkw5Y66VicIT1uUorTIcEGPn8aeeCYWa-uN9g3VSIZt114bOaz_GTq8qDKcvM6i8cyJ6N2blSUm1MOu_5vzHnc0T1S3XRgs8CE5WYAcG0m",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJGz9rmyxFDhMRtS1kp033sWw",
+        "plus_code": {
+            "compound_code": "VGW7+R4 Valletta, Malta",
+            "global_code": "8F7PVGW7+R4"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJGz9rmyxFDhMRtS1kp033sWw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1859,
+        "vicinity": "21 Merchants Street, Valletta"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 35.92076759999999,
+                "lng": 14.4901958
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.9221522802915,
+                    "lng": 14.4915320802915
+                },
+                "southwest": {
+                    "lat": 35.9194543197085,
+                    "lng": 14.4888341197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Spinola Hotel",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115792864194951511792\">Olivera</a>"
+                ],
+                "photo_reference": "AdDdOWpOC-VEc3e-j1YLzEl8xUWHqOAiTf0WW8gtdXlEUXRlLYYUhFyn121UN-qkaqSqtCReEyy9iQPJaOP55eXFCEZu2zBSy1D1CVSZN3WSuZKdZKR7LG92WGBYT_F9JVl5AoA3UJ_nRg_CliPU9f0dGbCszUrgtJErbkovX65sD8qqDphY",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJKXNiIWpFDhMR_gtOzH2g_Vc",
+        "plus_code": {
+            "compound_code": "WFCR+83 St. Julian's, Malta",
+            "global_code": "8F7PWFCR+83"
+        },
+        "rating": 3.7,
+        "reference": "ChIJKXNiIWpFDhMR_gtOzH2g_Vc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 240,
+        "vicinity": "Qaliet, San Ġiljan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.90677769999999,
+                "lng": 14.5086842
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.90818823029149,
+                    "lng": 14.5100505802915
+                },
+                "southwest": {
+                    "lat": 35.90549026970849,
+                    "lng": 14.5073526197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Guadalupe boat bar & bistro'",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101525962451219473094\">Michelle Huang</a>"
+                ],
+                "photo_reference": "AdDdOWoNoZb7QvyCc6mshbsaI0DGvPnmjJyTpwhpEz4plTLLycaa-aVC1T94-jf17Vtpx6hG5agIrHIIt1O9Npx8YXpQi25LNzGXbWhpxhW39cd9Jn6tJbUvWoZQ2DQuest8Y353QzzfgpH3t6ckzA4qvZyziKjp8ytVAaQu7p7Um5dfZDg4",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ0XxE1tBFDhMRDDmKbU7ISHE",
+        "plus_code": {
+            "compound_code": "WG45+PF Sliema, Malta",
+            "global_code": "8F7PWG45+PF"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ0XxE1tBFDhMRDDmKbU7ISHE",
+        "scope": "GOOGLE",
+        "types": [
+            "travel_agency",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 255,
+        "vicinity": "Tigne Seafront, Pier 108 Sliema SLM"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9181831,
+                "lng": 14.4984211
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.9194441802915,
+                    "lng": 14.4998328302915
+                },
+                "southwest": {
+                    "lat": 35.9167462197085,
+                    "lng": 14.4971348697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Exiles Beach Club",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111686504112641925096\">The Exiles Panorama Lounge</a>"
+                ],
+                "photo_reference": "AdDdOWo4QmOOB3hBoHrlP_5B_vuzsC2u1ttJ8-4UMG0-S3WTRoREdJua2NsvDjqiEvAq_e2AgNOKYtwHEZ6Jq3yPVZCkmv9Rz4rHaSK4vKQqHKWLb0mohn34g_KcvXRYIJSXxAVcGBzHfJE-nsmAyVzQx04p92ouD_SVXJQpiiNPoD_YHnb-",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJjx31gBVFDhMR-wc9nd9NcIE",
+        "plus_code": {
+            "compound_code": "WF9X+79 Sliema, Malta",
+            "global_code": "8F7PWF9X+79"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJjx31gBVFDhMR-wc9nd9NcIE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "night_club",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 685,
+        "vicinity": "Tower Road Sliema"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.8902067,
+                "lng": 14.5079911
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.8909834802915,
+                    "lng": 14.5089344802915
+                },
+                "southwest": {
+                    "lat": 35.8882855197085,
+                    "lng": 14.5062365197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Hard Rock Cafe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105400916957285232582\">Hard Rock Cafe</a>"
+                ],
+                "photo_reference": "AdDdOWpDqZc9Z6Qpq15Q1pXlaNNR0Y65vd0vrnmN8czZOihTtHPpUjGOEQoQUJm7ybBIyOz5rf5INg2MvD3FjCK3oCtaVZyTU2bBgc1ZXkEPXU9DwCN3GZQRiICVNv86aGOpBYTpP1lfg1LHs1IZ88859Xv_jtsGYnnPM0XuDHjELV89m1YT",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJSe_KnStFDhMRg8GP9rH9FQw",
+        "plus_code": {
+            "compound_code": "VGR5+35 Floriana, Malta",
+            "global_code": "8F7PVGR5+35"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJSe_KnStFDhMRg8GP9rH9FQw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4155,
+        "vicinity": "Pinto Wharf, Vault 17 Valletta Waterfront, Il-Furjana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9233584,
+                "lng": 14.4892771
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.92475668029149,
+                    "lng": 14.4905883302915
+                },
+                "southwest": {
+                    "lat": 35.9220587197085,
+                    "lng": 14.4878903697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Tex Mex American Bar & Grill",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1042,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109665693881015024005\">Tex Mex American Bar &amp; Grill</a>"
+                ],
+                "photo_reference": "AdDdOWpSU1ONxy6MKGUl3bfXHXkL_4h3TTqwt_6HSBTfUuBv7w3z_JKucWmTTcqx848gyIm5VfQynh5ePR4stsAfhFu9tAGQpyMwBGHl4Wlh4XXZ32ZNW16Ow8eMkcqgmtetallbI2d0ovxE4V8XeCGjgxnu1bpA9UvqbdIskM2O7vJVu41H",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJZUVs0DxFDhMRmLQ71Ntxteo",
+        "plus_code": {
+            "compound_code": "WFFQ+8P St. Julian's, Malta",
+            "global_code": "8F7PWFFQ+8P"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJZUVs0DxFDhMRmLQ71Ntxteo",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1776,
+        "vicinity": "Triq Elija Zammit, San Ġiljan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.924941,
+                "lng": 14.493052
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.9263182302915,
+                    "lng": 14.4943714802915
+                },
+                "southwest": {
+                    "lat": 35.9236202697085,
+                    "lng": 14.4916735197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Quadro",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2670,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101720815879604955848\">Quadro</a>"
+                ],
+                "photo_reference": "AdDdOWrvclREn00s0KmnW9a8gObvNK2vxVbFUddk-yIMI_363Y_ezW8rcKUWhO7knjthuedJT4q6MjQ0ER0Lis2tezb8sIbBVagd0ABqa6ZjE_SC7gg0TABJzTElk_AraqCUqPakkj-yvvDxiR_CFueLrsiNb50MtvbBbAYRzwgyxrXtopQn",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ_aX0Z2xFDhMR3cqPDVMM7qE",
+        "plus_code": {
+            "compound_code": "WFFV+X6 St. Julian's, Malta",
+            "global_code": "8F7PWFFV+X6"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ_aX0Z2xFDhMR3cqPDVMM7qE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 134,
+        "vicinity": "Westin Dragonara Resort San Ġiljan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.92163970000001,
+                "lng": 14.4908798
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.92298523029149,
+                    "lng": 14.4922596302915
+                },
+                "southwest": {
+                    "lat": 35.9202872697085,
+                    "lng": 14.4895616697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Okurama Japanese Cuisine",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117470466921279044827\">Okurama Japanese Cuisine</a>"
+                ],
+                "photo_reference": "AdDdOWp-aYZbDjQfEt8Rb5nsIo3BNJBSSHAlqhln7gUcJMjThvNgVmho5BeAL6vZen-L9L7G9B3TjCzTGBqXKGG7TIspz0MP_CkLG43wr2mx8wg8spn4cdkh-gtfuUqyepHH4jg1fY88MhBkTISfHjBQ7w4s3aJeXItC_0X9Ut-2X_C0GlSw",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJ8xqBM2pFDhMRQ1-RHIcS4Kw",
+        "plus_code": {
+            "compound_code": "WFCR+M9 St. Julian's, Malta",
+            "global_code": "8F7PWFCR+M9"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ8xqBM2pFDhMRQ1-RHIcS4Kw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1197,
+        "vicinity": "9 Triq Paceville, San Ġiljan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9228854,
+                "lng": 14.4883674
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.92426813029149,
+                    "lng": 14.4896832802915
+                },
+                "southwest": {
+                    "lat": 35.9215701697085,
+                    "lng": 14.4869853197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Emperor of India",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1816,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108483903333855625175\">Mulreay</a>"
+                ],
+                "photo_reference": "AdDdOWrWTjfPzzRVxsjL8uspvD2f0hyYRyZ9KLmI_bLFgi3RSGWmg3pWhMyW7QqH3JzNqco7IlrLGL66Z7cIv9EVunx4pIRRwZm8YypVSI7-M7QiAXv3jbghcpiz_wJw6T3WcTqmeuHMth9jue1kTaJ4q9Alu1I5BWEEGMPjFWNCHyE4O-cC",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJxZfREmlFDhMREBxez7ScACw",
+        "plus_code": {
+            "compound_code": "WFFQ+58 St. Julian's, Malta",
+            "global_code": "8F7PWFFQ+58"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJxZfREmlFDhMREBxez7ScACw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1140,
+        "vicinity": "Elia Zammit Steet, Paceville / St Julians"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.896656,
+                "lng": 14.509325
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.8980760302915,
+                    "lng": 14.5106793802915
+                },
+                "southwest": {
+                    "lat": 35.8953780697085,
+                    "lng": 14.5079814197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Burger King Valletta",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103561113693346098631\">Augustinas R.</a>"
+                ],
+                "photo_reference": "AdDdOWrx_oVXixfVTSuaqKCdmi70r2qoxWBf1CPP0ew7VnDOI6E3SqswsxgAbythgj4Ockz7Bb_uLwQU6Km8po2lbJKKA3t0l-tQcPVaf88xatRmdsX16hmM93NZ4xABxfym9oMchJvguMUfsfltRgPP9QGYcRFePyLgsqiOEk1MLUYG38hX",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJiaq8JC1FDhMRpcy5gpt3U7o",
+        "plus_code": {
+            "compound_code": "VGW5+MP Valletta, Malta",
+            "global_code": "8F7PVGW5+MP"
+        },
+        "rating": 3.8,
+        "reference": "ChIJiaq8JC1FDhMRpcy5gpt3U7o",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2055,
+        "vicinity": "Republic Street, Valletta"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9111139,
+                "lng": 14.48751
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.91251718029149,
+                    "lng": 14.4888523802915
+                },
+                "southwest": {
+                    "lat": 35.9098192197085,
+                    "lng": 14.4861544197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Oven",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103765268484716462303\">Alex - iMap360</a>"
+                ],
+                "photo_reference": "AdDdOWp--9aBFouHqRsys0G75703yEsX-6HDi5tTE5hWbKOIoQQ70sdQOiSuxblwSFCC_HLyfnbcvXe1uzMyXdaK23xzaZWlHiTz3-q-otIPXgqa5H4rD0N4AcMOlkU8V8iRF4i-b_dTvoL__fse-_0RKHbBRbTAVaIwwmYKmoph-UaRc4zI",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJC97irkVFDhMRknebAwOfVAE",
+        "plus_code": {
+            "compound_code": "WF6Q+C2 St. Julian's, Malta",
+            "global_code": "8F7PWF6Q+C2"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJC97irkVFDhMRknebAwOfVAE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 366,
+        "vicinity": "73 Triq Birkirkara, San Ġiljan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.8895208,
+                "lng": 14.5074131
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.8909988302915,
+                    "lng": 14.5087977302915
+                },
+                "southwest": {
+                    "lat": 35.8883008697085,
+                    "lng": 14.5060997697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bistro 516",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1105,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114543570952206513063\">Bistro 516</a>"
+                ],
+                "photo_reference": "AdDdOWpoHLaTjbRZbiJtbqyzWKE-T9Tf-3gydHLDLFCHOZxgvpvkyHEjHNk1POmCxl9w_mOU37TqLHiL2XyTU7MmvnJ7IfP8Q1nYNvB3gx6sMIjxMfQTH4XgNTDsVSDrJMf580wNFeJdkYG_7Gk71-tPSFC9imNlr4WmDdKEvKO5DfdLZ-1u",
+                "width": 1962
+            }
+        ],
+        "place_id": "ChIJb7atAdJaDhMRwAb9rgOTaKE",
+        "plus_code": {
+            "compound_code": "VGQ4+RX Floriana, Malta",
+            "global_code": "8F7PVGQ4+RX"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJb7atAdJaDhMRwAb9rgOTaKE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 898,
+        "vicinity": "Valletta Waterfront, Floriana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 35.9142318,
+                "lng": 14.4935991
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 35.91553983029149,
+                    "lng": 14.4949694302915
+                },
+                "southwest": {
+                    "lat": 35.91284186970849,
+                    "lng": 14.4922714697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "U Bistrot",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5472,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116838220812188829862\">U Bistrot</a>"
+                ],
+                "photo_reference": "AdDdOWqwayK-8qzeBuUY1mkPmyt9b__wUeiLlX72_synl-JPJtDbd7b7Bcs7zsDF0zbB4ngXx8x-3HZPS_Tt8FLMsRW6F1G5Mkk9R381yxRKRsOtdMQTcuPxiKp23QTvp6j5GBQzUPeT-wv8jleit2NR-PbRhdz5RkciCqHbJa7vnO1FHzLr",
+                "width": 3648
+            }
+        ],
+        "place_id": "ChIJT1dDw0BFDhMRPkiM-i6KfWw",
+        "plus_code": {
+            "compound_code": "WF7V+MC St. Julian's, Malta",
+            "global_code": "8F7PWF7V+MC"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJT1dDw0BFDhMRPkiM-i6KfWw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1480,
+        "vicinity": "George Borg Olivier Street, St. Julian's"
+    }
+]

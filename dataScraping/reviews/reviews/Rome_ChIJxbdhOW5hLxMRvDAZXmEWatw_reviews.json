@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Silva",
+    "rating": 3.5,
+    "reviews": [
+        {
+            "author_name": "Cristiana Oprișescu",
+            "author_url": "https://www.google.com/maps/contrib/102484804216236793237/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJcXJ6dZbCSyi5jrY2Wro8HiWIScupY2ny95cjyQynxZB6t7Rg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "We appreciated a lot the location and the people working at the hotel. If you want to have a quiet place to stay and sleep, this is the place. It is close to the metro (7 min walking) and to a bus station (4 min walking). The owner is a very kind person, always there when you need anything as a guest. The receptionists are also very kind people. It was a very good hotel for us.",
+            "time": 1696140806,
+            "translated": false
+        },
+        {
+            "author_name": "Brianca Jay (booktalkw/briancajay)",
+            "author_url": "https://www.google.com/maps/contrib/106958992628395257784/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBpBNVVnT0bZTDL3h9w5rX1uNA3qaJg_wcPX_YXIuFAvE8q40_=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "This is a beautiful little bed and breakfast with a wonderful garden to enjoy. You are conveniently located 7 minutes from the Bologna station (walking),where you can find many shops and restaurants to enjoy. The hotel staff is very accommodating, which is by far the best part. Unlike the distance of American culture and those big chain hotels, the staff here welcome you as family throughout your stay, they are very attentive and eager to help you.\nThe rooms are clean and comfortable and the wifi is excellent if you work while you travel. I will stay many times in the future.",
+            "time": 1626252102,
+            "translated": false
+        },
+        {
+            "author_name": "Si Sc",
+            "author_url": "https://www.google.com/maps/contrib/112534107144534826105/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULEDEHxcSA52wux_UzMYHjZeoCYNEvKDXllF9A4J5tzl7JNyWIYQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "We loved it. We're given room 201 and was amazing value for money very clean with a nice modern bathroom and everything you need for a comfy stay. Staff were so nice and pleasant. Place was very clean and tidy at all times.\nClose to bologna metro 5 minute walk where you can grab a nice coffee or food with the local people who are also very friendly. Some nice place around and if you don't mind a walk you can visit some interesting sites off the touristy track and away from the street sellers and annoying aspects of Rome.\nI don't understand what people expect for the price it's not a Marriott or Hilton and doesn't pretend it is. Everywhere is in easy reach if your willing to use public transport. It's a lovely honest and welcoming place and we will return next year.\nThank you for having us and good job 👍👌👍👌",
+            "time": 1530808905,
+            "translated": false
+        },
+        {
+            "author_name": "Cassie Westfall Eakins",
+            "author_url": "https://www.google.com/maps/contrib/104754591356627164048/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdTWMbzT_FKkhbelEqnBwY5OBzrP1HU1BYIfMKJVsh2fzLbFQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "7 years ago",
+            "text": "We were re-booked here after our original hotel couldn't take us in. Overall, it seems like an okay hotel, but you lose a few things because of what I assume is a cheap price. The location isn't great, you have to walk ~10 minutes to the metro and then ride about 5-10 minutes to get anywhere, or walk ~5 minutes to the nearest bus stop and hope the bus shows up.\n\nThe room was large and relatively clean, there was a queen bed and a single twin that we did not use. I realized about a day into our stay that the twin bed smelled of urine and everything I had put on it took on that smell, which was pretty disgusting.\n\nThe service was good, the people at the front desk were very helpful and kind. Breakfast was okay, stale croissants and breakfast cake. The hotel was, in general, very quiet and we slept pretty well because of that.\n\nThough we expected wifi given the posted wifi passwords around the hotel, we had absolutely no wifi signal in our room.",
+            "time": 1506107591,
+            "translated": false
+        },
+        {
+            "author_name": "Jean-Philippe Pelletier",
+            "author_url": "https://www.google.com/maps/contrib/118423850925703072836/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJySn2-vPXQ9UFcLgZSOIpuJESN4WOCkaA_mMy4AAPDippQNes=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "6 years ago",
+            "text": "Me and my girlfriend booked there on our backpack trip! we had previoussly stayed at ''Hotel Ossimar'' for 2 nights and wanted to stay for an other one but everything was booked. We then booked at ''Hotel Silva'' for a night.... a nightmare!\n\nAfter a good day of visit we came back to the hotel and got our room! I think the room was on the 4th floor (or something like that). it had no windows except a little one in the roof that needed to be open with a non-working motor (we wouldn't have complained still). In that room, i soon found out that there was a colonny of ants in the bathroom (at least 1000 of them came out from under the shower)! They said that i was a lying because the cleaning was made in the morning and no body noticed that issue. I showed them a video in order to prove my point and having an other room was a trouble. They didn't give me any discouts or some arrangements!\n\nit might be cheap but my dog sleeps in better conditions than that room was!",
+            "time": 1516299329,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Grand Hotel Oriente",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "M E",
+            "author_url": "https://www.google.com/maps/contrib/114443538670770557709/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkk7T4TTMMt_LTr44wbrCWu5M3_71Kx_UJdoDNwy8BXAO7z6Yc=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I recently stayed at this hotel for three nights, and it was an overall delightful experience. The location is perfect—just a short walk from the city center, making it easy to explore the nearby attractions and enjoy a variety of dining options. The hotel itself has a wonderful historic charm, with beautiful architecture and decor that transports you back in time.\n\nThe staff were exceptionally friendly and went out of their way to ensure we had a comfortable stay. The room was spacious, impeccably clean, and was tidied up every day, which we really appreciated after a long day of sightseeing. The breakfast spread was impressive, offering a wide range of delicious options that catered to different tastes.\n\nIf I had to point out one area for improvement, it would be the elevator, which felt a bit dated and could use some modernization. However, this was a minor inconvenience and didn't detract from the overall experience.\n\nAll in all, this hotel is a hidden gem in the heart of the city, and I would highly recommend it to anyone looking for a blend of comfort, history, and convenience.",
+            "time": 1725179437,
+            "translated": false
+        },
+        {
+            "author_name": "Christopher O'Neill",
+            "author_url": "https://www.google.com/maps/contrib/105185306476175875729/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5nt-JJCyWdSCFDyDQiyPGHbtfzBWHQd76HjhHnWvwx_W4oA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "It was a pleasure to stay at Grand Hotel Oriente. From the time we checked in until check out we had nothing but a positive experience. Every member of the staff was very friendly and accommodating. Our room and the entire hotel was immaculately maintained. In addition, the restaurant and roof top bar serve excellent food and drinks all while enjoying beautiful views of Naples. Would definitely recommend this hotel to anyone.",
+            "time": 1730024706,
+            "translated": false
+        },
+        {
+            "author_name": "matt dougall",
+            "author_url": "https://www.google.com/maps/contrib/115915752710266126291/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIxTvG214oSmcRjvnM3GJd5pZ_JpJ9-3sD7KYE1nt3aetONA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We loved our stay at this hotel. Our suite was beautiful and included a nice balcony that looked onto a side street. These were luxury accommodations that did not disappoint. Location of the hotel is perfect for getting around Napoli. We received excellent service from the front desk staff - especially Ruben and Flavia who gave us excellent directions and great recommendations for site and restaurants. Additionally, we arrived at 10 am and we got into our room right away - there was no delay. We couldn't be happier with our stay.",
+            "time": 1729981126,
+            "translated": false
+        },
+        {
+            "author_name": "Liran Funaro",
+            "author_url": "https://www.google.com/maps/contrib/108455864291920667031/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgFmQ7MV3wlUMUbNnTiD2D5o_dq9hpfzyCYDIT5EG599HoC5go2g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Great location right near via Toledo. The beds were comfortable, and the breakfast was nice and good.\nWe had dinner in the hotel restaurant and it was very good.\n\nThe hotel was clean overall, but found dust on the floor. There were stains on some of the furnitures.",
+            "time": 1728983914,
+            "translated": false
+        },
+        {
+            "author_name": "Pam McKenna",
+            "author_url": "https://www.google.com/maps/contrib/116095211558317801052/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6XJt8MfAkb6Mc4lQ4PD2oazfKYf6K3WcD5eSR7GwrLKDc_g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "A wonderful place to stay.  If you have a chance to meet Anna and Paola at the bar, they were very accommodating and helpful.  Great people, great personalities and represented the hotel and Napoli well.  The location of the hotel made it easy to walk to anywhere  we wanted to go to.  The rest of the staff was also very helpful and friendly.",
+            "time": 1725892833,
+            "translated": false
+        }
+    ]
+}

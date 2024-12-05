@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Forum",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Ma Ki",
+            "author_url": "https://www.google.com/maps/contrib/114021681133247194860/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9k_XrXGUzjShLY5Tnw1NAsjXtAlM7tKKYujeETWshzkP_HQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "3 weeks ago",
+            "text": "Room okay- ish. Nothing modern or new. Bed /pillow awful for me, too soft I couldn't sleep at all.\nThe bathroom shower didn't work as it should. No workable tv. Good wi-fi.\nVery nice location.\nExcellent front desk / reception staff.\nI stayed longer than expected, so they tried to accommodate my extension.\nPolite hotel staff.",
+            "time": 1731214036,
+            "translated": false
+        },
+        {
+            "author_name": "Garry Garside",
+            "author_url": "https://www.google.com/maps/contrib/103570964321188602299/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBTxNI_SS2QsSDSwgENCJTkykxK3PW-AeweKtYEcSba8xHR3pq=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "What a great friendly relatively central hotel. The food was perfectly prepared and presented along with being very tasty.\nI can't praise individual staff members as each and everyone was extremely helpful and polite. Nothing seemed to much trouble for them.\nI am coming back in January 2025 and look forward to staying here afain",
+            "time": 1725776916,
+            "translated": false
+        },
+        {
+            "author_name": "funda inal",
+            "author_url": "https://www.google.com/maps/contrib/114078645062609454424/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNEwk869NeveUQ-Z0e1oMuRkBBXwoyPMT6NkQ_SW4ZCi0LAf0=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "It was a clean hotel, a variety of products were served for breakfast. The staff can’t speak English well but the communication worked through gestures, they were helpful.\n\nThe hotel is not in the city center however it is easy with the subway and it is next to the Billa grocery store which was really nice.",
+            "time": 1722784790,
+            "translated": false
+        },
+        {
+            "author_name": "No No",
+            "author_url": "https://www.google.com/maps/contrib/103067158813132297038/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQVhyqa6sV7SwVavWWFO66eXYUoxp2pNIq3OqYu-fo9Iw50A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "A little bit old fashioned rooms, but clean. Good service and restaurant. Great and rich breakfast. Near tram line and supermarket.",
+            "time": 1725208671,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Dekalo",
+            "author_url": "https://www.google.com/maps/contrib/115507590311758767054/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDtTN6WTFaP3qQ_TsinepTdVRzr4gtvhV828vxnE5OejlRV8BWSA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "Hotel with a balcony overlooking the mountains. The renovation is a bit old, but you can live.There are breakfasts. But even in the evening there are no dishes or stove for cooking. About breakfasts. There are boiled eggs, scrambled eggs, and fried eggs. There are cereals, several types of sausage, and hard cheeses. There are also sweets such as cookies, cakes, and donuts. And of course there are tea and coffee.",
+            "time": 1714892807,
+            "translated": false
+        }
+    ]
+}

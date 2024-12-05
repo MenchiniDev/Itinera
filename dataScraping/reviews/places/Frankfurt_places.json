@@ -1,0 +1,1059 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1102913,
+                "lng": 8.6760504
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1117165302915,
+                    "lng": 8.6774682302915
+                },
+                "southwest": {
+                    "lat": 50.1090185697085,
+                    "lng": 8.674770269708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Steigenberger Frankfurter Hof",
+        "photos": [
+            {
+                "height": 683,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115127519786039073717\">Steigenberger Icon Frankfurter Hof</a>"
+                ],
+                "photo_reference": "AdDdOWpaLYNuhpaMShm3c8Lp-1mIjay4dYJhg-id93d0yWslIAWpUJKe6k-FbnTTxXYGHJ6wLGcoYAjbhKCWnKASz7k00vEl2RFLfS0BAuNQyg1Teqi94FZNu2-DOqukPSjUrcBdtYdg8ApI_WvV7S2eAoVM-fnolehx-LIIh-CGzuapSJBi",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJY80iaqkOvUcRNQEhyx9ZB6A",
+        "plus_code": {
+            "compound_code": "4M6G+4C Frankfurt, Germany",
+            "global_code": "9F2C4M6G+4C"
+        },
+        "rating": 4.5,
+        "reference": "ChIJY80iaqkOvUcRNQEhyx9ZB6A",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2702,
+        "vicinity": "Am Kaiserplatz, Bethmannstraße 33, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1045988,
+                "lng": 8.6666867
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1059941802915,
+                    "lng": 8.667915280291501
+                },
+                "southwest": {
+                    "lat": 50.1032962197085,
+                    "lng": 8.665217319708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Roomers",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1019,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116827938155661591668\">Roomers Hotel Frankfurt</a>"
+                ],
+                "photo_reference": "AdDdOWo2c_kPYxPJRbA5eoVnsg0XDEJyaMt95b36fIpZxDRFSy4O10uMmCckdCxzIGCpG_AOR86J83Rjkp8Wb3DBr8FRBdwBoLcxmDAMa0Ocsix1JJ95j2ncrLvpCYWXGqpYrY2pyLoPlOstvJYCIPPlrFKzB-E3N10dwCBSzdHFDLE_AV1x",
+                "width": 1529
+            }
+        ],
+        "place_id": "ChIJw5cDYgAMvUcR9NtN8LB1zQI",
+        "plus_code": {
+            "compound_code": "4M38+RM Frankfurt, Germany",
+            "global_code": "9F2C4M38+RM"
+        },
+        "rating": 4.2,
+        "reference": "ChIJw5cDYgAMvUcR9NtN8LB1zQI",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1678,
+        "vicinity": "Gutleutstraße 85, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1093796,
+                "lng": 8.6631388
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.11067818029149,
+                    "lng": 8.664509280291503
+                },
+                "southwest": {
+                    "lat": 50.10798021970849,
+                    "lng": 8.661811319708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "25hours Hotel Frankfurt The Trip",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1534,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118187393364477393950\">25hours Hotel Frankfurt The Trip</a>"
+                ],
+                "photo_reference": "AdDdOWqPDqoyStDCtYfQMHziUkX9Vor43-ezitofqG5Janw6ACJ0kxBbjhuytRySM9zmTMKRB-rc_hd3p5Nf4czu6lccn-Y3NkLrzBOu-0i9uT6pudFcOOEvHt2IHG1ycm0qGR0rDJulkbn9JeOGNDLIFGunehvbFKFIOpnaCLmwCGNm__s7",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ08olpVUJvUcRiAfMHjLpof4",
+        "plus_code": {
+            "compound_code": "4M57+Q7 Frankfurt, Germany",
+            "global_code": "9F2C4M57+Q7"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ08olpVUJvUcRiAfMHjLpof4",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1301,
+        "vicinity": "Niddastraße 58, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1413928,
+                "lng": 8.698891699999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.14261878029149,
+                    "lng": 8.700378130291499
+                },
+                "southwest": {
+                    "lat": 50.13992081970849,
+                    "lng": 8.697680169708494
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Best Western Premier IB Hotel Friedberger Warte",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101611640218562714524\">Best Western Premier IB Hotel Friedberger Warte</a>"
+                ],
+                "photo_reference": "AdDdOWpDW5yoeCI1J1binu57DTt4UMEFaqx7cesh6NoAZedP1NBwBou6sEfXznJtb7crtmOfAnKgnKms5pnjuIB0wVtEyxl042lp-7XpSWRoZYNZk8G3NNhDhc8ia9q4dvK-bJ6FVDFAP6AkuVdTHn4ydIwXV9anwkrk1A-lPRfxYWTyb9Gd",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJvRF7JtwOvUcRQxVXDS11RUk",
+        "plus_code": {
+            "compound_code": "4MRX+HH Frankfurt, Germany",
+            "global_code": "9F2C4MRX+HH"
+        },
+        "rating": 4.3,
+        "reference": "ChIJvRF7JtwOvUcRQxVXDS11RUk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1145,
+        "vicinity": "Homburger Landstraße 4, Frankfurt am Main-Bornheim/Ostend"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1079634,
+                "lng": 8.6441421
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1093510802915,
+                    "lng": 8.645560830291503
+                },
+                "southwest": {
+                    "lat": 50.1066531197085,
+                    "lng": 8.642862869708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "DORMERO Hotel Frankfurt Messe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113440177480705466689\">DORMERO Hotel Frankfurt Messe</a>"
+                ],
+                "photo_reference": "AdDdOWpjVFTArMRDjbhFRFTqRgSTHdHqF-e_AhlUjkm6mgLE99xpS6iAtlI1-jx2J1OHQmwu83ZQWjqzXvvEaLP2qwr_-xRwAh0189dFxkeIEjTOyJ1s1mOZzIZYCeL8ZAiD4ZOQad4wdcJKTZdYcnLPkic2mfb9CEXKrCxAEXffV44GuqD4",
+                "width": 1900
+            }
+        ],
+        "place_id": "ChIJ80Obz-ELvUcR75e2-ddNcIM",
+        "plus_code": {
+            "compound_code": "4J5V+5M Frankfurt, Germany",
+            "global_code": "9F2C4J5V+5M"
+        },
+        "rating": 4,
+        "reference": "ChIJ80Obz-ELvUcR75e2-ddNcIM",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1233,
+        "vicinity": "Lissabonner Straße 2, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1358474,
+                "lng": 8.671741899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1371908802915,
+                    "lng": 8.6730279802915
+                },
+                "southwest": {
+                    "lat": 50.1344929197085,
+                    "lng": 8.670330019708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Motel Frankfurt",
+        "photos": [
+            {
+                "height": 2252,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112584683486373470472\">Tomek P</a>"
+                ],
+                "photo_reference": "AdDdOWpGxJ6J6IYNi7D-hce0ekiIIquiONTe9kB4Ywf6iWa9aNVxIA2MiKZZRi9jvvakZogg1YgGxb53txylqIVOCj6xd6BANWW3SFZVAwtQgKhvvlqm9AKAeBSle05NmRStdlR0Ynu1JbCliUR46PqQlT0vm5TiULKIxjRxsZr6m8TuSxCW",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJj9weVDIJvUcRDHT0x9Ss7fk",
+        "plus_code": {
+            "compound_code": "4MPC+8M Frankfurt, Germany",
+            "global_code": "9F2C4MPC+8M"
+        },
+        "rating": 4,
+        "reference": "ChIJj9weVDIJvUcRDHT0x9Ss7fk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 274,
+        "vicinity": "Eschersheimer Landstraße 204, Frankfurt am Main"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1082225,
+                "lng": 8.658106999999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.10961633029149,
+                    "lng": 8.6595638302915
+                },
+                "southwest": {
+                    "lat": 50.1069183697085,
+                    "lng": 8.656865869708495
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Premier Inn Frankfurt City Europaviertel",
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111342325819554285869\">Premier Inn Frankfurt City Europaviertel hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqYCI8TQcRKUd4GO8rn6Ooh9UJ6AfPay9KdjlNvg9HcsXonnquf8oWnbWpltw3WTl-W6-TuLdZUzNWBh3Ae3zWVEsRwco_6bOcJJFNOIQb-t3M3rZtTygZT4eiZMR71gCrcbFu-ZdSO_NdUEYVYioljfi_JR4MBEFMTvy9e4KM0wfBl",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJC8g6IVYJvUcRkQfBu9F3dY0",
+        "plus_code": {
+            "compound_code": "4M55+76 Frankfurt, Germany",
+            "global_code": "9F2C4M55+76"
+        },
+        "rating": 4.2,
+        "reference": "ChIJC8g6IVYJvUcRkQfBu9F3dY0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 870,
+        "vicinity": "Germany, Mainzer Landstraße 117 - 119, Frankfurt am Main"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1099751,
+                "lng": 8.6923379
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.11127723029149,
+                    "lng": 8.693751830291504
+                },
+                "southwest": {
+                    "lat": 50.1085792697085,
+                    "lng": 8.6910538697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Flemings Hotel Frankfurt Main-Riverside",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3717,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115922197610804661406\">Flemings Hotel Frankfurt Main-Riverside</a>"
+                ],
+                "photo_reference": "AdDdOWojPdGYPCLZifJPVLjD0PxTT65ZD4sX5OfrjAN-UBIthpOQZZ3rfLsP4nJ5KkHEzYgRyfIEiyYuPkSXhrUr1-sbgcBbd0UJmXLscc_ivELgR7iDl7RwwUPWBrmnSSePr3cZrh_qoLzpvNwP2G2seN57z3zYAtQ9GeUsH6vhohLMhL1z",
+                "width": 5520
+            }
+        ],
+        "place_id": "ChIJcet_7aEOvUcRMgo0WNaBTRw",
+        "plus_code": {
+            "compound_code": "4M5R+XW Frankfurt, Germany",
+            "global_code": "9F2C4M5R+XW"
+        },
+        "rating": 4.6,
+        "reference": "ChIJcet_7aEOvUcRMgo0WNaBTRw",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1420,
+        "vicinity": "Lange Straße 5-9, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1119795,
+                "lng": 8.7127952
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1132618302915,
+                    "lng": 8.714225830291502
+                },
+                "southwest": {
+                    "lat": 50.1105638697085,
+                    "lng": 8.711527869708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "25hours Hotel Frankfurt The Goldman",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5937,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104444538883492941622\">25hours Hotel Frankfurt The Goldman</a>"
+                ],
+                "photo_reference": "AdDdOWpOScakZEy0D-PJyAw1TxRGz9okyrYrlG-yNFrfFmn7j7429IteeoilQghdVY_NCKxFIOh-SP29-tWO7spsGzDXMIAVpXwmyGoSr2z0aPkdrBuFWjs-np0KXNmVOF-B3rJdzV2lqvktQPaTgbdHtm_LOSMhJcmJPbzF4cS3CAQbFkeJ",
+                "width": 6658
+            }
+        ],
+        "place_id": "ChIJdfOJyoUOvUcR7fqjTzfP5gE",
+        "plus_code": {
+            "compound_code": "4P67+Q4 Frankfurt, Germany",
+            "global_code": "9F2C4P67+Q4"
+        },
+        "rating": 4.4,
+        "reference": "ChIJdfOJyoUOvUcR7fqjTzfP5gE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 858,
+        "vicinity": "Hanauer Landstraße 127, Frankfurt am Main-Bornheim/Ostend"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1172932,
+                "lng": 8.6271912
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1187142802915,
+                    "lng": 8.628838280291502
+                },
+                "southwest": {
+                    "lat": 50.1160163197085,
+                    "lng": 8.626140319708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu Hotel, Frankfurt",
+        "photos": [
+            {
+                "height": 576,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100907056563996204176\">Radisson Blu Hotel, Frankfurt</a>"
+                ],
+                "photo_reference": "AdDdOWoo2XMLfb1RcWkzG8HuSjbTd79VWIWhKqIFii4Jov7J51e0y6sETtjiaIk1dGzygtxKiNrkCWbJBMsL7BdPdoL4z7hkrHu3DT_iUtRVBcQH4oXO4qQN8fbxxGJSi-OFSb42cG6TpE3EujPowFMAaAwhIC0ynwWs0cNgwPhUpazwLd7b",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJC1HR3jyPsUcRXbFgE8v2uqY",
+        "plus_code": {
+            "compound_code": "4J8G+WV Frankfurt, Germany",
+            "global_code": "9F2C4J8G+WV"
+        },
+        "rating": 4.2,
+        "reference": "ChIJC1HR3jyPsUcRXbFgE8v2uqY",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3808,
+        "vicinity": "Franklinstraße 65, Frankfurt am Main"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1113312,
+                "lng": 8.661810600000003
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.11265068029149,
+                    "lng": 8.663021980291504
+                },
+                "southwest": {
+                    "lat": 50.1099527197085,
+                    "lng": 8.660324019708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Savigny Hotel Frankfurt-City",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 666,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101028423821015257195\">Savigny Hotel Frankfurt-City</a>"
+                ],
+                "photo_reference": "AdDdOWortbprjuLl1TEUWpT1t8MionDhOJt3K3umg5lOq0ppxM7zuplGwdrlA5TlzTHJS4T1kQj6w_er94L303GT7k1mRZZ6XTMCA4zB_5SMQC2-g32ewufv3i-90VyQPTsArUmuvBEN3XatzrpwAWRxhFHJ3G1Z65Les_JpiWI2pbA1sarR",
+                "width": 1000
+            }
+        ],
+        "place_id": "ChIJ68KcJFQJvUcRgABuXU7u_qg",
+        "plus_code": {
+            "compound_code": "4M66+GP Frankfurt, Germany",
+            "global_code": "9F2C4M66+GP"
+        },
+        "rating": 3.8,
+        "reference": "ChIJ68KcJFQJvUcRgABuXU7u_qg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 592,
+        "vicinity": "Savignystraße 14-16, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1140325,
+                "lng": 8.6276677
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1151319302915,
+                    "lng": 8.628867780291502
+                },
+                "southwest": {
+                    "lat": 50.1124339697085,
+                    "lng": 8.6261698197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Best Western Plus Welcome Hotel Frankfurt",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111630159186814584415\">Best Western Plus Welcome Hotel Frankfurt</a>"
+                ],
+                "photo_reference": "AdDdOWrVXrYywGOOidqe0Fwn3KjATtdzvj0iZ5y1rPityx1g0Sp0pzNHV0n-Q7sreUVt3iLPZb6_7gNN5Ib18LJSKIEcBTm0MNJmkNNlDT0sszJZMf9Ci1W3zEA6KZQjaZBaJ7ctH08mXTVOOsAIlbsHkY-FrSOdHysJK1UhoV9E9Ycnl5VG",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJn0XIj34JvUcRGR2YjXtQbGk",
+        "plus_code": {
+            "compound_code": "4J7H+J3 Frankfurt, Germany",
+            "global_code": "9F2C4J7H+J3"
+        },
+        "rating": 4.1,
+        "reference": "ChIJn0XIj34JvUcRGR2YjXtQbGk",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1431,
+        "vicinity": "Leonardo-da-Vinci-Allee 2, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1134984,
+                "lng": 8.6934191
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.11486318029149,
+                    "lng": 8.694620580291502
+                },
+                "southwest": {
+                    "lat": 50.1121652197085,
+                    "lng": 8.691922619708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "mainhaus Stadthotel Frankfurt",
+        "photos": [
+            {
+                "height": 1271,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105915649258259262346\">mainhaus Stadthotel Frankfurt</a>"
+                ],
+                "photo_reference": "AdDdOWryMnIZ0ArokxCGvNmINFiq_PiOvtlvXvYkcILLRnNbI0-qyIE8nNDYxFpmTnToCkskIDvbxZuRYG_EYNl4J0DIxHK4EFu8QJOdVHCGBUyJcAfpgvv_rLT3DtSQjq_CiCd9aSxuLR3bJa22JmCLoTCST1EUT3J7nmiaSuEXZLn_yMsB",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJm7H2jKIOvUcRnAUuxENg2xY",
+        "plus_code": {
+            "compound_code": "4M7V+99 Frankfurt, Germany",
+            "global_code": "9F2C4M7V+99"
+        },
+        "rating": 4.1,
+        "reference": "ChIJm7H2jKIOvUcRnAUuxENg2xY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 572,
+        "vicinity": "Lange Straße 26, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1059952,
+                "lng": 8.721575699999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1070864302915,
+                    "lng": 8.723032380291501
+                },
+                "southwest": {
+                    "lat": 50.1043884697085,
+                    "lng": 8.720334419708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Gerbermühle",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1969,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116558880423058128929\">Gerbermühle</a>"
+                ],
+                "photo_reference": "AdDdOWpOy0PF0Dj45Me6Bt6k0J2dCIItmwVaYZcqWN8jsedIBuH26eNyQenXeBRwo771DbqBzFw891jgKhV-WKrGKrL9TlzLNv9hxRiRrVp2b89pzRW1U-_5BbQckMX3XbDt2XpdFML0tJ-mXqRDc8VW0DtxzIdDdFWXfBbvmk8q8nkyUq_4",
+                "width": 2953
+            }
+        ],
+        "place_id": "ChIJF07CQJ4OvUcRaZvEe2sZGl4",
+        "plus_code": {
+            "compound_code": "4P4C+9J Frankfurt, Germany",
+            "global_code": "9F2C4P4C+9J"
+        },
+        "rating": 4.2,
+        "reference": "ChIJF07CQJ4OvUcRaZvEe2sZGl4",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2499,
+        "vicinity": "Gerbermühlstraße 105, Frankfurt am Main-Frankfurt-Süd"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1054524,
+                "lng": 8.692533899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1068468802915,
+                    "lng": 8.693906180291503
+                },
+                "southwest": {
+                    "lat": 50.1041489197085,
+                    "lng": 8.691208219708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Primus Frankfurt Sachsenhausen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3528,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113872585875739830026\">Hotel Primus Frankfurt Sachsenhausen</a>"
+                ],
+                "photo_reference": "AdDdOWobCT4TbGQWe-AJf0z3njtJZalj7LPmz1-JVjES4SeaUxH-OusaswHuKtb6MOlzsHymZgOIYX7P3Xx6Z3Sfs4_p4PyDt92orVGwaywFy_NSCYmQ8Ej5LaF3Zt0vkBHfsI7y6BAp0Tfdv41wVOgQklpDJuV6_-sda3PPppeTO0pJRQsN",
+                "width": 5456
+            }
+        ],
+        "place_id": "ChIJEXmzAaAOvUcR42B182HMA20",
+        "plus_code": {
+            "compound_code": "4M4V+52 Frankfurt, Germany",
+            "global_code": "9F2C4M4V+52"
+        },
+        "rating": 4.2,
+        "reference": "ChIJEXmzAaAOvUcR42B182HMA20",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 299,
+        "vicinity": "Große Rittergasse 19, Frankfurt am Main-Frankfurt-Süd"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1005298,
+                "lng": 8.681964100000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1018614302915,
+                    "lng": 8.683230780291504
+                },
+                "southwest": {
+                    "lat": 50.0991634697085,
+                    "lng": 8.6805328197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Apfelwein Wagner",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118197463616442728522\">Apfelwein Wagner</a>"
+                ],
+                "photo_reference": "AdDdOWp8eO5algCdbdS3QejCDsmSA0g-egSw-3SQuAuHVRUCPQ5Wf5mgImTTT1PGYbscLgmLyQ9EvMuj6zvApMoILDf4b18OQx9B-dHuRY8Zdq9TvaUNQuVXmaFtSJrRPn8e56Oyq6oTQJhjPQH68zGz25rpUEvCSuXkA5BM57PhZV7g3vgi",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJA6jFjxsMvUcR_1WAmNA47vo",
+        "plus_code": {
+            "compound_code": "4M2J+6Q Frankfurt, Germany",
+            "global_code": "9F2C4M2J+6Q"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJA6jFjxsMvUcR_1WAmNA47vo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8233,
+        "vicinity": "Schweizer Straße 71, Frankfurt am Main"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1090111,
+                "lng": 8.670047199999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1102764802915,
+                    "lng": 8.6714690802915
+                },
+                "southwest": {
+                    "lat": 50.1075785197085,
+                    "lng": 8.668771119708495
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Kabuki",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1226,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112817396935005846479\">Kabuki Restaurant GmbH</a>"
+                ],
+                "photo_reference": "AdDdOWpKT3honWQcUepyhUc5ojH4ZBgOjTHelrjCRNWayYajIZzBQjzvi83h_zV3V692IwuXu3V3hd8s9aXQeAONyPP_q-T_TkfC4NFj8WAtHdSp9RwI1FKkhzzI-wvMtRqny5wkCQaJSoVDEnJiYG4CwBVO8ki0-nCFGn8BvBAuv6BZ1X_l",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJjynY-aoOvUcR1AG0OwNkxE4",
+        "plus_code": {
+            "compound_code": "4M5C+J2 Frankfurt, Germany",
+            "global_code": "9F2C4M5C+J2"
+        },
+        "price_level": 3,
+        "rating": 4.7,
+        "reference": "ChIJjynY-aoOvUcR1AG0OwNkxE4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1261,
+        "vicinity": "Kaiserstraße 42, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1110884,
+                "lng": 8.6782069
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1123823802915,
+                    "lng": 8.679602780291503
+                },
+                "southwest": {
+                    "lat": 50.1096844197085,
+                    "lng": 8.676904819708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Heimat",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3614,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114986189372940162856\">Michael Scholl</a>"
+                ],
+                "photo_reference": "AdDdOWps2bPhteSSKwNKWvI0Lidb-hh-EjnrQhAhl6ydQn7R2ZSfbhD08n5Ct2d6zmHP0aBVkZtUO9KhRjaQQtWfbswDJTqVzNZiNYlNWrJvoQHpsTG9NX1GAueScQBWxfcxmBYZDOlNdWbEiguIHpq0PNvqIIYJKgZJw5wGoUDkb4irLmhn",
+                "width": 5421
+            }
+        ],
+        "place_id": "ChIJvcqc0KgOvUcRP5pSvltp_4U",
+        "plus_code": {
+            "compound_code": "4M6H+C7 Frankfurt, Germany",
+            "global_code": "9F2C4M6H+C7"
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "ChIJvcqc0KgOvUcRP5pSvltp_4U",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 414,
+        "vicinity": "Berliner Straße 70, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.113352,
+                "lng": 8.677469
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.1148242302915,
+                    "lng": 8.678311680291502
+                },
+                "southwest": {
+                    "lat": 50.1121262697085,
+                    "lng": 8.6756137197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Suvadee Thai Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114554314977085826116\">Suvadee Thai Restaurant</a>"
+                ],
+                "photo_reference": "AdDdOWpKiiqYA5KR9GYPSxbqj3sQyVMOUPGF89vBCmQSSEUGWQuZReA6s-bh6fd8-ddQwLIhQce648KTxufpn3YbdG9gE3bf1-27jOzhhrESLWQnlPpKc-A6erEWMDrz7YemBHPYlz-VhC-HhB25NQV4AEBsVm-OyfpQcvQs0uQuPq1IB4LK",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJQxBV764OvUcRodFSobHJf-Q",
+        "plus_code": {
+            "compound_code": "4M7G+8X Frankfurt, Germany",
+            "global_code": "9F2C4M7G+8X"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJQxBV764OvUcRodFSobHJf-Q",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1017,
+        "vicinity": "Steinweg 7, Frankfurt am Main-Innenstadt I"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 50.1012697,
+                "lng": 8.663637
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 50.10250228029149,
+                    "lng": 8.664737380291504
+                },
+                "southwest": {
+                    "lat": 50.09980431970849,
+                    "lng": 8.662039419708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "L'Osteria",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110699697497953367199\">L&#39;Osteria Frankfurt am Main</a>"
+                ],
+                "photo_reference": "AdDdOWrAxiuooIWK56TMjLkCQha5lr0kElVbKddnDIBpP0pWX6hdsTsVKoOVH_oLTLzO_huH4kz2gnPko7rfnR3IOnx-Q-FBG7clrcHo8edaNOjjzQwSqHbHIIBPanCytU4q7FH126lxybCZMhDzXoYA4F2dhF-J3GEeM4rmRII7Iyx8fT39",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ_1nJv_gLvUcR7mCDnQ8LPBo",
+        "plus_code": {
+            "compound_code": "4M27+GF Frankfurt, Germany",
+            "global_code": "9F2C4M27+GF"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJ_1nJv_gLvUcR7mCDnQ8LPBo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5825,
+        "vicinity": "Speicherstraße 1, Frankfurt am Main-Innenstadt I"
+    }
+]

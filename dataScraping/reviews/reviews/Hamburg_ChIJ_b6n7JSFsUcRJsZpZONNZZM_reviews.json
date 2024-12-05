@@ -1,0 +1,66 @@
+{
+    "name": "Gastwerk Hotel Hamburg",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Vladislavs Ruza",
+            "author_url": "https://www.google.com/maps/contrib/118140916239338737646/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqQtKD142yVi8UKRm8R9CJk-M65OZtJJHtB1wAjZSUl9pYDA=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "in the last week",
+            "text": "Very bad service, we had breakfast included and asked in reception if possible to have box prepared as we leave for airport. Reception said yes of course, so we wake up earlier just to come to rude receptionists who had no idea what we are talking about...",
+            "time": 1733027089,
+            "translated": false
+        },
+        {
+            "author_name": "Raymond the Freeman",
+            "author_url": "https://www.google.com/maps/contrib/109833679156700774676/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYGGggWVKfDu79M8iAvFURgKU_79q5G2ypu09XZFChIdN_LEs=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The best hotel with value for money. Rooms are well designed and serviced . Very clean and polite service people n very welcoming to guests. The hotel format and design is one to die for as the rustic old look from the old factory blended with modern design and classy setting makes it a worthwhile venture to have a stay at the hotel.",
+            "time": 1723815963,
+            "translated": false
+        },
+        {
+            "author_name": "Popcorn",
+            "author_url": "https://www.google.com/maps/contrib/102974795053037741541/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTNgZnVIw1zoRfbV8KdAP-6MmqzQVz7plACuUVH22twlKrnYIG=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Hotel in the former gasworks, minimalist, spacious, with an all-round feel-good atmosphere. Good cafés and restaurants within walking distance. Absolutely great for relaxing after a concert, e.g. in the factory, which is within walking distance.",
+            "time": 1731420482,
+            "translated": false
+        },
+        {
+            "author_name": "Sascha Sardana",
+            "author_url": "https://www.google.com/maps/contrib/105046949826092507274/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrqPaD2XBbR8WJ4n1fPTtqy3RBHqtAqCaEKe1a-NQJimQAvw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Very nice hotel located in peaceful area, super friendly staff and tastefully decorated areas. Industrial style old building with a very pleasant atmosphere. We stayed in a M Loft room on 3rd floor, extremely spacious and comfortable. I can truly recommend this hotel. Thank you.",
+            "time": 1718123036,
+            "translated": false
+        },
+        {
+            "author_name": "hidde ament",
+            "author_url": "https://www.google.com/maps/contrib/102714325187957954828/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGmdXtKbj9LPR6SRUyHGPqdHLPtw011ROV3XyX7e7AQQRM88c=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "It’s definitely a place I’d recommend to stay. the only issue i had was that one of the cleaners came in my room without my consent. But i guess that was just a small mistake",
+            "time": 1723220400,
+            "translated": false
+        }
+    ]
+}

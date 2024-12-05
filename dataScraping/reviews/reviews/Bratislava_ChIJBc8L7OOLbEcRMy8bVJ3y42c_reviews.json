@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Albrecht",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Arnaud HEDIER",
+            "author_url": "https://www.google.com/maps/contrib/111055798992937386776/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLL6MzTPTyqorTQlhAh4pi0QrjlhtjAJ2bUxcbSqM7chzbukQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "Situated on hill way, out of the city, quite, nice hotel from outside.\n\nI had a wide nice room, overclassed probably compared to my booking.\n\nFew points to improve:\n\n-No electric plug in bathroom, so air dryer or air dressing not possible and that s the sole area you have a mirror.\nTV to start with a password. Reception does not.give you this password and does not tell you how to proceed. Then you have to call, to ask.....\n\nBreakfast far away to be at the level. Nothing else than salami, ham and eggs. No backeries, croissants, no fruits, nothing...\n\nDiner impossible to take at restaurant 2d evening because it was privatized. No info up front to me from the hotel. Not acceptable.\n\nLast but not least, swimmibg poil and wellness are fully closed for at least next 10 months! Not acceptable!\n\nWhen leaving, lobby team did not ask me if it was ok, some recommandations for improvments. Just paying, good bye.\n\nPlace, hotel itself and room confort 4 stars, yes, amneties, restaurant, breakfast for sure not.",
+            "time": 1732541321,
+            "translated": false
+        },
+        {
+            "author_name": "Maria",
+            "author_url": "https://www.google.com/maps/contrib/116076371735437964130/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgicraEHVhzfhJMn8BzJMXuew___Vd8bFvAGRWIwQ--MXAwl9Y=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Beautiful, quiet hotel with a fantastic restaurant and service. The staff is very friendly. The restaurant is elegant and the food is great.",
+            "time": 1730731120,
+            "translated": false
+        },
+        {
+            "author_name": "Luca Falda",
+            "author_url": "https://www.google.com/maps/contrib/101178974778390730365/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEwmJpqZPBgmMlDkD4lmssZqxdProeqLSEsCqL-sJTYSKGouAA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "The staff is simply fantastic and they get out of their way to help. The spa is small but pleasant, especially in the early hours and we had it completely to ourselves. On the less bright side, this is the first five star I've ever been in my life without coffee or tea facilities in the rooms. And it is also the only \"breakfast included\" hotel I've ever seen where you are charged extra for a second cup of coffee (or anything over the 10 euro \"allowance\", really, what a funny way to charge people. It's what I'd expect from Ryanair if they ran hotels). Aesthetically the hotel is fantastic. I love the work they did to blend in the old and the new. 10/10 on that front. I'd come back, but get a coffee machine and don't nickel and dime at breakfast.",
+            "time": 1563091367,
+            "translated": false
+        },
+        {
+            "author_name": "Radek Jirásek",
+            "author_url": "https://www.google.com/maps/contrib/112934192567631760287/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2RJI06uTK4oNm-dyLBcef9KD4MPfQOQor5XtReEfZGY0DMw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "We had the tasting menu, which was very nice. All the dishes tasted very good and the waitors were friendly and nice. Also the environment was calm and classy. The service was however not quite on the level to get five stars as we had to sit with empty plates a couple of times and the contents of the dishes were not explained very good. A plus though for arranging with a lactose free alternative for one of us.",
+            "time": 1528612378,
+            "translated": false
+        },
+        {
+            "author_name": "Sophie Rawcliffe",
+            "author_url": "https://www.google.com/maps/contrib/105867999403676054714/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7QJYGMbw6gVFJmfKVzAqmooPsS3459HpC5F64uX-gxvbJQg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "We used the spa facilities. It was very relaxing and we were very impressed with the facilities. We also had massages which were excellent. My only issue was the changing room: it is very small and really only big enough maybe 3-4 people max. There were 6 of us so it was cramp. But I would definitely visit their spa again",
+            "time": 1493730124,
+            "translated": false
+        }
+    ]
+}

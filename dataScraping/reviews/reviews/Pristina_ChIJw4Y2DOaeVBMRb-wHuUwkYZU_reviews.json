@@ -1,0 +1,66 @@
+{
+    "name": "Caffez",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "rrona binakaj",
+            "author_url": "https://www.google.com/maps/contrib/103668084894720191341/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7xi0txyBgMcih_qKERgr6QRKCOHyrZ55kiIAo6DqcFvoTwA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Great food, great place and great service. The food is delicious and prepared with so much care. The portions are decent and worth to try it. Appetizers, pastas, pizzas, wrap and sandwiches worth to try them. Great place for vegetarians too since they have pretty good options for vegetarians. The service is great. Atmosphere one of the best in the city. Highly recommend it to try it.",
+            "time": 1731192216,
+            "translated": false
+        },
+        {
+            "author_name": "xLulzim",
+            "author_url": "https://www.google.com/maps/contrib/115597182000579560953/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0JSgd8F5gBARBdRWw1PCXvpY6RQPCxCjD9wpp9ym9wX-kDjV5=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Caffez Lounge was amazing! The service was quick and friendly. The staff was polite, and the atmosphere was nice. The food and drinks were fresh and delicious. A great place to relax and enjoy.",
+            "time": 1732227627,
+            "translated": false
+        },
+        {
+            "author_name": "Tuana Rudi",
+            "author_url": "https://www.google.com/maps/contrib/113024910217159130120/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUsETiUXn2T9GfhnVMaMV5zGBS6K_Fyk0-U24le-nC9Fzr6A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Caffezz Lounge offers a cozy, modern atmosphere. The coffee is exceptional, with expertly crafted espresso drinks and specialty options. Highly recommended!",
+            "time": 1732392770,
+            "translated": false
+        },
+        {
+            "author_name": "Sara",
+            "author_url": "https://www.google.com/maps/contrib/106805687741415550607/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCZt2dNX8YsnGMsddYJdYLYWFRt2Akqw12aRvDMSn-070ztNsL=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I had a wonderful dining experience at CaffeZ Lounge. The food was exceptional, with each dish showcasing top-notch ingredients and culinary skill. The cocktails were equally impressive—creative, expertly mixed, and incredibly refreshing. Highly recommend for a memorable night out!",
+            "time": 1726252121,
+            "translated": false
+        },
+        {
+            "author_name": "O bir Yabancı",
+            "author_url": "https://www.google.com/maps/contrib/113495288957243742592/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAJoAuM-WR_MrKGlOoplwn6eMQuhl2puQYobv4UPnLiNXu_qQb=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "very nice location, decoration and ambiance.  the two small tables outside are my favourite.  but the inside and the backyard are also super.  The ideal place for a coffee, a beer or a pleasant meal with friends in Pristina...",
+            "time": 1657746769,
+            "translated": false
+        }
+    ]
+}

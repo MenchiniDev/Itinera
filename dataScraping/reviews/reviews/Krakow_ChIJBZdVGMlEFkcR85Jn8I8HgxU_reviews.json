@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Krakus",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Aron Diana",
+            "author_url": "https://www.google.com/maps/contrib/107416437479083871847/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDIgD1wG9P6ruAZ1GmEgVbjuKm8MouQVd5MsQaFjwgOTS2=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "a week ago",
+            "text": "The first receptioner we met, was really nice and friendly..but the other man was kinda disrespectfull. The room is big enough, but the sheets were smelling bad and also the pillow was very bad.  We wanted to have a drink at their bar, but nobody served us, even though we were still on time..and the people who work there could hear us..",
+            "time": 1732524255,
+            "translated": false
+        },
+        {
+            "author_name": "Mr McScotty",
+            "author_url": "https://www.google.com/maps/contrib/101214101344939364372/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxYqppcCxeWrTGv5nAMd3nuBhqrWiVJIPpVUyFS2MUd_YT8w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "Budget option for Krakow, suited myself as i had a car & was travelling alone , rooms a bit dated but bathrooms modern? Polite & helpful staff, could do worse but a no frills hotel.",
+            "time": 1725806739,
+            "translated": false
+        },
+        {
+            "author_name": "Naitikkumar Patel",
+            "author_url": "https://www.google.com/maps/contrib/104357128942401044342/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNtZpYIo1fm7wcIB40kNCf4fDS0sQ62kfK0H1TAk285E1SJXfboA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Slightly away from town center but nonetheless very good place to stay. Hotel staff is very helpful and kind to guests. Public transport is available from hotel to town so convenient. Rooms are massive, cozy and immaculate. Highly rated and recommended. The room that we got was disabled friendly so bathing area was slightly lower for average height person and gets a bit slippery however not inconvenient as such. It's also very kids friendly. We got a bargain deal including breakfast so I'd say it was pretty much everything we wanted. I'd recommend this place.",
+            "time": 1681908005,
+            "translated": false
+        },
+        {
+            "author_name": "Julian Maison",
+            "author_url": "https://www.google.com/maps/contrib/105313044870294582576/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgmT6-RO7FU1BxYdIrWEfhKo3RNpiarhtlY_bng5bWCvAZcEsu=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "good proper breakfast, we good variation of options for all tastes. large enough room and bathroom, all new, beds could have been more comfortable and the location is a bit away so ideally you have a car thought it was only a cheap uber ride back at night.",
+            "time": 1689083760,
+            "translated": false
+        },
+        {
+            "author_name": "Sheraze",
+            "author_url": "https://www.google.com/maps/contrib/116777518963014111300/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7YI0hJEUkiojBOBhuWrbNxYFhQWFb1hL8RBrufQ1MwCKRiDiq=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Staff are incredibly helpful and friendly. Rooms are great. Very comfy bed with feather pillows and duvet. Very clean and new.\nOnly down side is the location but with            \"free now taxis\" you can get to the old Town for about 4 euros.\nI highly recommend this hotel.",
+            "time": 1665862656,
+            "translated": false
+        }
+    ]
+}

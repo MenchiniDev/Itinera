@@ -1,0 +1,66 @@
+{
+    "name": "Mas Blayet",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Kadir Karagöz",
+            "author_url": "https://www.google.com/maps/contrib/110825331998085625852/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0ZsUZgoqFv3WIuoI7hmplCmK6p_kgCBTQFirqNYP1Qmh6MEaa=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great restaurant from all aspects! We ordered paella negra and love it. It was definitely the best one we tried amongst several places. It was big enough and delicious 😋\n\nWaiters are also very kind and helpful ❤️Looking forward to tasting other paellas…",
+            "time": 1728484687,
+            "translated": false
+        },
+        {
+            "author_name": "Sylvia Latorre",
+            "author_url": "https://www.google.com/maps/contrib/106911449950289031603/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI34JNfN9ycXhHdGlIQQ-uR7Ev26soC3s5PcZgdmxhXlv6zbQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great place. Staff were lovely and very accommodating when we decided last minute to order 2 paellas. Which were both delicious as were the starters that we ordered. Would definitely recommend.",
+            "time": 1720796045,
+            "translated": false
+        },
+        {
+            "author_name": "Olena Manko",
+            "author_url": "https://www.google.com/maps/contrib/105893960274592774506/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUByEnAqhI3_sNh8FBdzvCl7pk3CaqQxjcI5Z4rdwnfNAkVUcC94g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "We order seafood paella and it was so salty even for the one who love salty food. Atmosphere, staff is nice. Lot of people was ordering meat and they look happy.",
+            "time": 1726952469,
+            "translated": false
+        },
+        {
+            "author_name": "Ufuk Navarro Tebar",
+            "author_url": "https://www.google.com/maps/contrib/116727506240207746819/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaL5x85r75m6XNsKYhsrFkluWOdR3hOUbxpu2zPDOw9cJZlgei=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "We were suggested here for paella by locals. I have tried several places and within Valencia capital, this was the best rice I had. Salads were fresh and well seasoned.",
+            "time": 1693158097,
+            "translated": false
+        },
+        {
+            "author_name": "Irina Macoviciuc",
+            "author_url": "https://www.google.com/maps/contrib/114758180581950952302/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQhvdnTVvyBD_XJcgP2bFXJFui1eecjLF-w_VYqGVZLsbnYLf7=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "It's a good place if you'd like to dine out with friends or family and make it a bit fancy. It's not your usual tourist eating spot, and the prices are a bit higher accordingly. But the paella, sangria, and dessert we had were all good and well worth the money for a nice evening our during our vacation in Valencia!",
+            "time": 1682231720,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Pizzeria Trianon",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Mary Barthel",
+            "author_url": "https://www.google.com/maps/contrib/108193584424905654943/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUolPy8gXE_PxivSXnbi2sXagBfiIlp5OXcONjBdypAwxPKd1jcYw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Excellent service. A nice bite to the Diavola pizza and our server even split it onto separate plates for us. So sweet. Also the best crust we’ve had. It’s cooked through but still soft and yummy. Oh, and try the house red. Excellent!",
+            "time": 1732544870,
+            "translated": false
+        },
+        {
+            "author_name": "Andrew Hill",
+            "author_url": "https://www.google.com/maps/contrib/115573658361529798807/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXqSnLwgvTAeAPBW-9trajGIkiZilHT8aZzP89lEcdr3rG09MY=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I enjoyed my pizza here. Service was fast and efficient. The air conditioning was much appreciated on a scorching August day. Walk in, sit down, order your pizza and drinks, enjoy, ask for your check, pay at the register on your way out. Easy. There was no line. No wait. I hard from another traveler on my cruise that this restaurant is recommended by Rick Steves. Did I say air conditioning?",
+            "time": 1723386984,
+            "translated": false
+        },
+        {
+            "author_name": "Elisabeth Watts",
+            "author_url": "https://www.google.com/maps/contrib/118235808478087507487/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInMFhLDGLdoNjCVH9sr2PsVJw2JQt6_-Oq6yAKMM3Q7NeMBQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This was the perfect place to stop for pizza after a long and hot wait in Naples! Service was pretty nonexistent (but that’s to be expected) but the pizza was amazing. I had the traditional neopolitan with buffalo mozzarella. My husband had the mushroom\nand prosciutto. Both were delicious but we wish there was a little more basil. We appreciated being able to sit in the air conditioned place and the no wait!",
+            "time": 1719224823,
+            "translated": false
+        },
+        {
+            "author_name": "Liv",
+            "author_url": "https://www.google.com/maps/contrib/106605486010530831979/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtfkCXtMHSRWLyTbchODB51PxcpnktWFacBkScuWXRLyFvAyY=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "The food was very good, wide variety of pizza although it did take quite a long wait, possibly because we were the first customers. The wait is worth it because of how good the food is. The pizzas are very large, we ordered one each and had difficulty finishing it, might want to consider sharing two pizzas between three people.",
+            "time": 1716319118,
+            "translated": false
+        },
+        {
+            "author_name": "Radwaya",
+            "author_url": "https://www.google.com/maps/contrib/107023040954094723557/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGfKko_sOjxzKgotETSFstfbTgHofg_7-_SjcJOL3hNQw9aA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Authentic with a vibe of old Italy, the place is not fancy but so lovely. The pizza was exceptional, we tried 3 kinds and all were great, the service was fast and nice.",
+            "time": 1727073771,
+            "translated": false
+        }
+    ]
+}

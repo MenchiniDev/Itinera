@@ -1,0 +1,66 @@
+{
+    "name": "Odette En Ville",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Claudia Pellegrini",
+            "author_url": "https://www.google.com/maps/contrib/107915707438224730672/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoF2bbMZGV_v8E3AnckDtzd7plJZHOIy5sWHM9Uq26LEIYUFg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Very nice atmosphere! Service can be slow but polite and kind. Food and cocktails fine but expensive for two persons. Good for birthdays",
+            "time": 1728815356,
+            "translated": false
+        },
+        {
+            "author_name": "Andrea Valacchi",
+            "author_url": "https://www.google.com/maps/contrib/110497426401802583685/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8ekR_dsR_sF--13qQfkTFPI1rSErfaCY9i-2HgwaOepbna47d=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "In Brussels for Tomorrowland I decided to stay at this place. Bit expensive but room quality was superior with a cosy atmospheres at hands. Very comfy beds available and with breakfast (that is not included when it should instead at these prices….) that is really good. No reception during night time but code system make things easier.",
+            "time": 1722598309,
+            "translated": false
+        },
+        {
+            "author_name": "Najeeb Ashraf",
+            "author_url": "https://www.google.com/maps/contrib/100181283195933786359/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYzIiOr7oSEOuc-uXQ-kY6dPMT1FSVxNiu5xjNP37Z1o_RhIgr=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Odette En Ville Restaurant in Brussels is a true gem! From the moment we walked in, we knew we were in for a treat. The atmosphere was cozy and intimate, with a warm and inviting decor.\n\nBut the real star of the show was the food! We started with the fresh Prawns, which were cooked to perfection and bursting with flavor. And the Sole Fish, their specialty, was truly exceptional - fresh, tender, and utterly delicious.\n\nBut the pièce de résistance was the dessert - the local Vanilla Ice Cream with Hot Belgian Chocolate. It was love at first bite! The combination was heavenly, and we couldn't get enough.\n\nOverall, Odette En Ville is a must-visit in Brussels. The service was top-notch, the food was incredible, and the atmosphere was warm and welcoming. Don't miss out on this amazing dining experience!\n\nHighly recommend the Prawns, Sole Fish, and the Vanilla Ice Cream with Hot Belgian Chocolate. You won't regret it!",
+            "time": 1719862343,
+            "translated": false
+        },
+        {
+            "author_name": "Oliver Götz",
+            "author_url": "https://www.google.com/maps/contrib/104922651149060239861/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBmsWkOO1Iu0LBgfcs_S9ZVliZBy7nsT6ygr5Ydeb9stiz9oY1=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "We have visited the restaurant, not the hotel. It has a recommendation of Guide Michelin. Food is very international and in good quality. You should do a reservation upfront - very crowded!",
+            "time": 1727012630,
+            "translated": false
+        },
+        {
+            "author_name": "Julie Redaelli",
+            "author_url": "https://www.google.com/maps/contrib/117548285102209404726/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVKrOmxzE7l9KBgRrMC-tKV6LLIciAGV5JOurTrRilAIOJlgrL=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The food was very good and the service as well! Nice and welcoming waiters and waitresses. Will be coming back!",
+            "time": 1723730907,
+            "translated": false
+        }
+    ]
+}

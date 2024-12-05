@@ -1,0 +1,66 @@
+{
+    "name": "Maya Bar & Grill",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Sofia Hallay",
+            "author_url": "https://www.google.com/maps/contrib/113540708248335303120/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUS_fJNrxB81vGWGc82hXYNQFD5GoYphVR26--fnCeZ-oM0ZQc=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "The food was good. I specifically enjoyed the deep fried plantain starters. What ruined the dining experience was the table they seated us at and the service. The table to the left of the entrance in the corner should not exist for quests. Waiters and guests are constantly bumping into your chair and each time the door opens, a cold draft is hitting you. We had a reservation that started at 20:00 and our order was taken at 20:30. We got our starter at 21:00. With the unfortunate sitting place we had a constant view of the waiters behind the counter and could hear them talk, and frankly there was no reason for this level of slow service as they were not busy most of the time.",
+            "time": 1732420485,
+            "translated": false
+        },
+        {
+            "author_name": "Elif A",
+            "author_url": "https://www.google.com/maps/contrib/101600413303727723180/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU31ZS9yiHul8b4JvOIe5QliZ6h0Hr9_c6wV2rfXxeZGwo2g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Different tastes, great flavors, interesting ambience. Starters were too small for 1 person. (The price doesn’t match with the amount). We loved the salmon and prawn tortilla. BUT IF you dont like celery dont order the paella because its too dominant in the dish.",
+            "time": 1723993175,
+            "translated": false
+        },
+        {
+            "author_name": "Domna Tzemi",
+            "author_url": "https://www.google.com/maps/contrib/100558079115122179573/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9HDzuhoW6eb8UElHDrmk1ktd59ZmNE-ftisXf9T134jYTYxc=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Nice restaurant in the city centre. I had a tortilla which was okay, maybe a little bit too salty for me. The amount of beef was maybe below my expectations. The staff were nice and friendly. It is a bit expensive like most restaurants in Helsinki. The wine was good.",
+            "time": 1689570510,
+            "translated": false
+        },
+        {
+            "author_name": "l0c0m0t0rs",
+            "author_url": "https://www.google.com/maps/contrib/118263945147673181527/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWKwXbshwGOlhlFkDYBSuoDTnnnzEKtYpsIfDKWjqKP0TVJIM=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Exellent service and food! Paella is really good and every time in Helsinki I go and order it!",
+            "time": 1716480198,
+            "translated": false
+        },
+        {
+            "author_name": "Camilla Lekman-Hansen",
+            "author_url": "https://www.google.com/maps/contrib/112248610008880820172/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG0vlO27meOvOxE3X9uaoT33Ski3WroLajxiTXnXJ_lh3QG1XB=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Really great food.\n16 euro for a glass of of red wine, that did not even taste good. I am amazed how expensive poor wine is in Helsinki. It’s Better to drink beer when in Helsinki.",
+            "time": 1724648980,
+            "translated": false
+        }
+    ]
+}

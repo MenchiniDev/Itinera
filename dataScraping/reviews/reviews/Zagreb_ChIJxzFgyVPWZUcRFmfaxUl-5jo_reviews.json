@@ -1,0 +1,66 @@
+{
+    "name": "Tvornica Kulture",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Berke Yazıcı",
+            "author_url": "https://www.google.com/maps/contrib/112800115290108765743/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6xJTyr38sqdTLqYMWFfBspqfL5lQ_QWGKImZftmG5-3I8-rHl=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "I came to watch Two Feet, but the AC wasn’t working, and there was no air circulation. Even the artist mentioned it felt like 35 degrees inside. The sound was overwhelmed by both treble and bass. They need to improve their climate control and sound quality. I left the event smelling like a sweaty ashtray.",
+            "time": 1720500466,
+            "translated": false
+        },
+        {
+            "author_name": "Andre Smith",
+            "author_url": "https://www.google.com/maps/contrib/104077072171180268823/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFwz6iwLbuUF3T0e_GEsTm7EMCIcsOjzFnSxsARBMGALT0Zw=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "One of the best concert venues in Zagreb! With two big problems: 1. they still use non-reusable plastic cups and produce tons of plastic each evening - such a shame for such a cool place. 2.ventilation has always been a problem, now a bit better, but still rather bad in the smaller part with smoking - just using normal AC instead of proper ventilation for a place of this calibre.",
+            "time": 1728134858,
+            "translated": false
+        },
+        {
+            "author_name": "Marija Mrvosevic",
+            "author_url": "https://www.google.com/maps/contrib/116381578313808839322/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3bpBREfqynmea4g0VTBKA-S40NEKroIHvg7hQXODxL46bwcpf=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "I was at The Hu concert. Of course, the experience of music was awesome. The venue is alright. I like that it's a smaller space. I would, as a vertically challenged person, love to see a venue that has platformed floors. But I'm not holding that against Tvornica, it's a nice place.",
+            "time": 1728032628,
+            "translated": false
+        },
+        {
+            "author_name": "Alexander Nadrilyanski",
+            "author_url": "https://www.google.com/maps/contrib/109847158836908280442/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbAvqyRyV6cn0bszqpdAyO8VXfPsctb3aClQ4mGZHpDQRxiW4tCw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "It can get a bit too warm, but the venue is really unique. Probably one of the best on the Balkans. Worth visiting if you spot a favorite artists playing here!",
+            "time": 1722929611,
+            "translated": false
+        },
+        {
+            "author_name": "Josipa Habulin",
+            "author_url": "https://www.google.com/maps/contrib/114206359768922369068/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA3F_CsSeijstPpNtunID-mGzkzBoeQ1vVQcowOqffse8Go-G5=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "We enjoyed our selves. It was magic flouting back in time with beautiful performance. Tribute to UK music",
+            "time": 1699868575,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Borchardt",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "X Y",
+            "author_url": "https://www.google.com/maps/contrib/108105588886618587257/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVRDTD6zC8YI6e56SGO0Eo3TyYrldtcg-ks4CekZET2yTLDg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Classic Austrian cuisine. This biased reviewer thinks it's inevitably all better in Vienna, but it's still tasty / satisfying at this Berlin institution not far from Checkpoint Charlie and Unter den Linden.\n\nSo busy / packed on a Thursday evening we had people knocking things on our table as they squeezed past getting to/from theirs. I also thought the Kartoffelsalat serving with the Schnitzel was a little stingy for the price-point - not to mention asking for tap water and getting a €9.50 bottle of still mineral water!",
+            "time": 1732454191,
+            "translated": false
+        },
+        {
+            "author_name": "Josh Lawson",
+            "author_url": "https://www.google.com/maps/contrib/117556956930061445160/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWomKvgH162SFWANI62s1KSGWQJmjRV0w6LN-TOnS9yLNb4DErYdg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "A proper German treat in the heart of Berlin! If you’re looking for a classic Wiener Schnitzel served on an amazing potato salad, this is a must! Service was impeccable and the food from start to finish was delicious!",
+            "time": 1731980306,
+            "translated": false
+        },
+        {
+            "author_name": "Erik Thrane",
+            "author_url": "https://www.google.com/maps/contrib/117648089172679348006/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIHqczqM2m-RYY1dXBoEWlMxrVewxzSKWyMm_wVplclZz4rVY=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great traditional food, very good service and an authentic atmosphere. The only hair in the soup for me is that the establishment allows people to bring their dogs. While we were there a couple of them started to bark aggressively at each other.\n\nRecommended!\n\nPS: We came back a few days later to lunch again, because we liked the food, the service and the authenticity of the place so much. The second time we did not have a reservation, and the place was packed. But we were greeted very kindly and quickly given a table. Everything was as good as the first time around or even better as there were no dogs the second time.",
+            "time": 1729759935,
+            "translated": false
+        },
+        {
+            "author_name": "KD",
+            "author_url": "https://www.google.com/maps/contrib/100550746535396969485/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_pdMda2CwjvpoYWYlkHo_GfZJ_ltDF0DRuhtQFd4d4LNS-037=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "A restaurant where you can enjoy German cuisine.\nThe atmosphere in the back garden was nice and open, but it felt a bit cramped due to the number of tables.\nThe waiter was very friendly, and I didn't experience any of the negative impressions mentioned in other reviews.\nThe food was tasty, but not exceptionally delicious considering the price.",
+            "time": 1719421300,
+            "translated": false
+        },
+        {
+            "author_name": "Abdulaziz S",
+            "author_url": "https://www.google.com/maps/contrib/117040641158270568638/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRmMFafgk1gisOhyVQMMBnFWQvVnikpvbVYjJH8kD3U3ObKFo=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "This is a must_visiting place in berlin…they are known for the classic Schnitzel…it was good..we ordered black angus fillet and it was ok…chicken ceaser salad was a good choice, too. The mousse chocolate was really worth it 👍🏻",
+            "time": 1730831552,
+            "translated": false
+        }
+    ]
+}

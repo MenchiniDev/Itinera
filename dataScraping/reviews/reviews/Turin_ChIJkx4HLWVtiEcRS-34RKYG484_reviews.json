@@ -1,0 +1,66 @@
+{
+    "name": "La via del sale",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Emma Donatantonio",
+            "author_url": "https://www.google.com/maps/contrib/110249859774432571634/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwoytsI_uZYgdLOGbO-_h_DX8kqQK6Uq5Iziu8CpIoTf68Ng=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I had a fantastic meal here this evening. The food was exquisite, but it was the service from Laura that truly set this restaurant apart, elevating it from great to exceptional.\n\nSpecialising in traditional Piemontese cuisine and boasting a strong Google rating, we knew we were in good hands. We began by sharing the vitello tonnato, where the tonnato sauce had an intense and beautiful flavor, and the melanzane, which was stacked with fresh tomatoes and slathered in a delightful toma cheese sauce.\n\nFor our main course, we wanted to share three pasta dishes, and Laura was more than willing to accommodate. She explained that she left it up to the chefs to decide whether to serve them as three separate dishes or pre-shared. Ultimately, the dishes arrived in two stages. First, we were served a plate with two halves: one side with agnolotti and the other with tajarin in a rabbit and courgette ragu. Both were incredible, with intense flavors and clearly freshly made pasta. When we were ready for the gnocchi, Laura it brought out—beautiful pillow-like puffs in a creamy Castelmagno sauce. It was incredibly decadent and sensational, though I was thoroughly stuffed by this point!\n\nMy partner opted for dessert, and we were brought two spoons for the bonet Piemontese, a traditional chocolate and almond bread pudding. We finished with a limoncello each.\n\nWe were seated outside near the classic Turin arches, making for a perfect Torinese experience overall.",
+            "time": 1724100830,
+            "translated": false
+        },
+        {
+            "author_name": "Arunraj Chidambaram",
+            "author_url": "https://www.google.com/maps/contrib/108973323049153577501/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeiK5I9iBltN8TztHi6CA0UQdwxdLFTO8zQxWYieM3sreExlfx=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "A memorable dining experience for us. There were lots of options on the menu to taste the local Piedmont cuisine including vegetarian options. The staff were very friendly especially the lady staff who served us and spoke french to us. They were pet friendly as well.",
+            "time": 1713721048,
+            "translated": false
+        },
+        {
+            "author_name": "Joseau Dasuki",
+            "author_url": "https://www.google.com/maps/contrib/105623112177039199668/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhjIiMc4vHC6bNZzusFOPg0JwXSZkGanB2QdEuEbUVCy7QTqQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Exquisite local cuisine, absolutely well-presented with kindly service. No doubt I will be back in by the rabbit.",
+            "time": 1720470054,
+            "translated": false
+        },
+        {
+            "author_name": "Wim Casier",
+            "author_url": "https://www.google.com/maps/contrib/105494596352302691518/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8dR277PXijrxAmVbhXbXcpMrKfYXPSj2G9aY6YZXqi-NDcJsr-w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Great food and welcoming hosts. It was a pleasure to have dinner here and enjoy local specialties.\nThank you 🥰",
+            "time": 1726126372,
+            "translated": false
+        },
+        {
+            "author_name": "Robert B",
+            "author_url": "https://www.google.com/maps/contrib/107991862857781039924/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFoHEmiA27gCeHKMJxCcimBhQB1YYkf5uWpkSZVcoiz9n6t2m6=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great meals and service. Highly recommend the Rabbit Pasta dish and the Piedmont IDP hazelnut dessert.",
+            "time": 1718568206,
+            "translated": false
+        }
+    ]
+}

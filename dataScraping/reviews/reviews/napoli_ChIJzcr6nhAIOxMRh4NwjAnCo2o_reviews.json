@@ -1,0 +1,66 @@
+{
+    "name": "Pizzeria Pellone",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Nathalia Fiallo Uribe",
+            "author_url": "https://www.google.com/maps/contrib/113505113549261863578/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4I0BhZOAE6aW3GZgEPhOaXMHl8jryb9jleNR0JTArCwD64A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This place is a MUST!!! we have been for a week in Italy and is the BEST PIZZA that we had. Too bad that we discovered this restaurant in our last day. The service is amazing too! Ana our waiter was so nice and she explained all the dishes that we ask. We order for appetizers potato croquets, and 2 different types of rice balls. I have to say that my fav appetizers always are the rice balls and here they were like home!!! Then we order the best pizza to share. I can’t remember the name but have smoke mozzarella, basil and tomatoes base. And the prices are unbelievable affordable. What an incredible place!",
+            "time": 1729278202,
+            "translated": false
+        },
+        {
+            "author_name": "Ralitsa Georgieva",
+            "author_url": "https://www.google.com/maps/contrib/102927171446087591676/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRXSucpurs-hp5a8ZtU98Qv01v2ZG8aCHqXyoopKdCQupW_0DL=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This is the best pizzeria we have ever been to! It was recommended to us by friends and we didn’t hesitate to pay a visit. I’m telling you - best pizza you will ever have. We had the Mais pizza (to share) and the pasta omelet with their draft beer - can’t stop thinking about this meal. The service was exceptional as well! We will definitely visit again when in Naples and pretty sure it will be the main reason for visiting this beautiful city.",
+            "time": 1722632185,
+            "translated": false
+        },
+        {
+            "author_name": "Alicia Helyer",
+            "author_url": "https://www.google.com/maps/contrib/118215440348675977236/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_sx1MuhDICf3Ck-0qD12aSTfdVAC-gvBMbq2KDY1XLNCTthAp=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I have now been to Pizzaria Pellone two times and both times have literally been magical!  Firstly, they were able to squeeze me and my friend in early because we had to catch a train.  We met Michael, their star waiter, who beyond took care of us! He helped with our order, listened to us when we said we were sadly in a hurry and got our pizzas out in 7 MINUTES!! He was beyond helpful, thoughtful and kind.  I am now here again and Michael has already been so wonderful.  The pizzas are so unique and classic at the same time.  When in Naples, please go here!  It’s a true Neapolitan experience!!",
+            "time": 1720550463,
+            "translated": false
+        },
+        {
+            "author_name": "Megan O'Connor",
+            "author_url": "https://www.google.com/maps/contrib/100502953304538607850/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkZ1xccMaXUF5IO8eytwlBnRBpSj8xtZunM4XEtPRWpJqxVA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Amazing pizza definitely lived up to expectations! We were sharing so they kindly served it up for us already divided which was so nice!! Also very lovely service from Pasquale! Thanks so much",
+            "time": 1726239393,
+            "translated": false
+        },
+        {
+            "author_name": "Patrick Zhang",
+            "author_url": "https://www.google.com/maps/contrib/111878680541835316455/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC7rfJiFjHv6eZOiuFp9ZDkxSO2XKmTIFLopbzPzWTWbmC1X6bCA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Delicious pizza in Naples! There was a 10 minute wait at 12:30 and the line grew when we left. Definitely worth it as both pizzas were amazing. The marg’s cheese and tomato flavor were perfection and super delicious. Definitely recommend",
+            "time": 1718454608,
+            "translated": false
+        }
+    ]
+}

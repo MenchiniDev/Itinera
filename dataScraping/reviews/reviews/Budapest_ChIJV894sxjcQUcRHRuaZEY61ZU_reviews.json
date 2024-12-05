@@ -1,0 +1,66 @@
+{
+    "name": "Pest-Buda Bistro",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Michael Tafoya",
+            "author_url": "https://www.google.com/maps/contrib/101719268092068662868/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt082lZLD3GmmDIFNeWCnUIgQtKh02NnXtVJhF11h7gKzCxQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great local Hungarian restuante. We had the cordon-blue, fabulous! The waiters were very kind and friendly with excellent English. The strudel was amazing, my wife said. I highly recommend this quite little sleeper. You won't be disappointed.",
+            "time": 1730735111,
+            "translated": false
+        },
+        {
+            "author_name": "Callister Voy",
+            "author_url": "https://www.google.com/maps/contrib/103330442075125932609/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJ1iHs5t5yaigDILK9jD6k6sfia2EFSsZILbzyjMXbWVpsKg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "The Hungarian fish soup tasted extremely fishy and muddy. And the stuffed cabbage does not have a nice balance so it's not hearty at all, just very sour as the sauerkraut was way too fermented. Not kidding when I say it's the worst meal I ever had in my life.\n\nService is little to none but I don't expect much as a tourist.",
+            "time": 1732632633,
+            "translated": false
+        },
+        {
+            "author_name": "Lucille",
+            "author_url": "https://www.google.com/maps/contrib/114802474631806245696/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWFJJQOrbhJVtgrBkgNsw4EtVHtMBWSPSlguqREmhVSaPJhPo4=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Stopped for lunch and was very pleased.\nMy partner enjoyed a delicious Goulash which was a rich red with tender beef - a good portion for a small lunch.\nI had a fresh green salad with chicken - loved the addition of pine nuts, the dressing was nice and tangy and the chicken was lightly pan fried so had a nice crunch to it.\nWe order a basket of homemade bread to complement both meals perfectly, soft and fresh.\nThe presentation of the food was great, the decoration was sweet and welcoming. Overall, a great lunch was had.",
+            "time": 1723128730,
+            "translated": false
+        },
+        {
+            "author_name": "Nora",
+            "author_url": "https://www.google.com/maps/contrib/104075400947414008255/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8AWQCEn7aoga2eAN7IDDQ417dyKWZMbGRr0MDjPgR_Bznbw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Great location really near to the beautiful view over the city. We really enjoyed the food, especially the homemade pasta. The service was friendly and our food arrived fast!",
+            "time": 1732979282,
+            "translated": false
+        },
+        {
+            "author_name": "Autumn Wallace",
+            "author_url": "https://www.google.com/maps/contrib/100046582484283358508/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJDUfd3Fq3CP-dZiao3yXOBpD6J7LJVNk-zxXTOYwHTCYhORoRFg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The food was delicious, super happy with the stuffed cabbage and pickled beets. Service was good. When my server presented the bill he said \"there is a service charge that goes to the kitchen, if you were happy with your service and would like to leave some for me you can do that here.\" You had the credit card terminal pulled up with the gratuity % options I didn't even get time to look at my bill. I realized after that there was 14.5% gratuity already on it. I don't care about the amount but the fact the server lied and said there was a service fee for the kitchen when I know that's not true at 14.5%. So instead I ended up paying a 29.5% gratuity. I should have been paying more attention,  but you also shouldn't be worried about getting scammed out of your money",
+            "time": 1729069895,
+            "translated": false
+        }
+    ]
+}

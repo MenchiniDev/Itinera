@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Brunelleschi",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Kelly Roth",
+            "author_url": "https://www.google.com/maps/contrib/101873714710672592445/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIykRjshtdSPMyYwvklLtwO6rMWK5QeebrRgW7sgZTqJIVcCw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lovely hotel in a great location. This is a very high service hotel. They truly try hard to think of everything and to treat each person with care and attention.\n\nWe had a terrific suite without a view. Be warned that it can be noisy on the street but it wasn’t any worse than any other typical city.\n\nAlso the ancient tower connected to the hotel gets a lot of tourist attention so there are often many tour groups located near the entrance.\n\nHotel guests get to check out the free museum located inside (takes about 10 minutes).\n\nBreakfast is nice and offers a lot of different selections.\n\nThe beds are quite comfy and there is a lot of storage for items.\n\nHousekeeping did a terrific job, coming in twice per day.",
+            "time": 1730560843,
+            "translated": false
+        },
+        {
+            "author_name": "Kimberly Schulke",
+            "author_url": "https://www.google.com/maps/contrib/118094096879780399442/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTi18junmG6KAYjK5NUpzVM1nWNFfeNMvICacywagdGlrEZ48=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I only stayed here one night, but it was a lovely experience! The hotel is located on a more quiet side street, but in the most central location in Florence. You have the ability to sit outside their cafe and relax, but are just steps away from all Florence has to offer. The room had all the luxuries you could ever ask for and was very well designed; a warm robe and slippers, water, coffee and tea, blow dryer, mini bar with drinks and snacks, little chocolates on your pillow, etc. I ordered room service for breakfast and it was delicious. They also have a breakfast buffet. The restaurant and bar downstairs looked great, but I didn't have time to check it out. The front desk and staff were very polite and helpful. All in all, I would definitely recommend Hotel Brunelleschi for a topnotch hotel experience in Florence.",
+            "time": 1728743357,
+            "translated": false
+        },
+        {
+            "author_name": "Terri Roddam",
+            "author_url": "https://www.google.com/maps/contrib/105618812783823118732/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcyto0cWqoerlWWZZOxH6rD4pbXsjZmet7lTY_mVXORYgArJhVTg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "The staff knocked it out of park on our trip. Everyone is so helpful with directions, helping us park, they all went above and beyond to make our stay wonderful and comfortable. Highly recommend this hotel and the location is perfect. You are centrally located to so many attractions and experiences. Will stay again for certain. I wish service was this good in the US! 💕",
+            "time": 1730826561,
+            "translated": false
+        },
+        {
+            "author_name": "Bouchra El Manaa",
+            "author_url": "https://www.google.com/maps/contrib/104530515061013184657/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXb7s0eZ4lf8opxsPpP0VHCa2_PUhzX-XIz3Ad2o23sdsQ09ftzzQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I don't know where to start! This hotel is our favorite hotel in Italy.  We had an unforgettable experience from start to finish.  Experience and extremely professional staff.  The room was perfect, and they thought of every little detail.  You will find everything you will need for your stay.  We stayed in man 5-star hotels, but I've never seen this attention to details before.  We will be back 100%.",
+            "time": 1725365255,
+            "translated": false
+        },
+        {
+            "author_name": "susan diehl",
+            "author_url": "https://www.google.com/maps/contrib/111379203429564932614/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7wFMnJR3JLAyTLR0nUpX5vMQo5xWQA-Y_09xgcT8cnf2uEQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "If I could give it 10 stars I would. Rooms were beautiful with complete amenities. The staff was excellent— friendly and efficient. The breakfast excellent. The location perfect. Absolutely nothing missing from this hotel.",
+            "time": 1731697888,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Flemings Selection Hotel Wien-City",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Jack Payne",
+            "author_url": "https://www.google.com/maps/contrib/110006356975490302465/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8HMXeVSRj7i6xctGTelWqmvuBeV0EGIJk4-ZCNC5Ycf8RKA=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "Just bang average overall and overpriced. Staff are not very helpful upon check in (provided no overview of property, handed key card without room number). Whole vibe feels more like a hostel than hotel which is a shame given the price point. You only get your room cleaned every two nights so if you stay for two nights your room never gets freshened. Spend the $50/night to go somewhere else cause this place ain’t worth it.",
+            "time": 1732453555,
+            "translated": false
+        },
+        {
+            "author_name": "Omri Tavor",
+            "author_url": "https://www.google.com/maps/contrib/115531907088272165350/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUy4E26YB_jFVMRMwft7vol1gT2NmLkhdkZzE4EXcoQqWDdSx6z4Q=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great hotel. Extremely clean. Beds are very comfortable. Pillows are a bit flat to my taste. Service was very good. The fitness center was very minimal for gym goers. Only one multi-trainer machine. Note that the shower is in the middle of the room, so if you need privacy, find something else.",
+            "time": 1727899474,
+            "translated": false
+        },
+        {
+            "author_name": "Sam Ashraf",
+            "author_url": "https://www.google.com/maps/contrib/108843849822531867775/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvkr4jeHno9z_oAUVOYZz3Mz8_RZDwTYBYb1qJ2u5OV7YsK2qM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "5/5 A Wonderful Stay at Flemings Selection Hotel Vienna\nI recently had the pleasure of staying at Flemings Selection Hotel in Vienna, and I can honestly say it was a great experience.\nThe rooms were immaculate—spotlessly clean, spacious, and well-maintained. It was clear that attention to cleanliness was a top priority, as everything from the furnishings to the bathroom was in good condition.\n\nAnother highlight of my stay was the location. The hotel is perfectly situated within walking distance of Vienna's main attractions, including the stunning St. Stephen's Cathedral and the Kunsthistorisches Museum. Being able to explore the city on foot made my trip even more convenient and enjoyable.\nOverall, I highly recommend Flemings Selection Hotel Vienna to anyone visiting the city. Whether you're here for business or leisure, the combination of great service, comfortable rooms, and an unbeatable location makes it an excellent choice. I’ll definitely be returning the next time I’m in Vienna!",
+            "time": 1731094943,
+            "translated": false
+        },
+        {
+            "author_name": "Michelle Y",
+            "author_url": "https://www.google.com/maps/contrib/106628864816376191429/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKELEt_VSxDf2R1qOpFwXI0jB0yU52SutXJUWVv6YFyY7pR4A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "The service here is a joke. Staying 4 nights, wifi wasn't working, the front desk was very unhelpful and offered no solution. Understaffed. Couldn't even go to the restaurant cause no one was there to serve you. The rooms are loud, pillow is so unstructured it's the same as sleeping on paper. Had a hard time sleeping as there was a lot of noise all around. Besides location, nothing was good. Better to go elsewhere. Would never stay here again.",
+            "time": 1733091970,
+            "translated": false
+        },
+        {
+            "author_name": "Burak Altıntaş",
+            "author_url": "https://www.google.com/maps/contrib/111284533871430623229/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8V5LHBBDtf0LcN14g87bghSjiPFh29FdbQkimk-bFSCps_A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This was my first time in Vienna, and I’m so glad I chose this hotel. It’s in a fantastic location, right in the center of Vienna, and you can walk to almost anywhere. If you prefer not to walk, there’s a tram stop right in front of the hotel, and within 2-3 stops, you can reach the city’s most central spots or museums. Additionally, the hotel itself is very beautiful and clean. I highly recommend it.",
+            "time": 1728027555,
+            "translated": false
+        }
+    ]
+}

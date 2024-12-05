@@ -1,0 +1,66 @@
+{
+    "name": "Asean Fast Food",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Caitlin Broadhurst",
+            "author_url": "https://www.google.com/maps/contrib/116793439615730723896/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzvfOfQbV8NwUyyysqvw0VTSZufyL2M7-v11ZRzC1MDQzx1IFuZw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "Excellent food at a reasonable price.\nGood portions of food and it was brought to you quickly, all cooked fresh.",
+            "time": 1708277653,
+            "translated": false
+        },
+        {
+            "author_name": "Fatin Al",
+            "author_url": "https://www.google.com/maps/contrib/101179085500091227451/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6U477Wt6mzURAoLPhR2shtbVvV75Vbkz3PAf3Z7HdHpYrLb5R=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Lovely staff, a good variety of options, good food and super cheap! Also beautiful decorations and nice music, highly recommend.",
+            "time": 1561400450,
+            "translated": false
+        },
+        {
+            "author_name": "Onyr Stellæros",
+            "author_url": "https://www.google.com/maps/contrib/104213532750944281710/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEKye222f055irwaCxNGxvVc92yEfequ9uGJaNM3NKsVA-Jkq-=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very nice food, big quantities and fair price. Plus we arrive super late and stayed after 23, and they still were super nice.",
+            "time": 1691280200,
+            "translated": false
+        },
+        {
+            "author_name": "Tommy Maier",
+            "author_url": "https://www.google.com/maps/contrib/100519344187711611365/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtBgvk5zBPWaN6jrg-f7w3DmhT7sz8vt5chRJO4PCd5mGhjg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "Be carefull about the pricing of the sushi displayed on the outside, they have increased the prices on their menu. Also the 330ml water in the menu  is in fact only 250ml.\nFood is good, waiters are a bit pushy and don't like waiting long.",
+            "time": 1571495565,
+            "translated": false
+        },
+        {
+            "author_name": "Timo Gran",
+            "author_url": "https://www.google.com/maps/contrib/108947650689836380512/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8N3OunCdcE1aUxlwR4A4l0TbGAnrpgZEZB-uoYdTFnS6Ubw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Cheap price considering the huge portions. Had the duck and the skin was so crispy and seasoned well. I am a big eater but I was very well satisfied. Great staff too.",
+            "time": 1584014851,
+            "translated": false
+        }
+    ]
+}

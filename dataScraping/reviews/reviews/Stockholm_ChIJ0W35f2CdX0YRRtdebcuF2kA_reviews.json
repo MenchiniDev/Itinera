@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Terminus Stockholm",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Timothy McQuide",
+            "author_url": "https://www.google.com/maps/contrib/108091341344831472488/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx4YD3lQ9SVxzOZwuOUEV3lVTA5ckNe7ZYixp8cXv4EgBM3QLP=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Charming old world style hotel across the street from Stockholm train station. My single room was of a good size and nicely decorated. Breakfast was delicious. Although located across the street from the train station, it was a totally safe and convenient spot.",
+            "time": 1652474287,
+            "translated": false
+        },
+        {
+            "author_name": "Gaurav Sharma",
+            "author_url": "https://www.google.com/maps/contrib/110420558777837362768/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCUY3_n7xsf5AqwPlHv3vVhogFrOY3Da3UnmPXz6WnAp3IrGs4mQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "This hotel takes all the points for the location. Right outside Central Station. The rooms are old but amazingly maintained and comfortable. And also silent and well insulated. There is no air conditioning and this summer was a bit hotter than usual, but I would let them get away with this. 😊 Bathroom was clean and newly fitted. Bedding was comfortable and neatly made.\nBreakfast was a bit of let down. Not too much of a variety. Good for a stay if you want to be right in the heart of the city.",
+            "time": 1535393297,
+            "translated": false
+        },
+        {
+            "author_name": "Christopher Tilley",
+            "author_url": "https://www.google.com/maps/contrib/117803913641384069478/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUb7yvmYxbJMIrhTOC2VlYl42mFJXGGyYJX-HrE6WEtCPBwwJjkkw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "6 years ago",
+            "text": "Convenient hotel near the train station and the centre of town. Very friendly and helpful staff. Good sized rooms and comfortable beds. Hotel is a little dated and rooms are missing facilities like a safe. Nice breakfast, mostly continental style of bread, fruit, creaks and cold meats but does have a cooked component of bacon, sausage, scrambled eggs and tomatoes.",
+            "time": 1526535601,
+            "translated": false
+        },
+        {
+            "author_name": "Matt Dalzell",
+            "author_url": "https://www.google.com/maps/contrib/114853385223672217989/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYAsTsO7zGc5Vn-38JUygtK8byTM9ob43Q4xmwZTLzQ8Q-nw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Loved the location of this hotel, across the road from Stockholm Central Station. I arrived early at 10am and they my room available. Bed was comfortable and bathroom was good size with good water pressure. Great for single traveller wanting something in central Stockholm and close to train station",
+            "time": 1499627368,
+            "translated": false
+        },
+        {
+            "author_name": "Claudia Maftei",
+            "author_url": "https://www.google.com/maps/contrib/104436959941553326980/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrC3wWFjSus6ckaf9Kf4wB1NMIWTzxjqQoSVXomU2QL6uqOQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "Very good position - close to the center, railway station and main subway station. Nice small rooms - I stayed on last floor in the attic rooms. The things that I missed most - there was no hairdryer in the bathroom, no safe in the room and no fridge. Breakfast - acceptable (tasty, but nothing spectacular as originality or variety).",
+            "time": 1560785248,
+            "translated": false
+        }
+    ]
+}

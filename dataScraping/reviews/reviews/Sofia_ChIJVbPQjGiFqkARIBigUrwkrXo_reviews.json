@@ -1,0 +1,66 @@
+{
+    "name": "hotel GENEVA",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "kathrin.kakhniashvili",
+            "author_url": "https://www.google.com/maps/contrib/103222745592146349143/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkdDFduOAXm_CzjgjHH2M7MuDiHFJ7uRrMlkO4mVchwjLvkgU=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "One of the best hotels in Europe. The breakfast bouffe was rich with various of options. Anything we needed was provided for us in seconds and any question we had answered. The room had everything we needed, it was super clean and quite. The location very practical for wherever you are going in the city. Overall one of the best hotel experiences👌🏻",
+            "time": 1721464804,
+            "translated": false
+        },
+        {
+            "author_name": "Emin Ulugergerli",
+            "author_url": "https://www.google.com/maps/contrib/107252448013706103962/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_6iboYBgdODZm44a8s9GVTOwPH8nlfMgLj_u3gkkrVJwxrLJQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "We shall evaluate three stages.\n1- arrival, the location is easy to find and there is a parking space for your car. We left the car at the hotel, and traveled around by metro.\n2-  staff are kid friendly and helpful. The room was clean and large and enough for our needs. Breakfast was good and fresh.\n\n3- neighborhood, There are couple of playgrounds. it is good for the kids to spend some time before sleeping.\nThere are  metro station, convenience, store, and couple of restaurants nearby.\nThanks for pleasant stay.",
+            "time": 1719142068,
+            "translated": false
+        },
+        {
+            "author_name": "Georgi Ivanov",
+            "author_url": "https://www.google.com/maps/contrib/106855809894399150588/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkxKPEg0acs_PJi1kJufe2BJYPL5Cn9Cb9egvhqDcr9ceQ3ec=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I have only been in the restaurant, well furnished, very good kitchen, polite and efficient staff.. The hotel has 6 to 8 parking places aside from the hotel and 3 to 4 in front. Prices are reasonable",
+            "time": 1727796811,
+            "translated": false
+        },
+        {
+            "author_name": "Veli Sarı",
+            "author_url": "https://www.google.com/maps/contrib/108673479217130581461/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7o488s6YbGj0sTQqLEouGyYsJt0C_rdMM1oNkBlckS9bHdG2C=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "We have arrived by night and the staff was very cold. The parking area is very small and there were no place to park (if you pay additional 8 Euros, they forward you to somewhere for parking ). The kids were overslept in the car. While carrying them and luggages, He was not in any help. The rooms were so small for 2 adults and 2 kids. It is just standard clean, the floors are covered by carpets! The bathroom needs updating. The breakfast was just reaching standards. Definitely not a 4 star Hotel!",
+            "time": 1724158890,
+            "translated": false
+        },
+        {
+            "author_name": "Sally Hussain",
+            "author_url": "https://www.google.com/maps/contrib/108586113155508735064/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSIQgD0Jl-4njEbTIX613xmQcH4sc99xsHX_Tlf-i-ysyCVw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Room is standard clean. I didn't like the washroom needs updating. The location is in a narrow street with minimal parking. The breakfast was just reaching standards. It's ok for a night ...",
+            "time": 1719946833,
+            "translated": false
+        }
+    ]
+}

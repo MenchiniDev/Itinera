@@ -1,0 +1,66 @@
+{
+    "name": "Martin Hotel Prague",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Jan Hofman",
+            "author_url": "https://www.google.com/maps/contrib/103324274869897681357/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6oWelcHluD1DZRm79PmbY8FJuGP9vi2Km7uEZcwIu5xwvRg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "The walls between the rooms are so thin that you can hear your neighbors' conversations, you can even hear their phone vibrating. The great location of the hotel and the relatively helpful staff can't make up for the small rooms where everything can be heard. Not to mention the dirty walls.",
+            "time": 1726893415,
+            "translated": false
+        },
+        {
+            "author_name": "Dedre Olwage",
+            "author_url": "https://www.google.com/maps/contrib/107483544920760428190/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZC-3Z0Vn-GTU3K3gkyoOaiqo4PRtRgLAfVfs33E6FZZvnpGPs=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Staff were very friendly. Our room was suitable for our longer stay. Very clean bathroom. Room was also clean and the cleaning ladies made sure we had fresh towels. The receptionist was very friendly and helpful. Every morning we had a good breakfast with some alternating vegetarian options available. This hotel is really conveniently located - you can get to just about anywhere from there via walking or the trams. Really enjoyed our stay here.",
+            "time": 1715541692,
+            "translated": false
+        },
+        {
+            "author_name": "Barbara Forgó",
+            "author_url": "https://www.google.com/maps/contrib/105384057087537618911/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6PEcRD8G78Aucf6JH20Gf8g2xMfWcby1_FCXbPIQNLoMyHg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Nice room with enough space, air conditioned, clean, maybe a bit old. The breakfast was very good, the staff is great, helpful. The location is also good, the tram station is very close.",
+            "time": 1718093849,
+            "translated": false
+        },
+        {
+            "author_name": "Laura Faria",
+            "author_url": "https://www.google.com/maps/contrib/110979896775632520920/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcy5liKqf2Bw01u5WDV0XcHERkeHFA4s-wnKL96rKR5JAFfttc=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Easily accessible to town centre by public transport or walk. The rooms are spacious. Very worth the price, with tasty breakfast included. Staff was very kind and helpful.",
+            "time": 1721157873,
+            "translated": false
+        },
+        {
+            "author_name": "Larisa Holzner",
+            "author_url": "https://www.google.com/maps/contrib/104445194543657872873/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdJnQJJVRqpAcCKD1PigzID4XkWC7yy0lwlHdD-S0gKJa08beB=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Lovely hotel. Big rooms. Located ideally for exploring Prague. The lady at the front desk was friendly and helpful.",
+            "time": 1725698124,
+            "translated": false
+        }
+    ]
+}

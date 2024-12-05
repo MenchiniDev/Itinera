@@ -1,0 +1,66 @@
+{
+    "name": "Ugo",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Charisma Bharadwaj",
+            "author_url": "https://www.google.com/maps/contrib/106921300452029073136/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx4ozwuAF6-y9xfbyhlZLEGqiqsnGYQVub2KoRLSKJ6RTg_KG3dw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "An incredibly kind lady from the staff made Friday (mid)night a truly memorable dining experience that I’ll cherish for a long time. She went out of her way to hand me my scarf which I would've otherwise forgotten. This gesture left me with a really good feeling. Thank you.",
+            "time": 1728247340,
+            "translated": false
+        },
+        {
+            "author_name": "Nelly Mihova",
+            "author_url": "https://www.google.com/maps/contrib/114252462907466628385/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6As_FS6rnqhIy3nyhMr2M-sUWaXEzfml80yRGTkaI8pMWJrXi=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Ugo is not what it used to be. The worst pizza I've ever had. Even though I have ordered it for more than 25 years. It's one of the first restaurants in Sofia,but unfortunately quality has dropped down over time. Better try the donner near Slaveykov square.",
+            "time": 1732971712,
+            "translated": false
+        },
+        {
+            "author_name": "Natalia Naydenova",
+            "author_url": "https://www.google.com/maps/contrib/113472044119303810596/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2j7q9QTzT-kFcWSplhbQFHMmEeri_-2rTgDAErFWQAeZU46edAQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "Suitable place for lunch or dinner (including late dinner). Atmosphere is somewhat ambient and quiet most of the times. There are quite many choices for dishes, including salads, pizzas, pasta, apetizers and others. Vegetarian menu is not as big (I wish there were more vegetarian options for pasta). Food is good and portions are big.",
+            "time": 1643298913,
+            "translated": false
+        },
+        {
+            "author_name": "Nikola Milanov",
+            "author_url": "https://www.google.com/maps/contrib/108423042817871786458/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq-d1b9bn5mcWZXMzhYM5cyzPAdRueGzCg_XprSD_qEVyj-9jA7g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "10 months ago",
+            "text": "Good atmosphere on a Sunday night. Service was questionable and at one moment the server came and said - btw we accept only cash I forgot to tell you.\nI don’t use cash.",
+            "time": 1707073019,
+            "translated": false
+        },
+        {
+            "author_name": "Aria AlterEgo",
+            "author_url": "https://www.google.com/maps/contrib/100284073663942636590/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFc_7ftcgkcDUX6I63D6fqGYBBVIXrvfi8wYgiEAOXU-MH7cq2=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Ugo is my favourite restaurant chains in Sofia: each restaurant has a particular atmosphere and style, great staff and even greater food! The one at 2 Han Krum str. is probably my favourite because of the food (they have a separate, special gourmet menu there which I'm addicted to!).",
+            "time": 1557519136,
+            "translated": false
+        }
+    ]
+}

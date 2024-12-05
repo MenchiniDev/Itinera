@@ -1,0 +1,66 @@
+{
+    "name": "Koto",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Fei",
+            "author_url": "https://www.google.com/maps/contrib/110788367449242708877/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwFkt_vYu4IJU7bsmwejsJHX-sRmIPcaw9WumPkWq6GuCWhCYE=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Koto is the first Japanese restaurant opened in Finland, offering authentic Japanese food. We come here every now and then. There are several dishes we order every time or frequently, and Ebi Tempura (king prawn) is definitely the top one. Their Unadon (eel) is the best among all the others in Helsinki that are offering the dish.",
+            "time": 1718398939,
+            "translated": false
+        },
+        {
+            "author_name": "951623r",
+            "author_url": "https://www.google.com/maps/contrib/100348424946303405881/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZsV_VBFBXuFuxHf6G0ntjAitwPbcH3z8psaqOUHhfT0B02Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "This was the best place that my partner and I tried in Helsinki. The food was authentic and all tasted so fresh, we recommend the udon soup and katsu don. The waitstaff kindly welcomed us into the restaurant even though they closed in 10 minutes (we were starving and didn’t realize everywhere closed so early) absolutely come try this!!",
+            "time": 1714851058,
+            "translated": false
+        },
+        {
+            "author_name": "Elena Prozorova",
+            "author_url": "https://www.google.com/maps/contrib/115793068660350466448/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTqiivw-mLaKudlDIREbh6Ru2iYEaLwOaPi_fRRz_xkRhqmJmG=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "The food was incredible. I liked the eel, it was soft and sweet and salty. Pickles added to the flavor of the dish. Service was kind. They provided origami paper for the child to play with and also some origami toys.",
+            "time": 1716534727,
+            "translated": false
+        },
+        {
+            "author_name": "Thu Pham",
+            "author_url": "https://www.google.com/maps/contrib/111398011765038463032/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGVNfaF0vqf5hVa4ycc0PwCEaQP-8V-jbLDsEYW3i1DJ47zkA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Good food and service. I ordered a set menu called Tempura something to get to try as many dishes as possible. The sushi and sashimi is good, I can't tell how the fish are different from other restaurants but the sushi rice and rice in general here is really good, just the right balance between stickiness and dryness. The highlight of the set is the appetizer, salmon in soy sauce, and the dessert, matcha ice cream with red bean paste.\nOne minus point is that they forgot my tea, which is included in the set. I was full anyway so I didn't ask, but this is one thing the service needs improvement.",
+            "time": 1676139534,
+            "translated": false
+        },
+        {
+            "author_name": "Bea",
+            "author_url": "https://www.google.com/maps/contrib/100606363417199604100/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXyAP4uyHN6ZF-CJ6oLG-IGkZCEPybEGJZQH-hg1V24b2CLiVQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "We had a wonderful dinner here, a rare authentic Japanese restaurant at such a good price.\n\nThe food is made by a Japanese chef. Definitely a must-visit if you want to have an authentic taste 👍\n\nExceptional customer service ❤ Our table was well-served by the waiter. He suggested ginger ice cream for dessert, which turned out to be one of the best ice creams I've ever had in Helsinki!",
+            "time": 1658482417,
+            "translated": false
+        }
+    ]
+}

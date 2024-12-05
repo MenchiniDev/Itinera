@@ -1,0 +1,1057 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.447262,
+                "lng": -3.705863
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4485158302915,
+                    "lng": -3.704472719708499
+                },
+                "southwest": {
+                    "lat": 40.4458178697085,
+                    "lng": -3.707170680291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "VP Metropolitano",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110411123036102166484\">Susheel Vigrahala</a>"
+                ],
+                "photo_reference": "AdDdOWoh_WAtmUSV-fCMgvzML1fPfV1yQ3Te8vDGVhEwTrunQrET7wclOc8pgBWfe0ZuYdBcGAxUrCgGa8FukUj7q0UTVwlUbxVyhnwOcdZZHF5X1P-fucBtJL4RLQ69ZoqsGcd_acD5emq9XOc-IvnnK1qW3_HKtwOnlFZycqvZNkUP_Nch",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ00hYi1YoQg0RHOAg7Tf2nwM",
+        "plus_code": {
+            "compound_code": "C7WV+WM Madrid, Spain",
+            "global_code": "8CGRC7WV+WM"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ00hYi1YoQg0RHOAg7Tf2nwM",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1955,
+        "vicinity": "Avenida de la Reina Victoria, 12, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4246643,
+                "lng": -3.7133071
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4262391802915,
+                    "lng": -3.712304219708498
+                },
+                "southwest": {
+                    "lat": 40.4235412197085,
+                    "lng": -3.715002180291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Krüger - Restaurante Alemán | Cervecería Artesanal, Plaza España",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101195577776454210739\">Krüger - Restaurante Alemán | Cervecería Artesanal, Plaza España</a>"
+                ],
+                "photo_reference": "AdDdOWqZQFMUm0n2pB5kun52pacZpA5eD64GFhhltXEyjFl0NX0GrQ9djJSgDsS6cr8KJUcMnBeAwQ3Abk1DeJ2bkORlxPS9dzboXoKemrginMPtYVZBDdAkfQTF8p0yR0k-0wPtcKGBfDv4Ya2kQ95qSOSgkNZhO3-DYjxHtsJiQmQrAfNT",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ15F3gmUoQg0R14unkpxcexE",
+        "plus_code": {
+            "compound_code": "C7FP+VM Madrid, Spain",
+            "global_code": "8CGRC7FP+VM"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJ15F3gmUoQg0R14unkpxcexE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1338,
+        "vicinity": "Calle de la Princesa, 5, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4126689,
+                "lng": -3.7142336
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4140680802915,
+                    "lng": -3.712895069708498
+                },
+                "southwest": {
+                    "lat": 40.4113701197085,
+                    "lng": -3.715593030291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Corral de la Morería",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 598,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109040115953472934397\">Corral de la Morería</a>"
+                ],
+                "photo_reference": "AdDdOWqMSXytWCiClvTb3eE0RlOHxhFyngwVD9D2C_Zo6gotR-KZoqu67F2tOWjlFZa7RwAnEOi2y8kO0lhEizEvFM-X7_3XlYweYxBAJQVshPhz10nK7G66kMQatjpm8tEhCv0fEUr57XZERip4eEdNpkFlw0eb6xUC7_wEr8fOGJcqLb8W",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJozCS4HcoQg0RrX_GowuiJko",
+        "plus_code": {
+            "compound_code": "C77P+38 Madrid, Spain",
+            "global_code": "8CGRC77P+38"
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "ChIJozCS4HcoQg0RrX_GowuiJko",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3566,
+        "vicinity": "Calle de la Moreria, 17, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.435713,
+                "lng": -3.689798799999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.43692573029149,
+                    "lng": -3.688260069708497
+                },
+                "southwest": {
+                    "lat": 40.43422776970849,
+                    "lng": -3.690958030291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Miyama",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103413616922693654991\">Pancho Alberich</a>"
+                ],
+                "photo_reference": "AdDdOWoRLfUxXo8LM7U22Zb5BjoOZKhdcik-4aNAMBLaaPg9j_k8Jk4IAgzTeF8qj0ylHNf90AgihW2jOmWPQpC-3W_2epYQh812g7OZFXl_fG_VoMnfojePN0dfQkgaU71XEX93DuEsB0UxDeaSXkeWCXmktKBpAweQXSQ1aVpsghC4r-6C",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJP3Jf-uwoQg0Rh5coctpDKto",
+        "plus_code": {
+            "compound_code": "C8P6+73 Madrid, Spain",
+            "global_code": "8CGRC8P6+73"
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "ChIJP3Jf-uwoQg0Rh5coctpDKto",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1171,
+        "vicinity": "Paseo de la Castellana, 45, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.428537,
+                "lng": -3.6863313
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4298278802915,
+                    "lng": -3.684873569708498
+                },
+                "southwest": {
+                    "lat": 40.42712991970851,
+                    "lng": -3.687571530291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Único Madrid",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3500,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112617953548637200078\">Hotel Único Madrid</a>"
+                ],
+                "photo_reference": "AdDdOWpn6P8NS4ivXpUbU5_SmyToCQINnJ-L7Q-q-sT9gtFS1SIUyuNPWtxLV-SPd_Hxo43Nb3LJVzgICEtAQ7olLcMzqwHB4vIRRRj-nMdEeXUE9yOr9lNKnTGOKLj2gDCU1T5GG-gP5i3V__hXMWYigh9nIm3lI9mrTRfoQ62EEuh8BGEE",
+                "width": 5250
+            }
+        ],
+        "place_id": "ChIJtYDFnpYoQg0RxCiQnrXRZcc",
+        "plus_code": {
+            "compound_code": "C8H7+CF Madrid, Spain",
+            "global_code": "8CGRC8H7+CF"
+        },
+        "rating": 4.6,
+        "reference": "ChIJtYDFnpYoQg0RxCiQnrXRZcc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 476,
+        "vicinity": "Calle de Claudio Coello, 67, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.434241,
+                "lng": -3.701002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4356587802915,
+                    "lng": -3.699677519708498
+                },
+                "southwest": {
+                    "lat": 40.4329608197085,
+                    "lng": -3.702375480291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sagaretxe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108886304155423355728\">Sagaretxe</a>"
+                ],
+                "photo_reference": "AdDdOWptHjMDyDkteDsebE0EGvMCk9zRzl54SDGXG70KKGUsH-AjUdHAU1m_YJQwwAwvskNmUkGxIFEpK6UY1fHuchR46rur1PPlob0f_43jf7IbdWljcB4pyW8WjV9FxP4NBco-5o7r6CWl87PdNk7cavxXx4JJsDP_z779uh-as8rH_WtZ",
+                "width": 3008
+            }
+        ],
+        "place_id": "ChIJh7t9I_UoQg0RxM02O8Ayz20",
+        "plus_code": {
+            "compound_code": "C7MX+MH Madrid, Spain",
+            "global_code": "8CGRC7MX+MH"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJh7t9I_UoQg0RxM02O8Ayz20",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3651,
+        "vicinity": "Calle de Eloy Gonzalo, 26, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4186021,
+                "lng": -3.710921599999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4199949302915,
+                    "lng": -3.709297069708497
+                },
+                "southwest": {
+                    "lat": 40.4172969697085,
+                    "lng": -3.711995030291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taberna del Alabardero Madrid - Restaurante Palacio Real",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109339238963686048017\">Taberna del Alabardero Madrid - Restaurante Palacio Real</a>"
+                ],
+                "photo_reference": "AdDdOWoLMfu7jE3HQpUNQ9_sSHLuDUVsE5motXT7xNVXdn3fXjipN6Jxug4pXT8cVah9EQXVuUS1btY5ileOgHyXWL6xUu1UhsTQ6wgnD9_F6CEhjkWJMASMUeoQhdimfdeFWByRrvGCIbCZpv4KYO9aZZQZWZH_GjtOJ7To7EWk4JA2iJ7q",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJq7CeMXooQg0R_hpsTD6w1BQ",
+        "plus_code": {
+            "compound_code": "C79Q+CJ Madrid, Spain",
+            "global_code": "8CGRC79Q+CJ"
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "ChIJq7CeMXooQg0R_hpsTD6w1BQ",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1652,
+        "vicinity": "Calle de Felipe V, 6, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.42477109999999,
+                "lng": -3.6781042
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.42619193029149,
+                    "lng": -3.676779269708497
+                },
+                "southwest": {
+                    "lat": 40.42349396970849,
+                    "lng": -3.679477230291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurante Tía María",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100492023919019096223\">Carmen Simón</a>"
+                ],
+                "photo_reference": "AdDdOWqIhXQTCYwf5op_Tqs9u4Jax7tw4n56G1vhO8IbMLV36rNSCwHuz3AIq_zRng1-peykZurkz_8h6VHdsV3d4-u_X1qeBy1RBcPNLJgviInzsVUO2hVDJXIR5CpK5xuLl4CcK9O1KzKcLWIVe2eI3iAo1uvdSpOm2SmPNSDqkik6h_Re",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJn6OppLwoQg0RV-ZAEi31esA",
+        "plus_code": {
+            "compound_code": "C8FC+WQ Madrid, Spain",
+            "global_code": "8CGRC8FC+WQ"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJn6OppLwoQg0RV-ZAEi31esA",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1037,
+        "vicinity": "Calle de Goya, 54, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.420354,
+                "lng": -3.7011024
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4216967302915,
+                    "lng": -3.699705519708497
+                },
+                "southwest": {
+                    "lat": 40.4189987697085,
+                    "lng": -3.702403480291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Petit Palace Chueca",
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113187988605802498890\">Petit Palace Chueca</a>"
+                ],
+                "photo_reference": "AdDdOWq2_PM2Ounv-VL8VMJAxa-ibZvO1j_WoBlcXNURLb9UUqgiN9X7i-aU24y_F6W6ncFvtH15aCnsc6_CpgFsqSoWyGLFqjbuPc5c4IY-4B5WtlYKfoEYoIkLZswBhtKdioB6G4aSzhTuYFkxPa-8H36VHUDRXvupidU6_vU-JazH6yxY",
+                "width": 1618
+            }
+        ],
+        "place_id": "ChIJZ8eJ5H4oQg0R0heaT0LUcx4",
+        "plus_code": {
+            "compound_code": "C7CX+4H Madrid, Spain",
+            "global_code": "8CGRC7CX+4H"
+        },
+        "rating": 4.4,
+        "reference": "ChIJZ8eJ5H4oQg0R0heaT0LUcx4",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1421,
+        "vicinity": "Calle de Hortaleza, 3, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4270199,
+                "lng": -3.6873236
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4283819802915,
+                    "lng": -3.686095319708498
+                },
+                "southwest": {
+                    "lat": 40.4256840197085,
+                    "lng": -3.688793280291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "ICON Embassy",
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109029759273424032790\">ICON Embassy</a>"
+                ],
+                "photo_reference": "AdDdOWqOqzOWQYKH3H9UB0C-z6Lw6TK9doxhlCeQ9w0Dj8FF9OIFRGJl8IWp36PZNifZDl0bymfXhI4L7xEmQOfaQnMVZp5upEHB-xIWxK7ZT4dgy34HBQh3QgzeMtlc6s79S_k1vMZZh8E-YEch6nFgiL72WcIA75VnaQhwBVfdnAA9UnK6",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ8bkrzJYoQg0RHQnvVKetod8",
+        "plus_code": {
+            "compound_code": "C8G7+R3 Madrid, Spain",
+            "global_code": "8CGRC8G7+R3"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ8bkrzJYoQg0RHQnvVKetod8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 795,
+        "vicinity": "Calle de Serrano, 46, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4240272,
+                "lng": -3.6854174
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.42528233029151,
+                    "lng": -3.683985369708498
+                },
+                "southwest": {
+                    "lat": 40.42258436970851,
+                    "lng": -3.686683330291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "ICON Wipton",
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112263781301103430687\">ICON Wipton</a>"
+                ],
+                "photo_reference": "AdDdOWo7L6sX6wzXEXKp2wn2J2VLAXPZ-tqlc7YjNgN8-s1CDz2e2HEYauhNs3SgSnkyGasFILmdAgrhMiS4qsCtZluaClmKGOVEBMuurZJw6onolTOa-YRiMxfflYlbsjszY1yPw3Q0P0oGpng0Lk1SzhV5mG_qfk-5IOciDHeKflG-YAme",
+                "width": 810
+            }
+        ],
+        "place_id": "ChIJXf7FfpcoQg0Ryp4nK6mgfw0",
+        "plus_code": {
+            "compound_code": "C8F7+JR Madrid, Spain",
+            "global_code": "8CGRC8F7+JR"
+        },
+        "rating": 4.5,
+        "reference": "ChIJXf7FfpcoQg0Ryp4nK6mgfw0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 590,
+        "vicinity": "Calle de Jorge Juan, 17, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4081497,
+                "lng": -3.699811
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.40952463029149,
+                    "lng": -3.698435619708497
+                },
+                "southwest": {
+                    "lat": 40.40682666970849,
+                    "lng": -3.701133580291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Casa de Asturias",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2252,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101965867312963265085\">Jan Kostalek</a>"
+                ],
+                "photo_reference": "AdDdOWrLOZ7mAziE8Bw58SMm5yCrSG6rfcsg4N_w_OzR16eNgbEvzkJW3WpiU_0MQe8kmzcTPcvAe2QyHkgsFyb9ypGQt9Ez4nicMd-ADCOGTxvKw1Y955RkUIfYd7tehHwHzVzuJVzNiiRrs3Mba7eiDobuNSPS0y_60OUrgQxqhOduEG0n",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJa6hrhismQg0RuO0t8lwVOps",
+        "plus_code": {
+            "compound_code": "C852+73 Madrid, Spain",
+            "global_code": "8CGRC852+73"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJa6hrhismQg0RuO0t8lwVOps",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2417,
+        "vicinity": "Calle de Argumosa, 4, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4223075,
+                "lng": -3.689168100000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4236672802915,
+                    "lng": -3.687795419708499
+                },
+                "southwest": {
+                    "lat": 40.4209693197085,
+                    "lng": -3.690493380291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "VP Jardín de Recoletos",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101318484028830464174\">VP Jardín de Recoletos</a>"
+                ],
+                "photo_reference": "AdDdOWqMQOinNYXtIXTYZrOyLkuFq1uxwgZyP07OrnVuOuAhWcpF06rGaraJlRYhvZaD-Q1vTL01QsZo7GvMhXVSB5BC6ADoBtR5rX4KgpJ3pgo5uQqwPQlkx-swECvwAfjTynKdgCBGPUnMjjAKWdQ9gV5GPSuVQ3FnCpAcEnibo75erk_i",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJ0U9LFZooQg0RgdlcHxZdkek",
+        "plus_code": {
+            "compound_code": "C8C6+W8 Madrid, Spain",
+            "global_code": "8CGRC8C6+W8"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ0U9LFZooQg0RgdlcHxZdkek",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 626,
+        "vicinity": "Calle de Gil de Santivañes, 6, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4179938,
+                "lng": -3.673506100000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4193756802915,
+                    "lng": -3.672164769708498
+                },
+                "southwest": {
+                    "lat": 40.4166777197085,
+                    "lng": -3.674862730291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurante Fathe Pur",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 6000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117603701433866235390\">Restaurante Fathe Pur</a>"
+                ],
+                "photo_reference": "AdDdOWr2p-WgKQTpdiAnp_cqQxOPzYnj9hd7alYFLu2UfL91wVgxiSszJawkzOPcy9swpX1Tn4R6_66LGNm9kd_85YknDhlLXw63tAWHr3wiv0MmfIX0lDWoi8HeoEyS4vGe3Fg5P3xM61sR7rUfrYBFPQruh7801h_1A4QP6NLbLk_Dl7P8",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJHYoKE6YoQg0RIIc11zyCrcU",
+        "plus_code": {
+            "compound_code": "C89G+5H Madrid, Spain",
+            "global_code": "8CGRC89G+5H"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJHYoKE6YoQg0RIIc11zyCrcU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1588,
+        "vicinity": "Calle de Ibiza, 42, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4186427,
+                "lng": -3.7067589
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4199204302915,
+                    "lng": -3.705505769708498
+                },
+                "southwest": {
+                    "lat": 40.4172224697085,
+                    "lng": -3.708203730291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Intelier Palacio San Martín",
+        "photos": [
+            {
+                "height": 1067,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107325447909214636732\">Intelier Palacio San Martín</a>"
+                ],
+                "photo_reference": "AdDdOWqon-PNDPFwcoiX43e3qy4qQs3YGyt5PgbiwihPDUrUCoIme7GAoYc8MBslJ2evyvuhcIKAE0wNpMEEGO_TCSQN5jiQB2vzsMwfs_Qot562FWR95X9DSV2EUR0NU1S8Z1LmW0eYgWB-2ujeu__UfYamn9rrbj10MJuwBTkIWgZKhQdZ",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJTVtcF3woQg0REKDT5Fvhaf0",
+        "plus_code": {
+            "compound_code": "C79V+F7 Madrid, Spain",
+            "global_code": "8CGRC79V+F7"
+        },
+        "rating": 4.4,
+        "reference": "ChIJTVtcF3woQg0REKDT5Fvhaf0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1223,
+        "vicinity": "Plaza de San Martín, 5, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4236435,
+                "lng": -3.6774816
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.42506763029149,
+                    "lng": -3.676061769708497
+                },
+                "southwest": {
+                    "lat": 40.4223696697085,
+                    "lng": -3.678759730291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Horno de Juan",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1133,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108546675717328938561\">Horno de Juan</a>"
+                ],
+                "photo_reference": "AdDdOWrqPX2EPzdYBFbSC-pyEb64tIWPHm7EeMH-e_vV1Q8fW2jGOIgJKfz--2rnMafrRvBJUqf451SYOxlt8m_1BUJYNeGIyaVzcmz_6sGVUfHsd1JVuophT2UqqzFCocEAPwEvAnQ8MDnaiDKifzVmINjMhftEO34Yh-s-dzbb-3avPcCA",
+                "width": 850
+            }
+        ],
+        "place_id": "ChIJmxAcq6QoQg0RBo4baWSiVY8",
+        "plus_code": {
+            "compound_code": "C8FF+F2 Madrid, Spain",
+            "global_code": "8CGRC8FF+F2"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJmxAcq6QoQg0RBo4baWSiVY8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 854,
+        "vicinity": "Calle de Lope de Rueda, 4, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.42632020000001,
+                "lng": -3.6786533
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4276852802915,
+                    "lng": -3.677244669708497
+                },
+                "southwest": {
+                    "lat": 40.4249873197085,
+                    "lng": -3.679942630291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taberna de La Daniela Goya",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 621,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108340512334511374463\">Taberna de La Daniela Goya</a>"
+                ],
+                "photo_reference": "AdDdOWr8HXceBPg3yGYcyX_ZZ3aR9BWDI_YIlzLmwE_EKyYhdrbmCCy7wiAsZ1gV4ZG7yyPhTGlhmayYaV8qfgHxi7rN_eMLeYVFn7PnOSF8dy0eJvVkcr8_-aYHRXFDrK2wA8GSPPxaZguZmUtQAVV8gdthBzviTkV48RRjKF2kV-6XWK7B",
+                "width": 467
+            }
+        ],
+        "place_id": "ChIJAdDzirwoQg0RTO4ZOhuU4Pg",
+        "plus_code": {
+            "compound_code": "C8GC+GG Madrid, Spain",
+            "global_code": "8CGRC8GC+GG"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJAdDzirwoQg0RTO4ZOhuU4Pg",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2136,
+        "vicinity": "Calle del General Pardiñas, 21, BAJO, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4264258,
+                "lng": -3.696379599999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.42779178029149,
+                    "lng": -3.695137819708497
+                },
+                "southwest": {
+                    "lat": 40.42509381970849,
+                    "lng": -3.697835780291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Petit Palace Santa Barbara",
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108518281180217141674\">Petit Palace Santa Barbara</a>"
+                ],
+                "photo_reference": "AdDdOWqAKRRwyqKmrRraB6ozLOEOn31rJEF-2E49EmAe2RUejdq7iBxR4nJXARN6c_2LjDibZC906dMta9eVNOzNKuiaguJYulhm_f2n-bMTNSCQ29GaszYQtIZ1w6tmy6p6WDvpcdnkbTENeGyA-RXKL4atuD0_BOwch_lONiEB1ouGiAIa",
+                "width": 1620
+            }
+        ],
+        "place_id": "ChIJOUtt6I4oQg0RVU72AxOfphY",
+        "plus_code": {
+            "compound_code": "C8G3+HC Madrid, Spain",
+            "global_code": "8CGRC8G3+HC"
+        },
+        "rating": 4.5,
+        "reference": "ChIJOUtt6I4oQg0RVU72AxOfphY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1577,
+        "vicinity": "Plaza de Santa Bárbara, 10, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.44157149999999,
+                "lng": -3.6958103
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4430022802915,
+                    "lng": -3.694453269708497
+                },
+                "southwest": {
+                    "lat": 40.4403043197085,
+                    "lng": -3.697151230291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurante italiano Nonsolocaffé",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101403769281338253274\">Restaurante italiano Nonsolocaffé</a>"
+                ],
+                "photo_reference": "AdDdOWqE_GCfFM4U-8L3J6u05M2MqFlSc1ZylqEVPHrN3B2jlhSFjUoaQIUVf2lyL7wOyITfW-iG3pIWEWWBscOLvOzNXaYgVZEtvIJc2knEKK9A-RWRwXdVdEIebBpjGiwyVUUrNFn7-86t5O8GftB4sHXB1SfsiIPehCSMK7qn6dGbziPU",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJxykr5fAoQg0RT7s0VYsD6gE",
+        "plus_code": {
+            "compound_code": "C8R3+JM Madrid, Spain",
+            "global_code": "8CGRC8R3+JM"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJxykr5fAoQg0RT7s0VYsD6gE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1640,
+        "vicinity": "Calle de Ríos Rosas, 52, Madrid"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.4321534,
+                "lng": -3.671916
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.4334384302915,
+                    "lng": -3.670591319708498
+                },
+                "southwest": {
+                    "lat": 40.4307404697085,
+                    "lng": -3.673289280291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurante Milos - La Parrilla Griega",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103162611117250287190\">Restaurante Milos - La Parrilla Griega</a>"
+                ],
+                "photo_reference": "AdDdOWpbbWO3MZlQEIT1YZcR8t6xck6FHz8ya1iCnyUEZQ2EWkH0Eipc4bd2ofDNZIfvv0R71JefaKmM1j1bw-cPbc1cgzvHPw-Htc4yd3btvi2GyjAZ4Uz_w3PmUfWWk2VqVrVIJykjK2CxjvSHEGCNt57Qj5QRA0DLm_Xij6r2_31prt9G",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJpR8EhbcoQg0RG-j_jBFhI0U",
+        "plus_code": {
+            "compound_code": "C8JH+V6 Madrid, Spain",
+            "global_code": "8CGRC8JH+V6"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJpR8EhbcoQg0RG-j_jBFhI0U",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1890,
+        "vicinity": "Calle de Francisco Silvela, 30, Madrid"
+    }
+]

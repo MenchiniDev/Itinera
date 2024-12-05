@@ -1,0 +1,66 @@
+{
+    "name": "LOUIS Hotel",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Aymen Ayadhi",
+            "author_url": "https://www.google.com/maps/contrib/117206221713261005878/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXShkzspiAXAoCjUHfeudkWtkRcIsdn-o3yS4XchC9li0Xfk_zV=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I had a very good time in this hotel. I was positively surprised about the service and the quality.\nThe room was very clean, nice style, modern and unique.\nThe breakfast was very good. The food option and variation quality was excellent. And I liked a lot the breakfast team. They were very friendly and attentive.\nThank you for your service.",
+            "time": 1721558690,
+            "translated": false
+        },
+        {
+            "author_name": "Joyce Hertrich",
+            "author_url": "https://www.google.com/maps/contrib/102832679916266505253/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp2cXLmTu21zswy0CkktxY_2pm4FR_DDzdMc-eu_fzWqfl50M8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Such a wonderful hotel in downtown Munich, walking distance to so many shops, restaurants and bars. The rooms are very nice and comfortable for two people. Discounted parking is available nearby, just ask the front desk for assistance. Highly recommend the hotel for all adventurers!",
+            "time": 1727966024,
+            "translated": false
+        },
+        {
+            "author_name": "CK",
+            "author_url": "https://www.google.com/maps/contrib/109794998637125735164/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAlmEjyN-stxTaX4XJQ0j8-qZcDl1FTlzbD9Lmo6RpxuRgoyV4=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I went there with my dogs, and I loved it! The dog beds, cups, and snacks were nicely prepared for them. I like everything here, it’s quiet, nice room, nice view, but some small things are a little bit run down, like the lift that looks a bit old, and the rain shower in the room doesn’t really want to work. Overall, I still love this hotel.",
+            "time": 1720980386,
+            "translated": false
+        },
+        {
+            "author_name": "Karen Bennett",
+            "author_url": "https://www.google.com/maps/contrib/109416768715376992922/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIL8vzBmW6ZdSq0Buis0LdMzfyAox1osZXPMoUbMk0MmpcrWw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I am writing this review from room 406 on the 5th day of our 2 week honeymoon at this amazing hotel. We have stayed in Munich numerous times,  at a number of different hotels in the city centre and not one comes close to this hotel.\nFrom Entering the reception area on our first day we were in awe of how beautiful everything is. The staff are wonderful, especially Nikolas at the bar.\nOur room was prepared in a way that made us feel so special.\nWe cannot praise this hotel and its staff enough and look forward to the remainder of our holiday here. Honestly, don't look elsewhere for anywhere else to stay, this hotel is all you need.",
+            "time": 1725981514,
+            "translated": false
+        },
+        {
+            "author_name": "Blas Viterbo",
+            "author_url": "https://www.google.com/maps/contrib/104315300055018803969/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWcUdBgGpEZsavg0Llg12Sd2VaFICH9TLAiLVPubzKP_0DEw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We were in Munich for a short stay to visit a friend at her stables an hour outside of the City Center. Staying at Louis Hotel was a smart and perfect decision. The Hotel through Alexandra efficiently helped us arrange our transports daily. She also assisted in ensuring that our late luggage (Lufthansa) was safely placed in our room the following day. The room was very good, comfortable and quiet. Breakfasts were healthy but need not be. Haha. The waiters were all attentive and efficient.\n\nBest of all, just going outside the door brings one immediately to Viktualienmarkt, Marienplatz and MaximillianstraBe. When we visit Munich again and even if we live half way around the world, we will definitely book here again.",
+            "time": 1726919558,
+            "translated": false
+        }
+    ]
+}

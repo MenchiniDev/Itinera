@@ -1,0 +1,64 @@
+{
+    "name": "Aroma",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Gëzim Preniqi",
+            "author_url": "https://www.google.com/maps/contrib/106984465634436484613/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu8OPfpSLUs7ZbfHmUYGVTMDvDZVkHqMLq4z3yisAFEG4IFwvJzQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "nice place for all people that live in this part of the city",
+            "time": 1488796917,
+            "translated": false
+        },
+        {
+            "author_name": "lalak1980",
+            "author_url": "https://www.google.com/maps/contrib/100880319875342374718/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeOpjg7efyt54mArck0oPWxFLUOxq-zdFV3PCXd7RWvMZzUw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "10 years ago",
+            "text": "Perfect food, great crowd.",
+            "time": 1415356177,
+            "translated": false
+        },
+        {
+            "author_name": "Denis Denis",
+            "author_url": "https://www.google.com/maps/contrib/117298139170753157642/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpyzh-7Jj7uw8azdFcsNIAqUAgZ2ZtrKFa0xdtAvy3OxMw2THQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Extra",
+            "time": 1703016536,
+            "translated": false
+        },
+        {
+            "author_name": "Naim Buduri",
+            "author_url": "https://www.google.com/maps/contrib/112383587341056296180/reviews",
+            "language": "en-US",
+            "original_language": "sq",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoZnrbfzHxn_Xvj-R24COYMA8p_NLqVFgvrdUxi5hCyKHx0nsi=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "perfect",
+            "time": 1554098950,
+            "translated": true
+        },
+        {
+            "author_name": "Marc Soler",
+            "author_url": "https://www.google.com/maps/contrib/112961849067351013552/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoHzsTfJgld1Zd2T6fnBp0ULOBCGLKu3TksCBvYQ1AyM_kHqc=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1696957772,
+            "translated": false
+        }
+    ]
+}

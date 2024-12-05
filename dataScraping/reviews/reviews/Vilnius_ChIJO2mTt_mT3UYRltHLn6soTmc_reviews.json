@@ -1,0 +1,66 @@
+{
+    "name": "GreenHall Restoranas",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Anupam Choudhary",
+            "author_url": "https://www.google.com/maps/contrib/101491186152791513309/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVPbVzkW26MYWx5OQhhklcrTzL1NBc5RRTmuAMAaYTB-40KNw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "Good place for party . We had great office party here. Well managed.",
+            "time": 1574980827,
+            "translated": false
+        },
+        {
+            "author_name": "Darius Daugvila",
+            "author_url": "https://www.google.com/maps/contrib/118421267888276532960/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6nMZoDgdIDoSRDZ4Bm9Yg6lZDRzOLoxHm-2MhurCEET45hSCI=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "The price quality ratio is not that great especially that you can add way too much food for your initial budget. Currently price is 1.3 EUR for any 100g food",
+            "time": 1686659326,
+            "translated": false
+        },
+        {
+            "author_name": "Jurgita Mozolytė",
+            "author_url": "https://www.google.com/maps/contrib/113841533930074182734/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2fYoNZ3xGjam9fuoIEizroPrskD4dOFmido_5Nwd1u5cadHeGEg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "6 years ago",
+            "text": "If you are in a hurry or you have one hours to eat during your work, it is a worst place to be. Dishes from the day menu are brought within 20 - 30 mins. For a simple sandwich - 15-20 mins. But food nice.",
+            "time": 1542972426,
+            "translated": false
+        },
+        {
+            "author_name": "Evaldas Klimas",
+            "author_url": "https://www.google.com/maps/contrib/104342607355085429646/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmIck7sVuFgXdtP4fLHN3LSd-D1hmJKkclK5xsqQlD9G24UobM=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Nice place to eat :)",
+            "time": 1660293187,
+            "translated": false
+        },
+        {
+            "author_name": "Dovydas Godelis",
+            "author_url": "https://www.google.com/maps/contrib/100944414686476296191/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiTccQK2RiroHrmteFR3JynM10QDcmOAbFqbOdcFKbjl-YeK9h=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Restaurant?:) come on... It's faaar from restaurant. It's at best an overpriced canteen:\n- no options for vegans\n- rude staff\n- mediocre food quality",
+            "time": 1661159180,
+            "translated": false
+        }
+    ]
+}

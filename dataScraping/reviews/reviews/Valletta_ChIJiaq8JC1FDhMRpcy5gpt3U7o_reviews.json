@@ -1,0 +1,66 @@
+{
+    "name": "Burger King Valletta",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "Alexis Ravasco",
+            "author_url": "https://www.google.com/maps/contrib/110899869023530017102/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJNrqjZye0sqPpEnoHgCoJG_69tZ8n9GeEHYEZvgiDQPpZGg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Really good! From ordering our food to finishing it and cleaning up. It tasted a lot like Burger King in America! We had #1 (whopper burger) and #14 (crispy chicken cheese burger) with a side of large fries. It tasted delicious! Thank you!",
+            "time": 1717950832,
+            "translated": false
+        },
+        {
+            "author_name": "Armando Bey Castillo (Captain ArBey)",
+            "author_url": "https://www.google.com/maps/contrib/116324897382600900238/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoWU2DaVPhFumGRy4Q8qcb76rSGSqtkzQr8GMPokOPtCuzWi8K=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Nice customer service. Only disappointment was the Nutella Fusion. Small amount of Nutella",
+            "time": 1727024273,
+            "translated": false
+        },
+        {
+            "author_name": "nazmul hasan bappy",
+            "author_url": "https://www.google.com/maps/contrib/104735833726092845479/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFo0hHtVO1g1tucLOoSSUXHlYxMeFYVtG6-3DLmfQorChkLQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Everything good but to get Oder is long waiting, so management needs to increase the staff so customers get Oder more first thanks",
+            "time": 1731781685,
+            "translated": false
+        },
+        {
+            "author_name": "Jibin Martin",
+            "author_url": "https://www.google.com/maps/contrib/102491011697088781380/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYi4_Dvlu0sl2ZMgFD71V3gYhGAgaGfQGO3k-_t9RdL04MFQNK=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Food is amazing, I have eaten there several times, and it still amazes me how fast they are.\nIn 5 minutes I had my food,. Filled with vibrant crew. Generally it's a good Burger King.",
+            "time": 1728634388,
+            "translated": false
+        },
+        {
+            "author_name": "Jamie Wojciechowski",
+            "author_url": "https://www.google.com/maps/contrib/118395565256771020401/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUakE01ugpR0-w4VM6H7SNAv5rRnQUnMBaEphaITkxjfLXnrMfA7A=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Wow, plant based burger and chicken sandwiches.  I didn't think that I would find plant based foods in Malta but Burger King has them\n\nI ordered the plant based Chicken Royale meal.  The sandwich was very good.  Nice lunch.",
+            "time": 1715694301,
+            "translated": false
+        }
+    ]
+}

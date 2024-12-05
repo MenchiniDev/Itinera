@@ -1,0 +1,66 @@
+{
+    "name": "Hotel ibis Milano Centro",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "Kylie - Ann Kobelt",
+            "author_url": "https://www.google.com/maps/contrib/112978339584064714970/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjEfKe0T-7hRK4B4l-Wo-aT97htz6HHYbDTiku0TjDJQicB9ip=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Space was very tight fitting but functional. It was for an overnight stay - fly in and drive away in the morning so it suited us. We don’t hang in a room it’s just to sleep. So would recommend.\nAlways presentable, clean and friendly company.\nAppreciate the compliment water and tea. Not all hotels in the chain offer this.",
+            "time": 1727647549,
+            "translated": false
+        },
+        {
+            "author_name": "Stephen DeGuglielmo",
+            "author_url": "https://www.google.com/maps/contrib/103434293968345960514/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjwdeQXv-5LSTB55DnKjTrjnos_YanDfhVg-9oa3doNPCpNlQ3=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Overall the rooms leave a lot to be desired. As other reviews mention, I found random stains on my walls and the crevice between the floor and the shower was full of dust. It doesn’t seem like housekeeping cares about doing more than cleaning the toilet, sink, and the floors.\n\nAdditionally, the AC was incredibly loud when it ran, didn’t cool the room adequately even considering the fact it doesn’t run at night.\n\nFinally, there was only 1 electrical outlet in the room which wasn’t by the bed which made charging your phone overnight difficult. The USB plug next to the bed didn’t seem to work as my phone still lost a charge while plugged in.\n\nFinally, the shower itself had significant plumbing issues and didn’t maintain consistent temperature: it would fluctuate from scalding hot to cold before temporarily reaching a pleasant temperature only to repeat the cycle.\n\nAt checkout the staff did not inquire if I had experienced any issues.\n\nThe only benefits were that the staff was excellent, the TV had Chromecast support (which was a very pleasant surprise), and the location. I checked into my room around 11:30AM and my single room was available which again was a very peasant surprise.\n\nI wasn’t expecting luxury for the price, but the general cleanliness plus the unacceptable shower temperatures make this a 2 star experience",
+            "time": 1728359847,
+            "translated": false
+        },
+        {
+            "author_name": "Almas Dedanwala",
+            "author_url": "https://www.google.com/maps/contrib/106105864961214052505/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9TdYdKNPt3d2fiFw4cY9B3NsdhGIg7pwFx4CB9g33B4WqMthr=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Very centrally located. Can walk you most places. We had an issue with our room, and the changed it. Same size but better layout. The air con in this room was far better. Great breakfast. Do wish they did cater to HALAL 😢. The room size was quite small but clean and nice. The pillows were also good and the bed was soft. The only funny bit was that the aircon does not operate all day.",
+            "time": 1720161088,
+            "translated": false
+        },
+        {
+            "author_name": "Rick van der Wurff",
+            "author_url": "https://www.google.com/maps/contrib/117665867818307813683/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA5xxeP_zz0jx7PyGXZrzdiGIhKWF9fb8fUrXTQYmRsL9oXfpWfA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Great efficient city hotel. Although the rooms are small, the layout is quite efficient so you don’t mind. The bathroom has a ventilation but no fan, so you can hear the other room. The hotel is situated between 2 metrolines and for some reason it would always point us to the 1 farthest away. Please be mindful of this.",
+            "time": 1731240960,
+            "translated": false
+        },
+        {
+            "author_name": "Adam Hukill",
+            "author_url": "https://www.google.com/maps/contrib/100351815325294834781/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFvG2iXVPCg1BHOxZAeYLk3l7qXXMGUwRqKXcApjyNWl2x_TYg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "The room was mostly fine, the shower didn't drain though. Service was okay, though they advertise a laundry service (overpriced but I was desperate at the time and willing to pay), but I was told I needed to go somewhere else to have laundry done instead. The hotel isn't by any of the attractions and is in a rather sketchy neighborhood (they do have a security guard in the lobby at all times though). Breakfast was good.",
+            "time": 1724051748,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant C'est La Vie",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Irina Jur",
+            "author_url": "https://www.google.com/maps/contrib/117782235485901957472/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhvtDegFY8oAsuUSoSTguTNaNEUkViDWnrizDZv3_uO5ZvHGA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very nice, calm place to visit. Tried the onion soup for first time and liked it very much!  Airy fritters. Also very tasty coffee. Nice French music. Elegant interior and very pleasant service. Definitely the place to come back again!",
+            "time": 1729009393,
+            "translated": false
+        },
+        {
+            "author_name": "K. K.",
+            "author_url": "https://www.google.com/maps/contrib/108752426953029320557/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV042MDX43Y0rBsul-3rPXefCM04clbhY3mjFOwmtqCXk5LveB2ig=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The most lovely restaurant in Tallinn! This newly refreshed family-run restaurant was such a nice experience! Authentic french cuisine served by wonderful people. We had the most memorable evening getting served all tasty food and desserts coupled with quality wines. The Art deco style gives the place a unique atmosphere where you can imagine Edith Piaf singing beautifully while sipping your wine and watching the people walking by the large windows. Special thanks for the the restaurant owner for nice chat after our meal. We will come back!",
+            "time": 1729021685,
+            "translated": false
+        },
+        {
+            "author_name": "Dr Justin.Darby",
+            "author_url": "https://www.google.com/maps/contrib/110149243032340670963/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3idDtTNmz8lTCZZITn5iUiWYdzaAYebveQ4vVuZz1QpW-XA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Great little secret in middle of the Old  Town. Polished friendly service, great food. Stunning terrace out the back",
+            "time": 1731083344,
+            "translated": false
+        },
+        {
+            "author_name": "Ray McGinty",
+            "author_url": "https://www.google.com/maps/contrib/102939195385311317492/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtwsy2760nPQ1KMuY4yyIMZEc18wOp0soqIi01sMCSpFGg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My wife and I had dinner here at this family owned restaurant last night. The interior decor was stylish Art Nouveau, the food was delicious, and perfectly cooked. The service was very friendly but super efficient. Our waitress was attentive, but not overly so. As we were leaving we got into conversation with the son of the owner who kindly showed us around the lower ground floor and the internal courtyard as well has some of his screen prints which decorate the walls. Having only taken over the restaurant this year they are just building their reputation, but an establishment this good deserves to do very well indeed.",
+            "time": 1729838548,
+            "translated": false
+        },
+        {
+            "author_name": "Geoff Batchelor",
+            "author_url": "https://www.google.com/maps/contrib/107734300053622487717/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlTdC_-IsUIAYFS4urFhov2zym6x9iEbDRQmSQ3aQzDAELLN-TIw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Beautifully decorated in art deco style, very stylish. Food and wine very good and service was brilliant. Highly recommended, would definitely eat there again.",
+            "time": 1730126470,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Skeppsholmen",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Julia Luna Ekberg",
+            "author_url": "https://www.google.com/maps/contrib/117257476031509114446/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqZPuCz-ICMctQqhK450OAEQW9MhcqDn0Z3rHFvwfQFN5y4f4m=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Overall an enjoyable hotel, conference and dining experience. I did find the lunch the second day not to my petsonal liking and the breakfast buffet was not as big as as other hotels. But the rooms where very nice, the rest of the food was good and the service impeccable",
+            "time": 1729441343,
+            "translated": false
+        },
+        {
+            "author_name": "K. Esb",
+            "author_url": "https://www.google.com/maps/contrib/104185171969370080394/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHmoDSHD5AI9Wbk6or8PA9M__2p-M4mizQbj--J0N44C2NPw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We love this unique Hotel. Very calm and relaxing spot in the City. It feels like coming home. The beds are super comfortable. We like the vibe of the Hotel. The Hotel is carefully designed. A cool mixture of old and contemporary design. We can‘t wait to come back. Our kids loved playing under the apple trees. We half a fantastic stay.",
+            "time": 1723555573,
+            "translated": false
+        },
+        {
+            "author_name": "Lu de Medeiros",
+            "author_url": "https://www.google.com/maps/contrib/115796502889099020638/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP-gqvJhaqHDClBAX_US77xx1BGYoNnzO3WXu6qhkBQmlplhx4=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Beautiful hotel design and surrounds with cozy and updated rooms. Lack of hospitality since booking and even worse during check in process (glad someone else step into to help and ask for my reservation details). Hotel gives the idea of spa, without offering any additional services nor amenities. Location is ok but for a short trip, probably would recommend a place closer to the city center.",
+            "time": 1728715106,
+            "translated": false
+        },
+        {
+            "author_name": "Franny Civitano",
+            "author_url": "https://www.google.com/maps/contrib/117715177402083046797/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2JkxXabFiaU8ubVXcm1h4ZVONJJqNOmvAHewMw4aq2MAKKxvX=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This is a charming hotel very close to the Modern Art museum, Opera, and the National Museum. The rooms, restaurant, and staff are all charming. The location is perfect: it feels quiet and remote but you are only ~5 minutes from the bustling city center.",
+            "time": 1727873275,
+            "translated": false
+        },
+        {
+            "author_name": "Eric Hamilton",
+            "author_url": "https://www.google.com/maps/contrib/102579965001160926545/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfli043SGXxp8JR7gvAX5jQ-jBvj1YwVTKXhtAR7KDnBhM5w=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Had a wonderful stay at this property, service was excellent, the shrimp sandwich in the restaurant very tasty. As an ambassador, got an upgraded room and two very attentive local presents waiting in the room which was very much appreciated. Great location, quiet but lots within walking distance. would highly recommend",
+            "time": 1720036208,
+            "translated": false
+        }
+    ]
+}

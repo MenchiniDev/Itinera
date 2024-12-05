@@ -1,0 +1,66 @@
+{
+    "name": "Café de Paris Monte-Carlo",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Emily Stonehouse",
+            "author_url": "https://www.google.com/maps/contrib/106759470709557641586/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyePU-ejKa_7V59VV0v5y_L0hjWFHUDZlhLIK8LBxBkGMQVA=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "An institution that is definitely worth seeing if only for the history and great views of the casino and Hotel De Paris. The service was good although our table wasn’t ready on time and we needed to ask for the bill a few times. I had the escargot and Niçoise salad which were nothing special. Overall a good one off experience as a tourist.",
+            "time": 1729512137,
+            "translated": false
+        },
+        {
+            "author_name": "Mihai",
+            "author_url": "https://www.google.com/maps/contrib/111994358926073968242/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXSbB3Wdcpx27VUegvQKytwt5BE7WdFog897QCCJOsO8RL3w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Spent an afternoon on the outside terrace upstairs. Very good service, helpful and jovial staff. However, given that it was July, it was very hot and the terrace had nothing for cooling, just umbrellas (no fans, no water vapor system). Good food, very good and served qiuckly even though it was very crowded. Very clean brasserie, very clean toilets, although it was very crowded.",
+            "time": 1723364459,
+            "translated": false
+        },
+        {
+            "author_name": "Anastasia Brandon",
+            "author_url": "https://www.google.com/maps/contrib/118337968656894886332/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhNBen7pA_rAgOeLQkkiFjpp2ltA4jFanVzfJcMwcf0cAM4qrk=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Stunning. The most expensive coffee and pastry I’ve ever had but also the best. Service is perfect. Coffee and strawberry tart were absolutely divine and the atmosphere, location and view simply cannot be beaten. Highly recommend",
+            "time": 1725565633,
+            "translated": false
+        },
+        {
+            "author_name": "Marina Plavnik",
+            "author_url": "https://www.google.com/maps/contrib/108934423582323281406/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzwOLL1JP2cvgXMWNPCQIF3iOsqWtZFxtvgE9sY9ep_VRxQg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Beautiful place right next to the casino, with amazing ambiance… you can sit outside for drinks and people watching, but we chose inside for dinner next to the open window.  Our meal was delicious, especially the liver - most tender I ever had! Thank you for a great experience.",
+            "time": 1717294470,
+            "translated": false
+        },
+        {
+            "author_name": "RF S",
+            "author_url": "https://www.google.com/maps/contrib/103411702886447409710/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9g4XrNOa_KBf61sKY1HkaUFR0nR8MKHV_ihdEWaf9nsNvzA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We had a wonderful lunch after visiting Monaco. Highly recommend, service and food was amazing. Saw a celebrity as well. Don’t hesitate to book a reservation when in Monte Carlo",
+            "time": 1725538229,
+            "translated": false
+        }
+    ]
+}

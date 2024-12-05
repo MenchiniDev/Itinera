@@ -1,0 +1,66 @@
+{
+    "name": "The Clarence Hotel",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "H",
+            "author_url": "https://www.google.com/maps/contrib/104109780105020377985/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWesBtWBcIeFaMiTNAuH3g5vDaCVHCLpl7pBT5M9YrLd62_NsU_yA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "This hotel is beautifully decorated, the staff are genuinely friendly, and the spaces are impeccably clean. However, a note for those who struggle to sleep when overheated: the temperature is centrally controlled by the hotel, likely on a timer. Our room would get warm, prompting us to call the front desk to have the heat turned off, which they politely accommodated. The room would cool down (helped by opening the window, even in December), but after a few hours, the cycle would repeat. Aside from this issue, everything else about our stay was excellent.",
+            "time": 1733122395,
+            "translated": false
+        },
+        {
+            "author_name": "Debbie Maloney",
+            "author_url": "https://www.google.com/maps/contrib/118236558050810361914/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwW46AvTcGPIA_H9JTosA3vV3jxWzs3ZtRwIu0Xi9m_a4eD6q29Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Fabulous place to stay, room was so clean and comfy. With a lovely spacious bathroom.Staff goes above and beyond. Ross and all the young men on staff that evening made our stay so special. Parking is so handy for a city hotel with a discounted rate for stay at the clarence. Plenty of lively entertainment just around corner. Would def recommend for a short break away.",
+            "time": 1732281942,
+            "translated": false
+        },
+        {
+            "author_name": "Ami Desai",
+            "author_url": "https://www.google.com/maps/contrib/117467572837376869227/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQGFzv-xA-PTS-nEFD_IF05_8tRlhFWaQZ6oelnv8s-UvafdsI6w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Great location in front of Temple bar area.  Restaurant and bar onsite.  Large rooms.  Just very hot because we didn’t know how to work the radiator, however opening the windows helped.  Courteous front desk.  Plenty of counter space in bathroom.  Tub didn’t drain well but good water pressure of shower.",
+            "time": 1732867848,
+            "translated": false
+        },
+        {
+            "author_name": "Barbara VanLenten",
+            "author_url": "https://www.google.com/maps/contrib/109042378974906631397/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS60d8R5WxLO7_zROronEY0AXe90n_H-LcLhnkq7qRN79RsFQTOA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We stayed at the end of September and from the moment we walked in it’s AMAZING! The concierge staff was so welcoming and it was only 11 am but we had just landed from airport and wanted a cocktail. Christopher behind the bar was so friendly and made wonderful cocktails. A suggestion for brunch was made and directions how to walk there. The location is fabulous as we walked everywhere and felt very safe. The River Liffey was a beautiful view on our walks. Highly recommend and much thanks to Christopher ( by the way you can have a cocktail 24/7) gorgeous bar and hotel.",
+            "time": 1728394838,
+            "translated": false
+        },
+        {
+            "author_name": "gagandeep singh",
+            "author_url": "https://www.google.com/maps/contrib/113429321148483730475/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLP_UAVNH1kk-djuC6C6V8OcbcuTJQJxaHjMRqKr_Cpss0xhA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Once Bono’s hotel, this hotel is still quite charming under new ownership. The manager was quite friendly and helpful. The rooms were big and squeaky clean. Aptly located in the heart of Dublin, we were able to walk around from here to all the cool spots.",
+            "time": 1729782563,
+            "translated": false
+        }
+    ]
+}

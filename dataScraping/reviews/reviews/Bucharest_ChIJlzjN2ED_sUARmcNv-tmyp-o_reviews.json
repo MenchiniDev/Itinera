@@ -1,0 +1,66 @@
+{
+    "name": "Pizza Hut",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Sun Shine",
+            "author_url": "https://www.google.com/maps/contrib/118045245657435611285/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUztYkRMmCaWZAf7xpav4K_4IbrlCEyzH-6Dr5Q_tWSzieCsVk=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "in the last week",
+            "text": "Don't sit here. It's not worth it. The wait is long! It's expensive. There are so many better places around where you can eat really good food for this money!",
+            "time": 1732965907,
+            "translated": false
+        },
+        {
+            "author_name": "anca lara",
+            "author_url": "https://www.google.com/maps/contrib/107668862102827993978/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqcVqbfs31zhBsh78Kv3-BcAMVBcAuaT4ccU7caHh_Aum83A=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Pizza always excellent, the bacon burger very tasteful and the chicken salad fresh but the waiting time to bring the food was toooo long!",
+            "time": 1731947939,
+            "translated": false
+        },
+        {
+            "author_name": "The Popescus",
+            "author_url": "https://www.google.com/maps/contrib/103749513418243226575/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTlKioBmRotnjLaErWE6WtT8zZxt-e1WchAe6pvqm0NWyjZGkAug=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "As an American,  I was THRILLED to find a Pizza Hut near our hotel 🥰. Our food was delicious . Server Alex was working VERY HARD and did a fabulous job.  Our pizza was delicious",
+            "time": 1722703026,
+            "translated": false
+        },
+        {
+            "author_name": "κωστας Λουμπας",
+            "author_url": "https://www.google.com/maps/contrib/108148613071827225582/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8pUjFeElm8QIddzFfwJhjyeMKzPOfx_et_AZZTScpMnICxA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "We got margherita pizza for 2 people take away. The employee told us it would be ready in 15 minutes and it was ready in 15 minutes exactly as we asked for it. The employee was more polite and explanatory.",
+            "time": 1731071193,
+            "translated": false
+        },
+        {
+            "author_name": "Alessandro Monte",
+            "author_url": "https://www.google.com/maps/contrib/108678262187498468234/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtyCZKSUUjxWiy3VXKc44tXIj6dW1lXPQ1MQtsykAotcQSbrGX=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "The dough was not fully cooked. The garlic and Parmesan fries were nice.",
+            "time": 1723535222,
+            "translated": false
+        }
+    ]
+}

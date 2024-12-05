@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Milano Scala",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Ran Finkelstein",
+            "author_url": "https://www.google.com/maps/contrib/109325124380276760467/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgCa5agTio0Ybjtvw2LmWpqIh69XJ2aDdB_3CLUF8DFeL1t1VE=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Staying at this hotel was an unforgettable experience! The service was exceptional, with a kind and professional staff who went above and beyond to take care of every little detail, making our vacation absolutely perfect. The quality is evident in every corner of the hotel, and the cleanliness is impeccable – everything felt fresh, spotless, and well-maintained, which made our stay even more comfortable.\n\nThe location is simply unbeatable – close to everything we needed, yet quiet and peaceful enough to truly relax. It’s the perfect base for exploring the area while enjoying a serene retreat.\n\nEven the breakfast was a delightful surprise – it was a high-quality experience. The variety was impressive, the ingredients were fresh, and the atmosphere made it the perfect way to start the day.\n\nIf you're looking for a combination of outstanding service, impeccable cleanliness, a prime location, uncompromising quality, and hospitality that feels like home – this is the place for you. We’ll definitely be back!",
+            "time": 1732609313,
+            "translated": false
+        },
+        {
+            "author_name": "jean schtokal",
+            "author_url": "https://www.google.com/maps/contrib/118249854855743658788/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVSOdEjMHHBXLYzHgNyqI51zMaZaUOtUYtBOYzDwPE5ZvBIHTn=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This is an excellent hotel choice. Very comfortable rooms and beds, nice location near La scala and duomo and service is spectacular. Front desk service is great.  We asked for restaurant, and shopping choices for dresses to attend a wedding.  The female front desk staff are very knowledgeable about the city and made thoughtful recommendations that were winners. The breakfast at the hotel is simply wonderful and includes a live harpist who is excellent.  Again impeccable service right down to the cappuccino.   Can’t say enough about how nice the overall experience was.",
+            "time": 1723764535,
+            "translated": false
+        },
+        {
+            "author_name": "Josh Hobday",
+            "author_url": "https://www.google.com/maps/contrib/107013538649802170232/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLu-ahRitNacL29CqKpwWLlU7oBu8WqJiLCiEwqniJanwV8NQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Impeccable service. The staff couldn’t have been more accommodating. The hotel was pristine, breakfast was wonderful and accompanied by a harpist! Just beautiful!",
+            "time": 1723971765,
+            "translated": false
+        },
+        {
+            "author_name": "Jeff Baynham",
+            "author_url": "https://www.google.com/maps/contrib/110276384608140411940/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqynuOE4ynqi7bcQg419pizKSmTL07xdZWCt70ihijqMjjFPjW=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "The location and service are great. We enjoyed the walking distance to major attractions.\n\nOur biggest disappointment was with the room. We got a \"suite\" which is a two-story room. It was a neat concept, however the room was not all that convenient.  Downstairs was the full bath, desk, closet and a lounging chair. Upstairs was the bed and a half bath.  So, you slept upstairs (the room was not closed off from the downstairs, but open to it), but you had to go downstairs to shower, get your clothes, etc. Upstairs was really just to sleep.  The half-bath upstairs was TINY.\n\nAll that was annoying, but the full bath was a terrible. The shower was a tub/shower combo. However, to get IN the tub, the ledge was REALLY high.  I'm 5'9\" and I struggled getting into the tub and even banged my knee twice.  Additionally, the shower rain head is in the middle of the tub (not an end) and there is no curtain or door.  So water went onto the bathroom floor.  It was honestly the worst shower/bathroom I've ever seen in a hotel.",
+            "time": 1720982379,
+            "translated": false
+        },
+        {
+            "author_name": "Dagoverto Zavala",
+            "author_url": "https://www.google.com/maps/contrib/101804777007072644272/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgRzwM3TxlR6Nc_7urX-e_GCjTKvBx8a-TzKAqLzV5HHXVQQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Excellent service, the best breakfast in all of Italy, and I'm still surprised they have a live harpist play music during breakfast.   It's a short 5min walk to the Duomo and shops.  I stay here every time I visit Milano and will continue to stay here.",
+            "time": 1725615117,
+            "translated": false
+        }
+    ]
+}

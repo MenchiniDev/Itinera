@@ -1,0 +1,66 @@
+{
+    "name": "Hôtel Bedford Paris",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Norah Alshaie",
+            "author_url": "https://www.google.com/maps/contrib/113884912915708776391/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXQmKQfzSmbzzpeTEXHAHgQgZVmeeQKDYDtP7kcpt7vl9_vLrY=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Honestly the best hotel ive stayed in in Paris. The ambiance and parisian style made it so unique and the suite was bigger than any others ive stayed in in europe. Great service, nice and welcoming people and very family friendly. They greeted us with complementaries and the location felt very safe. nice and big bathrooms aswell. So many windows that opened up to the infamous parisian style buildings. 10/10.",
+            "time": 1732891553,
+            "translated": false
+        },
+        {
+            "author_name": "shahad alfuhaid",
+            "author_url": "https://www.google.com/maps/contrib/103404332153217408327/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL32zk2FbdrnbKIii10U_5Qd95AQcAR8BNpiwO-YyNSPzzCUA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Good place , but I hated that the toilet is separate from the shower and sink! Imagine using the toilet then need to open tow doors to wash your hands.. there is no slippers, rope, tooth brush, water, or coffee corner.. if you need boiling water you need to go to the lobby to have one otherwise they will charge you for room service if they bring it to you.. the last thing about the open buffet I didn’t like it at all ( eggs, yogurt, cereal, mini croissants, sausages, and a small plate with 3 type of cheese only!! ) and it was pricey",
+            "time": 1728717943,
+            "translated": false
+        },
+        {
+            "author_name": "Marina Louw",
+            "author_url": "https://www.google.com/maps/contrib/102477136042167261121/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQnrFjvXn2qAelMrXos9E8AbtFtb9eViVkJvpElZ_l6lChxQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "You know you are at the right place if you end up having a drink in the bar with the King & Queen of xxx (trust me on this one). Rooms comfortable, hotel beautiful and walking distance from all the main attractions. Paris! You are special!",
+            "time": 1718337354,
+            "translated": false
+        },
+        {
+            "author_name": "Chris Bossert",
+            "author_url": "https://www.google.com/maps/contrib/105922538863781406593/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoipfZjhOMc9VHF1mxvFpFo-YnCE4P-edL6LCcY_zFYoiSYzEc=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We absolutely loved our stay here. Hotel staff are top notch. Wonderful experience.",
+            "time": 1724283367,
+            "translated": false
+        },
+        {
+            "author_name": "Gordon Davis",
+            "author_url": "https://www.google.com/maps/contrib/109750377592463588111/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuiI7K0gJlH0grLhRn12n3K7Nd-3HtKeWibkqx8wt9pDIWXffi=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Stayed here for 3 nights end of summer and really liked it. Excellent location close to many attractions. Staff was great, helpful and friendly at every turn. The room was a superior double with extra bed. Regular rooms look small. The only issue was English TV channels mostly didn’t work and were confined to news only. They have an option for screen mirror from your device but didn’t work on our Apple phones. Bring a chrome cast is my suggestion. Other than that my suggestion for the hotel is to install USB ports for charging, pretty standard these days. One cool feature was a metal window screen which slides down and fully blocks the window. Aside from the little above issues I would very much recommend this fine establishment.",
+            "time": 1693770050,
+            "translated": false
+        }
+    ]
+}

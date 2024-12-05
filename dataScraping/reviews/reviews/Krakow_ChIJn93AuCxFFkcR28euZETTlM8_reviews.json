@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Justyna",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Dace Vīksna",
+            "author_url": "https://www.google.com/maps/contrib/115783654744255993949/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS2D5voUZEvYJ3ZOEIwwEe1zMQoUblP_Sx_KroS8frnQ5-RQ2h=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Clean, quiet place. Air conditioning. Possibility open window. Drinking water in rooms. Matresses are little bit too hard. Restaurant in lobby is ok.",
+            "time": 1719683897,
+            "translated": false
+        },
+        {
+            "author_name": "Christiane Lohmann",
+            "author_url": "https://www.google.com/maps/contrib/110651618819486961721/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0SoVv0F5RMroG1iCzxh4rgy1sV8Df4rCFQ79ZCWC1t2UE6A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Been here on behalf of Kennel Club Krakow for International Dogshow and truly enjoyed my stay very much. Long time since I had such good sleep, breakfast/lunch/dinner was really fresh and VERY tasty, whole staff always at hand, friendly and helpfull. Thanks for a the nice weekend.",
+            "time": 1689034729,
+            "translated": false
+        },
+        {
+            "author_name": "Opalid Reyn",
+            "author_url": "https://www.google.com/maps/contrib/106724210480730446206/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfLKAkEPlJwmY-K3pcyqpoQQKfOa3eOPVu67-NA4_bHAlqJjbVfA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "The hotel is cosy and the staff was nice, BUT, the rooms are in dire need of renovation, even if the bathrooms have apparently already been renovated.\nBreakfast was terrible, it was my 3rd time in Krakow and the first in this hotel and it was so much worse than the other two, I felt like I was for sure not at a 4 star hotel, breakfast was 2 star at most, I've had way better at small b&b's.\nMy room wasn't cleaned two days of my stay for no apparent reason, I left the towels on the flood and when I came back, there they were in the same place. Once there was no light in the room for a while... Overall, it was not a positive experience at all and I shall not stay here again unless I have to as there are way better offers in Krakow.",
+            "time": 1575327586,
+            "translated": false
+        },
+        {
+            "author_name": "richard sands",
+            "author_url": "https://www.google.com/maps/contrib/100746889743467110296/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkec9714sEaHcOzJVqRgOCuUDL4RNI8tGjkeJ8JTXoMxtqgA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "9 years ago",
+            "text": "I had a prepaid reservation at this hotel.  The concert I was planning to go to was cancelled so I didn't need the reservation any more.  I had no rights to cancel the reservation, but I called the hotel to explain and they were very professional and understanding, voluntarily refunding 80% of the prepayment. I have a really positive impression of the way they handled this problem and I will certainly try Hotel Justyna next time I have the opportunity.",
+            "time": 1426328541,
+            "translated": false
+        },
+        {
+            "author_name": "Luna Violet",
+            "author_url": "https://www.google.com/maps/contrib/112533623158517031036/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEao6-OShDeiSxqrt2pZHoLgPCM7Uo2nWdtgHJcM9MmdUhp__Fzg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Nice room with comfortable beds :) Only a few minutes walk to the nearest tram stop and right next to a beautiful park. I will definitely visit again!",
+            "time": 1560520355,
+            "translated": false
+        }
+    ]
+}

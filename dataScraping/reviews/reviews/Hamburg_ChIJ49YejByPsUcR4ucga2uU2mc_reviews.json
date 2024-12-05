@@ -1,0 +1,66 @@
+{
+    "name": "mama trattoria Hamburg Rathaus",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Nadia Lagar",
+            "author_url": "https://www.google.com/maps/contrib/101292439318218787549/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtM5kagIBI8JN3ajzezoNdq7zFQMTfDoMf6FpMlBdi-D7_wBEw_Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "The risotto was not good at all and the staff took forever to come and take the order. Overall the atmosphere was nothing extraordinary and the food seems very expensive for the quality you receive.",
+            "time": 1723924602,
+            "translated": false
+        },
+        {
+            "author_name": "YC L",
+            "author_url": "https://www.google.com/maps/contrib/111250753419967987228/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOgJ7iJ_YGxHFD-GH6XJituMHMTa6UB96HpsqPM5kz2FQBoc3Stw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "The environment is comfortable and the space is spacious. The food is quite ordinary and unremarkable. The pizza is thin and crispy.",
+            "time": 1727634719,
+            "translated": false
+        },
+        {
+            "author_name": "Paco Puylaert",
+            "author_url": "https://www.google.com/maps/contrib/101572750027852801783/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzxiMg2aITnwq0VQrd9RfsPH8UWjuilek21aWsGlYnYpExJAjetw=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I’m Italian. This was terrible. Don’t do it. We went cause everything was so busy around - but I regret spending my money on fake Italian food. Better to take a sausage on the road and save at that point. Sorry but you can’t make pizzas with that dough. You can’t make people wait an hour for that. You can’t charge that much for that kind of fast food pizza.",
+            "time": 1730639072,
+            "translated": false
+        },
+        {
+            "author_name": "Anthony",
+            "author_url": "https://www.google.com/maps/contrib/112981773484203519932/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzDO1Jp88_RDXntxkjdEkq7kSUVdurixQX8Lv_k5BUztsdyw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Everything about this place was great except the food, but it could have been down to dish choice (I had the veal pasta, which was very salty and had a very watery cream sauce). If I went back, I imagine I would try something else but as things stand I was quite disappointed.",
+            "time": 1730262589,
+            "translated": false
+        },
+        {
+            "author_name": "Topias Partinen",
+            "author_url": "https://www.google.com/maps/contrib/102527354042688024136/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhuvpJunMxhghnV8RR90zQDD4AhjBh6-WAKYsAwt4Lo4tN4241=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "We had to wait for our food for over an hour. We ordered pizzas and they didn't taste good at all. I would not recommend for anyone!",
+            "time": 1729366392,
+            "translated": false
+        }
+    ]
+}

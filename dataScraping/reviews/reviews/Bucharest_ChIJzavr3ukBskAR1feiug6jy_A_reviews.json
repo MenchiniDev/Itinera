@@ -1,0 +1,66 @@
+{
+    "name": "Pui de Urs",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "Alex G",
+            "author_url": "https://www.google.com/maps/contrib/117023138891645880856/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbtUbEZGJhz4vQhtDleTAmVYiYqWECF1_qJ3WlfKq-gceOE2mP=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Visited at 10PM and was expecting the food to come after an hour but it was fast and delicious. Can't say I didn't enjoyed my pizza which was reasonable large for the price of it. Will come again at 10PM. The music was diverse and the furniture was in balanced with the purple ceiling. Really liked that.",
+            "time": 1545950963,
+            "translated": false
+        },
+        {
+            "author_name": "Catalin Calota",
+            "author_url": "https://www.google.com/maps/contrib/116274686564781137011/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8CKsWuRGr8RC4m81bBJkjCA0IR2pCNbqol47BUH7g2Wx9BG1q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Somehow unknown to the large number of young people, that restaurant will be in my heart as long as I will be a party animal. The soup after (and many more fantastic romanian dishes) is a miracle that everybody can try after a long and very hard event that rip you off all your powers (open 24h). Clean, civilized and a gem of culinary experiences in Bucharest. Recommend it to everyone!",
+            "time": 1549189316,
+            "translated": false
+        },
+        {
+            "author_name": "Adrian Apreotesei",
+            "author_url": "https://www.google.com/maps/contrib/100158132753316989026/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4CnyWurmt1Z3xerJyiN9LiLfmbfeoJoR60uNG-mTYzB1kCg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Good food,  always a table for you,  inside or outside,  fast service,  the feeling that you don't get robbed for feeling hungry. Never disappointing.\nChicken soup \"à la Grec\"  world class!",
+            "time": 1498132283,
+            "translated": false
+        },
+        {
+            "author_name": "Daniele Aurelio",
+            "author_url": "https://www.google.com/maps/contrib/107189601688370783820/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXd5KMWyYq9EFiFGG7qZFS3O1z19ZJDI2_IKSIUVr-HP-PyrFtB=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Nice hotel and restaurant a short walk away from the Bucharest Polytechnic University. Quite a few choices to pick from if you're interested in trying Romanian cuisine, as I was. The staff was rather helpful. Plus, it's really close to both a bus stop and the metro station, so finding your way around is no hard task.",
+            "time": 1530569126,
+            "translated": false
+        },
+        {
+            "author_name": "Ciprian Mihalache",
+            "author_url": "https://www.google.com/maps/contrib/116079947628856652716/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfgT3IYcPs6AkcwVByhk7vop-EBt4QF62hKRnaR3ZhmZLDxXCO6A=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "8 years ago",
+            "text": "I am personally pleased with the quality of food. Prices are also quite reasonable. Service might get a slight upgrade but nothing too disturbing. I recommend as a budget eat-away.",
+            "time": 1466496017,
+            "translated": false
+        }
+    ]
+}

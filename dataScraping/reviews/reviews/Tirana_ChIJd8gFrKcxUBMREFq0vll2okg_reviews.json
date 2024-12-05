@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Doro City",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Diana",
+            "author_url": "https://www.google.com/maps/contrib/112175161552147034944/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRzHJ4t__g5RtVkFiT3zX_RG3BE2sxhDXVDPO7Sk4fYTc1Ehzk_g=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "I didn’t enjoy my stay at the hotel.\n🛌 Rooms were very old and the beds were uncomfortable. There was a neon light pointing to the window at all times at the green light was coming in even with the curtains closed.\n📍Location wasn’t great. A bit far from everything.\n☕️ Breakfast was okey, but wasn’t particularly good either.",
+            "time": 1724682517,
+            "translated": false
+        },
+        {
+            "author_name": "Vicente P",
+            "author_url": "https://www.google.com/maps/contrib/110211044842061849301/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQiXFaXM4uWSh1P-OM35XdJr-tYLDwhHs81rOM6iBOLqbt1g=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "The air conditioning didn't work in my room, it was hot, and they didn't change my room when I asked for it.",
+            "time": 1724715149,
+            "translated": false
+        },
+        {
+            "author_name": "Brenda Chapman",
+            "author_url": "https://www.google.com/maps/contrib/117115402129137543354/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2WV_D0G6giy-EuSTSGmTQdowrUnnKQJBn_sprPVs9-paIy7Q=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "The rooms are very small and from the 1960's.   Breakfast is so so.\n\nThe help from the front desk person when I was leaving was awful.  He was sitting in the dark in the lobby.   He didn't have time to stop playing on his phone long enough to assist me.  Never stood up until I pressed the taxi issue and insisted he call.  He argued with me that I was early for my taxi, when I told him I needed one.   I struggled out the door with my bags, and he never got up to help.",
+            "time": 1697430508,
+            "translated": false
+        },
+        {
+            "author_name": "Owen Antoine Lewis",
+            "author_url": "https://www.google.com/maps/contrib/103281865110592767663/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDnAJQycIXZ69Ugzzsq2TyMUXoJ2dBjD17iqpH-RzKzZ3ncL05=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "10 months ago",
+            "text": "Hotel was average overall, room smelt like smoke the whole work trip.\n\nReason I rated this one star is because they charged my friend 10 euros for some beers, and they typed currency worth 1000 euros. Now they refuse to help him or send him the money back.\n\nAwful how you can mix up 10 and 1000.",
+            "time": 1705231989,
+            "translated": false
+        },
+        {
+            "author_name": "Tomislav",
+            "author_url": "https://www.google.com/maps/contrib/114193623604387615153/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqmQTdmFmC27j0n24ItkLa5FjxnnJ0yUP5TOalh8wL4xnpDw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Nice place, I liked the location. There is a nice outside sitting area for guests. Food is not the best, but still enough not to starve. Things that I didn't like:\n-Ancient air conditioning that barely worked, also it seemed like it hasn't been cleaned for a while\n-Neon lamps that were in front of my room. They were flashing and making it impossible to sleep without the curtains on.\n\nOverall, nice place, but with some negligible problems that can be fixed.",
+            "time": 1663774883,
+            "translated": false
+        }
+    ]
+}

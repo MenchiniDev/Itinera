@@ -1,0 +1,66 @@
+{
+    "name": "Mühleholzmarkt",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Besart Shabani",
+            "author_url": "https://www.google.com/maps/contrib/117175819117848239550/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVupOYVkPBvVKrw6o4-sUCun-EfkgEc8qVizDOg88l3ENPk-JOH6Q=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "One of the best Malls in Liechtenstein.\nPlenty of things you can find to buy there.\nIt offers free parking and it has so many spots. Subway, Coop, Interdiscount, a coffee shop, a few clothing stores, apple store and also a drug store is located in there.\nIt’s the best place if you need to buy from Coop, since it’s quite big, it has many things and the parking makes it easier to send your things to the car",
+            "time": 1666084223,
+            "translated": false
+        },
+        {
+            "author_name": "Morgan Flint",
+            "author_url": "https://www.google.com/maps/contrib/100178062921480001199/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmW-T7YsOylOadWAVp1abK3gWKc7xRSrvsI6Qcqyvq4y_jVTNU=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Perhaps the smallest shopping centre I've ever seen. But still nice",
+            "time": 1664354749,
+            "translated": false
+        },
+        {
+            "author_name": "Hoài Anh Lê (plukvn)",
+            "author_url": "https://www.google.com/maps/contrib/117634712122169829381/reviews",
+            "language": "en-US",
+            "original_language": "vi",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhkEj7JLOj_T9qmMrvDJHTWLFre7LVXPhlLMycygPc4mdM9XRzIw=s128-c0x00000000-cc-rp-mo-ba8",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Go to the grocery store and get local beer",
+            "time": 1728563816,
+            "translated": true
+        },
+        {
+            "author_name": "Daniel Lathan",
+            "author_url": "https://www.google.com/maps/contrib/108689944841533498487/reviews",
+            "language": "en-US",
+            "original_language": "de",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFOe_KIfzkTlMBOz-UPIODzyMjLpI2pWPDbLDgv6Cq6OJ7Tppa=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Great coffee on the top floor with very friendly service and a very good Apple dealer (Magic Media) right behind the coffee.\nI've been avoiding the shopping center lately because I'm extremely bothered by the advertising for the vaccination center, which is also on the top floor. I think you can do it more discreetly. Other companies in the center do not receive advertising space in such an exposed location. In addition, there is police-like guarding by security services in front of the vaccination center. I used to often go there with customers to have a quick coffee (Wi-Fi is available) and do quick shopping. The parking space in the underground car park is great - especially perfect in winter and in bad weather.",
+            "time": 1672791072,
+            "translated": true
+        },
+        {
+            "author_name": "The Iron Sheik",
+            "author_url": "https://www.google.com/maps/contrib/114347902211061559714/reviews",
+            "language": "en-US",
+            "original_language": "de",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCyFn0D4lf65sVRfGhK7nRcVzjsVQcn2c4DP4I0IfMovd83Q=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Very cozy, stress-free shopping center with a very well-stocked Coop and nice employees at Interdiscount",
+            "time": 1710272985,
+            "translated": true
+        }
+    ]
+}

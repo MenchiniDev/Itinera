@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Ristorante MO.DA'",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Daniel Čech",
+            "author_url": "https://www.google.com/maps/contrib/107106699157292264879/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUoIHU4fwXlq_oVdhmIM7bJfgQ16Co1Ejudh4LM3QNPU_zFw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "The Mr. Receptionist was the best, really kind and explained everything, with all kinds of benefits. The apartment with 3 rooms was on the top flor with view on the hill with 3 towers of San Marino. GREAT! And Jacuzzi tub... ;)",
+            "time": 1532542269,
+            "translated": false
+        },
+        {
+            "author_name": "Tiberiu Paslaru",
+            "author_url": "https://www.google.com/maps/contrib/111894679933189600310/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDSsHU73tgdSL6BOGyKr_9ULcGITlppbSzVMI2Pdv-tB2xdlSB=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "From the floor above you can see a great panoramic view.",
+            "time": 1703960104,
+            "translated": false
+        },
+        {
+            "author_name": "m bezko",
+            "author_url": "https://www.google.com/maps/contrib/104563259324270047598/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKf8NXZ-AoPcR-qbIpxFF_KKZu2t1cNUERDQVO5j0TSuSJ0QQjv=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Absolute top place for some nights, luxury rooms and baths, kindly owners, very very good!",
+            "time": 1535920049,
+            "translated": false
+        },
+        {
+            "author_name": "francesco toniolo",
+            "author_url": "https://www.google.com/maps/contrib/100195506853691438115/reviews",
+            "language": "en-US",
+            "original_language": "it",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8MTQ_wr0raaWyLmglETaAQub-NiWHJFDpPW1KAgOo_U-RbOBF=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Beautiful place located in a small village. Clean and very welcoming rooms, I can only give 5 stars",
+            "time": 1724307771,
+            "translated": true
+        },
+        {
+            "author_name": "Corrado",
+            "author_url": "https://www.google.com/maps/contrib/117507311706631777255/reviews",
+            "language": "en-US",
+            "original_language": "it",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNsgrSeAOtqJtSmJYWzuIuA9l3aIOXJjTJi8zKEtXFUAwNrQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Hospitality and professionalism at the TOP, Ivan and Carlo, two managers who are very well trained and attentive to customer needs, provide you with cards to take advantage of discounts throughout San Marino plus a tourist guide, spotlessly clean and fragrant rooms, breakfast with fresh products, furthermore their cation is a few kilometers from San Marino and Rimini, the prices are very affordable.\nWe will be back",
+            "time": 1534947855,
+            "translated": true
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Kämp",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Simo Vilmunen",
+            "author_url": "https://www.google.com/maps/contrib/105365979329411184540/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6l_CjYsdXMEtT1XGes8TDIu0YtKVXs7Soi0kqGmJPoLeHE0_s1A=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Had a lovely night here even though half of the hotel was under renovation. Couldn't hear any additional noise due that.\n\nVery friendly staff, rooms were clean and renewed. Breakfast buffet was better than average which included omelette for your liking.\n\nRestaurant staff also quick and helpful.\n\nLocation is just perfect!",
+            "time": 1732049657,
+            "translated": false
+        },
+        {
+            "author_name": "roberto schipp",
+            "author_url": "https://www.google.com/maps/contrib/112135890059548686076/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz81DJp_aFfMVB7Q1whtaLfSNTGZs6EVacLnCaOdC7ZH7NZxZk=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This hotel is undoubtedly beautiful and luxurious and the location at the Esplanade is convenient and scenic.\nThe breakfast caters to Western tastes only, but the view in the restaurant makes up for it. Coffee, tea and service are great.\nEven with the best efforts, the rooms retain a smell from aged materials, as one would expect from a historic hotel. But something to be aware of for those with sensitive noses.\nThe showers are quite small but the rest of the bathrooms is spacious.",
+            "time": 1723548203,
+            "translated": false
+        },
+        {
+            "author_name": "Tristin Clark",
+            "author_url": "https://www.google.com/maps/contrib/101548464804173871881/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUVwRO92nmv24EegbBnjTItLVndUh1oK9qyHG0a7MXA0sXQex4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very elegant hotel. The staff is very friendly and helpful. If I am ever visiting Helsinki again in the future, this will be the place I'll stay. Very centrally located.",
+            "time": 1730742380,
+            "translated": false
+        },
+        {
+            "author_name": "Y. Lin",
+            "author_url": "https://www.google.com/maps/contrib/104550841309860700786/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtX54h3Gh2M4JVzu49xwvmraiX2_uEKYUHhOwrSSOSP1H3bw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Excellent location, solid & comfortable bed, big bathroom, friendly & helpful staffs.\n\nRoom is a bit small, breakfast: selection is limited (wish have steam vegetables, chicken sausage, better coffee). Sauna area is not big.",
+            "time": 1724527243,
+            "translated": false
+        },
+        {
+            "author_name": "Axel",
+            "author_url": "https://www.google.com/maps/contrib/118096862633195721051/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVcSnbPhXx0nRg7K5C9Ad1u8al4-LAo8FcizYoPDWOSG8SZGHS=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Staying at Hotel Kämp was like entering a dream world, but with more luxury and less snooze. From the grand lobby to my spacious room, everything screamed VIP. The bed? So comfy I considered taking it home. The bathroom was bigger than my first apartment!\nBreakfast was a royal feast—I lost count of my trips to the buffet. The coffee alone is worth a stay. I even tried the sauna and came out feeling like a new person—relaxed and refreshed.\n\nHotel Kämp made me feel like royalty. If you want to be pampered and indulge in luxury, this is your spot. Just don’t blame me if you never want to leave!",
+            "time": 1723080893,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Clayton Hotel Ballsbridge",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Diarmaid O'Callaghan",
+            "author_url": "https://www.google.com/maps/contrib/112823314882480140280/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_QlKW_mrP8UJizj5eUS1SmbBpacBykJ6Q3Ytu8_T4fbGrP9ya=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Great stay - the people working there were so helpful and pleasant from our initial contact in reception (Apologies - I can't recall the guys name) to the staff in the bar/lounge and breakfast. Only reason I scored 9 instead of 10 is the the bathroom suite is a bit 'used' and the tv signal kept coming and going; I only watched it for the news & a political interview so it was frustrating. My brother in another room also had the TV problem. Thank you very much - would definitely stay again.",
+            "time": 1732286384,
+            "translated": false
+        },
+        {
+            "author_name": "Malin Convery",
+            "author_url": "https://www.google.com/maps/contrib/106294804751170679451/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTYNMu4JR8lGF2ofIx3sAL6fpm4-uoMqHFagGYNxlxmuRx=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Stayed at this hotel whilst attending a gala dinner nearby. It looks impressive from the outside and is very nice inside to. I stayed there without breakfast included so not sure what it is like. Overall a nice stay.",
+            "time": 1730811041,
+            "translated": false
+        },
+        {
+            "author_name": "Clodagh Judge",
+            "author_url": "https://www.google.com/maps/contrib/111693693100273652203/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4jq6T4kOWKMVvY1Ln1X58v7arN4gbWJKDfBLeLqkQE5_zQ5VU=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Beautiful room for an event downstairs with big cathedral windows! Car park was difficult as i waited for 25 minutes at the barrier before finally getting access. But food was thoroughly delicious, service to our table was absolutely top class and the hotel gave me my parking time free of charge. I will return....",
+            "time": 1729798319,
+            "translated": false
+        },
+        {
+            "author_name": "Neil Bhuiyan",
+            "author_url": "https://www.google.com/maps/contrib/106737600724926814353/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUqGjSyStGy6l_eKvI21uQwL0REKDPupZm0X9PgD0QHYh5YA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I recently stayed at Clayton Hotel Ballsbridge during a business trip to Dublin, and it exceeded my expectations. The hotel’s location is ideal—situated in a beautiful, historic building in a quiet part of the city, yet still close enough to the bustling centre. The staff were incredibly welcoming and attentive, making sure I had everything I needed throughout my stay.\n\nMy room was spacious, clean, and well-appointed with modern amenities, offering both comfort and a peaceful environment for relaxation after a long day. The breakfast was also a highlight—plenty of options, fresh, and delicious.\n\nThe hotel’s proximity to the RDS and the serene grounds around it made it perfect for both work and leisure. Overall, my experience at Clayton Hotel Ballsbridge was excellent, and I highly recommend it for anyone visiting Dublin, whether for business or pleasure.",
+            "time": 1729175995,
+            "translated": false
+        },
+        {
+            "author_name": "Paula Taggart",
+            "author_url": "https://www.google.com/maps/contrib/112560044468011285589/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwK3MajadNszGIe7QLyXpyZKCJ7EEjI2vJFRbC-CCHgtUPGQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "2 weeks ago",
+            "text": "Rooms & hotel extremely clean. However the rooms are uncomfortably hot even with windows open & heating off. Bath was dangerously slippy and sink had bad drainage. We missed breakfast by 10 minutes on our last day as times are different from weekend however this is not clearly advertised. This had been prepaid but we were refused a refund",
+            "time": 1732040987,
+            "translated": false
+        }
+    ]
+}

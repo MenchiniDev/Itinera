@@ -1,0 +1,66 @@
+{
+    "name": "Club Cámara Antares",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Alfredo Sanchis",
+            "author_url": "https://www.google.com/maps/contrib/115215695418552259643/reviews",
+            "language": "en-US",
+            "original_language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFCBaZWqxTDxM6QOsKvhVd_3yiLKsYWPiXoELQt0HDCnlm7e6t=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Perfect place for work meetings, talks or training in a professional environment and with privileged views of Seville",
+            "time": 1731200251,
+            "translated": true
+        },
+        {
+            "author_name": "José M Zambrano",
+            "author_url": "https://www.google.com/maps/contrib/100781749804093012251/reviews",
+            "language": "en-US",
+            "original_language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkQPcKff3Cz4upprJS3zuZf6XnZflJG2jIHXmb7iTcmiBMJZZqHQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Good facilities, although the years go by. A quiet place to eat and chat.",
+            "time": 1522171232,
+            "translated": true
+        },
+        {
+            "author_name": "Angeles Alías Santiago",
+            "author_url": "https://www.google.com/maps/contrib/114684550224061683895/reviews",
+            "language": "en-US",
+            "original_language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNp3UQy2Vg2LyzoR5qttQ8MY7zYjRUb3pdgDOCPOnuPBsD3H08=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "I am a member of the Club and I am going to play sports",
+            "time": 1501108681,
+            "translated": true
+        },
+        {
+            "author_name": "Víctor Góndiz",
+            "author_url": "https://www.google.com/maps/contrib/104086293785300493589/reviews",
+            "language": "en-US",
+            "original_language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8A1DLbqhddc25N38BjQu9jumAO4dL1wxMYxdQp6cpWCXg7QsXUw=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "I love playing paddle tennis here because of how the hits of the paddle on the ball sound, even though the courts are very old and built.\nThe pity is that to use the showers you have to be a member. I'll still sign up any day, although it's a little far away.",
+            "time": 1516023731,
+            "translated": true
+        },
+        {
+            "author_name": "Israel Pintor",
+            "author_url": "https://www.google.com/maps/contrib/109398305360589468937/reviews",
+            "language": "en-US",
+            "original_language": "es",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTr7WWz6jUWCF4b38cnCcTRah64LV7uTCiwvhUl3udzwCZ-awz7w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "A cool place for business south of the city. Although if you ask me the seats in the auditorium are quite uncomfortable. A reform would not hurt to make congresses and conferences more comfortable and pleasant.",
+            "time": 1523459099,
+            "translated": true
+        }
+    ]
+}

@@ -1,0 +1,1075 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1427197,
+                "lng": 9.518848199999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1440772302915,
+                    "lng": 9.520086730291503
+                },
+                "southwest": {
+                    "lat": 47.1413792697085,
+                    "lng": 9.517388769708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Hotel-Gasthof Löwen",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1375,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112304680863422055704\">Hotel-Gasthof Löwen</a>"
+                ],
+                "photo_reference": "AdDdOWrBnYzyTK5oGwByS27AG0aJdB3xFiVNo4geW4SJOpWUhKmY2Lt3w7_i-ncmrKVbwpO-tLs0x4eEufCjaQCCk14b5fihZpJKyaietYZmhEUNO4gh6GcLbuzkeTzVZOmU_D5CbpFivkqS4GGu3Ovpwc1xrb1diisWpyGo7nNsCTjAVQ7t",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJI_KmYGgxm0cRwl8Cuz5aMGM",
+        "plus_code": {
+            "compound_code": "4GV9+3G Vaduz, Liechtenstein",
+            "global_code": "8FVF4GV9+3G"
+        },
+        "price_level": 4,
+        "rating": 4.5,
+        "reference": "ChIJI_KmYGgxm0cRwl8Cuz5aMGM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 165,
+        "vicinity": "Herrengasse 35, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1663889,
+                "lng": 9.477222200000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1676672302915,
+                    "lng": 9.478603330291502
+                },
+                "southwest": {
+                    "lat": 47.1649692697085,
+                    "lng": 9.475905369708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Buchserhof",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106594784695526480551\">Kevin M</a>"
+                ],
+                "photo_reference": "AdDdOWqejvhpgkDE3zvx-7pgjiFjGl1cEuG7rJXfx-B3HwUt7bOenMDybY2Z00tP3ZpjoeEjxG-Zw-7PRiWxyeemfssil0k7Un6KY5d7O9w40i2EvzNNuGhH2dPBtz4t07a19LNPVYV8aZ6c3dJXmSWv6TlXklo8Vi1hgoR2Ch6T8seqrUVz",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJP6LR98gxm0cRq0SOQcw0gMA",
+        "plus_code": {
+            "compound_code": "5F8G+HV Buchs, Switzerland",
+            "global_code": "8FVF5F8G+HV"
+        },
+        "rating": 4.4,
+        "reference": "ChIJP6LR98gxm0cRq0SOQcw0gMA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 637,
+        "vicinity": "Grünaustrasse 2, Buchs"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.14,
+                "lng": 9.5227778
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1413514302915,
+                    "lng": 9.524100180291502
+                },
+                "southwest": {
+                    "lat": 47.13865346970851,
+                    "lng": 9.521402219708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Residence Hotel Vaduz",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2240,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102503312320794601295\">Residence Hotel Vaduz</a>"
+                ],
+                "photo_reference": "AdDdOWrooVrvL9nE00PbhrAarlyU7H8RGW7O6h64whPIKrmDCfHlK-6JYidjj5a1Ldjt7X_jpa0LYE1nYEQCg7uY6DsTn-nD3nRO-lsPrztuVa412gWOqFS1zHzqKKOv0ejkrTD5hK-8EmXjWjBGZMSgj_BzLnAllbfNBt3KXTlB1Qxhkl-B",
+                "width": 3360
+            }
+        ],
+        "place_id": "ChIJk_aaPV0xm0cR6HRlSpjSsqY",
+        "plus_code": {
+            "compound_code": "4GQF+X4 Vaduz, Liechtenstein",
+            "global_code": "8FVF4GQF+X4"
+        },
+        "rating": 4.7,
+        "reference": "ChIJk_aaPV0xm0cR6HRlSpjSsqY",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 216,
+        "vicinity": "Städtle 23, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.147138,
+                "lng": 9.52332
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1483229802915,
+                    "lng": 9.524769030291502
+                },
+                "southwest": {
+                    "lat": 47.1456250197085,
+                    "lng": 9.522071069708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Park Hotel Sonnenhof",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3924,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106501412825671092390\">Park Hotel Sonnenhof Superior</a>"
+                ],
+                "photo_reference": "AdDdOWpbc976-0sFBI60NlcFSKc_Ry7xzrd7uBGzdFAFfrgI6r2WfntP3TyTkgWvrCOdIjX8OugsQ6dHuuofhtJDKe5uLHZ_fnq1kwCtkIrqfxUfiP-68Pvs4RIt4znSimucqdL8oRQMilzZeN2jNMqNzJuANvy6DluLeRgWXly834x1NBr5",
+                "width": 7778
+            }
+        ],
+        "place_id": "ChIJ52H84EExm0cRq91gcg62_q4",
+        "plus_code": {
+            "compound_code": "4GWF+V8 Vaduz, Liechtenstein",
+            "global_code": "8FVF4GWF+V8"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ52H84EExm0cRq91gcg62_q4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 466,
+        "vicinity": "Mareestrasse 29, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.14713769999999,
+                "lng": 9.5233196
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1483228302915,
+                    "lng": 9.524768830291503
+                },
+                "southwest": {
+                    "lat": 47.1456248697085,
+                    "lng": 9.522070869708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Marée",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5417,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100322837667931861633\">Marée</a>"
+                ],
+                "photo_reference": "AdDdOWoh3-Z7wGaLumxJkKAvrKT7H3e1JiQ-7PTk2LOQbKn5WkEE4C1G1fhSThBBHvzSKL8C1mpeooP2ApvNLaBDg-_SqONkS9i_Vo2lYmVggzTXovf4AGsP-xPxXI_avN-CI3S1qI4E4xU9DvWpvw7GDqQjjQt-pTExyp_UMi75jT6vc_gT",
+                "width": 7887
+            }
+        ],
+        "place_id": "ChIJ52H84EExm0cRj35s5dvimWs",
+        "plus_code": {
+            "compound_code": "4GWF+V8 Vaduz, Liechtenstein",
+            "global_code": "8FVF4GWF+V8"
+        },
+        "price_level": 4,
+        "rating": 4.8,
+        "reference": "ChIJ52H84EExm0cRj35s5dvimWs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 120,
+        "vicinity": "Mareestrasse 29, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1173105,
+                "lng": 9.543486
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1186679802915,
+                    "lng": 9.544931030291501
+                },
+                "southwest": {
+                    "lat": 47.1159700197085,
+                    "lng": 9.542233069708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Kainer",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100349824335581838772\">Roman Vosicky</a>"
+                ],
+                "photo_reference": "AdDdOWp-KnSK6s4Z3T-qrNonqKMCeawKItqC195wua3ZNHzNBBGIvZzANnORwdZSvVSOROPTsLealFXKNGlej_UGkfoXFOnVza48QRw7KDR56VytMNIyoJmTxTrjzrDBQ_QwNEp2P_Y3rtB-yEDvHgdpgvPwc-1_8KgXk0HPXDYF9YSU1EFM",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJd5cJKgk0m0cRNhgkNb_ugmc",
+        "plus_code": {
+            "compound_code": "4G8V+W9 Triesenberg, Liechtenstein",
+            "global_code": "8FVF4G8V+W9"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJd5cJKgk0m0cRNhgkNb_ugmc",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 291,
+        "vicinity": "Landstrasse 10, Triesenberg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1196822,
+                "lng": 9.489967599999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1212938802915,
+                    "lng": 9.491517830291501
+                },
+                "southwest": {
+                    "lat": 47.1185959197085,
+                    "lng": 9.488819869708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Pflege- und Betreuungszentrum Büelriet",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5096,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108418526033776243257\">Pflege- und Betreuungszentrum Büelriet</a>"
+                ],
+                "photo_reference": "AdDdOWqIpsde1eLaeo-jjEiwWry-DCV2nH-SboQFT8b-QkHm9lsplTrw4g7nkdIwL2lPqB8Cdadapd7Nq1Q2KzdhplvOeVMWvaT0hNlkDB7MuOcxmL4H8HKr7cKi-pRMHpXiQQ89bfdQiqeNVbAdHQAPtI0d-GAgGpWyAB5k052G_WlJixQ",
+                "width": 7635
+            }
+        ],
+        "place_id": "ChIJ9UF0OjMym0cRvCkdiJtNY1c",
+        "plus_code": {
+            "compound_code": "4F9Q+VX Sevelen, Switzerland",
+            "global_code": "8FVF4F9Q+VX"
+        },
+        "rating": 4,
+        "reference": "ChIJ9UF0OjMym0cRvCkdiJtNY1c",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "Büelstrasse 30, Sevelen"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.13195820000001,
+                "lng": 9.543731500000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1332559302915,
+                    "lng": 9.544992380291502
+                },
+                "southwest": {
+                    "lat": 47.13055796970851,
+                    "lng": 9.542294419708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Berggasthaus Masescha",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 900,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110946630405656450827\">Berggasthaus Masescha</a>"
+                ],
+                "photo_reference": "AdDdOWoEIOFTESD8FXs2ChAbcSqzxeVd1kls9zlwvQ-RbRnEGuqlwOC_ZdvHnTHvImLKhkX6wGMp1xbd13tvihW0aIdUV3HfA_t0YRDczGSW7Xr1feA8iT1GGxSphQdqJEno9v9uIOEtrxhSKr3Fa5GjUl52QKBkrJ55DajB7s845oqlFYSf",
+                "width": 923
+            }
+        ],
+        "place_id": "ChIJfWGTCgg0m0cRJzWolXEidaA",
+        "plus_code": {
+            "compound_code": "4GJV+QF Triesenberg, Liechtenstein",
+            "global_code": "8FVF4GJV+QF"
+        },
+        "price_level": 2,
+        "rating": 4.8,
+        "reference": "ChIJfWGTCgg0m0cRJzWolXEidaA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 367,
+        "vicinity": "Maseschastrasse 48, Triesenberg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1222082,
+                "lng": 9.488063600000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.12352003029149,
+                    "lng": 9.489431230291501
+                },
+                "southwest": {
+                    "lat": 47.1208220697085,
+                    "lng": 9.486733269708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cantina Bad Rans",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104569959317196884988\">Cantina Bad Rans GmbH</a>"
+                ],
+                "photo_reference": "AdDdOWpbac6AqH5UfCDJBegEwoANCVyJ4Vf-WD8VNQlw9AehWsB4N7n-l1dEnqKacKMffHwySjJcoTwCEWYPC5kiQKPezFmns_IHXn3qi40HDbS3NQ_-RZ-4bCEbPGDgHu8YecMXMIji3WaN4L3QUuLs_KUhcb2oSNZlCxYnRDg7oA0BriD5",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJdSeuK4gxm0cRsFZVfS__pnQ",
+        "plus_code": {
+            "compound_code": "4FCQ+V6 Sevelen, Switzerland",
+            "global_code": "8FVF4FCQ+V6"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJdSeuK4gxm0cRsFZVfS__pnQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 473,
+        "vicinity": "Bahnhofstrasse 46, Sevelen"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1193889,
+                "lng": 9.5440101
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1207460802915,
+                    "lng": 9.545430930291502
+                },
+                "southwest": {
+                    "lat": 47.1180481197085,
+                    "lng": 9.542732969708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Bäckerei Guflina",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102565848851862201383\">Daels 1999</a>"
+                ],
+                "photo_reference": "AdDdOWpw3dt4p50e0uPaj9x1zVZlBvoYk4NG2or1g1Nmy90d8plRFcxAldKFvfpjTSXMsY8rxR1-EU19vV5Kxy5NMQRL9sr0s2YXzCrk_k14-bvux5oWIEyVeEpxg1ihMVIPR1yHcRiMl0qUNv9dvqb3y1RjWSNeA0c1Vkv4Z_6aILnyIat1",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJVVVVVSE0m0cRJgzsUA6crG0",
+        "plus_code": {
+            "compound_code": "4G9V+QJ Triesenberg, Liechtenstein",
+            "global_code": "8FVF4G9V+QJ"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJVVVVVSE0m0cRJgzsUA6crG0",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bakery",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 240,
+        "vicinity": "Rotenbodenstrasse 3, Triesenberg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1399403,
+                "lng": 9.521396599999997
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.14129723029149,
+                    "lng": 9.522807830291503
+                },
+                "southwest": {
+                    "lat": 47.13859926970849,
+                    "lng": 9.520109869708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "New Castle",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2584,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106822314707831905814\">New Castle</a>"
+                ],
+                "photo_reference": "AdDdOWrHeACrUNcJCbUPpCw677FJSZX2QT4n7Cl4TwMITwnn5BxqcFQSWg5J_5zG9LR9_29FLpFL2My5SmUggtkF5J7xVLvucBO-2K4SHcAjHRRX0h7QYnjHQO1Zu6gXJk-QZravwwNEMStcCd2mRQ2kOB8ysx83pMIomaYefRNen45gTTHC",
+                "width": 4592
+            }
+        ],
+        "place_id": "ChIJwwEBZ10xm0cRtdunxINxvGw",
+        "plus_code": {
+            "compound_code": "4GQC+XH Vaduz, Liechtenstein",
+            "global_code": "8FVF4GQC+XH"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJwwEBZ10xm0cRtdunxINxvGw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 598,
+        "vicinity": "Aeulestrasse 22, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1405885,
+                "lng": 9.522747899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.14191033029149,
+                    "lng": 9.524013530291503
+                },
+                "southwest": {
+                    "lat": 47.1392123697085,
+                    "lng": 9.521315569708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cesare",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111283217643710494692\">Ristorante Cesare</a>"
+                ],
+                "photo_reference": "AdDdOWr4Vvl2YaeCS4qHc94znKBQ487sutiW66HNFKrbabfBIfPAkAdE14_tnvjVDk-B9O7V9Lne-aF2wxtMrvG_5xf_j9G-yb7PCvWL7VK4N2IdV19Bf-5TZ2sXmLmqSPgZ8YP7EQN_RhA1qYBug4pfMdW6ecby6olre53uxvtErZNeomL0",
+                "width": 900
+            }
+        ],
+        "place_id": "ChIJ3btbN10xm0cR0UN4M2pv9rQ",
+        "plus_code": {
+            "compound_code": "4GRF+63 Vaduz, Liechtenstein",
+            "global_code": "8FVF4GRF+63"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ3btbN10xm0cR0UN4M2pv9rQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 32,
+        "vicinity": "Städtle 15, Vaduz"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 47.13904040000001,
+                "lng": 9.522278900000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1403742802915,
+                    "lng": 9.523774580291501
+                },
+                "southwest": {
+                    "lat": 47.1376763197085,
+                    "lng": 9.521076619708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dolce Vita Ice Cream Parlor",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 1572,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117240400153207042922\">Dieter Mathis</a>"
+                ],
+                "photo_reference": "AdDdOWqCaaPed4aM6689OXBq3vqD1KyuprXXn5vhTwTckef7mzMcPZ0IuvlSYapQcyrOci_i_aQytLnrs-AjhJ-Xgf2C9xY7jt2pbgW4bgiNS-cia6oCTYGTc5_8-nnnns-kyjMDOK_IJcTXOQ5n8rId_z_IkHILQNdK1FSimJpSFsp491KC",
+                "width": 2362
+            }
+        ],
+        "place_id": "ChIJ6Uz8C10xm0cRrXdpY1IUxl8",
+        "plus_code": {
+            "compound_code": "4GQC+JW Vaduz, Liechtenstein",
+            "global_code": "8FVF4GQC+JW"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ6Uz8C10xm0cRrXdpY1IUxl8",
+        "scope": "GOOGLE",
+        "types": [
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 108,
+        "vicinity": "Städtle 36, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.14600109999999,
+                "lng": 9.518013
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1474206302915,
+                    "lng": 9.519478330291502
+                },
+                "southwest": {
+                    "lat": 47.1447226697085,
+                    "lng": 9.516780369708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Schlössle Mahal",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1816,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101092087775247231812\">Mk Travel</a>"
+                ],
+                "photo_reference": "AdDdOWq2jQo1Ng8oNVoi-fXwgweL2tPpDYcuUuLi11E4ejrwmK1bxDL5FPArN6fqG2OW5u80qDRNdOJF6xwWr3glyQ1iGw8Q7_I2R0y1uKbzYCKwxtBD1JYkoYueJkwfriflQXL1eItVRaJaApIC5bHM7lGEg1ISeSNTkaf-o3VkCM6XEv95",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJE8tzXWkxm0cRtaxB6FYgfr8",
+        "plus_code": {
+            "compound_code": "4GW9+C6 Vaduz, Liechtenstein",
+            "global_code": "8FVF4GW9+C6"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJE8tzXWkxm0cRtaxB6FYgfr8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 350,
+        "vicinity": "Fürst-Franz-Josef-Strasse 68, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.15470079999999,
+                "lng": 9.5102022
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1560327802915,
+                    "lng": 9.511699580291504
+                },
+                "southwest": {
+                    "lat": 47.1533348197085,
+                    "lng": 9.5090016197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Mühleholzmarkt",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2962,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110527627301576118992\">Mühleholzmarkt</a>"
+                ],
+                "photo_reference": "AdDdOWpcaFf8KLgTbGFadRuJeMU3CWC7S_8NK4VdL_aM5eMX1_deqLiL9ewF9fjdY_vmrAuK9KzHVuZcsyNvKLvu4CJQVX9k8zSLaYcYn7uomJxkRdRSJJ_leLTDkss5MMRMgsrJhy9JPDSF1NnbvhlrRkcuIdY2JnRfSlL25IUOx7ECT0WZ",
+                "width": 5272
+            }
+        ],
+        "place_id": "ChIJ8zjeVQwxm0cRB3SaXR5j3Ww",
+        "plus_code": {
+            "compound_code": "5G36+V3 Vaduz, Liechtenstein",
+            "global_code": "8FVF5G36+V3"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ8zjeVQwxm0cRB3SaXR5j3Ww",
+        "scope": "GOOGLE",
+        "types": [
+            "shopping_mall",
+            "parking",
+            "gym",
+            "dentist",
+            "doctor",
+            "health",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 57,
+        "vicinity": "Coop Parking Mühleholz, Vaduz, Landstrasse 117, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1547012,
+                "lng": 9.510201400000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.15606443029149,
+                    "lng": 9.511695480291504
+                },
+                "southwest": {
+                    "lat": 47.15336646970849,
+                    "lng": 9.5089975197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway Vaduz",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115858650111221275756\">Pedro Amador</a>"
+                ],
+                "photo_reference": "AdDdOWo6xOjxnHwl7w5ETpeRUY8brZvkBRzXOQP3o9PcaQfJH8-Z-0E8SPAiL6rGkruj-Nd14-XGOwv9PUcCbfcMDgnQW_ehDcYYdfW65BjPDAWs8tMWJBQiKdXX3-Lwb4HThnNOG0Sc6bgmuDPIc1yg_G9o3jVq1vqg93gcKpADOToCPdmu",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJAdMeqg0xm0cRs6Rav2yoIlk",
+        "plus_code": {
+            "compound_code": "5G36+V3 Vaduz, Liechtenstein",
+            "global_code": "8FVF5G36+V3"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJAdMeqg0xm0cRs6Rav2yoIlk",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 340,
+        "vicinity": "Landstrasse 117, Vaduz"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1679954,
+                "lng": 9.5042829
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.16937628029149,
+                    "lng": 9.505645280291503
+                },
+                "southwest": {
+                    "lat": 47.1666783197085,
+                    "lng": 9.502947319708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ha Long Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3030,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108564775745102090173\">Xiaoqiu QIU</a>"
+                ],
+                "photo_reference": "AdDdOWr16qohk5RsOZBiAGGmeqFrMxXI0CXiEaRMMTS7bbXK-yuxJkhNG4fep1ddwNdf0l1UxFRZKZhvzZFA9soKXuG0Nqqd0dImOZblVS81rRJuRBIbAA-0IOhPfG_Dd5uWa9L-NxS-VFSzU-GQEkHGM9ygZAgcvPcohSZx_kznm2OO63A",
+                "width": 4024
+            }
+        ],
+        "place_id": "ChIJL3x5gKsxm0cRFJ2jgqyiJD0",
+        "plus_code": {
+            "compound_code": "5G93+5P Schaan, Liechtenstein",
+            "global_code": "8FVF5G93+5P"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJL3x5gKsxm0cRFJ2jgqyiJD0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 99,
+        "vicinity": "Zollstrasse 17, Schaan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1169433,
+                "lng": 9.5240612
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.11825993029149,
+                    "lng": 9.525415680291502
+                },
+                "southwest": {
+                    "lat": 47.11556196970849,
+                    "lng": 9.522717719708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pizzeria il Salento",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 634,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110887472622138843106\">Pizzeria il Salento</a>"
+                ],
+                "photo_reference": "AdDdOWqz-hxYyVRE5YZBlEYfLpK0bJmwEQ9d3_dx8oDJzdrjaygoj3XBI89bd795OkISwvDH_zeWIxuKQ75oDGsMwey3XQTvGREKvGkOcrw1dn_EpxJVzUKiESaonk-2jIoHZ2lByCLM2NNYRFMZuXuZ-vzE_FoesqCDuR5ieW4ajECNvU9E",
+                "width": 1125
+            }
+        ],
+        "place_id": "ChIJvSpCDu4zm0cRQvixYgGoOf8",
+        "plus_code": {
+            "compound_code": "4G8F+QJ Triesen, Liechtenstein",
+            "global_code": "8FVF4G8F+QJ"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJvSpCDu4zm0cRQvixYgGoOf8",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 324,
+        "vicinity": "Landstrasse 93, Triesen"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.1666113,
+                "lng": 9.5097167
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1679647802915,
+                    "lng": 9.5110534802915
+                },
+                "southwest": {
+                    "lat": 47.1652668197085,
+                    "lng": 9.508355519708495
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "PUR - Restaurant & Bar",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113446698385526304857\">PUR - Restaurant &amp; Bar</a>"
+                ],
+                "photo_reference": "AdDdOWqzLMf7WWFiVXWTIvPr-d2sGRcSb99KfQWn3oi53V-hNMPgsZ82_a5QuDEzub4WT9Kx6BcZQhOoHoAEGD6WMe_qO0xDUSkDgEbhe1dVvLZ_QzOWjqRqN1vhqm7YcrmI8r0hXDU2sRZXngafoZYp1UW34NP0WScgEtoeRGwsNNwawZre",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJeZlJtAYxm0cRgoDXahUWIic",
+        "plus_code": {
+            "compound_code": "5G85+JV Schaan, Liechtenstein",
+            "global_code": "8FVF5G85+JV"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJeZlJtAYxm0cRgoDXahUWIic",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 283,
+        "vicinity": "Landstrasse 15, Schaan"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.167535,
+                "lng": 9.5064347
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.1689523802915,
+                    "lng": 9.5078093302915
+                },
+                "southwest": {
+                    "lat": 47.1662544197085,
+                    "lng": 9.505111369708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Coconat Thai Kitchen",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1816,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105942104269067908788\">Richard K.</a>"
+                ],
+                "photo_reference": "AdDdOWqH6gR1Tme8eOzowIzl_dr94ii34NUTmzZQ-GAW0VcEimhKz6Zvlyxi-tVVVxW7SdehMvHEl3SEy9lIt5u4QdX_eyk_v0_RUxkV45GujGop-b8ZJifogMre6DfeTo90KjwWCfpZQw7evMYNP-iQfmOKIZAN3X6go9qOdnAZ_PguLhoI",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJM0gxsQAxm0cRkMEpIeleEEM",
+        "plus_code": {
+            "compound_code": "5G94+2H Schaan, Liechtenstein",
+            "global_code": "8FVF5G94+2H"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJM0gxsQAxm0cRkMEpIeleEEM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 40,
+        "vicinity": "Zollstrasse 3, Schaan"
+    }
+]

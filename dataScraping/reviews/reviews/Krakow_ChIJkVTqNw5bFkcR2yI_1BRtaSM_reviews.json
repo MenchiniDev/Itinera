@@ -1,0 +1,66 @@
+{
+    "name": "Grand Hotel",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Amber Webb",
+            "author_url": "https://www.google.com/maps/contrib/110175216268988883019/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5LuZDGq9jRdlqZtIeo7fF6y3Vug1PevpxPi1JMpUCFPOfv-I=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Excellent location, you can't get much closer to the heart of Old Town. The hotel has a very unique interior, definitely feels like you are walking through a castle.  The rooms are large and spacious.  We did find the beds a bit uncomfortable and our fridge was broken and not fixed during the duration of our stay. Other than that the staff was very friendly and helpful, we also enjoyed how quite our room was.",
+            "time": 1720198363,
+            "translated": false
+        },
+        {
+            "author_name": "Lucas Canady",
+            "author_url": "https://www.google.com/maps/contrib/108988547764921613966/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-tXeja6ucaM8vxEF1NvjR1qcru4nqyNW1DKSRdoXihYnZmmQT=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "This is a 3.5 star hotel, not a 5 star hotel. The receptionist did not tell us about the services we can use or not. About breakfast, about parking, we had to ask everything ourselves. The bathroom is not thought out for use. To get into the bathroom, you need to be careful not to slip. It is not suitable for older people. There are not enough hooks in the bathroom to hang towels. To get to the toilet button, you need to lower the seat to press this button. The toilet paper is tough and cheap, it's like a newspaper. The doors are dirty and there are stains on them .\nThe advantages of this hotel are the view of the historical street, the interior inside.",
+            "time": 1725542550,
+            "translated": false
+        },
+        {
+            "author_name": "Linda Johnson",
+            "author_url": "https://www.google.com/maps/contrib/100292338495346188409/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGle4je3f0DAfo5xsVOrSAI0f9ghZCxiiYo4iDNzSaaNGG2g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "The best service I have had anywhere in the world. The hotel is just a 30-second walk to the main square. The room was very nice and a comfortable 74F with air conditioning on during a heat wave. The kind staff and great breakfast means we will be back.",
+            "time": 1720733202,
+            "translated": false
+        },
+        {
+            "author_name": "Sun Hee Moon Teza",
+            "author_url": "https://www.google.com/maps/contrib/102565614813903672595/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_UCDUOE68gM4FzyBvlY374s5TCnRI4RwuMe4OaLsQta6-ANsY=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This is a historical hotel that boldly lives in the centre of Krakow, just a few steps from the main square. There are many 5 star hotels in that central area of the city that might have a bigger appeal on people who want luxury accomodation. But this hotel has nothing less than others: comfort, very good breakfast, excellent position, great staff. And what makes this hotel stand from others is the sense of historical heritage and the feeling that you are really emerging into the real Krakow and not any other big city in the world. It was a great stay and I reccomend this experience if you have the chance.",
+            "time": 1726162448,
+            "translated": false
+        },
+        {
+            "author_name": "Kumi De Costa",
+            "author_url": "https://www.google.com/maps/contrib/101396428103493487471/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTf4XkB9mTA2PL1aLZcgfEs0Ur6FBjENwyaXYqFzBwDzhbQQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "The Grans hotel at Krakow is beautiful, elegant and has exceptional service. I was fortunate to be served by Izabela at the front desk who went above and beyond to help me and resolve an issue I had. This is the kind of first class service you would expect from a first class establishment like the Grand. Kumi UK",
+            "time": 1721402904,
+            "translated": false
+        }
+    ]
+}

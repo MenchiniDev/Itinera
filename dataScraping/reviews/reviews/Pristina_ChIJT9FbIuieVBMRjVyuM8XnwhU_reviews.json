@@ -1,0 +1,66 @@
+{
+    "name": "Mensa e Studentëve",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "MM Opel",
+            "author_url": "https://www.google.com/maps/contrib/104010824560370915908/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuS2mXfCsFC01kFgQRevGiR9V2S4hWZC0fvU1pFFfV8RREU3kc=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "I was in Prishtina University Hostel for 16 Days during Pristina International Summer University in 2015. I had to eat here from Breakfast to Dinner in almost everyday. Food was good enough for students. The university campus is just few meters distance from student canteen.",
+            "time": 1567187627,
+            "translated": false
+        },
+        {
+            "author_name": "Shqiprim Balaj",
+            "author_url": "https://www.google.com/maps/contrib/105010142915700919497/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVzfJpFoDKlCID_2P0zZXtNiwJGLSQYmOYNRzvDyc78osCXNiG=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "It's the best place to eat as a student. You get so much food compare to how much you pay. The service is always in a very high quality and standard. 👌",
+            "time": 1513150527,
+            "translated": false
+        },
+        {
+            "author_name": "Lirim Sopaj",
+            "author_url": "https://www.google.com/maps/contrib/110308502682584163558/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5zKhcbHUbDhCCKgTkmcJ6WFEeEFqx7T7SsVbUKL_XKWfoBp_o=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Best food for students!",
+            "time": 1550573890,
+            "translated": false
+        },
+        {
+            "author_name": "Yll Boshnjaku",
+            "author_url": "https://www.google.com/maps/contrib/107452652324383622757/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3hiZUpIrValgwQjz5mBuUkp8YBVfBnAtTQz6DCowN-3PmC5k=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Very nice place for students. Food is perfect",
+            "time": 1490636529,
+            "translated": false
+        },
+        {
+            "author_name": "amar beganovic",
+            "author_url": "https://www.google.com/maps/contrib/111589052200114098335/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq7Cr00si-G2UKETsLw4y-KBRmpIVDKFRMYr5aQ6qG4Gh0cXM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "10 years ago",
+            "text": "Always walked by it never knew it was a restoraunt I guess I will try it",
+            "time": 1401653407,
+            "translated": false
+        }
+    ]
+}

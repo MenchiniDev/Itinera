@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant Atithi",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Fadi Ghan",
+            "author_url": "https://www.google.com/maps/contrib/101820755001368008961/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlYBOznp-Um-cL2zurX8aH5GfGvGVZA5M0ipzUgTwKwppD3w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "The dishes are amazing and very delicious and the staff are great. I highly recommend it.",
+            "time": 1732799528,
+            "translated": false
+        },
+        {
+            "author_name": "Kristoph Arselin",
+            "author_url": "https://www.google.com/maps/contrib/118354132880088271982/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIrlBzknY-hsDtRTc5K0-VgwqS20AGSXQtyYpL46zdTYyX8w=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "We went there yesterday (16th nov 2024), the food was delicious and authentic. Service was very friendly. Prices were very affordable. It was a good meal and a great experience. I recommand.",
+            "time": 1731866137,
+            "translated": false
+        },
+        {
+            "author_name": "lex dupont",
+            "author_url": "https://www.google.com/maps/contrib/103982252218804168819/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQQWqBIikHBmz3BlE_1pf-BW2fno1Ota_AKCAWth-ChMpo-A=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Excellent fresh indian food nice and helpfull service restaurant located on the main street of Ettelbruck",
+            "time": 1709845883,
+            "translated": false
+        },
+        {
+            "author_name": "Izibi Safara",
+            "author_url": "https://www.google.com/maps/contrib/116884014597409888195/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr-b7mfQPBPuvgC4qTqYSdmnL6lAvltj5CbPML_6nd0Zrk9k9B=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "We had the food delivered, it was still warm. These were all vegetarian meals (all served with rice but not on the picture) and we loved it!! Great taste and quick delivery! The staff was also were kind! I highly recommend!",
+            "time": 1683266689,
+            "translated": false
+        },
+        {
+            "author_name": "Ana Barbara",
+            "author_url": "https://www.google.com/maps/contrib/106416478315361731379/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6hlfLPBJSuFjxlgHcpk7f2DxgPAkUQi_rgo0aLDWjThGamSL9=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Friendliest service since I arrived to Ettelbruck, delicious food that isn't super greasy nor too heavy on the stomach - and a very unique biryani which comes with 2 sauces that make it even better!",
+            "time": 1644956337,
+            "translated": false
+        }
+    ]
+}

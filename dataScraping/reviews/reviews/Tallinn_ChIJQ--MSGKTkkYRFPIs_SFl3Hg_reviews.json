@@ -1,0 +1,66 @@
+{
+    "name": "Cafe Maiasmokk",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Shaik Buhari",
+            "author_url": "https://www.google.com/maps/contrib/110904352245629278208/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8_dmB754k7pL8OOby0-omHvZKAXvrqYJKlO1JF-ioLCD8LW5n=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Situated close to the town hall and along the cobble stone street of old Tallinn is this oldest cafe in Tallinn.\nIt has beautiful decor and relaxing and cozy  ambience,  reminding us of pre war era.\n\nStandard prices.  They have the usual cappuccino,  expresso, latte,  hot chocolate and tea,  along with cakes,  tarts and other sweet treats.\n\nIt also has retail area selling chocolates,  coffee abs biscuits.",
+            "time": 1732784318,
+            "translated": false
+        },
+        {
+            "author_name": "Richard",
+            "author_url": "https://www.google.com/maps/contrib/114279104791268392163/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXX7IISNLJHEhwZ66gfZ6uebQxNGJVm8VJgDwKlFR2ydF6j7rdl=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "We went out for dinner with the family on a Friday evening. The cakes are good, and we had mulled wine alongside. The layout of the space is a bit odd, as some tables are uncomfortably placed in the middle of the room. If you can get a table or a seat by the window or along the wall, it’s quite cozy. When it’s busy, having just one server at the counter is insufficient, leading to long waiting times and queues. Otherwise, it’s a pretty decent place.",
+            "time": 1732292986,
+            "translated": false
+        },
+        {
+            "author_name": "Gaurav",
+            "author_url": "https://www.google.com/maps/contrib/111236370781654070481/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyfT8jmSj1FyeGJzdHR0zgdjZBHhuVv3-aa-WlkVy_jD6Abs9ctw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Oldest and most beautifully cozy cafe. People here are warm and helpful. The food was surprisingly relishing and fresh. Highly recommended. Do buy some Chocolates for takeaway.",
+            "time": 1731072618,
+            "translated": false
+        },
+        {
+            "author_name": "Highway Video",
+            "author_url": "https://www.google.com/maps/contrib/114783197435768198244/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2mICa0MZavJG1Dhic8xW_SnPTyzR5KFSHZByhzy0mCGUa2T0=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Café Maiasmokk is one of the oldest cafes in Tallinn, so we felt it was a must-visit. We’ve been here several times, and while the coffee has consistently been really good, the pastries, cakes, and croissants were just okay—nothing particularly special.\nIt’s usually very busy, and there’s almost always a queue to place an order. Interestingly, we only found it empty once when we visited in the evening.\nOverall, it’s worth a visit for the coffee and the historic atmosphere.",
+            "time": 1727297823,
+            "translated": false
+        },
+        {
+            "author_name": "Mala Malgonia",
+            "author_url": "https://www.google.com/maps/contrib/104166257253168223913/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGeP4xzB35nX43vSUNui7JnIf3AVDrLCdpt8jWLKRKy_UuYd76=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "One of the most iconic spots in the Tallin Old Town, especially if you're a fan of marzipan. Stunning interior, reminds me of the cafes in Vienna. But despite the fact that it looks so luxurious and well, expensive, it's actually just a very nice, friendly cafe with delicious sweets and good coffee. There are a lot od tourists taking pictures, so it's not a good place to sit back and relax. It's rather crowded and you're expected to eat and leave the table for next clients. There is also a shop with marzipan in different flavours, nice to buy for a gift or for yourself 🙂",
+            "time": 1728755716,
+            "translated": false
+        }
+    ]
+}

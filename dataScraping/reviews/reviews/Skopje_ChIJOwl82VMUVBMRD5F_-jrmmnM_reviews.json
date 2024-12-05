@@ -1,0 +1,66 @@
+{
+    "name": "Uranija",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Kate L.V.",
+            "author_url": "https://www.google.com/maps/contrib/117843286309787477881/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx3p8LC8uErKBtGpJd1vfMFPCrJfKf7PKkROGuZDVS__FYgw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "A nice restaurant in a beautiful location in the park. They have tasty Macedonian dishes on the side and many different starters. As well as tasty pasta 4 cheese highly recommended. The risotto is perfect for the spicy food lovers between us. The service on a high level. In the end we were treated with Lemoncello and jägermeister with dessert.",
+            "time": 1715427461,
+            "translated": false
+        },
+        {
+            "author_name": "Diana Apostol",
+            "author_url": "https://www.google.com/maps/contrib/113305883556915959536/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIJ_dFuz6buYnqcq4XTlWT4XNnvct0MEgick8duWgTqbgq3K3Jew=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "food was decent, nothing spectecular but safe and tasty",
+            "time": 1724156180,
+            "translated": false
+        },
+        {
+            "author_name": "Karina Kisselite",
+            "author_url": "https://www.google.com/maps/contrib/110779548822437153620/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXG_hl8EKvcYnq2Xn5XEV0WyzdwOW97vW5aaatOLjHkrKtZx_Y=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "The food was pretty good, but do not order the cake. Also, they allow smoking inside, which is horrible…",
+            "time": 1691933458,
+            "translated": false
+        },
+        {
+            "author_name": "Flet",
+            "author_url": "https://www.google.com/maps/contrib/113769097861936075180/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3f8wbkUxYmYTIYH51GEXqtGjaDiJH3Zr1NrQqdta2HwBCewNAkw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 2,
+            "relative_time_description": "2 years ago",
+            "text": "Uranija used to be, maybe still is, a high end restaurant. The location is great, in the Skopje city park, next to the tennis terrains. However, everything else is terrible. First of all the food it is not anything special, the portions are extremely small and the taste is disappointing for the price you pay. The quality of the food is equal to places that are much, much cheaper than Uranija. Staff is mostly frowned and not friendly at all.",
+            "time": 1647374089,
+            "translated": false
+        },
+        {
+            "author_name": "Nebojsa Ilijevski",
+            "author_url": "https://www.google.com/maps/contrib/114299754768082936935/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpnPdHnzw36nSzeZ2tuSsmYGWpYo-Tmt1qTVJv4cV1rBerU1_1=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "It's an expensive restaurant. The food is... delicate and dreammy. Even if it's an omelette or a salad. We tried Serbian Dunja (peer) raki, you should too. In Vranje, you can buy a half litter bottle for the price of a glass )\nIts a good experience, must admit.",
+            "time": 1717944719,
+            "translated": false
+        }
+    ]
+}

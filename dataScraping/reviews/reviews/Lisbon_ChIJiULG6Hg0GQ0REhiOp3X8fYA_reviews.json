@@ -1,0 +1,66 @@
+{
+    "name": "Brown's Central Hotel",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Henry Hilken",
+            "author_url": "https://www.google.com/maps/contrib/113299612095118870081/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzsxnid6P-iG4jM_8KxjWE-oC6Ls2p-WntFTrjnTjTXndQWg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "We loved this hotel! Excellent location near many popular destinations. Staff was knowledgeable, attentive and friendly. The lobby is a gem - lots of fun books and decor, plenty of comfortable seating, lots of people chilling at all hours, great bar staff. Complimentary drink upon arrival. Rooms were comfortable and stylish, with cool retro sound systems. Our room faced the street, but the windows kept things very quiet. Would definitely stay here again; highly recommend.",
+            "time": 1731042887,
+            "translated": false
+        },
+        {
+            "author_name": "Stella Tilly",
+            "author_url": "https://www.google.com/maps/contrib/116755720880297499526/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVc0MuQqFt-r63jHxwd3lPXeTP1GQJpIJfDQlWvgTF6Lr6mzzo=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Had a lovely 3 day trip here recently and the hotel was the best part!! All the staff were extremely friendly but the bar staff stole the show for me. Amazing selection of cocktails available and great recommendations from the staff. And they had a happy hour bringing cocktails down to €7!! The TV was working fine (which I’m not used to!), there was a complimentary bottle of wine and espresso machine. Brilliant location as well",
+            "time": 1730317924,
+            "translated": false
+        },
+        {
+            "author_name": "Steve Booth",
+            "author_url": "https://www.google.com/maps/contrib/108660813861151002509/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5s1X0uC7lOLLPUpB1ChA9ngt23TfuN2XSAfJ_6MDTXDdu6atU3A=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We had a fab three night stay here at Browns. All the staff were very friendly and made us feel very comfortable. Our second floor room was very well equipped and the staff who cleaned the room and changed our towels were brilliant. The bar area of the hotel was great and we enjoyed several cocktails during “happy hour”. When we arrived we were offered a complimentary arrival cocktail which was a lovely surprise. This is a fabulous hotel in a great location in the centre of Lisbon. We will stay here again if we make another trip to Lisbon.",
+            "time": 1730736366,
+            "translated": false
+        },
+        {
+            "author_name": "Remi Tran",
+            "author_url": "https://www.google.com/maps/contrib/105435757718596942274/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwiBkpautZ_cVePlvQ8p1sr0bfGD8_Kq5eErXK85DZSgKCAA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lovely charming hotel, just what I had looked for when searching for a hotel in Lisbon. The location is right smack in the heart of everything! Can be a little loud at night, so not for you if are a light sleeper. The room is beautiful, we booked a small room with view, but was upgraded to a superior room 😊. The king bed was super comfy. However, there are a few things that could have made our stay more pleasant:\n1. A mirror outside the bathroom area\nwould have been good for ladies for face prep especially when hubby/partner is using the bathroom\n2. There were 9 lights in the room, but because the lamp shades were dark, the light didn't come through, making the room appear too dark. It’s cozy and romantic, but if you prefer to read, it is too dark, especially the entrance where the coffee/tea prep counter is, needs a light badly.\nThe bathroom is tiny but well put together.\nIf you are considering whether to book this hotel with a breakfast, do it! The breakfast was awesome, the spread is generous with lots of choices! Far exceeding our expectations! The croissants are flaky  exactly as croissants should be! We find most of the croissants in Portugal so far to be more bread like, and this was just such a pleasant surprise! It was the highlight of our meals in Lisbon😋\nBoth my husband and I agree that should we come back to Lisbon, this will be our choice for a hotel.",
+            "time": 1729614661,
+            "translated": false
+        },
+        {
+            "author_name": "Pablo Munguía",
+            "author_url": "https://www.google.com/maps/contrib/114106044650347720914/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfjOu9krFmuyCPUuN7NgJigW7axLf7Wytc_aoyATdxBdgk5WI1ew=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We stayed at Brown's central for four nights and we could not be happier with the hotel. We had the charming deluxe room and it was very comfortable, nicely decorated and had everything we needed. The bathroom was a bit small but still functional, and I found the pillows to be very thin for my comfort, but oh well. The breakfast buffet was delicious and had lots of options to try something different everyday. The location of the hotel is awesome since it is close to many restaurants, beautiful city spots, and a subway station. Last but not least, the staff was extremely friendly and helpful. Definitely a great place to stay at.",
+            "time": 1726823720,
+            "translated": false
+        }
+    ]
+}

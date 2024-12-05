@@ -1,0 +1,66 @@
+{
+    "name": "Junges Hotel Hamburg",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Ugur Demirgülle",
+            "author_url": "https://www.google.com/maps/contrib/101782314311748320091/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwh8t5E8x9rXRh80Fjq_LRFxhmoJw0HecSH9FwbSmQMAukEw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "It's a great place, the breakfast is sufficient, the staff is very polite, the service and the rooms are very clean, I loved it.",
+            "time": 1702652966,
+            "translated": false
+        },
+        {
+            "author_name": "Susann E.",
+            "author_url": "https://www.google.com/maps/contrib/102935253554298189763/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItAvZN2tcU8hWTUqpyfN0uHNtzbp9yAc5LIQtSRkl9bAe2Mg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "It was an overall clean room but with fairly basic furniture. Very good for a short trip. A good point was the separate toilet and shower rooms but due to that, space in the shower room was quite limited and maybe not completely comfortable. It serves its function of a comfortable bed and stay but it is not exactly a fashionable/modern place to stay.",
+            "time": 1538327363,
+            "translated": false
+        },
+        {
+            "author_name": "Tim Ahaus",
+            "author_url": "https://www.google.com/maps/contrib/108150929667363857629/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOxy9Ps6Zsutnxyl_cXdepSRrCWGzR7jiXDAMlsqtowlLWSxtBaQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "The rooms are very clean and the location is excellent.  There is a street about a 7- minute walk away called Lange Reihe (Long Road) that has excellent restaurants and bars on it.  There is a metro station just 1.5 blocks away, a grocery store, and 3 bakeries...  We loved the local bar that is in the hotel. Great bartenders and great cocktails.\n\nThe room was comfortable and this hotel is a good value. However, the shower is TINY and is probably 5 square feet.  There is NO air conditioning in this hotel and during our stay, there was a heat wave in Hamburg (low 90's) and it was miserable trying to sleep.  The beds are okay...not hard, not soft, but not just right either...there was no view, but not that it mattered...",
+            "time": 1567623533,
+            "translated": false
+        },
+        {
+            "author_name": "Sophie Pritchard",
+            "author_url": "https://www.google.com/maps/contrib/114817869400907280329/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaCQvOc2lsxLNS3TaizDyCtfHunWcbc7GjhlSGfVNUlxGpjQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Friendly staff & very helpful! Didn't batter an eyelid when we could only speak English, very competent & fluent. Rooms were very clean & tidy & to of a high standard. Really enjoyed my stay, thank you.",
+            "time": 1499144971,
+            "translated": false
+        },
+        {
+            "author_name": "Shreekantha",
+            "author_url": "https://www.google.com/maps/contrib/101098225048204059853/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCiLqjVSvtzdNwI2Xmzdo8f_va_v-02r81Jy4wIJ8KC_aeI9n2=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Here are the things I liked:\n1. All basic facilities are there\n2. 5 mins walk to Berliner Tor train station. 15 mins walk to beautiful Altona lake\n3. Breakfast was good. Nice selection of tea powders\n4. Friendly staff. Quick check-in and check out\n5. WiFi was fast enough. But could be improved\n6. Spacious rooms\n7. Spa\n\nThere was nothing to complain about. I would visit again.",
+            "time": 1554532257,
+            "translated": false
+        }
+    ]
+}

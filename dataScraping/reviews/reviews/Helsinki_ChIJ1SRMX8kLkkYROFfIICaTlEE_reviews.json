@@ -1,0 +1,66 @@
+{
+    "name": "Klaus K Hotel",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Romy Hoberger",
+            "author_url": "https://www.google.com/maps/contrib/113663206900334060814/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNJZBHk1yH20IEiKzPHVZJuojfoaFXx1WquAl2BhKLRf_jjwQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "4 weeks ago",
+            "text": "I have a lot of experience in different hotels and in my opinion it is not worth four stars. The rooms are small and dark, bathroom very small and the whole floor got wet when I showered. Carpet on my floor was dirty on arrival (full of crumbs) so folded it twice during my stay. The diversity in rooms of the same price range is also great. My colleague had a much larger room with a bathtub for the same price (matter of luck). I asked if I could also get such a room, but unfortunately it was already full. No compensation was offered, this is unfortunate.\n\nBreakfast was delicious and the staff is very friendly (kitchen, cleaning, and reception). Location is also great, very central in the city centre of Helsinki.",
+            "time": 1730913034,
+            "translated": false
+        },
+        {
+            "author_name": "Daniel",
+            "author_url": "https://www.google.com/maps/contrib/107069200399959419922/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsmgvdq5ggzIk2cqrR-73047crVcicSynt7oVad1VLRlATuUnY=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Excellent hotel right in the city center. The staff are super friendly and helpful, the rooms comfortable, the lobby and restaurant area very stylish. The breakfast buffet is also very good, and the staff there are incredibly friendly too.\nThe only thing that would make this hotel even better would be a sauna, which is extremely common in Finland and nearly every hotel has one, so it’s strange they don’t have one here. Nevertheless, a great stay overall.",
+            "time": 1724414814,
+            "translated": false
+        },
+        {
+            "author_name": "Jose Mendoza-Silveiras",
+            "author_url": "https://www.google.com/maps/contrib/112561970701123603394/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvJw2R7uXk0Cgdbt5My_mJGOTkay9XTMbEBtNzxSG5gbkstMRw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This boutique hotel has a lovely rooftop, is centrally located, and is 30 minutes by taxi from the airport. The rooms are spacious, and there is nice decor; mine did not have a desk; if you want good AC or it runs hot, it may not be the place for you. I had a good stay, and they gave me a fan; breakfast was good, and overall, little details such as free water, ice cream, and toiletries make me happy.",
+            "time": 1719687738,
+            "translated": false
+        },
+        {
+            "author_name": "CC Robinson",
+            "author_url": "https://www.google.com/maps/contrib/102851186021932925256/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqOTmiEKDBmxTny7FbfYo1KGECViC2gHq4qQW_VXroZuQkUMjH=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Got superior room which has a window and table. Excellent location, closed to tram station. Staff are extremely helpful and nice. Great amentities such as slippers, deodorant, coffee , hot chocolate, vanity kit , comb, toothpaste and toothbrushes for free.  Hotel breakfast is excellent. No blackout curtains in the room,  which is a problem in summer when sun rises at 4 am and sunset at 11 pm.",
+            "time": 1719709152,
+            "translated": false
+        },
+        {
+            "author_name": "Simon Green",
+            "author_url": "https://www.google.com/maps/contrib/109772433093517477095/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUegU05ppB38MTQ1gB3xytSDS4wN0W11DHC6nv7tPYdbfBLdI8=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We had a skysuite for a 3 night stay. Everything was perfect from start to finish. Breakfast was excellent with plenty of staff to refresh plates, and plenty of fresh hot and cold options. As others remarked, rooms are a little tired and rammed with furniture, but perfectly functional and every amenity was available free of charge.  Location was awesome and easy walk to most attractions and eating options.",
+            "time": 1720870121,
+            "translated": false
+        }
+    ]
+}

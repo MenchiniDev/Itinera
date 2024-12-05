@@ -1,0 +1,66 @@
+{
+    "name": "Meze",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "aziz kağan doğru",
+            "author_url": "https://www.google.com/maps/contrib/110067084969270330078/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4KVHTDBicH8PKSD67HoUAi32TsbnEZ7Yhqx2aMDdD9S2LikDI4w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "There is no English menu in the restaurant, but there is internet and you can translate the menu from Macedonian to your own language. also the waiters speak english and help you. The food portions are large and the prices are affordable, we also had a really delicious meal. Definitely a place you won't regret.",
+            "time": 1682797114,
+            "translated": false
+        },
+        {
+            "author_name": "Biljana Kaeska",
+            "author_url": "https://www.google.com/maps/contrib/116103177176698003533/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyWaIR3cPXopDNwVVumikyOK1K264rM9D2g3Yn0XtP3sTwSK0t=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "It’s a nice place. Food was okay, just ushtipci were not the best option, they had a lot of cheese, and the meat was a bit weird. Shopska salad was amazing and super delicious, nafora was good as well. Service was nice and fast.\nAlso it’s cheaper than some places.\nI recommend this place, just don’t choose ushtipci. :))",
+            "time": 1662477926,
+            "translated": false
+        },
+        {
+            "author_name": "Boglárka Tóth",
+            "author_url": "https://www.google.com/maps/contrib/102512489833667651225/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1W_yzejLsLcA3kYTCZnLixgMCsU42WYeCYXNd8KXIriN58OfieA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "We had a few hours to spend until our bus ride, and since we were quite hungry at the time, we were looking for a place with affordable prices. The reviews were convincing so we decided to eat here. The menu was only in Macedonian, although we were able to read most of the cyrillic letters, we did not know what was written on the menu, so we had to use Google Translate with the camera function. An English menu would be nice. The food was excellent and the waiter was very nice. :) Recommended.",
+            "time": 1692719225,
+            "translated": false
+        },
+        {
+            "author_name": "Ömercan Kömür",
+            "author_url": "https://www.google.com/maps/contrib/106220790227421344981/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLA1mWQbw23wPUO2LXdsWTox92bgoOCeGyCn_LDOkZm6zhgzNz=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "It's a nice place to sit and have a nice deal, both halal and non-halal options available. I sat outside, they covered up the place and there were heaters. The food is okay and portions are alright, I can't say it's cheap but it's not expensive either. Friendly stuff and English menu.",
+            "time": 1702722528,
+            "translated": false
+        },
+        {
+            "author_name": "Vojtěch Čejka",
+            "author_url": "https://www.google.com/maps/contrib/104603441646003847998/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-1hMQzyVN5-58GqeR8X6NOLgDUQzTsdtp5Ns_6Y_IhqHVTW8Z=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "This was very nice, Skopsko, Rakija, Pljeskavica and damn great Shopski salad, waiters were really nice, great you can sit \"outside\", you can smoke there.\nCoffe is also very good.\nI can reccommend this one :)",
+            "time": 1731346753,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Pizzeria il Salento",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Ian Knight",
+            "author_url": "https://www.google.com/maps/contrib/117667794306550762380/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQsJe4OCXc1aCXaa9qiTkxwHz8bsclQJ_giW-Kof9QNDsGLg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Even with the language barrier, it was easy and friendly. Pizza was the best we’ve found in 9 countries so far.",
+            "time": 1720087515,
+            "translated": false
+        },
+        {
+            "author_name": "S Vegi",
+            "author_url": "https://www.google.com/maps/contrib/101026733619487983365/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL57bQqbYglaKKMpOAL5--ORsSEZac_obal1S580CQja2X3HZcn=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Pretty standard European pizza place. I'm always surprised at what passes for pizza in Europe, super thin crust with limited cheese and toppings all for $30/US for a small. Take out pizza is not cut, so you'll need to sort-out a cutting device if you're staying at a hotel.",
+            "time": 1728089791,
+            "translated": false
+        },
+        {
+            "author_name": "Jenna Schurr",
+            "author_url": "https://www.google.com/maps/contrib/103080913650755481525/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkpTgaKfbDFS1AELcfCXlf9EVmZFmDRgYU3_UXaG9mQd-QJXGD0A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Others said it was the best pizza they've ever eaten, and I think I agree.  The crust was light and thin, perfectly crunchy. The crust served as plain bread sticks was also delicious.  The sauce and cheese was perfectly balanced with the other toppings.  The salad was the same. Two people shared a pizza and salad and were well satisfied. The pizza is huge, but thin. If you eat a lot, it is still easy to finish your own pie.",
+            "time": 1582922278,
+            "translated": false
+        },
+        {
+            "author_name": "Simon Muir",
+            "author_url": "https://www.google.com/maps/contrib/103869890551174395075/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoDR0vu-aFmqZCQGpu2MohFpGywT0s5GFfzRMdhCCHofLRUg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Excellent thin crust authentic pizzas, the large is large but worth it... if you're in the area it's a must.",
+            "time": 1714585701,
+            "translated": false
+        },
+        {
+            "author_name": "Dag Bjørn",
+            "author_url": "https://www.google.com/maps/contrib/109007368682035283123/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjkVAwxQ_7Wv3VaU9XVVlsV-sno7-ouUuFIQz-N_g9IumtexRM=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "my twinbrother and me found a nice little place - recommended by a citizen. The owner seemed very kind and funky, we had a nice little conversation. totally recommend this place! we had the antipastiplate and it was delicious. recommend this place!",
+            "time": 1724830419,
+            "translated": false
+        }
+    ]
+}

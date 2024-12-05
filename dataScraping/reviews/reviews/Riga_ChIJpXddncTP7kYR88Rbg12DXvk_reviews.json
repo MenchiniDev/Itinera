@@ -1,0 +1,58 @@
+{
+    "name": "Pūku priedītes",
+    "rating": 5,
+    "reviews": [
+        {
+            "author_name": "Jana Jacuka",
+            "author_url": "https://www.google.com/maps/contrib/104750438588039454699/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq8QHDN9FpILuTbHjcybv4dJct0w1PWKGeHa3lpbo5TdUh-Kw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Thank you so much",
+            "time": 1688399768,
+            "translated": true
+        },
+        {
+            "author_name": "Sendijs Legzdins",
+            "author_url": "https://www.google.com/maps/contrib/101944942976751725108/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKT1_g2-lRcmSRPd-18n8HbDhHg5BPiqG3DhG2YfE0z99jdxto=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "",
+            "time": 1672428337,
+            "translated": false
+        },
+        {
+            "author_name": "Normunds Gulbis",
+            "author_url": "https://www.google.com/maps/contrib/112128937783765587076/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdmwwvdmKl7eRR8A5QJ95yBzuOPb_lvNWXDZDbA-A0s97W4g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1600613334,
+            "translated": false
+        },
+        {
+            "author_name": "Jevgenija S.",
+            "author_url": "https://www.google.com/maps/contrib/117605741798764302836/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeAR4JpGKlpDfB0SFdEB9AFvRXEJnWYZ0Xa6H_gXz0xOFnnfLK=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "",
+            "time": 1560681196,
+            "translated": false
+        },
+        {
+            "author_name": "Santa Silniece",
+            "author_url": "https://www.google.com/maps/contrib/101081268864959389446/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxCONjNlwM5jkk30ZsdidGcWJimckR7MbnqDhQdKFpX-7Xv9nl=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "",
+            "time": 1542035074,
+            "translated": false
+        }
+    ]
+}

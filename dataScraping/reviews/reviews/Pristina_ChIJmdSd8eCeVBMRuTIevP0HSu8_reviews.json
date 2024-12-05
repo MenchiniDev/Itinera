@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant METROPOL",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Drenit Sadiku",
+            "author_url": "https://www.google.com/maps/contrib/105165450614754424274/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqRLvFKkPqxi7hJEISZYULKE1rHP1A8iH5bNF5xLz-xZ56Jw=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Do not be fooled by the looks of the burger, it looks crazy good in the pictures but it lacks in flavour. Patty is normal as every burger shop in Prishtina, all you can taste is the pepper sauce. Bland and disappoint for effin 8 euros.\n\nWill not come again as wait times are also 30+ mins.",
+            "time": 1729378867,
+            "translated": false
+        },
+        {
+            "author_name": "Jay",
+            "author_url": "https://www.google.com/maps/contrib/102459143810080319518/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-m6oCpcqyAawmQDzhc5bdZZZdvI1Qf2XaEpR0JyjXa2XILCU=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "I really wanted to like this place because of the reviews. I ordered the filet steak, recommended by the server. He also said the chicken salad was good so after the steak I was still hungry so I ordered the salad. The steak looked pretty but the veggies were salty and the meat was too raw. I ordered medium rare but it was more like sashimi. I saved the leftover raw meat to feed a stray dog because I thought it was too much trouble to ask the chef to cook my meat again. I thought I’d give the salad a try, giving this restaurant another chance to redeem. The chicken was good bec it was fried with corn flakes. But the salad dressing was just soaked in salt. I was disappointed. Maybe it was supposed to be to be like a Mediterranean salad but I’ve had better Mediterranean salads than this. Nothing stood out. I showed the servers pictures of the food from Google reviews and they basically said it looks different from the pics. Like the fondue cake doesn’t have all the fancy fruits like the pics posted on the reviews. It just comes with a cake with ice cream. I feel like the pictures are deceiving. The only positives were the location and maybe the price?",
+            "time": 1724851184,
+            "translated": false
+        },
+        {
+            "author_name": "AZ K.",
+            "author_url": "https://www.google.com/maps/contrib/107872442131629860714/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6SbtyzP-mk0cIrv--ZWYnPm3hvFMh6w7ZTHpBjqAHUHjwMl8_yA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "I had an excellent dining experience at this restaurant. I opted for the chicken burger along with a drink, and it was one of the best burgers I've had in quite some time. The service provided by the waitress was exceptionally pleasant, even though there was a slight language barrier. However, everything proceeded smoothly, and I was pleased to find that they accepted card payments, as I didn't have any cash on hand. I highly recommend this place, especially if you're exploring the main street.",
+            "time": 1698060461,
+            "translated": false
+        },
+        {
+            "author_name": "Vesa Lamaxhema",
+            "author_url": "https://www.google.com/maps/contrib/117130453210321394404/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXe6VlWnuwAJfF97-SP-kOuDhFfFxGBltMrxo_riQoNT0m7O04=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "I visited the restaurant specifically to try their smash burger but ended up thoroughly disappointed. The burger didn't resemble the advertised image, nor did it taste good. The bun was stale, the meat was tasteless, and the cheese was burnt. Additionally, the onions weren't caramelized as promised. Overall, the burger lacked flavor and was not worth the price of €6.90. I wouldn't recommend this overpriced dish to anyone!\"",
+            "time": 1723317343,
+            "translated": false
+        },
+        {
+            "author_name": "Greis Cabej",
+            "author_url": "https://www.google.com/maps/contrib/100780730327267062650/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkJWH1HY1fnr-Ny7e6qsJOATQFbbG7BwuyBu2t7pAa2Jl0Aijh=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Food was good and they have nice portions. However the service was not the best the last time i went there.\n\nWaiters were distracted and not paying attention to us at least.",
+            "time": 1724166836,
+            "translated": false
+        }
+    ]
+}

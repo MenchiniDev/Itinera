@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Lunik",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Anastasiia Petrenko",
+            "author_url": "https://www.google.com/maps/contrib/113592446024174061779/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNwK-wdEio27dLJVyvILNmeaaCHD66W9vU3XCE2L9rzcdu9TUf=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great location, classic and delightful design, everything worked and was in great condition. Deducted 1 star for small shower and a weird experience using it but added one star for exceptionally clean rooms and amazing breakfast. Definitely will come again, as the quality/price ratio is extremely good!",
+            "time": 1729538953,
+            "translated": false
+        },
+        {
+            "author_name": "Angelika S",
+            "author_url": "https://www.google.com/maps/contrib/118144561388142668571/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1LcKqYgXlKSX9u7KMtN_1P1sEui8oD02NTK4OQCzc8tcKpEY=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I stayed in Hotel Lunik with my friend for 2 nights.\nVery friendly staff, clean rooms, confortable beds and good isolation probably because it was very quiet.\nI recommend this place in Prague, good value for money :)",
+            "time": 1731886131,
+            "translated": false
+        },
+        {
+            "author_name": "Ivana",
+            "author_url": "https://www.google.com/maps/contrib/106464919615160269051/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmGqE58SCsftg1xHLEhPDgGlVjLfFk0PMkH10HzetoVgjn_w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The hotel is at a great location, very close to the main square. The room was spacious and the beds were very comfortable. The breakfast was surprisingly varied and delicious.",
+            "time": 1724608290,
+            "translated": false
+        },
+        {
+            "author_name": "mary koo",
+            "author_url": "https://www.google.com/maps/contrib/106629190260438816063/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsSqQ4r56ueAiDJ5e04QGjEALGbYLyYBCpeBGP0CDRVnKuu9Dh=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "4 pm check in but they can hold your baggage til you check in.  Very nice room except we could hear other room through a locked adjoining door.  Very good breakfast.  Shower was small but its an older building.  Excellent location, close to transit.  Very clean place.",
+            "time": 1717850402,
+            "translated": false
+        },
+        {
+            "author_name": "Andreas Stadler",
+            "author_url": "https://www.google.com/maps/contrib/109189377564927767673/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQCTDWWZeL_MiA8KhK6Qj-eQ9ocdxtETeYgzN5AZTIR_kq7A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very pleasant hotel. Good location. Many restaurants nearby. Also good connection to public transportation. Very nice hotel staff. Very helpful and friendly.",
+            "time": 1729757745,
+            "translated": false
+        }
+    ]
+}

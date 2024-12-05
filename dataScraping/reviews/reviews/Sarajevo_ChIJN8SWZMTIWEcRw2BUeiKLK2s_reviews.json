@@ -1,0 +1,66 @@
+{
+    "name": "Restoran&pizzeria Galija",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Mackers",
+            "author_url": "https://www.google.com/maps/contrib/116106802133830329013/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWVWTmDkIqh4_x0ee6aG-SlqHPSJTQ8R8d4NtH_VElAY_D7hnOFQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "A little bit more lighting would help because this place was kind of dark, and I wasn't even in one of their little nooks. Mirsad, the server, was super friendly and happy to practice speaking English and Bosnian with me and my group. Prices for Sarajevo I would say are a little high, but if you want a place that's outside of Bascarsija and a little secluded, you will find peace of mind with really good food. I saw some pizzas that looked nice. I did their house special, the snicl (schnitzel) and it was more than enough food at good value. The whole meal including a drink and a glass of wine was 30KM.",
+            "time": 1720290886,
+            "translated": false
+        },
+        {
+            "author_name": "Belmin Duran",
+            "author_url": "https://www.google.com/maps/contrib/107903386424086638255/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULogXC78fkcAaAFFwDYzoSzypt8wH7wzoXe9FYMogKsJ0XEMtV=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We order chicken and pizza. Food was delicious, and waiter was so friendly, and very professional gentleman. Music, ambient lights were absolutely perfect. Recommend to try visiting this restaurant it is worthy!",
+            "time": 1730662670,
+            "translated": false
+        },
+        {
+            "author_name": "El-medina Im",
+            "author_url": "https://www.google.com/maps/contrib/117343037670807574857/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5SPKODWCeXnM5-OAMRRV3qK27lnUZdDdyHgJFiRQ1Z4VusJzY=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Pizza is very bad and expensive considering the price of pizza and the quality of pizza it is unbelievable how bad pizza is. The dough is instant frozen type that can be made in the microwave. the other dishes are of medium quality and The arrangement of the pizza is visually unpleasant and I am disappointed!\n\nI really don't understand why the price of pizza is 18 bam /\n\nI think that such a price is unfounded if we consider the ingredients, the taste, the service ~",
+            "time": 1727202569,
+            "translated": false
+        },
+        {
+            "author_name": "Jill Parkinson",
+            "author_url": "https://www.google.com/maps/contrib/106721799076000907214/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAWEEBzl23GTn7RugPv-yAKcMVdLPFFMFX3GkOjb1VNHIWocxNaQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Not the best pizza I've had in the Balkans, but everything else was amazing. Waitress was very nice and helpful. The prices are cheap and the interior is cool. I'd go again!",
+            "time": 1569607311,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Antal",
+            "author_url": "https://www.google.com/maps/contrib/115857374923859210053/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7qoLbcbQFucqtuweal86WNewZe_YdXOamQUxO3ax2VEtUUMB8=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Fantastic dining experience.  Galija came recommended by a local service driver.  The service was too notch.  The food was perfect.  Two of us ordered the Sea Bass with a salad the other ordered Chicken Kabobs.  I also ordered the homemade apple pie with a scoop of vanilla ice cream.  It was like Baklava with apples in the middle.... Really good.  The prices were very reasonable.  I highly recommend Galija.",
+            "time": 1636573575,
+            "translated": false
+        }
+    ]
+}

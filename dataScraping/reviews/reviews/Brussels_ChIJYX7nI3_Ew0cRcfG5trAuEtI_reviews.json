@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Mozart",
+    "rating": 3,
+    "reviews": [
+        {
+            "author_name": "ArdalanMozayanfar",
+            "author_url": "https://www.google.com/maps/contrib/115392886384373855883/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJthuBUHbXBmnPRru0GdRyuNcz-jPkAhJ67NGYOXNKDXy2Ag=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "It was a total nightmare when it came to the service. This was my first, and likely my only Moroccan experience.\nWe were super pumped about the vibe and the design! The waitress didn't make a great first impression. We asked him what he had, and he shot back, \"What do you think I want?\nHe told us he had mint tea when we asked if he had any tea.\nWe were still exited until we asked the owner to snap a photo of us.\nHe replied us rudely to wait!!!\nThen he came back and talked to all tables and greeting them without seeing us!!!!\nHe ended up charging us 10 euros, which definitely wasn't worth it.\nRespect yourself and avoid wasting your valuable time and money in this fraudulent establishment.",
+            "time": 1730212621,
+            "translated": false
+        },
+        {
+            "author_name": "neeraj valecha",
+            "author_url": "https://www.google.com/maps/contrib/111864910790295343570/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUtwed_tukmp4_nkyx-rXv6eCpSmL81DePM0vlLq7m_I1p2Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Very central location, common area is very well decorated , okok breakfast, Good cooperative host.\nBut the rooms, unlike the reception area (whose pics are mostly marketed), are too old fashioned, like maybe centuries old , in need of renovation, not very clean, also the building is actually joint venture of few old houses so finding a room is like a jigsaw puzzle, no elevator to backside rooms and stairs are too cramp, problem with luggage.",
+            "time": 1729278299,
+            "translated": false
+        },
+        {
+            "author_name": "Julie Spark",
+            "author_url": "https://www.google.com/maps/contrib/118153438960474085514/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcFmQXkSmLPoEA1ueChS55KwFSXnun1SzlRDZwfmfGcKy1OCAtow=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "**A Hidden Gem in the Heart of Brussels**\n⭐⭐⭐⭐⭐\n\nStaying at Mozart's Hotel was truly a wonderful experience! The location couldn’t be more perfect—just a **one-minute walk** from the famous Grand Place, allowing you to immerse yourself in the charm of Brussels with ease.\n\nWhat truly sets this hotel apart is its owner, who is one of the kindest and most generous people I've had the pleasure to meet. He has a heartwarming story, dedicating much of his time to charity work for refugees, which is both inspiring and admirable.\n\nThe rooms are a perfect blend of comfort and value. They are spotless and simple, with all the essentials you need, at an incredibly honest price—something that’s rare in such a central location.\n\nBut perhaps my favorite part of the hotel was the breakfast area. It felt like stepping into a little piece of Marrakech, right in the middle of Brussels. The vibrant, warm atmosphere made each morning a delightful start to the day.\n\nIf you're looking for an affordable, comfortable stay with a touch of heart and culture, Mozart’s Hotel is absolutely the place to go. I’ll definitely be back!",
+            "time": 1726305407,
+            "translated": false
+        },
+        {
+            "author_name": "Konstantin Fedorov (Kot)",
+            "author_url": "https://www.google.com/maps/contrib/117962009313378557803/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu-DKuCLyqPw5rYaiTtb3FlvBnJkXFgc9i-nWokvLEKK13s7r6=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I had a fantastic stay at this boutique hotel! The design is absolutely stunning, with every detail carefully curated. While the rooms are compact, they feel incredibly cozy and stylish. The location is perfect for exploring the city, and the complimentary breakfast was a nice touch.",
+            "time": 1728054968,
+            "translated": false
+        },
+        {
+            "author_name": "Mashael Alferm",
+            "author_url": "https://www.google.com/maps/contrib/110722068468239474730/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfq2LkyXr9tj178i7n140470AtbS8PBpGirRrJEROx6kcRng=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "The coffee shop is truly amazing and cozy, and they serve the best Moroccan green tea. I would highly recommend it! Thanks Tariq for your great service",
+            "time": 1732131511,
+            "translated": false
+        }
+    ]
+}

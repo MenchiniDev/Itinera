@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Swing",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Yevhen Kozlov",
+            "author_url": "https://www.google.com/maps/contrib/110471404548719347539/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVPrKlwxwRFGJ0pFzgwCTn27eHcy5a4Mnrb_SLe-NjebNJLw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I had a week-long stay and everything was perfect. Clean rooms, good control over temperature, good windows which block most of the city sounds.\nAlso not every hotel provides you with a kettle and freezer in a room.\nI was impressed.\n\nAlso large parking.",
+            "time": 1728720118,
+            "translated": false
+        },
+        {
+            "author_name": "Edwin Naezer",
+            "author_url": "https://www.google.com/maps/contrib/116135648144347064495/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX43SKQAr8IyObJbxuMK7UtN88MrbHjrH4WTvO21g3gepOjQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Location close to quattro buildings, walking distance. Service is awesome, especially Karolina is always there to help.",
+            "time": 1723611406,
+            "translated": false
+        },
+        {
+            "author_name": "Jana Korycka",
+            "author_url": "https://www.google.com/maps/contrib/110635466156227197368/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_wp2U__7Le6tLID23piFUV3pxnm6is9ENgSIHGZiYyqVl3LCryg=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "We were invited for baptism celebration and the food was very tasty. They had perfect place to have music, dancing, separate space for kids. We enjoyed the party very much.",
+            "time": 1699170647,
+            "translated": false
+        },
+        {
+            "author_name": "Martin T",
+            "author_url": "https://www.google.com/maps/contrib/110322394095129124577/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFKfhXC4BN2Jju-jFMT32wDIHRLOr-7XhFenosm8CSHoWiDB_I=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I stayed here with my wife and two girls aged 5 and 7 and we had a nice time, we booked into a family room so we were given adjoining rooms with good and clean facilities.\n\nThe hotel staff were all very friendly and helpful with anything we needed like check in and getting wrist bands for free access to the park play area next to the hotel.\n\nThe location is a bit out of the city centre and about a 15 min taxi ride from the Krakow main square for instance so bear that in mind.",
+            "time": 1693319065,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan Zuanovic",
+            "author_url": "https://www.google.com/maps/contrib/104898202479596232095/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnGrajBPPN4b0FUQUieg0d71-W87lkAOh9D57YYrecjT1LvXQA=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "Mixed feelings! The hotel is pretty good looking, with spaceous clean rooms and the breakfast was nice. Good connection with the city center (bus 152 or 502).\nUnfortunately the compliments stop here: the windows aren't properly sealed so you get a nice cold breeze over your head :) and I also had the feeling that the heating wasn't working properly\nWater pressure in the sink and shower were weak, especially the shower :D as the hose was leaking. All in all, with just a small attentions to few details the hotel would be really great!",
+            "time": 1669027413,
+            "translated": false
+        }
+    ]
+}

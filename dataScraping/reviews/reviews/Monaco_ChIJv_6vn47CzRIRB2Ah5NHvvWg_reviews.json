@@ -1,0 +1,66 @@
+{
+    "name": "Monaco Brewery",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Dawson Charles-Holland",
+            "author_url": "https://www.google.com/maps/contrib/109276410453314858720/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSgBIPyM3_GHfesGJRrqE28HlRf10BztV4BulkqYh4USQEJ5K-=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Brasserie de Monaco offers a lively and vibrant atmosphere, particularly appealing to a younger crowd, as evidenced by the bustling, energetic vibe of the place. Located near a fairground, the restaurant enjoys a dynamic setting with plenty of excitement from the surrounding festivities. The seating area was full, indicating the popularity of the venue, yet service remained efficient, which is always a good sign of a well-run establishment.\n\nThe menu includes a variety of pizzas, with a few vegetarian options that can easily be adapted to vegan preferences by omitting cheese. I opted for a vegetarian pizza without cheese, and while the toppings were fresh and flavorful, I did feel that a little extra tomato sauce could have been added in place of the cheese to enhance the overall flavor and prevent the pizza from feeling too dry. That said, the price was quite reasonable, making it an affordable choice for a casual meal out.\n\nWhile the focus is clearly on pizzas, Brasserie de Monaco also offers a range of other dishes like salads, pastas, and meat-based options, which adds versatility to the menu for those with different tastes.\n\nHowever, if you’re not a smoker, it’s worth noting that the outdoor seating area, though lively and filled with energy, can be unpleasant due to the high number of smokers. Many diners in the outdoor space enjoy a cigarette, which may not be ideal if you’re sensitive to smoke. For a more comfortable experience, especially for non-smokers, it’s recommended to opt for an indoor table or visit during quieter hours when the outdoor area is less crowded.\n\nOverall, Brasserie de Monaco strikes a good balance between offering tasty food at a good value, set in a lively and youthful environment. While the lack of extra sauce on the vegan pizza was a minor drawback, it didn’t overshadow the overall enjoyable experience, particularly for those seeking a bustling, social dining spot.",
+            "time": 1731611542,
+            "translated": false
+        },
+        {
+            "author_name": "Celeste Gombert-Green",
+            "author_url": "https://www.google.com/maps/contrib/106082493727307487568/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIBZkMMGN2XW8daslpqA6g7Y4quxM4cSopXFRqRiit07UIhA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "4 weeks ago",
+            "text": "It was perfect weather for a cold refreshing beer and burger for lunch. The outside seating was very comfortable and spacious between each table. The fries were great, crispy and heat hot, refresh from the oil 🙂 the burger however, was disappointing, it lacked flavor, it was quite bland. I would not order their burgers again, I would try something else on the menu.",
+            "time": 1730864311,
+            "translated": false
+        },
+        {
+            "author_name": "Ella Butler",
+            "author_url": "https://www.google.com/maps/contrib/117549994425765566901/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuZGHZS25OLRMNUZdyNX6cTVNXOqJNPWzsvkwX3v1ZbM5VohJ_=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Good food and drinks! Happy hour is a great deal and I would definitely come again. The service was top notch and everyone was very attentive and polite",
+            "time": 1725609344,
+            "translated": false
+        },
+        {
+            "author_name": "Rob Q",
+            "author_url": "https://www.google.com/maps/contrib/116151572718679468414/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFcyICid2GIrY9-xZAIiURkAsKC6rPOzPr8CUSoPO0D5xoXzmjdw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great spot right in the marina. Staff were friendly, food we had was great and beer was good. Lots of indoor and patio seating.",
+            "time": 1728135740,
+            "translated": false
+        },
+        {
+            "author_name": "Tyrell Scott",
+            "author_url": "https://www.google.com/maps/contrib/106394302144205541296/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcfYEdXhHRcungJM4eYDXAmG79CcE0uPFnI6Qdl8Zg9S4uck8=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "The location is great, the food is decent, the beer is subpar and the service was awful. We really felt like we were unwanted on this particular night. Overall not an experience that I would want to relive.",
+            "time": 1719423702,
+            "translated": false
+        }
+    ]
+}

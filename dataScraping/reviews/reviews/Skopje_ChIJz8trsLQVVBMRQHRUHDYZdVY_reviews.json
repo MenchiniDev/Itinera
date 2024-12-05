@@ -1,0 +1,66 @@
+{
+    "name": "Градска кафеана Кај Јоле",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Ali",
+            "author_url": "https://www.google.com/maps/contrib/115092491318777622869/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxRaxE1xLRZ0WCtWwqSPUE7zoXX2I4XVOhlmLxtHOow1rKbGApXg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "A hidden gem in Skopje. You have to enter the building and go a bit father through the corridor. Traditional Macedonian food, a really cosy ambience with a nostalgic feel. Food is quite good, reasonably priced and the service is really good too.",
+            "time": 1720430290,
+            "translated": false
+        },
+        {
+            "author_name": "Benjamin Harvey",
+            "author_url": "https://www.google.com/maps/contrib/114096050462652349427/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhx-LbzrV1GIQyK9R-Hbri-_Vukb_RCIP1JyF2uayzBlqIUew=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Never would have found this hidden gem if it wasn’t for the reviews of Google Maps. Slightly off the main square in Skopje down a corridor is this pretty open air garden restaurant with great food and service. The traditional bread with garlic and cheese was the star of the show for me but the bacon wrapped rolled burger stuffed with cheese and ham was also excellent (although I was as stuffed as the burger by the end). The chips were a little cold but otherwise an excellent meal for a very reasonable price.",
+            "time": 1717324263,
+            "translated": false
+        },
+        {
+            "author_name": "Tattis",
+            "author_url": "https://www.google.com/maps/contrib/106465558744727866751/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvlGyWjh37OI3pX53nE-JNOJs2a4fSqHYWRu7KdzVQAjmv=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "The food is good but too many people smoking in the restaurant even the waiters too. Other than that everything is good:) really affordable price for a lot of food.",
+            "time": 1725087669,
+            "translated": false
+        },
+        {
+            "author_name": "GPTabs GPTabs",
+            "author_url": "https://www.google.com/maps/contrib/110886781013242832361/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJw-GRtq-jqBn1gd0IxPyraJmMi-6F_-OlftGSIPojz_cM-aA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Gradska Kafana Kod Jove is a gem in Skopje! This place offers an authentic taste of Macedonian cuisine with an atmosphere that feels like stepping into local culture. The food is delicious—fresh, flavorful, and generously portioned. Traditional dishes like tavče gravče and shopska salad are must-tries, and the grilled meats are outstanding.\n\nThe warm, cozy interior and friendly staff make the experience even better. It’s a popular spot with locals, which speaks to its quality and authenticity, so expect a lively ambiance, especially in the evenings. If you’re looking for a true Macedonian dining experience, Kod Jove is a fantastic choice.",
+            "time": 1730802293,
+            "translated": false
+        },
+        {
+            "author_name": "Jonas Burgwinkel",
+            "author_url": "https://www.google.com/maps/contrib/104774068174746303670/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4WQ4x_zGJ-NJM0i092cEICQpd3My8xDqTyM0ZPwfLiUHOEg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Amazing traditional macedonian food - with recommondations of the staff. The atmosphere is very calm, friendly staff and the food is nice to get to know the culture.",
+            "time": 1729100317,
+            "translated": false
+        }
+    ]
+}

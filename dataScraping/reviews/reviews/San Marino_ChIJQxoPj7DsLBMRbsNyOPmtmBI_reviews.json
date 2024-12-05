@@ -1,0 +1,66 @@
+{
+    "name": "Ristorante Vecchia Stazione",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Martinescu Alexandru",
+            "author_url": "https://www.google.com/maps/contrib/110887669584743910250/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe1rem36ZnFJaEfPCZe7bJqG0GDUraOa8941SolfpYph1PbMy5aA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Been here a few months ago, nice place, good food and wine.",
+            "time": 1727163576,
+            "translated": false
+        },
+        {
+            "author_name": "Olviya Pawley",
+            "author_url": "https://www.google.com/maps/contrib/111987858181198311820/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDppyIxzS_cCRS10iKlir_2sa14YJZpdESlacjV6tqS2plH5Sb=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "great ice cream and nice waitress!",
+            "time": 1722725751,
+            "translated": false
+        },
+        {
+            "author_name": "Szymek Ryczko",
+            "author_url": "https://www.google.com/maps/contrib/108776351895334680891/reviews",
+            "language": "en-US",
+            "original_language": "pl",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPbUmLFFZLdHdDnJaPcsLJE33ADT4OH5LqnsSmHwmEkcRiYY6o=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Great service always willing to chat and very good food!",
+            "time": 1713343036,
+            "translated": true
+        },
+        {
+            "author_name": "Антоша Р",
+            "author_url": "https://www.google.com/maps/contrib/111262042227055619465/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ67WycAEMrbum6Sd_stcZKm1s_zOtzPJIAr6zAzl2wTIcxug=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "At first everything was fine, but then the seller’s inappropriate jokes about Ukraine and German politics made me think about the integrity and quality of the establishment. I’m writing specifically in Russian so that tourists can understand it. If you go up to the very top, you can eat well and inexpensively and buy the same drinks. There is a whole market of everything at the top and the prices are not very expensive. sorry for the mistakes.",
+            "time": 1691424951,
+            "translated": true
+        },
+        {
+            "author_name": "Beatrice Ceriotti",
+            "author_url": "https://www.google.com/maps/contrib/110535758606879464850/reviews",
+            "language": "en-US",
+            "original_language": "it",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKi5VaPORc2J8qStO4RJ_-c3G38lR4MdVfC_l-DjofjuN1s9A=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "We had lunch in the restaurant during an organized trip, it disappointed our expectations, low quality starter and meat, friendly staff but the service can definitely improve, good sweet tiramisu, I would change the 70s style oval steel trays as they were too large and bulky on the table",
+            "time": 1682628590,
+            "translated": true
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Miramar Valencia",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "강남레토나(강레)",
+            "author_url": "https://www.google.com/maps/contrib/114067556230399405137/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5c1iheFNf6UIInDiEqCxI3FF70MLMsl0u2xRqUlKF7or-zGw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I was worried that it was a two-star hotel, but this hotel is clean and well-equipped enough to be reevaluated.\n\nThe staff is all friendly and well-educated, and there is a 10 percent discount on the restaurant on the first floor. It is also more delicious and pleasant than the surrounding restaurants.\n\nTwo nights in this hotel was a very good experience and reasonably priced service. I will be back again.",
+            "time": 1721800794,
+            "translated": false
+        },
+        {
+            "author_name": "CM BB",
+            "author_url": "https://www.google.com/maps/contrib/104278899146440056815/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlFOKkbA2j6VnnPrHdSwMnWb42GeOK1a_G7BaFY7VmEE7e__eQ5A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "It's so noisy. Walls are paper thin. I've been kept awake by more than just one room, partying throughout the night. You can also hear the bars outside. If you can sleep through noise then this place is great.\n\nLocation is great for the beach but bad if you want to sleep at any time of the day or night.\nAlso there is a terrace which is great but it is closed, and apparently has been for a long time.",
+            "time": 1724711945,
+            "translated": false
+        },
+        {
+            "author_name": "jeannette verboom",
+            "author_url": "https://www.google.com/maps/contrib/108672766913240021148/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiIR7GoPdz92W_-iOB8Hd4YRuw1zqXZB4fXKpnrkolYzpP1A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Last week we have spend a lovely week in hotel Miramar. They did a great job in upgrading the hotel and the rooms. One of my favorite upgrades is the lovely fragrance of the shampoo, conditioner and soap. They all come in very handy refill flacons.  Very ecological friendly.  Also compliments to the very kind and capable staff of the hotel.\n'Till next year!\n\nJoop and Jeannette",
+            "time": 1725879088,
+            "translated": false
+        },
+        {
+            "author_name": "Cherrelle Davis",
+            "author_url": "https://www.google.com/maps/contrib/100090527962265508235/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8IRTFPV5uiu5eeTgLtCjchwEM3vBw0S5pJdE6CEboFekSJiSHgA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Great location and nice staff. Rooms are adequate but walls are thin so you will hear everything if you have noisy neighbors. Also you will hear people outside during night so bring ear plugs. Otherwise decent hotel near the beach.",
+            "time": 1726072635,
+            "translated": false
+        },
+        {
+            "author_name": "TutorNick",
+            "author_url": "https://www.google.com/maps/contrib/110262275001271918023/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp7p1GIVF2UBSkxFSvJ2VdLLIxJqjckyhZjs97TFwC-OTWh0MM=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I was going to stay here for the Smile concert in August but unfortunately this was cancelled. Although I had a no refund reservation, the hotel kindly gave me a full refund. So from a customer service perspective, I'll give them a 5star rating.",
+            "time": 1722239456,
+            "translated": false
+        }
+    ]
+}

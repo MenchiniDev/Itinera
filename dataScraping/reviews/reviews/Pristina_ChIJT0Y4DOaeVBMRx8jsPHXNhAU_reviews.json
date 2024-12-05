@@ -1,0 +1,66 @@
+{
+    "name": "Mama Mantia",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Mustafa Serdar Karakaya",
+            "author_url": "https://www.google.com/maps/contrib/108957064646837415247/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAO94BZe_j3TcR3YaBLCawW3IMDM-_-F5AiuqyCPxGsHL6Aiw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We tried their first branch a couple of days ago for their bureks and loved it. We loved their desserts even more. They have a good variety, and the ones we tried all tasted fairly light and airy, just the way we prefer them. Of course they also have heavier options, like a baklava full of syrup, but that would not be our pick. Prices are very reasonable and their tea is pretty good.",
+            "time": 1720463932,
+            "translated": false
+        },
+        {
+            "author_name": "fanina tannous",
+            "author_url": "https://www.google.com/maps/contrib/110309465748412871228/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURMFbJVspzLKcm0z8k-4wHUnf_F9irlKwOJob9uUeqhtZb5nZOIg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "A wonderful place.\nThe guy tried very hard to put that pink ribbon straight at no avail, that was quite funny 😁\nRespect for the cause though 👍",
+            "time": 1728679028,
+            "translated": false
+        },
+        {
+            "author_name": "Vedat Sinanoğlu",
+            "author_url": "https://www.google.com/maps/contrib/102393848350911266444/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD391O-jC3f2yCoUcHDlmXmxQIE4io1oOAfbg3bsFYD0KGhYNR4A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "It was a great experience, everything was incredibly delicious, the service was very nice and the employees were incredibly polite.",
+            "time": 1729476240,
+            "translated": false
+        },
+        {
+            "author_name": "Alban Turku",
+            "author_url": "https://www.google.com/maps/contrib/107234571105501241467/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjMP28XcuXG8XTrNvNz8jRd8dVxFI-aKDvUWPrGx50bQu6dqc_=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Very nice place for traditional local food and sweets. Must try all menu so you can agree with me!",
+            "time": 1716713575,
+            "translated": false
+        },
+        {
+            "author_name": "Jane Doe",
+            "author_url": "https://www.google.com/maps/contrib/102582740994669400495/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuXAIAvWz9xLtQK-VvYIHnXrUZ9Rq1WO148YsECQDn0K-ftQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great food and sweets. The staff were very nice but the manager made us feel very uncomfortable and humiliated us without any reason to. We are still quite shocked at his audacity.",
+            "time": 1723635801,
+            "translated": false
+        }
+    ]
+}

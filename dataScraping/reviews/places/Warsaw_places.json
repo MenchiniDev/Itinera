@@ -1,0 +1,1080 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2524009,
+                "lng": 21.03593799999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.25366323029149,
+                    "lng": 21.03737273029151
+                },
+                "southwest": {
+                    "lat": 52.2509652697085,
+                    "lng": 21.0346747697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hit Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107057179164277980020\">Hit Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrXgWdCn15T-1MDi-9eXqiX7DC_nKdmmx3LfIBfrfjZ2QAp41wG1KY3VjansTzjp85-QIJuWuGzEOWbRciTX9OZC0mklv1rqgXhG3f6QV4k4LYpQueboHAWs17FqWcyIXD5WOhWB1tWYCMr6HQicjxbyscW41EcW6SHDGurokYnMp7A",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJnyMt30bMHkcRx8yCUxATy9k",
+        "plus_code": {
+            "compound_code": "722P+X9 Warsaw, Poland",
+            "global_code": "9G43722P+X9"
+        },
+        "rating": 3.8,
+        "reference": "ChIJnyMt30bMHkcRx8yCUxATy9k",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2416,
+        "vicinity": "Księdza Ignacego Kłopotowskiego 33, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.23396159999999,
+                "lng": 21.0145625
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2355589302915,
+                    "lng": 21.0158533302915
+                },
+                "southwest": {
+                    "lat": 52.2328609697085,
+                    "lng": 21.0131553697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Gromada",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1368,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113205971428043733001\">Hotel Gromada Centrum w Warszawie</a>"
+                ],
+                "photo_reference": "AdDdOWqj7fCHe0wmJkqJms89IjVFW-FuoPhUs0XekBIHgO-6X53CMETFGu4b1R-aPyNoWLY72jiFBtB5EkpyE-ZTLQHwNhf_78xPqfMXEcv3db8wDjSeBp5-5z55SFiXkSet33LZpJyRQC2juEZYkDpAPCgljT9I7_nMKQ5azrysxNPGcxh3",
+                "width": 1824
+            }
+        ],
+        "place_id": "ChIJoToG_fTMHkcRvnEOTBVeaVw",
+        "plus_code": {
+            "compound_code": "62M7+HR Warsaw, Poland",
+            "global_code": "9G4362M7+HR"
+        },
+        "rating": 4,
+        "reference": "ChIJoToG_fTMHkcRvnEOTBVeaVw",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4840,
+        "vicinity": "plac Powstańców Warszawy 2, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2444332,
+                "lng": 21.0495011
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2457513302915,
+                    "lng": 21.0509162302915
+                },
+                "southwest": {
+                    "lat": 52.24305336970851,
+                    "lng": 21.0482182697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Dedek Park - historyczny dworek, w którym usypiasz z kumkaniem żab, a budzisz się ze śpiewem ptaków",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111629325890341215894\">Dedek Park - historyczny dworek, w którym usypiasz z kumkaniem żab, a budzisz się ze śpiewem ptaków</a>"
+                ],
+                "photo_reference": "AdDdOWr0bhji8bxz7ZCu6R9nBzTP9kKJ5AaXKTbuX2F-bSKGny0QmerHzIRPAp9YxamT2Fcsd6QjY-uqoGl2mr0L7g0bptD7YHLkrksJrZQLj4lPlqQM6DsMvpoHe0pVhOv9nVfX5cjAzVOliAB1ImBEs-l2402kVJF42fuHZrnrg5ODCrsy",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJXyqpVUzMHkcRV2JnJGAhauM",
+        "plus_code": {
+            "compound_code": "62VX+QR Warsaw, Poland",
+            "global_code": "9G4362VX+QR"
+        },
+        "rating": 4,
+        "reference": "ChIJXyqpVUzMHkcRV2JnJGAhauM",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 600,
+        "vicinity": "aleja Zieleniecka 6/8, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.22405999999999,
+                "lng": 20.9888059
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2251422802915,
+                    "lng": 20.9899921302915
+                },
+                "southwest": {
+                    "lat": 52.2224443197085,
+                    "lng": 20.98729416970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu Sobieski Hotel, Warsaw",
+        "photos": [
+            {
+                "height": 989,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112789557131290193014\">Radisson Blu Sobieski Hotel, Warsaw</a>"
+                ],
+                "photo_reference": "AdDdOWqsYEIcz4ib8LLdUToYcgJMeKqLLwIM5wUyVVLjBFIQN8rBAE6Q481E3O1oI-BzykituxOr3lHDuxa4uPTuUN-haQbAq9iw5p10PfkNvX0DLUNME2S6KVfBPCMdg1XeGC2M63QnxweYDGS0R-65lfmxGzJYqcJVcrIUiGBI9nvrZP8",
+                "width": 1484
+            }
+        ],
+        "place_id": "ChIJg9RcI5fMHkcR_Arnp6f8hMg",
+        "plus_code": {
+            "compound_code": "6XFQ+JG Warsaw, Poland",
+            "global_code": "9G426XFQ+JG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJg9RcI5fMHkcR_Arnp6f8hMg",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6199,
+        "vicinity": "plac Artura Zawiszy 1, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2076765,
+                "lng": 21.0297166
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2090555302915,
+                    "lng": 21.0310390302915
+                },
+                "southwest": {
+                    "lat": 52.20635756970851,
+                    "lng": 21.0283410697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Regent Warsaw Hotel",
+        "photos": [
+            {
+                "height": 1474,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111649363968882927418\">Regent Warsaw Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrgpGHfyCpj2wsY3rNRD2yppaoFWe0PodkbDWB0JdGlGeszZ3_59mGeE6S13whfNDGP2inJOSOaes2-pzpGbbaL6HdupbLavMR4_y997YP5aQjg8WIL6SytV5fPwSWR_weBQ_ToZ-DVPLSCqHgIu2GzhR_-fDFjuyrcr49ihpTVUM4",
+                "width": 2208
+            }
+        ],
+        "place_id": "ChIJCR9CICHNHkcRkKytcW4jYl8",
+        "plus_code": {
+            "compound_code": "625H+3V Warsaw, Poland",
+            "global_code": "9G43625H+3V"
+        },
+        "rating": 4.4,
+        "reference": "ChIJCR9CICHNHkcRkKytcW4jYl8",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "spa",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2728,
+        "vicinity": "Belwederska 23, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2147689,
+                "lng": 21.0422038
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2162468302915,
+                    "lng": 21.0436316802915
+                },
+                "southwest": {
+                    "lat": 52.2135488697085,
+                    "lng": 21.0409337197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Łazienkowski",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100822392362582893935\">Hotel Łazienkowski</a>"
+                ],
+                "photo_reference": "AdDdOWoFTdS0BNKUL1RkUfTD_RbIAdrKIRtWkws_5IhdSRN1n3bba-V9nEqStskcQdWJVuhRSBA9lZQk47hiSM5CZqPeAy7N0KW-A_mcJf8fbdkqsjs51wXddpmZZPvwR4IgzwrmHcpnqUa7IwWNc9lBV3dtsrg_6Bf2Wd58xyPbh25NKWQK",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJyeDUWRnNHkcR5lKgjck7Ylc",
+        "plus_code": {
+            "compound_code": "627R+WV Warsaw, Poland",
+            "global_code": "9G43627R+WV"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJyeDUWRnNHkcR5lKgjck7Ylc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1156,
+        "vicinity": "29 Listopada 3B, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2259901,
+                "lng": 20.9887688
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2272491302915,
+                    "lng": 20.9901953302915
+                },
+                "southwest": {
+                    "lat": 52.2245511697085,
+                    "lng": 20.9874973697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Campanile",
+        "photos": [
+            {
+                "height": 460,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114848335347803377527\">Campanile VARSOVIE / WARSZAWA</a>"
+                ],
+                "photo_reference": "AdDdOWrK8fMGJ2s2-bqGAHoF7wqmMl7YPLSX-Dh_fRdI-VURiJbhqFYGSFNb4HzEtf7HdgNQam_kyI-PsK6f9k5T4tJeF8hdSVdIUFL3FUvNakYsz1oo8FN23-9QhMANx5dR1l_xSwsj8pvRCJsJIEC05DG3Tsmlz8GAOF7Wvm99_VxayqKY",
+                "width": 840
+            }
+        ],
+        "place_id": "ChIJ5yPOvpDMHkcRdtOXqZ1MAb0",
+        "plus_code": {
+            "compound_code": "6XGQ+9G Warsaw, Poland",
+            "global_code": "9G426XGQ+9G"
+        },
+        "rating": 4,
+        "reference": "ChIJ5yPOvpDMHkcRdtOXqZ1MAb0",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3987,
+        "vicinity": "Towarowa 2, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.21999820000001,
+                "lng": 21.0187555
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2212543802915,
+                    "lng": 21.0206175802915
+                },
+                "southwest": {
+                    "lat": 52.2185564197085,
+                    "lng": 21.0179196197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Plan B",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116172332835924012605\">Tomasz Włodarczyk</a>"
+                ],
+                "photo_reference": "AdDdOWqw1RENoS2K606_uxXplCgXJGz3N32_MOuk-Gpsp8ai55DluA8N2Vf5FA-UCsILK2IDU1oxmGfDDMNWGM9eVyhcuqqzF5Ctmflo3tkADKw2MFpUhKfdrRKXBFixEcCHz4J9OF8K7fr5v3Ng9Ct5aXliTSaSu_SMXkBdiq8AGLVR0xKK",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJCzYm5OXMHkcRaQAxHmWQ8Z0",
+        "plus_code": {
+            "compound_code": "6299+XG Warsaw, Poland",
+            "global_code": "9G436299+XG"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJCzYm5OXMHkcRaQAxHmWQ8Z0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2648,
+        "vicinity": "aleja Wyzwolenia 18, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.20158000000001,
+                "lng": 21.0223309
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.20300298029149,
+                    "lng": 21.0236716802915
+                },
+                "southwest": {
+                    "lat": 52.2003050197085,
+                    "lng": 21.0209737197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pasta i basta",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1087,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105202985000698136957\">Pasta i basta</a>"
+                ],
+                "photo_reference": "AdDdOWopo1y7ohj6upvw8fUVVKlazA2M9KXs-f6FmZ7eecLD7LXg-vZi4eYCKE2yInzaNmd1kyaJ_tf5VTGunfw4WgIfZROJZ6TS0UWGLM1txqjWoCSIHgg2EZZBfbg-Ze12UyAxiRV4qWf5iesqCeEfXHX7Q_aCPzJf4m-nhKuQKzs8b0x-",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJQSAlcyjNHkcRv4d1a5bAV1U",
+        "plus_code": {
+            "compound_code": "622C+JW Warsaw, Poland",
+            "global_code": "9G43622C+JW"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJQSAlcyjNHkcRv4d1a5bAV1U",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "liquor_store",
+            "cafe",
+            "bar",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1414,
+        "vicinity": "Odolańska 5, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2388985,
+                "lng": 20.9777163
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2403285802915,
+                    "lng": 20.9790974302915
+                },
+                "southwest": {
+                    "lat": 52.2376306197085,
+                    "lng": 20.97639946970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Chińczyk z Senatorskiej",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3753,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104858049970305216719\">Andrzej Chomczyk</a>"
+                ],
+                "photo_reference": "AdDdOWpgcBoMPcr-gU3KOHXbJYv1ozIk8JxRCq9cBfcm3_ZQk6GTTkVQPBWss1v4YmA75UZGSHRKZIlgaviw-m75QNTITN9YVxRfBLNJX-Y9ie1D6GBn4wt5I1lKAdMSAbX2m3X4cHQg6QsyuBNDn5c08RGQBRVmeF1GSRGVm2E2kF4EqnlB",
+                "width": 5634
+            }
+        ],
+        "place_id": "ChIJa1BQbX7LHkcR7lCt9GwH81w",
+        "plus_code": {
+            "compound_code": "6XQH+H3 Warsaw, Poland",
+            "global_code": "9G426XQH+H3"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJa1BQbX7LHkcR7lCt9GwH81w",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 529,
+        "vicinity": "Okopowa 23, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2031916,
+                "lng": 21.023689
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.20453388029149,
+                    "lng": 21.0249197802915
+                },
+                "southwest": {
+                    "lat": 52.20183591970849,
+                    "lng": 21.02222181970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Regeneracja",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3785,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109853838215792705305\">Klubokawiarnia Regeneracja</a>"
+                ],
+                "photo_reference": "AdDdOWpVuLJh5g63ygjkEz3JNAiHtEloLQHQdf8nVFZNH4dG-oV9S6Yhyx8oGZquUatwJ8RL9VbCSLX0DhnZ_Noi2xAcMvqcW3Hrpom6r1KpnZG3KrzgVauvenZxUeQyan1ldWdfehmJdRb4yDGs6wdamr4k84sZiFnc0-IO7OlL0BXFA41H",
+                "width": 5677
+            }
+        ],
+        "place_id": "ChIJ197QwyfNHkcRJUVDKlRAP64",
+        "plus_code": {
+            "compound_code": "623F+7F Warsaw, Poland",
+            "global_code": "9G43623F+7F"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ197QwyfNHkcRJUVDKlRAP64",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "cafe",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2354,
+        "vicinity": "Puławska 61, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2500722,
+                "lng": 21.0093433
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2510262802915,
+                    "lng": 21.0107285302915
+                },
+                "southwest": {
+                    "lat": 52.24832831970851,
+                    "lng": 21.0080305697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Podwale 25 Kompania Piwna",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2723,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101530446031485715599\">Podwale 25 Kompania Piwna</a>"
+                ],
+                "photo_reference": "AdDdOWqk9qWhbdpwBQ7s3j9_FRn0aIT9oKNODWgFxegls-bxOVxLeYAliuwvvSBXQXPnMUpJZoTOjHAaZdKBZznDGA2sbS4Jz9QEg-niVPRMz4hM1lYJ8lhO_3UH353VJ8hJSGc2Id4ISlSnT9vwiZn07P8edCnYgeidnalyLFriaYEZhHTR",
+                "width": 4250
+            }
+        ],
+        "place_id": "ChIJUZnHkG_MHkcRp0_lW-_LJfA",
+        "plus_code": {
+            "compound_code": "7225+2P Warsaw, Poland",
+            "global_code": "9G437225+2P"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJUZnHkG_MHkcRp0_lW-_LJfA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 16086,
+        "vicinity": "Podwale 25, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2389705,
+                "lng": 20.9951108
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2403055802915,
+                    "lng": 20.9961819802915
+                },
+                "southwest": {
+                    "lat": 52.23760761970851,
+                    "lng": 20.9934840197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restauracja \"el Greco\"",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114560209007170339269\">Restauracja &quot;el Greco&quot;</a>"
+                ],
+                "photo_reference": "AdDdOWrmEI1Ctpqzddu3NqeNI5gUR1PfkcPA8DkIA71P8oMQeh5KFHnMslEZY6P6DdCiCB-SHL4qi5ikODhQ5J8wAPYVk8sgxMs7G9769IWiZtJ5de6IegAeogKwKSXcLTk847NgAJgaSwkm99LHnp33Ym2uXp5Pel-2cKxw1jY5UjGYt_Pt",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJjfN34YjMHkcRRHDS6GAKhI0",
+        "plus_code": {
+            "compound_code": "6XQW+H2 Warsaw, Poland",
+            "global_code": "9G426XQW+H2"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJjfN34YjMHkcRRHDS6GAKhI0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4081,
+        "vicinity": "aleja Jana Pawła II 29, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2361675,
+                "lng": 21.0095828
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2374510802915,
+                    "lng": 21.0107992802915
+                },
+                "southwest": {
+                    "lat": 52.2347531197085,
+                    "lng": 21.0081013197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Banjaluka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1908,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102775217657693678241\">brahma</a>"
+                ],
+                "photo_reference": "AdDdOWquZSUE3A4cYQGWUE3sC6H2SxXmvuXXR8ePsjPMrnkM9DTcpk7y-BkEygRZiinsfV8h8NHex1xhG4T6Hv9EWTIJvaGCB8nEbtXjTkEAhEazfZcxX0NB9m6LLAMKntJtSzyUjeozc_hxvlTUgI_u4COmccGBLPT0CPEQOUNunItMoIp-",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJYVASOCnNHkcR1ZVMyr7T68w",
+        "plus_code": {
+            "compound_code": "62P5+FR Warsaw, Poland",
+            "global_code": "9G4362P5+FR"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJYVASOCnNHkcR1ZVMyr7T68w",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7092,
+        "vicinity": "Szkolna 2/4, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.2166082,
+                "lng": 21.0196186
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.21798338029149,
+                    "lng": 21.0210833802915
+                },
+                "southwest": {
+                    "lat": 52.21528541970849,
+                    "lng": 21.01838541970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mr. Pancake",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115082531971138851438\">Mr. Pancake</a>"
+                ],
+                "photo_reference": "AdDdOWqB2dD2EbJEb5yYUxsa9g5fvGtQm7dvI1zYEFwWrxEaaHqfqPPt5Toy_qwATgXFJ2jDy7-uiYjWVPRpuWfqfkKYAU-2YAfK1r-GTjm_cN9Hdbd_uUFCCT5wwgkBbtHP6eMPkWEzKZsjlOfnJER-wcDxEwRomjxbiv2b5Xr6e2D4-7C-",
+                "width": 2880
+            }
+        ],
+        "place_id": "ChIJ-8edLljMHkcR-KqS_kd_4GE",
+        "plus_code": {
+            "compound_code": "6289+JR Warsaw, Poland",
+            "global_code": "9G436289+JR"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ-8edLljMHkcR-KqS_kd_4GE",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "night_club",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4206,
+        "vicinity": "Marszałkowska 17, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.23292899999999,
+                "lng": 21.0139522
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2341938302915,
+                    "lng": 21.0152383302915
+                },
+                "southwest": {
+                    "lat": 52.2314958697085,
+                    "lng": 21.0125403697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Mexican. Restauracja",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3060,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107595917285111120110\">Olex Dj</a>"
+                ],
+                "photo_reference": "AdDdOWrQNVKPf_v4aQRRl3k8uSbZ5aFGL0XMNy1WcZ-xUeGZxsk-4GvF5RoxEMnQsdGYmU0g56XLCLxZxlUge7SRPbKoW9Z2Gt1AAn3vPQWC3mEuHWVvakGYOpMTwm4vxUuL1KV10KB9iZqeiO5uhvsYDoVwEzkS98Z_QNQTLPTlcqrj95IL",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJW_z0PvbMHkcRSxZZ-P-MOqU",
+        "plus_code": {
+            "compound_code": "62M7+5H Warsaw, Poland",
+            "global_code": "9G4362M7+5H"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJW_z0PvbMHkcRSxZZ-P-MOqU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3157,
+        "vicinity": "Zgoda 6, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.23221900000001,
+                "lng": 21.0557665
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2335303302915,
+                    "lng": 21.05696778029151
+                },
+                "southwest": {
+                    "lat": 52.23083236970851,
+                    "lng": 21.05426981970851
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Trattoria Rucola",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101975526213951792949\">Trattoria Rucola - Saska Kępa</a>"
+                ],
+                "photo_reference": "AdDdOWqdXYfy4UeKDGjJwKF5vGoh_lsF26PuDqPOh9FNqW62w7zs454LcH96HzQhD8iekmMV7z0B1OOwoREEJxrTHiTIaJ_1q56knJsd10CPyyg38MAPkBYPTOQugH-NpveIzNWKEtw6dIkJsCQq919w8c6xUo7A7HeaUi5FRF6NITWh0Y__",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJr9PWC6nNHkcRCbCwrW8FKP4",
+        "plus_code": {
+            "compound_code": "63J4+V8 Warsaw, Poland",
+            "global_code": "9G4363J4+V8"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJr9PWC6nNHkcRCbCwrW8FKP4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1867,
+        "vicinity": "Francuska 6, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.234341,
+                "lng": 21.0223899
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2355703302915,
+                    "lng": 21.0238130802915
+                },
+                "southwest": {
+                    "lat": 52.23287236970851,
+                    "lng": 21.0211151197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Kamanda Lwowska",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115554937279035059728\">Patty Tsereteli</a>"
+                ],
+                "photo_reference": "AdDdOWrAABrkPApq7FCOycAjRMG5T5uh0UnT-7TyxaN1O5hv9meiIyYLC-qTapZl_k5nsnpJl-_0UlvOHucWU_2CuZMNPD3BxkKZ82taZ5fkAwHi-0HpgzUMnMN9HDcVaJboWunBOlDM5RR5hkDrSvAil4Idfq2ysv2S1xC0E7ryenJzQcw1",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJW_z0PvbMHkcRYKgeyXla5Uk",
+        "plus_code": {
+            "compound_code": "62MC+PX Warsaw, Poland",
+            "global_code": "9G4362MC+PX"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJW_z0PvbMHkcRYKgeyXla5Uk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1585,
+        "vicinity": "Foksal 10, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.1955548,
+                "lng": 21.0238317
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.1969061302915,
+                    "lng": 21.0252843302915
+                },
+                "southwest": {
+                    "lat": 52.1942081697085,
+                    "lng": 21.0225863697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Stary Dom",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5504,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113040999746882198168\">Stary Dom</a>"
+                ],
+                "photo_reference": "AdDdOWoYasRgKjwX975XzDTjupaopi4HyJ1rB_q_Lknp9slZbe7vwWpfsXjG4i7xUzgAt-zC-EY_KjkO7txL8aPkdxuRwG2Nt4ib77KhVZgOJM8cmtHvBYZMsry7g0kempRIHoya7Td7RSYL9Jn0YtkM2iafStGMhOvrcNlwZwz6SslxX9D8",
+                "width": 8256
+            }
+        ],
+        "place_id": "ChIJZ6Mm9CvNHkcR8X0Q_rNKHTY",
+        "plus_code": {
+            "compound_code": "52WF+6G Warsaw, Poland",
+            "global_code": "9G4352WF+6G"
+        },
+        "price_level": 3,
+        "rating": 4.7,
+        "reference": "ChIJZ6Mm9CvNHkcR8X0Q_rNKHTY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9114,
+        "vicinity": "Puławska 104/106, Warszawa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.23202219999999,
+                "lng": 21.0120444
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.2332934302915,
+                    "lng": 21.0134299302915
+                },
+                "southwest": {
+                    "lat": 52.2305954697085,
+                    "lng": 21.01073196970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bistro Bordo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115623110755329283876\">Tomasz Wojciechowski</a>"
+                ],
+                "photo_reference": "AdDdOWpjEYAFC_4FgfTu2-Sl2THyU4aozyVercQ2ZilZvtaGCHJHRfFxSUox2uoMCyrjyrm65MkHEP6okCKIqaq8zvPltvXbQ9hiRZ4_YlPZN0m_gMpikSTE5buXTF-ViV9JEe9VU_iryoPM4-OVJmUqkwZFrLd7e3EOzAs7Abfvzjlsm8ec",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJFf0OnvTMHkcRS0np7zltxVc",
+        "plus_code": {
+            "compound_code": "62J6+RR Warsaw, Poland",
+            "global_code": "9G4362J6+RR"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJFf0OnvTMHkcRS0np7zltxVc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3099,
+        "vicinity": "Chmielna 34, Warszawa"
+    }
+]

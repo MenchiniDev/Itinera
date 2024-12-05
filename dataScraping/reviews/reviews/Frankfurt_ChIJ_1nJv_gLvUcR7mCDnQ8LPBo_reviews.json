@@ -1,0 +1,66 @@
+{
+    "name": "L'Osteria",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Prix",
+            "author_url": "https://www.google.com/maps/contrib/107482573577601464423/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX05NPZPlm_jQkO6PCyfYkh-1MNxi_Huf6pbugC7j4yOKZqk_7K=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "The atmosphere is very nice and specious with good music.. the waiters were friendly and polite and the food was tasty but there was no salt in the orecchiette with manzo!\nPizza are very large with a thing dough and crispy edges !!\nAn overall nice experience so will definitely go back :)",
+            "time": 1721759572,
+            "translated": false
+        },
+        {
+            "author_name": "Daniel Schaefer",
+            "author_url": "https://www.google.com/maps/contrib/107195490836540490852/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8iRVIzXAsw5a8Y_2edrke8QC5ChbtNoc6IDbEKQ1s9OnUpuQUrA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Unbelievably huge pizzas! I’ve never had a single pizza that big - they can easily feed two hungry adults. Besides that, the food and service quality were excellent. Our waiter was very friendly and bilingual.",
+            "time": 1718723006,
+            "translated": false
+        },
+        {
+            "author_name": "S J",
+            "author_url": "https://www.google.com/maps/contrib/105503104759168612342/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU21ITEhsAFTio3YKpuxqemaqlhg65p2mtR_fGsvGNySsTmgEV5=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "4 weeks ago",
+            "text": "Pizzas were massive and good. The vegan one's toppings of plant chicken was a little weird, but kind of grew on me. The vegan cheese was pretty tasty.\nThe pizzas don't fit on their plates, which does make cutting them a little difficult. Overall not bad.",
+            "time": 1730924591,
+            "translated": false
+        },
+        {
+            "author_name": "Kenan",
+            "author_url": "https://www.google.com/maps/contrib/100211191220923724355/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWijjsIdkbOiolMqB_YD13iYL3P5QiLYH0mUFfLMGyQ7POd8EYR=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Very good, the soft drinks are kinda expensive. Nice service, good ambiance and tasty food :)",
+            "time": 1730321355,
+            "translated": false
+        },
+        {
+            "author_name": "Emi Balliu",
+            "author_url": "https://www.google.com/maps/contrib/103805575368066951293/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIljbKXGyb_NRuye70r7CcVPpWeMnEs3cJqtWugh522HJIzMkdlw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Nice place and delicious food. The pizza was very big I couldn’t eat all.",
+            "time": 1722667393,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Mimi",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Yutjuberko",
+            "author_url": "https://www.google.com/maps/contrib/115180487773760517407/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0ZzlKAJl4OSL7jALFNaHHLOXPnfDOcsaJ7ifj7zTwC89cP6Ov9g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Staff is very nice! Food is cheap and DELICIOUS!\nI usually take big slice of pizza, big pancake with nutella and large Cedevita and it costs like 5€ only! Best fast food restaurant in Podgorica!",
+            "time": 1721214171,
+            "translated": false
+        },
+        {
+            "author_name": "Matija Dragićević",
+            "author_url": "https://www.google.com/maps/contrib/103662751440775668813/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5vB1zIWnXXGBJeMgyEXLrWB2sDwcck2OSoqldeVCUnjKs4A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "This tobacconist with good food and decent staff should get more space for customers, but they are smart for having a take out window. I ordered double cheese pizza and they say they didn't have it, that means they have only one pizza type, so don't trust the entire menu, you can also order a sweet pancake with Eurocrem or Nutella and that is also good.",
+            "time": 1721143443,
+            "translated": false
+        },
+        {
+            "author_name": "Nemanja Savović",
+            "author_url": "https://www.google.com/maps/contrib/107896957071297076478/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzcm54AJsJy8ELLv76W3vTiZJOYMqc6aiF9NOueY2Aifq0mQZA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Pretty decent fast food area,only problem is that its usually quite full",
+            "time": 1666801993,
+            "translated": false
+        },
+        {
+            "author_name": "Julita Kamińska",
+            "author_url": "https://www.google.com/maps/contrib/109741515987572230045/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx00JmQ3pKrXIE2ynyym8yjxQE6DHK_fQfXreGQmwvB_3blA4e=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Delicious pizza and pancakes! Once I even was waiting only for this place to be open! I was there couple of time, I really recommend this place 😊",
+            "time": 1582368756,
+            "translated": false
+        },
+        {
+            "author_name": "Stevan Horvat",
+            "author_url": "https://www.google.com/maps/contrib/103979691264787592229/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV47bIxAdGjOrHYfrsLiYbHu2542bEuiIk1Ko0kj1Up7ig2ZmbDHw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "👌🤤",
+            "time": 1729689264,
+            "translated": false
+        }
+    ]
+}

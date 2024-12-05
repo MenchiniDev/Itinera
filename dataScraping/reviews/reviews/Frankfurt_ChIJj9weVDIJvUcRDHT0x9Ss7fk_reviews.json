@@ -1,0 +1,66 @@
+{
+    "name": "Motel Frankfurt",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Sheraz Iqbal",
+            "author_url": "https://www.google.com/maps/contrib/113982885273242905341/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTk1NNITo2baoPbk00Dp0I26AT422vJsILBNxy15B4eZX59w=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "Convenient, good breakfast and parking right at your room which was great as we arrived late. Only downside in no receptionist in the evening so get your key out of the locker and go in.",
+            "time": 1714569003,
+            "translated": false
+        },
+        {
+            "author_name": "Mark Bogers",
+            "author_url": "https://www.google.com/maps/contrib/115761942394722927946/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIY42ZtsYa8Ginh1OkcIZd1mXemaP2pc9l0PBCB1mlSUAq59A=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "Bad hotel, very dated. Has a strange smell and the service at the reception was zero. Waste of your money to come here.",
+            "time": 1714981249,
+            "translated": false
+        },
+        {
+            "author_name": "Ype Poortinga (Ypuh)",
+            "author_url": "https://www.google.com/maps/contrib/102864584593383575457/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDJ2y0U4rMTFA-HWYGm3PxeQR892Y3lky_dEUi2zG3ImrKLU8U=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "I've made a booking well in advance for €152 for 2 nights for a single person.\n\nBefore arrival they send me an e-mail that their prices were wrong, but they could help me. I was allowed to pay an additional €176 or cancel free of charge. I decided to do none since their price was not a mistake, they just felt they could charge double due to the event taking place in the Messe.\n\nWithout agreement they cancelled my booking for me. I'm not even sure that's legal as their regular price wasn't a mistake (for other weekends they charge the same), but since I got better things to do in life they know they'll get away with these ludicrous business practices.",
+            "time": 1696597427,
+            "translated": false
+        },
+        {
+            "author_name": "Lars S.",
+            "author_url": "https://www.google.com/maps/contrib/104110951635011868265/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXX9HlnPrmbYu0MM7n5Grl6WDNV3JerUYr6T2KLMV_8zCBBZXFW=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "9 years ago",
+            "text": "It is what it's supposed to be... a clean and practical place to stay. Breakfast is not a highlight but I've had a lot worse. It's also not the most quiet place but neither really noisy. So it is average in almost any aspect and the personnel is friendly. And that is exactly what you (should) expect from a place that calls itself \"Motel\".",
+            "time": 1430258559,
+            "translated": false
+        },
+        {
+            "author_name": "Ebenezer Mensah",
+            "author_url": "https://www.google.com/maps/contrib/106317862130462752012/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfuw-5RW_97vp2SIhsqmhfKTKalImHGTV0X0Y1LesVrliqLikE=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "This was my first booking and it was amazing. The room was neat and clean, the morning breakfast was superb and the staff very nice. I love to check in again when I wish to sleep in Frankfurt.",
+            "time": 1662574467,
+            "translated": false
+        }
+    ]
+}

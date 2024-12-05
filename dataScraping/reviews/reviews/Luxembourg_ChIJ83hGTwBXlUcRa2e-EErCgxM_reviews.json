@@ -1,0 +1,16 @@
+{
+    "name": "Luxumburg",
+    "rating": 5,
+    "reviews": [
+        {
+            "author_name": "Bimal K Dora",
+            "author_url": "https://www.google.com/maps/contrib/105836379972272656075/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_Nl4XiW2MdW0dDHNAvGSJMxMdTC9TXUG6xUVly1rsE86m8qEU=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "",
+            "time": 1721736494,
+            "translated": false
+        }
+    ]
+}

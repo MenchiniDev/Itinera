@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant La Famiglia",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Ahmad Al Zarouni",
+            "author_url": "https://www.google.com/maps/contrib/116791638126615713669/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM54yeydJMbJa6tlnvLrTPP517QDbFpZTysb0uWkbVXEXFHxaJ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Good and tasty Italian food , if you are around and looking for italian food makes you feel you are in italy try this place\nSo friendly staff\nNice environment\nTasty food\nClean facilities\nValue for money\nRecommended",
+            "time": 1726852877,
+            "translated": false
+        },
+        {
+            "author_name": "Johanna Myllykoski",
+            "author_url": "https://www.google.com/maps/contrib/115440440675709918577/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2DVSxGzixNK0gKgEID7XC8gcFnEAjDjW9jPNOZ_yrNnRUdfoi=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very tasty, kind and professional staff, clean and cosy. Many people under one roof made the atmosphere a bit unconvinient at times.",
+            "time": 1729401314,
+            "translated": false
+        },
+        {
+            "author_name": "Effie Novi",
+            "author_url": "https://www.google.com/maps/contrib/110233176078105003400/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINojhLR3y8TRL3Spn0lIVAfZUsIuzC_r4upbFf8ShnJvdgkg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very nice place. The food is value for money. Excellent staff, really polite and knowledgeable. I would recommend it for anyone.",
+            "time": 1723399351,
+            "translated": false
+        },
+        {
+            "author_name": "Chandler W",
+            "author_url": "https://www.google.com/maps/contrib/110294449782015859262/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqCVz53LfwIIDC04ZTKY_yPkIp7AdOyvz_2XmH8slQDeW69Aju=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Best gluten free pizza I have ever had, staff are friendly and welcoming. They have a free salad bar with various options during lunch hour. Reasonable price for a delicious meal.",
+            "time": 1704750331,
+            "translated": false
+        },
+        {
+            "author_name": "Khushboo Garg",
+            "author_url": "https://www.google.com/maps/contrib/107862388298623208796/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVToRe3UinV-rew3xifXhCl3Trsfg3lBIgE6xt89cGyxofGjs9Hdw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Lovely atmosphere, cozy ambiance, very friendly staff and definitely best vegetarian asparagus risotto in town. They had separate lunch menu as well as al la carte.",
+            "time": 1715547852,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Restoran Kvatrić",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Rossen Alexandrov",
+            "author_url": "https://www.google.com/maps/contrib/109317760346219927817/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-UjoKIQ8o45KP5GwzMahwhiX4Ydgwyw_dAzBPig0oxk83mQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The best restaurant in Zagreb that we visited during our stay. The staff is very kind, the food is excellent and very tasty. The portions are very big. Highly recommend! 5 stars restaurant.",
+            "time": 1730579109,
+            "translated": false
+        },
+        {
+            "author_name": "jurica radic",
+            "author_url": "https://www.google.com/maps/contrib/102477900667372105872/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8bALGN_Wz1EkE9R6gmJ0CYrdAWNJS7SX1AVx7vAhIoSy0Vw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Came to basically empty restaurant with only two tables occupied little before 5pm. Requested a table that had a nice position but was for 6 people (we were a party of 2) and was denied. The restaurant remained empty during the whole of our presence. Did not appreciate that, but ok. The fact that the food was not that good is why I don’t recommend this restaurant. We ate veal with potatoes and pasticada. The meals looked and smelled great however the taste and meat quality was severely lacking. Best part of the meal were salads.",
+            "time": 1728806463,
+            "translated": false
+        },
+        {
+            "author_name": "berke ayrancioglu",
+            "author_url": "https://www.google.com/maps/contrib/109496945021397734482/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQ-Nj040V6yxT-OPsnITNykcpBTY6ZNHMcyLxl7uX0fvF-WWE=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "It is a fancy restaurant but prices are reasonable. You can try local cuisine, the food was amazing. Employees were friendly and helpful. I would suggest this restaurant for sure.",
+            "time": 1716108118,
+            "translated": false
+        },
+        {
+            "author_name": "Fırat Erilmez",
+            "author_url": "https://www.google.com/maps/contrib/115777727179129829728/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzULbXK6cfiaZw51Xo1FEh10t8hoDp8Lip1crNnGe60-As7Nf6=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "It was very nice, meals were very delicious, service was professional, location was good and atmosphere was great. Prices were available.",
+            "time": 1720996432,
+            "translated": false
+        },
+        {
+            "author_name": "Tobijas K",
+            "author_url": "https://www.google.com/maps/contrib/115746120573401876284/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWyiEQSkWOk_krsiNHXtb25P9133Ge6F21Ca9MY34G3J61j8Ft=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Catering Kvatrić is a charming restaurant that beautifully captures the essence of traditional Croatian dining. Located in a cozy setting that feels like a step back in time, the restaurant offers a warm and inviting atmosphere, perfect for a leisurely meal.\n\n**Ambiance:**\nThe interior of Catering Kvatrić is reminiscent of classic Croatian eateries, with rustic wooden beams, brick pillars, and soft, ambient lighting that adds to the cozy feel of the place. The decor is simple yet evocative, featuring vintage photographs and elements that pay homage to Croatia's rich culinary history.\n\nFood and Drink\nThe menu at Catering Kvatrić offers a range of traditional Croatian dishes, made with fresh, high-quality ingredients. The portion sizes were generous, reflecting the restaurant's commitment to providing good value for money. The wine selection was also commendable, featuring a variety of local Croatian wines that paired well with the meal.\n\nService:\nService at Catering Kvatrić is attentive and friendly, with staff who are knowledgeable about the menu and happy to make recommendations. The relaxed pace of the service allows you to fully enjoy your meal without feeling rushed, which is a hallmark of traditional Croatian hospitality.\n\nOverall Experience:\nCatering Kvatrić is a wonderful place to experience the warmth and flavors of Croatia in a setting that feels both nostalgic and authentic. Whether you're a local or a visitor looking to immerse yourself in the country's culinary traditions, this restaurant is well worth a visit.",
+            "time": 1724514651,
+            "translated": false
+        }
+    ]
+}

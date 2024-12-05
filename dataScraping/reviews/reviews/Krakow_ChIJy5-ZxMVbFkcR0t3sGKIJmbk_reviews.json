@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Leopolis",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Ihor Kostiv",
+            "author_url": "https://www.google.com/maps/contrib/117270388241798919405/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlalS04sHTHh9dDTq1C2bnCo2GGJwc0G5npiHAv17J4SKk5XcZ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "A little bit old and used hotel, however, really friendly staff and calm location make the whole difference. Good ratio of price vs value",
+            "time": 1716058094,
+            "translated": false
+        },
+        {
+            "author_name": "Mervyn Beamish",
+            "author_url": "https://www.google.com/maps/contrib/100102966245202245672/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKydEHXGCZ4MdtK5UPMltcD1RdQv-lLLb0R6C5iFnPupotNnQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "This is a three star hotel, but, as such,  good value. Ideal convention centre, cheap taxi to old city or an easy 50 minute walk. Clean, well serviced, and, based on room 12, a modern bathroom (though no shower unfortunately) nice size bath and great hot water.  Good WiFi, convenience store about 5 minutes walk. All in all good value, freindly staff and quiet.",
+            "time": 1536179716,
+            "translated": false
+        },
+        {
+            "author_name": "Jan Kasperczyk",
+            "author_url": "https://www.google.com/maps/contrib/105664065603670991748/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqtPDgK8n91gqOb8uoCq7Eg9Fl7wipQfojH1YSOn1tuEigq3YW=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Best hotel I have ever been too. Super kind staff and owner :)",
+            "time": 1612886499,
+            "translated": false
+        },
+        {
+            "author_name": "Jo Fridaybird",
+            "author_url": "https://www.google.com/maps/contrib/109793100675422711051/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGlQY8YXV-TnNqLKWqrbltbqlOHnJBc9hDpIqYKl8PoHvzv8Q=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Very nice friendly hotel with rich breakfast",
+            "time": 1655361570,
+            "translated": false
+        },
+        {
+            "author_name": "Евгения Романчук",
+            "author_url": "https://www.google.com/maps/contrib/110525745408819235223/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtwt1gkst_jnsaPZ3CV5PRDYelvhNvZW_rQNRjOwTxYJmung=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Clean and comfortable. Good breakfast. Pleasant staff.",
+            "time": 1551191551,
+            "translated": false
+        }
+    ]
+}

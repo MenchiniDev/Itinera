@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant Michel",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Mark Kilian",
+            "author_url": "https://www.google.com/maps/contrib/108717774327105214218/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjoMHBSps0-MU3qkw-oIjhnhcKSlsFibX3OrDi-B77Vrvri48=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "This is one of those 'you gotta do it once in your life' kind of experiences. It is supposed to be the best most authentic bouillabaisse in the world. I can't speak to that being the first time I've ever had it. But is it worth the 80 Euros they charge? No. Is it the best food I've ever had? No. Would I go back? No. But...I'm glad I went and if I wanted to give someone an experience in Marseille they won't forget, I would absolutely come back for that. But if you're just looking for the best food you can get in Marseille, I would go elsewhere.",
+            "time": 1694698114,
+            "translated": false
+        },
+        {
+            "author_name": "ferial mhr",
+            "author_url": "https://www.google.com/maps/contrib/112863583912781893272/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-p87TEo9kSoaQk4Z3TBfRVR0ElvqwCozujNZbYbwrO-XvNgk=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "The best of best fish you can ever have\nAmazing quality and good fast service\nI think 80 eu is too much for this portion but quality wise that make sense\nI forgot to take pictures but as they only have one dish you can definitely check the photos\nHighly recommended if you love sea food otherwise the fishy smell will hurt you for sure",
+            "time": 1715081811,
+            "translated": false
+        },
+        {
+            "author_name": "Anne-Jolie",
+            "author_url": "https://www.google.com/maps/contrib/104827288249156712763/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViYCNwG3jkjvpqvw-UC4fSCEP6GEgyZirZZTLHNuHcDFCjG3Jr=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Long established & classy restaurant for bouillabaisse (famous fish soup from Marseille) if you don’t mind the price 🐟🐋🐠Battalion suggestion: provide options of smaller portions at lower prices",
+            "time": 1675011501,
+            "translated": false
+        },
+        {
+            "author_name": "Kimberly Denning",
+            "author_url": "https://www.google.com/maps/contrib/102455819956872138073/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB-qXg6aen5XksgR2nVb1iRglFFhxRdl8V40a0w4zqLhbj7w=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We enjoyed our evening very much  with delicious  food and wonderful service .  They were attentive to a problem that accrued and were good problem solvers .   Management is great and recommend  you make a  reservation  because it is popular . Great location  also.",
+            "time": 1724848577,
+            "translated": false
+        },
+        {
+            "author_name": "Kirlo90",
+            "author_url": "https://www.google.com/maps/contrib/110053299693013629446/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjwJpuJs_wmqGvgK4jkF_ji1n5OXXJ4O_lW-46dDT-op7e5Mui=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "When you go \"Chez Michel\" you enter in one of the most iconic restaurant in Marseille. There are simply 2 starters (fish soup and fried squids) and 3 main dishes (Boulliabaisse, Bourride and catch of the day). Everything is really good and the fish is ultra fresh. For sure the best Bouillabaisse in Marseille, which is The regional dish.",
+            "time": 1669489106,
+            "translated": false
+        }
+    ]
+}

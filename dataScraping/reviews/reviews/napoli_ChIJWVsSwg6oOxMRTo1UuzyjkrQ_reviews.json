@@ -1,0 +1,66 @@
+{
+    "name": "Le Cheminée",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Filip Jelenak",
+            "author_url": "https://www.google.com/maps/contrib/103709050194720359689/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPqhGb1UoVW5Aiy8DJ8S7OM6XPbLGr53dZEH3h8vnT1oVp8g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "This hotel is excellent. The staff was incredibly helpful and kind, even allowing us to check in early and setting up a taxi for us to the airport very early in the morning. The rooms were clean and spacious. I highly recommend it.",
+            "time": 1715743923,
+            "translated": false
+        },
+        {
+            "author_name": "Stan Seagull",
+            "author_url": "https://www.google.com/maps/contrib/110731066401244321035/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM5iVjmpsFdwoMBqoEd4u9TRxFifRE9Dyxcv7HzsZzetqYKzDz=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "NIce and quet place. Fery helpful and friendly person working on the reception. The only reason why I wanted to stay there - close to airport if you need to leave early.",
+            "time": 1721072737,
+            "translated": false
+        },
+        {
+            "author_name": "Tony Ghilani",
+            "author_url": "https://www.google.com/maps/contrib/112936552612058103255/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFXXjlqS8d035tq3sCmIJUII8qSYri7lOWeo52XGPpJePso0tOjg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "This hotel was a really good value. The guys at the front desk were very helpful. They have flat rates for taxis throughout town, recommendations for our stay and a beautiful sitting area for the dining space. The rooms were spacious and clean. The area surrounding the hotel is not a tourist area or an area that you want to hang out in or spend time after dark wandering around. However, it never felt unsafe coming and going.",
+            "time": 1535285558,
+            "translated": false
+        },
+        {
+            "author_name": "Jaime “Hi-Me” Farfan",
+            "author_url": "https://www.google.com/maps/contrib/112256529482252236741/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoGpoXa3O-S6IL7zTNExKdd4hKzyStIf3AN2J977h1sG4R2iKoLQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Surprisingly nice inside. The area and the facade leave a lot to be desired, but once you step in it is evident hat attention to detail and care has been taken into making this hotel look very, very nice inside.\n\nRoom was super clean, toiletries smelled and felt very nice compared to most hotels. Only downside is the wifi is very weak in the rooms. It is however quite fast in the lobby, restaurant and outdoor terrace (which is beautiful by the way).\n\nWe were very pleasantly surprised from the moment we walked in. They served us at the restaurant even though it was 5 minutes prior to closing time and did not rush us in any way (uncommon in Italy when they're about to close). Food was great.\n\nService was great, room was great, atmosphere and decor is that of a much more expensive hotel and it is only a short 10 minute drive from th airport.\n\nHighly recommend it.",
+            "time": 1498856897,
+            "translated": false
+        },
+        {
+            "author_name": "Anthony Scardillo",
+            "author_url": "https://www.google.com/maps/contrib/117195899202592742404/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH5XgogYLLoshuDYIYPWL9wHyOwj9sahlxTl8oh0yxp4bXqA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "This was a very nice hotel. Convenient to both airport and train station, immaculately clean, very friendly and welcoming staff, plus a restaurant and cafe on premise (did not use them, though). There is a very well-stocked supermarket right across the street, which I took advantage of. Neighborhood is fine. I felt safe enough. Mostly residential working class. Definitely would stay here again. Fair price. Good balue.",
+            "time": 1534227585,
+            "translated": false
+        }
+    ]
+}

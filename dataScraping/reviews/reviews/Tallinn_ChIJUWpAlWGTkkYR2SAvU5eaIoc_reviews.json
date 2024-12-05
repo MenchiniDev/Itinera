@@ -1,0 +1,66 @@
+{
+    "name": "Nordic Hotel Forum",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Štefan Bako",
+            "author_url": "https://www.google.com/maps/contrib/112165451302751525037/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhRQxl6BBvniMMoqhymjFxn6aLJa9RhcQNzaFM8cfXJPiTCiE3=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "The hotel is situated just steps from the city center. The rooms are well equipped. We were missing nothing. A great PLUS goes for the breakfast! Super delicious with perfect selection. The gym is accessible 24/7 if you can't sleep 😅. The staff was still helpful.",
+            "time": 1732874812,
+            "translated": false
+        },
+        {
+            "author_name": "Liz Finan",
+            "author_url": "https://www.google.com/maps/contrib/104485716329351379486/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAbrnq1egqqX8VhH5shvYomnGWj0aDSGsYur_kMX95hhQsQg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Great location. Short walk to the wall of Old Town.\n\nThe room was clean and comfortable.\n\nThe hotel is large and very busy.\n\nThe pool/sauna are lovely  There are coed and separated facilities. The pool and hot tub are communal but the sauna and steam are in the locker rooms.",
+            "time": 1731466029,
+            "translated": false
+        },
+        {
+            "author_name": "Paula Koski",
+            "author_url": "https://www.google.com/maps/contrib/106227624155725428247/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUh1GRXEosI83k9ZnRsxKGEqOf07KYRjoevkSohSOjo5X3sOU43=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excellent modern hotel with great location, excellent rooms and friendly staff. Everything was perfect, I travel a lot and see lot of different hotels and this one was exceptionally good and one of the bests I have lately stayed at :) I also enjoyed the gym, sauna and pool and delicious breakfast with many options. Highly recommend in Tallinn !",
+            "time": 1728738977,
+            "translated": false
+        },
+        {
+            "author_name": "Justyna Podralska",
+            "author_url": "https://www.google.com/maps/contrib/108223192071139240457/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGlSYIFXIWoPR37h0kYngy4rUsHXlL0L02mPfJyTBhA-UY6MTx=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Hotel location is just perfect, very central, a short walk away from the old town. The staff is friendly and helpful. You should definitely not miss the extended breakfast. Food was fresh and delicious. The rooms, depending on the standard, are cosy and nicely decorated. During our first stay, we received a good room, but it was facing the opposite wall of the hotel, so the view was somewhat missing, and the interior was quite dark. The second room was extremely nice, bright and calm. However, a big minus for me is the fact that you can't open the window in any of the rooms, and I terribly lacked some fresh air at night.",
+            "time": 1725808227,
+            "translated": false
+        },
+        {
+            "author_name": "Chris Heath",
+            "author_url": "https://www.google.com/maps/contrib/105043112440303267007/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSKhN6b_S5zX6MyWBLzsd26XisdGrih21bpijEA4MPAAP4XAUo=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Large modern hotel with a swimming pool, sauna, steam room gym.\n\nRooms are comfortable and well thought out\n\nBreakfast was good with a large selection of foods available.\n\nLocation is good for easy access to the old city and the new city right behind the hotel, well worth a visit.\n\nBar was good\n\nAll the staff were amazing.  Very helpful and friendly.",
+            "time": 1725617352,
+            "translated": false
+        }
+    ]
+}

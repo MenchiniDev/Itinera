@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Florida",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Oranje Umbrella Walking Tours",
+            "author_url": "https://www.google.com/maps/contrib/100593925181047013447/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgydljJ_p5bH1IFPbaAXSUd-mR0ly-fIg47gsbsKEK0NzqsABl=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This is my favourite hotel to stay in in Lisbon. Catalina at the front desk and her associates took such good care of me and my mom that I brought back more friends from Amsterdam to stay. We loved it. Service staff breakfast it’s literally just comfort. They even carried my bags to the car and upgraded me to a suite because I stay there often. I’ll be back and love you guys thanks !",
+            "time": 1721415152,
+            "translated": false
+        },
+        {
+            "author_name": "Nicola Benetti",
+            "author_url": "https://www.google.com/maps/contrib/110831993494690757275/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQkqxMjcvnAG4H5ykbJ2H4623oF7qdz4y4lZra57C2Cmql2bykwg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Conveniently located near the marquis de Pombal metro station, the hotel is perfect to reach pretty much any part of the city you want to visit. The staff are very helpful and nice and the rooms are big, clean and quiet.\n\nThe only very minor issue we had was some kind of unpleasant smell in the bathroom which we think came from outside. That was promptly dealt with.\n\nI would 100% come back here if given the chance.",
+            "time": 1726053265,
+            "translated": false
+        },
+        {
+            "author_name": "Vanja Muskon",
+            "author_url": "https://www.google.com/maps/contrib/104311625323086257265/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkcCLZ2TSU-FBEe7ogGSY8bQTRo9SsIO3HfHiksl17bGHjMsre_g=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "We stayed 5 days in 11/2024 as a family of 4.\nThey don't have proper family rooms, so they put us in a large room on top floor that has a kings bed, a couch and even a table, and they added two rollaway beds with lousy mattresses.\nThe BEDROOM had still enough space for 4 of us to roam, unlike bathroom which is unsuitable for more than one person, because of the lack of space. That made the evening and morning routines with children a real pain.\nChildren went early to bed with no problem, there was no noise neither from the street nor from the hotel itself, only minus are really noisy airconditioning units thet were in front of our windows.\n\nBREAKFAST was okey only for a short stay. There were two coffee machines, few tea pots, american pancakes, few yoghurt pods, fresh fruit, cakes, salami, croissants and breads.\nBUT, continental breakfast was really bad with samr tasteless scrambled eggs every day, cooked whole eggs, bacon, sausages and really overcooked and tasteless vegetables ( once broccoli, but mostly carots and green beans).\nAlso there was no granola or oatmeal of any kind, just 3 cheap, sweet cereal options.\nOn the bright side were fresh cheese and smoked salmon, but even that is not something one can eat every single day.\n\nLocation is just next to a metro,so that was a plus, but otherwise I would never suggest it for families or for people staying more than 2-3 days.",
+            "time": 1732887200,
+            "translated": false
+        },
+        {
+            "author_name": "Jason Brower",
+            "author_url": "https://www.google.com/maps/contrib/114947003187915336124/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvD19x6qvjHFG-9KobERDqF6Lc7ebV1rXS6ZOf1JV-P45BGPBCsw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Breakfast coffee was great, do try the pastries.\nA big drawback was the bathroom tubs so it is hard for low mobility people to shower. Worst part was needing to wire my CPAP machine across the room instead of by my bed. There should always be an always on power socket by the bed.",
+            "time": 1731983848,
+            "translated": false
+        },
+        {
+            "author_name": "Kristina Pavic",
+            "author_url": "https://www.google.com/maps/contrib/113874912748438209915/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4_GtADD03SHW0JYR-l5LU1fDex7bh95VA0qRZcj2GbmBDfq76=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We stayed 6 nights in a Coppola room at Hotel Florida and we loved it! Excellent value for money. It is centrally located, a few steps away from the metro station and with buses right across the hotel. The room was spacious and exceptionally clean. It is a bit dated but very well maintained. The breakfast was also great. Orange juice was perfect and espresso as well, and there were pasteis de nata every morning. I really liked the restaurant's decoration in art deco style. You can also get free coffee throughout the day at the reception. Would definitely return.",
+            "time": 1723643931,
+            "translated": false
+        }
+    ]
+}

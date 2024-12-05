@@ -1,0 +1,66 @@
+{
+    "name": "MiHotel",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Jodie",
+            "author_url": "https://www.google.com/maps/contrib/115428742558578578860/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVt0X_ZfAcssqTLoopxzKEZjAbBjg0Y7AW2eMKkOawUvVpogO8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "It’s perfect for my needs. The bed is bigger than a twin but smaller than a full, I think, (in any case, there’s room to flip around). It’s clean, and I feel safe here. The people at the desk were nice. It was less expensive than the other hotels/Airbnb’s and I am just here for one night before flying back home. There are several good charging options. I think I’m only subtracting one star for the room because I’ve been in luxury hotels the last six nights as part of a tour, and I would say maybe this is just a small notch down even though I still find it quite comfortable.\nI included a picture of the toilet because it was a slightly strange shape with, for me, a bit of a feeling of falling in. Not tragic, just odd. And then have you ever seen such an elaborate shower? I didn’t try to figure out the jacuzzi jets, just used the showerhead.",
+            "time": 1718202045,
+            "translated": false
+        },
+        {
+            "author_name": "Robbie Simpson",
+            "author_url": "https://www.google.com/maps/contrib/100163935593351960810/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsK0i7vWoBDhTPrXUDxwHmw5a63ljHuXkFJwEF2pyX3UXKbsmj=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Very friendly staff and great service. Tram/Bus station only a 5-10 minute walk from the hotel which takes you right to the city! Few restaurants nearby too which was an added bonus.\n\nAlso, the hotel’s spa is definitely worth it!",
+            "time": 1714976686,
+            "translated": false
+        },
+        {
+            "author_name": "??",
+            "author_url": "https://www.google.com/maps/contrib/117946570572887402852/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSLSiHw2pnIvg-c7JVGhduIaE0SASwJE3Q0ys7K716Inv8gn0_=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "9 months ago",
+            "text": "A heads up if you go to this hotel and do not speak italian; ONE single person speaks english, and if they’re not on shift, the rest get very angry when you tell them you dont understand what they’re saying.\nApart from that it was an okay stay, covered in mosquito bites tho.\nAC doesn’t work in the rooms, but the shower is okay.\nClose to shops and tram stop that takes u straight next to the Duomo.",
+            "time": 1709041959,
+            "translated": false
+        },
+        {
+            "author_name": "Kobbini",
+            "author_url": "https://www.google.com/maps/contrib/100957383714688179986/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-DRbWSRX5azE_rtcb4_MI4dIZkZfJtuXI06wBaats7cQtz8RJsA=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "An OK hotel. Some reception people were welcoming. Reasonably clean. Nice SPA. Minimal breakfast. Too far from the city center and nothing much to do in the neighborhood.",
+            "time": 1698677294,
+            "translated": false
+        },
+        {
+            "author_name": "Habibur Rahman",
+            "author_url": "https://www.google.com/maps/contrib/116626878684675841508/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM6CvPH5BCPKbL6I2rqGjcdQWKkWpn7uMBXMbUR89ojAo9QNvp=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The Rooms were Clean, very comfortable and the staff was amazing. They went over and beyond to help make stay enjoyable. I highly recommend this hotel for anyone visiting in Milan.",
+            "time": 1692519474,
+            "translated": false
+        }
+    ]
+}

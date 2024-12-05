@@ -1,0 +1,66 @@
+{
+    "name": "La Caravelle",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Ernest Xue",
+            "author_url": "https://www.google.com/maps/contrib/112626941376199667041/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo0e9GPMOC2GlvfU7tQ77ZSTGfI0cG4xONNNkGVX_KT1jhpuZU=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "Walked in looking to be seated, totally ignored by service staff who were more interested in looking at their phones, even after eye contact was made multiple times. Lasted for 10 minutes although there clearly were available spaces.",
+            "time": 1732308769,
+            "translated": false
+        },
+        {
+            "author_name": "Tomáš Havlík",
+            "author_url": "https://www.google.com/maps/contrib/116105047691211238754/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU99hOuj50WymauSVmBK74mMedcZ274AivCHt8mXmE3guSBKVNFww=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This really cool place offers a selection of typical local foods and has amazing views at the port. The team working there makes your stay really nice! I enjoyed it a lot.",
+            "time": 1680527373,
+            "translated": false
+        },
+        {
+            "author_name": "Anna Scrowther",
+            "author_url": "https://www.google.com/maps/contrib/110601733618217983148/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVlYs1z6pL3xQUTpcPM8Nzl1ldp9cqkVhIrSiXw37D2lyYLA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Favourite bar in Marseille! Great atmosphere, excellent and creative drinks, nice service. We had apéro here every evening during our stay in Marseille.",
+            "time": 1697184325,
+            "translated": false
+        },
+        {
+            "author_name": "M G",
+            "author_url": "https://www.google.com/maps/contrib/102060494642070115131/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN0X1Cg2YxhOIp4ayw52cbY2m5npm8nsOy2Oal1U7xnuP24Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Absolute must when in Marseille. We drank champagne, and enjoyed the incredible sights on the varanda on top of the second floor. Service was excellent, and can't wait to go back again.",
+            "time": 1724511605,
+            "translated": false
+        },
+        {
+            "author_name": "David",
+            "author_url": "https://www.google.com/maps/contrib/107021619917749046381/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmQq2cwC7uWxhuVwTgDozxmaPPu1R7d_7TXlHQfdFAjaMSNfV1=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Really lovely restaurant, overlooking the old port, with delicious food and very friendly and capable service, and a comfortable vibe. Our friends and us spent most of the afternoon at their best table without being hurried away.",
+            "time": 1721371826,
+            "translated": false
+        }
+    ]
+}

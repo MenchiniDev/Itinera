@@ -1,0 +1,66 @@
+{
+    "name": "Shell",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "mohammed sattar (‫دليل محمد الشمري‬‎)",
+            "author_url": "https://www.google.com/maps/contrib/106037855602152746142/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqTIe8NF9jVuePuI7aeHEvtmiRnwc3GaSTrTvQ1i2ENnnbP0Rl=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "Nice",
+            "time": 1466752540,
+            "translated": false
+        },
+        {
+            "author_name": "Юра Белимов",
+            "author_url": "https://www.google.com/maps/contrib/111251262815169385638/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC0rj0erX7_C76HRSRJpyQZCSbSxEo4g3rzDjn26fb3ytGvUg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Google says 24 hours a day, when I come, it says until 18:00 11/30/2024",
+            "time": 1732988203,
+            "translated": true
+        },
+        {
+            "author_name": "Marvin Cillis",
+            "author_url": "https://www.google.com/maps/contrib/104360305661143444285/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWScSnLMqz7JbG3Qkrqb5a-u1PAs07lGwhDnEtaEGuHNQwVf18Y=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "The person who was there preferred to refuel his black Audi A5 instead of serving customers… Very pleasant.",
+            "time": 1719509334,
+            "translated": true
+        },
+        {
+            "author_name": "Quinton Woygnet",
+            "author_url": "https://www.google.com/maps/contrib/118403666149474806604/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUBfLPEqFVsNvnSmW0H7_tnGV7eBhQkbjn35CFwa7Y1siINQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "12 months ago",
+            "text": "I give 5 stars for the courtesy of the cashiers, I say cashier, because I was there today to refuel around 12:30 p.m. 12:45 p.m. with my van from work, I find this unacceptable, disrespectful, unconscious, a lack of hygiene of 2 cashiers that I saw today, both sitting on the counter next to the panini oven, while their colleague (cashier) served me a panini. The least you can do is go down when a customer enters the shop. The next one I will take a photo and will send to the mother box and will be put here on the reviews. I hope the station manager will do what is necessary.",
+            "time": 1702058936,
+            "translated": true
+        },
+        {
+            "author_name": "Jeremy Kalsi",
+            "author_url": "https://www.google.com/maps/contrib/109116624877258385930/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhdMp-JJJLmfH_srp77KbCex0i1ASS1NN-_XXUDUtORyP270U=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "The cashier Ewa I think is as friendly as a prison door, not even a glance after saying hello to her, I left without buying anything because I was so disappointed by the welcome\nTo flee",
+            "time": 1694715665,
+            "translated": true
+        }
+    ]
+}

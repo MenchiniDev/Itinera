@@ -1,0 +1,66 @@
+{
+    "name": "Leonardo Hotel Bucharest City Center",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Philip J",
+            "author_url": "https://www.google.com/maps/contrib/103630539268574099284/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUm4GUEtW3Dn7EXP4yv9p8jy-JWcD2rtAuB5EqAYh-Z0Nvpi5qp=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Excellent four star hotel in the perfect location, close to the city centre but also in close proximity to lots of great cafes and restaurants! Rooms were great and the decor was lovely; the hotel has been nicely refurbished and it made our stay feel very comfortable.",
+            "time": 1732607570,
+            "translated": false
+        },
+        {
+            "author_name": "Creative One",
+            "author_url": "https://www.google.com/maps/contrib/103410734734557735910/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULsYI7n4OHlA81ieyLNNLXjPs_gqPTBSfmEq7c8yiiGj9pngQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great hotel on the crossroads of two rather busy streets. The rooms are very comfy and well equipped. The breakfast was some of the best I've ever experienced in a hotel. A little downside is soundproofing - the street traffic can wake you up very early. This wasn't an issue for me but it's good to be prepared for it.",
+            "time": 1725812959,
+            "translated": false
+        },
+        {
+            "author_name": "Maracine Adina Viorica",
+            "author_url": "https://www.google.com/maps/contrib/115493524714810115097/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7cWNiRSjlvvmDXZPONPDQLyD_QXdG4kQheG-2jBwJZGII0A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The hotel is great. My room was beautiful, for one person was big enough. I had a coffee machine , and the bathroom was clean. The hotel is 30 min by feet's from the old town. The only thing witch I didn't like there was a door in my room and I could hear everything from the next room and I didn't feel comfortable.",
+            "time": 1729754246,
+            "translated": false
+        },
+        {
+            "author_name": "Livia Vodarici",
+            "author_url": "https://www.google.com/maps/contrib/107201541076604092958/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq70VRajAD7hYaeCmFbYSlnSkMwukuxQVemD2c2qn4Nl78jn9p=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a week ago",
+            "text": "No mini bar in the room which is unacceptable for a 4* hotel. The accessible room for people with disabilities is far from accessible, the bed is too high and the toilet too low. Do not recommend.",
+            "time": 1732462856,
+            "translated": false
+        },
+        {
+            "author_name": "Mevrouw Miglio",
+            "author_url": "https://www.google.com/maps/contrib/110106242399111557033/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgyAjXEeP_GiF32bOYeDvEEPNBnukCFnuL0qSzndFcYKMsHCWbPw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "4 weeks ago",
+            "text": "The location was perfect … not far from everything. I stayed 7 nights but since the day one changed my bedsheets or even make up the bed everyday.  The housekeeping never do the floor with hoover until i’ve checked out. I was too tired to complains and asked. The room was very hot ( i opened the window in the early november) and i was sweating! Service so so and nothing special. Breakfast average …",
+            "time": 1730882438,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Capriccio",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Ceren Çetin",
+            "author_url": "https://www.google.com/maps/contrib/107256495340462115712/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDXvLlzNrBm0YPg1Q33HyvXLPBjBF2j1eDPNh__qGTQp1u_gRc=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The pizzas were very delicious and so italian-made type. We tried different kinds and they were all very nice. The owner helped us with the translation of the menu, I ordered quatro formaggi (4 cheese) and it was one of the best quatro formaggi i have ever tried. I really recommend the place, the environment is silent so very proper place to communicate  with the table.",
+            "time": 1685648780,
+            "translated": false
+        },
+        {
+            "author_name": "Milan Devogelaere",
+            "author_url": "https://www.google.com/maps/contrib/112646610668148658162/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIt3u6xUZwEtHTnhtcjGo7msiDf4x0Tvf4fLY3GN2oS_PzRQQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very friendly, not to busy place. Fresh and delightful pizza's. We went with 4 people, fast service, and one of the better pizza's i've had so far.\nDue to the rainy weather, he even borrowed us an umbrella for the walk to our appartment.",
+            "time": 1693335051,
+            "translated": false
+        },
+        {
+            "author_name": "Mark N",
+            "author_url": "https://www.google.com/maps/contrib/106852530649526790983/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNsLCBvTc4fyEwOTv5Wq2Ui3McOuvHRZGGomw2nsgwVSTzHQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Great Italian pizza with premium ingredients.  My recommend is \"Deliziosa\", lovely place",
+            "time": 1572376741,
+            "translated": false
+        },
+        {
+            "author_name": "kikaš matan",
+            "author_url": "https://www.google.com/maps/contrib/115353985391994450942/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXez3iSpmwBBHD0fAt8SdAE-zUoeS1E38vp5IU4P-w5vqTR60uM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Amazing pizza, fair prices, great taste.. if you're not a fan of fat pastrys this is a great choice. Thin and crunchy",
+            "time": 1544454309,
+            "translated": false
+        },
+        {
+            "author_name": "Tina",
+            "author_url": "https://www.google.com/maps/contrib/101584080933070644912/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEXULiJlXLQDN4S30ZkzWvxkXUtNWU7K23SkRXdKFGskhIOVEU=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Best pizza, love the crocante version",
+            "time": 1651334443,
+            "translated": false
+        }
+    ]
+}

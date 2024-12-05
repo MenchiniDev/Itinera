@@ -1,0 +1,66 @@
+{
+    "name": "Dinner Restaurant",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Neil Kaushik",
+            "author_url": "https://www.google.com/maps/contrib/108532055828340856653/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq_FzFTXZzBRN60u3_rCEjo7sNzWADiJca_FDzonfaHyTnAXtS=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "The place was very nice. For a birthday party it date nights this place is awesome. Looks very nice and service is great. We did however have some small issues with the food. Some of our entrees came out quite cold. We did tell the staff, which later came and said that’s because the sauce isn’t warm, which wasn’t really a good excuse. Also all our food was on the sweet side, probably that is just a cuisine thing, but keep it in mind. I had the Tiramisu and it wasn’t good. It had a powdery coffee ground texture and we couldn’t eat it. At this point we just settled on the food being like this and didn’t really tell the staff. I want to come here again, just need to see what other stuff to order instead.",
+            "time": 1732123295,
+            "translated": false
+        },
+        {
+            "author_name": "Vu Van Tran",
+            "author_url": "https://www.google.com/maps/contrib/118156566888867156707/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6IoGLggVYu0C9RmQDvxFnMXez3xJw3KMVLPljGtCaWB8Ezg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "3 weeks ago",
+            "text": "Dinner at Nationaltheater has been one of my favourite chinese restaurant in Oslo for more than 20 years. They serve Szechuan dishes which can be spicy.\n\nI have not been at Dinner since covid time, and I am really disapointed this time.\n\nWe order first the well famous crispy duck for 2 persons. They used to serve 1/2 duck with both leg and breast. This time, it is just 1/4 of a duck and they use a duck breast. Duck breast meat is dry and not tasty. In addition they serve it with some pickled root vegetables in addition to the traditional cucumber and spring onions. This is not a good combination.\n\nFor the main dishes we ordered Half a lobster and a shellfish skewer with scallops, salmon, catfish and scampi. Normally this dish is served in a hotpot with some nice sauce. We asked for spicy, but this was a really dissapointment. Dried fish and scampi.\n\nThe second main dish was «GONG CIO AO JO SI»\nA crispy fried finely shredded beef. Served with classic wine vinegar sauce. This dish kept it original form and was good but again not spicy as we asked for.\n\nIt seems like the chef’s has lost the Szechuan touch.\n\nProbably the last time I will go here, as this was a dissapointment and quality below it previous standard.\n\nThe waiter was not observant either, forgot to provide proper cutlery for us. I am an ethnic asian so I know pretty well what cutlery to use here.",
+            "time": 1731427544,
+            "translated": false
+        },
+        {
+            "author_name": "Sina Sayan",
+            "author_url": "https://www.google.com/maps/contrib/112131191212999573512/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4BHTT66v-IGOhpBPaTK7DR0U62HYYu3e_ggwLGLq9ZR8x1y_4=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My colleagues and I tried the tasting menu, and overall, it was a very nice Chinese fusion experience. The atmosphere was a bit cramped, but still pleasant, and the service was excellent. The prices were reasonable for a Michelin-recommended restaurant.",
+            "time": 1729196425,
+            "translated": false
+        },
+        {
+            "author_name": "Martin Hexeberg",
+            "author_url": "https://www.google.com/maps/contrib/106949025669522250805/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6zwXHSDD-ODrK2pokEyTSYowURzAm200Fi7o1V1AON1o9JmF56A=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Hands down one of the best Asian restaurants in Oslo, great food, great wine selection, right amount of spice! Could do with more comfortable chairs, but that's nitpicking.",
+            "time": 1709192600,
+            "translated": false
+        },
+        {
+            "author_name": "T H",
+            "author_url": "https://www.google.com/maps/contrib/106332627526546530609/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhWEDu1KLlnEnHyyxHT6BeAG_c1Uxib2LgAWJGD9dZcCdEEw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "Not authentic Chinese cuisine. Many ingredients and sauces were heavily modified. For example, fresh scallions don’t have any taste. Overpriced.",
+            "time": 1727772530,
+            "translated": false
+        }
+    ]
+}

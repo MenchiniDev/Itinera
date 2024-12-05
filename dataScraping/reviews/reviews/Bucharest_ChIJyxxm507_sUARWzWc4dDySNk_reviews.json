@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Ambasador Bucharest",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Marina Boiko",
+            "author_url": "https://www.google.com/maps/contrib/116428744727946973244/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Q87CjhyN5-FyynqPdbwlspej2vplg_praoEiNDmd1gq907gg=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "10 months ago",
+            "text": "Hello , I spent two nights in this hotel, it was very warm, not noisy, the room was in good condition. The only negative is that the hotel is empty, I was alone and it was a little scary. And I constantly had to go down from the 8th floor back to the reception because my key card didn’t work.\nIf you need an iron or a toothbrush with toothpaste, ask at the reception.\nI was allowed to leave my luggage in a certain place when my reservation ended and I needed to leave without luggage.\nSo I can say this is a good 4 stars for the hotel",
+            "time": 1706633132,
+            "translated": false
+        },
+        {
+            "author_name": "Mikaela Morley",
+            "author_url": "https://www.google.com/maps/contrib/104005324856637816486/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA5HEEcUUXuiJdOuYaZGR8UhGR6W9Zx3djhQaAMEnYjOyRW6U=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "The room was excellent. It was large and spacious, with good facilities and extremely comfortable. I particularly liked that there were balcony-doors that I could open and listen to the sounds of the city and relax.\nThe breakfast was delicious and had plenty of selection.",
+            "time": 1707577058,
+            "translated": false
+        },
+        {
+            "author_name": "Jamie McDowell",
+            "author_url": "https://www.google.com/maps/contrib/107809172626364264572/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmF9164H8aGKXpXR3xb8CV0MLTcGuycWrmEyXNSFM47kROgNZW_Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Great value hotel centrally located in Bucharest. Maximum 15-20 min walk to the old town and nightlife areas. Clean rooms with TV, fridge, small balcony, good shower and helpful staff, supermarket across the road. Breakfast is basic but enough to keep you full until the afternoon. Thanks again - I’ll definitely be back!",
+            "time": 1705104318,
+            "translated": false
+        },
+        {
+            "author_name": "Corina Ivan",
+            "author_url": "https://www.google.com/maps/contrib/110709555813632678985/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_3mvu5OMT6FTI5qNRIQ9lVYDEEJR47V8YsjTqYjHyHryWiA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "The room was clean and nice. Top floor recommended.\nThe staff at the reception very friendly. Mr. Anghel is awesome and listen to our requests. Overall a nice experience and definitely will consider Ambasador Hotel on our list when we will come to Romania. Thank you for making our stay a very pleasant one.",
+            "time": 1704412616,
+            "translated": false
+        },
+        {
+            "author_name": "Rainer Jehl",
+            "author_url": "https://www.google.com/maps/contrib/109088698449606860483/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIB5xBMzs_AA2nPLSwIJNGQluL0bs6ws5h2XOeAwAkAba7dPg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Centrally located accomodation in beautiful historic building (30s, style 20s).\nA bit worn out, but rooms still good. I had a narrow room to the street front, the bulvardul hasn't roared too much at night. Traffic decreases. I found 3 and a half tables for all my tiny things and 2 chairs, good lighting. Good bed! Everything worked except for the a/c which had a hit, but did the job.\nNice breakfast buffet with assistance of several waiters.\nStaff was very friendly and helpful. All at an affordable rate.",
+            "time": 1694695441,
+            "translated": false
+        }
+    ]
+}

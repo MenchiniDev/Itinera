@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Stefanie",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Mary",
+            "author_url": "https://www.google.com/maps/contrib/117383976456400802882/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWX1pwDdXg_cy8LbZklwk5dLeNQMhOnAZCmj3KdsUVd4pLCQ966Ig=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I recently was a guest for 7 nights as a solo traveler during the last week of October.  I felt very safe at your hotel. I loved everything during my stay. The breakfast buffet is delicious! All of your staff was friendly and helpful. My room had everything I needed too. I'm already planning on coming back next year! I'm the guest that had the little mini printer and had fun gifting your staff with a picture to thank them.",
+            "time": 1731925694,
+            "translated": false
+        },
+        {
+            "author_name": "Sam M",
+            "author_url": "https://www.google.com/maps/contrib/110057098973346972477/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-cA0Dt2gvXz5ZiqORrh1Hvat3j9AgvCswELGGYVxHRwt8YWZC=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Staff are friendly and helpful. The room was very nice, comfortable and quiet. I also liked the art decor. Breakfast buffet was good, wide range of options. Right near the bridges that cross over to the main Vienna area. The chocolate sample was also delicious :)",
+            "time": 1730314367,
+            "translated": false
+        },
+        {
+            "author_name": "Susan Q Stockton",
+            "author_url": "https://www.google.com/maps/contrib/101159734242870011917/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7H3qxdhW8uyn6I_THMTtPzxlABhFL6SPHi-C9dhJMsMLh6eTq=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Hotel Stefanie is an outstanding hotel with wonderful staff and an. incredible history. Breakfast is the nicest I've had at any hotel. The rooms are quiet, large and dark when you want them to be. We had more than one room and they put us next door. The rooms were cleaned every day- one time twice! It is very close to transportation, stores and shops but not as expensive or crowded as the tourist section just a short walk away. There is vintage shopping, a grocery store, a health food store, an apothecary and more just a few doors down. We have been traveling for months and staying here was a treat to ourselves. I am writing this review in their library. It's a great hotel with so much to offer. Thank you Hotel Stefanie for our restful  and quiet stay. We loved it.",
+            "time": 1721467907,
+            "translated": false
+        },
+        {
+            "author_name": "Julie anne",
+            "author_url": "https://www.google.com/maps/contrib/110487309877006725096/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO3jkhn0qI9MhaohO70pukrEG3OFqydBCUgku8Kn2gWmUq5I3C=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The location is excellent! It's walkable to all attractions and very close to the shopping area.\n\nThe hotel is truly amazing and beautiful! However, the room they gave me has only one single bed since I’m alone. It was really hot inside the room, even though it’s cold outside. I asked for air conditioning, but the staff member told me it’s October and that all the AC units are not working and Because of this, I couldn't sleep properly since it was too hot for me.\n\nThe receptionist had poor customer service, and my complaint went unaddressed.",
+            "time": 1730133422,
+            "translated": false
+        },
+        {
+            "author_name": "h",
+            "author_url": "https://www.google.com/maps/contrib/104865886034737658452/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVClWr5O-HRHvU-c9BqQnqYmJJDgSxMAleLFwUzII096PTnmMWU=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Perfect location about a 10-15 min walk to the cathedral. Trolley also stops maybe a block away. Hotel was clean, room was very nice, helpful staff and very good breakfast. Will definitely stay here again.",
+            "time": 1719809017,
+            "translated": false
+        }
+    ]
+}

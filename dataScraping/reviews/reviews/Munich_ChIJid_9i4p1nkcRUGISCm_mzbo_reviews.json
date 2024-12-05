@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Am Markt",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Aria Lu",
+            "author_url": "https://www.google.com/maps/contrib/117109315770628777459/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKusKdduvRvmRokJYPfVZgqFcnGsSVxstS2ROlUSXrsc7wIkQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lovely small hotel at the center of everything. Very convenient walking to bus stations and attractions. Rooms are of smaller side but functional. Spacious bathroom. The bell tower does ring — if you are a light sleeper and trying to sleep in, you may find it waking you up. It doesn’t bother me since I have to leave early.",
+            "time": 1729013980,
+            "translated": false
+        },
+        {
+            "author_name": "Amber B (Kiwi)",
+            "author_url": "https://www.google.com/maps/contrib/115664841362224020622/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ2EfxOrE7ui-U_AVoufXZ9QgQPwiOmGlpCRsicBp09m7a6Ih-sw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We stayed here two nights and the LOCATION is amazing. Great check-in process, super fast and the room had a wonderful view. It was nice with a cool breeze so we slept with the  windows open. Fans were provided in the rooms, along with two bottles of still water each day. Great shower pressure, a 1 second walk to the market and food, shops and restaurants galore.  We slept with the windows open and the sounds of the city did not bother us, but I could see someone getting woken up if they are a light sleeper early in the morning as they set up for the market each day.  We loved this hotel and would happily return. They also have an elevator for your luggage!",
+            "time": 1724438562,
+            "translated": false
+        },
+        {
+            "author_name": "Bill Betts",
+            "author_url": "https://www.google.com/maps/contrib/114893227137124596636/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6cIAny0Mb6n7x8GzOdf7x7kcZhOkxTydPhY11-jbTC-B46g=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "Hotel location is great. Rooms are average. My stay was almost ruined by one unbelievably rude man on reception. A terrible ambassador for the hotel, should be ashamed. The rest of the staff were lovely. Shame",
+            "time": 1732806389,
+            "translated": false
+        },
+        {
+            "author_name": "Linda Geiger",
+            "author_url": "https://www.google.com/maps/contrib/111736830699112729167/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6DiJ95fUXE3WgYydzKq-WtpTbRCY4IgmVRf0A5P9w9wCgDw_p=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "The hotel itself is quant and located in a great area of Munich. It is right next to the Viktualienmarkt. The area is beautiful.\n\nMy husband and I are frequent travelers and have stayed in hotels in other parts of Germany and in other European countries.  We were both extremely disappointed with the front desk service here. When I knocked at the door, I initially had trouble opening the door. I signaled the front desk man that I was having trouble. He just lifted his arms at me and made no effort to help me (even though I was in a medical boot that goes just under my knee.) When I entered he didn’t greet me; just waited for me to tell him I had a reservation. Once my husband came in he was a little more professional.  Getting information about the area from him was uncomfortable.\n\nHe gave us a room on the third floor ( again I was in a large medical boot). The elevator worked for us to bring up our luggage and make a trip back down to the lobby. When we returned from our first outing the elevator was broken and was still broken when we left. He never asked me if I could make it up the stairs without a problem and didn’t address the issue at all. He never apologized for the inconvenience or offered to change our room to accommodate my difficulty walking. Upon checkout he didn’t assist my husband at all with the luggage.\n\nThe room was small but comfortable and clean.",
+            "time": 1730643519,
+            "translated": false
+        },
+        {
+            "author_name": "Griffin Hendrickson",
+            "author_url": "https://www.google.com/maps/contrib/103545830034365913034/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxVDf5D69TqM0gPBDHp__PGVMPtjg0BT6w1WeR6wZGQVt9BN4=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Five stars for service. Management at Hotel Am Markt went above and beyond for me when I had an issue with my reservation I had thought I had booked via third party. Victor, the general manager, provided exceptional service unlike I’ve ever had at a hotel (and I travel for work! Believe me! I’ve seen a lot!) and helped me find other accommodations as the hotel was full, even though the issue with my reservation was not the hotel’s fault. Tim behind the front desk was patient and accommodating to my needs. If I find myself back in Munich, I look forward to staying here. Great people.",
+            "time": 1718844593,
+            "translated": false
+        }
+    ]
+}

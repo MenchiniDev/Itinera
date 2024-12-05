@@ -1,0 +1,66 @@
+{
+    "name": "Mamma Mia Ltd",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Nikola Minev",
+            "author_url": "https://www.google.com/maps/contrib/111475746142607783494/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFhnrfmtazJHJbvUHDqWC-_gb34BdPHgIaEGldBp2bipuCsb2a=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The restaurant is very cosy and the food is excellent and very well priced. Keep in mind if you buy a big pizza you will get a big pizza - portions here are no joke.",
+            "time": 1727949500,
+            "translated": false
+        },
+        {
+            "author_name": "Borko the SLAM (Beatdown Enjoyer)",
+            "author_url": "https://www.google.com/maps/contrib/114428998918128938502/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSa3i6QNWAout4kvdnDT8SYNlH7MAPV0Kd1n2KPpTwVnOpUnxe=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "One of the best pizza's I've ever tried in Sofia , I was outside on the outdoor bench and the staff were a little slow with my order , but the food was delicious so that's ok 😋",
+            "time": 1730195338,
+            "translated": false
+        },
+        {
+            "author_name": "ege toraman",
+            "author_url": "https://www.google.com/maps/contrib/115989965886467480980/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn2OafOCa-D-EkVNwG2WTnVJzkmt7rB7FB7DK7woB1VkDoZw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Food was perfect like it was made from italia\nPrice is good 10-20bgn which is good (drink included\nService was nice, they could speak english and german\nThe atmosphere was literally an authentic pizzaria\n\n+\n\nThey use diffrent cheese than normal stores which elevates the food, and they add olive oil to push it further in its taste",
+            "time": 1722878148,
+            "translated": false
+        },
+        {
+            "author_name": "Nadezhda Yotzova",
+            "author_url": "https://www.google.com/maps/contrib/110922878489703294588/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAuq2S8GhGPyKR53SZg5onQ9iWDUtYEGbFpxLtEq6QATqp5g9_=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Once you try the pizza here, you won't go anywhere else! The place is one of the very first pizzarias in town, has a cozy atmosphere and fair prices.",
+            "time": 1684840038,
+            "translated": false
+        },
+        {
+            "author_name": "Tomer Belisha",
+            "author_url": "https://www.google.com/maps/contrib/116053897955814308566/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlbpyindLrPH_YKEg-b7ja3vBFP0iJZOT_WuWqueyRPdFkLg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Very tasty pizza and pasta!!!\nPolite service.",
+            "time": 1732700697,
+            "translated": false
+        }
+    ]
+}

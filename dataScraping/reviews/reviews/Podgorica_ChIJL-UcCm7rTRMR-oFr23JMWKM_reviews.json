@@ -1,0 +1,66 @@
+{
+    "name": "Restoran 13Jul Plantaže",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Ilirijana Gojcaj",
+            "author_url": "https://www.google.com/maps/contrib/117936888163904389368/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpcm-QbUIlFAX_bgAj1Tltb6OpMHdGDi15kD3fvxtQUo5k0ioP=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "We went there for a family dinner, which I highly recommend to take someone to this restaurant.\nLoved it, the service was good, the appetizers, the dinner, the desserts were really delicious. Loved how big the desserts portions were. I recommend the pasta with mushrooms and beef.",
+            "time": 1731098480,
+            "translated": false
+        },
+        {
+            "author_name": "Shawn Dow",
+            "author_url": "https://www.google.com/maps/contrib/114029027980555142258/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_747BaaJw-HtD1zAQJ3PaSu8Wl4J7yF0cya_Iq0EJknqu_1Ui=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Excellent food and wine\nService was outstanding\nEasy parking\nOur new favorite in Podgorica",
+            "time": 1727938782,
+            "translated": false
+        },
+        {
+            "author_name": "Goga Markovic",
+            "author_url": "https://www.google.com/maps/contrib/101137591437823088723/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpTBEvEfWhSR0NNs67vMwqyONkiksI4_-qgaOygfJCdGzfGG8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "I like coming to this place because of the lake and the service. The food is so so, sometimes excellent, sometimes not. The thing that I really dislike is “kuver” charge, as they call it. Similar to the cover charge, but they bring you a nice bread and cheese so salty that you can’t eat it. It’s like salt with some cheese, no the other way around. I told them this several times and some other guests complained, but they still do it. So, basically you are forced to pay something that you can’t eat.\nSometimes they try new recipes and I like the efforts. It’s a hit and miss with that one. Too much salt in many meals and sugar in cakes. And some dishes are really good. I like the way the serve food too.\nBut their service is amazing and these people are lovely.\nPart II\nI had to put it down to one star. Recently this was taken over by other management and their standards are very low. From to interior to their food and service… they have a lot to learn. The chairs look ragged, from some bad second hand shop- no efforts to make this restaurant beautiful. Some of the staff are rude- I was asked to pay the meal that was just served because we moved the table! Food is bellow average and I could even finish my plate- so bland. And the worst part is: the smell of the toilet. They tried to convince me it was from the lake but I have been coming there for years, this was never the issue. Also, when you pass their toilets on the way in and out, the same smell hits you. I decided not to go there any more unless they make sure to fix all this and put their standards higher.",
+            "time": 1635283826,
+            "translated": false
+        },
+        {
+            "author_name": "Lala Frančeškin",
+            "author_url": "https://www.google.com/maps/contrib/105563457794923858436/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-w8PDS3lwz805nY6MvWtiZ7j07u19vutdgkswuwnRjWXBccPqFw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excellent ambient, service, wine and food with great prices. The waiter was friendly, welcoming amd very professional. One of the best dinners we've ever had, highly reccommend.",
+            "time": 1730543033,
+            "translated": false
+        },
+        {
+            "author_name": "BAKIR TURUSKOVIC",
+            "author_url": "https://www.google.com/maps/contrib/109459456867751136292/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQYpbDxL9rG-BXvXjL2-BILYLRi8-oO8t9qWARiL3DGP5lofIS=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Good wine,nice ambience and good taste,finally I found my place to enjoy my Sunday evening",
+            "time": 1730632866,
+            "translated": false
+        }
+    ]
+}

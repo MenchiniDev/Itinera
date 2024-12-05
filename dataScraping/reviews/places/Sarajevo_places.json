@@ -1,0 +1,1045 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8590512,
+                "lng": 18.4226918
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8604661802915,
+                    "lng": 18.4240179302915
+                },
+                "southwest": {
+                    "lat": 43.8577682197085,
+                    "lng": 18.4213199697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "City Hotel - Sarajevo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108350762490135641655\">Paweł Staromłyński</a>"
+                ],
+                "photo_reference": "AdDdOWrlgTvu7r1Lk0eZMAy-EIC5-i-kAHj4MVQbGgUaFy7dm7Q34EEv1uvZRl93K_rUjgCH-MPmUnDmJ9FzCvMbj1TXry_NRp_PIZ93WBcATFwBLvS9XLY-_lnYyVaC8hYSmqOEceYS68fZeTFXq82P3MzMrGc8JWC956DSWeG7roPWaonR",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJY1evktvIWEcRBY2TR5Wl9vs",
+        "plus_code": {
+            "compound_code": "VC5F+J3 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC5F+J3"
+        },
+        "rating": 4.5,
+        "reference": "ChIJY1evktvIWEcRBY2TR5Wl9vs",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 250,
+        "vicinity": "Mula Mustafe Bašeskije 2, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8713701,
+                "lng": 18.4278333
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8726952302915,
+                    "lng": 18.4291466802915
+                },
+                "southwest": {
+                    "lat": 43.8699972697085,
+                    "lng": 18.4264487197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Kibe Mahala",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110123914852879634469\">Екатерина Герда</a>"
+                ],
+                "photo_reference": "AdDdOWrbqQ9ip4bJVVsSd6qWqv1LbF2jX4df5DH0sufJF1FvmIH1rNW_LYk3m5NZlAfZrOUZUGZdmeBOxjy4oxC0HyLW_dAYf5LJ3d7vjmg7i8qsAQj0lzEKE0i44g5t2Jsb8Y3UuMttHSlWm_6GezvAYUFOAlSVy447EMSj3FhFnaz5Cu7n",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJswvPNM3IWEcRHHC16eRP1SI",
+        "plus_code": {
+            "compound_code": "VCCH+G4 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVCCH+G4"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJswvPNM3IWEcRHHC16eRP1SI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2199,
+        "vicinity": "Vrbanjuša 106, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.86005379999999,
+                "lng": 18.4377153
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.86146478029149,
+                    "lng": 18.4391471302915
+                },
+                "southwest": {
+                    "lat": 43.85876681970849,
+                    "lng": 18.4364491697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Nova Bentbaša",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100226207127565501748\">Ivana Bešker</a>"
+                ],
+                "photo_reference": "AdDdOWpEtOdPeo49tHyFa00g1BKvvlfi0SUTgiOR39ECbrgUvUqktfA2zSwOYMv75is7rM5e3wJpt1JVoNfww0cDg_NVC1h5-irs1Htrnxslv7EJKShjFz8mLSG55sY-7-olVyCCierc2zqg05stNqoFArqFtbbmCG8N-TsrwAQGuAz7Mc9S",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ-zUGh7bIWEcRQ8mJyb1P73U",
+        "plus_code": {
+            "compound_code": "VC6Q+23 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC6Q+23"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJ-zUGh7bIWEcRQ8mJyb1P73U",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 854,
+        "vicinity": "Bentbaša bb, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8549408,
+                "lng": 18.4128768
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8564239802915,
+                    "lng": 18.4142025302915
+                },
+                "southwest": {
+                    "lat": 43.8537260197085,
+                    "lng": 18.4115045697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Coloseum Club",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2553,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109178817244435203238\">Sar Bell</a>"
+                ],
+                "photo_reference": "AdDdOWrQRemu60zJHpXmf66F6FTklpdpOKC4z8YUYu1yuLc0Z-hY2OUj37q7BZMCp88btBbeQ_O2Tn4rgJZZbv4EsY6aCfs7zrC8WYfTVzn-SL9Nd4A_hTUqLApOQleDn-0V8s1V-Pifr2vi0rLHUVzxa4_fdBvkMpCJIcpgnKQI4cKpV6vG",
+                "width": 4540
+            }
+        ],
+        "place_id": "ChIJC44K98oSX0cRkupPrq7gqiE",
+        "plus_code": {
+            "compound_code": "VC37+X5 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC37+X5"
+        },
+        "rating": 4.3,
+        "reference": "ChIJC44K98oSX0cRkupPrq7gqiE",
+        "scope": "GOOGLE",
+        "types": [
+            "casino",
+            "tourist_attraction",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 665,
+        "vicinity": "Terezija bb, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8339273,
+                "lng": 18.445177
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.83532708029151,
+                    "lng": 18.4464900802915
+                },
+                "southwest": {
+                    "lat": 43.83262911970851,
+                    "lng": 18.4437921197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Level Up Hotel and Resort",
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116690281924402488379\">Level Up Hotel and Resort</a>"
+                ],
+                "photo_reference": "AdDdOWo9Tj89aF47nAD5RXA-AUEnshhLjeJHU2Lb26X22UqJuxYs6rq9U_ldbQp9iR0BU-PhRVbEE9uhnkgh03iKTGjI_ibY65EaFj3c82Udrdu4Y_lhLjlfjzsFa4mlaU1u7pCBsviX0rTSOqcdA3hGax7Sfdy8-Zea8CiAMGq_aV8PjA2c",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJRcIcSSjGWEcRf2SOjdSJXcM",
+        "plus_code": {
+            "compound_code": "RCMW+H3 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWRCMW+H3"
+        },
+        "rating": 4.1,
+        "reference": "ChIJRcIcSSjGWEcRf2SOjdSJXcM",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 358,
+        "vicinity": "Mali studenac bb, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.85457539999999,
+                "lng": 18.4210065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8559514302915,
+                    "lng": 18.42243528029151
+                },
+                "southwest": {
+                    "lat": 43.8532534697085,
+                    "lng": 18.4197373197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restoran&pizzeria Galija",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1846,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105286645200119098273\">Andrew K</a>"
+                ],
+                "photo_reference": "AdDdOWqTc8Axl4GRCRBkV3LWre6gAo1oviu3zWLaL8OVG3M_I5F4xaS9agL3HU76hiY-mN2XsYRroqZqHqDkE9lIhxA5ZKrEJQIYEIwo8g-XRmF9kKaKvm4mbbubJqUXzgqjUlEkuCBzvJIaiOI7aB1qc4AR3IxKHw0HneNbxVko4bbWyN3o",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJN8SWZMTIWEcRw2BUeiKLK2s",
+        "plus_code": {
+            "compound_code": "VC3C+RC Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC3C+RC"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJN8SWZMTIWEcRw2BUeiKLK2s",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 720,
+        "vicinity": "Čobanija 20, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8561826,
+                "lng": 18.4088199
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8575778802915,
+                    "lng": 18.4101387802915
+                },
+                "southwest": {
+                    "lat": 43.8548799197085,
+                    "lng": 18.4074408197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mutvak",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106128649673882801251\">Mutvak</a>"
+                ],
+                "photo_reference": "AdDdOWqqWQIvo2rRFY-M-NFa8DwKbS8-YMrteR6atvDpsrXnVO_jnnO3iOXsaAFzdlm-5-k2U7DATXG2VRStm-L3pM2z1d_M9BxhJk3LOYTNGoQNp00puiJ2eO7tVh2Ly2Qift8-Kvtq1cnkJ0FVZXuMdMV4-WUSiU5q06osLGMIpn7LEEO4",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJUx5EK9nIWEcR7_FoAlQ-93Y",
+        "plus_code": {
+            "compound_code": "VC45+FG Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC45+FG"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJUx5EK9nIWEcR7_FoAlQ-93Y",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 379,
+        "vicinity": "Maršala Tita 4, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8610793,
+                "lng": 18.41766149999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8623818302915,
+                    "lng": 18.4190205802915
+                },
+                "southwest": {
+                    "lat": 43.8596838697085,
+                    "lng": 18.4163226197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mala Kuhinja",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106012209711791614357\">Aleš Kozdera</a>"
+                ],
+                "photo_reference": "AdDdOWqZbcB0ahvFGnCutfA9eEujEoHRxSo2QDp0BL5cL4IhER5iyTpYR-jqXbPGCW0AJw0xcKs5pLoLDj51bbGp7hnIn_PoTGQ0GvqNsw4vQN024c-EWtVyApB8qOzuiYqbD9MrhvrydXqklIUVjkPyNDPN3jvSgJCRFqHa4R0Qlansw9XI",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ68Ss5M7IWEcRCWyz6r_QlQY",
+        "plus_code": {
+            "compound_code": "VC69+C3 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC69+C3"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJ68Ss5M7IWEcRCWyz6r_QlQY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 683,
+        "vicinity": "Tina Ujevića 13, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8535959,
+                "lng": 18.3847065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.85487578029149,
+                    "lng": 18.3860459802915
+                },
+                "southwest": {
+                    "lat": 43.85217781970849,
+                    "lng": 18.3833480197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Slatko i Slano",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112087655305315562489\">Bosanska Sehara</a>"
+                ],
+                "photo_reference": "AdDdOWreJdtvf3Iec6fISByWf-TWxX6qZRR4CI5Xpltui9noEi3M9zYh1EPXCH8xpnUVBdc3bRkZ6IXODLEtfMug1oJ-jNiEZBQtWSho0GW0gX2GlnhoN3s-lZqZeheDJXlia6SK_V7jdNbSEoPKPIdGqH0w-sbspW-ESBBL73LVO_whPADb",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ3Ub_aBbJWEcR4bwITvtgBpg",
+        "plus_code": {
+            "compound_code": "V93M+CV Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWV93M+CV"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ3Ub_aBbJWEcR4bwITvtgBpg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "cafe",
+            "bakery",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1056,
+        "vicinity": "Ložionička 9, Sarajevo"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 43.8571606,
+                "lng": 18.4179786
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.85848728029149,
+                    "lng": 18.4191353302915
+                },
+                "southwest": {
+                    "lat": 43.85578931970849,
+                    "lng": 18.4164373697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Londoner PUB",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 2608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107065379099980246551\">Fedzad Forto</a>"
+                ],
+                "photo_reference": "AdDdOWoxNURT45d5MUwVe0XSrkeHD5xrOo2Qst3IXh-JocHBV2kybiZczhxdri4peYJ6Yaqa8URGorSnLmZXh_b5nfxJmhdZjBrs_KEGZOopYiCHS1fvDN3lwJrXkpqYL4i04c7L1FwQXpkUJcOo5R3Jn_kaj3GqlRMNeFFo8sS80sQzv_Ji",
+                "width": 4632
+            }
+        ],
+        "place_id": "ChIJNTJb2trIWEcRciNKqoT-Pkc",
+        "plus_code": {
+            "compound_code": "VC49+V5 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC49+V5"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJNTJb2trIWEcRciNKqoT-Pkc",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 285,
+        "vicinity": "Radićeva 4a, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.84730149999999,
+                "lng": 18.3751577
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.84870678029149,
+                    "lng": 18.3764834302915
+                },
+                "southwest": {
+                    "lat": 43.84600881970849,
+                    "lng": 18.37378546970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fabrika dobre hrane",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117189139050029369709\">Dino Demirovic</a>"
+                ],
+                "photo_reference": "AdDdOWplQSUS0yKwp1B-0UEl6Qu4umYjZ15oMjbaeNDm73ZBA_XJ-Da-AMNgKDBa4cLdiF0mnhIOscXC-CtWCYZDt0ELacqwVENWr4Tz_LSE5RgiykZzDwZtsmSiekGwPJy1ZDN05PcHJt9oSVWTQ4uPyozc51Z0ljatC_fXSdEj2YLhuMQ7",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJA1PLfQ3JWEcRPfzy7_KUqMA",
+        "rating": 3.6,
+        "reference": "ChIJA1PLfQ3JWEcRPfzy7_KUqMA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 645,
+        "vicinity": "R9WG+W3F, Milana Preloga, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8557223,
+                "lng": 18.4152356
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8570082802915,
+                    "lng": 18.41653293029151
+                },
+                "southwest": {
+                    "lat": 43.8543103197085,
+                    "lng": 18.4138349697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "S One Sky Lounge",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110705891455610669264\">S One Sky Lounge</a>"
+                ],
+                "photo_reference": "AdDdOWoe9mQTdCo2uLqO5Zz2fKuBI2jhlOqLztMUq7VAmMbjZMHbxBI2k_Qhynh7OeEb_oHdDW-ASae54pwcGi4-MH1PVrj0PikpZeHXh3HRFvz39WMhOI8xOB0howxall_fbEGR2tqBtlO6AiPCVfcLa9UBUo0puKiUUrTITn57p_q0LAjO",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJW5l3cdvIWEcRaXVZr71XS1Q",
+        "plus_code": {
+            "compound_code": "VC48+73 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC48+73"
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "ChIJW5l3cdvIWEcRaXVZr71XS1Q",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 766,
+        "vicinity": "Skenderija 1, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8575348,
+                "lng": 18.415795
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.85893323029151,
+                    "lng": 18.4171174302915
+                },
+                "southwest": {
+                    "lat": 43.85623526970851,
+                    "lng": 18.4144194697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Milkman House",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3265,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118055306944578271933\">Foto Jura</a>"
+                ],
+                "photo_reference": "AdDdOWpCY90KpfY85Q06TSYfpv9pzDbhd-uvcO8w8LNZZ0K5bAsTqTh0w-o33rR3dugz1VK80UcLJ-CdU4Rt0hX-boJ0K1GrzSb3-jBHc7QpCOwWz2mN34-KV1vjTOJxx3-3o9udWtBuQ2a764iaEoUx7hKV1ZtacwudK8XYzjHxLHbvJK0z",
+                "width": 4898
+            }
+        ],
+        "place_id": "ChIJ34nSKyDJWEcR6rB2eZ_X-7w",
+        "plus_code": {
+            "compound_code": "VC58+28 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC58+28"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ34nSKyDJWEcR6rB2eZ_X-7w",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 305,
+        "vicinity": "Mis Irbina 12, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8550853,
+                "lng": 18.4099599
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8564246302915,
+                    "lng": 18.41131693029151
+                },
+                "southwest": {
+                    "lat": 43.8537266697085,
+                    "lng": 18.4086189697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Piccolo Mondo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107710515445455800394\">Mr-X Yy</a>"
+                ],
+                "photo_reference": "AdDdOWrJjynx_FFFUTUXaaIAL_3l_b1kEA-Ona3BqmAeNu5rRvFVQGgKR0-L8h8JeAKADzgWWZ0yJBeUx9V5yvfbg-ltdPefK43HS5uNR4U-sP2T88lebygLhPdacjHOzBE5PMXOi6el-Kd81Q0I4Rd1VDGZtTawAH4iRqtc0uqcjThpyR7u",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJLfG-ut7IWEcR_vN-7Siuv0U",
+        "plus_code": {
+            "compound_code": "VC45+2X Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC45+2X"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJLfG-ut7IWEcR_vN-7Siuv0U",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2029,
+        "vicinity": "Kotromanića 5, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8554767,
+                "lng": 18.4085657
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.85699643029149,
+                    "lng": 18.40990538029151
+                },
+                "southwest": {
+                    "lat": 43.8542984697085,
+                    "lng": 18.4072074197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Montana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5520,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107700793785670880879\">Mirela Miler</a>"
+                ],
+                "photo_reference": "AdDdOWqv3zGcp8uYrxeahRgyG91M9OuOWkEclEjWH0mlioF-ofGNQEOIPrQ2ldylq7yavD6NJg5aFE9OuG82qlxp8XXQrfEp2E6perTF_O7wU-7Fig3AycfMIpTYxxJ0mAGm8mN-OnqoZY3zurJXumwmbkKFqCP6prbnOYjzwG612SomiJBE",
+                "width": 4144
+            }
+        ],
+        "place_id": "ChIJK1sm1t7IWEcRlDvNCpqR9nY",
+        "plus_code": {
+            "compound_code": "VC45+5C Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC45+5C"
+        },
+        "price_level": 2,
+        "rating": 3.2,
+        "reference": "ChIJK1sm1t7IWEcRlDvNCpqR9nY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1360,
+        "vicinity": "Vrbanja 1, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.85568869999999,
+                "lng": 18.4077484
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.85708818029149,
+                    "lng": 18.4090931302915
+                },
+                "southwest": {
+                    "lat": 43.85439021970849,
+                    "lng": 18.4063951697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Food Gallery",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2336,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115233407832064420206\">The Unknown</a>"
+                ],
+                "photo_reference": "AdDdOWqrmbnxEO2V1rV1vZB3WrKPFTwpaIDpPkm2L4r1SH5XUhrBfUDZRT5cSNl75PuNZ5G80BjTd7Me0pDdWQSoaUpbYJEJllgjg-avOk67BFZAhs-4KwVS7bmzimTQ0knCZmihmt_FPO9eURzvzjMszLmIApP_YnKPqXx49o3OgDmRXd0",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJxQ6vKd_IWEcRDjljMNT0C_0",
+        "plus_code": {
+            "compound_code": "VC45+73 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC45+73"
+        },
+        "rating": 1.9,
+        "reference": "ChIJxQ6vKd_IWEcRDjljMNT0C_0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 156,
+        "vicinity": "Vrbanja 1, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8548254,
+                "lng": 18.4079636
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8562530802915,
+                    "lng": 18.4093132802915
+                },
+                "southwest": {
+                    "lat": 43.8535551197085,
+                    "lng": 18.4066153197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Kimono",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3648,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107244202380293554350\">Jusuf Hazic</a>"
+                ],
+                "photo_reference": "AdDdOWr0k-WDdEcCQrW7SP4OTfYKI-f4VNUcOnn7J-rz9TZOxvMaTRbostkqPSbJkt3X-lmxAfpe3tDiTCbOr_WW66lkYTfyxvZzuzdprerzkJmtV5PI4qmi-K2WNz--rAc7Ab6Y_pieTWCPWQpUSLbl1pzmXIFu_BGdWAyrxZROaVuRg3WN",
+                "width": 5472
+            }
+        ],
+        "place_id": "ChIJiUzMJd_IWEcRxiLI7JR8aHw",
+        "plus_code": {
+            "compound_code": "VC35+W5 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC35+W5"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJiUzMJd_IWEcRxiLI7JR8aHw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1836,
+        "vicinity": "Vrbanja 1, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8583333,
+                "lng": 18.4183333
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.8596195802915,
+                    "lng": 18.4196216802915
+                },
+                "southwest": {
+                    "lat": 43.85692161970851,
+                    "lng": 18.4169237197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restoran Amerikanac Sarajevo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115129815439550561221\">Restoran Amerikanac Sarajevo</a>"
+                ],
+                "photo_reference": "AdDdOWqhWpYOqEAzYR0H9ViG6V65nweJ3frfbc3LoRMYZrFL_c8AVEDAMWwQvfrXSbkPBB_4yi3TbmQOLwx7QksjafqFXHOr8PgaHBHU-xssn0HEe6bNySxwDCootW33iVc5HiHrYDDxwSyXUzlNKq3jNm1tJFtCxkmPF56VX4WLnUnqvRW1",
+                "width": 1152
+            }
+        ],
+        "place_id": "ChIJgfaHvNrIWEcRgN8dj5HKoK4",
+        "plus_code": {
+            "compound_code": "VC59+88 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC59+88"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJgfaHvNrIWEcRgN8dj5HKoK4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 513,
+        "vicinity": "Branilaca Sarajeva 5, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.85835000000001,
+                "lng": 18.4183617
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.85969928029149,
+                    "lng": 18.41976183029151
+                },
+                "southwest": {
+                    "lat": 43.85700131970849,
+                    "lng": 18.4170638697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fellini",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJuddaR8XIWEcRpr6apmPnXNE",
+        "plus_code": {
+            "compound_code": "VC59+88 Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC59+88"
+        },
+        "rating": 3.8,
+        "reference": "ChIJuddaR8XIWEcRpr6apmPnXNE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "Branilaca Sarajeva 5, Sarajevo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 43.8578324,
+                "lng": 18.4192407
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.85918308029149,
+                    "lng": 18.4205593302915
+                },
+                "southwest": {
+                    "lat": 43.85648511970849,
+                    "lng": 18.4178613697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Oklagija",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 676,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101283923265574905651\">Oklagija</a>"
+                ],
+                "photo_reference": "AdDdOWo7WUbfLpjDeR1YClpqazuHCkgHME0Ef5d0fjhqa-Qsf7MQAwS24qP4LfblsjSwfE0cg3i2N4Xp4urchbY4udYJSUD4GAUFIIJdv07FotVj3zdj_nqrUcDxoqlfNcKvPSBOMPE2TrrTu49gSP-jxsvalLMdXJXZI_z7g7xjSIjaPYYc",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJjd4btdrIWEcRNsny42m8Vi4",
+        "plus_code": {
+            "compound_code": "VC59+4M Sarajevo, Bosnia and Herzegovina",
+            "global_code": "8FMWVC59+4M"
+        },
+        "rating": 4.3,
+        "reference": "ChIJjd4btdrIWEcRNsny42m8Vi4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 173,
+        "vicinity": "Šenoina bb, Sarajevo"
+    }
+]

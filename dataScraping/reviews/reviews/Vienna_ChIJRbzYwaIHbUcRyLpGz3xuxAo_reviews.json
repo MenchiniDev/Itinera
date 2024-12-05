@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Das Tigra",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "offri ritter",
+            "author_url": "https://www.google.com/maps/contrib/104358767737528684224/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnD5MEGfYTNpcKjO9YvFU8Mu_sAWeBloLePZgC64xK7DzMpDB2IQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The hotel staff were amazing, super helpful and friendly. There is someone at the reception 24 hour. The room was very spacious and clean, there was a cleaning service everyday.\nThe location was perfect, super close to the center and every big attraction was walking distance, but it was on a quiet street.\nWe were two women staying there, and it always felt safe even at late hours.\nWe really recommend this hotel, it’s incredible, and amazing value for money.",
+            "time": 1723276262,
+            "translated": false
+        },
+        {
+            "author_name": "Carmen Garces",
+            "author_url": "https://www.google.com/maps/contrib/114898302996074494356/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxWj-Kawh15lCmovmd2pMfW6wdgsqAmPo1cUzpMTfNUd7JEA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Se lo Ed our stayed at Das Tigra hotel. We highly recommend it. Great location, rooms and the breakfast spread is incredible. The beds and pillows are wonderful! We have been traveling through different countries and this is my favorite hotel!",
+            "time": 1725385205,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Atamian",
+            "author_url": "https://www.google.com/maps/contrib/117181110891716854834/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMAzZwe0iW4bVkx1cchpo7SCHHlcTIIZCdNYXuxw7lo3bpW9GS=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "The hotel is in a good location. The a/c didn't chill very well, we just opened the windows. Our room faced the street so there was some noise with the window open. Room was good overall. The staff was very helpful and friendly.",
+            "time": 1728146560,
+            "translated": false
+        },
+        {
+            "author_name": "David Hipple",
+            "author_url": "https://www.google.com/maps/contrib/110585406443406523041/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkcfupId31X2845wNO9ezVokpvKZxLUV8EvoyPon7ICfe59A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Excellent small hotel in area close to city center but not in high traffic area.  Rooms were decent size, bed comfortable and air conditioning worked well. Staff is super friendly.  It is very Clean.  Reasonably priced.  Highly recommend.",
+            "time": 1722511549,
+            "translated": false
+        },
+        {
+            "author_name": "Pouya Mahdavi",
+            "author_url": "https://www.google.com/maps/contrib/113731213235417796822/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLTzkvT0NyD-z_QSFK-_GcMSW8vVilk8XxG_bde4Ng59FoSlpU=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I recently spent a night at Hotel Das Tigra in Vienna and had a wonderful experience. The room was exceptionally clean, featuring elegant parquet flooring, and was bright and stylish, just as a guest would expect. The breakfast was a highlight, offering a delicious and varied selection catering to both meat eaters and vegans. The quality of the food was impressive, with fresh and tasty options available. Overall, my stay was delightful, and I highly recommend Hotel Das Tigra for its cleanliness, design, and excellent breakfast.",
+            "time": 1719253182,
+            "translated": false
+        }
+    ]
+}

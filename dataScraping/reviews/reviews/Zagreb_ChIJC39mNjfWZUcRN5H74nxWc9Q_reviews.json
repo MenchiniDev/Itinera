@@ -1,0 +1,66 @@
+{
+    "name": "Hostel Party",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "M Tech",
+            "author_url": "https://www.google.com/maps/contrib/106225379071120024384/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUD95U-di8bnIfIUVMbCY-4BzDVO8oHkJSFlb8KmxW_gXjp3y0T=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "10 months ago",
+            "text": "Great location to all city points from here",
+            "time": 1706088678,
+            "translated": false
+        },
+        {
+            "author_name": "MiniMe",
+            "author_url": "https://www.google.com/maps/contrib/103519005639367700798/reviews",
+            "language": "en-US",
+            "original_language": "hr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjXyHaikGBHcWsOvx8N-pZPFjXtdW2iRu8xvH5TmrZfUYGTrMF=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "Explain something to me. So your company is called Hostel Party. It supposedly has something to do with the hostel. But what I don't understand is exactly the part when someone calls me from a number and offers me INA shares. Who are you anyway? What exactly do you do? Where did you get my mobile number? Should I simply contact the police and find out from them?",
+            "time": 1716560879,
+            "translated": true
+        },
+        {
+            "author_name": "Robert M",
+            "author_url": "https://www.google.com/maps/contrib/112966143966652527889/reviews",
+            "language": "en-US",
+            "original_language": "hr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8NyIj93M8G9G8H_nw6zWjnQhR5X_qBi1ltx29XhGjOTBpRgN5=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "5 years ago",
+            "text": "HRK 380 for a room with a toilet. But such a hole that it's not even worth 100 kn since the bed is wobbly and every movement creates an unbearable whining sound that you simply can't sleep, everything reeks of some strange smell, the bedclothes are in holes, the faucet in the toilet is wobbly, there are fungi on the ventilation, the internet has no range in that disgusting room, the color choice of the room is more than disgusting, the bright orange wall, the mattress is so uncomfortable that it is impossible to fall asleep, there is no air conditioning device, all in all, I wish from the bottom of my heart to anyone who wants to come there to bypass this place and find a very decent accommodation for the money, since Hostel Party is a place that should be bypassed in a wide arc. Btw. it's about room number 14, which is like their best, but it's a huge hole, I don't want anyone to have to come and sleep there.",
+            "time": 1558979436,
+            "translated": true
+        },
+        {
+            "author_name": "Svako Dobro",
+            "author_url": "https://www.google.com/maps/contrib/104387686371548843041/reviews",
+            "language": "en-US",
+            "original_language": "hr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6ufL64FB5lnTVzkDV6qqt-Ujh4P-hMK8N47KdzpljNE7Mrw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "10 years ago",
+            "text": "Super kebabs, and only a gourmet burger. Kudos to the Croatian restaurant in the hostel!",
+            "time": 1401534883,
+            "translated": true
+        },
+        {
+            "author_name": "Zvonko Knezić",
+            "author_url": "https://www.google.com/maps/contrib/104656182076786550933/reviews",
+            "language": "en-US",
+            "original_language": "hr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-SNU7enX-5bH-Kuszb7NMgvz7VmBhbxojpgTkDUf7HhBWtQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Quality and cheap accommodation near the center of Zagreb!!!",
+            "time": 1521843996,
+            "translated": true
+        }
+    ]
+}

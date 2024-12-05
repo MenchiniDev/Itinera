@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Lungarno",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Alexandra A",
+            "author_url": "https://www.google.com/maps/contrib/110624950349107523045/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLraZa94dS0My3b3BzT2xRR8a1mnQc64pa9s2gyGsYUyboeVVQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Dedication is fabulous and the staff are very attentive, valet service was great. Location is unbeatable with an incredible view of the most famous bridge in Florence. Rooms are styled so are old but not in a bad way.",
+            "time": 1729005531,
+            "translated": false
+        },
+        {
+            "author_name": "Amandeep Bassi",
+            "author_url": "https://www.google.com/maps/contrib/101019670083737478919/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTUfYnMPRfE2q6jeKXyRfTTPGX44rEiGJLVZ8KDeQgO8vqFA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excellent food at the hotel (Picteau restaurant). Staff very friendly and warm. The concierge helped organise our stay and things to do whilst in Florence, as well as fantastic restaurant recommendations. Hotel location is great, some amazing views of Ponte Vecchio and Ponte Santa Trinita as well as being walking distance to many of the cities attractions (it's a small city so can get to most places on foot).",
+            "time": 1730633771,
+            "translated": false
+        },
+        {
+            "author_name": "Gus Walbolt",
+            "author_url": "https://www.google.com/maps/contrib/108643795392268848516/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsFL02LASYlIGNCHyila8X9M3_DWvj74RtaBS8ELCGM3m2dhE=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "We returned to the Lungarno Hotel in January during Pitti Uomo after 15 years. We love this hotel and it is as delightful as ever! The rooms and hospitality are first-class. We had a suite overlooking the Arno. The food and service were fantastic. The concierge was very helpful in securing reservations and setting up activities. I would highly recommend it for your stay in beautiful Florence.",
+            "time": 1719770657,
+            "translated": false
+        },
+        {
+            "author_name": "Christina Zaharia",
+            "author_url": "https://www.google.com/maps/contrib/105705997787378612635/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwQ-hlanqQjh5_e5-_WI4fJjVn_NWcJcanYw72qzCErpCq_AQe=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "My stay at Hotel Lungarno in Florence was nothing short of exceptional. Situated in an amazing location overlooking the Arno River, the hotel offers a breathtaking view of Florence's iconic landmarks.\n\nFrom the moment I arrived, I was impressed by the attentive and friendly staff. Every member of the team went above and beyond to ensure my comfort and satisfaction throughout my stay. However, one individual truly stood out - Imran, the bellman. Imran's warm welcome and eagerness to assist with luggage and provide insider suggestions for local restaurants added a personal touch to my experience. His recommendations were spot-on, and I enjoyed some of the most delicious meals thanks to him. If you visit Hotel Lungarno, be sure to say hi to Imran!\n\nThe accommodations were luxurious and very comfortable, providing a serene retreat after a day of exploring the city. The attention to detail in the room design and amenities was impressive, reflecting the hotel's commitment to providing a top-notch experience for guests.\n\nOverall, I cannot speak highly enough of the entire team at Hotel Lungarno. Their professionalism, dedication, and genuine hospitality truly set them apart. Whether you're visiting Florence for business or leisure, I highly recommend staying at Hotel Lungarno for an unforgettable experience.",
+            "time": 1714416235,
+            "translated": false
+        },
+        {
+            "author_name": "Daniel G",
+            "author_url": "https://www.google.com/maps/contrib/113741238033005246446/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9aEhNvyMw6oA7ro-FYW2hObH4wBk36NwBAGXr8-hQQSWqVA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Overall we had a great stay at Hotel Lungarno.  5 star service.  Great free breakfast buffet that was included with a Hyatt booking via SLH.  The location is perfect, on the quieter side of the river but still walkable to everything you’d want to see.  We didn’t even take a train or taxi except when going to the airport.  The rooms are nice, although the layouts are a little “unique”.  On room had stairs inside the room right at the entryway which was annoying with a stroller.  Great beds, great bathroom, great toiletries, everything you’d expect from a 5 star hotel.\n\nI’m sad SLH is leaving Hyatt because I wouldn’t have booked this place otherwise.  I guess I have to start collecting Hilton points!",
+            "time": 1714493871,
+            "translated": false
+        }
+    ]
+}

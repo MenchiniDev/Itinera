@@ -1,0 +1,66 @@
+{
+    "name": "Claridge's",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Emily Goldfischer",
+            "author_url": "https://www.google.com/maps/contrib/112890577650680612141/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImVAQZyPYVb0LxZLENs62abpmVfLBBVmaJIxV3wQxZdkTfiQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Went for breakfast and it was amazing!  The room is buzzy and it just feels important. I had the granola and it was absolutely delicious. The pastry cart is also a real treat. It’s not cheap, but a great spot to impress a client or just enjoy.  Also the holiday decor is lovely.",
+            "time": 1731101779,
+            "translated": false
+        },
+        {
+            "author_name": "Jennie Lu",
+            "author_url": "https://www.google.com/maps/contrib/102088161216629746652/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwMxU_Th87Dif0vtmai0EkTQnOAMfuRm5_URT2iKWCDlWohSnT=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "You must spend at least $2k per night to get a decent room or they’ll put you in a dungeon (no lighting). I asked for a well lit room and was told that all their rooms were newly furnished! I booked the Mayfair room and it was one where photos of queen Elizabeth and celebrities hanging on the three surrounding walls. Who wants to look at photos of celebrities in their bedroom? If one truly look at the details, you’ll notice lots of stains in the carpeting? Broken picture frames, fridge not working, rusty specs on fixtures. I was so annoyed that my husband upgraded us to the Mayfair balcony room. Again, better and newer room but the choice of light colored furnishing leaves for ample opportunities of numerous stains left by prior guests. The check-in process annoyed my husband more as two of the owners teenage boys were running boisterously all of the lobby. I hope these owners doesn’t run this historic place to the ground. Pool was amazing. I expected a phenomenal experience and it wasn’t :(",
+            "time": 1725484458,
+            "translated": false
+        },
+        {
+            "author_name": "Kerri Southee",
+            "author_url": "https://www.google.com/maps/contrib/107015145387565797851/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxju9I6LedV0dvULzODJV-Xq2H2wpCH7gGY5VrBxh9ND2Sxg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Wish I could give more stars\nAmazing location and staff were exceptional.\nLovely historic rooms and well appointed.\nCan highly recommend the high tea experience our wait staff were excellent.\nHad breakfast in Claridges Restaurant daily and Hugh was awesome and so helpful.\nDinner in Foyer & Reading room was wonderful experience.",
+            "time": 1728891031,
+            "translated": false
+        },
+        {
+            "author_name": "Will Thompson",
+            "author_url": "https://www.google.com/maps/contrib/108119396642590391077/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCHyOv1Imcgm2qMdDBpdMGpRGEJ9flc8vnPtafz7yL5llrRh_w=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Went to bar and for afternoon tea. Firstly the bar is great with wonderful cocktails that were superbly made. Then we went for afternoon tea which was pleasant. We were in the corner of a busy area and tbh there wasn't enough staff available to cover the number of tables. So it was quite slow. Also no-one actually mentioned what was included or not so we had a rather large bill at the end. The experience was good and fun, just could have been better.",
+            "time": 1729498279,
+            "translated": false
+        },
+        {
+            "author_name": "Sérgio Lourenço",
+            "author_url": "https://www.google.com/maps/contrib/115638297807927997358/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4DATwHpiEQwbvzmRn5FpAmJj2tG6-5wpUzz3Uugn-XtkS1KseXg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Claridge’s in London is more than just a hotel—it’s an institution, a masterpiece of British hospitality that epitomizes elegance and tradition. Located in the heart of Mayfair, Claridge’s offers a timeless luxury experience, blending Art Deco sophistication with understated contemporary style.\n\nFrom its iconic entrance to its elegantly decorated suites, the hotel captivates with first-class service, where every detail is meticulously crafted to please the most discerning guests. Known for hosting royalty, celebrities, and notable figures throughout its history, Claridge’s maintains an atmosphere of exclusivity, with a staff trained to provide impeccable service that makes every guest feel at home.\n\nIts famous Afternoon Tea is a must for anyone seeking an authentic British experience, while the spa offers a relaxing escape from the fast pace of London. Combining tradition with innovation, Claridge’s is not just a place to stay; it’s a memorable experience where the past and present of elegance meet.",
+            "time": 1731415151,
+            "translated": false
+        }
+    ]
+}

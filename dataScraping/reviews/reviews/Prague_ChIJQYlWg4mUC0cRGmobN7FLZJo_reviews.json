@@ -1,0 +1,66 @@
+{
+    "name": "Green Garden Hotel",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Marie Kazyak",
+            "author_url": "https://www.google.com/maps/contrib/113409011786565418693/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEUkizQHMPMvG2ph0qAKpRJtBQ9PUuMzVFViBpWh_BOS9HtXOP=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This was a great hotel, with an excellent restaurant connected to it! The rooms were clean and elegant, the staff was very friendly and helpful, and although I didn't have time to experience it, they also provide spa services. You get at 10% discount voucher for the restaurant when you stay there, and they had an elevator.\nI personally found the mattress to be a tad hard for my taste, but it didn't prevent me from having a restful night. If ever I come back to Prague, I fully plan to stay here again!",
+            "time": 1730056411,
+            "translated": false
+        },
+        {
+            "author_name": "Eduardo Carvalho",
+            "author_url": "https://www.google.com/maps/contrib/112280039996122797433/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLElSb1mR10I-pDKQl80-DSVDP2bzYk6Hy-rCtM8QhAajWOUw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We had an amazing three night stay at the Green Garden Hotel,\nThe rooms was clean the staff efficient and the breakfast was amazing and price was reasonable.  . The receptionist Veronica was absolutely wonderful and went out of her way to help us\nEspecially when we had a problem with the drop off with the cruise\nProvider Prague expert. Thank you Veronica for your great customer service skills.",
+            "time": 1727115384,
+            "translated": false
+        },
+        {
+            "author_name": "Clinton Faison",
+            "author_url": "https://www.google.com/maps/contrib/107635448747910108681/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5_n48OgT2DCv4AY-Tty0Z4kXmVAYVKUdLAk7Om7zVtzHVKA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Gorgeous retro hotel with kind and welcoming staff, a bar with plenty of options and an in-house restaurant with Czech classics and more!\n\nDěkuji Veronika who was an absolute delight, sharing interesting knowledge and the hotel itself and suggesting the best places to visit so you can maximize your vacation!\n\nHighly recommend and I will definitely be back!",
+            "time": 1726850742,
+            "translated": false
+        },
+        {
+            "author_name": "Laura",
+            "author_url": "https://www.google.com/maps/contrib/100768931454522450726/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnedROmq7_UlbYNDQ6ZhGf-ng3-Cqix0D8Cp2j5HOGAuK52yk=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I had a perfect experience at this hotel! The staff were all lovely, and couldn’t do enough for you. 🙏🏽\nThe hotel was exceptionally clean. Spotless!\n\nLocation was perfect to access everything you want and all the main attractions. We walked everywhere but you can easily get transport too.\n\nA bonus comfort was Netflix and WiFi included!",
+            "time": 1718826513,
+            "translated": false
+        },
+        {
+            "author_name": "Julia Bell",
+            "author_url": "https://www.google.com/maps/contrib/110421378856555408327/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTn-A7yhopwilAwY-whMc95weNQy9VuGD2zdeJ8iBP0ZD8P9sG=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "I loved staying in this hotel for three nights, and the staff were fantastic. Many thanks to Veronika, the receptionist, who went far and beyond the call of duty.\nMy stay was very comfortable and the only hitch was that it was a fair walk from Prague centre. I think I walked a few miles a day. However, it did give me the chance to explore and enjoy all the sights of this amazing city.",
+            "time": 1716883108,
+            "translated": false
+        }
+    ]
+}

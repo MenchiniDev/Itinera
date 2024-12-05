@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Tomche Sofka",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Lagadia Arcadias",
+            "author_url": "https://www.google.com/maps/contrib/117535971285340600341/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUhFf0vkb_dXt0MDryJdMMFkMADHZaY9qtWyFs6k7FtQ86V2JB=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "Our stay at Hotel Tomce Sofka was very disappointing! The hotel was in terrible condition and dirty!\n\nAt night, the cold in the rooms was unbearable, even though the Air Condition was on, as the windows were broken and wouldn't close. As for the view from the room, it was uninteresting and disappointing!\n\n❗The hotel does not even meet basic expectations, and I would not recommend it to anyone looking for a comfortable and clean place to stay❗\n\n4 ⭐🤔🤔 WHY ????",
+            "time": 1731054108,
+            "translated": false
+        },
+        {
+            "author_name": "Eλενη",
+            "author_url": "https://www.google.com/maps/contrib/113091802939304313668/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3YbKPx9kQwwGjVFNN4CqUFhE-7ALyPAHtNvVglurDRw712Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "First af all the rooms weren't clean including floors and bathrooms, there was hair everywhere. The first night we found bed bugs and they bit us. The second night we found two cockroaches. Some windows were broken and the rooms were cold because of that. An awful experience",
+            "time": 1731051920,
+            "translated": false
+        },
+        {
+            "author_name": "Despina Platia",
+            "author_url": "https://www.google.com/maps/contrib/116088610040857954448/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1M-gGLO9FnGr8uuYIjSkpCfwFbLoBJ_RhBRh0Y2XSfsBFEtFA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "The hotel is really old and very dirty. There was hair everywhere in the room, it was filthy in the corners and on top of surfaces like the AC unit and there was almost no heating during the night. Woke up at 5am from the cold. It is definitely not a 4star hotel. Not even 3.",
+            "time": 1731052455,
+            "translated": false
+        },
+        {
+            "author_name": "Natalija Spasenoska",
+            "author_url": "https://www.google.com/maps/contrib/110248721394776933994/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu13dpo5sJyWjC2LrPLuAw3_XnFlCWK0TTuyZZbFH3Qg_r_w=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Everything was great. The rooms where clean, the place is quiet and they also have great art on the walls and chill music.",
+            "time": 1720987680,
+            "translated": false
+        },
+        {
+            "author_name": "AKIN ÖZCAN",
+            "author_url": "https://www.google.com/maps/contrib/108929764907056124143/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUlslfY8NQdT6YhDbDKhv8rhSoOL0EcTiDA5hL7dSmCJ-3Tv4PMg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Rooms are ok, if you use them for sleeping only. Great location.",
+            "time": 1723752143,
+            "translated": false
+        }
+    ]
+}

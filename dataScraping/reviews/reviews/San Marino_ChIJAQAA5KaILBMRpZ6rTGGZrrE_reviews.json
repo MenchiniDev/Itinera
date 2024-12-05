@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Rossi",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Dark Eagle",
+            "author_url": "https://www.google.com/maps/contrib/104286451635878165860/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMYnEAGlagWT5AiGMhVPsA77ORqyHQM0Eie3tqgGwwgIAFQA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Pretty good and affordable hotel with friendly staff and a good view, though there's no balcony. The elevator is quite small and slow, and the shower wasn't very good. However, for the price, it's very good, and there's a great restaurant next door.",
+            "time": 1724306782,
+            "translated": false
+        },
+        {
+            "author_name": "Rodrigo d'Agosto",
+            "author_url": "https://www.google.com/maps/contrib/108113223269324101249/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmvCxfjhBCyVrOREv4tnEv_umm7MZrMlpDR23kXemWTSeydAMXqA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Hotel Rossi is a well-regarded accommodation option located in the heart of Verona, Italy. Known for its convenient location and comfortable accommodations, Hotel Rossi provides easy access to the city's main attractions, including the historic center, Piazza delle Erbe, and Juliet's House.\n\nGuests can expect cozy rooms equipped with modern amenities, ensuring a comfortable stay. The hotel often features a welcoming atmosphere and friendly service, making it a popular choice for both leisure and business travelers.\n\nVerona itself offers a rich tapestry of history, culture, and culinary delights, and Hotel Rossi serves as an excellent base for exploring everything the city has to offer. Whether you're visiting Verona for its Shakespearean connections, its Roman heritage, or simply to soak in its vibrant ambiance, Hotel Rossi provides a convenient and welcoming accommodation option.",
+            "time": 1720883134,
+            "translated": false
+        },
+        {
+            "author_name": "Zsolt Fügedi",
+            "author_url": "https://www.google.com/maps/contrib/104536017829854720989/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5my6mImKwiDW5zo9jPb9JOq9s4QO-QkFXaE_kHDYfTcaZ8E5s=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Perfect hotel!  The room is excellent!  It was one of my best hotels during the three-week Italian tour.  The breakfast is excellent.  Perfect, perfect, perfect...",
+            "time": 1720303943,
+            "translated": false
+        },
+        {
+            "author_name": "Martin Štepán",
+            "author_url": "https://www.google.com/maps/contrib/109660992289855921047/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkCTvTaIhLQhH6fGZ3HfKt8oakChFZfyjbv13AXhEdX3KeB2D0=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great value for money, simple but clean, very good location about 10 minutes from San Marino historical centre by car. Bonus: free parking.",
+            "time": 1720303910,
+            "translated": false
+        },
+        {
+            "author_name": "Philippe Damiens",
+            "author_url": "https://www.google.com/maps/contrib/111539002955272251020/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXB0hKKAi3kp5RTXWK7EAqL2XCrr7DGstOgDsHC6kod9KTfLHXO1w=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Perfect location to visit San Marino. Very friendly people. Great restaurant with sea view. Breakfast is poor. Room was not clean. Small spider in my bed and dust everywhere. Good parking.",
+            "time": 1686905139,
+            "translated": false
+        }
+    ]
+}

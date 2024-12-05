@@ -1,0 +1,66 @@
+{
+    "name": "The Trinity City Hotel",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "José Luis Domínguez Fernández",
+            "author_url": "https://www.google.com/maps/contrib/117876771106950697094/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI0zlu8Wk6XQoPMGrGlX-Fel4h68o5q3RDFrdjY4Gqi3TRAwqU=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "This hotel was an absolute delight! The staff’s hospitality, the fantastic breakfast, and the comfort of the rooms made my stay exceptional. The decor in the lounge areas is truly charming, and the hotel’s prime location is perfect for exploring the city. Highly recommended! (It was a bonus that some team members spoke Spanish, which helped me handle a quick task more efficiently :))",
+            "time": 1731422438,
+            "translated": false
+        },
+        {
+            "author_name": "Pierce O Brien",
+            "author_url": "https://www.google.com/maps/contrib/106101322611414344109/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeCwAOlJmSRJkc45mESp5sbQFeHZyxtTdB-9wouktXVtFUrttv=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We stayed here, and the rooms were quiet, clean and comfortable. Water pressure in the shower was amazing. The food was excellent. We had breakfast, which was great and after we went back to have our lunch there. Really nice staff and very helpful. Will stay again.",
+            "time": 1730490141,
+            "translated": false
+        },
+        {
+            "author_name": "Jennifer Fernyc",
+            "author_url": "https://www.google.com/maps/contrib/106095338136556962229/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOmmJTpN0d3TP9eejPkqW3yFuvcG_mSa1KVfLjrcU2uZo4oA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Ideal location for walking to many historical sites you will want to visit, several nice coffee shops, delis and pubs all within a block. Should you be doing a bus tour or using the Airport Express buses, the stops are across the street. We stayed in a family room (two singles and a double bed) that has been very well used over the years, but has a very convenient layout. Housekeeping does a very good job keeping things clean in this hotel. The highlight of your stay will be the very friendly, helpful and approachable staff. Whether it is the doorman, the front desk staff or the particularly great people working in the lovely bar will make this a great experience.",
+            "time": 1729511417,
+            "translated": false
+        },
+        {
+            "author_name": "Danielle K",
+            "author_url": "https://www.google.com/maps/contrib/106252481540608569621/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFesgWE-J-7lz5vMZVzC7pgAQ5_3zjxGtJZAmg6L_dKX0ZDQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I had a great experience staying at this hotel. The location is prime (make sure to check out Bread 41 close by). The staff was friendly and professional. They really excelled.\n\nThe room was clean, quiet, and well outfitted. Would definitely come back.\n\nAlso the complimentary champagne on arrival (when you book through the hotel) was a great treat.",
+            "time": 1724705676,
+            "translated": false
+        },
+        {
+            "author_name": "Carli (Adventures with Carli)",
+            "author_url": "https://www.google.com/maps/contrib/115214782218586026170/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5WWAgrTk-crJCmTz3OZpl9XRm-3fqY9x09N7ntlkHzLeP4AtM=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Overall had a good stay, rooms were a good size and very clean.  There’s not much directly outside the hotel for food or bars but you can get to a ton of places in a 10-15 min walk.\n\nDo not bring a car here. There is no parking garage, and the one they tried to send me to for discounted parking was inaccessible due to traffic revisions (transit only) which caused me to circle around Dublin for 40 min before giving up and parking on the street.\n\nDay staff was friendly but can’t say the same for the night manager.",
+            "time": 1728278782,
+            "translated": false
+        }
+    ]
+}

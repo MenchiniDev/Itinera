@@ -1,0 +1,66 @@
+{
+    "name": "Domino's Pizza",
+    "rating": 3.2,
+    "reviews": [
+        {
+            "author_name": "qwerty",
+            "author_url": "https://www.google.com/maps/contrib/104699776955991457008/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVApfLDz37CvtI4sr_ovkD4W4HgK7NLWH3x3tYsQnrnddRaN3ZD=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Some weird discrimination going on at this place. When I order delivery to Vodno - everything is fine and the taste is good. But when I ordered takeaway - they stole part of our order ( 6 wings instead of 8, extremely small portions of potatoes ) and replaced some ingredients with cheaper ones ( some cheap cheese instead of mozzarella, etc. ).",
+            "time": 1730195612,
+            "translated": false
+        },
+        {
+            "author_name": "Arben Kadriu",
+            "author_url": "https://www.google.com/maps/contrib/104849994731960296592/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1ZHTOgtSuJ9s3JA3RulsEYvlISlbC6R_1tJN7KS8_fJlgBQt-=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "I agree with most of the comments. Domino's no longer has the quality it once did. The hygiene in their shops is consistently below satisfactory levels. The service could also be improved. The quality used to be good, but now every time I try a pizza, it seems to get worse. I'm very disappointed. As is often the case in North Macedonia, things never seem to change for the better.They don't even have bags, not even branded ones, for their jumbo pizzas.\nIt feels like they don't even care about the reviews.",
+            "time": 1724322133,
+            "translated": false
+        },
+        {
+            "author_name": "Christen Scalfano",
+            "author_url": "https://www.google.com/maps/contrib/104857778357319877774/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWYq8Lt_k__7uLGwx1TsIUTc_PBJFRw-ek4j0wCewIXq4uxYxk=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "Passable, delivery in 35 min. But missing half of the ingredients (Basil, peppers, olives, oregano). Sauce was awful, like ketchup. They were out of many key items it seems, such as thin crust ans vegetables. Wouldn't order again",
+            "time": 1726769225,
+            "translated": false
+        },
+        {
+            "author_name": "Matt Boyer",
+            "author_url": "https://www.google.com/maps/contrib/109148939971717206154/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXQKMQv_2d2jP3docIpqOfh2kxt2m8L0aE9ZJSlbbocv77yHUG9Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "So, I love Domino’s Pizza, and half the time it’s real Domino’s Pizza (and very good Domino’s at that). The problem is that the other half of the time it tastes nothing like Domino’s… literally. Sometimes they don’t have mozzarella and substitute a local cheese , and when that happens it’s not even good Macedonian pizza, it’s just a bummer. We have started calling ahead and asking if they have real mozzarella and we stay away when they don’t, but this last order they said they did but if they did they didn’t put any on our pizza. Just a bummer. One star.",
+            "time": 1722797334,
+            "translated": false
+        },
+        {
+            "author_name": "Gloria Gjorgova",
+            "author_url": "https://www.google.com/maps/contrib/104025516987639044327/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjjjHx4jAUrG_O4lufEwTrTYTkV3xAhLoNvcfliIE6mBe40eM=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "They brought my pizza after 2 hours and 45 minutes, cold and disgusting! I called 3 times and every time they said it would come in 20 minutes. They were very hostile on the phone, the pizza came in plain white boxes not domino’s. Apparently they don’t have their own delivery service anymore and are using a local one?!!!! What???",
+            "time": 1728322909,
+            "translated": false
+        }
+    ]
+}

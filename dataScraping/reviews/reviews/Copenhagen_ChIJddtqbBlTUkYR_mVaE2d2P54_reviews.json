@@ -1,0 +1,66 @@
+{
+    "name": "Christian IV",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Laura Wild",
+            "author_url": "https://www.google.com/maps/contrib/103046507731298744578/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFnJr-pf1lQ-BNHzf4L76gEnpxdmIk-76ohqB9Fv1Fcrm0N7s=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great place to stay.\nThe rooms and bathrooms are pretty basic but it is very much elevated by the communal space and the friendly staff on reception. We were on floor 5 (there is a lift) and it was quiet. There is a secure luggage room. There is a free wine between 5-6pm! The location is great.",
+            "time": 1722380024,
+            "translated": false
+        },
+        {
+            "author_name": "Adam K",
+            "author_url": "https://www.google.com/maps/contrib/114194329719747480135/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmvCdXGabUVlKx-mSiZABs_AjoeOY-PO_CHWW5OGQLYqpQBNCD=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We really enjoyed our stay in the hotel. The room was big and comfortable, staff was super friendly and helpful. The location is really convenient, plus the hotel offers a bike rental which is a big plus.",
+            "time": 1724019470,
+            "translated": false
+        },
+        {
+            "author_name": "Simon Dawe",
+            "author_url": "https://www.google.com/maps/contrib/102440999001543384838/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfjWuUQnuGwSTJqjBn0rRZsoXAe5i3IKNPOf9xtS3kKk0xNg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Superb hotel. Wonderful staff, location and rooms. Traditional hospitality. Loved it and will be back. Only 10 minutes sliw walk to Nyhavn.",
+            "time": 1723493594,
+            "translated": false
+        },
+        {
+            "author_name": "Thomas Tutin",
+            "author_url": "https://www.google.com/maps/contrib/116637822543900514742/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8HEaeLj_ZO4iaKDBS67GOBjyEvtzvuHgSTkBn0-XbY8dhNA5w=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "A truly horrific experience during my 3 night stay here in February 2024. From brown water, to a broken toilet, the sink not working, 1/10th of a shower head working and maintenance walking in on you without knocking. The only positive from my duration is the location, but this does not make up for the hassle we’ve had to deal with. Strongly do not recommend.",
+            "time": 1715116099,
+            "translated": false
+        },
+        {
+            "author_name": "Gábor Varga",
+            "author_url": "https://www.google.com/maps/contrib/113313851234095543589/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8Up6Ed-dLeKgVwcnaluvZpo3NViV1B0bKfhZvKTvBgGtgc4WxaA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "The rooms may not be the newest, but they were clean and it was fine staying there.\nThe staff was happy and kind.\nThe location is very good you can roam around in the city as it is close to the center.\nAs for pricing they even go below Airbnbs. So it is a great value for the price.\nWould recommend for sure!",
+            "time": 1706463851,
+            "translated": false
+        }
+    ]
+}

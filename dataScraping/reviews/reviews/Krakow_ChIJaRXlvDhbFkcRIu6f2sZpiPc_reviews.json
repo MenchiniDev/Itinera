@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Galaxy",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Allan Skovbølling",
+            "author_url": "https://www.google.com/maps/contrib/104988403198367306621/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1AoKFFasQmju7VipRfZ4dn4SsLAtq86uV9aZ0cDCg00niOLE8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We stayed 4 nights at Hotel Galaxy. The room was nice, cleaned daily, and we received fresh towels. In my opinion, the bed is a bit too hard. The staff is friendly and service-minded. The breakfast is good and varies from day to day. The distance to the city is also convenient, just a 20-minute walk to reach the center.",
+            "time": 1729189661,
+            "translated": false
+        },
+        {
+            "author_name": "Mie Mari",
+            "author_url": "https://www.google.com/maps/contrib/110706630176272495469/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeFXYXRavWc-7snPCSs2UaI48yLjbKxMet9EUD7EEB1bXqPFH5=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "The staff is helpful and friendly. Very attentive. The spa was amazing! The pool area was beautiful, but some tiles were missing. The room was nice, but basic. Some dusting is needed. We wanted a movie night, but it was not possible to watch anything in English or cast from our phones (no smart TV).\n\nThe common areas were OK. Colourful, but neither cosy or hip atmosphere. Cramped. Beautiful Christmas though.\n\nI would have rated the hotel 3 if not for the amazing service and spa treatments",
+            "time": 1731957583,
+            "translated": false
+        },
+        {
+            "author_name": "Rose Faes",
+            "author_url": "https://www.google.com/maps/contrib/113680518249827156719/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjNNDAHq2PS5fIEpxqcKGz_QCwJ9o0JHnpXilQNUHCbFg9jQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We had a pleasant stay on this hotel Galaxy. Good breakfast &  lots of choice. Very clean room. Easy access to some tourist spots. Friendly staffs especially Sandra who was at the reception when we checked in & out. And she (Sandra) on the concierge too,  was very helpful to plan our tours.",
+            "time": 1727006205,
+            "translated": false
+        },
+        {
+            "author_name": "Wietse 1",
+            "author_url": "https://www.google.com/maps/contrib/106698040896528764560/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaSmU021_von5rwikQDOWIj5xzekJI00M0B5p5fO8MoTDqVQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "We booked this hotel for the reason that there would be a secured bicycle parking, but there was not. It was possible to store our bikes in the underground parking lot wich was only closed during the night. As you understand we didn’t put our 5000 EUR bike at this open place. According to the website the hotel should be “bike friendly”\n\nBecause of this we stored our bikes in the hotel room.\n\nFor the rest the hotel is fine but a little bit outdated. Breakfast is fine but the room has no athmosfere at all.",
+            "time": 1722324834,
+            "translated": false
+        },
+        {
+            "author_name": "Sys Vilmann",
+            "author_url": "https://www.google.com/maps/contrib/116628803265930801774/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXrMvRI7vdiyiA1aacVSM0ygFmLMgfWzmOqcvT0xuyOsEjgw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Vi had a suite. It was very good. Everything was working. Except for the bathroom door, that could't close.:-)\nOur kids had a normal room. The water in the bath was cold, the aircondition wasn't working all the time. The sounds from the nextdoor neightbor was very loud, so the walls was too Thing.\nThe the spa and pool was very nice.",
+            "time": 1721583366,
+            "translated": false
+        }
+    ]
+}

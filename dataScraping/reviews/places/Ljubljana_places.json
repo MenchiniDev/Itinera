@@ -1,0 +1,1070 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0554002,
+                "lng": 14.50357
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0567362802915,
+                    "lng": 14.5049756802915
+                },
+                "southwest": {
+                    "lat": 46.0540383197085,
+                    "lng": 14.5022777197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Slamič Ljubljana",
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115058577650907266508\">Mario Foschia</a>"
+                ],
+                "photo_reference": "AdDdOWptaI0AiS-1rnunmf0ORwdlQoOVo31GFZ8BL11XPKoe1JtvAn-EaEprO1T7dToFHJbPqW1JexhefXcTM3lFjg8yR-fzjY5cwcApa7kzjKCCrC6zmTHJ2utCrK77Y4dDOi4v4iCyGVSYerzDY1Sq6UQRPjEgtUBpC1USSDI_1mexhCU-",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ7xN0OJ4yZUcRDc6cOb94O3s",
+        "plus_code": {
+            "compound_code": "3G43+5C Ljubljana, Slovenia",
+            "global_code": "8FRP3G43+5C"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ7xN0OJ4yZUcRDc6cOb94O3s",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 593,
+        "vicinity": "Kersnikova ulica 1, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0537892,
+                "lng": 14.5080293
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.05504683029151,
+                    "lng": 14.5093403802915
+                },
+                "southwest": {
+                    "lat": 46.05234886970851,
+                    "lng": 14.50664241970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "City Hotel Ljubljana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1192,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111967308380612120899\">City Hotel Ljubljana</a>"
+                ],
+                "photo_reference": "AdDdOWpsuyGWItCme4EIV5JqjYDQc0tYj06_c_mBmcrd9fBdWDyLoZ6-GZfwnk0ej_FPl6UsfyoxsJPM0uGNBpNRwRBGZN_b0DAZhRnzIC6Ur5Xs_VVeBKDS_k8nUN7TXHLn5bW_n1ezVF5usMRVxiC60zdFURrCOmBeazFUOrS_eCxs8IzP",
+                "width": 2118
+            }
+        ],
+        "place_id": "ChIJcZ_fg50yZUcRtN0txxIa75A",
+        "plus_code": {
+            "compound_code": "3G35+G6 Ljubljana, Slovenia",
+            "global_code": "8FRP3G35+G6"
+        },
+        "rating": 4.5,
+        "reference": "ChIJcZ_fg50yZUcRtN0txxIa75A",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3111,
+        "vicinity": "Dalmatinova ulica 15, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.06635499999999,
+                "lng": 14.5509877
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.06769783029149,
+                    "lng": 14.5525334802915
+                },
+                "southwest": {
+                    "lat": 46.0649998697085,
+                    "lng": 14.5498355197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu Plaza Hotel Ljubljana",
+        "photos": [
+            {
+                "height": 572,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108188385299549873601\">Radisson Blu Plaza Hotel, Ljubljana</a>"
+                ],
+                "photo_reference": "AdDdOWprNZC63__6CqFBRTOnUs9_PKNXrMyvf6jSptdNr2BwK2GwEE5Y92o7EQa0NxtQRdq2N7is3GU_vYb596OkjTDK3Zkek1Qpv0D71ce73OTKoQgMdtDhGaITJIoyp9s0-rl6HPCTBPTQBcqumMintdcIiOL6k8RaxMQPHZyiJQ5iDzOJ",
+                "width": 1017
+            }
+        ],
+        "place_id": "ChIJNxeMQ2oyZUcRjd6pDGmwE04",
+        "plus_code": {
+            "compound_code": "3H82+G9 Ljubljana, Slovenia",
+            "global_code": "8FRP3H82+G9"
+        },
+        "rating": 4.5,
+        "reference": "ChIJNxeMQ2oyZUcRjd6pDGmwE04",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3269,
+        "vicinity": "Bratislavska cesta 8, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0815681,
+                "lng": 14.5135688
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0830819302915,
+                    "lng": 14.5148564802915
+                },
+                "southwest": {
+                    "lat": 46.0803839697085,
+                    "lng": 14.5121585197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Austria Trend Hotel Ljubljana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104121717955700374975\">Austria Trend Hotel Ljubljana</a>"
+                ],
+                "photo_reference": "AdDdOWpcIK0cL1p3aH06z59PL2YIgibj3u5pzIpTLFz9l83dbGISA55PVTFcyeEkFYDb4-BVfsZFRZAGXRizdBd470aXE2EtBHWOfIL_IhzW2oAv_6By0pUPTy55xmBk132B7cZFBs-jQ0yZneP2bjJE1bwmpsoRTb__rtNCywXdkxz-78ub",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ98OKAegyZUcRbPMux3lw1_0",
+        "plus_code": {
+            "compound_code": "3GJ7+JC Ljubljana, Slovenia",
+            "global_code": "8FRP3GJ7+JC"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ98OKAegyZUcRbPMux3lw1_0",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2939,
+        "vicinity": "Dunajska cesta 154, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.09755859999999,
+                "lng": 14.5190895
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0989469302915,
+                    "lng": 14.5203423802915
+                },
+                "southwest": {
+                    "lat": 46.0962489697085,
+                    "lng": 14.5176444197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Ljubljana Resort Hotel & Camp",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 853,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108967250430450214643\">Ljubljana Resort Hotel &amp; Camp</a>"
+                ],
+                "photo_reference": "AdDdOWq0DRmKvj1UaedFt_MsEYs7JR_JvLpdtI4cpgcSjmTwwms-CfZ0SMVpSpF35QSnMJ4H44jybJsMLVNUtMaRII0H5iqpW_AWJZ1MnEuuCOvWDAhOECkdvUn9b0mY7rrHSfyf2EOQR8TfnsFiW87eY4BABFM_ofpoZerJAf_SrfcK1S6q",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJiQ0suCMzZUcRih5mYnW0xmg",
+        "plus_code": {
+            "compound_code": "3GX9+2J Ljubljana, Slovenia",
+            "global_code": "8FRP3GX9+2J"
+        },
+        "rating": 3.5,
+        "reference": "ChIJiQ0suCMzZUcRih5mYnW0xmg",
+        "scope": "GOOGLE",
+        "types": [
+            "campground",
+            "lodging",
+            "park",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1884,
+        "vicinity": "Dunajska cesta 270, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0449168,
+                "lng": 14.4735361
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0462505802915,
+                    "lng": 14.4749738802915
+                },
+                "southwest": {
+                    "lat": 46.0435526197085,
+                    "lng": 14.4722759197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Azur Rooms Ljubljana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3060,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106131401369493713164\">H. P.</a>"
+                ],
+                "photo_reference": "AdDdOWpjMRmtjO3Cp-XcRqL9rXqmS-q6ZfRVq_C0AP_eVhVkBVwW1QNjhW1bNBy_R5fBhvHJomzwCzE0aj9u_LNtvfGFAg6zCr2zMfiVHjDPBsiYnp8m5vpytxe1Q1Cpremy13m9aywO01jxrltcS0unS7O9nMBduFFR3DN64_nJZVa_RnsR",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJMa8nJUwtZUcRNnKw0-th_Rc",
+        "plus_code": {
+            "compound_code": "2FVF+XC Ljubljana, Slovenia",
+            "global_code": "8FRP2FVF+XC"
+        },
+        "rating": 4.3,
+        "reference": "ChIJMa8nJUwtZUcRNnKw0-th_Rc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 463,
+        "vicinity": "Sattnerjeva ulica 2, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0525375,
+                "lng": 14.5037719
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0539355802915,
+                    "lng": 14.5050247302915
+                },
+                "southwest": {
+                    "lat": 46.0512376197085,
+                    "lng": 14.5023267697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Best Western Premier Hotel Slon",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1331,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109873588074201554811\">Best Western Premier Hotel Slon</a>"
+                ],
+                "photo_reference": "AdDdOWp0KeTK6k43w5cAPefxLG0eTLPmHxgwHEblpPBXGoky2K-JCSjiFwrGvt6WVFn4p29k044awUdwqy7_rFzo6nDqt0IzstRjWwxwouG7YHsBd8QsDxmaAfaBEFCGBc1vpFjRYONV2ynsEnVmrlj2iBlXMQ1NjUYLC-5oNl_sWHt6Zks3",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJqZBckmEtZUcRzr6ZRWzwfX4",
+        "plus_code": {
+            "compound_code": "3G33+2G Ljubljana, Slovenia",
+            "global_code": "8FRP3G33+2G"
+        },
+        "rating": 4.4,
+        "reference": "ChIJqZBckmEtZUcRzr6ZRWzwfX4",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2696,
+        "vicinity": "Slovenska cesta 34, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.04733969999999,
+                "lng": 14.5019338
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0486277802915,
+                    "lng": 14.5032624302915
+                },
+                "southwest": {
+                    "lat": 46.0459298197085,
+                    "lng": 14.5005644697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Mrak",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113984178840873599057\">A-Lo Alto</a>"
+                ],
+                "photo_reference": "AdDdOWqJaCGpot46FW0SwwP_dTySXr-0Pn4BvBeLjSpCIEasMYMgCaNvcHC8-I_21jrFydGDX1Ms7tj0EW-4HY1XY7NW9qBpvehxKzKsee8F_p-sWqEDXCZYnaVElAklJjMoAKGpUiY1Rj0EE3Cvu7dL6rWYqSYc8Fk0DQPaGNM291qwcd5w",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJd2yXKWQtZUcRvN44rKGIdjc",
+        "plus_code": {
+            "compound_code": "2GW2+WQ Ljubljana, Slovenia",
+            "global_code": "8FRP2GW2+WQ"
+        },
+        "rating": 4.5,
+        "reference": "ChIJd2yXKWQtZUcRvN44rKGIdjc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 583,
+        "vicinity": "Rimska cesta 4, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0495834,
+                "lng": 14.5058403
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0513794302915,
+                    "lng": 14.5076384802915
+                },
+                "southwest": {
+                    "lat": 46.0486814697085,
+                    "lng": 14.50494051970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Vander Urbani Resort",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5792,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115959800529907878514\">Vander Urbani Resort a Member of Design Hotels</a>"
+                ],
+                "photo_reference": "AdDdOWpdA85rQlkfUGIGlxmEvDm1imOsY5SbsFg_ieBOtFaNtmTGr93uLFVVLWG_MXVyPnU0hwOrJr4AAblocFvSUkD2rWF9hkkqVgO0_CQs_dB02sW_3ecqduls_HPBH0k72d1upqedHrn3ZgbH9cs-26kn9BLJbVsdO7YQJYBoUIYEMbBd",
+                "width": 8688
+            }
+        ],
+        "place_id": "ChIJb1HpnGMtZUcRtIrg-zRGmXU",
+        "plus_code": {
+            "compound_code": "2GX4+R8 Ljubljana, Slovenia",
+            "global_code": "8FRP2GX4+R8"
+        },
+        "rating": 4.1,
+        "reference": "ChIJb1HpnGMtZUcRtIrg-zRGmXU",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 539,
+        "vicinity": "Krojaška ulica 8, Krojaška ulica 6, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0433057,
+                "lng": 14.5045951
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0446862802915,
+                    "lng": 14.5059378802915
+                },
+                "southwest": {
+                    "lat": 46.0419883197085,
+                    "lng": 14.5032399197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Sax pub",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109744369600117520527\">SAX PUB</a>"
+                ],
+                "photo_reference": "AdDdOWqXL99mBoye2qa2ej4oiV2lFwON8PBQdyz5ZC4PkWIv3P08i2LDuAzau93LNse-6RNKX1dtAmhFGMQXxGn9MBWIh8jMLYxS2LrYUM0ThkKNA-UR7wyboVUcmj3QNx6Sg10WOjmJHh3WeSW6IKX_P41fmJVtqLKsTC9JNCaGUKUYUP07",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ75Id7W8tZUcR_HiJy3JojMU",
+        "plus_code": {
+            "compound_code": "2GV3+8R Ljubljana, Slovenia",
+            "global_code": "8FRP2GV3+8R"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ75Id7W8tZUcR_HiJy3JojMU",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 601,
+        "vicinity": "Eipprova ulica 7, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.06418319999999,
+                "lng": 14.5274531
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.06541893029149,
+                    "lng": 14.5289098302915
+                },
+                "southwest": {
+                    "lat": 46.06272096970849,
+                    "lng": 14.52621186970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cubo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112014265549475226407\">Dragan Soprenic</a>"
+                ],
+                "photo_reference": "AdDdOWrjDv9wT_olPUIhrkbVxn33S4QPoVm_i8pzzRP_3akw7k3cq4bGpattvlIUJrDqogdbOpObon5u-UCAC9JASL4meOOQNWIM3FA3o9yuVpKVlLJZvTN-b3hjsQoI4CRrQEkDNQ2awrBb2HqBlzm3Ey8eo61ZM7gHiuiqvzx75mWzHqNh",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJdWTxvIkyZUcRtT6eezb7hNU",
+        "plus_code": {
+            "compound_code": "3G7G+MX Ljubljana, Slovenia",
+            "global_code": "8FRP3G7G+MX"
+        },
+        "price_level": 3,
+        "rating": 4.8,
+        "reference": "ChIJdWTxvIkyZUcRtT6eezb7hNU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 975,
+        "vicinity": "Šmartinska cesta 55, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0647489,
+                "lng": 14.5435062
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0658800302915,
+                    "lng": 14.5449456802915
+                },
+                "southwest": {
+                    "lat": 46.0631820697085,
+                    "lng": 14.5422477197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Kratochwill",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100306319013473091915\">Tine Mezgec</a>"
+                ],
+                "photo_reference": "AdDdOWpLS5DYR0hyd3D-u7xi0cn3OsBVM08C4RQpPPXPTWuv_pbfIZAVrHdfy0RFPqxYvTwgWvXPVXeg9y5sz_rom9R6YJ5sPNZyULXC_gqjlo-hbn5RhgCtAhC3aX1-qjL-dl-47MQS9eR6o5exUw0zKrs2Ak7qN7G88ZY8-UcQuAJ202Fy",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJCbE4eWcyZUcR0vLE8Sn_AtU",
+        "plus_code": {
+            "compound_code": "3G7V+VC Ljubljana, Slovenia",
+            "global_code": "8FRP3G7V+VC"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJCbE4eWcyZUcR0vLE8Sn_AtU",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3062,
+        "vicinity": "Šmartinska cesta 152, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.05342239999999,
+                "lng": 14.522771
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.05466178029149,
+                    "lng": 14.5242573802915
+                },
+                "southwest": {
+                    "lat": 46.05196381970849,
+                    "lng": 14.5215594197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gostilna štorklja Simon Zgonc s.p.",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117503905209789204257\">Fredi Radojkovic</a>"
+                ],
+                "photo_reference": "AdDdOWo1LLPG-R3Dum_6Qs4NZN-s21WIIuTJT_sslDUcXBczk80e_NMN3oe1PfQk06fAlVh_i6F31I6LRsaLRbGh0ra7dXba716KyU8g1YYIwZnOAJIA3UzGoLyGRmfb1ea12sahHZiio1t7yZOSrkS5uHbf3KU3ZG33wOK2ACJl-16_tOqW",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJdRG_QYAyZUcRLBweQKt-JVU",
+        "plus_code": {
+            "compound_code": "3G3F+94 Ljubljana, Slovenia",
+            "global_code": "8FRP3G3F+94"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJdRG_QYAyZUcRLBweQKt-JVU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 351,
+        "vicinity": "Šlajmerjeva ulica 1a, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.03777799999999,
+                "lng": 14.4787443
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.03907098029149,
+                    "lng": 14.4799548302915
+                },
+                "southwest": {
+                    "lat": 46.03637301970849,
+                    "lng": 14.4772568697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restavracija Via Bona",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 576,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111575340796214558635\">Restavracija Via Bona</a>"
+                ],
+                "photo_reference": "AdDdOWqY8cUmgascXuZX_7mHm7B-SdxSKVJk2uCTekTMKkVrlfY36X5IdSz6OhAGnLDxDSlNmpGEMtJkqsynYdAZ7Abdq3r45RULMtFcIYhpkdeI4l87_WWTqb-Se8xaBO1Dw050Y9LjdaWcVjbI3lADdfE_ght9HuxaGgxO59IGJCVUU5xZ",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJCx0Y9EctZUcRhsELP8KjfVA",
+        "plus_code": {
+            "compound_code": "2FQH+4F Ljubljana, Slovenia",
+            "global_code": "8FRP2FQH+4F"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJCx0Y9EctZUcRhsELP8KjfVA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1158,
+        "vicinity": "Tbilisijska ulica 59, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0558606,
+                "lng": 14.5469039
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0571302802915,
+                    "lng": 14.5478579302915
+                },
+                "southwest": {
+                    "lat": 46.0544323197085,
+                    "lng": 14.5451599697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Restaurant and hotel Portal",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 848,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100773617236833686244\">Gostišče Portal</a>"
+                ],
+                "photo_reference": "AdDdOWrCwEPAfzoPpB_V03UwUeWnz4deUmCsjMNdCtB6x22nsKJEw7ovyLSCZOYUm4mkuKEnoVyehV4Ed5WfBbsv0nR8uKwMBOWR0pnTLAUeauBPBQCoycqwXc_ePuKhwuH9g1evcLvpW15_6VzRXqhyY7Bpjxho7oMjjj6h2KKw8uuHFK9Z",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJxV70MnIyZUcRVtrGi1fbJiY",
+        "plus_code": {
+            "compound_code": "3G4W+8Q Ljubljana, Slovenia",
+            "global_code": "8FRP3G4W+8Q"
+        },
+        "rating": 4.3,
+        "reference": "ChIJxV70MnIyZUcRVtrGi1fbJiY",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2719,
+        "vicinity": "Zaloška cesta 110, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0502726,
+                "lng": 14.5074824
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0518711802915,
+                    "lng": 14.5087651802915
+                },
+                "southwest": {
+                    "lat": 46.04917321970851,
+                    "lng": 14.5060672197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gostilna Sokol",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 533,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105517987860009668613\">Gostilna Sokol</a>"
+                ],
+                "photo_reference": "AdDdOWoqnJ2c9rxUzFlfAqlTw7PvmzOAtq164EEtaYfoevkvB_rXlvqojZaSYmLR9EMdyXQpF7WAq_pBDUVxmYBVL2aNkA1mVc7nkfXLQXSrGepgWgiwXAkcw_kNdEPSevfHzcv5hLEpeR-SNN0o3VArn3QTYKbNuDsyEkVm-Vz4UDQm8kv7",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJi6crDmMtZUcREgEx-K9PqL0",
+        "plus_code": {
+            "compound_code": "3G24+4X Ljubljana, Slovenia",
+            "global_code": "8FRP3G24+4X"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJi6crDmMtZUcREgEx-K9PqL0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5296,
+        "vicinity": "Ciril-Metodov trg 18, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0390373,
+                "lng": 14.4697811
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.04041643029149,
+                    "lng": 14.4711953802915
+                },
+                "southwest": {
+                    "lat": 46.03771846970849,
+                    "lng": 14.4684974197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sputnik",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2252,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116950000210713330882\">Joze Zugelj</a>"
+                ],
+                "photo_reference": "AdDdOWq2Mte4Tgqbrt34bSwwSpaQViDtFgUcU-jluIUdkLoVhBKCfV8B57SSBPu0DHH0FJhE7LELSB0bYShbfiQVw_GfIFrGImxge4uB9vykp-nELKxy7eMjsG4pE6jGdx1gE5PAzvdsrBrd6YAupzcoznQz-Y4IHuPBvx67bw7RDTj-arHW",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJacNK9zUtZUcRwNg60w-1r-g",
+        "plus_code": {
+            "compound_code": "2FQ9+JW Ljubljana, Slovenia",
+            "global_code": "8FRP2FQ9+JW"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJacNK9zUtZUcRwNg60w-1r-g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "cafe",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1575,
+        "vicinity": "Tržaška cesta 128, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.0463957,
+                "lng": 14.5043784
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.04778033029149,
+                    "lng": 14.5057369802915
+                },
+                "southwest": {
+                    "lat": 46.0450823697085,
+                    "lng": 14.5030390197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restavracija Shambala",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 683,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103304055558063149224\">Restavracija Shambala</a>"
+                ],
+                "photo_reference": "AdDdOWoXO6o2dJVm51t5wBs8GSFoLZOfj5X94Y1D8--aSkc9nKB3HXeG_bZ2nJcAIcWOFlOfdbQDxUIqjsvhCI14QQrIeKxMT-mXWUW7CYl93Ez1I7hY5VXTaa1O4LsaK4zsPT_X3FLCETFvF4bkpCl85oZDcxskYQMx0l4b4GGscLTm0GzO",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJu7xdqmUtZUcRmBAx4Mc_nOg",
+        "plus_code": {
+            "compound_code": "2GW3+HQ Ljubljana, Slovenia",
+            "global_code": "8FRP2GW3+HQ"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJu7xdqmUtZUcRmBAx4Mc_nOg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 656,
+        "vicinity": "Križevniška ulica 12, Ljubljana"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 46.0492777,
+                "lng": 14.5061881
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.05123698029149,
+                    "lng": 14.5078185302915
+                },
+                "southwest": {
+                    "lat": 46.04853901970849,
+                    "lng": 14.5051205697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gujžina - Slovenska kulinarika na vegetarijansko veganski način",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 2272,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115162472192839975399\">Zlatko Leko</a>"
+                ],
+                "photo_reference": "AdDdOWq5BCxsyfywaWGagF76J3DKPM0Qc8a8-OYbVfiMFp_gkWlTDBSXSGnhwfS9AV_5hDv2o5JC95FiZzMWAIs4bVvhjruxxFnSE59FR8B3ud8usAKpqdox62S8QDJSiEeH5nxQtXaYP7I5YZlbTNPY_4bG5wByKpcAb4sZkCzeDNswpyL3",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJJ8VtKHwtZUcRyP6pyoLR8Nc",
+        "plus_code": {
+            "compound_code": "2GX4+PF Ljubljana, Slovenia",
+            "global_code": "8FRP2GX4+PF"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJJ8VtKHwtZUcRyP6pyoLR8Nc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1238,
+        "vicinity": "Mestni trg 19, Ljubljana"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 46.05017710000001,
+                "lng": 14.5059017
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.0514338802915,
+                    "lng": 14.5066644802915
+                },
+                "southwest": {
+                    "lat": 46.0487359197085,
+                    "lng": 14.5039665197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Vizija gostinstvo d.o.o.",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1997,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116449385232099790792\">Vizija Gostinstvo d.o.o.</a>"
+                ],
+                "photo_reference": "AdDdOWoQjrR1mwrQemxEaT7EsLKyFvnC0SpshGHzJUezpAQFKsTIWESE1Slh9Pg0bphbV5kPg91fzAOCylOL9rlEyMnCr071_CogsZZz3EnVs-S70cLfcgwmQPOGmcWz4n8JcJkkPI7EaL-v0t9JQN1McC8ixOlp775SA3xwjteRJppMCHuG",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJY4bKomMtZUcR7A7kJ2JnUCk",
+        "plus_code": {
+            "compound_code": "3G24+39 Ljubljana, Slovenia",
+            "global_code": "8FRP3G24+39"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJY4bKomMtZUcR7A7kJ2JnUCk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 659,
+        "vicinity": "Cankarjevo nabrežje 7, Ljubljana"
+    }
+]

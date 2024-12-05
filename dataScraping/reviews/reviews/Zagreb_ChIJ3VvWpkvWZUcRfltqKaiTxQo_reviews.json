@@ -1,0 +1,66 @@
+{
+    "name": "Bon Appetit",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Jelena D",
+            "author_url": "https://www.google.com/maps/contrib/106697435380411989349/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5iu2zCJZ2jAcKrMvkQWmyPjlqfDDjwz6lJiFCTXJoGsQlkmOT=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Good food, beautiful view and balcony.. open and flexible host to serve all your needs and special demands.. for business events, presentation, lunch, dinner... I would come back 💖",
+            "time": 1584045608,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan Tutić (RoachCRO)",
+            "author_url": "https://www.google.com/maps/contrib/117432300050502986745/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXx65LQmwW5uv4havVopUukeyYq5eYc7SyxjWqn6MG1EmEBBOF=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "Went to a wedding there. Really cozy place. Great for family gathering. Food was very delicious. Excellent service.",
+            "time": 1634893628,
+            "translated": false
+        },
+        {
+            "author_name": "Juraj Mucko",
+            "author_url": "https://www.google.com/maps/contrib/117269695671835590481/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcaMyi0Md0unD9GbsxPMiokfBd6RzEveodOinfNtpNLOKwQg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Nice, spacious yet cosy with background music that you hardly notice. Fine time spent there.",
+            "time": 1513783127,
+            "translated": false
+        },
+        {
+            "author_name": "Marko N",
+            "author_url": "https://www.google.com/maps/contrib/108337990686995133469/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWul2XYkKxSGGbQ5dm5juasyLaSF6KAmY6IkDxm_FsI_bbgTh0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "6 years ago",
+            "text": "Average food but terrible service. Rude and slow waiters, no receipt, outdated menu on web page",
+            "time": 1513712870,
+            "translated": false
+        },
+        {
+            "author_name": "Jasna Bajer",
+            "author_url": "https://www.google.com/maps/contrib/107160189269408246291/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoROdxI2eSSa__WTsoIq2E_B0gTr83bM4Ps8QuepV6nHUZGtsq=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Beautiful view, nice ambient, great and delicious food!",
+            "time": 1543753612,
+            "translated": false
+        }
+    ]
+}

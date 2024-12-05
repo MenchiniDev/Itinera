@@ -1,0 +1,1032 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3700867,
+                "lng": 4.907651
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.37137733029149,
+                    "lng": 4.909046680291502
+                },
+                "southwest": {
+                    "lat": 52.3686793697085,
+                    "lng": 4.906348719708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Ibis Amsterdam Centre Stopera",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110337446553703503175\">Ibis Amsterdam Centre Stopera</a>"
+                ],
+                "photo_reference": "AdDdOWpOLv_5jc-qPSo3ct_iD06RWNlMiz7PfCb5HCOtK1lrso25jWpDk9t0p5rmshmAK1EPGNN0C03i3L2euEz0oXH0mzALceb9g8ohZ5oeonYMfTVk42igbxuoX-o6BrRdZtJrylH0nvQpSaYHHfi64CafTTqPYgVSubK8rtPfWer8JnMs",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJyYzEx7wJxkcRLiQturn0qeA",
+        "plus_code": {
+            "compound_code": "9WC5+23 Amsterdam, Netherlands",
+            "global_code": "9F469WC5+23"
+        },
+        "rating": 4.1,
+        "reference": "ChIJyYzEx7wJxkcRLiQturn0qeA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2992,
+        "vicinity": "Valkenburgerstraat 68, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3668376,
+                "lng": 4.898689899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3682405802915,
+                    "lng": 4.900059480291502
+                },
+                "southwest": {
+                    "lat": 52.36554261970851,
+                    "lng": 4.897361519708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Eden Hotel Amsterdam",
+        "photos": [
+            {
+                "height": 5339,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112791425101138332789\">Eden Hotel Amsterdam</a>"
+                ],
+                "photo_reference": "AdDdOWr4EeaTjZj9HBj9UmSsW99pXqXsDdkdJO77XUyjiHskUmnY0yXSHIxlfuugKNCN48dP1GSTeOp81QnnpNAQDPgCVemlIYcgpN5EWPHYpE5dL6ZpupSn3PPi87qgzK28oNRU2NtRJnxzNNCKm05VSw4rc-I83ahUYAUwTusEK10t8QMx",
+                "width": 8000
+            }
+        ],
+        "place_id": "ChIJ-1hUL74JxkcRnLpTBTbfH5o",
+        "plus_code": {
+            "compound_code": "9V8X+PF Amsterdam, Netherlands",
+            "global_code": "9F469V8X+PF"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ-1hUL74JxkcRnLpTBTbfH5o",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3624,
+        "vicinity": "Amstel 144, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3702272,
+                "lng": 4.8967209
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.37149338029149,
+                    "lng": 4.898024130291502
+                },
+                "southwest": {
+                    "lat": 52.3687954197085,
+                    "lng": 4.895326169708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu Hotel, Amsterdam City Center",
+        "photos": [
+            {
+                "height": 2560,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107666880606759875181\">Radisson Blu Hotel, Amsterdam City Center</a>"
+                ],
+                "photo_reference": "AdDdOWrIcv8c5IRx_iR-tEVm9WuTU8YsX0KmSsNjx-yx6ZWmgN8E1MQAWartZkgp2Ow__AqIg0sli2CLITeQQZoIpzokNelG3dTAeRisa1LwfWebqNc-q3bLm4vpx7BT3xce92NQ--5ry06oivNTUyoWTNI6AQX6PYgufMOKXvPAEe5qzVyO",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJ1SrebL8JxkcRjzT1Q0KtSnY",
+        "plus_code": {
+            "compound_code": "9VCW+3M Amsterdam, Netherlands",
+            "global_code": "9F469VCW+3M"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ1SrebL8JxkcRjzT1Q0KtSnY",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "gym",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2539,
+        "vicinity": "Rusland 17, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.36109789999999,
+                "lng": 4.915759499999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.36237613029149,
+                    "lng": 4.916976980291501
+                },
+                "southwest": {
+                    "lat": 52.35967816970849,
+                    "lng": 4.914279019708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Arena",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2612,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112323305376428863312\">Hotel Arena</a>"
+                ],
+                "photo_reference": "AdDdOWoIqfX8gbjQ6tv8wBcd8Fa1DORrkWXQlK1JcU-Or8Ipyt4qZz_GI8fA6v4DdLwBxJ7vI1nGaNWjK-qdzLiL1sGUjMJvIMIPWvBln_rNuuZ05lQrESH4IF8TrhepZD-bIRsZzLKFbaCeH7yBBeViTv54PwrtitNzvAKVxdAxVVfOv-Y",
+                "width": 5666
+            }
+        ],
+        "place_id": "ChIJ7_I7j54JxkcRJmoGAFRdW2M",
+        "plus_code": {
+            "compound_code": "9W68+C8 Amsterdam, Netherlands",
+            "global_code": "9F469W68+C8"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ7_I7j54JxkcRJmoGAFRdW2M",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2572,
+        "vicinity": "'s-Gravesandestraat 55, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.37709,
+                "lng": 4.8979799
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3786454802915,
+                    "lng": 4.899434030291502
+                },
+                "southwest": {
+                    "lat": 52.3759475197085,
+                    "lng": 4.896736069708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Park Plaza Victoria Amsterdam",
+        "photos": [
+            {
+                "height": 582,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102982234840537020640\">Park Plaza Victoria Amsterdam</a>"
+                ],
+                "photo_reference": "AdDdOWqLWHR0pyc1y1_zZax4R0TQ2Dj3iopUcqlqM2zGBzn0f52WIdaj8-VeXcDwKW1SjNDlx1xXV3j2v1BD1Kl_C9EQiFnHZ3DSrOv2jAhiL_MWBVDUtHQ5vGltchpeyzioB9Zr9s2HkrSrVhvw7ThwC6-CDMJ_YT3umcSvnk3RzKz5_UJO",
+                "width": 1023
+            }
+        ],
+        "place_id": "ChIJld6hH7gJxkcREBPTrkmeYe0",
+        "plus_code": {
+            "compound_code": "9VGX+R5 Amsterdam, Netherlands",
+            "global_code": "9F469VGX+R5"
+        },
+        "rating": 4.4,
+        "reference": "ChIJld6hH7gJxkcREBPTrkmeYe0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "gym",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4193,
+        "vicinity": "Damrak 1-5, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3754828,
+                "lng": 4.8930435
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.37688628029149,
+                    "lng": 4.894261180291503
+                },
+                "southwest": {
+                    "lat": 52.3741883197085,
+                    "lng": 4.891563219708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "INK Hotel Amsterdam - MGallery",
+        "photos": [
+            {
+                "height": 664,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103936735529935401112\">INK Hotel Amsterdam - MGallery</a>"
+                ],
+                "photo_reference": "AdDdOWoyLYS0J-q_OXvA5fiuFG6gjfz-kBEb9SVUF2KEf56BXDdSkcCyhKiyAWsnWKNsGPlzKTYeLw3M5VOT8uOspzDpI6wkYqiCQdxssnIdXoPPuBt_bIzsSTnfnE_WK4EE1I3w_q8zbSAKGAtr-2GFkuiCPsIIJCZJO0Lr9WElvpsDwenx",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJn37GsscJxkcRhWExbZMC1KA",
+        "plus_code": {
+            "compound_code": "9VGV+56 Amsterdam, Netherlands",
+            "global_code": "9F469VGV+56"
+        },
+        "rating": 4.6,
+        "reference": "ChIJn37GsscJxkcRhWExbZMC1KA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2303,
+        "vicinity": "Nieuwezijds Voorburgwal 67, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3796129,
+                "lng": 4.8971342
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.38085518029149,
+                    "lng": 4.898483630291501
+                },
+                "southwest": {
+                    "lat": 52.3781572197085,
+                    "lng": 4.895785669708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "ibis Amsterdam Centre",
+        "photos": [
+            {
+                "height": 4523,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109859241816962471821\">ibis Amsterdam Centre</a>"
+                ],
+                "photo_reference": "AdDdOWpMPDnevXfRvqg0zJHXzM0uArplDTFEYvmSKM228TA-ADFvwZGkcXHCUIoTNQdJysapcUP_LvEIqXbJsP9OLGpgy4Iu97m7aPmYxO6-t12ax5II8tYgkn3CTbo0Dmfs7jM6klOxl4Vqh6qo-8Z52_BW8QHR__kXFdDULlXmp3SSenzB",
+                "width": 3456
+            }
+        ],
+        "place_id": "ChIJk_GE1rcJxkcR9Np8w4KYTro",
+        "plus_code": {
+            "compound_code": "9VHW+RV Amsterdam, Netherlands",
+            "global_code": "9F469VHW+RV"
+        },
+        "rating": 3.9,
+        "reference": "ChIJk_GE1rcJxkcR9Np8w4KYTro",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5353,
+        "vicinity": "Stationsplein 49, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.36374660000001,
+                "lng": 4.8809267
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.36501208029151,
+                    "lng": 4.882631030291503
+                },
+                "southwest": {
+                    "lat": 52.36231411970851,
+                    "lng": 4.879933069708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Clayton Hotel Amsterdam American",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1557,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109111480533346844982\">Clayton Hotel Amsterdam American</a>"
+                ],
+                "photo_reference": "AdDdOWoFCPvmVDg2Or7Yrw2C83EiDIbPTER0e7iyEuCXStm5VQw0q-ffjK2gUayfX16g2skiZ6bslfqXKOcb3WCbg7GH6YmVAQoVY66-NpunlQHs1PDYIyv0HdfoUlKYi7vxUZ9LhdqaMq6GO1WJ_cmrq3_C6VAHjjX3_6meuXTdCyYij4cu",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJhd_mnOgJxkcRqy0WT8GY2Lg",
+        "plus_code": {
+            "compound_code": "9V7J+F9 Amsterdam, Netherlands",
+            "global_code": "9F469V7J+F9"
+        },
+        "rating": 4.3,
+        "reference": "ChIJhd_mnOgJxkcRqy0WT8GY2Lg",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2689,
+        "vicinity": "Leidsekade 97, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3591453,
+                "lng": 4.926360699999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3605015302915,
+                    "lng": 4.927458830291502
+                },
+                "southwest": {
+                    "lat": 52.3578035697085,
+                    "lng": 4.924760869708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Manor Amsterdam",
+        "photos": [
+            {
+                "height": 2859,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116149148430928236385\">The Manor Amsterdam</a>"
+                ],
+                "photo_reference": "AdDdOWrMt0GVd9FMqwgrgqNltjwN56LAJcOG7cCGld-MA_6vePoaPABhAUsSgt86MkSeTkNOYiQM06fdQKNapQLySa4iSh1qLne-ar7nNHD_513DeM84w8ri9zQH-DO82Nvwba-7KEaHr7Dt-XDVbb5O79yNZludVs6NcvMSAv_c1jOcyi66",
+                "width": 4347
+            }
+        ],
+        "place_id": "ChIJ_bBss3YJxkcRFejJ1Asz9dM",
+        "plus_code": {
+            "compound_code": "9W5G+MG Amsterdam, Netherlands",
+            "global_code": "9F469W5G+MG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ_bBss3YJxkcRFejJ1Asz9dM",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1645,
+        "vicinity": "Linnaeusstraat 89, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3499527,
+                "lng": 4.918603899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3511324802915,
+                    "lng": 4.920072330291502
+                },
+                "southwest": {
+                    "lat": 52.3484345197085,
+                    "lng": 4.917374369708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Casa Amsterdam",
+        "photos": [
+            {
+                "height": 1215,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110946693711733915046\">Hotel Casa Amsterdam</a>"
+                ],
+                "photo_reference": "AdDdOWruuwLvvj8qKG2s4LaEZCsCLbT_jQyolYeJUAal3bXUoCAiqmJlWrj7tzab-GhOmlexCi_9N7jqCNJZsyLF1oCe3G-UYpz8JeGh1IVWeInsrdzSxinL10KBZLmsviUrwtSJsAg0zvnacTNKSDAkODkREuG_B4Kt14CeZtN74G2wbow6",
+                "width": 1644
+            }
+        ],
+        "place_id": "ChIJu8I6s3gJxkcRK2EhPaiZBVs",
+        "plus_code": {
+            "compound_code": "8WX9+XC Amsterdam, Netherlands",
+            "global_code": "9F468WX9+XC"
+        },
+        "rating": 4.4,
+        "reference": "ChIJu8I6s3gJxkcRK2EhPaiZBVs",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "parking",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4597,
+        "vicinity": "Eerste Ringdijkstraat 4, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3337156,
+                "lng": 4.888516800000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3351711302915,
+                    "lng": 4.889972080291503
+                },
+                "southwest": {
+                    "lat": 52.33247316970851,
+                    "lng": 4.887274119708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Novotel",
+        "photos": [
+            {
+                "height": 539,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112112475868709492387\">Hotel Novotel Amsterdam City</a>"
+                ],
+                "photo_reference": "AdDdOWrcbA2Vl7gqIWjCC2VUao5KO2WuHIRIXUvcIM2w1zmvM7FFDVKaBptzeMqz2pPtac8c-UJpzqyaws58reqMaBCtodeBiUOC0fXJq5ZJjaPiL3LuLVuWZNMY3vmr99J3GcRjzG5wmt6RP0xFb_jwsMkt__T0BnY8E2NPk-UsJcd4V3jL",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJ-RAyRD0KxkcRG4koK51opDE",
+        "plus_code": {
+            "compound_code": "8VMQ+FC Amsterdam, Netherlands",
+            "global_code": "9F468VMQ+FC"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ-RAyRD0KxkcRG4koK51opDE",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5134,
+        "vicinity": "Europaboulevard 10, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.335288,
+                "lng": 4.913490400000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3366060302915,
+                    "lng": 4.914866480291503
+                },
+                "southwest": {
+                    "lat": 52.3339080697085,
+                    "lng": 4.912168519708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Mercure Amsterdam City Hotel",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115700700849014261008\">Mercure Amsterdam City Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWovp_tWSr0cuIo1m7p64yEhnZShHZQXVD4qZxrU0IPELx6wbHc5ZEw_jDCbcG4KBRvaOcFAKMcnMZhLAzaTDtw95T-kDfPlwm__ObUgsEDaATgfnwVuLwbSaa3mwBDlJDZnrYcMbd3J4lmW3GSEZpzvBbzxSe__JkVrAwurPSA2yWeR",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJ7V5Oai0KxkcRcctSgGOZ5fU",
+        "plus_code": {
+            "compound_code": "8WP7+49 Amsterdam, Netherlands",
+            "global_code": "9F468WP7+49"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ7V5Oai0KxkcRcctSgGOZ5fU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4360,
+        "vicinity": "Joan Muyskenweg 10, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3512438,
+                "lng": 4.874121099999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3526740302915,
+                    "lng": 4.875444380291503
+                },
+                "southwest": {
+                    "lat": 52.3499760697085,
+                    "lng": 4.872746419708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Amsterdam - Bilderberg Garden Hotel",
+        "photos": [
+            {
+                "height": 1616,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116393830088860269651\">Hotel Amsterdam - Bilderberg Garden Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrs-dZzIzSwy7qltOy3MvE3GP-EkQTr5UC_xYCuVeCYWHmhMbO9NiBm-ze4G6BRo26WHCMLDSKrIUw5KDKJdVcbwHgqxjBu5lDQEV-pxTGvxmdlHFnJL_UwX2wkjOL8SQf7_Gh11cSd-JlmKR8ZTVelcIxfdtEJpDpET4hTRQIi_tvX",
+                "width": 2426
+            }
+        ],
+        "place_id": "ChIJkx5CZPkJxkcR-F4MXXZOV7s",
+        "plus_code": {
+            "compound_code": "9V2F+FJ Amsterdam, Netherlands",
+            "global_code": "9F469V2F+FJ"
+        },
+        "rating": 4,
+        "reference": "ChIJkx5CZPkJxkcR-F4MXXZOV7s",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1230,
+        "vicinity": "Dijsselhofplantsoen 7, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3725361,
+                "lng": 4.8981806
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3738843302915,
+                    "lng": 4.899531580291502
+                },
+                "southwest": {
+                    "lat": 52.3711863697085,
+                    "lng": 4.896833619708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Torenzicht",
+        "photos": [
+            {
+                "height": 9000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116160428538547111967\">Melu Testori</a>"
+                ],
+                "photo_reference": "AdDdOWr_KwXmOTlCf7JQzjrPx_MOnkJ3RFaEADtHqbmg01cHdMezfdwY63FhW5Os1Q7V16KGGCNpdWTcrZEo564IOME-nY04K3VdLXCiucYz-dBLvCOb4uyTNcX22kYhb2iO6K0tjchJvqfn38TkEC9Q0KBJlegtCbXZlDohRyYxxbm8esQx",
+                "width": 12000
+            }
+        ],
+        "place_id": "ChIJ3-qc2rgJxkcRTfGKUgOvAkk",
+        "plus_code": {
+            "compound_code": "9VFX+27 Amsterdam, Netherlands",
+            "global_code": "9F469VFX+27"
+        },
+        "rating": 3.7,
+        "reference": "ChIJ3-qc2rgJxkcRTfGKUgOvAkk",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 538,
+        "vicinity": "Oudezijds Achterburgwal 93, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3689628,
+                "lng": 4.8822127
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3702877302915,
+                    "lng": 4.883631080291503
+                },
+                "southwest": {
+                    "lat": 52.3675897697085,
+                    "lng": 4.880933119708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Amsterdam Wiechmann Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 801,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116849454105510828460\">Amsterdam Wiechmann Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWo5CoJboYCfTFEX764WrJUOx3Fslbh7vw2yzABFjm5B3sqAfODIrrKK49ZMd-tC3FovBbCOwt9k48j7A_HpS4K3FWv6jbkYEuzIdj9t5WKCNvwUcK2EMQ2GWNq08ea-KVz6Ma--nXdNElG9cD_CZ_WqmjrdqWmvVv9d_iJiRevsCitJ",
+                "width": 1421
+            }
+        ],
+        "place_id": "ChIJ1z5XzsIJxkcRqom0RFLQ7j8",
+        "plus_code": {
+            "compound_code": "9V9J+HV Amsterdam, Netherlands",
+            "global_code": "9F469V9J+HV"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ1z5XzsIJxkcRqom0RFLQ7j8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 699,
+        "vicinity": "Prinsengracht 328-332, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.37361019999999,
+                "lng": 4.8933274
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3748746802915,
+                    "lng": 4.894844080291501
+                },
+                "southwest": {
+                    "lat": 52.3721767197085,
+                    "lng": 4.892146119708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Swissôtel Amsterdam",
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114450289984899282696\">ajin saju</a>"
+                ],
+                "photo_reference": "AdDdOWpyva8tVgvUQQVg0XRHii2U2RvFozYWf3FxBEN67hPibvDzhRaybgX6kfJIlOXsmxoho4BFXKJ0T0Xtz0y6nFqn1lMckMuu1Yef0GR9kuwVymH6-qptkDJ-Ni3NFQVpdSdSJ9lKjJZ9lGv8szR-imSajx8ur_VAA_Ho0vmtptz4f5nC",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ6SotGMcJxkcRzbvSeq1YjJ4",
+        "plus_code": {
+            "compound_code": "9VFV+C8 Amsterdam, Netherlands",
+            "global_code": "9F469VFV+C8"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ6SotGMcJxkcRzbvSeq1YjJ4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1384,
+        "vicinity": "Damrak 96, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.37458710000001,
+                "lng": 4.903903199999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.37602113029151,
+                    "lng": 4.905375280291502
+                },
+                "southwest": {
+                    "lat": 52.37332316970851,
+                    "lng": 4.902677319708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel Amrâth Amsterdam",
+        "photos": [
+            {
+                "height": 1219,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108546098124090346321\">Grand Hotel Amrâth Amsterdam</a>"
+                ],
+                "photo_reference": "AdDdOWp1sahF5kXJaiSMU0Pgr7Hsqvo9cmBFqA1oudMedg1LLZU_fGfmDACVgvMSB3nAPrL9oL4gRt9AvKykRdLFhJHNGYAf853TeRf4RwxdSXB4BmVYWlVJ5tvd5Gk89DKhGcgf3T0UlT5BHAue4YsRY2ShEoVOrdSLPcqz4e_vgMMSR3VN",
+                "width": 2430
+            }
+        ],
+        "place_id": "ChIJEdXdNboJxkcRX4h4XN5zsFM",
+        "plus_code": {
+            "compound_code": "9WF3+RH Amsterdam, Netherlands",
+            "global_code": "9F469WF3+RH"
+        },
+        "rating": 4.2,
+        "reference": "ChIJEdXdNboJxkcRX4h4XN5zsFM",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2612,
+        "vicinity": "Prins Hendrikkade 108, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.3626465,
+                "lng": 4.878276899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3639347802915,
+                    "lng": 4.879557280291502
+                },
+                "southwest": {
+                    "lat": 52.3612368197085,
+                    "lng": 4.876859319708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Catalonia Vondel Amsterdam",
+        "photos": [
+            {
+                "height": 2362,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116368731683733122542\">Hotel Catalonia Vondel Amsterdam</a>"
+                ],
+                "photo_reference": "AdDdOWpQUSgU1iD8ZSbyZGHl20L2D9fixYHSSUw0otz8lVADvdqneZ1lJ-ZnB_XsFGoyeJRyb1f0b1_EXt_jQjed6H8bHWC41mg-3iy1KWAH-7IkBFr9kH637jaygk2tbmEPh8fiJPFpLgBgRIJxDLUr0XNh4Ah1plIeoOaMO06qEYiNGf4",
+                "width": 3543
+            }
+        ],
+        "place_id": "ChIJ8_EDbuYJxkcRSwZegC8Npik",
+        "plus_code": {
+            "compound_code": "9V7H+38 Amsterdam, Netherlands",
+            "global_code": "9F469V7H+38"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ8_EDbuYJxkcRSwZegC8Npik",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1039,
+        "vicinity": "Vondelstraat 18-30, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.35430849999999,
+                "lng": 4.8663656
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.35575568029149,
+                    "lng": 4.867673680291502
+                },
+                "southwest": {
+                    "lat": 52.3530577197085,
+                    "lng": 4.864975719708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Park Plaza Vondelpark, Amsterdam",
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105112969780804614699\">Park Plaza Vondelpark, Amsterdam</a>"
+                ],
+                "photo_reference": "AdDdOWqdx_1b-PS9qp9NPepDxR5BDnQvI5PQuhjrVsZfPQhpGgrkagUYIPbQWOPc4cN0m4JsoxMNhvBjO5hcen_UtAtj0cMzql7iEgdoag7iPG9ZkFJVLYZoPHwh3mCXIx7jImTyUNCYussZUJVBbr2T35Vc7lzX0z7-RDsV8Q5BYxZJcWeX",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJH6N0g_0JxkcRXFhIhraQbuE",
+        "plus_code": {
+            "compound_code": "9V38+PG Amsterdam, Netherlands",
+            "global_code": "9F469V38+PG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJH6N0g_0JxkcRXFhIhraQbuE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 880,
+        "vicinity": "Koningslaan 3, Amsterdam"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.373999,
+                "lng": 4.8962872
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.3751609802915,
+                    "lng": 4.897320880291502
+                },
+                "southwest": {
+                    "lat": 52.3724630197085,
+                    "lng": 4.894622919708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Belushi's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105068857055188761837\">Belushi&#39;s Amsterdam</a>"
+                ],
+                "photo_reference": "AdDdOWpBd6cg6EqVIRsUihyyMmZ8Ax-2wjHGMEw_Ote1_MAgcW6pFOZIEuWl_2Tim9dWVrdzllgYQ75t58q3qgb9wkfdHrY6N8tYG2o05i-EGuYRoJTkD9-Oq5e6J9Of0MHxAaf4yUpX1_uRhYs7hUJdnq3z9cahpkP82sPKwFhnNoH3MaXd",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ9do5m7gJxkcRHy7o8MDGAHI",
+        "plus_code": {
+            "compound_code": "9VFW+HG Amsterdam, Netherlands",
+            "global_code": "9F469VFW+HG"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ9do5m7gJxkcRHy7o8MDGAHI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2440,
+        "vicinity": "Warmoesstraat 129, Amsterdam"
+    }
+]

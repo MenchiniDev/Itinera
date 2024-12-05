@@ -1,0 +1,66 @@
+{
+    "name": "Tiffany",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "suzan turan",
+            "author_url": "https://www.google.com/maps/contrib/106356586405194121946/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkAYRWKiTMfXrCw2zmctkJh5hob4VkBQOdU_ZipgFWEv1jzaec7g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Good food, nice staff, and a great environment. It's a peaceful place. We ordered different types of foods and baklava. My favorite dish is tave kosi.",
+            "time": 1717746552,
+            "translated": false
+        },
+        {
+            "author_name": "Marco Spironelli",
+            "author_url": "https://www.google.com/maps/contrib/106479107092942497340/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf2cT1xvju372ECjKPi7FUGnlfPmejPI1BVn8Ig4t_pOaVvnzH=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Pay attention because they don’t have any menu, they gave us what they wanted, without any additional explanation, and we ended up paying 73 euro in 3 people, like... random prices, totally out of Prishtina average, with the dubt that they apply different treatment to foreigners.\n\nComparing to quality and prices of a lot of other traditional food restaurants in Prishtina there is no game.\n\nI am sorry but it was a bad overpriced dinner :/",
+            "time": 1719477577,
+            "translated": false
+        },
+        {
+            "author_name": "Fab James",
+            "author_url": "https://www.google.com/maps/contrib/100612268358156310282/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSxKa3_FANB2EFr_vpaCkJbXnSWPB2APB8_5gJmnSjqpCaE6g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Delicious food at a reasonable price. A more upmarket restaurant for sure, but prices are still very good. The waiter suggested that we try a few dishes, asking us first if we are vegetarians. He bought out 3 half portions with salad and bread. All were delicious!",
+            "time": 1691647958,
+            "translated": false
+        },
+        {
+            "author_name": "TW Li",
+            "author_url": "https://www.google.com/maps/contrib/108009675297081094922/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLGmUvfYY-XdzCocB95gGzbI5rsL92DEt6p10ebkz605GGA5jF=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Have to make reservation, because they offer some food to every table, so they would also prepare them according to the guests amount. Main dishes (the 4 traditionals) meat dish the flavor is amazing!!! To all tastes. Ajvar also very good! best best of all. Wine 28 euro , a bit pricy . Average 22 euro all included. It’s ok. Service also ok, but must with reservation… you can get in and sit…",
+            "time": 1665924049,
+            "translated": false
+        },
+        {
+            "author_name": "Rieke Volpert",
+            "author_url": "https://www.google.com/maps/contrib/103661751372872143720/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVnOgjCRRMr7hpHxno5H6vCjoHCIMOE3nZ5i-8L_BuUEga4J8=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Best food we had on a three week trip. Served family style in the typical clay pots, so the pictures don't do it justice. But it was so, so delicious.\n\nThanks for a lovely evening!",
+            "time": 1632855017,
+            "translated": false
+        }
+    ]
+}

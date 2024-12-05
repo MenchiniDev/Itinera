@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant 10. Kerros",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Maya Viecili",
+            "author_url": "https://www.google.com/maps/contrib/111760092267275231625/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO3rwJsm39ShRb8XtR6kHpwUc0tm4Y2ivolwLiwZy6C01mtK9_=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Amazing experience for my daughter’s 18th birthday. The restaurant is of a good size, outstanding view of central Helsinki, the food is amazing m, and the service was impeccable. Make sure to ask for Kiia when you go, she served us really well and provided us a great experience. Drinks are also delicious!!",
+            "time": 1722324411,
+            "translated": false
+        },
+        {
+            "author_name": "Davide F.",
+            "author_url": "https://www.google.com/maps/contrib/106451050083863599109/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEgsGuVQpbUE9ReIpHRQ2XptpZ25qkNhKv0PyTzyFRKRkqfIao=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Great view above the city center from the 10th floor. Great service, very polite and well done. Food is good but quality/price may be better, portions are quite small and you can get hungry if you take just the main . Good selection of wine, few italians but not bad. Atmosfere is super and the terrace very nice.",
+            "time": 1727374983,
+            "translated": false
+        },
+        {
+            "author_name": "Alexander AISHA",
+            "author_url": "https://www.google.com/maps/contrib/114960205727009236288/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvIPxtbMxYK6HshWU5cN2GKmAPnbhTyBcdistssXaOO431ToAq=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "One of the most beautiful restaurants in Helsinki center 🇫🇮\n____________________\nGood service\nDelicious & Fresh food\nBeautiful view\nQuite and cool atmosphere\n5/5 🌟\nRecommended by\nIG: LEGEND.ESCANOR",
+            "time": 1731010136,
+            "translated": false
+        },
+        {
+            "author_name": "Duyen Nguyen",
+            "author_url": "https://www.google.com/maps/contrib/107094667515888320050/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzc5tkmqGRnD2-h_LCd_9wWCyVz9EhAldKomJz2Gua8W0jnENCcw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "We had such a bad experience here, paid more than 65eur for 3 courses menu, cocktails cost around 16eur. We expected fine dining experience, but no, see the photo of the margarita! First we got it without any salt around the rim, went to complain, got an answer that there is no salt available (?!) and eventually received a corrected one which is awful.",
+            "time": 1676233921,
+            "translated": false
+        },
+        {
+            "author_name": "Emilia",
+            "author_url": "https://www.google.com/maps/contrib/112232975754929164345/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc1aAnKRGGB2JqhqSEC7q_TuIPyDYToqzM3sTq0xhIE8KtSA=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "2 years ago",
+            "text": "Good service, they get the stars. Ordered 2 steaks medium, both were too raw. Burger (26€) fries were stale and soft, and burger buns and patty were hard. Prices are extreme high for the fact that  even mcdonalds burger is better. Would not recommend… nice view though",
+            "time": 1667065887,
+            "translated": false
+        }
+    ]
+}

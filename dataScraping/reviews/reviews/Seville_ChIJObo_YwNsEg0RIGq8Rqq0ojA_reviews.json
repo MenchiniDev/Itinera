@@ -1,0 +1,66 @@
+{
+    "name": "El Rinconcillo",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "jolebowski",
+            "author_url": "https://www.google.com/maps/contrib/105397565447292029055/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVp4BIYEq7Uz0gsxhd1LeHXmPAJUb2PvJ3AA-jPvnPOiKGxCA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I loved this traditional restaurant! It was the first place I went to when I arrived in Seville, and what can I say – the atmosphere is perfect. Eating while standing is totally normal here. The tapas are delicious, and the servers are very welcoming. Truly, no complaints at all.\n\nIt’s a must-visit as soon as you come to Seville, but be aware, it’s often crowded, so make sure to come early.",
+            "time": 1728988224,
+            "translated": false
+        },
+        {
+            "author_name": "Sofie S",
+            "author_url": "https://www.google.com/maps/contrib/103791142766426546665/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvTOiepfPt9lV_o4HRVpaG-BKo8w5-EM2X0fCFLfWdaura=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This place is incredible! You can feel how old it is as soon as you walk in. The waiters are all dressed the same which is really cute. You either eat at the bar or wherever they place you around the bar…. and it’s all standing. The food is mouth watering! We ordered the pig cheeks, loin chop and whitebait with two wines and we left extremely satisfied.",
+            "time": 1729181623,
+            "translated": false
+        },
+        {
+            "author_name": "Tanya",
+            "author_url": "https://www.google.com/maps/contrib/110111962182245558641/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEBwRldY_J6QCw2j4Hz4w9o3EbsQHo--T6_-UCVbCiE4yjSmh8hQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Recommend to book ahead for the dinning room section.\nService was great, provided recommendations. Although dishes do seem to come out one at a time, after you've finished eating the previous dish.\nNice atmosphere. Highly recommend the clams!",
+            "time": 1731437021,
+            "translated": false
+        },
+        {
+            "author_name": "Kristen g",
+            "author_url": "https://www.google.com/maps/contrib/104210472405773079862/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOdhzUno2EqVa79EAiP8hhYIjFQzxDOGdiG1NbRhnUiCcsuK0o=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "A historical tapas bar and restaurant, El Rinconcillo is a must-visit when in Seville. Efficient, reliable, and consistent. We tried a range of dishes across two visits, mostly consisting of fish, and each one was delicious. The servers take care of you throughout your meal, and are patient and engaging. It is a place full of character.\n\nNB: don’t let the queue intimidate you, it shortens at a quick pace and the experience is well worth it.",
+            "time": 1728983303,
+            "translated": false
+        },
+        {
+            "author_name": "Raphael Varisella",
+            "author_url": "https://www.google.com/maps/contrib/102764802364799874317/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3Br_wnez4WgRS5mrJSAnoeaCnMy2SmvdsDhmxrFnW4fDO4dmV4w=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "A must go to while in Sevilla! Very original and very old establishment. Excellent food, great service, amazing atmosphere. Highly recommend making reservations in advance, this gem fills up instantly when the doors open at 8pm.",
+            "time": 1732959186,
+            "translated": false
+        }
+    ]
+}

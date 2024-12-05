@@ -1,0 +1,66 @@
+{
+    "name": "Slamená Búda",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Sergio Bescós",
+            "author_url": "https://www.google.com/maps/contrib/111099589884092293478/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVypZPIZ4ThnMQv2Sq_PaX8NzpXq1djoSI6lJfTYscOBijLAfPC=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Nice waiters, nice environment. Good prices. Always a good place to go. D'akujeme",
+            "time": 1654405546,
+            "translated": false
+        },
+        {
+            "author_name": "lauramilkajaro",
+            "author_url": "https://www.google.com/maps/contrib/117542946469194011027/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7_sxR9XCJ6sT21pPTRbdrdvM2d3qhwsvz4HE4T1uFQC1UunA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Ok",
+            "time": 1722862326,
+            "translated": false
+        },
+        {
+            "author_name": "Lukas Satka",
+            "author_url": "https://www.google.com/maps/contrib/102462912228403580024/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNZGiI1Ol5oJL-of5IdXcLjDTN2nOQM0BYisiWbrzlTeKjHRj9=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "Haven't been inside but the environment is nice if like going for a walk",
+            "time": 1465109925,
+            "translated": false
+        },
+        {
+            "author_name": "Martin Olsansky",
+            "author_url": "https://www.google.com/maps/contrib/112930564029604485668/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3uCI-mnWpQzbm5gILp9DXk_34ApPjUVstFp1c6SGRoXDEj61buw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Tasty breakfast, but only from 10am",
+            "time": 1664447622,
+            "translated": false
+        },
+        {
+            "author_name": "Aurel Balko",
+            "author_url": "https://www.google.com/maps/contrib/100078144894927300207/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNtUDgW1hGpRnkfAecJQ9iFJfWLJwnXs26AjJMyfTSIxTo-Tp_=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Super",
+            "time": 1717249332,
+            "translated": false
+        }
+    ]
+}

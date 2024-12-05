@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Arena",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Lauren Cox",
+            "author_url": "https://www.google.com/maps/contrib/106075152733881015414/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK701i-Ii8WttteFq_mBp-TpwoeHvZtPO6uK7jiDu0oc6ECiw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "We had the most amazing stay at Hotel Arena.\nIt is a perfect location to get trams to the city centre.\nLocated next to a stunning park to walk through on a morning.\nIt has a really lovely restaurant and bar with beautiful food and lovely wine!\nI will definitely be staying here the next time I come!",
+            "time": 1732404306,
+            "translated": false
+        },
+        {
+            "author_name": "Elliott Gray",
+            "author_url": "https://www.google.com/maps/contrib/103458225779042726847/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGigIrL-Oql5rs9KfeZn0lbRA4Oe2te_sgASb254GqjKh9747J=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "The room was very comfortable, with high ceilings and a king size bed. The staff were very friendly and helpful. The park was really nice and felt safe at night. Would definitely stay here again! They have lockers for your luggage so you can explore on your final day after check-out without your luggage. It was quick to get into the centre of Amsterdam, but about 40-minutes to get to the Western Canal Ring.",
+            "time": 1731434189,
+            "translated": false
+        },
+        {
+            "author_name": "Ryan",
+            "author_url": "https://www.google.com/maps/contrib/103518476036633922783/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt-Mi137tK9ZWlTNT1yw3LYbAc9L4U6-2dgZmjoJX4RDup85VL=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "Hotel Arena is located adjacent to a very picturesque park, and it's an old gothic-style building that has really cool vibes. It's a little far from the Amsterdam city center and all of the tourist attractions (Uber or trolley is your best bet), but if you're looking for a quiet location, this is a decent place. You can hear some footsteps in the hallways depending on your room, but even as a light sleeper, this didn't really bother me.\n\nWe unfortunately had a bad experience with our room. While our room was quaint with a good view and a spiral staircase (bed was upstairs, if you have trouble getting up/down stairs, make sure they don't give you this type of room; we were fine with it, but just FYI for someone who may be older or less mobile), we had one major issue: the drain of the shower would not drain the water and it flooded our bathroom on multiple occasions. The maintenance person came in and fixed it and told us to switch rooms if it continued. So it happened again a couple of nights later, I called the front desk, they offered to switch our rooms, we agreed to this, but they still sent the maintenance person up, who was not very happy with having to come back. I told her that the front desk person said they said they would send someone up for one last check, but the maintenance person they sent certainly was not happy about it and said \"I told you to ask for a room switch!\", which we had done just minutes earlier. Anyway...long story short, we had to switch rooms at 11 PM on Wednesday night with our flight early in the morning the next day. It wasn't a pleasant experience and speaks more to the limitations of the building rather than the staff. The staff just didn't communicate on this one: otherwise, they were generally helpful and warm, though some staff members were way warmer than others.\n\nI'm giving our stay 3 stars based off of this experience. Had we not had this issue, this would have been a nearly perfect stay.",
+            "time": 1732901821,
+            "translated": false
+        },
+        {
+            "author_name": "John Lord",
+            "author_url": "https://www.google.com/maps/contrib/114268674265655223914/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUofYbfT6cRqlcHOrwpWGFtGnePX85jWccZylaQFajsr-6hn36-=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lovely hotel with really helpful staff. Convenient for tram network. First room allocated to us was on two levels with steep steps to the sleeping area which we hadn't expected . This was not ideal for my partner who has a painful foot following surgery earlier this year. They immediately changed us to a more suitable room. On the last day I wanted my boarding passes printing for the trip home. The young man on reception sorted this for us with little fuss. Food and drink in the bar/restaurant were reasonably priced and good quality.",
+            "time": 1730222377,
+            "translated": false
+        },
+        {
+            "author_name": "Tina Reynolds",
+            "author_url": "https://www.google.com/maps/contrib/115913219853088000067/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNo_zEgr66lxG30MesEPzU_WGgUSLPKM6fRSUfn-kePam0iA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We were delighted that the picture on the website doesn't actually show the building as it truly is. It took my breath away. A truly stunning building inside and out. It reminded me of the beautiful staircase hallway in the sound of music, but it's much more than that. The simple elegance of the rooms is very lovely. The restaurant is very cosy and understated richness. It's a lovely place to stay. The breakfast options are amazing and it feels very indulgent even with it being self service. Would recommend a visit to the Park restaurant even if you're not staying at the hotel Arena.",
+            "time": 1728981652,
+            "translated": false
+        }
+    ]
+}

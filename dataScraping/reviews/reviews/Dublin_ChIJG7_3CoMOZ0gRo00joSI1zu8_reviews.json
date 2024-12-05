@@ -1,0 +1,66 @@
+{
+    "name": "Wynn's Hotel Dublin",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Cristina T.",
+            "author_url": "https://www.google.com/maps/contrib/105924663949215059927/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjHzsBj7XUBud3FNYfIiHlNyZ6rljNG18ojsFNz9DFC1BXCXbH=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Amazing stay! A beautiful historic Hotel in the heart of Dublin. Room was very comfortable and clean (we even had a massage tub). Breakfast was delicious. The Bar is very nice to relax after a day of walking through the city. Staff was so professional and helpful (a special big Thank You to the Lady at the reception who helped us getting a taxi who was willing to take us to our \"far\" destination).",
+            "time": 1726772823,
+            "translated": false
+        },
+        {
+            "author_name": "kstoeser",
+            "author_url": "https://www.google.com/maps/contrib/100835091373058704796/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ156DPCjvfeE1GlCJPUNvMSK4t-APHw-U-kCuyfPKDf68XzBWl=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We love Wynn’s Hotel and stay there every time we visit Dublin. A lovely Irish hotel, privately owned. Very welcoming and friendly,  Great breakfast, served to our order. Comfortable, friendly bar that also serves a carvery.  Delicious food. Rooms are so clean and modernized, very comfortable beds. Wynn’s is close to all the things Dublin has to offer. Highly recommended!",
+            "time": 1727170797,
+            "translated": false
+        },
+        {
+            "author_name": "Annette d'Autremont",
+            "author_url": "https://www.google.com/maps/contrib/114188137538006437899/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVk9sBcWbYy85nIyIzgbXDcCLFdiWvjxrtr2cUgDvOdhjcAb_Ci=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "We stayed at Wynns for two nights and had a great stay! The bed was comfy and the room was cute and had temperature control. Location is great especially if you’re taking transit or walking in the city. Breakfast was included and amazing as well! Only downside is that is next to a DART station and is a little noisy, though it dies down at night. I’m a light sleeper and slept fine!",
+            "time": 1730496638,
+            "translated": false
+        },
+        {
+            "author_name": "Peter Phillips",
+            "author_url": "https://www.google.com/maps/contrib/101778874401905565759/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJHkG22WSb6L0cqOu4X0Sgo5fjaNecTgNymtKGWyZ5MQYX2XZb-g=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "We had a great stay here, we got off the train in Huston station and on to the Luas which stopped outside the door of the Hotel. I found the staff to be very friendly and our room was very clean and the bathroom was big and most importantly the shower was brilliant. The breakfast was lovely the next morning, the choice was great and the staff were very polite and helpful. The hotel is so central to everything. I highly recommend a stay.",
+            "time": 1725440334,
+            "translated": false
+        },
+        {
+            "author_name": "R A",
+            "author_url": "https://www.google.com/maps/contrib/112422600244672762545/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfOhIciRJK_l_MyyZ8w02dQxf2CYCzNybb-qFjlt0QMlMPaynw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "We stayed here recently for our anniversary trip to Ireland and we enjoyed it very much. It’s an older hotel but is very charming in a great location close to many bus stops (great if you’re using Leap), and the breakfast service was quick and beautiful!\n\nThe rooms are pretty bare bones and a few things were lacking but not too noticeable. There is no air conditioning and the windows are not able to open fully for cool air so we were very warm. The tea and coffee they have is instant (would have been nice to be a nespresso or coffee machine). And they do not provide conditioner in their toiletries. They only provide hand soap, body wash, and shampoo which are a good size, but personally I needed conditioner for my hair. Just FYI for any other travellers.\n\nThey also do not have any amenities other than their bar and breakfast service. There was no gym, laundry, or pool as far as I could tell. Obviously not a requirement, but we had been travelling from the west of Ireland for a week prior so we would have appreciated laundry, but it did not detract from our time at the hotel. Just another FYI to other travellers.\n\nOverall enjoyed our time greatly, and would recommend to others. Their breakfast service is really what puts them above what I would consider a 3-star hotel, but the hotel staff were all incredibly kind and helpful!",
+            "time": 1719817763,
+            "translated": false
+        }
+    ]
+}

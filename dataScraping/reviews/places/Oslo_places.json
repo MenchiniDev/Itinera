@@ -1,0 +1,1072 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.91372399999999,
+                "lng": 10.7089686
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9150670802915,
+                    "lng": 10.7104946302915
+                },
+                "southwest": {
+                    "lat": 59.91236911970849,
+                    "lng": 10.7077966697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Clarion Collection Hotel Gabelshus",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102197953016518674875\">Clarion Collection Hotel Gabelshus</a>"
+                ],
+                "photo_reference": "AdDdOWqMA91uzGk39CLhPxUizH3ziNCDKJWKPDWTnQ13PB5o4W3sNFMQjNw0Yhl-aK6iHcCliv0v2__J8IN3ofqXy3jJuyaqRXd_XnldqZpeT6JGSbR_3QiVLx6jCK5XyiGGmYaCDAvUAYx1uMVf4L4lVorjhIP0Ohc2ags5pUVUTIIs4qbJ",
+                "width": 2839
+            }
+        ],
+        "place_id": "ChIJd485Hi1sQUYRp3SeQ80kHhc",
+        "plus_code": {
+            "compound_code": "WP75+FH Oslo, Norway",
+            "global_code": "9FFGWP75+FH"
+        },
+        "rating": 4.2,
+        "reference": "ChIJd485Hi1sQUYRp3SeQ80kHhc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 800,
+        "vicinity": "Gabels gate 16, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9137238,
+                "lng": 10.7394509
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.91503043029149,
+                    "lng": 10.7404180802915
+                },
+                "southwest": {
+                    "lat": 59.91233246970849,
+                    "lng": 10.7377201197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel Oslo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4715,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105060622805271081922\">Kurt Evert Stenbakk</a>"
+                ],
+                "photo_reference": "AdDdOWpGUCD-qG1kMgftdN5OSIXOuLAOZZd8zfY7deqUxXT1Q-uNlzvB20lGThcOzpzSTm0oTFPhr61VNi7YCZoQ89qC41tSl5oY-llv0yfo7EkVQwjVDlF1cMDSgr6dvCIE-nejmYzyND9OUquOsNSw3wJaRssdoxJSquwV-hUtC_qN_0Fo",
+                "width": 4745
+            }
+        ],
+        "place_id": "ChIJhxTybn1uQUYRIFo4Y1uqZic",
+        "plus_code": {
+            "compound_code": "WP7Q+FQ Oslo, Norway",
+            "global_code": "9FFGWP7Q+FQ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJhxTybn1uQUYRIFo4Y1uqZic",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2152,
+        "vicinity": "Karl Johans gate 31, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9204186,
+                "lng": 10.6828037
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9218195802915,
+                    "lng": 10.6842152302915
+                },
+                "southwest": {
+                    "lat": 59.9191216197085,
+                    "lng": 10.6815172697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Sjølyst",
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104955509085249377895\">Stanisław Wachowiak</a>"
+                ],
+                "photo_reference": "AdDdOWqBkN80ZctGMWDJmsuMjxH5XuBvDxsEiQLmoSl3Bf0f0uLKfFP9eIslhntRgxFFwh6k2cdkAgGFPLKMtQfmuuqLoA76YhvM9LORSvGzqeWbV35GMAv_sigA3SG_D3PePr-TPa85ZGlSlqMZKj8XUGUKehI8o1f7PymlTUvLGr1fhgu8",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJpYmu-bRtQUYRWaJZt17BMF8",
+        "plus_code": {
+            "compound_code": "WMCM+54 Oslo, Norway",
+            "global_code": "9FFGWMCM+54"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJpYmu-bRtQUYRWaJZt17BMF8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1444,
+        "vicinity": "Karenslyst Allé 28, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9147074,
+                "lng": 10.7403558
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9161088302915,
+                    "lng": 10.7417228802915
+                },
+                "southwest": {
+                    "lat": 59.91341086970849,
+                    "lng": 10.7390249197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotell Bondeheimen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1545,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113824790500259106096\">Hotell Bondeheimen</a>"
+                ],
+                "photo_reference": "AdDdOWohOYRE6GlvC58_TsZdOHiW05m8yqjzyFOe5Pc-l1AUsqFUGH0YhZ9BHPTEIcc6cQEWrl6WAg1d4dddY8xmb-qojQmc-CPL_qbCTj-FIclxgeBkI-kIwd8E_21MbcSp-w81skIA10XT42rMgndE5vCdphaXi5FzSavOM_7EXXEo2F5b",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJWx2bPX1uQUYRzKxcNezmH5o",
+        "plus_code": {
+            "compound_code": "WP7R+V4 Oslo, Norway",
+            "global_code": "9FFGWP7R+V4"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJWx2bPX1uQUYRzKxcNezmH5o",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 500,
+        "vicinity": "Kristian IVs gate 2, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9222391,
+                "lng": 10.7510158
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.92374873029151,
+                    "lng": 10.7525327802915
+                },
+                "southwest": {
+                    "lat": 59.9210507697085,
+                    "lng": 10.7498348197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Vulkan",
+        "photos": [
+            {
+                "height": 2832,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112725368894263257840\">OpenPoiMap - Mapa która cię zaskoczy / tourist map (Km2bp)</a>"
+                ],
+                "photo_reference": "AdDdOWr58hpb1Vk0sTnJ0vL3BvuQOatT_AB1YsYRcJYw4RcRo5fqqr03CEjOMRj9GYClIjtADny5YglsrR76GMiDuWG3WPipEYWBwClIaKAoe3VKqMStm3Q4c_LVD7NsJ81k_IJMClnNmsQrAh-jo35JZ0IBXjWM_ZKrMbnt7s8Nht-FUz2w",
+                "width": 3799
+            }
+        ],
+        "place_id": "ChIJMRa1nmVuQUYRZTOT-OABges",
+        "plus_code": {
+            "compound_code": "WQC2+VC Oslo, Norway",
+            "global_code": "9FFGWQC2+VC"
+        },
+        "rating": 4.1,
+        "reference": "ChIJMRa1nmVuQUYRZTOT-OABges",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 935,
+        "vicinity": "Vulkan, Maridalsveien 13A, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9141596,
+                "lng": 10.7335142
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.91556793029149,
+                    "lng": 10.7347800302915
+                },
+                "southwest": {
+                    "lat": 59.91286996970849,
+                    "lng": 10.7320820697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Continental, Oslo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2891,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104180590009730464003\">Hotel Continental</a>"
+                ],
+                "photo_reference": "AdDdOWpQVCGsBOn0PlPYNLhBZiQfXXDhbxReQF7mId2iICimRLI9zqoNRdeXTDyPe0CfIijXM86V4v8rPIhU2uE5TKd0GuGIL89AeJPFS0eE3D7HWyYtVfA5CaWtFFHvRyDzihPhXbwhRp2uz3qs8V21VzMTZhFxBUuwziX2zAf12dYNoLnk",
+                "width": 4336
+            }
+        ],
+        "place_id": "ChIJKUfL-n1uQUYRo4M6Cup-2xE",
+        "plus_code": {
+            "compound_code": "WP7M+MC Oslo, Norway",
+            "global_code": "9FFGWP7M+MC"
+        },
+        "price_level": 4,
+        "rating": 4.6,
+        "reference": "ChIJKUfL-n1uQUYRo4M6Cup-2xE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1386,
+        "vicinity": "Stortingsgata 24/26, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.92875649999999,
+                "lng": 10.8182742
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9302983302915,
+                    "lng": 10.8199523302915
+                },
+                "southwest": {
+                    "lat": 59.92760036970849,
+                    "lng": 10.8172543697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Quality Hotel 33",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4500,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104994619180765641787\">Quality Hotel 33</a>"
+                ],
+                "photo_reference": "AdDdOWqTuaH_eBpq65VcDIZ1pERHdq9yKZoNVDrIOiUDYn3sJ_ckZcpeG9EA4G-SB7BdQBIlUT9Es03sTg4CmssxASnP3DIMXcKNQ-itZYiOz01CzDemCHAp3inQHBmcbC9d513NdAgD7vPCoNfyPANKXs2KZRvxEjsbwKtNEt4Jxzqhj5uM",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJ8zJmMLZvQUYRHl5kflVKQvI",
+        "plus_code": {
+            "compound_code": "WRH9+G8 Oslo, Norway",
+            "global_code": "9FFGWRH9+G8"
+        },
+        "rating": 3.8,
+        "reference": "ChIJ8zJmMLZvQUYRHl5kflVKQvI",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1869,
+        "vicinity": "Østre Aker vei 33, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.91817400000001,
+                "lng": 10.739867
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.91947228029151,
+                    "lng": 10.7412981802915
+                },
+                "southwest": {
+                    "lat": 59.91677431970849,
+                    "lng": 10.7386002197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic St. Olavs plass",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113381690886214994139\">Scandic St. Olavs plass</a>"
+                ],
+                "photo_reference": "AdDdOWpMPzE4TNNJD2Qc6nacbcDxveC16UssjQT64uwMEuHbQf2LX-nrlmade5QXgjRmcPFZf8um7825kAEfqwoqW66QIrCZNCQzRN38jUkLbq2ey-kbUe3B5VSSWf7mfzVaxSRnvv1T2wm7Hz62eTvGyZJRlP1guj7NYO5G7PCoLPYeJnxV",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ4eLMSUfaFkYRgV5MoWq622o",
+        "plus_code": {
+            "compound_code": "WP9Q+7W Oslo, Norway",
+            "global_code": "9FFGWP9Q+7W"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJ4eLMSUfaFkYRgV5MoWq622o",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2212,
+        "vicinity": "Sankt Olavs Plass 1, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9130579,
+                "lng": 10.7428031
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9147798302915,
+                    "lng": 10.7442619302915
+                },
+                "southwest": {
+                    "lat": 59.91208186970849,
+                    "lng": 10.7415639697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Brasserie France",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 646,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112496151481734326017\">Brasserie France</a>"
+                ],
+                "photo_reference": "AdDdOWqbhbD4bBCANcgiPMHbiNubVgTDKn9uA3qKtKewGMC-R0P0lIMqt37j-Ahr3SVa42uisXYRnkN_IQKwSwMgAKrTsUHEUHy6N5Mqd8aS-dbpRF2lwhKm3akEbiQ4iyqjGTL9fa-n39xktvhPJi1oYJ88FG7tYlatBU0VV86yM4L5MA4L",
+                "width": 755
+            }
+        ],
+        "place_id": "ChIJfZiTrmJuQUYRo3gKwWWXWBY",
+        "plus_code": {
+            "compound_code": "WP7V+64 Oslo, Norway",
+            "global_code": "9FFGWP7V+64"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJfZiTrmJuQUYRo3gKwWWXWBY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1299,
+        "vicinity": "Øvre Slottsgate 16, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.91253580000001,
+                "lng": 10.7500239
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.91380523029151,
+                    "lng": 10.7512405802915
+                },
+                "southwest": {
+                    "lat": 59.91110726970849,
+                    "lng": 10.7485426197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Clarion Hotel The Hub",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 810,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114522374654470906299\">Clarion Hotel The Hub</a>"
+                ],
+                "photo_reference": "AdDdOWo-t_Fd7YTsk6Xh5dLtv-orsSZbV7Fp5ISnq1rN0ia1G_wG2mxMKV-IEHeKvrKz7ZxkZjQdAl6PsotxFZhTKOmkjlLyJyHxY1v16xPxZlAMnPjbKBUYu-UCU9Fmgfbv1c60Pgi4w6hBlzXtRwO4UY5FxuGS5vM_4GtOybniacsnUyiK",
+                "width": 1440
+            }
+        ],
+        "place_id": "ChIJu4ANBWJuQUYRNZ6I9WI4DUc",
+        "plus_code": {
+            "compound_code": "WQ72+22 Oslo, Norway",
+            "global_code": "9FFGWQ72+22"
+        },
+        "rating": 4.4,
+        "reference": "ChIJu4ANBWJuQUYRNZ6I9WI4DUc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3662,
+        "vicinity": "Biskop Gunnerus gate 3, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.90763899999999,
+                "lng": 10.7210813
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.90909533029149,
+                    "lng": 10.7226802302915
+                },
+                "southwest": {
+                    "lat": 59.90639736970848,
+                    "lng": 10.7199822697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "THE THIEF",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3744,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115581468979415646836\">THE THIEF</a>"
+                ],
+                "photo_reference": "AdDdOWqYVOR5lyf9FxbW34b-DE-pkFr598R1bbxujBXHMha8X7ZbSgEOZqygWGAWTzY_w-cSRmvhcxSXzNRccYq-wpKTr8jdWAdGbRUQfsogShVIBMkCQdzFbpJyeWLouRn4GBmKpNdLQoqyRtM2pH2vJOTuVqFbz37z_LjP1_b_COmERR9H",
+                "width": 5616
+            }
+        ],
+        "place_id": "ChIJGTp_5ylsQUYRqiIovfIyRT8",
+        "plus_code": {
+            "compound_code": "WP5C+3C Oslo, Norway",
+            "global_code": "9FFGWP5C+3C"
+        },
+        "rating": 4.4,
+        "reference": "ChIJGTp_5ylsQUYRqiIovfIyRT8",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1663,
+        "vicinity": "Landgangen 1, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.918761,
+                "lng": 10.758253
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.92005488029151,
+                    "lng": 10.7596006302915
+                },
+                "southwest": {
+                    "lat": 59.9173569197085,
+                    "lng": 10.7569026697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Delicatessen Grünerløkka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113154434993481425335\">Delicatessen Grünerløkka</a>"
+                ],
+                "photo_reference": "AdDdOWrEjymTrCHr_PgqLWXzM6UPx-eXVBVtvnYcWwwDFxP5Rfsm3P_pLsNydZWwQwt5S7EQSImOZfLbApjSBcEVAvwNQo25dDpwXE3fhoHUp8oB-M_uZFRPXnKHlL5SQgCeqktaK-DMXapjltDaD4CkWAZujarTzkXWfr6TPW4em8-gKoRJ",
+                "width": 900
+            }
+        ],
+        "place_id": "ChIJxZBd4GZuQUYR0nQLhIK_KiY",
+        "plus_code": {
+            "compound_code": "WQ95+G8 Oslo, Norway",
+            "global_code": "9FFGWQ95+G8"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJxZBd4GZuQUYR0nQLhIK_KiY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1016,
+        "vicinity": "Søndre gate 8, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.90892290000001,
+                "lng": 10.7419906
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.91018958029152,
+                    "lng": 10.7435065802915
+                },
+                "southwest": {
+                    "lat": 59.9074916197085,
+                    "lng": 10.7408086197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Engebret Cafe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111496536938348126611\">Engebret Cafe</a>"
+                ],
+                "photo_reference": "AdDdOWolbKmxw6MGr7uYG4WAJzeVeEWIcAkm9bZxo2MqwsCFfub7bdi2UqWo76JE7ikndfo34sI0eUwJP6uO9WmwcqYj9geoSZJwbhr0bm8e1m-4n9qCCbC30C0dD8MnI_V-GMAz13oav4b7VrDuiZ-msieo9U1hee0tsgij0LQditpv2gLc",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJowEvk4huQUYROE70i3p_oUU",
+        "plus_code": {
+            "compound_code": "WP5R+HQ Oslo, Norway",
+            "global_code": "9FFGWP5R+HQ"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJowEvk4huQUYROE70i3p_oUU",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1476,
+        "vicinity": "Bankplassen 1, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9138209,
+                "lng": 10.7346798
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9152163802915,
+                    "lng": 10.7361108802915
+                },
+                "southwest": {
+                    "lat": 59.91251841970848,
+                    "lng": 10.7334129197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dinner Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1500,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117263949088588974623\">Dinner Nationaltheatret</a>"
+                ],
+                "photo_reference": "AdDdOWoLd5mW8hb2jHJ0-gKG5D8OzsyVTF2r3AGpP2MH185Y1ymNSHU_evOfYrx-mcBnniuI3nTcH_LwbUz64O6irYjdVIUVM4ue2MlIZtiYD7pzXte3QlxJtkAnQcIjyijfM_BPQZCtKI0fagC5-AYoNqR-Ayiu4xcPPag7AEKy-Bvklw4D",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJ11438n1uQUYRviOgFwdQk18",
+        "plus_code": {
+            "compound_code": "WP7M+GV Oslo, Norway",
+            "global_code": "9FFGWP7M+GV"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJ11438n1uQUYRviOgFwdQk18",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "bar",
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2542,
+        "vicinity": "Stortingsgata 22, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.90857400000001,
+                "lng": 10.7244802
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9096301802915,
+                    "lng": 10.7259945
+                },
+                "southwest": {
+                    "lat": 59.90693221970849,
+                    "lng": 10.7206185
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Lofoten Fiskerestaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109318555874701358732\">Lofoten Fiskerestaurant</a>"
+                ],
+                "photo_reference": "AdDdOWqVQndVu6lCzPkolNAegj9BhibFcmTYVKm655QLDRGpjAa4fTRdlbhbnZOfIMBji8KQr0B91rbMw_1WevsvVZa5yizF5EmeLfd4Y2Q9Dzso-qIA81pvqOniWLwavxO5arvPKCxxJ8_7MsWlM301Fwhcc_4YZm16jiB6pQUXBPZfpSui",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJR8oEhoFuQUYRovvzW3cJbHQ",
+        "plus_code": {
+            "compound_code": "WP5F+CQ Oslo, Norway",
+            "global_code": "9FFGWP5F+CQ"
+        },
+        "price_level": 3,
+        "rating": 4.2,
+        "reference": "ChIJR8oEhoFuQUYRovvzW3cJbHQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1498,
+        "vicinity": "Stranden 75, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.91213399999999,
+                "lng": 10.747722
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9134577302915,
+                    "lng": 10.7491638302915
+                },
+                "southwest": {
+                    "lat": 59.91075976970849,
+                    "lng": 10.7464658697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Baltazar Ristorante & Enoteca",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115254551174141563583\">Peder Evensen</a>"
+                ],
+                "photo_reference": "AdDdOWrIJJi7Dgz-vvDNqEzLZaKkBGVEwJ-WycXoe5r30eUqwxMmVSDo3iknOaKWtR_EX3izVAzocf0uyWrts-Bq7rw5oa4XKXhgjMVAI1SAYuKdHOLVe8aaNQZJ6bR7e7jyQcnjus1oCzs_Ki28APjo9tn0LRWwPLyh1rj3ydGNzzwnnStc",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJHUEmdmJuQUYRQ1qIk8FacQg",
+        "plus_code": {
+            "compound_code": "WP6X+V3 Oslo, Norway",
+            "global_code": "9FFGWP6X+V3"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJHUEmdmJuQUYRQ1qIk8FacQg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1429,
+        "vicinity": "Dronningens gate 27, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9200628,
+                "lng": 10.752875
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.92138683029151,
+                    "lng": 10.7541892802915
+                },
+                "southwest": {
+                    "lat": 59.9186888697085,
+                    "lng": 10.7514913197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "BLÅ",
+        "photos": [
+            {
+                "height": 640,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117288599583181885197\">BLÅ</a>"
+                ],
+                "photo_reference": "AdDdOWrb8J4cX8FDCsLvOi_OjTAy04Hg5g2iEHNdt4QM2_lTWH9fS-icI3B_RNlNEog54eUMWrRxLyhrGPW9vs4lXMxWaTv2W-kIsqLNbKVypapDqZbeZhvVfnuuMXhSrSfHYv_Z3mn8RddsJOb_ogiymNakjNqpDw7wO_2Q78cfUf6eXQqd",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJSf8IMWRuQUYRjmHoBRtLi4M",
+        "plus_code": {
+            "compound_code": "WQC3+24 Oslo, Norway",
+            "global_code": "9FFGWQC3+24"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJSf8IMWRuQUYRjmHoBRtLi4M",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1741,
+        "vicinity": "Brenneriveien 9C, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9133797,
+                "lng": 10.7447081
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.91470148029151,
+                    "lng": 10.7460012302915
+                },
+                "southwest": {
+                    "lat": 59.91200351970849,
+                    "lng": 10.7433032697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Stortorvets Gjæstgiveri",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102997044678443940558\">Анна Здравкова</a>"
+                ],
+                "photo_reference": "AdDdOWqaS_ZZIN-Ddd928TckZBDVjRZlM5Z7peAHKOvDTJdzRx4HkI1CA_cCVZri9puzE-5LRrUjEn26HfKUJOBoX_yMLyV3IutsL0EKLho2eTtOPY7wHxD1g4-jdhNq4enqQMG_runRTXIECIf80FO8S5SXo7J2vQzpFlOC9sE014HgjSSz",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJOej1lmJuQUYR6JfMQSTwC8s",
+        "plus_code": {
+            "compound_code": "WP7V+9V Oslo, Norway",
+            "global_code": "9FFGWP7V+9V"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJOej1lmJuQUYR6JfMQSTwC8s",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 896,
+        "vicinity": "Grensen 1, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.9222297,
+                "lng": 10.7520516
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.9235886802915,
+                    "lng": 10.7531762302915
+                },
+                "southwest": {
+                    "lat": 59.92089071970849,
+                    "lng": 10.7504782697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mathallen Oslo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4455,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115592945062485431760\">Mathallen Oslo</a>"
+                ],
+                "photo_reference": "AdDdOWoVDfoWvYwhYDn2mEMWv8EV63T-RqZyzRFFcqNaK1RX8t0v5NBnbYwSF8nGGzOEqoWYwpBLZJDPXZjx2u6SN9xfuWLE_8UyJAZfIocxFGx0X_Ms3dqDKDxaQibXpcMVImzqOaiJ25kb-hiysqrz7gV5UEHEqOYrKOMbe91ClgzTxokm",
+                "width": 6683
+            }
+        ],
+        "place_id": "ChIJLSeTf2VuQUYRw9V12gQwpqU",
+        "plus_code": {
+            "compound_code": "WQC2+VR Oslo, Norway",
+            "global_code": "9FFGWQC2+VR"
+        },
+        "rating": 4.5,
+        "reference": "ChIJLSeTf2VuQUYRw9V12gQwpqU",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 8939,
+        "vicinity": "Vulkan 5, Oslo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.91810710000001,
+                "lng": 10.7475636
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.91950073029151,
+                    "lng": 10.7488842802915
+                },
+                "southwest": {
+                    "lat": 59.9168027697085,
+                    "lng": 10.7461863197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Klosteret Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4672,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112452980135404263324\">Klosteret Restaurant</a>"
+                ],
+                "photo_reference": "AdDdOWohG9SXD2VfbVGMmfk7nTVMczq2FkX7V6rz6RaU-9AHuZWY4FsBYqEiWuiU_ydYTZNtSLwbOHDXV1g7-GZZMiTu5m4zN5GNzsE6UlEDVF6TX9tbGpw56oARABdYTy2X5ffopzQDzcF3aMxeEp0ge47zz1OOxJg4ZSsjOGPPCZyX7Fu3",
+                "width": 7008
+            }
+        ],
+        "place_id": "ChIJQYQXnWRuQUYRNTelKe8jrSU",
+        "plus_code": {
+            "compound_code": "WP9X+62 Oslo, Norway",
+            "global_code": "9FFGWP9X+62"
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "ChIJQYQXnWRuQUYRNTelKe8jrSU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 606,
+        "vicinity": "Fredensborgveien 13, Oslo"
+    }
+]

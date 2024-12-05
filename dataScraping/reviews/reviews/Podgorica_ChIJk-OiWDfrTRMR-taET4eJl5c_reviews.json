@@ -1,0 +1,30 @@
+{
+    "name": "Dostava Hrane Podgorica",
+    "rating": 3,
+    "reviews": [
+        {
+            "author_name": "Alo Alo",
+            "author_url": "https://www.google.com/maps/contrib/107071673421233901382/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItzI7fw4KhECt9fCBqa6tIwdyjJIO8_ugBfK9iIH-hmG8LIQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "7 years ago",
+            "text": "Bad",
+            "time": 1509433807,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan Stojkovic",
+            "author_url": "https://www.google.com/maps/contrib/101849881562188452673/reviews",
+            "language": "en-US",
+            "original_language": "hr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQBNzgMVK8l_VUoximltlDkhH5fVGDXr9sCXzLKRTgZ9D1dw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "There is no waiting at your place, all praise for Restaurant Mantra in Podgorica",
+            "time": 1496149052,
+            "translated": true
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Pulitzer",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Kathy Figueiredo",
+            "author_url": "https://www.google.com/maps/contrib/100927248308005706945/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICZt5N5wW6aehMqnliqCwudTnw1FqJkUEXlh2d-jEYcQGMCw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My husband  and I and recently stayed at Hotel Pulitzer in Barcelona.  Our room was light and airy with nicely appointed decor. Breakfasts were either buffet or made to order, both were very nicely done.  Although we did not have lunch at the hotel, we did enjoy the cheesecake, just fabulous!  They have a very nice terrace bar for an afternoon gathering with friends.  The hotel is very well located for shopping and you can walk to many of the cities incredibly  beautiful sites.  However, the best part about Hotel Pulitzer without doubt is the staff.  Every person that worked at the Pulitzer was so friendly and went out of their way to greet us.  It was truly a delight and I do hope to return!",
+            "time": 1729808017,
+            "translated": false
+        },
+        {
+            "author_name": "Elizabeth DiAlto",
+            "author_url": "https://www.google.com/maps/contrib/113818127859578851260/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUm5cpiKBEzV48lYlvA1R1sbyRg8E_4Tj50FDbucPeXsKxLL6Yw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Loved my stay at Hotel Pulitzer. The tile in the bedroom and lobby bathrooms is so beautiful! Beds are comfortable, food and service are excellent, and I was pleasantly surprised at how quiet it was in the room considering it's right off a very busy street. Also loved the water dispenser in the hallway. Highly recommend!",
+            "time": 1731859499,
+            "translated": false
+        },
+        {
+            "author_name": "Jasmine",
+            "author_url": "https://www.google.com/maps/contrib/114787808004845673289/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaDJNItJWCrUX2-lJlzrKxO7tNhh6kBM07At3RJ8Tu24BliTO5=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "While the location of this hotel is excellent, I was expecting a lot more for about $400 a night.\n\nAs a lot of the other reviews say, the walls are quite thin and it is very loud no matter what floor you are on. If you were on a lower floor you can definitely hear people talking and cars passing by on the street. If you are closer to the roof than you hear the music from the rooftop bar. Even just inside you can hear people shutting their doors and walking and talking. The room itself is quite small and a little disappointing. We were told we got the biggest room because we paid for a bigger suite for three people and it was still just two twin size beds with the sofa made up with sheets. It was the exact same as my friend who paid for a cheaper room for three people and it was made up the exact same way.\n\nThere's also virtually no space to put your luggage and depending on where your couch is located, you can't even open the dresser fully so you are even more pressed for space. Our bathroom door handle was also broken and took 2 days to fix. Overall not worth the price, even with the good location, and I definitely would not stay here again.",
+            "time": 1729018966,
+            "translated": false
+        },
+        {
+            "author_name": "Curtis Aloisio",
+            "author_url": "https://www.google.com/maps/contrib/118386534266135368952/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8nGWdJQEy8CHkqj81cg0aR9yrjj6QTcxL-oRRJISO04NkSCY=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "This is overall a great hotel! We enjoyed our stay and would certainly visit again. It's in a fantastic location and also has a nice rooftop. Can be a bit noisy from the hallway so it might depend on other guests if \"too noisy\" and also cleaning staff can be easily heard in the hallways too. Our only other complaint is they did not refill the in room coffee pods when room was serviced seem a bit odd. Very minor complaint but hope they fix that for future guests.",
+            "time": 1726328813,
+            "translated": false
+        },
+        {
+            "author_name": "Sam Hammond",
+            "author_url": "https://www.google.com/maps/contrib/106164619892844661192/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs1rfTAG3t9zcn4IJA4aAyUKwmTFk117TTB_xZBL8rOy_rFaJc=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Quite frankly a wonderful hotel in the heart of Barcelona. The location really couldn’t be much better. The rooms are amazing and far more spacious than we expected. General design and vibe is great. Will definitely be back!",
+            "time": 1730622610,
+            "translated": false
+        }
+    ]
+}

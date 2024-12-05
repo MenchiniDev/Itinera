@@ -1,0 +1,66 @@
+{
+    "name": "Samurai",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Chi Chi",
+            "author_url": "https://www.google.com/maps/contrib/108985368858881105007/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTtjx8yKpZvzsAmStmklEZnNALLtKNDCcNMF4tuGTOL_0uXmOf=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Guys, order the menu (per person) which just costs 10,50€! you will get a small bowl of soup, small salad, small bowl of fried rice, main dish, drink and a dessert! totally worth it.\n\nthe food was good and for the price just incredible.",
+            "time": 1625958669,
+            "translated": false
+        },
+        {
+            "author_name": "Mario R",
+            "author_url": "https://www.google.com/maps/contrib/100914973101123848054/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSBkhjsDWtjZEgGVAIEywpwz3BEo9BXhNWP5mriiizrmqu7YfW=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "10 months ago",
+            "text": "Sushi restaurant offering large portions and quite reasonable prices. Food was really tasty and the service was excellent!",
+            "time": 1705748545,
+            "translated": false
+        },
+        {
+            "author_name": "Leonhard Radonic",
+            "author_url": "https://www.google.com/maps/contrib/105104196060560739286/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_Kc7nueBPBBmPEHArdrJlzxp3JExy71HYqPKTv-cRIHeyu8v9=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Great food, friendly staff. They don't speak english very well, but you can communicate with them easily.",
+            "time": 1627133386,
+            "translated": false
+        },
+        {
+            "author_name": "Thy Thy",
+            "author_url": "https://www.google.com/maps/contrib/111209938521279253656/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0W7znCs_OWgUHkxxrjw2XxB7Z5o8fgNyAOIhgjz5KSIGp2eVpNw=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "6 years ago",
+            "text": "Just for this \"maki sushi mixto\" i had to wait for more than one hour... I am from Asia but for me, the taste was not really good, there was something wrong... Why the rice was so sweet? Did they put sugar in it? So weird..",
+            "time": 1539380996,
+            "translated": false
+        },
+        {
+            "author_name": "Alex Istin",
+            "author_url": "https://www.google.com/maps/contrib/108345341375675691771/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH3ch3RkycqZUn2H2ci-Ae8B1skuuiAkWokugJ1ICEw48ws-xO=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The food is veeery delicious.",
+            "time": 1728485389,
+            "translated": false
+        }
+    ]
+}

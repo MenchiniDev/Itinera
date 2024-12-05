@@ -1,0 +1,66 @@
+{
+    "name": "Ristorante Da Ettore",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "kris bouchard",
+            "author_url": "https://www.google.com/maps/contrib/110395132032230448484/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSxhFbGU8_4fmxPkobyXToz-827CWZwMWdF1enPPRxzAcySoIp=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "From the street we could hear the sounds of a busy kitchen and the voices of happy diners so we stopped to check out the menu.  All written in  italian but we figured enough to know we would find something we liked.\nWe were seated with a menu that had English notes and picked out choices.  The staff had made recommendations and the ordering began.\n\nWe had drinks, starter, sides and main.  All very reasonably priced.\n\nYum all the way thru.\nWe have really enjoyed the local dining.  Such a lovely experience.\n🇮🇹❤️🇮🇹❤️",
+            "time": 1728533911,
+            "translated": false
+        },
+        {
+            "author_name": "Eliza H",
+            "author_url": "https://www.google.com/maps/contrib/108971972334603101420/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa353EOQcfHxfVakEPeNWGEfGlBSVCr4p1TsZnVhu3aI8UbuSY=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This was such a banging meal - one of the best we had in Italy. The service was a little bit slow but apart from that it was perfect. Would say it’s a must-visit in Naples",
+            "time": 1726779042,
+            "translated": false
+        },
+        {
+            "author_name": "Olena Zdanovska",
+            "author_url": "https://www.google.com/maps/contrib/118058055000284073103/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfWFqlcvsP9LlCgRjcDHc9xk3rOj7zX7g_r4kKBgPixgIYhbcd=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "My Italian friend showed me this place. I was impressed the moment i opened their menu, not only pasta and pizza, but lots of seafood dishes! They have small terrace outside, good selection of wine. All dishes we ordered  were very tasty,mext time come back for some pizza!",
+            "time": 1710522088,
+            "translated": false
+        },
+        {
+            "author_name": "Arthur Marques",
+            "author_url": "https://www.google.com/maps/contrib/100383187851853972276/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmR0K608i39tGz3OSJmV8yNSbufpC-DuqiQHKtNTnADcjUw3s=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Really nice place, with the same quality of the fancier restaurants closer to the water, but a better quality-price rapport as it’s a bit farther. We ate the pasta that was the specialty of the restaurant and it was amazing. The squid, prawns and escalope with lemon sauce were delicious too. The point of improvement, to me, is the service. Despite not being rude at all, we did have to call the waitress every time to change the plates, make an order, order more wine, get the next course, etc. They were not bad, just not really proactive.",
+            "time": 1655468368,
+            "translated": false
+        },
+        {
+            "author_name": "Shannon Eichberg",
+            "author_url": "https://www.google.com/maps/contrib/105447310624114328749/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQxfQdXvCJ7mYC5ils3Ph_fbhIW839HyHBA_lBd1GDKQXofQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We visited Naples for a day trip and our taxi driver say it’s the best pizza in town!  We were very happy with his suggestion!  Great food and service!!",
+            "time": 1727960773,
+            "translated": false
+        }
+    ]
+}

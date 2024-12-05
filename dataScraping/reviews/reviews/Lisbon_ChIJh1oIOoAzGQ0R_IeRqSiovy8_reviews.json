@@ -1,0 +1,66 @@
+{
+    "name": "The Decadente",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "MPF H",
+            "author_url": "https://www.google.com/maps/contrib/112592032055079279988/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7F3tRmpedqMSRYpoyj2aelNjxUVnet3SA5kCLFjKnUI5wnA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We spent a wonderful evening here. It started with the Ginjinha Sour cocktail (with chocolate) & Caipirinha, then Peixinhos da Hort (beans), crispy chicken, and black pork, as a desert choclate tart. The atmosphere is relaxed, the service is attentive, and the food is exceptionally well-prepared and delicious. The price-performance ratio is very good. Thank you for the wonderful dinner.",
+            "time": 1729248170,
+            "translated": false
+        },
+        {
+            "author_name": "Andrea A",
+            "author_url": "https://www.google.com/maps/contrib/117514871153797852189/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiDV0Z_NqR7MyiMe3GpMh_3HVPJIdCKZiRRQrCoNcNcYSBtJ6g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Introduction to the table and menu was warm and welcoming. Everything was delicious and came out super fast. The fried chicken was so good we ordered more - highly recommend. Bar knows how to make cocktails (the mojito was perfect)! Would definitely come back next time I’m in Lisbon.",
+            "time": 1719926243,
+            "translated": false
+        },
+        {
+            "author_name": "Jed Zia",
+            "author_url": "https://www.google.com/maps/contrib/102082464061682375860/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXRZvXWL4Z_rto3Fkt_ks6hxXcmGoeli7X3pNnPU8qs31Ghd0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "What a super nice experience! The sourdough bread was *chef’s kiss* amazing and tasted very fresh. Also a very big fan of the fried chicken (prob one of the best I’ve ever tasted anywhere) and the lamb! The dessert we got (compressed cucumber & merengue) was kind of weird on paper, but when we tasted it, we were so pleased with how good it tasted and how well the ingredients worked together.\n\nYou definitely have to make a reservation though - we went on a weeknight and it was still super crowded!",
+            "time": 1708449697,
+            "translated": false
+        },
+        {
+            "author_name": "Iryna Kruts",
+            "author_url": "https://www.google.com/maps/contrib/109149209710299143651/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXI0_mui34Uzyvnyp-ChID8LOKLnAslpWZzwcyP54zCy8J53ulQpw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "I'm giving a rating of 3 because my boyfriend booked a table a week in advance, but we were given some unclear table by the entrance. Do you really treat your guests like this? In my opinion, with a prior reservation, you should give the best tables.\nHowever, we were served by a very pleasant girl who managed to negotiate with their unpleasant manager to move us outside.\nThe food is very interesting and tasty",
+            "time": 1717104963,
+            "translated": false
+        },
+        {
+            "author_name": "Stef Kovac",
+            "author_url": "https://www.google.com/maps/contrib/100162590396119525446/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW9FDID7RIIeXW6XgQcRWvEi7v8w98YBikeCSRBW895V1bqLE=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Every single element of our evening here was amazing, the staff, the ambience, the food, the cocktails...\nTruly the best meal we had in all of Europe!\nWould absolutely recommend the fried chicken, I'll be dreaming about it for weeks",
+            "time": 1716982177,
+            "translated": false
+        }
+    ]
+}

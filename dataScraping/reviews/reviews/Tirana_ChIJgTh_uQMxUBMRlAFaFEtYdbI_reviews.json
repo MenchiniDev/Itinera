@@ -1,0 +1,66 @@
+{
+    "name": "Vinoteca Miguel",
+    "rating": 4.9,
+    "reviews": [
+        {
+            "author_name": "Denis Hyka",
+            "author_url": "https://www.google.com/maps/contrib/113068125503885134770/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8IAN0PBdABciDjMVyUis8jDRecROxoCKdJcUCGMt1jTbuWQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excllent food well paired with a distinguished wine list. Professional and friendly staff and owners. Amazing experience. If you  happen to be in Tirana this a place that deserves a visit.",
+            "time": 1729269022,
+            "translated": false
+        },
+        {
+            "author_name": "Skerdilajd Memushaj",
+            "author_url": "https://www.google.com/maps/contrib/114676656555775087319/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvAA9oTsAtoPqihO0baDy9pF1XgKXmrOGydrgTyhp_aS2iIgPgYw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Meat is always great here!\nPaired with the right wine in the right atmosphere!\nAnd the team was excellent service and polite!",
+            "time": 1676800047,
+            "translated": false
+        },
+        {
+            "author_name": "narminda b",
+            "author_url": "https://www.google.com/maps/contrib/104517785091262999883/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUxueZrU3NS95ts9a0rqvB0IZ9-1Ccbr7xakLXtnWLqJb_nUgw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Positive vibes, Italian food, luxury ambient, excellent food and confy prices.",
+            "time": 1575900499,
+            "translated": false
+        },
+        {
+            "author_name": "Eden Aksot",
+            "author_url": "https://www.google.com/maps/contrib/117937704502893900305/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ5SNKwWgRBN2x16mIwC7awwf-iMwN_S-cUToO0m2E9_YIcyni=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Delicious wine and food!",
+            "time": 1640005354,
+            "translated": false
+        },
+        {
+            "author_name": "Bledar Mavriqi",
+            "author_url": "https://www.google.com/maps/contrib/102063869766384257570/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViVdCkirNIFfrNzGfjhVrc6KMv4RO4_SAFD6ua4kJWWAxuN3jk=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Best vinoteca in tirana",
+            "time": 1612688887,
+            "translated": false
+        }
+    ]
+}

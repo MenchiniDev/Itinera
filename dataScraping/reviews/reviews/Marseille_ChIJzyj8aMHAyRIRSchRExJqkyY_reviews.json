@@ -1,0 +1,66 @@
+{
+    "name": "La Fabrique",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Jenny Grossmann",
+            "author_url": "https://www.google.com/maps/contrib/117251406879751159190/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVHLbD2qMMRx8Tbt3HfOF3aFc-Ty-YBOELOlk0MWr6OI5DyCo=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Highly recommended. The lunch was really delicious and the service nice! I would eat here again.",
+            "time": 1502972204,
+            "translated": false
+        },
+        {
+            "author_name": "Arun Verma",
+            "author_url": "https://www.google.com/maps/contrib/109393272011300585881/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO3DTLtU_xjFWrEaYLAIAnw6JDR22HWKFnYMBZSi0Im38Pims=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "8 years ago",
+            "text": "I heard a lot of positive buzz about this place and was expecting big things but is just an average bar with an average selection of drinks and snacks. Nothing wrong with it, just not amazing.",
+            "time": 1468409546,
+            "translated": false
+        },
+        {
+            "author_name": "Carlos Alberto Raya Vaca",
+            "author_url": "https://www.google.com/maps/contrib/112674093534459087568/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUg4JqjARRntVX0CTgYSMykP0pS56SxK7q1U2RCtRuY3ZhIm0=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Is a good sunny place, but sometimes it takes a little long to eat at midday.",
+            "time": 1495479540,
+            "translated": false
+        },
+        {
+            "author_name": "San",
+            "author_url": "https://www.google.com/maps/contrib/115597377440592370141/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQvolNJx-phhgVmaTvR5bMtMIfXicGZbSir5xTM2M12VD44zxU=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Great place for a lunch in the sun and friendly.",
+            "time": 1522921677,
+            "translated": false
+        },
+        {
+            "author_name": "ambrine cud",
+            "author_url": "https://www.google.com/maps/contrib/115482804529587347375/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbcfHRMgWAIqeL6niI83DlXHDO5mA5EV89jZkl8e1a1moxjA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Top",
+            "time": 1595801369,
+            "translated": false
+        }
+    ]
+}

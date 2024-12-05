@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Londra",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Jo Emma",
+            "author_url": "https://www.google.com/maps/contrib/109686195009668316120/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0-ZqL1E-QUO2W4VA7MGJmhXShImof1kPSSgzkJj3zdkJh8g=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "The location is excellent; not in the very middle of the city where it's loud but still a very short walk from the station if you come by train. Our room was big and nice; the only downside was that it was difficult to get cold enough water to drink from the tap. The personnel is very friendly and the breakfast is good. However, the biggest plus is the restaurant downstairs. The food is absolutely amazing and the personnel wonderful.",
+            "time": 1552306390,
+            "translated": false
+        },
+        {
+            "author_name": "Jessica Helen Groombridge",
+            "author_url": "https://www.google.com/maps/contrib/111074281561200593444/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2k6IyCdrLw4rZLFz5mhGxdgEWRbKTikOtz32UD-C5POgnYwnVCg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Just outside the ZTL area. Hotel has a garage and a car park but neither can be booked on advance. Don't be put off by the exterior, inside is much nicer with elegantly furnished comunal areas and a bar with a small outside patio. We opted for Design rooms so got a higher floor. Rooms were a good size and the bed was comfortable. Noisy if you have a room overlooking the front of the hotel and sleep with the windows open.",
+            "time": 1650053927,
+            "translated": false
+        },
+        {
+            "author_name": "Dr. Erin Shirk",
+            "author_url": "https://www.google.com/maps/contrib/102063281969596374460/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFC3jST0ocDLDMJUoI75HM2Fy0G0F0_TkwtvkLsSkPXb1-FGnkMA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Check-in was seem less, staff is accommodating, and the location is central to everything! I've been walking distance to everywhere I've wanted to see. Room is spacious and meets my needs. The towels are the biggest and comfiest I've ever seen! Breakfast every morning is delicious, don't miss out.",
+            "time": 1517036948,
+            "translated": false
+        },
+        {
+            "author_name": "Sam Playle",
+            "author_url": "https://www.google.com/maps/contrib/112960745262437730227/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUb6YGUVTu0h1BoIkB2z7zo6Yepqi7kNDWUiwAEHtxBNoIuOEO_tA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Good location close to the train station and the historic city centre. The room is clean and spacious with good air conditioning and a nice bathroom. The staff are helpful and friendly. The breakfast buffet is tasty and varied. There is a gym in the basement with a multi gym and some cardio machines.",
+            "time": 1501698946,
+            "translated": false
+        },
+        {
+            "author_name": "Hameed Bhatti",
+            "author_url": "https://www.google.com/maps/contrib/103568293208981293783/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt_Sp7wEoJbhtAQSEf4h4Lv2-uK1MGEKDbt6g7JU1TGDPqR1AVmA=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Excellent hotel. Very close to the train station, clean, attentive staff and an excellent breakfast. Room #403 needs to be redone as the washroom is so tight, even a cat can't fit in there. I was banging my elbows on the shower door behind me as I was brushing my teeth at the sink.",
+            "time": 1534494081,
+            "translated": false
+        }
+    ]
+}

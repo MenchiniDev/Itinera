@@ -1,0 +1,66 @@
+{
+    "name": "Hestia Hotel Jugend",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Marius Surplys",
+            "author_url": "https://www.google.com/maps/contrib/114410102588374636478/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwHN5RaYMCFeAbO4vm8mBBtKfyIkKhaRsEEG3RXaOCF5pp9A=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Great location with an affordable rate! We booked two rooms, and the hotel is just a 20-minute walk from the Old Town through a lovely park, close to the embassy district. Paid parking is available (€20 per day). The staff is very friendly and helpful. Rooms and bathrooms are clean, though they could use some renovation. Breakfast exceeded our expectations with a wide variety of food and delicious coffee. The only drawback was the poor sound insulation, so we could hear noise from the hallways. Overall, a pleasant stay!",
+            "time": 1730700963,
+            "translated": false
+        },
+        {
+            "author_name": "David W",
+            "author_url": "https://www.google.com/maps/contrib/110771278965927139668/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFkqfVc1wettn09X7c7iYA-NTlmYnuro6d2tPpCKVcGe-WgQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Lovely hotel just out of the centre. However easy walk to all the main places and bus/trolley service stops just outside",
+            "time": 1731312527,
+            "translated": false
+        },
+        {
+            "author_name": "William J Hayden",
+            "author_url": "https://www.google.com/maps/contrib/111372015148592826943/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpTCIhygAx_ANzhuu2qAEYcLjbnA4z4irZb9mKXFWZFAKd9D_h=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Budget hotel about a 15 minute walk from Old Town.  Clean rooms, small but well-appointedroom, good breakfast.  Would use again.",
+            "time": 1725166700,
+            "translated": false
+        },
+        {
+            "author_name": "Zilvinas Zemleris",
+            "author_url": "https://www.google.com/maps/contrib/104182686660432207750/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsLybeMqRHK3iqgqAnijJlD1A9L8oz5-HRPyZrFX5u4kwPZA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Nice hotel in very heart of artdeco architecture reagion in Riga. Friendly staff, goid breakfast.",
+            "time": 1723533724,
+            "translated": false
+        },
+        {
+            "author_name": "Mikko Kontiainen",
+            "author_url": "https://www.google.com/maps/contrib/107507646754680777483/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAu_NabRZ4jVAtnCw5O2M0xcBOpKbBDKwNngEvVRD-GH7_6Ku2wQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Nice hotel with character, restored in an old building. 30 min walking distance to old town centrum. Not quite as luxurious as marketing has you believe. Our room is a two bedroom suite with a queen size bed and an extra folding double bed. Rooms are rather small but cozy.",
+            "time": 1697436729,
+            "translated": false
+        }
+    ]
+}

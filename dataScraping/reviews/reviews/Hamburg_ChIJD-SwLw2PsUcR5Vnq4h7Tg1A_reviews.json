@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Hafen Hamburg",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Habiba Khalifa",
+            "author_url": "https://www.google.com/maps/contrib/113444253589235310700/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGULXoLdn0Ufx9pz2pRT25RDr8e3XMNWStsLR9UyOOX6PXuNk=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We discovered this exceptional hotel during an online search, and it far surpassed our expectations. The location is simply perfect—situated in an ideal spot that made exploring the area incredibly convenient. The entire property was spotless and meticulously maintained, with an attention to detail that was immediately noticeable and added to the overall ambiance.\n\nHowever, what truly made our stay memorable was the staff. Every interaction we had with the team was a pleasure; they were consistently warm, courteous, and highly professional. A special mention must go to the reception staff, who went above and beyond to ensure our comfort and satisfaction. Their level of service was nothing short of exemplary, making us feel truly valued as guests.\n\nGiven this outstanding experience, we can't imagine staying anywhere else when visiting this area again. The combination of a prime location, well-maintained facilities, and exceptional service makes this hotel a standout choice for any traveler.",
+            "time": 1729680823,
+            "translated": false
+        },
+        {
+            "author_name": "marc lyall",
+            "author_url": "https://www.google.com/maps/contrib/107011745751858141247/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnYy9_hBFH647lPsbGEkWGo-kdCbAUZ2pjb5qxqgfPMvUV8Q=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Stayed here in May with my daughter and her boyfriend in order to go to a concert. I last stayed here about 40 years ago and I am pleased to announce that it is still great. An imposing building in a very convenient location. Comfortable rooms (albeit a bit small), a lovely bar (i don't normally like hotel bars) and a nice restaurant. The best thing about Hotel Haven is the staff, friendly, welcoming, professional and polite. I won't leave it another 40 years!",
+            "time": 1725283816,
+            "translated": false
+        },
+        {
+            "author_name": "Sally Palet",
+            "author_url": "https://www.google.com/maps/contrib/118416828710136716897/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdyDax95U1ZY3npdFELVdg1YHiZDc4OwC59eGerp6mOy_93qc=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This hotel has very high standards in terms of cleanliness and quality. The rooms are a good size, the food is excellent - the breakfast selection is incredible!\nLocation is good in terms of transport connections and the city - be prepared for some steps to get quickly down to the river!",
+            "time": 1726127369,
+            "translated": false
+        },
+        {
+            "author_name": "Philipp Lohmar",
+            "author_url": "https://www.google.com/maps/contrib/106391241044890671558/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV_IQ7rqUDeNSAW6dJ7kNPDUhrSi2vX-MTm_kcNP54LExxe540=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "We had a team dinner at Hotel Hafen Hamburg, and the experience was overall fantastic. The atmosphere was great, with a beautiful view and a cozy, maritime-themed interior. The food was delicious, and everyone in our group enjoyed their meals once they arrived. The only downside was the waiting time—we had to wait about 60 minutes for our food, which was a bit longer than expected. Despite that, the staff was friendly, and we still had a great time. Would definitely recommend, just be prepared for a bit of a wait!",
+            "time": 1727900641,
+            "translated": false
+        },
+        {
+            "author_name": "Edvin Hatloe",
+            "author_url": "https://www.google.com/maps/contrib/106738099359486053171/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrUMuG7wj-4OrmvbtyUBouJXCo1xRigMix8J2k6Cw32iPbTQ0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I'm a sucker for history and places with character, and this place have plenty.\nGreat location, clean and modern rooms and a nostalgic Maritime them in all public areas, almost to a point of museum vibes.\nGreat restaurant and breakfast buffet.\nThe small beer bar is also full of character.",
+            "time": 1720212037,
+            "translated": false
+        }
+    ]
+}

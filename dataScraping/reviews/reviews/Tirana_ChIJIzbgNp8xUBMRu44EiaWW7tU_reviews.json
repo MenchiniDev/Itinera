@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Euro",
+    "rating": 4.8,
+    "reviews": [
+        {
+            "author_name": "Leda Hoxha",
+            "author_url": "https://www.google.com/maps/contrib/105778274378605486651/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPJQkYDhS3TlfPi27W_iPdx_Fke7WjgRWeCMIwS12sU-UiPQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I was with my family at Hotel Euro and we spend some time at Tirana. The hotel had a perfect location and it wasn't so far from the center. Also there was the public transport next to the hotel. The food was very good and delicious. Rooms were very clean and big enough for our family. Thank you hotel Euro for this great experience🙏",
+            "time": 1694865546,
+            "translated": false
+        },
+        {
+            "author_name": "Wendy Muco",
+            "author_url": "https://www.google.com/maps/contrib/114138113874827691147/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-VOM6QboEvfQVFzyET-jKpMi5A0GekVMcRPysL7l3bkWVWA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The hotel was very good and every thing was perfects. The rooms were big enough and the food was delicious. The location was perfect and it was near the center. Also there was a bus staton next to the hotel. Thank you for your exellemt services.",
+            "time": 1694864857,
+            "translated": false
+        },
+        {
+            "author_name": "GoldenApes",
+            "author_url": "https://www.google.com/maps/contrib/101278472898255594464/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUckcQKXI9CO7uLmIVbSy0u3WMjWlkp74WFRZv2nNmj8NJbg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A very nice location, the rooms were very clean and the staff was verywell mannered. They went over and beyond to help make our stay as comfortable as possible. I highly recommend this hotel for anyone visiting Tirana.",
+            "time": 1684309097,
+            "translated": false
+        },
+        {
+            "author_name": "AlbanianHipHop Association",
+            "author_url": "https://www.google.com/maps/contrib/102783633169027601162/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsSpaAQ1Yrb6oPc_NTyo5sQbuEoNczXvNG3MrgQsEaktme2A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A very well mannered staff and the rooms were very clean and contain everything essential. Very hospitable and kid friendly. I highly recommended  anyone visitng to see for themselves.",
+            "time": 1684309413,
+            "translated": false
+        },
+        {
+            "author_name": "AD",
+            "author_url": "https://www.google.com/maps/contrib/116280141074036497948/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_0CeEMQC2OK3vxZ8_9VZtAf8lGvuqpZgwdZCLfV30ctArQhLl=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Just had to really write in here after my second return. Absolutely great as it was when I was here a month ago..nothing seems to much for them.  They are always happy to help you out with anything. Great place I highly recommend.\n\nI will be back when I'm next in Tirana.\nThank you team for a great experience.",
+            "time": 1682373360,
+            "translated": false
+        }
+    ]
+}

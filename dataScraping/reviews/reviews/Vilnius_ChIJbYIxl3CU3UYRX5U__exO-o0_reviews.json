@@ -1,0 +1,66 @@
+{
+    "name": "Žemaitė's Hotel",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Vincent Penninckx",
+            "author_url": "https://www.google.com/maps/contrib/115308367457724120535/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOArzLIIMRo4TQgrGxhfcDqxZNnfGqan7fH84-b0vGZComjaln=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Room is OK but smells old. Some furniture are broken in the bathroom.\nQuality of the breakfast is barely decent.\nMoreover hotel is super noisy. They let people organising parties with drinks and food in the hallway and pretend it's normal.\nFor the price paid, it's not even worth it... for 80 euros, you'll find something better in Vilnius.\nWill never go back although I regularly visit this city.",
+            "time": 1728755448,
+            "translated": false
+        },
+        {
+            "author_name": "Anna Dõtõna",
+            "author_url": "https://www.google.com/maps/contrib/101911105886162665393/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdvXn5XdYUPCqy6_UMXq-QVz9Tbo56By0ba9Mg7Bf4etmMPzk=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "This hotel looks exactly as it is on pictures. Rooms are clean, but tired and need renovation. Everything is old in this hotel. No sauna. Beds are uncomfortable and really small. But the price is also cheap. Good connection with city centre by public transport, ticket cost 1 euro you can buy from bus driver.\nRooms are small, but still you have one soap, shampoo, teapot and fridge.\nBreakfast also small variety. But good and tasty food. Don’t expect too much and everything will be fine",
+            "time": 1673592182,
+            "translated": false
+        },
+        {
+            "author_name": "shmuli prijs",
+            "author_url": "https://www.google.com/maps/contrib/110353164068883451991/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZLsBocrmM07dzYcwdnluCp4tDK5IkGRvd2NcMLq-vVANthPpj=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "6 months ago",
+            "text": "Alright price wise,\nNot the cleanest rooms,\nDoor handle and lock was broken, TV not working well....\nStaff were nice!",
+            "time": 1715562039,
+            "translated": false
+        },
+        {
+            "author_name": "Ekaterina V",
+            "author_url": "https://www.google.com/maps/contrib/118390786536793356068/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeYXH-JGk2afFUUPIv_n9t3jxO7K1-bEpBZ2c_Yq3x1uClDA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Fine servis, personal and hotel, nice restaurant, thank you at all.",
+            "time": 1721740304,
+            "translated": false
+        },
+        {
+            "author_name": "Johanna Randvere",
+            "author_url": "https://www.google.com/maps/contrib/106797562125073329527/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVpAXgE8ep_Z2oXiXW6wNrMQkgKk9QJaa4potJfomuP1NBFgo2=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "A very decent hotel for it’s price. The breakfast is good, although very greasy- there is something for everything, aslo the children will find enjoyable things to eat. Nevertheless there wasn’t a “please do not disturb” sign in the room and I personally find it a big waste of energy when once used towles, soap ect habe been replaced with new ones.",
+            "time": 1682359876,
+            "translated": false
+        }
+    ]
+}

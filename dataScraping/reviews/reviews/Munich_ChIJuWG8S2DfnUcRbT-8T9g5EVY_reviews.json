@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Deutsche Eiche",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "stephen ronald",
+            "author_url": "https://www.google.com/maps/contrib/114107177443188845617/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqr3qL0yUzIlOETpxtNfUCqLoAPpJ50Qw_91dgb66CY83Xw6gh=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Fantastic boutique hotel.\nClean. Comfortable.  Functional bathroom. Great climate control.  A hotel TV that actually works 😍…..\nBreakfast is good (12-20 euro if you don’t select it with your hotel stay)",
+            "time": 1732620500,
+            "translated": false
+        },
+        {
+            "author_name": "Timbawamba",
+            "author_url": "https://www.google.com/maps/contrib/106910127432119727896/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLBLXV334E7Zbhu4i6LbSOVDh81BSIZHTKPG-39mjWr92ang=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Excellent everything. Great location. Excellent and helpful staff. Even had a rooftop bar and free beverages in the room that get replaced every day. Hotel staff arranged parking for 20 Euros at a secure car park around the corner and came out and got our bags from car when we couldn't get a park in the hotel's street. Very quiet too.\nHighly recommend.",
+            "time": 1729416535,
+            "translated": false
+        },
+        {
+            "author_name": "Blake Cellum",
+            "author_url": "https://www.google.com/maps/contrib/103839189938610775851/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDzPq7SziizrJpevis9HCXM0rsCjumwdfQ7BPqegSNzX6sHQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "This hotel is situated in the perfect spot for those wishing to be close to the historical center without being in the massive crowds or noise. The hotel, overall, is clean and has a great restaurant and roof. The rooms are spacious as well, but we had an issue with the smell in ours. We noticed when we would leave the room and return, it would smell vile. We were able to trace this to the shower drain but were never able to get rid of the smell during out stay.",
+            "time": 1729696430,
+            "translated": false
+        },
+        {
+            "author_name": "Caroline & Lisa",
+            "author_url": "https://www.google.com/maps/contrib/105772604327127694629/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3aHa5BDBNOh6SfW7aaYpWr_mzL51TTdVErN5L78MzaYwhIm-k=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We had the great privilege to stay at this accommodation for our first trip in Munich. The location was perfect - centrally located but didn’t feel like a tourist trap and was peaceful at night. The room was spacious, clean and was set up so thoughtfully. And don’t miss out on the rooftop bar! We can’t wait to stay again on our next trip to Munich!",
+            "time": 1727811094,
+            "translated": false
+        },
+        {
+            "author_name": "Kwin",
+            "author_url": "https://www.google.com/maps/contrib/112477667107110248051/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkYjH7gVk80aYwLCvdU3QOi7bm3ZNLQ9ppdieiJ390ktpsoEkP4Q=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Very good location, walking distance to many tourist spots. Friendly and helpful staff (danke Lucas), provide discounted public carpark (€15 for 24hrs) 2 minutes drive from hotel.\nBedroom is clean, spacious and modern, plenty of free beers in minibar. It would be perfect IF there's a kettle.",
+            "time": 1732788710,
+            "translated": false
+        }
+    ]
+}

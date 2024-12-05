@@ -1,0 +1,66 @@
+{
+    "name": "Fuxia Marseille",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Apple Cervantes",
+            "author_url": "https://www.google.com/maps/contrib/100915199231152525615/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWWfftIxMl8tnXNxgB6ad3VtSkpP29jYqWOxpZGNyyeeZ9M9uW=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "This restaurant can be packed so better to make a reservation. They are open very late at night so people can still have drinks. Food is good and they serve very fast. It’s in front of a cute fountain in the street in Maria.",
+            "time": 1722504291,
+            "translated": false
+        },
+        {
+            "author_name": "Leah Vassallo",
+            "author_url": "https://www.google.com/maps/contrib/104342822700064501474/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2pLmFOKYtAhsO7j1Fk1kO9AUoZs_E5Cds6Jj8J30nk8t-cA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Enjoyed a delicious lunch once it arrived at the table.\nThe dining experience was great however it did take a while for meals to arrived and service of drinks.\nHappy with the food",
+            "time": 1731159733,
+            "translated": false
+        },
+        {
+            "author_name": "eš koli",
+            "author_url": "https://www.google.com/maps/contrib/111861941768903658550/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ9SwgLt9DvCWzZBMbzNvuYOlc6DDqb167fJAsRHjr52qQU5mV=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "They have gluten free pasta. I was taken aback when I was served regular bread with gluten free meal which I made sure repeating many times is health danger for me. The parmesan jar was sandwiched between bread slices. The food was tasty and I was asymptomatic after the meal but I find the event including bread to be real health hazard. I am sure it was only a mistake but please if you are dining there double check everything and remind the staff about your dietary requirements.",
+            "time": 1727872230,
+            "translated": false
+        },
+        {
+            "author_name": "She Harp",
+            "author_url": "https://www.google.com/maps/contrib/113738796744360603638/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq5SnLBAvUBSdw1BTH0gMHNCwokLm43aQVkbQTT9T5Z2_ASr64=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "We were hesitant to order certain things because of the previous reviews but it was great to us! We got the Penne del sud and pumpkin risotto (can’t remember the French name ). It was good, in the classic European way we had to wait a while to have our order taken, the French table beside us tried flagging them down multiple times for over ten min but eventually they spoke to the manager and left. Overall though we enjoyed it and it was around 3 pm when a lot of places were closing down.",
+            "time": 1716835727,
+            "translated": false
+        },
+        {
+            "author_name": "Natália Durães",
+            "author_url": "https://www.google.com/maps/contrib/101674818806198610295/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBL_5t6fpO67Sb60lBVMMKPhqERyKJwuodgRHhyg_y1HKkZUbd=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I liked my burrata salad and the Aperol spritz was delicious. We didn’t order any main dishes but the starters were great.",
+            "time": 1723118648,
+            "translated": false
+        }
+    ]
+}

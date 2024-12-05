@@ -1,0 +1,66 @@
+{
+    "name": "Pizzeria Kvart",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Nina HS",
+            "author_url": "https://www.google.com/maps/contrib/117752085101606795549/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqYoLEEs58TD0BFCnij2su4i6H0WG2XS49rt_gXssbcdJvNQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "my favorite pizza place in Podgorica from now on!\nthey have a great selection of salads too.\nvery nice and helpful staff, fresh & tasty food. I highly recommend it.",
+            "time": 1619427379,
+            "translated": false
+        },
+        {
+            "author_name": "Konstantin СH",
+            "author_url": "https://www.google.com/maps/contrib/108519605714457701757/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUDVm2-GIxCK2Ve1-CZw531ZLJ8yor5d6LrK53D0738VVKf1ek=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Awesome place to have a lunch or hearty supper. Prices are really low.\nHave to try chicken with mushrooms and cream sauce!\nBut be aware, cuisine is a little bit heavy for stomach.",
+            "time": 1491042038,
+            "translated": false
+        },
+        {
+            "author_name": "Blancbena",
+            "author_url": "https://www.google.com/maps/contrib/106078498153914279475/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnCHOfOarI3AgcHCbK_ngUceYWUnEYSqqZeJsBN3_Faw6zZVAA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Great place to eat . One of the best pizza i found in balkan countries . The atmosphire is nice there . Not too fancy . And the prices are good . Highly recommend",
+            "time": 1557864793,
+            "translated": false
+        },
+        {
+            "author_name": "D",
+            "author_url": "https://www.google.com/maps/contrib/101256719147219901293/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvkeSWTbjzV5dVRnqb69_hdM2Xg2_cFjlYdgy0bbHYTTiAD-je=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Good pizza, prices are average and very fast service. Would recommend!",
+            "time": 1668955511,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan Smalzer",
+            "author_url": "https://www.google.com/maps/contrib/107129635073190360219/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiBOiih-VtCBXJSWfe68RhBM2Zc4b1rwNcIZbvt-aKPDcwxqe4=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Pretty good place with tasty and and unique at some level food",
+            "time": 1665919103,
+            "translated": false
+        }
+    ]
+}

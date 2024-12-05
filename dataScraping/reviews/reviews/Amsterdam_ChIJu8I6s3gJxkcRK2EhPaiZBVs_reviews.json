@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Casa Amsterdam",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Abraham Abhishek",
+            "author_url": "https://www.google.com/maps/contrib/108896081012526557552/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_Vu0CCGZiF7TPIlNsBcIGOpEB3R_wyPBk5Mw9TrNvj8b-pQ4etQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I am continuously unimpressed by new hotels-- it is usually the same sterile, generic corporate aesthetic and vibe recycled in different forms. But everything at Hotel Casa was a tad more thoughtful and a little nicer than expected. Most importantly, the staff was very nice and very helpful. Breakfast was not lavish but of good quality.",
+            "time": 1732723506,
+            "translated": false
+        },
+        {
+            "author_name": "Vuong Duthinh",
+            "author_url": "https://www.google.com/maps/contrib/105394237207902224673/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxEEpvDIS6CAzajr_-WtP1QxrZxujLTdnz2dPrcrzdA5Txiw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Clean and well equipped hotel at a very convenient location. It is next to public transportation and the neighborhood has many nice restaurants. The staff is friendly and competent. Checking in and out are very efficient . The rooms are clean and comfortable. There is no exercise facility in the hotel. The restaurants on the lobby and first floor levels have decent foods. Overall it is a very adequate, clean comfortable hotel with a friendly staff and at a very convenient location.",
+            "time": 1727723419,
+            "translated": false
+        },
+        {
+            "author_name": "vikki vening",
+            "author_url": "https://www.google.com/maps/contrib/102968609383179702275/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaM4CA5pKPXpY82XEUapBwfLs2ZWFtF_WUMh6uA9sx3vbikVE1=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Lovely friendly hotel, great staff. Breakfast was amazing with everything you need. Roof top bar was lovely at night. Did not use the restaurant.\nAll clean and nice atmosphere, we were able to hire bikes directly from the hotel, will visit again!",
+            "time": 1725175459,
+            "translated": false
+        },
+        {
+            "author_name": "Rustem Irsay",
+            "author_url": "https://www.google.com/maps/contrib/116509537490045876208/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTbabIbT1JrEr9sjGnqSPV6Mkw1BBsp2vLN9xcF4O0gGfsWkFOiQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Had a nice stay at Casa for 2 nights. The hotel is modern and well-designed, with a pleasant coffee bar and friendly staff.\nHowever, the room lacked air conditioning and had small windows, which made it a bit uncomfortable. The rental bike was also not in the best condition. Despite these issues, I had a pleasant time in Amsterdam overall.",
+            "time": 1725443582,
+            "translated": false
+        },
+        {
+            "author_name": "Katy Nicell",
+            "author_url": "https://www.google.com/maps/contrib/105159600160098785033/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwwRXYmWvFHM31syL03I3LCLgtQ6kvyopquZnd8M9Fng079r_M=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "3 weeks ago",
+            "text": "Great hotel, but having to go down 6 floors to iron out the suitcase wrinkles from my work clothes is just too much. For a hotel of this standard, they should have a good quality iron in every room - not one flimsy iron outside the lifts on floor 2.",
+            "time": 1731515333,
+            "translated": false
+        }
+    ]
+}

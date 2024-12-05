@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Dominika",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Lukas Rusnak",
+            "author_url": "https://www.google.com/maps/contrib/104129124855266142046/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXLCxTGHNf0GdeN5tItK-QA1eUiZ1u4Mnl6vKNVwr56WAbZQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Disgusting, eating is disgusting as well as dining. It would work as a pub of the fourth group. Definitely not three stars . I definitely recommend looking for another option, which is plenty in the area. In comparison of prices and services The price greatly exceeds the service",
+            "time": 1730612358,
+            "translated": false
+        },
+        {
+            "author_name": "Erik Spoon",
+            "author_url": "https://www.google.com/maps/contrib/112478493179708413068/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIJvrwOstAKQy-3kIYz6RylmY7fwbh7nttfynf6fZxdMLlNg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "6 months ago",
+            "text": "Great location, free parking for guests, but not a clean hotel. A little work and could be great hotel. Would not hurt them if they cleaned behind doors from time to time.",
+            "time": 1716282410,
+            "translated": false
+        },
+        {
+            "author_name": "Таня Николова",
+            "author_url": "https://www.google.com/maps/contrib/102673695488372172224/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRUWVaQAaBSdv86dqKui0TvK7hXDKmqhN2tsB_UEjw3efn6w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "Everything in the room was very old and dirty - the carpet, lamps, the bathroom. The bath was full of mold. Nobody cleaned the room when we were out. The bathroom smells awful.\nNobody speaks English.\nThis place shouldn't be a three star hotel.\nI would never recommend it to any of my friends.",
+            "time": 1715274440,
+            "translated": false
+        },
+        {
+            "author_name": "Anfisa Titova",
+            "author_url": "https://www.google.com/maps/contrib/106948888314768975356/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsWPEcjkwwDFyHsuXI-8R9Jz4S8Z-5QHGNBr1lm1p-tNOujwc=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "Shower was clogged and water didn’t go down, which caused a sticky smell. Also dirt in the lamps.",
+            "time": 1713389447,
+            "translated": false
+        },
+        {
+            "author_name": "Migue Zurita",
+            "author_url": "https://www.google.com/maps/contrib/104014172970361755669/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNkjr3jS52JIZmRN6LVv7N9BWx-WpMgnS7H72mitFzKSYMWGc=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Good experience there. The rooms were clean and confortable. Lukas (one of the receptionists) is really nice guy. He was kind with us. He know a lot about the city and about places near to.",
+            "time": 1659180157,
+            "translated": false
+        }
+    ]
+}

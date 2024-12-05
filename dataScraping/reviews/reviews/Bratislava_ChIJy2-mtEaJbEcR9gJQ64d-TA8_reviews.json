@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Danubia Gate",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "jason smith",
+            "author_url": "https://www.google.com/maps/contrib/104243786641077909870/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsDBGR0j8jViC6HJjQrxyoXSnkQsjfobp1vAYnGaYZ_m8VQ3W4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "A great little hotel in a great location. Rooms are excellent in way of comfort and style. Breakfast was great albeit the area a little small. Gym was a bonus, but tired and dated. Only issue was being woken up at 5.30 am, by people in room above walking to and fro.",
+            "time": 1729091031,
+            "translated": false
+        },
+        {
+            "author_name": "H K",
+            "author_url": "https://www.google.com/maps/contrib/100094306603230808344/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBER1nhpUoELXeJEhB-3F8VgaZlGr3oPN4ZlA1V35TVO_havkU=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Small, wonderfully quiet hotel at walking distance from the Centre, the New Opera House, the Blue Church and the Danube.\nRooms clean, spacious, elegant. Little goodies like kettle and bathroom scale, as well as umbrellas when the weather requires it.\nExtremely sweet, helpful and competent staff; delightfully opulent breakfast buffet.\nThis has been for years now our place of choice in Bratislava!",
+            "time": 1728881487,
+            "translated": false
+        },
+        {
+            "author_name": "Meryl Clssmnn",
+            "author_url": "https://www.google.com/maps/contrib/107196412039739543611/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoH5-JEbTxbzF63XhPWPFXukb1BTxOuDVxDUPz5_dick8ljQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Great experience here! The staff at the reception is heartwarming and helpful. The rooms are clean and comfortable (except they're a bit out of date, but they tend to modernize step by step and such things takes time). The jacuzzi was cool and they even have bathrobes for the after bath! Big up to the best breakfast we've had in Slovakia in our trip",
+            "time": 1727516883,
+            "translated": false
+        },
+        {
+            "author_name": "Gaz B",
+            "author_url": "https://www.google.com/maps/contrib/117454644030872304728/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhfJlDvEghqQABth7ddmdGsf5eFmhx7IjVcIoaEepXK8arzg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "10 minutes walk from the Old Town. Rooms were great with no road noise. Breakfast was fantastic. They did a cheap lunchtime specials menu but the bar shut at 2pm.",
+            "time": 1728213220,
+            "translated": false
+        },
+        {
+            "author_name": "Prasit Aphiphunya",
+            "author_url": "https://www.google.com/maps/contrib/110015177858088489111/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyqgU3oePmxxA0GzIx907HelFUwemprb9UPgJ9VAo-QC_rQQfrgQ=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Unexpectedly very good hotel there rooms are good, breakfast is very good, reception, restaurant staffs are wonderful.  Friendly and very courteous.  Not to mention great location in Bratislava town center.  Convenient for a walking in the old city.  Will definitely be back again.  Excellent!!!!!",
+            "time": 1720903294,
+            "translated": false
+        }
+    ]
+}

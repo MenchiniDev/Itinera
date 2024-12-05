@@ -1,0 +1,66 @@
+{
+    "name": "Conti Hotel",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Dana Care",
+            "author_url": "https://www.google.com/maps/contrib/108142273512657337747/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh4H3n5emR1YDD5895RTuKSglhWEiC4_Db_L3sl6tbaKdgag=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Overall this is a great hotel. The location is amazing, very close to old town and has many bars, restaurants, coffee shops and stores. Safe and quiet, Close to supermarkets and the market. hotel is very modern. The atmosphere and decorations are beautiful. The room is spacious with an espresso machine and heated bathroom floor. The hotel’s restaurant offers great food selection and beautiful settings. The Wi-Fi in the lobby is great but not very stable in the room, at least in our room on the second floor. the hotel has its own parking lot across the street for €20 per night with limited availability. Stuff is very helpful, kind and welcoming. I highly recommend this hotel.",
+            "time": 1732326657,
+            "translated": false
+        },
+        {
+            "author_name": "Henri B",
+            "author_url": "https://www.google.com/maps/contrib/115294212401321789100/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL0dAkRNZGgl8sg967QKZX8_dgy5R1ZC01rU1lCIwtZajbiisK=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "The restaurant staff was very friendly.\n\nThe food presentation is great,  different from most places.\nThe salmon I ordered was only lukewarm without seasoning and the mash was completely cold!! I mean really cold. What went wrong??\nVery disappointing as everything looked very promising.\nDuring the meal the waitress showed up only once. So by the time I could ask for salt, I finished the meal already.\nThe little bit discount I got was a joke ( if not insulting) !\nFood served cold is a no-go !",
+            "time": 1729106750,
+            "translated": false
+        },
+        {
+            "author_name": "J Park",
+            "author_url": "https://www.google.com/maps/contrib/112184833982794498157/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIb61wJVs_rJMN-Ahpj6KRhQ0DNDX6KdqnPDOHBlWAahnQEYA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Room condition was fine but it would have been much better if there had been a shower curtain. The water was all over the bathroom floor after taking a shower because the glass wall in the bathtub was not long enough to prevent water from splashing.\nOn the other hand, everyone in this hotel was so welcoming and kind. Especially Justas, who helped me when I checked out, was incredibly helpful.\nLocation was also close to everything, and I felt safe around this neighbourhood",
+            "time": 1722513928,
+            "translated": false
+        },
+        {
+            "author_name": "Alvise Pellegrini",
+            "author_url": "https://www.google.com/maps/contrib/113907741805214868747/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeQO6xu7hWO6oPaTACamMbfsEmcLMRc1my7gU28Hw4Mk795w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "The neighbourhood where the hotel is located feels very unsafe.\n\nMoreover, upon arrival the room has two small bottles of water (one still and one sparkling) near the kettle, with a card on it saying \"with compliments\" or something along those lines. Since there were two of us staying in the room, we assumed that they would offer us one bottle of water each and drunk them. After leaving, we were charged for one bottle of water and, even after reporting this to the hotel via Expedia, the hotel refused to issue any refunds.",
+            "time": 1721288962,
+            "translated": false
+        },
+        {
+            "author_name": "Lauren H",
+            "author_url": "https://www.google.com/maps/contrib/115681192025307946860/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJICIfBtOtjVnwbhPDz0b0H9vPmuY-KEVZBVeyvIFa-qgNTFMB=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "I paid extra for a “king bed”… two twins pushed together. Couldn’t sleep in the middle. The shower was one of the worst designs I’ve seen. Couldn’t take a shower without getting the entire bathroom wet.\n\nThe keys were conveniently broken when I got to the hotel and they had to “manually let me in”. It was pretty uncomfortable having a male let me into my room alone. Also, left my bags at bag check for a while with no tags left for verification upon return.\n\nOverall, a skip. Would stay elsewhere when back.",
+            "time": 1720354940,
+            "translated": false
+        }
+    ]
+}

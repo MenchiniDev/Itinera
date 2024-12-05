@@ -1,0 +1,66 @@
+{
+    "name": "Kappeli",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Emma Yang",
+            "author_url": "https://www.google.com/maps/contrib/115289798691228368784/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8EEbQrvyk98HGulMUklaUwH4o3JH7GwSsy7PTq5mzuQ7ZXzEa=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "This place is the combination of the cafe, bar, and restaurant area. I had a 3-meal course at €39 for lunch. It’s cost-worthy in my opinion. The portion is perfect and satisfying (not too full).\n\n✨Starter: A reindeer pie with some greens and pickled onion. Love the pickled pink onion. Refreshing and well balanced.\n✨Main: Catch of the day is haddock. Mild flavour, firm flesh, and moist. Goes so well with the creamy sauce and the crispy veggies.\n✨Dessert: Apple cake with apple puree and citrus sorbet. Clean up the heavy taste from the first two courses.\n\n📌Downside: Lost a star because of the €1.4 they charged me for the tap water.",
+            "time": 1727949049,
+            "translated": false
+        },
+        {
+            "author_name": "Vita Lukoseviciene",
+            "author_url": "https://www.google.com/maps/contrib/116991074554734126131/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxOEpItiPqllwA-7Tt2SKUUOlmTIdmq4oUbBY_rlzR94QIqjc-CQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "While being in Helsinki, we stopped by this restaurant for lunch. We really enjoyed the cozy atmosphere, friendly, polite, and attentive service, as well as the delicious and filling dishes. I recommend it!",
+            "time": 1731336839,
+            "translated": false
+        },
+        {
+            "author_name": "Rosana Eats",
+            "author_url": "https://www.google.com/maps/contrib/117536220526340475968/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaGvCM5flol4pV_0gfDnNT1-da8MxMOTuE5vSwDhlsPZOm4zKC=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Atmosphere is great. This place is beautiful in terms of seeing the entire skyline and taking visitors to Helsinki.\n\nIn terms of food and service I’ve seen better. The lemony cheesecake was average and the coffee was okay. The staff are not as attentive as other venues close by. Stop by for a coffee and cake to enjoy the location.",
+            "time": 1732099942,
+            "translated": false
+        },
+        {
+            "author_name": "Yonghua Huang",
+            "author_url": "https://www.google.com/maps/contrib/118119857067423697345/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhpkJO4DuJKUiYEELq5M5To6VXyTHP1C23RtBH59dd-TdAXQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "The smoked pork neck was tender. The dessert great. The zesty punch of the sorbet was on point with the buttery and nutty almond cake. The service was top notch too. Worth the visit.",
+            "time": 1729162892,
+            "translated": false
+        },
+        {
+            "author_name": "pak yang",
+            "author_url": "https://www.google.com/maps/contrib/108426008235935876227/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiTssPUGr6xETKQgva7q29kwgIZkjdRaMv5tmz4odUeWE3DJE=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "The atmosphere is unique and right in the center. Service was solid but the food was quite disappointing. Salmon soup lacks flavor and depth, venison and reindeer were too chewy and too strong gamey flavor, the salmon was nice. Side dishes for all dishes were below average for the price you pay. Maybe they are catering this place for tourists but for sure can get better reindeer steak elsewhere in Helsinki.",
+            "time": 1729862177,
+            "translated": false
+        }
+    ]
+}

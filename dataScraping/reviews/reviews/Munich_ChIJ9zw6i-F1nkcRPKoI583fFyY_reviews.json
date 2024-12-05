@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Europa",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Lori M",
+            "author_url": "https://www.google.com/maps/contrib/100462585866982211798/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrXhn8dfJCb8mXtxJR76W-DrOuElbvmEJCtDQRo2d74QoLiA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "We had an amazing stay!  The rooms are lovely.  The water in the shower is super hot.  The location is great if you are catching the train, but not for sight seeing.\n\nThe thing that made this hotel wonderful for us was the staff.  So friendly and helpful.  We checked out on November 11th and the lady at the front desk gave us spot on directions for getting on our train.  I hope management will give her my compliments!",
+            "time": 1732922628,
+            "translated": false
+        },
+        {
+            "author_name": "Ellery Underwood",
+            "author_url": "https://www.google.com/maps/contrib/115642758430970346563/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUja8M-swSk81Vu-7ygOro0DRhOXuIYt1KVMzxlUpYfsvtyl3kR=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Hotel Europa is a wonderful hotel. Our room was clean, modern and had a great view of the town. It was very quiet and easy to fall asleep each night. The breakfast buffet was delicious and well worth the extra fee per day. The hotel was very close to public transportation and it was easy to get everywhere we wanted to go. I would definitely stay here again!",
+            "time": 1728116635,
+            "translated": false
+        },
+        {
+            "author_name": "Paul Downing",
+            "author_url": "https://www.google.com/maps/contrib/112769518027057237612/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5X6tlpj7pZM3p8icvUlg81DoNYeGxK2LujZB7KR6s49Qb2_HK=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "We arrived very late, due to a delayed flight, and upon checking in, which was simple, we asked about room service and were told there was none. If we wanted food we could use a food delivery service.\nWe had no kettle in the room, on the first night, one of our duvets had some light staining, and oddly, a bottlecap fell out of our fresh towels.\nThe breakfast was lovely, and the location was convenient.",
+            "time": 1730149621,
+            "translated": false
+        },
+        {
+            "author_name": "Asaf Bar Zvi",
+            "author_url": "https://www.google.com/maps/contrib/100970831427583276452/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEMVqOrOL7ctcz7JUxOVUfHOaIXlYNzvZB9wBTMeOFJQmfe1EM=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The rooms are very clean and comfortable! The facilities in the room are good and the quality is ok. The hotel parking place is very nice and in a reasonable rate (13€ per day). The only improvement should be the stream in the shower, which is too weak",
+            "time": 1729759514,
+            "translated": false
+        },
+        {
+            "author_name": "Tuukka Varjoranta",
+            "author_url": "https://www.google.com/maps/contrib/101685302548358639495/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsmonPy7ONBNRZrxvUSjZctf8NM-5NczBHywPitceO_O5UXk1g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "I stayed for one night with my companion and my overall experience was good. The hotel room was roomy with a nice classy sofa/bench, minibar, large TV and great views from 5th floor towards the city. The bed was comfortable and clean. The AC was really good and quiet. Bathroom was small but worked well for the purpose. The bathroom had also a glass wall to the bedroom and it had an electrically opening curtain which was a nice extra touch. We opted for the breakfast. Mostly really good options (also gluten free bread when asked) and good quality but in my opinion the scrambled eggs was not too good. Lastly about the reception service. Our receptionist was friendly and nice. The check-in and out were quick and easy! I would recommend this hotel in Munich for its good location and proximity to the main station as well as the Olympic Park.",
+            "time": 1720628300,
+            "translated": false
+        }
+    ]
+}

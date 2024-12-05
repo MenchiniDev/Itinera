@@ -1,0 +1,66 @@
+{
+    "name": "Ristorante Pizzeria Spingarda",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Adnan Meša",
+            "author_url": "https://www.google.com/maps/contrib/108115994134017666145/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPRp24kCKEQHH6lhVCBnBti5sLyLhaIggxzEk6K-Yxmbk19ZGO=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Absolutely amazing. Food was very tasty, and drinks were made properly. Service was more than nice and fast. We loved every bit of our visit here. The view is so stunning and the restaurant is so bright during the day. Great place to have lunch in San Marino.",
+            "time": 1713872225,
+            "translated": false
+        },
+        {
+            "author_name": "Sebastian Schostok",
+            "author_url": "https://www.google.com/maps/contrib/117321971042492805656/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNJBa-4LW9fFQDy2kBqTmGj87UlhDD_Q4jNFEJl5g6PslnqVIt=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "very nice service and very, very tasty food. the restaurant is located very high with beautiful views of the surrounding area. It is necessary to go in cloudless weather. I recommend it without hesitation!",
+            "time": 1721716573,
+            "translated": false
+        },
+        {
+            "author_name": "Petra Dedourkova",
+            "author_url": "https://www.google.com/maps/contrib/100049285235219032367/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqmdy9Pqg4zpyaeaIhVOviOg-zenzy99P3VZnsovvGmbiS5hhs=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "If you want to search for a toilet half an hour after you ear there, go for it, otherwise I don't recomend eating od drinking there. View might be nice, but the lazy stuff or bad food is not worth it at all.\nThere were 4 waiters, ONLY two tables taken by costumers, but we had to wait a really long time before they came to us.\nJust go to other restaurant, save your time, money and your bottom.",
+            "time": 1724853643,
+            "translated": false
+        },
+        {
+            "author_name": "Sarmin Shahariath",
+            "author_url": "https://www.google.com/maps/contrib/102519653580456820458/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOw-qRMIwuyDcPjogT5KjQF-1WhzdK1nXK94wXPFifSRmtd6Hc=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "A large restaurant with nice view. We had lunch - grilled fish & Chicken salad. Food is very good. Server speaks moderate English & helpful. English menu is not available.",
+            "time": 1709833036,
+            "translated": false
+        },
+        {
+            "author_name": "Matti Oksanen",
+            "author_url": "https://www.google.com/maps/contrib/118414595177909731673/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyN8AVWLdJC1Qqdox6JcO-1q8cd9UE7oS3VvCpiwOIOr_y6Zg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "Nice place and friendly service. However,  the pizza was awful. My pizza had probably a full can of mushrooms poured over it, overriding everything else. When leaving the restaurant, I felt disgusted.",
+            "time": 1720360704,
+            "translated": false
+        }
+    ]
+}

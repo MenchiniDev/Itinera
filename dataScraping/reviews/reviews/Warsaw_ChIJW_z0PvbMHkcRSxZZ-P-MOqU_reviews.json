@@ -1,0 +1,66 @@
+{
+    "name": "The Mexican. Restauracja",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Daniel Zou",
+            "author_url": "https://www.google.com/maps/contrib/100887924367541132061/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_vIDO7TRDMMfIpO4cThCphHLws4UiXMvKxjYW_UCkS6CHhaI1BQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "The taste of the food was off (balance between flavors such as sourness and the way it complements the meat). Mango sauce is sweet to the taste like it came from juice and the fajita chicken was over salted. Overall, the food is not authentic and could use some improvement on the culinary side. Other than that, the service & vibe is great.",
+            "time": 1719318498,
+            "translated": false
+        },
+        {
+            "author_name": "Hédi Németh",
+            "author_url": "https://www.google.com/maps/contrib/114162524457831963537/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0h0x1IGHneXdHOcttnq0EjkJS2aLC-FMihkDEI6fh84WcwBIF=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great value for the price, we got a huge portion. Unfortunately they didn't have any fruity margaritas when we visited, which is a shame, but the traditional one was really good either way.\n\nThe atmosphere is amazing. The place is really well decorated and there aren't many people during weekdays.\n\nAs for taste, it's slightly above average. The ribs basically fell apart by themselves and the sauce was nice. The margarita and the lemonade tasted great too.",
+            "time": 1719948301,
+            "translated": false
+        },
+        {
+            "author_name": "chetan bisht",
+            "author_url": "https://www.google.com/maps/contrib/101555970642147922940/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1_dQq-1trVrqY33GTAPYTX4Ups_dpjo8pP5gzSU1EsrxcWA=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "Worst burrito I have had. Trust me I know  Tex Mex food, I have lived in Texas for over 10 years and Tex mex was one of my favourite cusine. The tortilla at multiple places was uncooked and thick. Filling was tasteless . Please avoid !! What else can you expect from a place which says  - the client  is always wrong",
+            "time": 1724939344,
+            "translated": false
+        },
+        {
+            "author_name": "Wayne A",
+            "author_url": "https://www.google.com/maps/contrib/110614154723859536527/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzR2Ht_eQe3qXXDT-UroPcp7iQn08Witg2BIoSe8ukrvPBMQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "8 months ago",
+            "text": "Great restaurant.\n\nThe food tasted like a Polish take on Mexican.\n\nFirst, the food was good, just not as authentic as I prefer.\n\nThe restaurant was clean, and the  service was great.\n\nThe enchiladas were entomatados. Instead of a chili sauce, the enchiladas were served with a tomato sauce. The small side of beans were sweet, and had an unusual spice.\n\nThe photos were Mexican and nicely displayed.",
+            "time": 1710783197,
+            "translated": false
+        },
+        {
+            "author_name": "Milda K.",
+            "author_url": "https://www.google.com/maps/contrib/115927793166139412341/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3i0-mBCP39M15cBO1ISRl6wwM3zvpO4dTHCbxLtieZ2eDwhBP=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "It's very tasty, but if you don't like spicy food, ask for it when ordering, and if you like it spicy, let the waitress know.",
+            "time": 1721204444,
+            "translated": false
+        }
+    ]
+}

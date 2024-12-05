@@ -1,0 +1,66 @@
+{
+    "name": "Stary Dom",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Mathieu Labro",
+            "author_url": "https://www.google.com/maps/contrib/100836917994557494543/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqV3p_aZT22eMczYnH2Ap5WxOiHy0g9QXjFOjdqQ8NU-kXY2R3Sw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Good restaurant, good food, good service, good decor. I definitely recommend this place even if it is expensive.\n\nThe staff was welcoming and smiling. They spoke a little bit of french to make us smile and provide advice when selecting dishes with wine.\n\nThe food was well made with great taste and quantity. We really enjoyed it as it was well balanced.\n\nThe restaurant is made of wood everywhere and it gives a nice vibe.",
+            "time": 1721239910,
+            "translated": false
+        },
+        {
+            "author_name": "Anna Wozniak",
+            "author_url": "https://www.google.com/maps/contrib/101703708598318349590/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6EU_99fk-54vnbjVvnIhmJlLnJl83QgPrtWm_vVHCAAfi=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Best restaurant in Warsaw. Delicious traditional polish food. Excellent service. Loved tartare, dumplings, and minced cutlets. Amazing, very polite service. A top notch place",
+            "time": 1731179183,
+            "translated": false
+        },
+        {
+            "author_name": "Everywhere With Erika",
+            "author_url": "https://www.google.com/maps/contrib/113772303788344350634/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGZabicBX6R9RDjQUxZGe_NiODunGELVVW8uiQvwlM2NNB6CY=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This was one the best dining experiences I had in Warsaw, Poland. This restaurant did not disappoint. The decor, the staff, the food was absolutely wonderful. The waitress very patient with me since I was all over the place. I had the Golonka (pork knuckle,). It is a must. There is nothing like it. It was delicious, well seasoned, and tender. The beef tartare another delcicious dish. This was made in front of you. It was the best!!! Great experience in Warsaw, Poland. You will not be disappointed. Make sure you make reservations in advance.",
+            "time": 1730248073,
+            "translated": false
+        },
+        {
+            "author_name": "Alex Vallee",
+            "author_url": "https://www.google.com/maps/contrib/103688958485292961943/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK35DwVwZaXIDzLG4psZeTAE_9l3vWwPsAC-JhAIxizFcy6Mg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Visiting Poland for the first time. I went there with a friend who knew the place. Simply put, It was one of the best dining experience of my life! The food is simply out of this world, the staff is caring and friendly, and overall, the prices are worth it! I never had a beef tartar so good that you just eat it with a fork, no bread involved. The goose was amazing too. All the dishes on the menu are freshly made, and the portions are perfectly sized. If I was on my death bed and only had one last meal, it would be from Stary Dom 😍",
+            "time": 1722757770,
+            "translated": false
+        },
+        {
+            "author_name": "inna korob",
+            "author_url": "https://www.google.com/maps/contrib/101225759855715565213/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-YljScgsmBgbrUD8AJnTtw-dQYfSvXxYuxwwqtZtC4kdnvA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Our first time here, group of 7 . Enjoyed  our dinner very much. Beautiful place with great atmosphere,  the service was very good,  slow food , so don't come very hungry;) Food was very good,  tartar beyond words,\nthe best we've ever had. Nice tomato  buratta salad. For main dishes we took rabbit,  spare ribs, roast half duck, pasta.  Nice desserts. Everything was very tasty.  Would like to come back,  especially for tartare. Definitely recommend this place .",
+            "time": 1722488088,
+            "translated": false
+        }
+    ]
+}

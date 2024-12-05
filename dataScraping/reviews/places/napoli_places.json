@@ -1,0 +1,1066 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8347778,
+                "lng": 14.2414121
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8361347302915,
+                    "lng": 14.2427648802915
+                },
+                "southwest": {
+                    "lat": 40.8334367697085,
+                    "lng": 14.2400669197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Palazzo Alabardieri",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4298,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105545406914837437864\">Palazzo Alabardieri</a>"
+                ],
+                "photo_reference": "AdDdOWrpAurw1UsprAH4A16nux2_2nnTdYsevb3HneDL7ogdtoBQYD7U-DoJ7SfX8r9eShPM6e9FoiUx9pLRyhPfezIPleOQvSPF_K69Vheg582cdr3hcuNn0cnQg7Msy6f-g3AWADFGmA4VUhjQvw5b88R38iAIV0AzQD5Q3SL6GAZwG3rm",
+                "width": 3989
+            }
+        ],
+        "place_id": "ChIJv3WPMFUIOxMRTWT3-Q75OEQ",
+        "plus_code": {
+            "compound_code": "R6MR+WH Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6MR+WH"
+        },
+        "rating": 4.5,
+        "reference": "ChIJv3WPMFUIOxMRTWT3-Q75OEQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 724,
+        "vicinity": "Via Alabardieri, 38, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8724824,
+                "lng": 14.3014686
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8737812802915,
+                    "lng": 14.3029492802915
+                },
+                "southwest": {
+                    "lat": 40.8710833197085,
+                    "lng": 14.30025131970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Le Cheminée",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 354,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112722773090602646169\">Le Cheminèe Business Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrX3iVITFrRtCsZTSCsaifEM9O__Q_o-oukwpxTIc72SR3e1PrH6fmmXdydBOzVYe5PU8M9ffKLjUs8s9naXzPaoiJIGaXRZBFNkF7Z4nXCatKcksfXB7sTJkq9NoWsHC9b3j-p28ZBU5oMD10WnBiZiISEonw7Lif82okzufTGKzVK",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJWVsSwg6oOxMRTo1UuzyjkrQ",
+        "plus_code": {
+            "compound_code": "V8C2+XH Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPV8C2+XH"
+        },
+        "rating": 4.1,
+        "reference": "ChIJWVsSwg6oOxMRTo1UuzyjkrQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 516,
+        "vicinity": "Via della Stadera, 91, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8425436,
+                "lng": 14.2502278
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8439416302915,
+                    "lng": 14.25175288029151
+                },
+                "southwest": {
+                    "lat": 40.8412436697085,
+                    "lng": 14.2490549197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel Oriente",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2848,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105177278941425344883\">Grand Hotel Oriente Napoli</a>"
+                ],
+                "photo_reference": "AdDdOWojxNnjSXVzaXOmqdm6AL9AkDdQQBB23rulsl5rREDzRfgCVX6MzEmj18uXaeGNkwo6WN2nBST76I3N0tsKlFQ4kYXBIYk0wlZfUfepxmsRgvoOY1aHrxtjarwOj7FKy718KMAU3zGFvRt0tc4ev6FtcOPvExTYLb78LgBxzIA1KE8a",
+                "width": 4288
+            }
+        ],
+        "place_id": "ChIJPTiyDlAIOxMRqsDtBXlRhAg",
+        "plus_code": {
+            "compound_code": "R7V2+23 Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR7V2+23"
+        },
+        "rating": 4.6,
+        "reference": "ChIJPTiyDlAIOxMRqsDtBXlRhAg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2541,
+        "vicinity": "Via Armando Diaz, 44, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8433447,
+                "lng": 14.2445049
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8447441302915,
+                    "lng": 14.2459549802915
+                },
+                "southwest": {
+                    "lat": 40.8420461697085,
+                    "lng": 14.2432570197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel San Francesco al Monte",
+        "photos": [
+            {
+                "height": 915,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117206923508482216455\">Hotel San Francesco al Monte</a>"
+                ],
+                "photo_reference": "AdDdOWp4wEYT9u8968uFWybOCw47wYg0kEFopjnTqM1_ZWepj8D2qM7h_fgCYoxlJqF5Z9RYVWTUbHko-tnjDpnXp2wSwArJaZ4MBpQlTlXqWGuX1IlvIQpMUWK3P-aDHtMkUAenLcL4brOiAvA5QQvBB3xuHnYUfK7hGTvcjlQTq3lEmExv",
+                "width": 1440
+            }
+        ],
+        "place_id": "ChIJt-FBWlcIOxMRFlUYHN6njDU",
+        "plus_code": {
+            "compound_code": "R6VV+8R Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6VV+8R"
+        },
+        "rating": 4.5,
+        "reference": "ChIJt-FBWlcIOxMRFlUYHN6njDU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1302,
+        "vicinity": "Corso Vittorio Emanuele, 328, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.874756,
+                "lng": 14.2789716
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8760160302915,
+                    "lng": 14.2804280802915
+                },
+                "southwest": {
+                    "lat": 40.8733180697085,
+                    "lng": 14.2777301197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Millennium Gold Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101368291857412255321\">Millennium Gold Hotel****</a>"
+                ],
+                "photo_reference": "AdDdOWpnxBahj-0Opm5ctBKojphBqfzVzOrLj_GnmD7BdhEofi1z3wWrWRWtVaVwuXjHdNLsFk0MT7Ad7mfz-pzw7pyOz3VA4aoXx9jOuXyUGRdXJDghbpdTN4jBxK8IT9SzOd6xe0VRY5C_kL2Z0GxPnO7a1FNo3eATPe3AP_wuvGJYlCv-",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJrRmJ7fsHOxMRm6GveJwsrB0",
+        "plus_code": {
+            "compound_code": "V7FH+WH Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPV7FH+WH"
+        },
+        "rating": 3,
+        "reference": "ChIJrRmJ7fsHOxMRm6GveJwsrB0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 981,
+        "vicinity": "Viale Comandante Umberto Maddalena, 192, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8301451,
+                "lng": 14.2469089
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8313866302915,
+                    "lng": 14.2482658302915
+                },
+                "southwest": {
+                    "lat": 40.82868866970851,
+                    "lng": 14.2455678697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Royal Continental Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3856,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112141750948421803002\">Hotel Royal Continental</a>"
+                ],
+                "photo_reference": "AdDdOWroKyXTtUYqr_uoY1SouAw4VvdgCkvVSJK0LIeA6F5XMG4nXc-7FBUTMvULymytb8cyXS7XokQqoqtzFJVWYV1QlSoMwQD4Tdxoa2XkModcwP7-gWg1gpTMmsKz_07V6mOyO2gVvC_edZ5_nCBDw95Rvw6byJ4FvRsEfsWpG_MoI88I",
+                "width": 7240
+            }
+        ],
+        "place_id": "ChIJp3sVQawJOxMRv9PjPp6hlhA",
+        "plus_code": {
+            "compound_code": "R6JW+3Q Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6JW+3Q"
+        },
+        "rating": 4.3,
+        "reference": "ChIJp3sVQawJOxMRv9PjPp6hlhA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5252,
+        "vicinity": "Via Partenope, 38, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.842367,
+                "lng": 14.2475403
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8437560302915,
+                    "lng": 14.2488956302915
+                },
+                "southwest": {
+                    "lat": 40.8410580697085,
+                    "lng": 14.2461976697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Toledo Napoli",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109935189765053633257\">Hotel Toledo</a>"
+                ],
+                "photo_reference": "AdDdOWq83L9ZD0JtgIdrBgdYi56HefmCy-0mRvb_S6VvMRrpbMZ-jWDRDIBnTuDhAna6ncgBGKfO_jAzJ6ePeZbN4VCJ7Ay-v8nBLFVh9gPqin1eylfIm53KQ9abhQN5-BhQUEwjD_6Qa1tk7MrU1TTjCY5Btc7atjAJ-gAbKJ3gBCeE-E03",
+                "width": 2666
+            }
+        ],
+        "place_id": "ChIJ57_ikVAIOxMR85R_CMZNKSY",
+        "plus_code": {
+            "compound_code": "R6RX+W2 Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6RX+W2"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ57_ikVAIOxMR85R_CMZNKSY",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 346,
+        "vicinity": "Via Montecalvario, 15, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8403521,
+                "lng": 14.2540816
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8417496302915,
+                    "lng": 14.2553199802915
+                },
+                "southwest": {
+                    "lat": 40.8390516697085,
+                    "lng": 14.2526220197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Mercure Napoli Centro Angioino",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108125540602811438345\">Mercure Napoli Centro Angioino</a>"
+                ],
+                "photo_reference": "AdDdOWqL1dmFuXVXmYHf1Xe8oY3PNyx-cW-D43Ipt7hKubFsHFJsMtOUKsYPF3BZdR-CJ1zhh3eXqL3_2l-UtLh1LHPOsqInUiyh6Uu0iKBhoBC6fMFLwDQUFEmVWPtD9fSu_UIgbIG6XvtP9-lKVlWeVqEIroqLrOOOL8Srqt3fhmh9yFGv",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJ5XGZq08IOxMRa81t7ksFimg",
+        "plus_code": {
+            "compound_code": "R7R3+4J Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR7R3+4J"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ5XGZq08IOxMRa81t7ksFimg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1177,
+        "vicinity": "It063049a1vvfcgsft, Via Agostino Depretis, 123, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8511762,
+                "lng": 14.26943
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8525203802915,
+                    "lng": 14.2708000302915
+                },
+                "southwest": {
+                    "lat": 40.8498224197085,
+                    "lng": 14.2681020697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Vergilius Billia",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117916944941655089716\">Eric v.d. Kraats</a>"
+                ],
+                "photo_reference": "AdDdOWoBzNpr2m5dPJkIQ9kkLjg2P0XpZJ22irAVxNgcyscsjgz29TFQAgi6LWiknP9gmc0CXK6wI0gvw6xsAJg_BPZxDLitewpqer5p-v6XYZOpi4rJYgwDK9_Q3K6HUEDSSGHbgs1b72oPlhrXHASiNk0zjmvZwN0ZUH_p-i1Jl5yng_v0",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJd5KDDxYIOxMRqDIHfGiIkJk",
+        "plus_code": {
+            "compound_code": "V729+FQ Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPV729+FQ"
+        },
+        "rating": 3.7,
+        "reference": "ChIJd5KDDxYIOxMRqDIHfGiIkJk",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1540,
+        "vicinity": "Via Giuseppe Pica, 2/16, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.86887539999999,
+                "lng": 14.2227397
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.87022438029149,
+                    "lng": 14.2240886802915
+                },
+                "southwest": {
+                    "lat": 40.86752641970849,
+                    "lng": 14.2213907197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pizzeria Ristorante Napoli Napoli",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104713867509124649473\">Pizzeria Ristorante Napoli Napoli</a>"
+                ],
+                "photo_reference": "AdDdOWrFC5Wxa7OzXwzxdKS_QIEqaqH9U0EMZU0Vson2XSTVeOKeYbL-XtpiXF-erMC225xVBH19e2Al_sEijXUdZn3KboboHxDEk9UbgZ7iu1R5sRC4OdUx-NJN5CjiQq9SUzRTG6LiEAlvtq5T4IasDLVHsCwVVlpE1wKYW4IPiqieBquB",
+                "width": 674
+            }
+        ],
+        "place_id": "ChIJ1x8d05sIOxMR4YY_cIYx6Mk",
+        "plus_code": {
+            "compound_code": "V69F+H3 Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPV69F+H3"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJ1x8d05sIOxMR4YY_cIYx6Mk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1298,
+        "vicinity": "Via Tommaso de Amicis, 10, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.85125120000001,
+                "lng": 14.2579677
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.85260003029149,
+                    "lng": 14.2593279302915
+                },
+                "southwest": {
+                    "lat": 40.84990206970849,
+                    "lng": 14.2566299697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Antica Pizzeria Di Matteo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104102988043909192923\">Aik Ooi</a>"
+                ],
+                "photo_reference": "AdDdOWoObzMlRPEijORvVr_vr5Y-ddFiacMRVZZXZaUmH7nLIojbQkeFf_lQ_18jqKEKjefqoC2ib_GkP3pmwVRRqRxD7Coaat_Yb7enbU0QdSzXrblCskoY_pdHgXG4kU6sSrAFYuIanK6Jl4SQEJ5oxS-VIaVQ43e0Giup6S4XBXgZ2LEg",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ5Thu70EIOxMRr5t-mAnq5uw",
+        "plus_code": {
+            "compound_code": "V725+G5 Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPV725+G5"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJ5Thu70EIOxMRr5t-mAnq5uw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12502,
+        "vicinity": "Via dei Tribunali, 94, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.82887030000001,
+                "lng": 14.220065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.83019798029152,
+                    "lng": 14.2215251302915
+                },
+                "southwest": {
+                    "lat": 40.82750001970852,
+                    "lng": 14.2188271697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Today Broker Srl",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110759744297238703066\">ideagramma Renato Caneschi</a>"
+                ],
+                "photo_reference": "AdDdOWo7Sxm_6Fi3jEbviIwwTy2vvopXKdkY8agfVjL3M31QP1626L8WFz0nhdkPtwOn16rHaSHey0XOeH5Ch8DO5AZcSNPy8iP0HjuZZm-EvLb6rheguxyeT4_0w0j9RUwt7OPrN6gkWXIDaFaaHntCYlmIenWfSADFzKBqW6Pg8JzVFfSX",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJfTlwpRkJOxMRofRWGZNo9Po",
+        "plus_code": {
+            "compound_code": "R6HC+G2 Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6HC+G2"
+        },
+        "rating": 4.3,
+        "reference": "ChIJfTlwpRkJOxMRofRWGZNo9Po",
+        "scope": "GOOGLE",
+        "types": [
+            "tourist_attraction",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2497,
+        "vicinity": "Piazza Sannazaro, 199C, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8328798,
+                "lng": 14.2489315
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8341679302915,
+                    "lng": 14.2503711302915
+                },
+                "southwest": {
+                    "lat": 40.8314699697085,
+                    "lng": 14.2476731697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ristorante Da Ettore",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106934502505776255614\">Ristorante Da Ettore</a>"
+                ],
+                "photo_reference": "AdDdOWrhQ8rIopjE-6L0mbhJVdXoIu7qmabxt8qI32AQYIlHx0VC72l1jRB_hnJW5H0R7JDlb-wNuQvXNYVi-T5nzQi0qIEYqn_2NApUv3BELuzVV9Nh-2kO_oy96gJjs-qDUydauBJu8KyHQWDhxKeb3Xt5T3pPggNQjqGdBMogwXGegIEh",
+                "width": 1936
+            }
+        ],
+        "place_id": "ChIJKxE8Ma0JOxMRaSMaoTpXVA0",
+        "plus_code": {
+            "compound_code": "R6MX+5H Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6MX+5H"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJKxE8Ma0JOxMRaSMaoTpXVA0",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "cafe",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 873,
+        "vicinity": "Via Santa Lucia, 56, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8398379,
+                "lng": 14.2539592
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.84117008029149,
+                    "lng": 14.2551860802915
+                },
+                "southwest": {
+                    "lat": 40.83847211970849,
+                    "lng": 14.2524881197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "A Taverna Do Re Di Francesco Parrella",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 550,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105878610161178133803\">A Taverna Do Re Di Francesco Parrella</a>"
+                ],
+                "photo_reference": "AdDdOWojMa3WRsHbGPRLl85rvM94SW5Xe7jObXdGa-S-iH7adv0P0kiStybCWP2AnfwUxB9IxRxBMWhU8vKeMh-Xr0WbIJBQ_MiT9iQHpTK6Q7qoFAS2Oe3BzaIxqWF0rXRTUNX35j45aTWpd7Sn06L6xFnxrzsXnDf2Esr9utPuTHwcoeMz",
+                "width": 411
+            }
+        ],
+        "place_id": "ChIJ9cO-VU4IOxMRh1zhCAH-bDU",
+        "plus_code": {
+            "compound_code": "R7Q3+WH Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR7Q3+WH"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ9cO-VU4IOxMRh1zhCAH-bDU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1077,
+        "vicinity": "Supportico Fondo di Separazione, 2, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8394623,
+                "lng": 14.2479973
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.84072588029149,
+                    "lng": 14.2492897802915
+                },
+                "southwest": {
+                    "lat": 40.8380279197085,
+                    "lng": 14.2465918197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "La Locanda Dei Borboni",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107624449520895126925\">Luigi Autorino</a>"
+                ],
+                "photo_reference": "AdDdOWol_oA6BOhl8z0a8MeF68hDqACReT8gH1BXcGKefhUv0LDXusOO9phfCgnVmHz9WiXoQ3t4mGlLeeeQmpCfejec-TvGUPISMxN6Ljtc9uxiyFTMo-6XSUqRALzFNR4J4hKzY_xhMIHHJ6EJpgcZGuvvw0pX0g5BKKk9t1_HMv7VaQ-M",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ7UyiDFEIOxMRMLUdMZJB3gc",
+        "plus_code": {
+            "compound_code": "R6QX+Q5 Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6QX+Q5"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ7UyiDFEIOxMRMLUdMZJB3gc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1018,
+        "vicinity": "Vico Lungo del Gelso, 42, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.85592319999999,
+                "lng": 14.2463808
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.85728743029149,
+                    "lng": 14.2477022802915
+                },
+                "southwest": {
+                    "lat": 40.85458946970849,
+                    "lng": 14.2450043197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Starita",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2611,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112761236898509115838\">Marianna Monti</a>"
+                ],
+                "photo_reference": "AdDdOWpMf90tMMKv_cX-rDeDOi1U7g6_pAASptarn3x1OxpLvcDXNqN7g7aemyd-L_hnay3ZO3VWqN6OTrbI7IO7f4pVXZARq8FU5gTNxm0ed5cOTF0c_RFZON-58YgvcUg5eySOrkVXTG8dE0naLv1-K-3WoS2dwXff2vgzP02wpcJSo7lE",
+                "width": 2569
+            }
+        ],
+        "place_id": "ChIJHf-V2GYIOxMRJm8tvSe6fR4",
+        "plus_code": {
+            "compound_code": "V64W+9H Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPV64W+9H"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJHf-V2GYIOxMRJm8tvSe6fR4",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12181,
+        "vicinity": "Via Materdei, 27/28, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8367116,
+                "lng": 14.2468161
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8382444302915,
+                    "lng": 14.2481167302915
+                },
+                "southwest": {
+                    "lat": 40.8355464697085,
+                    "lng": 14.2454187697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pizzeria Brandi",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1363,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109127394549901612162\">Antica Pizzeria Brandi</a>"
+                ],
+                "photo_reference": "AdDdOWr1MR_LBRN4FEVsWaGu8u9BpNROLisu4UJ9mtdyBUmTHXVg9jzeSna012p3L6c1Y0eBa2aLusetRdSdOx_TV-nuo5piwUPsXNL0DADrB8pt9G_WpOTaRrzzpYMoYiz8PVdt6qVetZMuFY_Q6xX40d0pPSCcqwKPBser5koDcATC0Puf",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJF8-3l1MIOxMRMRtQHIkTUIo",
+        "plus_code": {
+            "compound_code": "R6PW+MP Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6PW+MP"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJF8-3l1MIOxMRMRtQHIkTUIo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6209,
+        "vicinity": "Salita San Anna di Palazzo, 1/2, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8561618,
+                "lng": 14.2741284
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.85752188029149,
+                    "lng": 14.2754076302915
+                },
+                "southwest": {
+                    "lat": 40.85482391970849,
+                    "lng": 14.2727096697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pizzeria Pellone",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112225018195275023756\">lorenzo D&#39;Angelo</a>"
+                ],
+                "photo_reference": "AdDdOWrHUA0jAgZKANDldpyD47PpaNjXhIx1vkvEnq3qSNWLv5GkIsTRpiUDbBT8e7ItdZRJm936Jih_FbVsdu0O4daqbDOA_6414JUh43W4qjPOZrpM_O2BGhIC4lm1GInrutQL1G7EWg2GSvBzF0vZU6XZQmt9-V1lt0kVNcEHKhymgFF5",
+                "width": 1816
+            }
+        ],
+        "place_id": "ChIJzcr6nhAIOxMRh4NwjAnCo2o",
+        "plus_code": {
+            "compound_code": "V74F+FM Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPV74F+FM"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJzcr6nhAIOxMRh4NwjAnCo2o",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11080,
+        "vicinity": "Via Nazionale, 93, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.850191,
+                "lng": 14.263673
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.8515349802915,
+                    "lng": 14.2650006302915
+                },
+                "southwest": {
+                    "lat": 40.8488370197085,
+                    "lng": 14.2623026697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pizzeria Trianon",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 540,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109774695192499395230\">The Dog Mother</a>"
+                ],
+                "photo_reference": "AdDdOWogyI7XNmM10eG9_t5fnNTiNl3r8TgofQe90PCIkRlbU1_m2La-VVKzZbuFndgdQNF3ViwswZXG8l3cd_wCjTVTJsdKh8MMxWlAtbCPbgqK89NDwP3zc4B0oP1DFCx6Z90P_xbmjbIPo-_HnvvcUnPcPkGSgDF3_yUXiydWF-jM-Hq3",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJXxGxkj8IOxMRngOQ3K_Aplg",
+        "plus_code": {
+            "compound_code": "V727+3F Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPV727+3F"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJXxGxkj8IOxMRngOQ3K_Aplg",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5605,
+        "vicinity": "Via Pietro Colletta, 44, Napoli"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.8301233,
+                "lng": 14.2454025
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.83138658029149,
+                    "lng": 14.2469592802915
+                },
+                "southwest": {
+                    "lat": 40.82868861970849,
+                    "lng": 14.2442613197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Antonio & Antonio",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2136,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105507734643319888740\">Antonio &amp; Antonio</a>"
+                ],
+                "photo_reference": "AdDdOWoDxHwA97dKK4OuQloeYpqQACrhsoVo3uwlQhVp0ZERUtT1YCGaV9bku93HHgd1wEO0WWYNdlhnNlX22ZlOmDv291bbhuW6MQ_8OhqXVHV9AHtZisJYC_MNXx7FKRGIeb8ZBf4LtV2i1dYVo-aVKxb_i8Dz13KKa3u6pWxPDEC9jTlO",
+                "width": 3216
+            }
+        ],
+        "place_id": "ChIJIxAmdawJOxMRloS6B883lXc",
+        "plus_code": {
+            "compound_code": "R6JW+25 Naples, Metropolitan City of Naples, Italy",
+            "global_code": "8FGPR6JW+25"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJIxAmdawJOxMRloS6B883lXc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 10015,
+        "vicinity": "Via Partenope, 26, Napoli"
+    }
+]

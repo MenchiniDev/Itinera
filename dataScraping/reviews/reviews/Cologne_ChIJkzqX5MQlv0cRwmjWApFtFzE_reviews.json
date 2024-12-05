@@ -1,0 +1,66 @@
+{
+    "name": "Dorint Hotel An der Messe Köln",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Emil Andersson",
+            "author_url": "https://www.google.com/maps/contrib/111871969992334355738/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRVrsf_xSCOoCpxoFxHOT1Ug1e0W6tvKWBVAKCz5K8oDCpiQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "3 weeks ago",
+            "text": "Don't you just hate when you pay circa €250 for a hotel room and you still have to pay for everything at the hotel? I'm sorry to say that Dorint Hotel An der Messe is like that. The breakfast is €30 extra, to use the pool is €6 extra, a bathrobe is €3,5. Other than that, the hotel in itself is pretty good.",
+            "time": 1731314852,
+            "translated": false
+        },
+        {
+            "author_name": "Annelies van den Berg",
+            "author_url": "https://www.google.com/maps/contrib/105214888697306241457/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5QHTFoCSuSBzJqtI8LGqU2NWQjkJLo_I7m2R521FyTpvd2Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "It's a nice hotel, comfortable room. I missed a socket near the bed. Personally I'm not a fan of showering in the tub, but it worked. Breakfast rates are ridiculous in my opinion. Almost €30,- for a cup of coffee and a bowl of yoghurt is overrated. Parking rates could be less too, imo.",
+            "time": 1721564629,
+            "translated": false
+        },
+        {
+            "author_name": "Barrie Richards",
+            "author_url": "https://www.google.com/maps/contrib/111314014290885713530/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxuzLHfr2ydEXNUTlMqFMFevNU79SDw3AQ3umzpCqtXaqP61A=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Perfectly placed hotel if you are attending the Koln Messe. Literally across the road from the East entrance. The staff were friendly and the room was clean. The bar is good. About 20 minutes walk from the Cathedral.",
+            "time": 1730060129,
+            "translated": false
+        },
+        {
+            "author_name": "Serdar Gurer",
+            "author_url": "https://www.google.com/maps/contrib/113304056487622694951/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgWopi4sPQnzo3AgPLpGVh-5F9hBZgd98zCl5YA9mNVkILgg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "As everyone said, room was clean and quiet. You may find difficult to set temp of the room. AC doesn’t work as well as you expect. Also don’t forget to put dnd card on the door because house keeping may enter your room at 8:30. When you complain about it basically what they say is sorry for that but there is nothing we can do. Would I stay there again probably not !",
+            "time": 1726846086,
+            "translated": false
+        },
+        {
+            "author_name": "charlie Driver",
+            "author_url": "https://www.google.com/maps/contrib/105385808430467216313/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA_1h0BfoX-sTV_YVFngBE224V-GClSisyLKe61FNEkyZ-4wU=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Great Hotel in perfect location for the exhibition hall but nothing else.\nFantastic leisure facilities, good food and staff all super helpful and friendly.\nPity the costs were so high with the Euros on but would stay again for sure but book well in advance as 1700 euros for 3 nights was expensive by any standards",
+            "time": 1718820948,
+            "translated": false
+        }
+    ]
+}

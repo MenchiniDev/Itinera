@@ -1,0 +1,66 @@
+{
+    "name": "Ristorante Pizzeria agli Antichi Orti",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Laudo Games",
+            "author_url": "https://www.google.com/maps/contrib/114652189563318003369/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwApg8GSFdjaRqpswt4jvdRk9lr2MrdDdjEdoyN89iWASkT0JB=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "A gem of San Marino gastronomy.\n\nThe food is simply delicious. It takes a while to arrive, but it's worth every second of the wait. The Bolognese pasta is a highlight. Simply divine.",
+            "time": 1730941419,
+            "translated": false
+        },
+        {
+            "author_name": "Sofia Tibério",
+            "author_url": "https://www.google.com/maps/contrib/109012915309367536056/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQ_8rnviDwhHeAOswveP1okhJxH2kqVb2T2eAuzYlCL2c55Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Was a amazing food experience!\nPizza was fabulous….\nBut the dessert was so good…. 🥰\nWe started with one panna cota for the kid….and eat 3 in a Table of 4 persons!\nTiramisu was also very nice.",
+            "time": 1725537457,
+            "translated": false
+        },
+        {
+            "author_name": "Corina Hurtado",
+            "author_url": "https://www.google.com/maps/contrib/104537284351224609350/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXuBbjzsHdAdlTs-O4YPguVu0k8AhwAzuYzfqrsd8jeeQpboJm=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "They have nice pizza with fresh and tasty ingredients. I recommend the aubergine with cheese as an entry. The place is managed by very friendly people and I would dare to say that it's the only place in San Marino where I didn't feel treated like a wallet with legs.\nI wish they could invest in nicer tableware and tables so they could have a more cozy/elegant place that matches their amazing service.",
+            "time": 1729454255,
+            "translated": false
+        },
+        {
+            "author_name": "Irena Vaybl",
+            "author_url": "https://www.google.com/maps/contrib/112014010441772690185/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Bf51NjUxBwz3lYdRfKffEh_LCAuTaFbqVlTgOb71QR_UmA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The food in this place is one of a kind! Very tasty, classic, amazing! Ravioli with eggplant are super! And the focaccia... The best focaccia, I've ever tried and I love bread! You should try it! The chef went to a special class for it and it's worth it! Trust me! Try it :)",
+            "time": 1718366919,
+            "translated": false
+        },
+        {
+            "author_name": "Diederick van Dijk",
+            "author_url": "https://www.google.com/maps/contrib/114187041493581297343/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvsdUtOLf14HlyamYJA65JRY2Mkof31l4k_16wEFMF-gSI3A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very welcoming staff, tasty and inventive dishes. The food is clearly made with care and attention. My steak needed some salt but that is personal taste, it was cooked to perfection. The pizzas on the other tables looked really good too. Recommend!",
+            "time": 1695065988,
+            "translated": false
+        }
+    ]
+}

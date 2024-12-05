@@ -1,0 +1,66 @@
+{
+    "name": "Boban",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Bojan Kuruc",
+            "author_url": "https://www.google.com/maps/contrib/101472779016982301333/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZaVFBELp7Ay_61iYuQcyYeju923RZjU4Qjgd8-kAgn02R2E4=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "One of the best dining experiences in Zagreb! Everything here is top level, including very professional service. Food is really amazing, wine list is also very good. Good selection of spirits too. Prices are acceptable for city center and the quality provided. No parking around so try to get here by taxi or public transport. Make sure you book the table in advance as the place is very popular.",
+            "time": 1724194418,
+            "translated": false
+        },
+        {
+            "author_name": "priscilla wong",
+            "author_url": "https://www.google.com/maps/contrib/101269352968022177915/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4dGGPzLt4oSwmeWl6sE1bdyCv6x6lgZU_QgujnNNqZX6rWw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "We dine in this restaurant twice while staying in Hotel Dubrovnik last week. The service is really good when it is not too crowded. We had lamb loin, Lagsana, Aged beef and Pork loin, cauliflower soup and pumpkin soup. Everything cooked to our liking and perfection. Though the assorted bread is not the main but we love the bread too. Waiters are courteous and professional. I think they deserve the highest rating amongst all the restaurants that we have visited in this trip. Price is reasonable. We will be definitely be back again.",
+            "time": 1731837120,
+            "translated": false
+        },
+        {
+            "author_name": "Anthi Panagiotou",
+            "author_url": "https://www.google.com/maps/contrib/111734663860812790017/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT1hsyQKwP0nyAGSZCRf3GQuneeQ3cDm_WndackmhRfEOV4Ho=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Boban Restaurant in Zagreb is a fantastic dining spot! The food is fresh, flavorful, and beautifully presented, with a great variety of dishes. The cozy ambiance and attentive staff create a welcoming atmosphere. Highly recommended for an enjoyable meal in the city!",
+            "time": 1732608418,
+            "translated": false
+        },
+        {
+            "author_name": "Stefano Picco",
+            "author_url": "https://www.google.com/maps/contrib/100962628389851655101/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTuwIhzyCLwd8G2eyyxf_X7Iq5BNblAZ71rSzvIFJXS6LjRuYVoQ=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Boban in Zagreb delivered a satisfying dining experience, earning a solid 4 out of 5 stars.\n\nI ordered the Black Tagliatelle with Octopus, and it was very tasty. The pasta was perfectly cooked, and the octopus was tender and flavorful, making for a dish that was both delicious and memorable. The combination of flavors really hit the mark, and I thoroughly enjoyed every bite.\n\nThe interior of the restaurant is quite classy, with a refined atmosphere that adds to the overall dining experience. The service was good, with the staff being attentive and making sure we had everything we needed throughout our meal.",
+            "time": 1724358765,
+            "translated": false
+        },
+        {
+            "author_name": "Luka Tudor",
+            "author_url": "https://www.google.com/maps/contrib/102899178433970766631/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeMVdzWi7DcP05l2o5YaKyB2aNlUlqgG2CRJ7ZUNVressoeQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Located in the center of Zagreb, this restaurant offers very good food quality and cozy atmosphere. We enjoyed a variety of visually appealing and delicious dishes for dinner, including tasty starters, flavorful main courses, and tempting desserts. The service was excellent and the prices were quite reasonable. Highly recommended!",
+            "time": 1719166066,
+            "translated": false
+        }
+    ]
+}

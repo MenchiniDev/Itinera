@@ -1,0 +1,66 @@
+{
+    "name": "Bäckerei Guflina",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "I Z",
+            "author_url": "https://www.google.com/maps/contrib/107413599581791090667/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWi0jEG2Ci9d_zGX5Ym9rC9BiKoSwcKWixBeQlqmLQJqRPlPxgaJA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Cozy interior and wonderful views from the balcony. With a variety of cakes and desserts; however, in my opinion, they were better looking than actually tasting. Both the chestnut cake and the appletart were lacking in sweetness and overall taste. The coffee was good.",
+            "time": 1730749303,
+            "translated": false
+        },
+        {
+            "author_name": "Daels 1999",
+            "author_url": "https://www.google.com/maps/contrib/102565848851862201383/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUksqYuf05qe4kcuHROAm6XlkT-LUkmiDL2qlsD0bn8aoUue9U=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "8 months ago",
+            "text": "Beautiful cafe & bakery with amazingly breathtaking views of Lichtenstein valley it is a most stop I would say.\n\nBread and bakeries are just so fresh and delicious, fresh baked bread 🍞 smell filled the beautiful atmosphere of this lovely Cafe\n\nThey serve bread with local Swiss cheese that was really tasty.\n\nCoffee ☕️ unfortunately not so good I am not sure if the use just coffee capsules to make coffee or what is it that they do nit pay attention to coffee quality again unfortunately.",
+            "time": 1710761880,
+            "translated": false
+        },
+        {
+            "author_name": "Iulian Balan",
+            "author_url": "https://www.google.com/maps/contrib/117705391953219115516/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGeVpnL7xYQqGAsUjdmXl9PFnBfHE5-oM3kShegozvAOrZCRUcEA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Great coffee and cake 🍰\nMAGNIFICENT 😍 view!\nOnly a few minutes from Vaduz by car 🚗.\nGo there! You will not regret it!",
+            "time": 1731853956,
+            "translated": false
+        },
+        {
+            "author_name": "Mich Elle",
+            "author_url": "https://www.google.com/maps/contrib/105521753688697394966/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5hXdHYbT4xpMXyKdAAAgsUovlHPiDP3bhvr9fOXTVnVgZ56vT=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "11 months ago",
+            "text": "Unfortunately the kitchen was closed when we arrived (this info was not added to google) so we couldn't try the food. But we had the pastries and it was amazing. Plus the view is worthy, the service is friendly and the decor is cute.",
+            "time": 1703338686,
+            "translated": false
+        },
+        {
+            "author_name": "Umesh Desai",
+            "author_url": "https://www.google.com/maps/contrib/110863684373788473373/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX94ZrTlUKiuaQxMPVg1-DYrVl-rAa9oo4zs6iCxXugfMoQ80vs=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Nice valley overlooking Cafe at Triesenberg Post.\nChocolate cake is very delicious and coffee was smooth with fresh milk. Due to fog that day some of the view couldn't be captured otherwise perfect picture spot other day.",
+            "time": 1634478603,
+            "translated": false
+        }
+    ]
+}

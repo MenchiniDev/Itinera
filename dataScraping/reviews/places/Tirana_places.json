@@ -1,0 +1,1067 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.32989949999999,
+                "lng": 19.8186052
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3313876802915,
+                    "lng": 19.8200450802915
+                },
+                "southwest": {
+                    "lat": 41.3286897197085,
+                    "lng": 19.8173471197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Tirana International Hotel & Conference Center",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 641,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112257826569501337438\">Tirana International Hotel &amp; Conference Center</a>"
+                ],
+                "photo_reference": "AdDdOWq57b8ocGDLo_nydp9WhGzvc-UjRJ7Ya5jV2y-S0qMVIgivmy6R8Zh7PyR7Sd3vcj7ZUmOOpXUbzTCsL6AvurkdBOh9nYZNyCcdrBi9kLjidYcu5_GidTwn2nC5oHQYTEJdQq1hbNx9YcJIdU5jrDSkWme6Jig9PUHYsESY47GvKMwW",
+                "width": 1168
+            }
+        ],
+        "place_id": "ChIJ0YeQ4g8xUBMRtkN9jTaRd3g",
+        "plus_code": {
+            "compound_code": "8RH9+XC Tiranë, Albania",
+            "global_code": "8FHX8RH9+XC"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ0YeQ4g8xUBMRtkN9jTaRd3g",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "bar",
+            "lodging",
+            "parking",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1867,
+        "vicinity": "Sheshi Skënderbej 8, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.320985,
+                "lng": 19.8210419
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.32238938029149,
+                    "lng": 19.8223558802915
+                },
+                "southwest": {
+                    "lat": 41.3196914197085,
+                    "lng": 19.8196579197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Rogner Hotel Tirana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5464,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104373801900513807320\">Rogner Hotel Tirana</a>"
+                ],
+                "photo_reference": "AdDdOWoMlElXmOvd2Jku3_jBVlcVW19ucukEcnavE1hXG6GNnDs49_jFaOi91ZXsL-kYlEVqcWuFW8TcNl-LMNr2bsn_5sOat7kFS64Yot--cmB6JGLyUnzWPtgb3KyOSN6eLsbWcgoXQJrmGXPXF1os0TYCT-t6s5tcX6UBDcS0bk2xpC-v",
+                "width": 8192
+            }
+        ],
+        "place_id": "ChIJl-ubWBwxUBMR6diGHGHxJ-g",
+        "plus_code": {
+            "compound_code": "8RCC+9C Tiranë, Albania",
+            "global_code": "8FHX8RCC+9C"
+        },
+        "rating": 4.6,
+        "reference": "ChIJl-ubWBwxUBMR6diGHGHxJ-g",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "park",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1071,
+        "vicinity": "Golden Eagle Shpk, Bulevardi Dëshmorët e Kombit 9, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.326835,
+                "lng": 19.8028
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3279217802915,
+                    "lng": 19.8042167802915
+                },
+                "southwest": {
+                    "lat": 41.3252238197085,
+                    "lng": 19.8015188197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Mondial",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4429,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113102969433689490622\">Hotel Mondial</a>"
+                ],
+                "photo_reference": "AdDdOWos5EScEdIyR2iZykFg_-Ocj09G_bspH3udp4egtGZxXCPq7iSUJgQk_pH87buvQ9WduCXl98J9NeL2RjJg4mcp9Lmrh_C1BPQfjF6aSLcHrdzthrWIoDtrSGjNEGh9qgqDpXhsAbqeCxvcmRFULCL7zEzAnrAXyhsDgxnQIN08-7Z6",
+                "width": 6643
+            }
+        ],
+        "place_id": "ChIJkTNca6kxUBMRR8pRx7sw3PU",
+        "plus_code": {
+            "compound_code": "8RG3+P4 Tiranë, Albania",
+            "global_code": "8FHX8RG3+P4"
+        },
+        "rating": 4.5,
+        "reference": "ChIJkTNca6kxUBMRR8pRx7sw3PU",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 674,
+        "vicinity": "Rruga Muhamet Gjollesha, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.33089819999999,
+                "lng": 19.8034191
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.33222058029149,
+                    "lng": 19.8048423802915
+                },
+                "southwest": {
+                    "lat": 41.3295226197085,
+                    "lng": 19.8021444197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Doro City",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113588217825908294334\">Edi H911</a>"
+                ],
+                "photo_reference": "AdDdOWoUGAMzXgAgV0jjILoBmOS0aTBu7Er2_hjgDCH6D5UrV5s15kGAI7xdc7hdNSt-S_ZxAC195h9qACOSifvFjBEkNcvZ6XbkcFaAp2p3OT9BMLIEFK6XKdSfu1NqxgjCopw6f0_ddxOM0-oTjNd0ax_4Y-V0HHx9vxwWOrbBfTsNWGWL",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJd8gFrKcxUBMREFq0vll2okg",
+        "plus_code": {
+            "compound_code": "8RJ3+99 Tiranë, Albania",
+            "global_code": "8FHX8RJ3+99"
+        },
+        "rating": 3.9,
+        "reference": "ChIJd8gFrKcxUBMREFq0vll2okg",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 338,
+        "vicinity": "Street, Rruga Muhamet Gjollesha Md.38 H.1, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3219607,
+                "lng": 19.8194736
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3233079802915,
+                    "lng": 19.8208230802915
+                },
+                "southwest": {
+                    "lat": 41.3206100197085,
+                    "lng": 19.81812511970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Boutique Kotoni",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3938,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105974532425349495451\">Hotel Boutique Kotoni</a>"
+                ],
+                "photo_reference": "AdDdOWrrru4N8PBxABVQOCz4AyckOieOJ7DTDAEcGO3FQiL80_tEOwm-WIUcQ6TuIKOYC7BALxQm3UbWVQ4i-m85GBJ3tpqO-HgjwMoR7Z-BlK_kfHrYCvdle3sDsxJJRXQjR7fG7XOjTA7gZR_iRhK--Lpp1YZTemZrq9w-_bvxxhKen2rH",
+                "width": 5907
+            }
+        ],
+        "place_id": "ChIJ-zvWrxwxUBMRWrgXN_hrc8Q",
+        "plus_code": {
+            "compound_code": "8RC9+QQ Tiranë, Albania",
+            "global_code": "8FHX8RC9+QQ"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ-zvWrxwxUBMRWrgXN_hrc8Q",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "jewelry_store",
+            "bar",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 183,
+        "vicinity": "Rruga Donika Kastrioti 4, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3232915,
+                "lng": 19.8240809
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3245769302915,
+                    "lng": 19.8254490302915
+                },
+                "southwest": {
+                    "lat": 41.3218789697085,
+                    "lng": 19.8227510697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Green House Hotel & Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114524010454806393957\">Green House Hotel &amp; Restaurant</a>"
+                ],
+                "photo_reference": "AdDdOWrVNgRAP9z4XLDANm10tmaCEdevhGi4pU6wMxJmO9eKUN5aCk-jdv8UbPCPXMatxyXoVJKyebmZTZW9yv8z4P_sRh6ZC7u1RouP0GiGiTNXwP2xkzo8MWrLxjqZU5PRu8dfmNEZTuxNWDMr-_OhHPA1IV1zTCyH-M3cLQ5zVkHMdOKK",
+                "width": 1125
+            }
+        ],
+        "place_id": "ChIJOyeKxBsxUBMRmOz2Uk6OUXg",
+        "plus_code": {
+            "compound_code": "8RFF+8J Tiranë, Albania",
+            "global_code": "8FHX8RFF+8J"
+        },
+        "rating": 4.3,
+        "reference": "ChIJOyeKxBsxUBMRmOz2Uk6OUXg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 164,
+        "vicinity": "Rruga Jul Variboba 6, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3315639,
+                "lng": 19.8114629
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3329545802915,
+                    "lng": 19.8128561802915
+                },
+                "southwest": {
+                    "lat": 41.33025661970851,
+                    "lng": 19.8101582197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Kruja",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113410727482003299970\">Hotel Kruja</a>"
+                ],
+                "photo_reference": "AdDdOWpGzKmEa3NweWGLPtR_ByZoP2TUzOw5CR5OCxIrKbgOt5ermxt43O75p-9_2tehQ95spq_afVDmLOLvaHGM1v1v5msoGJv2FBf8GQ0OJUNmZPmz-HT94TLSTFADpjn3OXCJQDUADK_Cwp8N_cQfLjMweU3gerI7x4Amqrw5VjJiST4-",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJmVirJgkxUBMRTR4sNDoUVW0",
+        "plus_code": {
+            "compound_code": "8RJ6+JH Tiranë, Albania",
+            "global_code": "8FHX8RJ6+JH"
+        },
+        "rating": 3.7,
+        "reference": "ChIJmVirJgkxUBMRTR4sNDoUVW0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "parking",
+            "park",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 78,
+        "vicinity": "Rruga Mine Peza, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3484962,
+                "lng": 19.7733629
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.34980193029149,
+                    "lng": 19.7746134802915
+                },
+                "southwest": {
+                    "lat": 41.3471039697085,
+                    "lng": 19.7719155197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Prince Hotel",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104188168124582540552\">Prince Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWp6fZTia_jEBqptcC2Ig3EVKhveG9Nrjd6xbbIWLyCY-FFT34W387I_mre7DUAwO02fhQyCM_UpyQjc-oDeBmgc2EbGMDUb8tYAFgqk5hM4ExqoiRzZ6AB2M2u7zf7QNeA8Btu9xu_b2Xcd5fDHVV_VfKrFGCnZXJaxmdh1CwCfmDGd",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJBeTQ7-gxUBMRGDyc-FHVN_o",
+        "plus_code": {
+            "compound_code": "8QXF+98 Tiranë, Albania",
+            "global_code": "8FHX8QXF+98"
+        },
+        "rating": 3.8,
+        "reference": "ChIJBeTQ7-gxUBMRGDyc-FHVN_o",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 112,
+        "vicinity": "Rruga Kastriotet, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.340454,
+                "lng": 19.801601
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3417495802915,
+                    "lng": 19.8029853302915
+                },
+                "southwest": {
+                    "lat": 41.3390516197085,
+                    "lng": 19.8002873697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Bujtina e Gjelit",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114192050188298774698\">Bujtina e Gjelit</a>"
+                ],
+                "photo_reference": "AdDdOWrGldwa1BiSh1wNmInK8Uh_zuDhUZuoTPgUXtjPs8d_krlhyYqvWVoQFg9EsgdUdjydi7MGpZB3ss0yjwM9cmnYG9-14uRNYfblxBDXXUEx5aDad5CFmrXAypBKIjGqiXDkJuiLXqseWwqmb--b6mXL8yV2MbDzO-Q9CPmhWDDld1M",
+                "width": 1582
+            }
+        ],
+        "place_id": "ChIJkfVYV58xUBMRXTTwpd5CehI",
+        "plus_code": {
+            "compound_code": "8RR2+5J Tiranë, Albania",
+            "global_code": "8FHX8RR2+5J"
+        },
+        "rating": 4.4,
+        "reference": "ChIJkfVYV58xUBMRXTTwpd5CehI",
+        "scope": "GOOGLE",
+        "types": [
+            "art_gallery",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 362,
+        "vicinity": "Rruga Don Bosko, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.32053399999999,
+                "lng": 19.8055476
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3219028302915,
+                    "lng": 19.8069781302915
+                },
+                "southwest": {
+                    "lat": 41.3192048697085,
+                    "lng": 19.8042801697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Classic Hotel Tirana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 870,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116807055078691706786\">Classic Hotel Tirana</a>"
+                ],
+                "photo_reference": "AdDdOWpv8CNaAn4tJB9lVFyTbx09xx4Zo-HfV7kLjlZE1cONAvLG3mOfBrjiiD6zVgOASwnPUak4-HP1v6Xbun_012WAYhPe1AKaXQ5WvY8vuLIj0dATrqPa24zI0MDuQMX3dNHGqmXAYnwmKeX3YhJ-77n07k9sPoeYsJUsJwTOg2vRcDgB",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJa5jOtaoxUBMRSNnpMqXNt8Q",
+        "plus_code": {
+            "compound_code": "8RC4+66 Tiranë, Albania",
+            "global_code": "8FHX8RC4+66"
+        },
+        "rating": 4.3,
+        "reference": "ChIJa5jOtaoxUBMRSNnpMqXNt8Q",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 135,
+        "vicinity": "Rruga Sulejman Delvina, Nd.61, Hyrja 21022 Tirane"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3206687,
+                "lng": 19.8018535
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.32206043029149,
+                    "lng": 19.8031904802915
+                },
+                "southwest": {
+                    "lat": 41.31936246970849,
+                    "lng": 19.8004925197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Lotus",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117924225364229367268\">Hotel Lotus</a>"
+                ],
+                "photo_reference": "AdDdOWpYupL-zd7yz3NsfPXOOPs_fdp_gFM7DpZo8uILqi38Xlm4uUb0lF4vMXDQfsQGQ6zPrlBPyCcMf3_0hQiPGgKjFxbqFpWycwjB5PYL3TDXlSxZE-YWvkyktp_VRSkIzyUGIMSC4Ec13FwT8rDV4bM3vJB-M57IUDZXErfmUIrwoGRw",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJWXt8tFQwUBMRV_0AQCp_DTY",
+        "plus_code": {
+            "compound_code": "8RC2+7P Tiranë, Albania",
+            "global_code": "8FHX8RC2+7P"
+        },
+        "rating": 3.8,
+        "reference": "ChIJWXt8tFQwUBMRV_0AQCp_DTY",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 97,
+        "vicinity": "Bulevardi Bajram Curri 8, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.325789,
+                "lng": 19.825148
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3271233802915,
+                    "lng": 19.82643323029151
+                },
+                "southwest": {
+                    "lat": 41.3244254197085,
+                    "lng": 19.8237352697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Monarc Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1436,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112165635196921367683\">Monarc Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpthIs8WDj8vrQ94fYttPZEGfO8adkZ4NXHYHVkUBNtOBfz0RHcumN6wTIKznZC73ipAfBBShHVglF8wpWwIRVINHA-cSjLeniOZCcnK0V2LOxxx75k8ypkUIkyOofSjCboEn3YybWzV0W9C0Gvvcqq_dQbjCpIyY4qkkGyzaz9ME71",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJ34id8BkxUBMRzQ07fwgB2Dc",
+        "plus_code": {
+            "compound_code": "8RGG+83 Tiranë, Albania",
+            "global_code": "8FHX8RGG+83"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ34id8BkxUBMRzQ07fwgB2Dc",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 80,
+        "vicinity": "Rruga George W. Bush, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3203286,
+                "lng": 19.8103291
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3216310802915,
+                    "lng": 19.8116897302915
+                },
+                "southwest": {
+                    "lat": 41.3189331197085,
+                    "lng": 19.8089917697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Broadway",
+        "photos": [
+            {
+                "height": 4912,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100994861398638068660\">VH Broadway Tirana Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpm50ZVtUgBO7C3mpYZhxgA2I4rPGzEYEUDoA9q4Bfe6na-v5VsEktpU2JrkQ2J9mMo6NAM_l0VaZquTmZn5ASc6_stI0g8lXcGc13rS0DxC0LSzM5Ws4EYnypv17cMjpUUOmIEKSAaNS22_066wz3WnEPLHdDmVDN05PK-fqLiCFa7",
+                "width": 7360
+            }
+        ],
+        "place_id": "ChIJWd3XyAExUBMRpjsayKlyfGk",
+        "plus_code": {
+            "compound_code": "8RC6+44 Tiranë, Albania",
+            "global_code": "8FHX8RC6+44"
+        },
+        "rating": 2.4,
+        "reference": "ChIJWd3XyAExUBMRpjsayKlyfGk",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 267,
+        "vicinity": "Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3210632,
+                "lng": 19.8253318
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3223430802915,
+                    "lng": 19.8267033302915
+                },
+                "southwest": {
+                    "lat": 41.3196451197085,
+                    "lng": 19.82400536970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Elysee, Tirana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1350,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109627695378213858199\">Hotel Elysee, Tirana</a>"
+                ],
+                "photo_reference": "AdDdOWphnDibwQyiZVzTAhPwXmF3YM60D7QGNonP2IBIuvafqs9B4PJTtk2qqH2vtmrE3vKbp7dIx6QKtdwqXbLfaP_iFs7d58NDWfG_JQj-cZ5YmvBBICe8H3AoCxuoXa9ZmSQjP-8OKV46fpAyFgAmk0PaTXV8vksI8flvsPTuIUCav-2_",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ2QYjrh4xUBMRZwaYuFL2wr8",
+        "plus_code": {
+            "compound_code": "8RCG+C4 Tiranë, Albania",
+            "global_code": "8FHX8RCG+C4"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ2QYjrh4xUBMRZwaYuFL2wr8",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 189,
+        "vicinity": "Rruga Themistokli Gërmenji, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3296423,
+                "lng": 19.8253596
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.33096543029151,
+                    "lng": 19.8267329302915
+                },
+                "southwest": {
+                    "lat": 41.32826746970851,
+                    "lng": 19.8240349697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Stephen Center Restaurant and Coffee Shop",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100767711768215981124\">Stephen Center Restaurant and Coffee Shop</a>"
+                ],
+                "photo_reference": "AdDdOWrd9UTdXltMny2lhK-TLDVHHBtqU28K5J9EXlpBLqItkfhq6UONUJiwp426-Szx10Jnubpnm9ouYpea9Go3qXpcrUWXiTB4tIEjDwR5SjaOoy725glN4H6G7DDolZ8Z10lXaH_o5_-aG1oOolgSV8PzKic07HGl4wVdjsMHzuba94dr",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJ98V0CHcxUBMRYh9li_QXRiY",
+        "plus_code": {
+            "compound_code": "8RHG+V4 Tiranë, Albania",
+            "global_code": "8FHX8RHG+V4"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ98V0CHcxUBMRYh9li_QXRiY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 319,
+        "vicinity": "Rr. Hoxha Tahsim 1, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3415393,
+                "lng": 19.8014631
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3428724802915,
+                    "lng": 19.8027704802915
+                },
+                "southwest": {
+                    "lat": 41.3401745197085,
+                    "lng": 19.8000725197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Euro",
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101192806993010211801\">Hotel Euro</a>"
+                ],
+                "photo_reference": "AdDdOWrEgvFxoJzpjNHAatAVqxiA30zpCR1t2kwZKBsfUUYAGPT-bRStntMDoeme7xQrdpNi-bLc2czy0WNwYDFGBGTOWBXg7l-0fr3m_iYrInCu9aqda-c02o0SD1oA4y04HmucD_gKql_rsUIY8FhBv_60vER4wjMzyt5vkSD_3K4dTis8",
+                "width": 5184
+            }
+        ],
+        "place_id": "ChIJIzbgNp8xUBMRu44EiaWW7tU",
+        "plus_code": {
+            "compound_code": "8RR2+JH Tiranë, Albania",
+            "global_code": "8FHX8RR2+JH"
+        },
+        "rating": 4.8,
+        "reference": "ChIJIzbgNp8xUBMRu44EiaWW7tU",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 38,
+        "vicinity": "Rruga Don Bosko, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3169668,
+                "lng": 19.8262115
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.31829888029149,
+                    "lng": 19.82725065
+                },
+                "southwest": {
+                    "lat": 41.31560091970849,
+                    "lng": 19.82309405
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Juvenilja Castle",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2400,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106370920389806962881\">Juvenilja Castle</a>"
+                ],
+                "photo_reference": "AdDdOWphQwF-kXRbOQRpWPNSSRGTtbzHpEdg3ZbHyfbcCp1aYCCdwmMRc5AoO3KS4NXcyzQ9PtsXCx-ScOXiOPRiQLfkCNzNde9TO_hEgxNZiuU9zXf3ovSmX3oxHcYZfQvDqmqKCmln5aocUAGEu6GqX3JA5rPgorRHgfPGMvNaipzIiREs",
+                "width": 3600
+            }
+        ],
+        "place_id": "ChIJ3fZGIh4xUBMRniHyGtUAzG8",
+        "plus_code": {
+            "compound_code": "8R8G+QF Tiranë, Albania",
+            "global_code": "8FHX8R8G+QF"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJ3fZGIh4xUBMRniHyGtUAzG8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 528,
+        "vicinity": "Rruga Skerdilajd Llagami 1010, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.32242730000001,
+                "lng": 19.8228084
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.32376293029151,
+                    "lng": 19.8240720302915
+                },
+                "southwest": {
+                    "lat": 41.32106496970851,
+                    "lng": 19.8213740697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Artigiano at Vila",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3936,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100323906008592509197\">Artigiano Vila</a>"
+                ],
+                "photo_reference": "AdDdOWr6fqFJ72RVItylVvsbD8bacnRza1zcshWZYSN6wV6RLX_ixw_2RUI0jeAaN9puVze7GBOlhYhLB57hN3FXDqekdas1jre80sYSBxQ7TS7ri5YHyY0CzeRssbQX_fCy1SD-z7HhFuQI0kuKkWfIVLjfUpjBSkIuWi1os3xa5L3fABS5",
+                "width": 2624
+            }
+        ],
+        "place_id": "ChIJrWsmjBsxUBMR5mQA84uF_wk",
+        "plus_code": {
+            "compound_code": "8RCF+X4 Tiranë, Albania",
+            "global_code": "8FHX8RCF+X4"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJrWsmjBsxUBMR5mQA84uF_wk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2155,
+        "vicinity": "Rruga Papa Gjon Pali II 9, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.321771,
+                "lng": 19.814544
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3231615802915,
+                    "lng": 19.8158811802915
+                },
+                "southwest": {
+                    "lat": 41.3204636197085,
+                    "lng": 19.8131832197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Vinoteca Miguel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114676656555775087319\">Skerdilajd Memushaj</a>"
+                ],
+                "photo_reference": "AdDdOWofxL5a3gcE8sDAYG090-TNsOTC4V8p1iLYsCG5l-Scmzdk3zCmzp5gzrABhjoyze7o8JxiASzAZB6awZErQuPiccFHyp3QZn24N16T-sKjnlGAZFARGSQg1EjuCuOLoppYYbUNhn2glgK2gQxT-HyX9b2AQrYhj2mru6WXtRQKvrZc",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJgTh_uQMxUBMRlAFaFEtYdbI",
+        "plus_code": {
+            "compound_code": "8RC7+PR Tiranë, Albania",
+            "global_code": "8FHX8RC7+PR"
+        },
+        "rating": 4.9,
+        "reference": "ChIJgTh_uQMxUBMRlAFaFEtYdbI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20,
+        "vicinity": "Pallati Jeshil Kati II, Rruga Brigada VIII, Tiranë"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.3287317,
+                "lng": 19.8128362
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.3301160802915,
+                    "lng": 19.8142434302915
+                },
+                "southwest": {
+                    "lat": 41.3274181197085,
+                    "lng": 19.81154546970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Olympia",
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100590982888685797023\">Shpëtim Bisha</a>"
+                ],
+                "photo_reference": "AdDdOWpET186s9cuWoxNSrRcC8k-ylKd9znX71-YheIIUSrVSoSNBxmezl2JKaKwjtunNUK75fEh_fEak68eHopIJb9_Sv5dta3fvJBv6H3bCBiIeRc9fjbS5T9Bd_acWAN2QpswB5zRcxa4HMXhbiWM_pBZBQLp4GvvPYrI8w3MAPDBJOwW",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJ91sfVQ8xUBMRZgkwUjt7_08",
+        "rating": 4,
+        "reference": "ChIJ91sfVQ8xUBMRZgkwUjt7_08",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "8RH7+F4W, Rruga Mihal Duri, Tiranë"
+    }
+]

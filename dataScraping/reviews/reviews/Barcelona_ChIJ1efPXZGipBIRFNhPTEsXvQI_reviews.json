@@ -1,0 +1,66 @@
+{
+    "name": "Gallery Hotel",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Tony Santos",
+            "author_url": "https://www.google.com/maps/contrib/111608608326705454410/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9YXXhNWX75fh7HB80KKGY2Ispyl9hxHOQHryS-TdA45E8pA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Beautiful building inside and out. Very accommodating staff so helpful. We had just driven from zaragoza so were pretty tired and as our room was ready they allowed us straight in. Parking is underground and very accessible.  The rooms are very plush and roomy with a great view. Rooftop bar and pool are a godsend also a well appointed gymnasium fantastic value for money...",
+            "time": 1723959526,
+            "translated": false
+        },
+        {
+            "author_name": "Mathieu Galarin",
+            "author_url": "https://www.google.com/maps/contrib/116924919037384349935/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUi5h7iCBklntz7FnQTr5M6J7Tmrtjucnn-CCQyamYwezD-mQ5m-A=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Nice hotel in Barcelona, located not far away from touristic locations.\nRooms are nicely decorated. Breakfast is also very nice!",
+            "time": 1732458652,
+            "translated": false
+        },
+        {
+            "author_name": "Kaycoopie Sound",
+            "author_url": "https://www.google.com/maps/contrib/106928666234303412953/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_K0i8P4Wuye03FqJQ-2uIpfGUFywimesZcc5Y_kO5-PUvbYs=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "I booked a 3 night stay at the gallery hotel in Barcelona. I was hoping for somewhat of a luxury hotel stay…to my surprise I was greeted by a nasty strange bug in the bathroom shower. I brought it to the attention of the hotel staff and they were not very caring or accommodating. It was very unprofessional how they dealt with the situation. The location is great, but other than that I’d say find another hotel nearby. Everything else was very basic and not worth it. The rooms are basic and outdated.",
+            "time": 1725198725,
+            "translated": false
+        },
+        {
+            "author_name": "Aneeqa Amira",
+            "author_url": "https://www.google.com/maps/contrib/108776589225491589002/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBgGv9CRoHLoajEMnVRaYYC1p5lmvjclekWHUcBPe_Lz_QBOUz=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I cannot recommend this hotel enough.\nI stayed here from August 16th until August 19th. The staff went above and beyond to ensure I was catered for and were always super friendly and helpful. The service is immaculate.\nI loved the snacks of nuts and chocolates in the room and the water. This is a nice touch. The hotel was five minutes from the central area of shops and restaurants.\nThe style of the hotel and the rooms are luxury and contemporary, and the rooftop pool was stunning.\nI will only stay here when I return to Barcelona.",
+            "time": 1725910148,
+            "translated": false
+        },
+        {
+            "author_name": "Mehdi Weizani",
+            "author_url": "https://www.google.com/maps/contrib/117823633549612490459/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdfQAllzhCIS6R2U3nTsUOnV9BSdIWdA5sbHBV7slXcrUAc7Jy=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Went with my wife, and there are absolutely no complaints. Everything was perfect. Friends and very helpful staff. Will recommend to anyone going to Barcelona. And it is in the center of the city, nothing is far to get to. Forgot the name of the front desk staff... but nothing to say about them being super helpful and friendly .",
+            "time": 1721379494,
+            "translated": false
+        }
+    ]
+}

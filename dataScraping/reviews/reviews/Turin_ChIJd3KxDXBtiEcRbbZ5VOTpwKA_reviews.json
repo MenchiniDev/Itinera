@@ -1,0 +1,66 @@
+{
+    "name": "Arcadia",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Wallace Issa",
+            "author_url": "https://www.google.com/maps/contrib/110429459042869765150/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNArpDd-_RGqOfndmpSQw1opCnl0eEyws4CbZSxGa1H9OFpw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Delicioso!\nOne of the finest restaurant of the former capital of the kingdom of Savoie. In a beautiful place, this restaurant offers the most authentic Italian food from Piémont",
+            "time": 1706901333,
+            "translated": false
+        },
+        {
+            "author_name": "Jason Saw",
+            "author_url": "https://www.google.com/maps/contrib/101349001917380626525/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaPrpjLYqfB-wEs-5NAy1K1fdW7BJ6s9o3SMEFlU8ONZ5N3Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "My colleagues brought me here during one of my trips to Turin. First time having a veal tartare, and some other food. They were so good!\nReasonably-priced, the restaurant had a nice ambience and service was fantastic.",
+            "time": 1677566328,
+            "translated": false
+        },
+        {
+            "author_name": "Steve Lindeman",
+            "author_url": "https://www.google.com/maps/contrib/105180299661938834782/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkMC7EE69ts1ejc9LK8Zdwv1h0EQVBQl_mYPdqCWKnaguDgBAz=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Great combo restaurant with authentic Italian and sushi.   The local dish of rabbit, beef and pork ravioli with a meat broth sauce was excellet.  Great service and recommendations.  Wine selection was very nice and the waiter made a number of very nice recommendations.  Was 95% local patrons. Highly recommend.",
+            "time": 1543180228,
+            "translated": false
+        },
+        {
+            "author_name": "Emilio Sanderson",
+            "author_url": "https://www.google.com/maps/contrib/105406668967862467211/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYVIjyyNyuB5fF1ELaiA1tF8dPAKzbuj5j-RHU0bmI2AB7I5k2=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Wonderful dining experience. Located in a charming neighborhood, the restaurant has beautiful scenery in a picturesque setting that adds to the overall ambiance.\n\nThe food was exceptional, especially the veal cheek, which was cooked to perfection and simply melted in the mouth. The octopus dish was also a standout with just the right balance of flavors.\n\nWhile the mains were outstanding, the desserts were slightly disappointing in comparison. However, this did not detract from the overall enjoyment of the meal.",
+            "time": 1714212777,
+            "translated": false
+        },
+        {
+            "author_name": "Jackie Hammerton",
+            "author_url": "https://www.google.com/maps/contrib/113551125572641204323/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbiwqkWh5awOsrkN4yeQ0JYkcRajl-bFq_U5wJcfcg0S-LERk=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "As much as it pains me to write this, because I’m a person who is quite easy to please, I must admit I was rather disappointed. The service was quite slow, and the food was good but not quite as impressive as we were led to believe by reviews. The food was appetizing but nothing memorable. Perhaps it was an “off night” for this restaurant. That being said, our waiter, Stephano, was very polite and generous with us and recommended some very good wine. He is the reason why I give this restaurant a 4-star review instead of 3. He made our experience here lovely. If we are to return, I hope the quality of the food improves.",
+            "time": 1649451136,
+            "translated": false
+        }
+    ]
+}

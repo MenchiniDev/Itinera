@@ -1,0 +1,66 @@
+{
+    "name": "Pizzeria Brandi",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Dimitris Kostidis",
+            "author_url": "https://www.google.com/maps/contrib/111859030328967893087/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU676iJWGTkMd4IQM0TkpvTnhELrOp97O8vOE8sVc58R93goT45=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Very nice place with a great atmosphere. A lot of photos from many of the famous visitors on the walls. Very friendly personel. Reasonable prices. The famous pitsa margarita was very good but it was the same as all the other places I tasted it. In conclusion, where ever you eat in Napoli, it's gonna be good. I would definitely recommend this place while you visit Naples.",
+            "time": 1729244715,
+            "translated": false
+        },
+        {
+            "author_name": "Caterina Bassano",
+            "author_url": "https://www.google.com/maps/contrib/117542469194836837383/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWimBgcuqq2GAeTSMp5XOhDMDXQBexuHF7l98hTsvqtbnm52OXp5w=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I loved visiting this pizzeria given its history as the place with the chef who invented the Margherita pizza for the Queen! It didn't seem easy to book online so we just went there just before they opened in the evening, and put our name down for a table for 4 people. We didn't wait long and sat on a table outside. Lovely atmosphere and delicious pizza!!\nOnly criticism would be that the musicians are in your face and will demand tips which I didn't particularly like. I think their music is nice so maybe the restaurant should pay them a fee to play nearby as opposed to right at your table.\nI'd happily go back though, really loved the place and the pizza.",
+            "time": 1723716783,
+            "translated": false
+        },
+        {
+            "author_name": "Savitri Balram",
+            "author_url": "https://www.google.com/maps/contrib/116041138243874532252/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvuYP6DOpASgseBA8EmdkNBFLAa9IH3EgIpIhqXvsNefCYVaQA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Historic pizza place worth visiting. The margherita pizza is the probably the best in Naples. Attentive service. FYI, there is a service charge of E2pp.",
+            "time": 1732488479,
+            "translated": false
+        },
+        {
+            "author_name": "Belle Hew",
+            "author_url": "https://www.google.com/maps/contrib/108321601412679153330/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKncfomV3fN7zUIGxdtN1ThjHsmz18FRnZOgI4vjsSXYf7tAA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We dined here twice during our visit to Naples! Great service, delicious margherita, fried breaded mozarella(!) and pasta pescatore. Reasonable prices. They do have musicians popping in to play live music (and then asking for tips), which I personally do not prefer (I enjoy nice, intimate, quiet dinner which allows easy conversation) but some people find it enjoyable.",
+            "time": 1729372362,
+            "translated": false
+        },
+        {
+            "author_name": "Ch Ris",
+            "author_url": "https://www.google.com/maps/contrib/112064851834207392471/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsEt73bqDaLYnDJmswbwXAAx0zJuTA2qZj5QM0PC49BAnbIg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The pizza is amazing and the prices are very good. We liked it so much and came here twice for dinner. The service personal is also really nice even recognized us on our second visit and we got some limoncello for free.",
+            "time": 1724362066,
+            "translated": false
+        }
+    ]
+}

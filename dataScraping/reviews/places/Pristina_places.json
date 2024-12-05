@@ -1,0 +1,995 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.66291059999999,
+                "lng": 21.1655059
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.66420688029149,
+                    "lng": 21.1668170802915
+                },
+                "southwest": {
+                    "lat": 42.6615089197085,
+                    "lng": 21.1641191197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cavallero",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108663501544668763097\">Arta Sejdiu</a>"
+                ],
+                "photo_reference": "AdDdOWqjD4Xb-Xv8VN9vqJTlpptNCT6E-XVe5ejbE8qXbXVYFfrnXkHWM_bzOWba429UxC94eL_KLXp1u0T0tvPLtOLSnoHZGUBruQ06sB2VCc2mjXZGbNWZP2s1zA49ymkyEdZEBdMtn0Z2LtYJXoYW2nwcpzoRhrCahcUFUgzp5cijs6mY",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJd6-zsuaeVBMRmXyGN5yeYYQ",
+        "rating": 4.4,
+        "reference": "ChIJd6-zsuaeVBMRmXyGN5yeYYQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "M578+566, Pristina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.66488140000001,
+                "lng": 21.1583963
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.66607363029151,
+                    "lng": 21.1596437802915
+                },
+                "southwest": {
+                    "lat": 42.66337566970851,
+                    "lng": 21.1569458197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "MIQT pub",
+        "photos": [
+            {
+                "height": 2232,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111744734857892423987\">ömer Emeksiz</a>"
+                ],
+                "photo_reference": "AdDdOWofFSeAMjWJ5pHFQDUAeR4kSuBgey-nIc9wmo63tIRKb_aYewXfAh9E4IIKNY4JAqBbIz8L9SBUavuTZDvZ8eKcgAmy46V_VBh9Aae0h975ignNQeLzPqsDtmVQBCaFk8sm1CapwcTj99ZEeV2_c5tDIGzaOl_UgvbyZYWOXQIHP8jL",
+                "width": 3968
+            }
+        ],
+        "place_id": "ChIJO-KkjuCeVBMRf42z20EZurc",
+        "plus_code": {
+            "compound_code": "M575+X9 Pristina",
+            "global_code": "8GJ3M575+X9"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJO-KkjuCeVBMRf42z20EZurc",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 179,
+        "vicinity": "48 Fehmi Agani, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.65434450000001,
+                "lng": 21.164803
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6559125802915,
+                    "lng": 21.1661976802915
+                },
+                "southwest": {
+                    "lat": 42.6532146197085,
+                    "lng": 21.1634997197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mensa e Studentëve",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102887968479122815768\">No Name</a>"
+                ],
+                "photo_reference": "AdDdOWpmRBQg3PplIWeBK5F-ylxjiAkKRsGUHW3LT2xSkdkHBABa2GVk7AAM9mLJiotyH64GgBocxPj4Lz5Rn_BypLtCuPzLs_v3tTyjy3lCrBX1nUrHsGno66Vn5FtMEtGTMnAgcU0MSrV9fvkheIqvuRSls-igJY20HL92wqACp5mLwjs5",
+                "width": 3120
+            }
+        ],
+        "place_id": "ChIJT9FbIuieVBMRjVyuM8XnwhU",
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJT9FbIuieVBMRjVyuM8XnwhU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 89,
+        "vicinity": "M537+PWM, Pristina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6605222,
+                "lng": 21.163646
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6619286302915,
+                    "lng": 21.1649996302915
+                },
+                "southwest": {
+                    "lat": 42.6592306697085,
+                    "lng": 21.1623016697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mozaik",
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114058282203138455079\">Kreshnik Rraci</a>"
+                ],
+                "photo_reference": "AdDdOWoJe5e9JqTWOza7PSRNJ_zMvdOoMGBU_aqz2cQAX8KfDCDsnorhWWFwHGFnIQFIhOO_Zv_fXcCd2hHFuhUDj_2QuWWbqM0oro4-TFNHdch3SZ6NkQZz0x5BockqTMr4Xt1DrmJR5citU-p2CpwahdfyI_o4XYEIu-aIWnBmy7C444Pz",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJT9ZeM-eeVBMR7nVwOBCoKWY",
+        "plus_code": {
+            "compound_code": "M567+6F Pristina",
+            "global_code": "8GJ3M567+6F"
+        },
+        "rating": 4.6,
+        "reference": "ChIJT9ZeM-eeVBMR7nVwOBCoKWY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 19,
+        "vicinity": "Rruga Sylejman Vokshi, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6614521,
+                "lng": 21.1634207
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6627694302915,
+                    "lng": 21.16474263029151
+                },
+                "southwest": {
+                    "lat": 42.6600714697085,
+                    "lng": 21.1620446697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pishat",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3366,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109325455809126510153\">A6588石益源（石益源）</a>"
+                ],
+                "photo_reference": "AdDdOWoGAfkiVkMHHkvyT49RZZKqZ6U1IQE6H8tHNPy2Ovw1SEOPibQT9kVo3MbCNunP-28_i5B0mxYy97MiKDKb7Sr8nH-H6sEy6aZcvSj2mQKCruW2RW992Jwnar2zZ5On-qw6mxIDtU8nC_OxmEBcTxkGY-FfDas5y9SIuM0KAy72965T",
+                "width": 5984
+            }
+        ],
+        "place_id": "ChIJCfoSx-CeVBMRw4NXQ6Izky4",
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJCfoSx-CeVBMRw4NXQ6Izky4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 588,
+        "vicinity": "M567+H9M, Qamil Hoxha, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.66239760000001,
+                "lng": 21.1611082
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6637074802915,
+                    "lng": 21.1624270302915
+                },
+                "southwest": {
+                    "lat": 42.6610095197085,
+                    "lng": 21.1597290697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Aroma",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2250,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100119561785579143197\">Mark Hung</a>"
+                ],
+                "photo_reference": "AdDdOWrtWxF0nVK6tTIKaMQnLOUeIn4IByWlnXPLX4gFBJ2Zat6Q9DHK6CpfEXmgwm3Kf1FPqAmRWpFh-hQnOGG7sfPRunWcCjAuIICVnBeo5Bt_ZoOISsQcxQhuchqGSjg9p3lPjsMnmJXFXZrS7idIXYImPZn-5R9V4nA18ND73g85MlQ",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ2RQ_FOGeVBMR7WAUF_4nV8w",
+        "rating": 4.3,
+        "reference": "ChIJ2RQ_FOGeVBMR7WAUF_4nV8w",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 16,
+        "vicinity": "Rexhep Luci, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6653461,
+                "lng": 21.1624384
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6666687802915,
+                    "lng": 21.1637610802915
+                },
+                "southwest": {
+                    "lat": 42.6639708197085,
+                    "lng": 21.1610631197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sarajeva",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102023089155848960869\">Alex Dxb</a>"
+                ],
+                "photo_reference": "AdDdOWpVBWin3NZ--05G5U3BRaorcRxprHwWE6FlfEZ1PeoH6nWIgQ-gZRpm2tBFe5shu-5MbJuCreO_vw89-BSDYzrEigxlWNw9vMVn0Y13dMymF--n45LYWTjLD6mXVlqpEtOyQrlA07fg9g5j7_kLu18reSbjIINyhS0u4jVdpotVSCTz",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJIaQm1eGeVBMR6RK9p5vdGcw",
+        "plus_code": {
+            "compound_code": "M586+4X Pristina",
+            "global_code": "8GJ3M586+4X"
+        },
+        "rating": 4.7,
+        "reference": "ChIJIaQm1eGeVBMR6RK9p5vdGcw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 19,
+        "vicinity": "39 Andrea Gropa, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.66412249999999,
+                "lng": 21.1577495
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.66537778029149,
+                    "lng": 21.1591224802915
+                },
+                "southwest": {
+                    "lat": 42.66267981970849,
+                    "lng": 21.15642451970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Tiffany",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102023089155848960869\">Alex Dxb</a>"
+                ],
+                "photo_reference": "AdDdOWpIafHVroq8QM1C4xYE6vdLRF22Sgi0ivWQ12AcblvAxAFAKdNQfCiGTozkeVEfJbtEgnV0qsya1klB-4kggNGOZRuLY5PMqamn5YpTa2sL_kNHrSLwL7sDwfKFiNUKrYNm1AJkz4EFz4o-w1jqUBV_NfLJLydfwD-ZDCJjY1zcXxu-",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJVcesTOKeVBMRXA_qiCe6m_c",
+        "plus_code": {
+            "compound_code": "M575+J3 Pristina",
+            "global_code": "8GJ3M575+J3"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJVcesTOKeVBMRXA_qiCe6m_c",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 375,
+        "vicinity": "Fehmi Agani Prishtinë Kosovo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.65788380000001,
+                "lng": 21.1576115
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6592467802915,
+                    "lng": 21.1590140302915
+                },
+                "southwest": {
+                    "lat": 42.6565488197085,
+                    "lng": 21.1563160697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Odyssea Bistro",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJnZiSlOWeVBMRwFwJuuLkjp0",
+        "plus_code": {
+            "compound_code": "M555+52 Pristina",
+            "global_code": "8GJ3M555+52"
+        },
+        "rating": 5,
+        "reference": "ChIJnZiSlOWeVBMRwFwJuuLkjp0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": ""
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6656967,
+                "lng": 21.161433
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6670125302915,
+                    "lng": 21.1627861802915
+                },
+                "southwest": {
+                    "lat": 42.6643145697085,
+                    "lng": 21.16008821970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "deRada Brasserie",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3968,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107812141838945160746\">Éva Vári</a>"
+                ],
+                "photo_reference": "AdDdOWrFzE6Gg4bAQtIv27MZXhvkKuXBa01TAsmdttck7_vmzsO7HvnP83qVjJr6ueef1YC0VzGtkyGFpn6Znm6MecCt9XGV9ou6S8KSHX6Iof3bzJrRoH95p0T10YWZCeHKjg4UXBLQTMO7_Z7abqUCC13QgQKksjzxK5Lf1D1JQXqIr5l1",
+                "width": 2976
+            }
+        ],
+        "place_id": "ChIJZxDi3-GeVBMRJzF55hq16sM",
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJZxDi3-GeVBMRJzF55hq16sM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 51,
+        "vicinity": "M586+7HF, UÇK, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.658389,
+                "lng": 21.1565466
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6596909302915,
+                    "lng": 21.1579214302915
+                },
+                "southwest": {
+                    "lat": 42.6569929697085,
+                    "lng": 21.15522346970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Frame",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108663501544668763097\">Arta Sejdiu</a>"
+                ],
+                "photo_reference": "AdDdOWqVKN9YGqIwGRm0m9JRiMqpQuEwze4MAqXgPZYYbEwzczRp2q0gAeVm9t_OzfHsOYgVW7wiwk46AcpeYFbCQUugcYCVMVw9RC41QkGXrBGqRRPF2CBGsjmnsTS9Tis7ykJAwP_FzYGrkDi3GSkvfFB_6O3xg_07GkDGeUx1b62j-EuN",
+                "width": 2510
+            }
+        ],
+        "place_id": "ChIJ4ywlmeWeVBMR30Y0EIPLn8g",
+        "plus_code": {
+            "compound_code": "M554+9J Pristina",
+            "global_code": "8GJ3M554+9J"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ4ywlmeWeVBMR30Y0EIPLn8g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 29,
+        "vicinity": "pashko vasa nr.6, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6624402,
+                "lng": 21.16338099999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6639102302915,
+                    "lng": 21.1646448302915
+                },
+                "southwest": {
+                    "lat": 42.6612122697085,
+                    "lng": 21.1619468697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant METROPOL",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111506250593463413652\">Fejzulla Neziri</a>"
+                ],
+                "photo_reference": "AdDdOWpDn90jicNOBOA-tVZU9fRFrfanHpj-WiMtOSgcHsTaqiyGDLPBpv4Sk62Q3XOHaFvZCmC3_ev00vS3_-10wsVLksSg3QOw4LiQAu75gbLma_MiFnKegiHpCIQomj-GcuFJQ2If_-8ZU5tmixdLsG5dGjCvkOaSpSxiggCoz7GGQyuA",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJmdSd8eCeVBMRuTIevP0HSu8",
+        "plus_code": {
+            "compound_code": "M567+X9 Pristina",
+            "global_code": "8GJ3M567+X9"
+        },
+        "rating": 4.2,
+        "reference": "ChIJmdSd8eCeVBMRuTIevP0HSu8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 90,
+        "vicinity": "Bulevardi Nënë Tereza, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6629138,
+                "lng": 21.1655028
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6642093302915,
+                    "lng": 21.1668133802915
+                },
+                "southwest": {
+                    "lat": 42.6615113697085,
+                    "lng": 21.16411541970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Vila Belvedere",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3672,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110095625434473121395\">Massimo</a>"
+                ],
+                "photo_reference": "AdDdOWrFkXpeReq-Xd2X6hNytt9ibkh6mt0ptQug-yGyaL1uRSDWWFERhn-WieYvuoZDaINYNsf6S2r0MXF7Fb9tYgwn_Zn9CLPoiRT-dyJcJYxAUhEzz4kJjnkZvfr2HZ8yTzFKa8IsnSQHAwJaXfi9VpsBHuEtL4rOLPOYo-vu_6B18uNm",
+                "width": 4896
+            }
+        ],
+        "place_id": "ChIJU1xghyKcVBMRCeMcHE_TmZc",
+        "rating": 4.4,
+        "reference": "ChIJU1xghyKcVBMRCeMcHE_TmZc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 37,
+        "vicinity": "Pristina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6576493,
+                "lng": 21.1599797
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6589861302915,
+                    "lng": 21.1614056302915
+                },
+                "southwest": {
+                    "lat": 42.6562881697085,
+                    "lng": 21.1587076697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Caffez",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3961,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103032721814600430974\">Caffez</a>"
+                ],
+                "photo_reference": "AdDdOWqmx4yjpTi5BaUGxV-o6nui7Gxv-g_webbQHjnkkwQ4GH_ZS99rbK1lJjdXYPlq57BdzWio2bnmTAAGx7PRUhIM_41Tsuvdaa6cj7eDGWKn7KY6ygEc2cWEFNmIEp8kCAEmtMEmFmGID92VxrSFam7A0S1cQAWNd3cLVrzbJqQXSmm4",
+                "width": 2971
+            }
+        ],
+        "place_id": "ChIJw4Y2DOaeVBMRb-wHuUwkYZU",
+        "rating": 4.6,
+        "reference": "ChIJw4Y2DOaeVBMRb-wHuUwkYZU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 110,
+        "vicinity": "M555+3MG, Xhorxh Bush, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6590558,
+                "lng": 21.1574695
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6603913302915,
+                    "lng": 21.1588381802915
+                },
+                "southwest": {
+                    "lat": 42.65769336970851,
+                    "lng": 21.1561402197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Apartment 197",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108663501544668763097\">Arta Sejdiu</a>"
+                ],
+                "photo_reference": "AdDdOWquNbkty9O1DA0KpMnOyhZ2YZ84ELKl5TdtQNK4kl3-u-TjOoQvROFmko-dYoGX8QhH2MYG9V4y6gpoH9XZ0snfC46D-SEGZCJdAQpAZvinndE0UsuOBZAX3RUPNljB8_5ZOTW0KvoHwfkW1ELS608hxuM8_YRVN0IuicTHyzyTAJeR",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJbfY7seWeVBMRZNfpPr_y36g",
+        "plus_code": {
+            "compound_code": "M554+JX Pristina",
+            "global_code": "8GJ3M554+JX"
+        },
+        "rating": 4.4,
+        "reference": "ChIJbfY7seWeVBMRZNfpPr_y36g",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 124,
+        "vicinity": "Rruga Justiniani, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.65742409999999,
+                "lng": 21.1597708
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6587523802915,
+                    "lng": 21.16126678029151
+                },
+                "southwest": {
+                    "lat": 42.6560544197085,
+                    "lng": 21.1585688197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mama Mantia",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108729978767031900527\">Mama Mantia</a>"
+                ],
+                "photo_reference": "AdDdOWovDI8gbM5ABSKIjQMf40GxnRyWDmHrFzC-zb8Ssktu6VcYyz0KLFw99hLVCvHKOwR5f67rqZBOkoBJ_FU7Ip8lW7cRGSfB-swXfnE1yrpJamH3yIdf7IjQHTob700kdgg_afLMS6wQ7kGvF4smpA6qLExMqu1KuJz9FRjKf3o3WXHH",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJT0Y4DOaeVBMRx8jsPHXNhAU",
+        "plus_code": {
+            "compound_code": "M545+XW Pristina",
+            "global_code": "8GJ3M545+XW"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJT0Y4DOaeVBMRx8jsPHXNhAU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 137,
+        "vicinity": "Caffepapillon, Xhorxh Bush, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6485624,
+                "lng": 21.1687683
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6498783802915,
+                    "lng": 21.1700996302915
+                },
+                "southwest": {
+                    "lat": 42.6471804197085,
+                    "lng": 21.1674016697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Proper PIzza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100354908227479582608\">agim muratovic</a>"
+                ],
+                "photo_reference": "AdDdOWoBXdffnSYbnvEEFy2VqE07f_KnWeSq91TJMuch85InL1KMOLDWeLuOZeJv6rZiQcCEu_hUcbHdN1_k10u403WAQAzuadL0pmqsQbVWZJo_lZPCblhbf0oqXaBm7s8MlcUh0G5WpBU0envCOfbdfl20EQ_qOihMhpqflvHaq6AemEVZ",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJGdvnDsGeVBMRmocTTdfXubA",
+        "plus_code": {
+            "compound_code": "J5X9+CG Pristina",
+            "global_code": "8GJ3J5X9+CG"
+        },
+        "rating": 4.1,
+        "reference": "ChIJGdvnDsGeVBMRmocTTdfXubA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 35,
+        "vicinity": "Agim Ramadani #24, Agim Ramadani, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6331576,
+                "lng": 21.1521107
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.63451703029149,
+                    "lng": 21.1534051302915
+                },
+                "southwest": {
+                    "lat": 42.6318190697085,
+                    "lng": 21.1507071697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bo Bowling",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109513408004108022643\">Bo Bowling</a>"
+                ],
+                "photo_reference": "AdDdOWpTUc8JUt3q-2p27O8Qvrs7VaKE-nzMidm_Ls_8xKLtSBDupZ9hxPGdrBA7hWz5-vm1bCRPiG2RaHQAxWFMyJJ8lnL3rLj-s_-Z85G_MXCztFkEG2bW9K6nmzbkG1lmMaJoVlcFTb3jE54xQGJ-9lKeeWIMpCVbE-nTaZVFyoqs484",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ48uiPoOeVBMRgrfBeHXFPxs",
+        "plus_code": {
+            "compound_code": "J5M2+7R Pristina",
+            "global_code": "8GJ3J5M2+7R"
+        },
+        "rating": 4.9,
+        "reference": "ChIJ48uiPoOeVBMRgrfBeHXFPxs",
+        "scope": "GOOGLE",
+        "types": [
+            "bowling_alley",
+            "night_club",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1477,
+        "vicinity": "Albi Mall, Zona e re industriale, Prishtinë, 10000, Kosovë, Prishtina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6601875,
+                "lng": 21.1629961
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6615948802915,
+                    "lng": 21.1643976302915
+                },
+                "southwest": {
+                    "lat": 42.6588969197085,
+                    "lng": 21.16169966970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Legere Creative Cuisine",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJTXAxLueeVBMRoZubMMGB-es",
+        "rating": 5,
+        "reference": "ChIJTXAxLueeVBMRoZubMMGB-es",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "M567+35H, Pristina"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6301228,
+                "lng": 21.1619524
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6314971802915,
+                    "lng": 21.16323283029151
+                },
+                "southwest": {
+                    "lat": 42.6287992197085,
+                    "lng": 21.1605348697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "PURO Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100052017322427763651\">ULTRA real estate (Real Estate)</a>"
+                ],
+                "photo_reference": "AdDdOWrKlO1yth0fIs3W3uODuJrw3y9ULSabCS0wI-4pNRwf2p4V_CVmGEOFRdn-NOlNabbdJ91rM4mEQvUeEEy8vwvWRNbZfwqJcZsti7xj4rpm0lfaZoZIS-16my15-zgxpy3-bQdmC97JEeMWbBhYN-VdoeS4qDA9jfMyNJoLx31SncTj",
+                "width": 2976
+            }
+        ],
+        "place_id": "ChIJP9cWVJ6eVBMRC_ZrzYQAMJ0",
+        "rating": 3.9,
+        "reference": "ChIJP9cWVJ6eVBMRC_ZrzYQAMJ0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 27,
+        "vicinity": "J5J6+2QW, Pristina"
+    }
+]

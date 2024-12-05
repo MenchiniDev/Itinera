@@ -1,0 +1,66 @@
+{
+    "name": "Da Nanni",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Elizabeth Angelia",
+            "author_url": "https://www.google.com/maps/contrib/108659222615944276295/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwByFTEmqyLOFypuHftAes1iPGE3b-41ynyRnenReqdB7Uqm6-rA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "The food at Da Nanni was just average—nothing really stood out. The service was below average too. We had two servers, but the second one wasn’t friendly at all. We stumbled upon this place while walking in the neighborhood, but given the mediocre experience, I wouldn’t recommend it to anyone.",
+            "time": 1723972155,
+            "translated": false
+        },
+        {
+            "author_name": "emma cunniffe",
+            "author_url": "https://www.google.com/maps/contrib/114330011058711149456/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcyy0ScATxYVkAlcGivE1Tk8za6tmZO2JZ2Q87CLrDEk7ghaQn=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I didn’t think much when we stumbled soon this last minute as we were hungry and couldn’t decide what to eat but Oh my god the pizza was absolutely delicious. Might be one of the nicest pizzas I ever ate so good!! Was pretty cheap too couldn’t believe how nice it was .",
+            "time": 1720270432,
+            "translated": false
+        },
+        {
+            "author_name": "Petar Kulaš",
+            "author_url": "https://www.google.com/maps/contrib/117730391040342713306/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8CbcAOMTuH5PW7ewmN07cNeblIYQQOQgbtwwvDSXVGSOITnc=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Nestled in the vibrant El Born district of Barcelona, Da Nanni offers an exceptional dining experience with its inviting ambiance and delectable cuisine.\n\nUpon entering, the impressive interior welcomes guests with ample seating, and the clean restroom located below adds to the comfort of the establishment.\n\nThe friendly staff promptly found us a seat and took our orders with efficiency, though we experienced a slight delay in receiving our food, which the staff apologized for multiple times.\n\nWe indulged in the \"Lasagna Napolitana\", which surpassed expectations with its flavorful bechamel and passata. The unique presentation of the dish justified its price, leaving us thoroughly satisfied.\n\nNext, we savored the \"Di Bufala\" pizza from their special menu—an absolute standout. Despite initial concerns about excessive dough, the crust was perfectly crisp on the outside, soft on the inside, and incredibly easy to enjoy. The thin, delicious middle of the pizza complemented the flavorful passata, mozzarella, and prosciutto toppings flawlessly.\n\nIn conclusion, Da Nanni is a must-visit for those craving authentic Neapolitan pizza, lasagna, or similar Italian delights. Even for someone who isn't a frequent pizza eater, the experience at Da Nanni was simply exceptional. Highly recommended for a memorable dining experience in Barcelona's culinary scene.",
+            "time": 1712741256,
+            "translated": false
+        },
+        {
+            "author_name": "Gary King",
+            "author_url": "https://www.google.com/maps/contrib/110956450164299377937/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGBjfrwEF2Wz9EmI_3tQjJ-Z9-dhZnvL7wsGy-wNuSKVHEbhPilQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Very authentic pizza and pasta and the food quality is really good. Nice selection of drinks and the service was really friendly and fast. The restaurant is really beautiful inside and it's a good central and cheap place for lunch or dinner.\n\nOnly let downs were no kids menu, so you pay a full price pizza for a 3 year old who eats a quarter of it. Total rip off when places do that. Also no Ice Cream for kiddies and they had no coffee (missed delivery apparently) or other hot drinks to finish.",
+            "time": 1673273206,
+            "translated": false
+        },
+        {
+            "author_name": "Małgorzata Dziepak",
+            "author_url": "https://www.google.com/maps/contrib/108234310809563518415/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnWfaRLcJat1lcGAZNOP4t_WlzOmxjiDXYvtaI8T4RjMYb5iAg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I recently had a delightful dining experience at Pizzeria Da Nanni Barcelona Born. The quality of their products was exceptional, and the service was top-notch. I highly recommend trying their delicious pizza at a reasonable price. Overall, a fantastic value for the money 💰 #foodie #pizzaperfection",
+            "time": 1731780442,
+            "translated": false
+        }
+    ]
+}

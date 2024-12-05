@@ -1,0 +1,66 @@
+{
+    "name": "Prinz Myshkin",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Lynda Hardman",
+            "author_url": "https://www.google.com/maps/contrib/113162282259902872945/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV58oB2-jFY4RaPu3cUTiQBCVxFY-sORMSdatYf6At4sVOmhzIB=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Easy going vegetarian restaurant with a mixed cuisine menu. The tortilla chips with two dips where exactly what you would expect/hope for. The mixed starter was excellent with different flavours and textures. The ravioli dish of the day was delicious and the buckwheat pancakes also very good. The chocolate mousse dessert was absolutely not a disappointment! 😋\nThe staff were friendly and helpful - although we had to ask three times for a glass of water.",
+            "time": 1720213320,
+            "translated": false
+        },
+        {
+            "author_name": "Felix B",
+            "author_url": "https://www.google.com/maps/contrib/116746772029745830318/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyIwFNK6xXnxBwaVt7xqLWi-v-ka4u9LD-UpqoOH6bJ9pTZVKi3g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Great vegetarian restaurant in the heart of Munich with a beautiful interior. Dishes are creative and tasty, and there are many vegetarian and vegan options to choose from. Service is friendly but can be a little slow, particularly on busy nights.",
+            "time": 1730191351,
+            "translated": false
+        },
+        {
+            "author_name": "Milena Dziebaj",
+            "author_url": "https://www.google.com/maps/contrib/118070314991300360941/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUBOGM-18N70ZXWUmose-EvAq7FWMsGoy1zCpwsH98vNhF2baaQQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "The food is good, Service relaxed and a bit on the slow side but still nice. Nice ambience, very spacious. Big choice in menu.\nPrices rather high, for my taste a little bit too high. Differences between prices in menu and prices on the leaflet we got additionally on the table for the same product (lemonade) - and the customer gets charged the higher price… It wasn’t much difference (around 10%) but still…",
+            "time": 1732963312,
+            "translated": false
+        },
+        {
+            "author_name": "Goki K",
+            "author_url": "https://www.google.com/maps/contrib/103712575202968034074/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYVzT2GabvHCgsYv7llaSN_JfJKrQGNXFu4Wdius7_pUjpXFCM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "I had a wonderful time at this vegetarian restaurant in Munich. The interior was cozy and inviting, the ambience was relaxing and pleasant. The staff spoke English and was very friendly and helpful. They were attentive and the food came relatively quickly. The vegan food was delicious and satisfying - I had curry and pasta for the main course, and a decadent dessert with cappuccino. I highly recommend this place to anyone looking for a great vegetarian dining experience in Munich.",
+            "time": 1703533324,
+            "translated": false
+        },
+        {
+            "author_name": "Clàudia",
+            "author_url": "https://www.google.com/maps/contrib/117121714985249650377/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKM7SyOom_EA98jwtwLtDj0rVSJpP4ks9kLv1bZGW4wAscRMg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "This was my second time at this place and it's one of my fabs in town! Great vegetarian/vegan selection, but my absolut to go is their tagliatelle tartufata! 🫶 One of the best I've ever tried, so creamy and flavourful!\n\nMy friends got the veggie samosas and the tagliatelle Amanda, I didn't try those but my friends said it was 💯♥️!\n\nThey also have an amazing dessert selection that we still need to go back and try! 🍰",
+            "time": 1717360409,
+            "translated": false
+        }
+    ]
+}

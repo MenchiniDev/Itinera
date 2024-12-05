@@ -1,0 +1,66 @@
+{
+    "name": "Mespil Hotel",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Monica Rainville",
+            "author_url": "https://www.google.com/maps/contrib/118201259493024027214/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0XFPzn5osN4dEDEuU8Un35pINngm9aZyE0UJ2BIjfRr9AkD2f=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "We enjoyed our stay at the Mespil and being south of Dublin city center, as it’s much quieter. Yet, we were still able to access the Dublin sights we wanted to see on foot (25-ish minute walk to St. Stephen’s Green); you could also easily take a bus or taxi.\n\nThe rooms were modern, well appointed, quiet, and comfortable - so quiet we felt like we were the only people in the hotel (although we weren’t). Beds were comfy. Housekeeping makes the beds daily and refreshes water in your mini fridge. We enjoyed the hotel buffet breakfast one morning before a tour and it was wonderful - anything you could want to eat. The staff are extremely helpful and friendly.\n\nWould happily stay again!",
+            "time": 1732651643,
+            "translated": false
+        },
+        {
+            "author_name": "David Pierce",
+            "author_url": "https://www.google.com/maps/contrib/116115684087770324704/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDLQNmGx5n6hpAaLqHYEhHyq9SB6Rmo4jVWmxYHr_8hVzzmhCh=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "So first place my Dad and I stayed once we arrived in Dublin. The staff was amazing during our two night stay! From sharing knowledge of the area. To making sure we had a much needed umbrella when we left. Comfortable nicely appointed accommodations. Good food and did I mention the attentive staff... Definitely would recommend a stay here",
+            "time": 1728015638,
+            "translated": false
+        },
+        {
+            "author_name": "Uncle888",
+            "author_url": "https://www.google.com/maps/contrib/107524201657930176633/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZPQBUWR2R_rU0PYSUETqWpkJee4KnxZe46_tZ4uXc28JJNWjx=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "The rooms were nice . The bed very comfortable. They provided many pillows. House keeping was good. Water pressure was not that great. This hotel advertised free parking, but the car park is always full. Nobody at the front desk tells me how to use the car park. ie getting in and out. The location is good. Many restaurants within walking distance.",
+            "time": 1731238405,
+            "translated": false
+        },
+        {
+            "author_name": "Sachin Kaushik",
+            "author_url": "https://www.google.com/maps/contrib/102628288644855740986/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOWzswDLY0qy6Gm7LUJh5J0MvBbUPCzTbE_0-F02P5rcM3i4cx=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Great location in the city, very walkable, the property is a bit dated but the staff was very warm, welcoming and helpful. The gym is hidden on the lower levels but has all the equipment you'll need. Overall a very positive experience on a business trip.",
+            "time": 1733101667,
+            "translated": false
+        },
+        {
+            "author_name": "Nishant BharatKumar",
+            "author_url": "https://www.google.com/maps/contrib/109135974750339209248/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUAL-iAbNMbHE9EXd2k73jffp92BjufEFnpJ5t0IJzHfi71qtn6w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "This hotel is a good choice, especially for business travelers. While it’s not overly fancy, the amenities are of high quality. The bed was comfortable, and the room was clean.\n\nI appreciated the great espresso machine and the option to make hot chocolate with Butler's chocolate. The shower and bathroom were also nice.\n\nThey provide climate-friendly water bottles, which is a plus. The atmosphere feels more corporate than touristy, so keep that in mind.\n\nThe location is convenient; it's about a 3 km walk to the city center, or you can take a bus that drops you directly there. Overall, a practical choice for business stays.",
+            "time": 1727062920,
+            "translated": false
+        }
+    ]
+}

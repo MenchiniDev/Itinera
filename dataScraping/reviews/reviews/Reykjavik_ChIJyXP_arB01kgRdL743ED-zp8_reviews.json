@@ -1,0 +1,66 @@
+{
+    "name": "Subway",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Michael Sigmarsson",
+            "author_url": "https://www.google.com/maps/contrib/116092297815116785554/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7ZqkgqAgfJlGCnLxCQPuNDBuGfUlia8dcdNm1F1UrA563SqRI=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "very good food",
+            "time": 1727782526,
+            "translated": false
+        },
+        {
+            "author_name": "daniel kari",
+            "author_url": "https://www.google.com/maps/contrib/110662482862055933929/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlhmvm5i1opmD5wvJ5GuwT4LI-w0Vbz-KZQ1FKdAMSSACipw=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "11 months ago",
+            "text": "This was very good but they are all kûkur",
+            "time": 1703694338,
+            "translated": false
+        },
+        {
+            "author_name": "FinnsiMann FVF",
+            "author_url": "https://www.google.com/maps/contrib/108495840048541994517/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLydv59Z-2cdRUlqSBvEnloW_DVj8STZXjmgvePhE81hyPvebo=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "4 years ago",
+            "text": "Good service. But the food was stale and bad",
+            "time": 1591459932,
+            "translated": false
+        },
+        {
+            "author_name": "Karen",
+            "author_url": "https://www.google.com/maps/contrib/113001904975266435088/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWw7ypCezv82ptRbhynpwMud_K0wX_FCqbYqoB5Wb6Sy8UaUm6X=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Went to every subway in Reykjavik when I was there, this was the best one",
+            "time": 1592337963,
+            "translated": false
+        },
+        {
+            "author_name": "Deden deden",
+            "author_url": "https://www.google.com/maps/contrib/107189085889269353211/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMK1JWToFPLKw_h3SQJyrlaOmgf5_4CjPPhCkhUsshxKnF7j8=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "It's Subway. You get a sandwich in line with the price.",
+            "time": 1681680311,
+            "translated": false
+        }
+    ]
+}

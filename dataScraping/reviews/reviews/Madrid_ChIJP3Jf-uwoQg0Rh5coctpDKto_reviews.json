@@ -1,0 +1,66 @@
+{
+    "name": "Miyama",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Chester Lee",
+            "author_url": "https://www.google.com/maps/contrib/103901983442485401144/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIZhUTeXgZp2fDUlI65aeCT4kbmGsZ-ngTKyKBKeyJxEWGJDJPIw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "One of the best Japanese restaurant in Madrid, and the price is also good . However, the Wagyu is not very amazing, the rest of it was delicious, and the dessert is super tasty.",
+            "time": 1639794538,
+            "translated": false
+        },
+        {
+            "author_name": "Pablo Avendano",
+            "author_url": "https://www.google.com/maps/contrib/106174089521055835114/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgtONT-eCkGFhE4N__gsLtzs8sPNKhsVnLLsiaVZ3CvWv69k5t=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "This place was good but it lacks personality. It caters to an executive type of diners. The food was good and their lunch menu wasn't too expensive. But there are more vibrant places (Santoku 😉) on this budget.\n\nIt felt as if though the staff were the ones filling the place and not the other guests. The timing of the servers wasn't all that good either. They removed the plates too quickly and were a bit invasive.\n\nOn a positive note. Kudos to the waiter who modified our order for us.\n\nThey could also use some fresh menus and good Oshibori (hand wipes).  Their bar area needs a touch up. It was uninviting and cluttered.\n\nUnless you're in the area for lunchtime. I wouldn't recommend this place that much.",
+            "time": 1710877749,
+            "translated": false
+        },
+        {
+            "author_name": "Sani Ario",
+            "author_url": "https://www.google.com/maps/contrib/109424470531023414633/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWVELB5wMgxyoesM2EFI48XKi3wyJ7o7aXl1gLPIF5iH13EH6Vvg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "As advertised. This place did not disappoint. Sashimi, maki, tempuras etc. were fresh and skilfully prepared. Sake and wine menu were bountiful. The suprise highlight, however, was the simple grilled eggplant with red miso paste. Just divine. Service was professional and friendly, albeit they keep forgetting to refill our water since they were so busy. Cake with candle request was easily catered for with no fuss. A class act in every sense of hospitality. Arigato gazaimas.",
+            "time": 1650978150,
+            "translated": false
+        },
+        {
+            "author_name": "Aline Y.",
+            "author_url": "https://www.google.com/maps/contrib/104748343750470800140/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBDS7mDysE1JAsXr7BR6jnN8LmCvyjN-8TasN79ETDyBwscCXs=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Delicious food ✅ Maki rolls are very delicate and tasty. A bit pricey for lunch but correlates with the quality of the food.",
+            "time": 1712417973,
+            "translated": false
+        },
+        {
+            "author_name": "H. Lynn",
+            "author_url": "https://www.google.com/maps/contrib/106461290224447019036/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGgpcgMdPgR8Ev_1Vn76MNe9V0iIyn4hR_T-Ms-4JfkcjbbA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Some of the things were really good such as the scallops, the spicy tuna tartar and the desserts; however, others were not up to standards like the king crab and the toro. Overall experience was good.",
+            "time": 1645368205,
+            "translated": false
+        }
+    ]
+}

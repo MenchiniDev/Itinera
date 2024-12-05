@@ -1,0 +1,66 @@
+{
+    "name": "The Place Firenze",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Nick Bonanno",
+            "author_url": "https://www.google.com/maps/contrib/110858794993842079362/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYekklhtNcwC7cPfyb1tsY5rpA_0jGlunJptbXqhDDX8AFV1Y=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I am compelled to write this review on the midst of our stay at The Place, Firenze. The service and beauty at this boutique hotel is beyond expectation. The convenience of its location is only eclipsed by the friendly and accommodating nature of the wonderful staff. If you have the opportunity to be a guest at this hotel, do not pass it up!",
+            "time": 1732657552,
+            "translated": false
+        },
+        {
+            "author_name": "Al3x J",
+            "author_url": "https://www.google.com/maps/contrib/117599216947239663622/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8ptrPAAJMBMzLMJJggT_6sZ5oorLN96uHN_recvFPQiNAdMa1=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "This Place rocks in every way possible. Totally lifestyle experience. From the moment we made the reservation I genuinely appreciate the seamless experience they delivered.\n\nThe elegance of the space, with it’s beautiful glass room and chandeliers, set the perfect tone. Extraordinary service and top notch concierge team",
+            "time": 1730833302,
+            "translated": false
+        },
+        {
+            "author_name": "Brenna Fazzio",
+            "author_url": "https://www.google.com/maps/contrib/115213652871439096090/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcQXVrm-IzWZHPiWqstygeSI54TM4ntOcxvoaUlBkxVW-_aw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Look no further than this hotel ! Amazing location and the staff treats you like family. This is our second stay at the place Firenze  and it never disappoints. The breakfast is to die for and the view you cannot beat! My husband and I kept dreaming of this place after we left last year. We would never even consider another hotel in Florence.",
+            "time": 1723478645,
+            "translated": false
+        },
+        {
+            "author_name": "Milena Sidler",
+            "author_url": "https://www.google.com/maps/contrib/106199808033410586389/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhUI0ZasvQRp4WBF9UYbPG_Nq7vcab8aUjReha9IV69a0Hcw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "One of the best home away from home hotels. The manager treats you like family. Pointed out and helped to arrange all activities for my family. Suggested places to visit and more. The location is superb close to everything you want to see in Florence. Great food and service",
+            "time": 1720876386,
+            "translated": false
+        },
+        {
+            "author_name": "Villa Fontelunga",
+            "author_url": "https://www.google.com/maps/contrib/116299188170040607255/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwu5EhaFbDMlCJm0aClSm3fzopY1Fawrjy-7JK7nNTcjp-xcw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Another amazing stay at The Place . Super friendly professional service , very elegant rooms with stunning view over the square and the church ! Breakfast was excellent with many choices , sweet and sour .",
+            "time": 1728029079,
+            "translated": false
+        }
+    ]
+}

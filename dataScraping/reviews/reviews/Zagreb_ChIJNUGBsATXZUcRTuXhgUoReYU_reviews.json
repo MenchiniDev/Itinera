@@ -1,0 +1,66 @@
+{
+    "name": "Khala Restaurant & Bar",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "A HopeFull Dreamer",
+            "author_url": "https://www.google.com/maps/contrib/112284582776024495078/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGNskUz3mndqb9yEX9AYID8Cukhu8Y8A4zknmQR73qalzB__KE=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Best sushi we've eaten till now! Plus, served in a spectacular way!",
+            "time": 1724793199,
+            "translated": false
+        },
+        {
+            "author_name": "Jadran",
+            "author_url": "https://www.google.com/maps/contrib/107205593193016902780/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-xD-qznsexOC3hGjmqTsNfJo1PvXtQxZTksSe-q6ksb8ZJqLv=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Overall a great place with a great menu, tasty food, decent service, and a great atmosphere. Very well shaded outdoor section and stylish interior.  Food was good, but the Soba noodles with duck, while very tasty, was a bit too salty. They should significantly reduce the sodium content, perhaps by cutting the amount of soy sauce they use by 75% and allow the customer to add soy sauce as they like, since it is already on the table. It was very salty, but still good. The chicken salad was very good. The chicken spring rolls were much more like chicken croquettes with minced meat and breadcrumbs, not with the usual crispy / crunchy spring roll dough you might find at a more traditional Asian restaurant. They tasted ok, but they really aren’t “spring rolls”.  I would suggest renaming this dish as “Asian chicken croquettes”.  The crispy tuna roll was good, but rather small (4 pieces) and also not very crispy. The atmosphere and music was really great and our waiter was kind. A bit expensive compared with other nearby restaurants, but overall a nice experience. I would definitely go back, but I would order differently.",
+            "time": 1685893097,
+            "translated": false
+        },
+        {
+            "author_name": "Tuğçe Kaya",
+            "author_url": "https://www.google.com/maps/contrib/103393608363595384145/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiuIIj1qPzWnOipIAu0buLdROk4kngzEmTi-_ksD7koBYLgjLV=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "We enjoyed the dinner. Reservation needed. We ate sushi it was tasty. Parking is problem, better to come with taxi. For parents, important to know it is not child friendly at night. Inside is a night club at night after one point with club music. It is easy to continue your night inside at the bar after your dinner. It is located in the heart of the city so you can explore the city earlier and continue dining and clubbing there.",
+            "time": 1710609145,
+            "translated": false
+        },
+        {
+            "author_name": "Ksenija Baždarić",
+            "author_url": "https://www.google.com/maps/contrib/109629609507209079468/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRaG6HZOCUQpUJj1wdUW9PhSeBnulPkkeC4qcZDjgPNBSWo9kJ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "9 months ago",
+            "text": "We ate chicken soup,a large portion with dim sum and sushi. Soup was tasty but not completel natural. Sushi was very cold and therefore less tasty. The service is excellent.",
+            "time": 1708973573,
+            "translated": false
+        },
+        {
+            "author_name": "Tomislav Kralj",
+            "author_url": "https://www.google.com/maps/contrib/100342928704156895535/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2ihe7hfOFdwm2Q7LG6WtGAh9DouBgUGDrFgQHmO7Ndx_JjKG4=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "I've never sat here, so I don't know what drinks or food they have, or if the staff is capable, but it looks nice and expensive.\nAlso, during summer it's super crowded.\nNo parking, not accessible with public transportation, lots of people that think that they have money, lots of women with 5 layers of makeup, if that's your schtick, then feel free to visit 🙂",
+            "time": 1668444335,
+            "translated": false
+        }
+    ]
+}

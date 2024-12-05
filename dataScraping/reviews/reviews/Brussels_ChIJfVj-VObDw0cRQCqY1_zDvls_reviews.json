@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Frederiksborg",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Ema Edosio Deelen",
+            "author_url": "https://www.google.com/maps/contrib/104442859255097150300/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTQbHfbRDVD999MTHEXLR73apoiTZAhYPf90aJ2t2P4bcux2QUBA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I had made a reservation for a two-night stay at the hotel. However, upon arriving at the location, I discovered that the hotel was closed. I rang the bell for several minutes, but unfortunately, no one responded. Eventually, an individual approached me and informed me that the hotel had gone bankrupt and had subsequently shut down.",
+            "time": 1728258577,
+            "translated": false
+        },
+        {
+            "author_name": "Abdulkareem Abuhassan",
+            "author_url": "https://www.google.com/maps/contrib/106541733482858954838/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_UUc1F4eEoNKiuaFPHNqR7Ra1C8iXz_Xf8AdGy-fqIasxHglM=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "The staff at this hotel is an absolute standout. From the moment I checked in, I was greeted with warm smiles and attentive service. Every request was met with a prompt and gracious response. The concierge was especially helpful, offering fantastic recommendations for local restaurants and attractions.",
+            "time": 1696988386,
+            "translated": false
+        },
+        {
+            "author_name": "Aditi Paliwal",
+            "author_url": "https://www.google.com/maps/contrib/110492739068796455023/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPgMsVZeMwz6w0MkE8G3_WLcIqkU9rI2L1CkzO0FYZ9ExfnKrjJw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Stayed here for 2 nights. Hotel is good. The vintage bar downstairs is good with amazing food.\nRooms and washroom are big enough for two people with good window view.\n\nThe only part which they lack is not providing kettle in the room and no washroom basics like soap,shampoo and dental kit.",
+            "time": 1681071743,
+            "translated": false
+        },
+        {
+            "author_name": "Lil Blu",
+            "author_url": "https://www.google.com/maps/contrib/108212814930183663105/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWniWQblpWjr4P2y3McdMamjTuH5fRVHBtB2T4lZFd51bBUMQs=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Extremely friendly staff, especially Daniel. He was friendly and accommodating. The room was small but sufficient. It had a private bathroom that was small, but the bed was nice, the desk was adequate. We were on the street side and I could not hear the traffic. I would stay here again and will recommend to my friends.",
+            "time": 1491060694,
+            "translated": false
+        },
+        {
+            "author_name": "K R",
+            "author_url": "https://www.google.com/maps/contrib/113612177207499358682/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbuIG1BhxQXfJ_vJJPsO0yTes2Ess7NCs6333CTY2kN9BghUsFNg=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Positive:\n- close to public transport for all the types metro, tramway and bus\n- good food and hard options at the hotel itself\n- super friendly and polite staff\n- clean, comfortable and spacious rooms\n- clean washroom / toilet area\n- very close to basilic infact you can see it from the hotel window and corridor.\n- classic vintage styled restaurant and the hotel is well lighted up with nice wooden flooring\n\nNegative:\n- A bit far from the Brussels north (gare du nord) station. Can take 40 minutes by walk (you need to have strong legs like mine;))\n- too narrow entry gate and too small elevator, is not wheel chair friendly",
+            "time": 1653629251,
+            "translated": false
+        }
+    ]
+}

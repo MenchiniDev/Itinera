@@ -1,0 +1,66 @@
+{
+    "name": "Tschebull Restaurant|Beisl|Bar",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "daniele gagliardi",
+            "author_url": "https://www.google.com/maps/contrib/117428173103976587997/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYU2oOWw24m0Hz8sF1hr0dHLRR-Si0ghI-51OjqQc7JAC12g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Amazing quality of food in a friendly fine dining quality service.\nThe team is always smiling, willing to suggest and deliver a nice hospitality service! The owner is just wow! Definitely recommend this place!",
+            "time": 1731533032,
+            "translated": false
+        },
+        {
+            "author_name": "Tim Crutchley",
+            "author_url": "https://www.google.com/maps/contrib/116981782297614433263/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEolVajeJSqEkbiJjufHA_L_J13wRKIYE6Nl_Yns6BiKXeZXQDCw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Was recommended by colleagues as a place to visit and it did not disappoint. So many great things on the menu, but I went for the ceviche and the Weinerschnitzel, both were excellent and not too heavy.\n\nService was excellent, attentive but not intrusive.",
+            "time": 1727520453,
+            "translated": false
+        },
+        {
+            "author_name": "BillyBob Ford",
+            "author_url": "https://www.google.com/maps/contrib/110148656466482641406/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEVbZteNNwgH5NC9rkkZxPtKuPuLYrD3jR4FLVqALlNXOSQAA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "DING DONG we have a five start champion! This was a great dinner. Excellent (Austrian) wine selection, good and fast service. I would 100% recommend this restaurant",
+            "time": 1722117836,
+            "translated": false
+        },
+        {
+            "author_name": "Anthi Christoforidou",
+            "author_url": "https://www.google.com/maps/contrib/103560654854071057050/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHCFz1SAIiswbTXtnD12YvO831W85Mph4PQEwKnXqcq-nQeak8=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "Great food, friendly staff, great atmosphere! Definitely recommend it!",
+            "time": 1730972809,
+            "translated": false
+        },
+        {
+            "author_name": "Christiane Link",
+            "author_url": "https://www.google.com/maps/contrib/100031233374105718284/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWY2w9-gkAjTfVuatIvXYokcE4lEdBCP0TRaIOjYMIauaCHVDtWcg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "It is one of my favourite restaurants in Hamburg. They have authentic Austrian dishes, perfect service, and it's a beautiful restaurant. Try the Wiener Schnitzel. There is a wheelchair-accessible toilet in the hotel next door.",
+            "time": 1731433648,
+            "translated": false
+        }
+    ]
+}

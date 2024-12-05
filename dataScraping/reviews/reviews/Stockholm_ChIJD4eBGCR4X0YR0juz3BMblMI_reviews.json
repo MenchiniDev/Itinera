@@ -1,0 +1,66 @@
+{
+    "name": "Quality Hotel Globe",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "hilt m",
+            "author_url": "https://www.google.com/maps/contrib/101937564901451059090/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuQkeRjbuyc_thvik2FN4pik-VkKYCd5IevVg6mJrMmBKKMdFi=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Good breakfast - square toilet. If you are looking for something around globen, it's a fantastic location at a good price. Nice room, comfortable bed, typical swedish shower where the water goes under the glass and across the bathroom. For the love of all, why a square toilet seat, it's as uncomfortable as it looks.",
+            "time": 1732985091,
+            "translated": false
+        },
+        {
+            "author_name": "Jeff B",
+            "author_url": "https://www.google.com/maps/contrib/115825281494913728879/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZofHkRFbAxa1FKYCRjj4hMdf-nMajG-8OQmegOQNB6C5upQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "The overall experience was pretty good. Entertainment was fun, and the bar area and restaurant was really good, including the food. The front desk people were stressed and not attentive very much we stood in line for a long\ntime a couple times and never resolved what we were trying to get done... but maybe they we're new employees. The location unless you're going to a game was not the best, but the hotel itself makes up for all of that.\nOverall not a bad place just needs a few adjustments...",
+            "time": 1725371327,
+            "translated": false
+        },
+        {
+            "author_name": "Paulina Szeremeta (ladykokeshi)",
+            "author_url": "https://www.google.com/maps/contrib/113038788207711287181/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3tajNCfx0sz3_7Z880VEnKHboWFOPcG3WRPdUIIiqm4rjfLy_CQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Nice hotel in a good localization - very close to bus/train station. Good price deal for Stockholm (but not always due to close proximity to stadium and arena). Very helpful staff.",
+            "time": 1725214136,
+            "translated": false
+        },
+        {
+            "author_name": "Nathan Henley",
+            "author_url": "https://www.google.com/maps/contrib/101301359986629659997/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7JWL3i6jiolYnH9O6lelK0noXwB0nw_3IxluDj4VS1I_CnhRL=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "It’s good if you want a cheaper stay in Stockholm without staying the centre however it’s not much more than that. Firstly, the front desk can get immensely busy sometimes so do expect to wait at least 10 minutes. To begin with the hotel can be hard to navigate as it’s got 2 separate sides but you work it out eventually.\n\nI stayed on the side which has the glass elevators of which only 1 was working. The corridors smelt odd on the floor I was on. When I got to my room I noticed I had been given an accessible room which is great for the extra space however there’s multiple things that would annoy most people who don’t need these features such as outwards opening doors which constantly want to open, bars all over the bathroom to hold onto and an always on light in the bathroom which is very visible from the bed at night. The toilet seat was broken too.\n\nBreakfast was great however but the free WiFi provided might be one of the worst things I’ve ever used. It would work at some points then not work at others or even disconnect randomly forcing you to use your mobile data without realising. They definitely need to upgrade the routers to the rooms as it worked in the lobby no problem.\n\nAdditionally, although it didn’t affect me as the football was the purpose of my stay but you may be put off staying here if there’s a big event at the stadium if you’re a family for example. Excellent location for the stadium for me however.",
+            "time": 1724091722,
+            "translated": false
+        },
+        {
+            "author_name": "MelodyMusic",
+            "author_url": "https://www.google.com/maps/contrib/113343843020181695824/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDq-NSibRvG2Gj2k_Av--ATuEMhE3jTOzSQl6zrRzPiBUhsCFD=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "It was a 50/50 experience. The reception/lobby of the hotel is beautiful and inviting but the line was SO long at the reception that we were invited to do a self checking - which was very convenient - but it doesn't give any explanation other than the room number. There were different elevators and we didn't know which one to take so we had to queue anyways to ask. The room was quite small but fonctionnal. In the morning, when we went down for breakfast, the lady told us it was closed for half an hour. How could we know since there was no information at the self checking and no folder in the room ? So no breakfast.\nIt would have been a much better experience with either more information at the self checking, more staff at the reception to take the check-ins or an information paper in the room with the breakfast times.\nOtherwise, the hotel is very well located to go to the Tele2 arena (literally in front of it).",
+            "time": 1730373906,
+            "translated": false
+        }
+    ]
+}

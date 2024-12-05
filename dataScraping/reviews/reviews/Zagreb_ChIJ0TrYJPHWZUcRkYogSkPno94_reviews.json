@@ -1,0 +1,66 @@
+{
+    "name": "Pizzeria Strossmayer",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "D",
+            "author_url": "https://www.google.com/maps/contrib/100973797811323723875/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLV3DosmB22DbrSaGL9HEHSKI2bA8zwNDBzOiPC5SKdhVG2bqJ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "7 years ago",
+            "text": "The distance from the pizzeria to the apartment is approx. 500 meters. On the first day the pizza was good and delivered within the scheduled time frame. On the second day it was necessary to call them once more because they couldn't deliver the pizza within one hour. When the pizza eventually came, it had 21% higher price then just the day before. There was no receipt on neither occasion. And, at the end the dough was not baked well. Unfortunately, I am not able to recommend such service.",
+            "time": 1508013271,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan Benussi",
+            "author_url": "https://www.google.com/maps/contrib/105294637918491937467/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzSmoR0vcQvSceKsX7EOtKPCKEVAYCvddgHOhi5QmHH4rzRFjt=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "5 years ago",
+            "text": "Once a good place to grab gyros or pizza, now a restaurant with barely passable food and extremely slow service. It's slow whether you eat there or order a takeout. Last visit was a 1 hour wait for a bad burger with disgusting \"onion rings\".",
+            "time": 1558371742,
+            "translated": false
+        },
+        {
+            "author_name": "Davorin Krivak",
+            "author_url": "https://www.google.com/maps/contrib/105548441739843238932/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrdVTRflaPMinWWZZ4tPYH_zn1JZSNotOuB021jMkh4bCGr6ltjw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "6 years ago",
+            "text": "Had a Wiener schnitzel with fries and raw cabbage salad.\nThe fries were cold, at least an hour old. The salad too salty, to the point where all you have is salt in your mouth.\nTook them 15 minutes from order to the table.\nThe schnitzel was from chicken breasts (not exactly Wiener, is it?), but warm, hence the two stars.\nJust avoid this place.",
+            "time": 1534242866,
+            "translated": false
+        },
+        {
+            "author_name": "Zvonko Mihelic",
+            "author_url": "https://www.google.com/maps/contrib/117480568769262671480/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQ057O_WsE9yPortUdRFhcF5cjTzufuSMNL6P_W3_DXwXTkiePzw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "5 years ago",
+            "text": "I had lunch here and thought it would be quick. We waited 10 min for a waiter to come to the table more then 30 min for fried sardines. It wasn't that busy but maybe they have more deliverys then guests. It was Ok but I don't think I'll be back soon.",
+            "time": 1562218582,
+            "translated": false
+        },
+        {
+            "author_name": "Mislav Krstulovic",
+            "author_url": "https://www.google.com/maps/contrib/114625836325137846728/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQX3lPKOeB-e1dtGu19oLMf1u81tEPgznF26Ng51CmyFGNRRGn=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "5 years ago",
+            "text": "As a regular customer(student from the neighboring faculty) I often enjoyed a huge portion of Gyros for a good price. Today I was very dissapointed when the size of the portion almost halved, but the price remained the same.",
+            "time": 1554922624,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Academy Plaza Hotel",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "maia cl",
+            "author_url": "https://www.google.com/maps/contrib/105767300619148512639/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWT9DcPsBc2VUQMFvvIJ5QUls2ulNGCV-X4MxDiCS6dtxEEuzsm=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Everyone visiting Dublin should stay here! The staff are super friendly and happy to help with anything, let us check in early and have late checkout for no extra charge. The rooms are spacious and clean with plenty of plugs and good shower pressure. Comfy beds too, and the location is a walkable distance from most tourist attractions. We'll definitely be back!",
+            "time": 1732727681,
+            "translated": false
+        },
+        {
+            "author_name": "Dennis Dexter",
+            "author_url": "https://www.google.com/maps/contrib/104835399506022940796/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYg1ZtLFTsZwgN784hLU-vmNtyB9qQ5H6GNc2Uz-H89G_gVg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Great service, clean rooms.  This was the smallest room that I have gotten in a hotel in Ireland. Would have enjoyed a few more meter to put 2 chairs at the table in the room.\n\nGood pricing.  Overall good value for the money.",
+            "time": 1730306541,
+            "translated": false
+        },
+        {
+            "author_name": "Sergio Montero",
+            "author_url": "https://www.google.com/maps/contrib/111003433323565103290/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOswZFzLN6nE1KeeWl5LaiLFZ7HwuE6QcviGTutP_ZBZDr0A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I recently stayed at this hotel for 5 days as part of a group traveling from Spain. Although my English is not very strong, the staff made me feel incredibly comfortable and well cared for. Paula and Alexia at the reception were especially helpful, always ready to assist with a smile. Enrique from the restaurant staff also provided excellent service, ensuring that every meal was enjoyable. Thanks to their kindness and professionalism, I felt at home despite being far away. I highly recommend this hotel for its exceptional service and welcoming atmosphere.",
+            "time": 1722593353,
+            "translated": false
+        },
+        {
+            "author_name": "Jens Neumann",
+            "author_url": "https://www.google.com/maps/contrib/100143987698082909906/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgPg7F2ng_8dRsvQgv3KKK1ll-YDb7T5SpGRJCsb2FOuZdAQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "3 weeks ago",
+            "text": "Actually a very nice hotel with friendly staff and good facilities. Unfortunately, the hotel fails across the board when it comes to the most important criterion: sleep! The hotel has thin walls, so you can hear every step in the hallway or every word spoken by your neighbor. In addition, there are loud and drunk guests at night. The ventilation in the bathroom and bedroom are relatively loud. You can't sleep with the window open because of the noise outside. But the worst thing is that the bed is far too small for 2 normal-sized people. It's hard to find a comfortable position at night. Unfortunately, light sleepers will not be able to sleep in this hotel.",
+            "time": 1731403889,
+            "translated": false
+        },
+        {
+            "author_name": "Imke",
+            "author_url": "https://www.google.com/maps/contrib/113970338549353081297/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHCLTj2_FYQJU0NJmGrYDtdxiBgm6mb4yJFiro0yVuyTKg448A=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Loved staying here. We stayed here for 3 nights in Dublin and for the amount we payed the hotel surprised us with their quality. So clean, so calm and beautifully decorated. The location is only a short 20 minute walk to the centre of Dublin. The bar (breakfast, lunch and diner) and the coffee station have great prices. The staff is super nice. It’s just perfect!",
+            "time": 1720720022,
+            "translated": false
+        }
+    ]
+}

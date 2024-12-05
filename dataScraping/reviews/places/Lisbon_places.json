@@ -1,0 +1,1069 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7240543,
+                "lng": -9.150283600000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.72540138029149,
+                    "lng": -9.148990269708499
+                },
+                "southwest": {
+                    "lat": 38.7227034197085,
+                    "lng": -9.151688230291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Florida",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101912341290111676588\">Hotel Florida</a>"
+                ],
+                "photo_reference": "AdDdOWosiWf3TQiF2hbWoybPlASSjowPifD9_XTNSpt_Yw2nSdtxmA8C1vRnngDL3UoDgOkkOorbIgkYsTnKhOC5eqJFz_nwHT79gSJL9--q3azG5ddDNbTxrNKfncJ_cEXNvLpuHAinys3m0ssXgVW2r-JG5jgQyt4qI9G4_PJrqYONKng6",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJf2wJR3czGQ0R6GZfVBreu60",
+        "plus_code": {
+            "compound_code": "PRFX+JV Lisbon, Portugal",
+            "global_code": "8CCGPRFX+JV"
+        },
+        "rating": 3.9,
+        "reference": "ChIJf2wJR3czGQ0R6GZfVBreu60",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 994,
+        "vicinity": "Rua Duque de Palmela 34, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.70935540000001,
+                "lng": -9.1462821
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7107152302915,
+                    "lng": -9.144928919708496
+                },
+                "southwest": {
+                    "lat": 38.7080172697085,
+                    "lng": -9.1476268802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Estrela da Bica",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102400588270474428288\">Derya Koroglu</a>"
+                ],
+                "photo_reference": "AdDdOWp9PPnXiSQK6BlGC_rO71rnTwIseHJfOBy5ZfKsEKo2nn_JC1nBi1kO9JX2kvSYi4dKXDXyLTcRQRlLWcv6PhyLlo03QmaDOGJUpjzSiHWVutCKklcV-OHzaI79VspdcQgBiGtBc0TyYAaX1Owvd8JSaDbBZTgpQPfhRK_F_yxdLzSh",
+                "width": 2252
+            }
+        ],
+        "place_id": "ChIJuXNwmoA0GQ0RptjQxJ1Bis8",
+        "plus_code": {
+            "compound_code": "PV53+PF Lisbon, Portugal",
+            "global_code": "8CCGPV53+PF"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJuXNwmoA0GQ0RptjQxJ1Bis8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1160,
+        "vicinity": "Travessa do Cabral 33, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7376165,
+                "lng": -9.1598388
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7391083802915,
+                    "lng": -9.158502919708498
+                },
+                "southwest": {
+                    "lat": 38.7364104197085,
+                    "lng": -9.161200880291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Açores Lisboa",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112047978129613022466\">Hotel Açores Lisboa</a>"
+                ],
+                "photo_reference": "AdDdOWo28LX-fGglMzSgf8CV-DYVF0f997m71vbzFjofMKgiVaf_osoQ_FJmTdyZmNVQe3HMFR2p0di55Ny-FQ2vguvP1S8sbjf2XqfiUyn4Swrx7d2eOAK-an3lL5xobWQaFCOuC3p1IHrNo8gQ4A1nKsxU9_fj2MblWWGd_Otk2xxlJkCG",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJARtc1hMzGQ0RxUk3X3J7Fmc",
+        "plus_code": {
+            "compound_code": "PRQR+23 Lisbon, Portugal",
+            "global_code": "8CCGPRQR+23"
+        },
+        "rating": 4.3,
+        "reference": "ChIJARtc1hMzGQ0RxUk3X3J7Fmc",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1196,
+        "vicinity": "Avenida Columbano Bordalo Pinheiro 3, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7130722,
+                "lng": -9.140006600000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7146890802915,
+                    "lng": -9.1387057697085
+                },
+                "southwest": {
+                    "lat": 38.7119911197085,
+                    "lng": -9.141403730291504
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Art Inn Lisbon",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1318,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102001593912672746127\">The Art INN Lisbon</a>"
+                ],
+                "photo_reference": "AdDdOWoptOMmi2YqFhaxAf8Mj8o0VaTDWytVtJsGug6oQQGhumO-uwqrKjTY0MmQU7K3WPX0GMbzCleXwOgl9KbfvZ7uSX1daSP4k8dR6_rVvkFUJB9dvVKThAwiiBa8wijMVYTaZkFNZi1U3a8w43Pnq_u0SrLHUK8VH7ylQUGzdlFHjctE",
+                "width": 1980
+            }
+        ],
+        "place_id": "ChIJITS6qng0GQ0RYMBD2MNlQwE",
+        "plus_code": {
+            "compound_code": "PV75+6X Lisbon, Portugal",
+            "global_code": "8CCGPV75+6X"
+        },
+        "rating": 4.5,
+        "reference": "ChIJITS6qng0GQ0RYMBD2MNlQwE",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "clothing_store",
+            "bar",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 440,
+        "vicinity": "Rua 1º de Dezembro 31, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.71206429999999,
+                "lng": -9.143842399999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.71342978029149,
+                    "lng": -9.142442019708497
+                },
+                "southwest": {
+                    "lat": 38.71073181970849,
+                    "lng": -9.145139980291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Grapes & Bites - Hostel and Wines",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 507,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107898187672111690293\">Grapes &amp; Bites - Wines and Food</a>"
+                ],
+                "photo_reference": "AdDdOWpBj-Oz-k5cClqSQILt6L_L8LNx6AHhjhbJZSguvQpdNB7RVLP8uIlAgS7xvUTZFMEHgpoKUs_YyvBfM7IP5fo5wyqMAOxEL09uF4mV3C2c-gDNTAYnrS5ip6cV1EqUitLRU-XRiegUVY6dn1OS3TtMGGY7rmLMIKg93z3fDMhNyepR",
+                "width": 900
+            }
+        ],
+        "place_id": "ChIJEcDMln80GQ0RweCVwP8NxHk",
+        "plus_code": {
+            "compound_code": "PV64+RF Lisbon, Portugal",
+            "global_code": "8CCGPV64+RF"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJEcDMln80GQ0RweCVwP8NxHk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1203,
+        "vicinity": "Rua do Norte 85, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7124706,
+                "lng": -9.142483499999997
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7139674302915,
+                    "lng": -9.141242569708496
+                },
+                "southwest": {
+                    "lat": 38.7112694697085,
+                    "lng": -9.1439405302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Trindade",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2731,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100932479525109460392\">Cervejaria Trindade</a>"
+                ],
+                "photo_reference": "AdDdOWqe1CJm3xnFk0kaWLytSrSLBBUYUsa0XteGZ_k0J1tiAHuxIPzvFJ67rKupAKG0au9y48u2HRdJ_kMVAyO004T0q0P7V7eBiJBDoW_HKbs1o-6-HjnU-CA7v2m1J1H-I-NF811G_JAzlbyw7S2oezhfsSIblYIHT7lATTi_hs_L8QOV",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJbymNeX80GQ0ROXnZMyq-WxM",
+        "plus_code": {
+            "compound_code": "PV65+X2 Lisbon, Portugal",
+            "global_code": "8CCGPV65+X2"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJbymNeX80GQ0ROXnZMyq-WxM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6801,
+        "vicinity": "Rua Nova da Trindade 20C, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7130556,
+                "lng": -9.143888899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7144356802915,
+                    "lng": -9.142476319708498
+                },
+                "southwest": {
+                    "lat": 38.7117377197085,
+                    "lng": -9.145174280291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Café Luso",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103837076950007410699\">Café Luso</a>"
+                ],
+                "photo_reference": "AdDdOWrOnaewugodn-Ex7Qv4EDfI-zRjq8J_d0mMqsI91ysk6QeociSMt_MPvdrTFSpKwQbPzJ2Z27Px9kuvOmXUE4NZ4LOsof0CNFKXSRFYMGPZz6xCBuaBxbIrHSwchQX8DzZDMJkuFKNEddkpzw2LAxsMfIAk62vMSGoGj0cmbnIcaQO7",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJS6w5doAzGQ0RjbOs1eVx9xk",
+        "plus_code": {
+            "compound_code": "PV74+6C Lisbon, Portugal",
+            "global_code": "8CCGPV74+6C"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJS6w5doAzGQ0RjbOs1eVx9xk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1495,
+        "vicinity": "Travessa da Queimada 10, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7115456,
+                "lng": -9.138320300000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7129310802915,
+                    "lng": -9.1370488197085
+                },
+                "southwest": {
+                    "lat": 38.71023311970851,
+                    "lng": -9.139746780291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Brown's Central Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115421134140823806640\">Brown&#39;s Central Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqr7-iDPkSGbStyKEYvnj_X7bMRCBqh7HT-dDPxF5Yg-1SvFaZ8QjR1Sgb_Tsn3E7D86QuVQGeo_KKfb03cyipsXaOjkQJF7lAT0SOHxVhcJlOGnQBkDuWvzq-RlT75VZJrxVE71kIZOHlGBu0BxVn6btcN0euPPyO5uNc9nI-Tsixt",
+                "width": 4928
+            }
+        ],
+        "place_id": "ChIJiULG6Hg0GQ0REhiOp3X8fYA",
+        "plus_code": {
+            "compound_code": "PV66+JM Lisbon, Portugal",
+            "global_code": "8CCGPV66+JM"
+        },
+        "rating": 4.5,
+        "reference": "ChIJiULG6Hg0GQ0REhiOp3X8fYA",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1465,
+        "vicinity": "Rua da Assunção 75, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7148657,
+                "lng": -9.144681199999997
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7162477302915,
+                    "lng": -9.143253769708497
+                },
+                "southwest": {
+                    "lat": 38.71354976970851,
+                    "lng": -9.145951730291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Decadente",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 533,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107182143048238615279\">The Decadente</a>"
+                ],
+                "photo_reference": "AdDdOWosCqn_fgRlqKoJ1kQ4KNugOp7DU9n-2KiRmRKtYKGP-VQS8F9RQlxkffGVto5IBxoj3vUTaTbMLMOWULozG9ejGu39au3pgKGEvfpdyUlfFtj4SZ8CJAr6nINGJHDDb2UDoiqcQ8d6zIRpF_1UeZWf3SJZxrWvg-Wun0tC5IpHDPEU",
+                "width": 799
+            }
+        ],
+        "place_id": "ChIJh1oIOoAzGQ0R_IeRqSiovy8",
+        "plus_code": {
+            "compound_code": "PV74+W4 Lisbon, Portugal",
+            "global_code": "8CCGPV74+W4"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJh1oIOoAzGQ0R_IeRqSiovy8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "night_club",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1956,
+        "vicinity": "Rua de São Pedro de Alcântara 81, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.71009939999999,
+                "lng": -9.141465599999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.71144358029149,
+                    "lng": -9.140154269708495
+                },
+                "southwest": {
+                    "lat": 38.70874561970849,
+                    "lng": -9.1428522302915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Belcanto",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111807387388435984557\">Belcanto</a>"
+                ],
+                "photo_reference": "AdDdOWoHBqE60GbW9h6gJHjOu2ekaVEyFvhi3PtPk1a3T0OK6-Y6Zz8Z4fXGAeer4SN1EJiIT2MBsEzUt2aRFgwuF1taf2GhUJWpBQeEDe7puCREFb6BnIG0p4lsCJTZ26WEbDCw0psT4L1wdRXCOZEkkUPeb05CbiYEfkOcoSbwdX-sATXA",
+                "width": 912
+            }
+        ],
+        "place_id": "ChIJITj75340GQ0RXULVgWMFloA",
+        "plus_code": {
+            "compound_code": "PV65+2C Lisbon, Portugal",
+            "global_code": "8CCGPV65+2C"
+        },
+        "price_level": 4,
+        "rating": 4.6,
+        "reference": "ChIJITj75340GQ0RXULVgWMFloA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1404,
+        "vicinity": "Rua Serpa Pinto 10A, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7166568,
+                "lng": -9.141766799999997
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7179322302915,
+                    "lng": -9.140464319708496
+                },
+                "southwest": {
+                    "lat": 38.7152342697085,
+                    "lng": -9.1431622802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Hard Rock Cafe Lisboa",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 427,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102624910018966534727\">Hard Rock Cafe</a>"
+                ],
+                "photo_reference": "AdDdOWrOBCWdjcyv9yAX3pGS26NU1wgfnGIYKa46RTSvcRWkxzrEZhfXTkQM6gTcT-diK46LkkpS1-MDRvPbFhSfDCoAe0j8utpT_TuDpJRO9_vKnqpyyhnrzUoL3EtVwu0kkdZNyCWa3d403DSfdYAtwaccZvHvmtgHvm11Un9BlCSD5e1X",
+                "width": 640
+            }
+        ],
+        "place_id": "ChIJUV-0EIEzGQ0RLeFpT8uLavk",
+        "plus_code": {
+            "compound_code": "PV85+M7 Lisbon, Portugal",
+            "global_code": "8CCGPV85+M7"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJUV-0EIEzGQ0RLeFpT8uLavk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20953,
+        "vicinity": "Avenida da Liberdade 2, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7096342,
+                "lng": -9.1312043
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7109649802915,
+                    "lng": -9.129853319708499
+                },
+                "southwest": {
+                    "lat": 38.7082670197085,
+                    "lng": -9.132551280291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Clube de Fado",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 5247,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102411731482178765842\">Clube de Fado</a>"
+                ],
+                "photo_reference": "AdDdOWoAB2fWfvAaPajXODqNg725wZZUlOQxanoOyXeuP4OSdShIl2zGuVF9Ihs5A9285-dp3HORKXFTOtxPhI8gPdri4Giiom9uuqD3Un4zjL6oNmB30MbAI7Ie0EWAEMaB9sJXrnvitjKO2jIFl8Kb2Kfz5J9O-iFIZ1-OEGGdCwk6hsob",
+                "width": 7870
+            }
+        ],
+        "place_id": "ChIJV-jS2nY0GQ0Rl2LL675xCYE",
+        "plus_code": {
+            "compound_code": "PV59+VG Lisbon, Portugal",
+            "global_code": "8CCGPV59+VG"
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "ChIJV-jS2nY0GQ0Rl2LL675xCYE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2173,
+        "vicinity": "Rua de São João da Praça 94, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7153009,
+                "lng": -9.1397695
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7164857802915,
+                    "lng": -9.1381403197085
+                },
+                "southwest": {
+                    "lat": 38.7137878197085,
+                    "lng": -9.140838280291504
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gambrinus",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 674,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110739608727860528378\">Restaurante Gambrinus</a>"
+                ],
+                "photo_reference": "AdDdOWqWTwAzpyS1dAm3Zux2-srJ6mw74R3WwkNLZ6sFkRwEQ1eFoDxInQWGgcTVcPzflVMzbE3CzNUfxrVxa0z72OT6CE8Hgp66vehoZz1-yr6cmXhu68lL3V9TfhHRAqp7Oomxq50dImagkAjy-LgqzmDy2Ze7VjdHjUvRbJ0cF49T0Xf5",
+                "width": 1011
+            }
+        ],
+        "place_id": "ChIJDWb8MYczGQ0RtGx6lhfvIws",
+        "plus_code": {
+            "compound_code": "PV86+43 Lisbon, Portugal",
+            "global_code": "8CCGPV86+43"
+        },
+        "price_level": 4,
+        "rating": 4.4,
+        "reference": "ChIJDWb8MYczGQ0RtGx6lhfvIws",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1984,
+        "vicinity": "Rua das Portas de Santo Antão 23, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7471262,
+                "lng": -9.139142699999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7484245302915,
+                    "lng": -9.137645919708499
+                },
+                "southwest": {
+                    "lat": 38.7457265697085,
+                    "lng": -9.140343880291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dom Feijão",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116630561430226567910\">Dom Feijão</a>"
+                ],
+                "photo_reference": "AdDdOWpngyPpb3sU3rL3JA5Y5XO6T2n-mn58kpEqlzBNw1iFRdOP38JPEcYGol5zx4Ojn0VetXZeZaSiYoQlIKYt4V20b-5pyed9kwWEhea-EbME1RhuxE9yM_iobA2vzIPSoJnQnINoVbIEGiICGhlgW-6jqVIUxmyrH0zGyaWTFmxdaAM_",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJoQqWJa8zGQ0RRb76w5nRUJU",
+        "plus_code": {
+            "compound_code": "PVW6+V8 Lisbon, Portugal",
+            "global_code": "8CCGPVW6+V8"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJoQqWJa8zGQ0RRb76w5nRUJU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2569,
+        "vicinity": "Largo Machado de Assis 7D, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7056917,
+                "lng": -9.1483594
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7071373802915,
+                    "lng": -9.1469747697085
+                },
+                "southwest": {
+                    "lat": 38.7044394197085,
+                    "lng": -9.149672730291504
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Armazem F",
+        "photos": [
+            {
+                "height": 2336,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115118480899477058502\">Marco Valente</a>"
+                ],
+                "photo_reference": "AdDdOWqJeOkldKGZqXvZkLfGUwWahz805A-mPW0n_2gahEvglEFDfHL9skmTh_h5oqvAtAQYUgzdc4B5By1VmdMfZqR06kGDJuakcDsEhIjxO6l8gvr4isZLdapFmsnR0UqcqQYgVTBhgJeipOgpx6mm3MZy5zjTMZlOvQs-fc20lSDT4E-p",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJiaXIl4Q0GQ0RFrBd7gK_iWs",
+        "plus_code": {
+            "compound_code": "PV42+7M Lisbon, Portugal",
+            "global_code": "8CCGPV42+7M"
+        },
+        "rating": 3.7,
+        "reference": "ChIJiaXIl4Q0GQ0RFrBd7gK_iWs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "Rua da Cintura do Porto de Lisboa Armazém 65, Lisboa"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 38.70816839999999,
+                "lng": -9.1562784
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7095078802915,
+                    "lng": -9.1549482197085
+                },
+                "southwest": {
+                    "lat": 38.7068099197085,
+                    "lng": -9.157646180291504
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "A Travessa",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115798814463651068546\">Carlos B David</a>"
+                ],
+                "photo_reference": "AdDdOWrFVFf4WHW-A24xcUCw-aXGiORA9f9xoPv1gn0NhUFARF5gqirqGRxZGUASTmu0_0Zf79FpfS3LssNB9Dk8i3eh6v0c1EvQUfbs-wVtRvEJBj-uIGkUNIlKQId8jVZ2JJnXZsMy0Yk1XM7nmBgQZaa9PyqYh__ikY1lkKiUO2IYqG6t",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJbRjhNYM0GQ0RrvvCBnonVHo",
+        "plus_code": {
+            "compound_code": "PR5V+7F Lisbon, Portugal",
+            "global_code": "8CCGPR5V+7F"
+        },
+        "price_level": 3,
+        "rating": 4.2,
+        "reference": "ChIJbRjhNYM0GQ0RrvvCBnonVHo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 278,
+        "vicinity": "Madragoa, Travessa do Convento das Bernardas 12, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.72436829999999,
+                "lng": -9.1500664
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7257563802915,
+                    "lng": -9.148933569708497
+                },
+                "southwest": {
+                    "lat": 38.7230584197085,
+                    "lng": -9.151631530291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Great American Disaster",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105424258796263377704\">The Great American Disaster</a>"
+                ],
+                "photo_reference": "AdDdOWpTW1LycNJ6oE65kQKxI3CAH0C9c8EMvk7VMgl646lmwCBHhrHK7az-O1R0_CRTq_XO3g-FqLipnBqtQrgMwfacVEi0eL725mFUAqfCT_dO8gqsraXRZSIGkmoU-SXQdyAThVvViik3HLuTlBZnb_fgrGdfkoIe5b3QffEN5yqbo1wa",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJx3wfP3czGQ0RF0ltHhkF554",
+        "plus_code": {
+            "compound_code": "PRFX+PX Lisbon, Portugal",
+            "global_code": "8CCGPRFX+PX"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJx3wfP3czGQ0RF0ltHhkF554",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3804,
+        "vicinity": "Praça Marquês de Pombal 1, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7027158,
+                "lng": -9.178909500000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7040453802915,
+                    "lng": -9.177599269708498
+                },
+                "southwest": {
+                    "lat": 38.7013474197085,
+                    "lng": -9.180297230291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "1300 Taberna",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1680,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102079470357616021270\">1300 Taberna</a>"
+                ],
+                "photo_reference": "AdDdOWpDTWMRGASpx8mULJ_88t0QKW9r8o1yAGBiFRVDqqCfkz26c-LsojgUcS22m4mpIPcdsAnBPazlvEU9G54ut7hHyNEUPUAO0YeA6EyLTJQoDFFGkPUzMQy46erBBUd_t5ZyTf9PnsOuaew4K15nAkgpP7faRHWRxmoQOE8Xr_O935li",
+                "width": 2520
+            }
+        ],
+        "place_id": "ChIJzwhtiqU0GQ0RQO4DGOe2igA",
+        "plus_code": {
+            "compound_code": "PR3C+3C Lisbon, Portugal",
+            "global_code": "8CCGPR3C+3C"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJzwhtiqU0GQ0RQO4DGOe2igA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1423,
+        "vicinity": "Lx Factory, Rua Rodrigues de Faria 103 arm. H, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.7115083,
+                "lng": -9.1403611
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7128535302915,
+                    "lng": -9.138981719708497
+                },
+                "southwest": {
+                    "lat": 38.7101555697085,
+                    "lng": -9.141679680291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sacramento do Chiado",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 853,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101399280380903210533\">Sacramento do Chiado</a>"
+                ],
+                "photo_reference": "AdDdOWqJvfelsZD-OU-yXI-0x-4wQU3kS-ARSSh35v7KTSUlKw-ldQT8uv241n2Eb-1DqdcGqMQBNnvhKX1xTn1BTMSoT7XQEXKHBm4U6bOMrrwjI34476NgukMOVXBrMgeCLlf7TRHS4dch2WzB8MtS7mI8nveUR1q44nTkO4-zk5dTLAK5",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJYaS4M380GQ0REdyJPFfvokc",
+        "plus_code": {
+            "compound_code": "PV65+JV Lisbon, Portugal",
+            "global_code": "8CCGPV65+JV"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJYaS4M380GQ0REdyJPFfvokc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2073,
+        "vicinity": "Calçada do Sacramento 40 a 46, Lisboa"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 38.709134,
+                "lng": -9.13334
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.7102958802915,
+                    "lng": -9.132080119708498
+                },
+                "southwest": {
+                    "lat": 38.7075979197085,
+                    "lng": -9.134778080291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Taberna Moderna",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1184,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115776964824426365985\">Taberna Moderna</a>"
+                ],
+                "photo_reference": "AdDdOWqsxn-1i9VfSOv7jHVuBBsTW9S3AgzMfINMOiHTeEaIQ7KJgPHNiRVL8lU4UdkNEIRNbCJHcTZbRdDuvvmn3s7ckQE5wmniLPetv_rK70UfJt3qqCeNxZAe-v0Nr4LIeW8412Rpr8ZfmhgPhr0FYZgm7ifl8Ne4Disqp8JFivt7J-Hw",
+                "width": 1776
+            }
+        ],
+        "place_id": "ChIJ8USpSXc0GQ0RAIMnuSbwXp8",
+        "plus_code": {
+            "compound_code": "PV58+MM Lisbon, Portugal",
+            "global_code": "8CCGPV58+MM"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ8USpSXc0GQ0RAIMnuSbwXp8",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1140,
+        "vicinity": "Rua dos Bacalhoeiros 18A, Lisboa"
+    }
+]

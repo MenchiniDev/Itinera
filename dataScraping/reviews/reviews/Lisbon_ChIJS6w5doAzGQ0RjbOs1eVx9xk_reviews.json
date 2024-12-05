@@ -1,0 +1,66 @@
+{
+    "name": "Café Luso",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Jonathan Yu",
+            "author_url": "https://www.google.com/maps/contrib/111618121190534745854/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGg7DXTIB2cIsr5OYSKjHYU-_X5FRZiz_hYqJ967Dm-e8WxgdeHw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Staff was super friendly! Had a great time watching the Fado performances. Would definitely recommend to anyone who's visiting Lisbon.",
+            "time": 1732354747,
+            "translated": false
+        },
+        {
+            "author_name": "Anthony Dao",
+            "author_url": "https://www.google.com/maps/contrib/113392394899320609135/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiXRgVCUzBzjzqKzZ0xy9zqKFE9dl0xy3RyFpfvgFmX3_EyYQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We came to Cafe Luso for the Fado experience on recommendation from a local guide. We had a wonderful experience with a beautiful of red wine. Though the restaurant was full of guests ,the service was impeccable and thank you to Raoul for looking after us. We saw some fadistas such as Elsa Laboreiro and Ana Matar.",
+            "time": 1728547145,
+            "translated": false
+        },
+        {
+            "author_name": "Alex I",
+            "author_url": "https://www.google.com/maps/contrib/104808488190607293643/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRQXfUchPOa1kwudZCASxtQgX7j2pM9aUr1Pj5e7d3njrFig=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The food is ok but not the main attraction. You come here for the fado which is wonderful and there are multiple performance through the night. Every time they sing 3 songs and then they have a break to let people enjoy their dinner. The only frustrating thing was other guests who could not manage to shut up for 9 minutes at a time. However, that is not that fault of the venue who do their best to remind people to be quiet. Overall we had a lovely night.",
+            "time": 1724073538,
+            "translated": false
+        },
+        {
+            "author_name": "Amanda Leathem",
+            "author_url": "https://www.google.com/maps/contrib/105326256848428506260/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOjYbkiCakWzqZFWsWsA07Hxw8wClNrzxKo1Cfxq80J823xQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "A terrific evening! The food was delicious and the service was first class. The Fado performances were wonderful! The entire experience was excellent.",
+            "time": 1726989902,
+            "translated": false
+        },
+        {
+            "author_name": "Natalie Richer",
+            "author_url": "https://www.google.com/maps/contrib/113521697320555317134/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXh898v_-Inolu5CzDyRNLcXPHcL7m8HaWMGxl0_rUn-gt1Y4BVkA=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "6 months ago",
+            "text": "Came to experience Fado music and  that was the only thing i enjoyed about this restaurant. It was way overpriced, I ordered the Luso Style Steak on the menu and it was almost completely raw when it came, we then sent it back and when it came back it was still raw.They didn't comp it or even apologized. The waiter also asked for a tip at the end which was insultingly uncomfortable. The ambience was fine, they do ask for silence during performance and they turn the lights down pretty low where it's almost hard to see your own food. I do not recommend bringing anyone under 12.",
+            "time": 1715636279,
+            "translated": false
+        }
+    ]
+}

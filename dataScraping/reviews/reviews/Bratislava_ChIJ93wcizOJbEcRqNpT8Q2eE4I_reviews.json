@@ -1,0 +1,66 @@
+{
+    "name": "COM BUI",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Peter Borko",
+            "author_url": "https://www.google.com/maps/contrib/107478288391291928718/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1OJJVvOCjFikdIniKQvpHhNvtxKzE2odLT9QvUbN13cN4bk82jA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Less known Vietnamese restaurant in market place Mileticova and ofc less crowded than Phong Nam. Food is delicious but don't try daily menu. Better to chose something from board.",
+            "time": 1490096522,
+            "translated": false
+        },
+        {
+            "author_name": "Peter Nagy (Skeleton)",
+            "author_url": "https://www.google.com/maps/contrib/106330985318343561994/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzU_7fputv1MzRsWER85WEnXpaCONzi7MYOoNezCIcw16zsdi1Lg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "7 years ago",
+            "text": "Nice restaurant. Food is good well cooked. You can have a cup of tea which is always there on a small table on the side. You have to order at the bar there ia no waiter there.",
+            "time": 1498836722,
+            "translated": false
+        },
+        {
+            "author_name": "Lukas Bechera",
+            "author_url": "https://www.google.com/maps/contrib/102441404386311589769/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXycXLtiZSkqM3nyFRFidF2PV12O8PtFhXrW9Vxd6B3G__a8OVP=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Fantastic Bun bo nam bo and also number 63 (vietnamese soup with fried pork meat)",
+            "time": 1635528069,
+            "translated": false
+        },
+        {
+            "author_name": "Karlsson Karlsson",
+            "author_url": "https://www.google.com/maps/contrib/117885364705274138380/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVK9YOIUzZ5HEOeFkFdUaBhTtb_i9RnowTnoD9LqjZZ-cYE7XOZ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Ok",
+            "time": 1538894100,
+            "translated": false
+        },
+        {
+            "author_name": "Ondrej Majling",
+            "author_url": "https://www.google.com/maps/contrib/101455680012816643780/reviews",
+            "language": "en-US",
+            "original_language": "sk",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3gCKy5pJav6Cl92pJ6IOX0oIh6fU78YOGRRmYYgvvaUCng7sE=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Prices a bit higher but worth it. Nice and clean environment. Big and especially tasty portions. I like bun bo nam bo in this restaurant the best of all. I was satisfied with every visit. I definitely recommend.",
+            "time": 1642285496,
+            "translated": true
+        }
+    ]
+}

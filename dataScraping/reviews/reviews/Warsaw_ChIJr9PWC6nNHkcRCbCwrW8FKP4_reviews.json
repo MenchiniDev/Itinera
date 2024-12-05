@@ -1,0 +1,66 @@
+{
+    "name": "Trattoria Rucola",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Preksha Jindal",
+            "author_url": "https://www.google.com/maps/contrib/117892070161360468488/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTxArKbLk04mCLhBLCA5cDalwz956F0JFTFLdg_gzTCr0AUm3k=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "I finally got a chance to try this restaurant. I was looking forward to authentic Italian cuisine. For appetiser, I tried garlic bread which was a little disappointing. But the pizza made up for the disappointment as it was really fresh and delicious. Still, the pasta was not up to the mark. The desserts were delicious. Overall, I felt the pricing were very high for the portions and taste.",
+            "time": 1684678354,
+            "translated": false
+        },
+        {
+            "author_name": "Marta B.",
+            "author_url": "https://www.google.com/maps/contrib/109693509553776307374/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyrvx2LeoX8chpnYJrNI1JXAV_e4n61oFzduizs6plGnzRfwia=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "7 months ago",
+            "text": "Delicious pizza on a really thin crust just like i like it. Helpful and nice staff- although it was busy sunday and i bet they were tired.",
+            "time": 1713429201,
+            "translated": false
+        },
+        {
+            "author_name": "Gordan S.",
+            "author_url": "https://www.google.com/maps/contrib/113382561529882718003/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2MjweIWT6EiFx1109p9pKQWXLroVdxCrFpJg2-N8xfmgOSg=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I am positively surprised by this Trattoria Rucola. It's maybe the best of all, it's not so big, and unfortunately they are not doing reservation on weekends. We were lucky not to wait the table for a long time. Food was coming fast, service was good. Dessert could be better, it was overdone.",
+            "time": 1674930304,
+            "translated": false
+        },
+        {
+            "author_name": "Zofia",
+            "author_url": "https://www.google.com/maps/contrib/109441080581611556872/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTzV8-hzCkEruI5hrQ9mL3kYRDLFuUjJgrsZ0gMrtn8iEN2Q=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Each location of Trattoria Rucola provides good food. I visited many times and never left unhappy, hungry or dissatisfied. They have good quality products. No need to think twice. For casual italian meal in Warsaw it is always my first choice.",
+            "time": 1708516035,
+            "translated": false
+        },
+        {
+            "author_name": "Atacan",
+            "author_url": "https://www.google.com/maps/contrib/108245212922652845233/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgeENypXQf6KhcQWzZynu-qsQBXJGmuLUjWyz45cgOdW2nxStF=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We got there to eat just Risotto, and ordered 3 different types. Chicken choice was moderate; shrimp was good; seafood mix was good. I will definitely order the seafood mix risotto again.",
+            "time": 1726764156,
+            "translated": false
+        }
+    ]
+}

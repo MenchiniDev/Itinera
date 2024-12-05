@@ -1,0 +1,66 @@
+{
+    "name": "Generator Hostel Hamburg",
+    "rating": 3.5,
+    "reviews": [
+        {
+            "author_name": "Jorja Krahe-Fox",
+            "author_url": "https://www.google.com/maps/contrib/101509558224381304518/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ_ewxIY7sdqwlT64piZHqFcIdF5TYVrUGbXxvCAeCfihq6g=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "Great location, very noisy place from 1st floor, people screaming outside from 3am non stop. Place has a band on a Thursday evening, no noise filtering as it is loud.\nIf you want quiet & good night sleep don’t stay here as noisy outside until midnight & screaming people from 3am.",
+            "time": 1732828135,
+            "translated": false
+        },
+        {
+            "author_name": "Javier S",
+            "author_url": "https://www.google.com/maps/contrib/116532045602865568137/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgb2-px9r5lTy52E8547tbVXc5Zv16NeeNqbA34poNmM3ETw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I've stayed in many hostels throughout my travels and this is one of the top ones for sure. As the others have mentioned, its very strategic location next to the main station also means that you find some strange characters in the area sometimes, but this is common everywhere in Europe. I've never been bothered by them, but there is also a police station right outside the station.\n\nThe rooms themselves were very clean with spotless sheets when I first arrived. The ensuite shower and toilet are very mini as the others have mentioned, but there are bigger ones available outside if needed. The ensuite sink design is almost impossible to use, I had to bend over under the shelf, but other than that the room overall is very satisfactory. Another issue is that the windows' rubber seal in my room might be a bit old so it doesn't seal away the outside noise very well.\n\nDuring my stay, I personally did not notice any homeless people or refugees, I guess they don't do that anymore. Just your usual tourists. Front desk staff were also professional. Check out is early at 10am but 1pm late check out is available for €3. Overall I wouldn't hesitate to stay here again!",
+            "time": 1729172430,
+            "translated": false
+        },
+        {
+            "author_name": "Tim Stoddard",
+            "author_url": "https://www.google.com/maps/contrib/112333972911860467715/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPY67Aj38-qCyXx_Fi1zCfm8kw7AcEqG50mzCtXxFe7EVLwQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great location, walking distance from central station and various shops and supermarkets for convenience. The rooms are large and each bed contains a box for storage (you need to bring your own small lock though).\n\nBreakfast is a pit pricey, but convenient for Sundays, The atmosphere is good if you're a young party goer.",
+            "time": 1728637460,
+            "translated": false
+        },
+        {
+            "author_name": "Maya",
+            "author_url": "https://www.google.com/maps/contrib/111147246800982626728/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpv7Ukd21cVJncMka8gRe4TKreQ6Cpr9NtyF_hGQmzfIQmw6jG=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Nice receptionists (especially the one with the aussie accent) and was happy to find the private room where I stayed to be clean and providing towels, hair dryer and soap.\n\nThe only bad thing is the noise. Sadly someone ran in the corridor at 2-3 am very heavily, lots of people talking loud (I guess young people having fun) but it was less fun when they started knocking on doors disturbing the peace for everyone. And the rooms are not well isolated soundwise we can hear the hallway door shutting down very strongly.\n\nOther than that I am quite pleased by my stay there especially for its location near the train station.",
+            "time": 1731065435,
+            "translated": false
+        },
+        {
+            "author_name": "Flo Holl",
+            "author_url": "https://www.google.com/maps/contrib/103644620220481047547/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzPbwRgiDdCNtpkM8VvWXMx51pXuIkcCKB6zhV0IgwnwT9AO8C=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Good enough for one night stay. Very central location and easy access to anywhere in the city. Not the most social hostel, even with the bar. Bathrooms in the dorms are ridiculously tiny.. beds are comfy. Loads of background street noise due to the location so make sure to have earplugs.",
+            "time": 1723491846,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Fosshotel Reykjavík",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Dennis Watson",
+            "author_url": "https://www.google.com/maps/contrib/102382960367113642198/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLguTvVf9HridqFGSd-9GmiDbvuJZPxT_LSNXde_pE3p6og6w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Good location, near shopping and restaurants. Staff is accommodating.  Wake up, calls on time with the second call for verification.  Happy hour at the hotel is the best deal in town.",
+            "time": 1732390180,
+            "translated": false
+        },
+        {
+            "author_name": "Dave Katz",
+            "author_url": "https://www.google.com/maps/contrib/113671409052896685954/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXICB3aQXl-QydEEgyYIo1K1EFmnSg_9kFgjXEcygIBfmgXz1y=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Large, centrally located hotel with lots of modern features. Three elevators helps keep groups moving through the spaces. Nice wide staircase that’s heated. Lovely map in reception area .",
+            "time": 1723353733,
+            "translated": false
+        },
+        {
+            "author_name": "Lari Njegovan",
+            "author_url": "https://www.google.com/maps/contrib/112611918590700196292/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4x-6MJOLHnkVRQ8mQ_-ZTfp49yqqTrO7E2cqCzGLeM2AdLY--=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I have been travelling to Iceland for three years in a row and each time I have booked this hotel simply because it has always been an excellent experience. I cannot describe how satisfied we have been each time. Not just the location (not directly in the city centre but still only a short walk), but with an excellent view over Reykjavik and quiet. Rather, the entire hotel team makes the big difference. Everyone is very friendly, polite and really very customer-oriented. We are very grateful that we were able to spend a lovely and relaxing time again at the Fosshotel Reykjavik in a beautiful room. Many thanks to the management and the entire team. Our special thanks go to Justyna. We will be back!",
+            "time": 1727445367,
+            "translated": false
+        },
+        {
+            "author_name": "Rahul Agarwal",
+            "author_url": "https://www.google.com/maps/contrib/118399055109152255509/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk6ffHSPRuODSkBwov5YP_aF4C_FcPY6IgkRc9WyVly1tFKA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Great hotel in nice location. Nice staff. Only issue is the bathroom design and room service. Huge bath tubs (almost never used) and very small shower area. Also you have to specifically request housekeeping service each day, else they will not clean your room.",
+            "time": 1722669182,
+            "translated": false
+        },
+        {
+            "author_name": "Derick Ng",
+            "author_url": "https://www.google.com/maps/contrib/109707568955699339290/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP2InEUmNa3NE4-sVfXU1SQ5S57thuo6hqHsJIO-UXXINO1mc=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "3 weeks ago",
+            "text": "Good size , sea view toilet was reasonable size with heated flooring. Not near to town or nice eatery & restaurants. Breakfast spread was average.",
+            "time": 1731262043,
+            "translated": false
+        }
+    ]
+}

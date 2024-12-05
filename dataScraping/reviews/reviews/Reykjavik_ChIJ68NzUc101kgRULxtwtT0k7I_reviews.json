@@ -1,0 +1,66 @@
+{
+    "name": "Subway",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Daryl Moro",
+            "author_url": "https://www.google.com/maps/contrib/101707165920399903845/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4K7BxjrPgEVJy9JZj1lqgmr0UJnFC0uZj6-Xp_Y66FZHYhgwa=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I’ve been there with my mother and grandmother and they enjoyed the food and the staff was super helpful",
+            "time": 1727205550,
+            "translated": false
+        },
+        {
+            "author_name": "Ling",
+            "author_url": "https://www.google.com/maps/contrib/111086768821056554937/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO4-GvY6qB6HPAp05gnI0RhvHGYE6bGFKPJ1pKfvJNtc6fCCUAAQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Had a great little meal after a walk through the town. Great food for good price and great taste! The girl that worked there was super nice and friendly willing to help. 5/5 Experience",
+            "time": 1724912683,
+            "translated": false
+        },
+        {
+            "author_name": "Gracie Gralike",
+            "author_url": "https://www.google.com/maps/contrib/100679890817855489296/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgUrKYnxyrGdiAnXJDpoG4-3DfCGyDveVDbAvtQbds3qaemm4L=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "This was my go-to when I was in Iceland! Had so many quick options and it was actually affordable. I think I went 3 times while I was in Iceland. Sandwiches were so good. Loved the special Doritos selection they have. Staff was always friendly!",
+            "time": 1717018164,
+            "translated": false
+        },
+        {
+            "author_name": "Anisha Singh",
+            "author_url": "https://www.google.com/maps/contrib/116292518639864310766/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1L9twKu47pBJkyoslkK1TUCICyF3gdcjGN8wl7AR58SKYCT7Kgw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Came here twice and never coming again. First time was great, sandwich was fresh, staff was lovely. The second time, I ordered a chicken strips 6 inch. The lady put the chicken and the cheese and it was ready to go into the grill. The other staff member looked at it, rummaged with his hands and took chicken pieces out from the sandwich and tossed them back into food counter and told the lady \"too much chicken.\" Kinda gross? It would be fine if that's what they put to begin with. But to make the sandwich, decide I was getting too much chicken, take it out, and put it back into the fresh food. WEIRD!!!!!!!!!",
+            "time": 1719599874,
+            "translated": false
+        },
+        {
+            "author_name": "Renu Patel",
+            "author_url": "https://www.google.com/maps/contrib/116424932296314996166/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJz2yYGUzL4Xvc6gD07n7lycTvFGqcd5rAdDNug67HPTl8hDw=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Pick up 6 sandwich yesterday. Person who was helping very rude.look like he don't care about customer. As we hv big order and asking any question he doesn't like to reply.he don't know bcas of customer this restaurant running. Never recommend",
+            "time": 1726829676,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Pizza Hut",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Mohamed Issa",
+            "author_url": "https://www.google.com/maps/contrib/104029428933867780658/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwM-VItUKMG-hkJ6EAo19a0LH-RnI12jHyY4C5OwGs_ZZPkctG=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "I recently ordered a pizza from Pizza Hut Mosilor, and overall, I had a good experience with the food. However, there were a couple of issues that I feel are important to share.\n\nFirstly, the pizza itself was delicious. The crust was perfectly crispy, the toppings were fresh, and the flavors were spot on. I thoroughly enjoyed the taste, and it definitely met my expectations.\n\nHowever, the delivery time was quite disappointing. It took more than half an hour for the pizza to arrive, which was longer than I had anticipated. This delay left me feeling a bit impatient and hungry, especially considering I was looking forward to my meal.\n\nTo make matters worse, there was a mix-up in the receipt, resulting in a significant increase in the total price. This discrepancy caught my attention, and I decided to speak to the manager about it. After a brief argument, the manager agreed to issue a refund for the total amount. While I appreciate their willingness to correct the mistake, I found it necessary to double check the receipt myself.\n\nDespite the inconvenience, I refused the refund and insisted on paying only the correct total amount. It's always essential to carefully review your receipt to avoid such discrepancies. Mistakes happen, but it's crucial to be vigilant and ensure you're not overcharged.\n\nIn conclusion, Pizza Hut Mosilor offers delicious pizzas, but they need to work on their delivery time. Additionally, customers should be wary and double check their receipts to avoid any errors in pricing. I hope the management takes these concerns into consideration and improves their service accordingly.",
+            "time": 1685388967,
+            "translated": false
+        },
+        {
+            "author_name": "Hassan 3aMMo",
+            "author_url": "https://www.google.com/maps/contrib/107658752990518745978/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpHV4EmFb7GIwFefQ8CD2y_NtpGSiMyAtm62v1Mhgose7d-Q=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "I tried the Tennessee burger and for dessert peanut butter jar ! Both of them were very tasty! Highly recommended! Though majority of people comes to pizzahut for the pizza :)",
+            "time": 1567796593,
+            "translated": false
+        },
+        {
+            "author_name": "Tudor Constantin Cristian",
+            "author_url": "https://www.google.com/maps/contrib/100348852035603332778/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdy1424gs5MR02tBjyli8tMxVgXtXd9wBgE5tZ6rayCAqDaywG=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This is a nice place to eat, the food is not bad and the prices are affordable.",
+            "time": 1697008419,
+            "translated": false
+        },
+        {
+            "author_name": "Goober",
+            "author_url": "https://www.google.com/maps/contrib/112748279569885160807/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg6x8PK3yuLLCJ7QV6zqXCWtYAxoQJMK8RSvAk5s1TVuQpUIzj=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Nice place. Great food,great and polite staff.\nI ordered multiple times  here and they always delivered. Pizza always hot and fresh and made exactly how I wanted, and always arrived to our table very quickly. Meneu  with dessert  pasta pizza and many more.\nI love the atmosphere  here and its always not crowded and a happy mood. 10/10.",
+            "time": 1696270427,
+            "translated": false
+        },
+        {
+            "author_name": "Alex",
+            "author_url": "https://www.google.com/maps/contrib/113015959740974327854/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYdNC5cqjPd-Fsl12iZTWD7PngWp2Q7f-dk9vTDQo_8VnMVw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "One thing I can appreciate Pizza Hut for is their ability to keep that pan pizza taste intact through the years: having the Supreme pan pizza now, feels and tastes exactly the same as 20 years ago when I was a student.\nNot too mention a pretty decent burger, albeit introduced later, quickly became a staple.\nCheers to good ol' quality memorabilia - thank you Pizza Hut",
+            "time": 1723901877,
+            "translated": false
+        }
+    ]
+}

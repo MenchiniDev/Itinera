@@ -1,0 +1,66 @@
+{
+    "name": "MayaBay",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Ella Butler",
+            "author_url": "https://www.google.com/maps/contrib/117549994425765566901/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuZGHZS25OLRMNUZdyNX6cTVNXOqJNPWzsvkwX3v1ZbM5VohJ_=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "The dumplings were very good and well made aswell as a lot of the sushi. Unfortunately apparently there was an “error” with the menu so when we had ordered 2 salmon avocado rolls, we only got salmon. Otherwise all was good. I have been many times and am always impressed with the sushi quality and the amazing atmosphere.",
+            "time": 1724265136,
+            "translated": false
+        },
+        {
+            "author_name": "Mitchel Bishop",
+            "author_url": "https://www.google.com/maps/contrib/108595121016394132060/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDiJ_LdgKM3Rr_K0KBoAbwlg6TBVWOyxHa-L0r0dRS3f3UJQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Cold food, argumentative staff and a dead atmosphere.\nWe were seated without food menus for quite sometime and when we asked a maitre d for some (since the waiters had disappeared for sometime even though there was barely anyone in the restaurant), we were told that we had to wait for our waiter to come back. The maitre d made no attempt to find a waiter and just continued chatting with the other two maitre ds for the remainder of the evening and all stayed glued to their phones (see photo).\nTurning to the food, we had some lovely starters (dumplings and sushi), but when the mains were served (lobster curries x 2 and a prawn curry) these were served cold and when we complained and sent them back, all of the main dishes were simply reheated. The dishes came back cold twice and on the third time we just got fed up and ate the now soggy lobster and luke warm food…. Sadly, our comments were met with an argumentative and frosty attitude… it's not what you expect when you order dishes with lobster or go out ti have a nice dinner.",
+            "time": 1727987732,
+            "translated": false
+        },
+        {
+            "author_name": "Vinu Kurian",
+            "author_url": "https://www.google.com/maps/contrib/109832793849166965377/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2IU1Y7J7smXxcNmLkHRBgtdmXVdHuNQuTxX4dQicXW5Fjb7Ao0Q=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Beautiful restaurant in Monaco!  Gorgeous ambiance and primo service. Bit pricey but worth it given locale.",
+            "time": 1724247060,
+            "translated": false
+        },
+        {
+            "author_name": "Anthony MARCHESE",
+            "author_url": "https://www.google.com/maps/contrib/102629629761051580479/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJF1oyEGhlz80tWpKatBNc_wnuCj-wGPpqoSXOHkbUfSrqgsQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "MayaBay in Monaco offers a fantastic blend of Thai and Japanese cuisine in a beautifully designed setting. The food is always fresh, and the menu is packed with creative dishes from both cultures, like sushi and Thai curries. I was particularly impressed by the attention to detail in both the presentation and the flavors. The ambiance is chic, with soft lighting and a warm atmosphere, perfect for an elegant dinner. The service is excellent, though the environment could be a bit more intimate. A great spot for anyone who enjoys Asian cuisine in a refined setting",
+            "time": 1728338423,
+            "translated": false
+        },
+        {
+            "author_name": "Anastasia Barkova",
+            "author_url": "https://www.google.com/maps/contrib/105161097865942627504/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMpAXIfkb3t1e_e56DUu9yGpIQdrUNIwGHPIjgxUhbufKvcA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "I had a dinner at this restaurant with my friend and it was absolutely great!The food was amazing aswell as the atmosphere and the service!I would highly recommend to come to this place.",
+            "time": 1731759330,
+            "translated": false
+        }
+    ]
+}

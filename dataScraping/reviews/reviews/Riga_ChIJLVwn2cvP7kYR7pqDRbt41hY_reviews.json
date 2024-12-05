@@ -1,0 +1,66 @@
+{
+    "name": "City Hotel Teater",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Steve Allchin",
+            "author_url": "https://www.google.com/maps/contrib/114121628140433376348/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9nUUR50j9yF8tu20T5U7l-AODV5saAekA2HalGSf24iaDKhe0=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Really lovely hotel, great staff, very friendly and helpful. Food was lovely with a good choice.\nRelaxed 10-15 walk to centre of town, or by bus from right outside the hotel. Bus fares are very cheap.Airport to hotel was just €1.15.\nRiga is very easy to walk around or use public transport.\nBeautiful hospital building opposite the hotel (photos attached)",
+            "time": 1582454953,
+            "translated": false
+        },
+        {
+            "author_name": "Jeļena Proskurina",
+            "author_url": "https://www.google.com/maps/contrib/107313113330587729286/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVidWrh61ktWlFxcRqL9iMi30gT6m5WpCpj135bSefutdnz_oM=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Great place with convenient location in the quiet part of the city center near some of the best restaurant streets. Creative unique lobby design and friendly staff. The room was specious - had an extra sofa and a few chairs; nice shower with a bathrobe and slippers. Overall, a great cozy place to stay.",
+            "time": 1511624951,
+            "translated": false
+        },
+        {
+            "author_name": "Denis Nikolajev",
+            "author_url": "https://www.google.com/maps/contrib/108629117074372524025/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXphy-iurILbS2jYitpbQI-_5ZVovY55iQHuyyVKkaCWmlC-TScXA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Good location in the center of Riga city and very democratic pricing. Breakfast was tasty. But hotel in general needs renovation. Tired interrior. Bathroom was clean. There is safebox in each room without additional fee. No free parking for customers- double check that you parked your car correctly.",
+            "time": 1517576214,
+            "translated": false
+        },
+        {
+            "author_name": "Ville Alonen",
+            "author_url": "https://www.google.com/maps/contrib/107074430197652930326/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAwBgA8Wz8uF01YrBkV06wpawW5F8WtYfSIAgFUuOHee-Pavg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "6 years ago",
+            "text": "Nice hotel and cheap prices. Not too far from old town and really good location if you are going to go Arena Riga. Breakfast is fresh and satisfying. The cleaning was avoidable and the room had a lot of dust. Common areas were clean enough.",
+            "time": 1517263918,
+            "translated": false
+        },
+        {
+            "author_name": "Marja Miettinen",
+            "author_url": "https://www.google.com/maps/contrib/108408933962940402207/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtpsspWzd1wrrMBJvaiU9_LfOWHPnTc9a5cpdhg-2VreljU1Aj3A=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Nice hotel and clean-upgraded room for eight nights was dark -half room without lights,no coffeetable and the little fridge on the floor-hard to reach as well as the broken! safetybox- on the floorlevel! Staff was really very friendly. Have a nice autumn.",
+            "time": 1538307294,
+            "translated": false
+        }
+    ]
+}

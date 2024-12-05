@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant Pizzeria Am Park",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Paola C.",
+            "author_url": "https://www.google.com/maps/contrib/103460062517255012756/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTqYdeFTpnXDzj4h2idPl4Tp_gLoQH-2xjhdtBYoDFTNDL5cY2=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I work close to this restauranr and the company made a Delivery. My Lagsana was not good. It smalled as it was already bad. Pleade dont eat here. Its a dangerous place to get sick. I hope I dont get sick now. The service so bad, they only speak French. No English, No German.",
+            "time": 1729249480,
+            "translated": false
+        },
+        {
+            "author_name": "SG Strike",
+            "author_url": "https://www.google.com/maps/contrib/105359274515389997597/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfsbUYksER27xkg2pWkXatryrkV82Lh1D6SZWorNoc_PNoHqdq=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "3 years ago",
+            "text": "17€ for 8 raviolis, seriously???? There was barely anything inside the packaging. It tasted of nothing and it felt like quickly made pasta sauce, and the pasta itself felt like standard supermarket quality. The pizza was also really bad, no flavor, poor texture.\nDelivery took around 40min longer than stated.\nAll around really bad experience. It was the 3rd time ordering from them, but this was definitely the last time.",
+            "time": 1633720697,
+            "translated": false
+        },
+        {
+            "author_name": "Malcolm Goodall",
+            "author_url": "https://www.google.com/maps/contrib/114704840631812488270/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVexIJGYRtkplDaBHFsNDAZgXqg2qgvKMVGcYBB36NZ-l-XBlEE=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Nice terrace overlooking tennis and beach volleyball courts. Restaurant has good straightforward well presented food. Good service. Lots of parking",
+            "time": 1654092601,
+            "translated": false
+        },
+        {
+            "author_name": "Laurent S.",
+            "author_url": "https://www.google.com/maps/contrib/114838932355099206482/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnCVTWE8PskKzmWcwZwjtTVxFeHT8jmA06opkyXYL_iAaLJTIo=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Fine Italian restaurant, was not disappointed. Service could sometimes be more attentive.",
+            "time": 1503054063,
+            "translated": false
+        },
+        {
+            "author_name": "Oz",
+            "author_url": "https://www.google.com/maps/contrib/104687338101168676756/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnbN73PtSQBmeTfaKWKWmchsGfp9KQ_EG3hgQjDUv9hmoHiA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "It is practical to eat here if you are already in the park, using the swimming pool or work for Goodyear across the road. There was nothing special (positive or negative) about the food or service for me, it was perfectly OK.",
+            "time": 1664981888,
+            "translated": false
+        }
+    ]
+}

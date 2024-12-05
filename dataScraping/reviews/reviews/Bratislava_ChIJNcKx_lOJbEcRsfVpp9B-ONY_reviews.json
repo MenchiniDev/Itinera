@@ -1,0 +1,66 @@
+{
+    "name": "Italiana Pizza",
+    "rating": 3.4,
+    "reviews": [
+        {
+            "author_name": "Hana",
+            "author_url": "https://www.google.com/maps/contrib/117801716830809855805/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_PFuqezQRrDCKmO23DFc1PtVqYnUzmobaP46GbfAB_tYXc3tQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "The pizza doesn't look bad, but it was very bad and too greasy. The pizza is for take out, but the atmosphere in the pizzeria, where we ordered, is terrible. It's not clean and it's messy.",
+            "time": 1724170324,
+            "translated": false
+        },
+        {
+            "author_name": "nur çunos",
+            "author_url": "https://www.google.com/maps/contrib/106636612358533616005/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcb-9U5q-XBpZPKmH547r5nC2QnALLITnGuy0Gd0txf9ll-A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We ordered the food personally as our airbnb was very close to the place. Honestly, i dont think that the reviews do this place justice. Bear in mind we ate the pizzas as fresh as possible, so maybe some people had a bad experience with take away,  but it was very delicious, the crust was thin, the toppings were more than enough, with an extra drizzle of garlic oil - which they kindly offered. Make no mistake, this place is not fancy, not \"instagrammable\" maybe, but if you want a good, authentic pie you will not be disappointed.",
+            "time": 1729282916,
+            "translated": false
+        },
+        {
+            "author_name": "Olena Dzhevinska",
+            "author_url": "https://www.google.com/maps/contrib/101220815407440004658/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUV2OKMCswuGiyhbzJC2a_63E7RupxvMRTFcBV9-zspcUVLfF7_=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Very salty pizza, the terrible thin dough and small amount of filling, the paper box more expensive than pizza itself. Sharp your knives, it was not cut well. It was a big company order, but even with our hungry office guys nobody wanted to finish it.",
+            "time": 1727488107,
+            "translated": false
+        },
+        {
+            "author_name": "Samuel Roštár",
+            "author_url": "https://www.google.com/maps/contrib/100947298225526441206/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXTSJe9EEaIL46LwAkwFA5ogmPeduoVjE1KYxtAzlijLIXOCQP=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "After seeing the bad reviews about this place ive really wanted to try it out and see what it is really about.\nWe ordered from the actual restaurant itself, although it looked more like a dispensary for the delivery drivers. There was nowhere to sit since they were assembling a TV to go up on the wall so it was a little chaotic. It was all really just one room where everything was happening and the place where the pizza was made is right to the door so that is not really a pleasant - again im saying, more of a dispensary then a restaurant.\nThe pizza itself actually surprised us, it definetly wasnt the best and im no pizza making expert but i still expected it to be much more horrible than this. The dough was slim and the basil was not tasting too well and was spread unevenly.\n\nI would rate:\nService 2 stars\nPizza 3 stars\n\nAnd the final rating is 3 as it was better than my expectations.",
+            "time": 1683965937,
+            "translated": false
+        },
+        {
+            "author_name": "Oliver Bona",
+            "author_url": "https://www.google.com/maps/contrib/108705688440947571248/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUi11XFWpr6UbAnNpE0OadpALVedbI4Xh1lI_qJ29RdnH8i1iRU=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Good thin tasty pizza. Not the best in town but a stable and reliable classic.",
+            "time": 1724185301,
+            "translated": false
+        }
+    ]
+}

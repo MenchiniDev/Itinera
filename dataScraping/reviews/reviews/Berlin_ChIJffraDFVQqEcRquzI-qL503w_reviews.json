@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Palace Berlin",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Yusharn Wang",
+            "author_url": "https://www.google.com/maps/contrib/109695162736590795821/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYcHaWo5pgB1Jmqr8XzXG_D2fI-n1_8_qDuy_IRmeo0f5bZpsgpw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "An absolute GEM in the heart of Berlin. Close to everything. Amenities are amazing. Service is great. Spa is relaxing. I loved every bit of this place. Price definitely reasonable. Rooms are super clean! I will definitely make this my #1 choice to stay while in Berlin. Accommodated my family very well. SUPER quiet rooms. The restaurant in the hotel and breakfast was addicting! Thanks so much for a great weekend.",
+            "time": 1728928590,
+            "translated": false
+        },
+        {
+            "author_name": "Frank Mathers",
+            "author_url": "https://www.google.com/maps/contrib/107939799847821358295/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqw-7zQNj5q6G90bS9bBjYLNLwhAecflBMk7xE0IHRusyxGXfF=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "The Palace is truly an exceptional hotel. I travel all over the world for business and have been repeatedly impressed by this luxury hotel. Wonderful, very nicely appointed rooms, warm and attentive staff and of course everything is spotlessly clean and shiny. Did I mention the great location? Nothing to improve here.  I very much enjoyed my third stay here and I will be back.",
+            "time": 1731830008,
+            "translated": false
+        },
+        {
+            "author_name": "Dave Cook",
+            "author_url": "https://www.google.com/maps/contrib/104260929699970616266/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImKGr79lyZ1WOXw1KlRXPXqOwewSfZsVPolaiIMEhuxJuNoQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The hotel is centrally located and very nice.  This post is to appreciate the staff at the hotel.  The concierge Dan Urosev was very knowledgeable, approachable and efficient.  He was able to help us with all our unique needs.  Melanie Skuras at the front desk was delightful and also very helpful in hours that Dan was not available.  The facility and location were very nice, but for me the people made the difference.",
+            "time": 1727548497,
+            "translated": false
+        },
+        {
+            "author_name": "Ameen Q",
+            "author_url": "https://www.google.com/maps/contrib/111269421084594490060/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITiQvPIv3RUsO0EC64-q7PKPtJM9W4zUjlHCtBdU2JkpCkGQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "6 years too late, but better later than never. This hotel is really fantastic. They go over and above to please guest and make a vacation more special. The suite that we were upgraded to was absolutely beautiful and featured more space and utility than any other hotel I have stayed at. The staff too are attentive and efficient while being friendly and suggestive to guests who are new to Berlin. 5/5 highly recommended to both business travelers and couples and families alike.",
+            "time": 1719431801,
+            "translated": false
+        },
+        {
+            "author_name": "Simay Sağlam",
+            "author_url": "https://www.google.com/maps/contrib/108918412457912044052/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo-7ja0IAc02lVeEldS9RAN_y7hLhvwmI7Qm9zxLsBG9fB9A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "There was a kindest employees when i came in the hotel. Hotel room was so clean and breakfast had various alternatives. I am so happy to stay there.",
+            "time": 1729428556,
+            "translated": false
+        }
+    ]
+}

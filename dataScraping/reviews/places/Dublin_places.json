@@ -1,0 +1,1069 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3457431,
+                "lng": -6.2597552
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3471240802915,
+                    "lng": -6.258379369708497
+                },
+                "southwest": {
+                    "lat": 53.3444261197085,
+                    "lng": -6.261077330291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Temple Bar Inn",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109315819537820062715\">Temple Bar Inn</a>"
+                ],
+                "photo_reference": "AdDdOWpFsb-7hWiNM7GyYGscKh-knrBDzoKC9eDfG9Xm1_ZLr5-0wzcnZLXok6tzivGqkPM_LJMPJdVp9q0zkI-aWPFLcROjEZlNRWlF_Kc2bCX0uMiNfCO60o_Hb1EcZAhfNyPfgB-DOUVBSjbHBs7bgy1VyILntwURLHzFdjP6FBsD5LdE",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJMQYhsoQOZ0gRMN7_tpipJmY",
+        "plus_code": {
+            "compound_code": "8PWR+73 Dublin 2, Ireland",
+            "global_code": "9C5M8PWR+73"
+        },
+        "rating": 4.5,
+        "reference": "ChIJMQYhsoQOZ0gRMN7_tpipJmY",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1460,
+        "vicinity": "40-47 Fleet Street, Temple Bar, Dublin 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3774502,
+                "lng": -6.246268699999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3785390802915,
+                    "lng": -6.244296969708498
+                },
+                "southwest": {
+                    "lat": 53.3758411197085,
+                    "lng": -6.246994930291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Bonnington Dublin - 4 Star Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107001496366199688494\">Bonnington Dublin - 4 Star Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWp_rqul7x3CLhNLkV87-AEm9ufWeMqo-R93oI41qxGWD9Vj7hDPXkKcX1v9OYYldkyrgYKlXYKLvnFxIaI4a38aeL2WFke4lszvIGKj83BdPA3SHredqFJZBNDU989515LWrZLsaam6OqFbIlVqNzDXJP_lVZjIdz0v5WiTlZ4KhBoM",
+                "width": 6772
+            }
+        ],
+        "place_id": "ChIJOU4SEkAOZ0gRvjK_-Vctt04",
+        "plus_code": {
+            "compound_code": "9QG3+XF Dublin, County Dublin, Ireland",
+            "global_code": "9C5M9QG3+XF"
+        },
+        "rating": 3.8,
+        "reference": "ChIJOU4SEkAOZ0gRvjK_-Vctt04",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2613,
+        "vicinity": "9 Swords Road, Whitehall, Dublin 9"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3494291,
+                "lng": -6.2785064
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.35076073029149,
+                    "lng": -6.276772319708497
+                },
+                "southwest": {
+                    "lat": 53.34806276970849,
+                    "lng": -6.279470280291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Maldron Hotel Smithfield",
+        "photos": [
+            {
+                "height": 910,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114964873978173113285\">Maldron Hotel Smithfield</a>"
+                ],
+                "photo_reference": "AdDdOWpzrGnPnmvQQTB4Mqd0KL5WQ2P1Y9qkUdF9XaFoLxVXH4hXIMq3EeV8XZMeW5jcp2L5CxJjXMjGToi7dDgcfU7RyQ_T5Y0CzFX8Fd7zwS2U0PisE_v6K-2Rn07nqUDballqOmq956fod0b5Km4HsTYm2g7JAU9Fhk_rAszX5U4GJ7Zv",
+                "width": 640
+            }
+        ],
+        "place_id": "ChIJOXlxmi4MZ0gR8Ttm6cVHuUc",
+        "plus_code": {
+            "compound_code": "8PXC+QH Dublin, County Dublin, Ireland",
+            "global_code": "9C5M8PXC+QH"
+        },
+        "rating": 4.2,
+        "reference": "ChIJOXlxmi4MZ0gR8Ttm6cVHuUc",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1540,
+        "vicinity": "Smithfield Market, Smithfield, Dublin"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3415931,
+                "lng": -6.2501106
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.34303913029149,
+                    "lng": -6.248750419708498
+                },
+                "southwest": {
+                    "lat": 53.34034116970849,
+                    "lng": -6.251448380291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Davenport Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117358722344564994972\">The Davenport Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqzm5DqMqD6gM-omqJv5wIbc7tMzkm1-pxvJY1vhR6wFksBWlI_Zyagbth0iIwyMnBazE-p78vyKvFweL8XVsuZ_gayFVGtnqoRz8BOC46aNJBBf5LhYSqpxduqvo7xEQnSvF-ylXr6sv0jr7CMnEFMdtXjZH1oLdw7mHz8EeatNig1",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ0VwTxZAOZ0gRS0QnGUR8TdE",
+        "plus_code": {
+            "compound_code": "8PRX+JX Dublin, County Dublin, Ireland",
+            "global_code": "9C5M8PRX+JX"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ0VwTxZAOZ0gRS0QnGUR8TdE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 957,
+        "vicinity": "8-10 Merrion Street Lower, Dublin"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3542412,
+                "lng": -6.2666586
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3555406302915,
+                    "lng": -6.265337119708496
+                },
+                "southwest": {
+                    "lat": 53.3528426697085,
+                    "lng": -6.268035080291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Maldron Hotel Parnell Square",
+        "photos": [
+            {
+                "height": 732,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110187042172135695655\">Maldron Hotel Parnell Square</a>"
+                ],
+                "photo_reference": "AdDdOWr5DvYBZQS60iB9oSxNluVe5Jl94WAA4YYlKJIgu8lRh56t1LVtk4e9VNAwDViqds7Gy4SQpH2LX5s5WietuOH9yy6B-QWm2Wtd6LQ0ipwtu0GoV2nit4qnwwxCeziDmTjze_jDIVsZxcm4HU1o_736HJynRAJKXQxEZSvXWk10WFtF",
+                "width": 1023
+            }
+        ],
+        "place_id": "ChIJpUNfQocOZ0gR2Al5Z8qznzo",
+        "plus_code": {
+            "compound_code": "9P3M+M8 Dublin 1, Ireland",
+            "global_code": "9C5M9P3M+M8"
+        },
+        "rating": 4.2,
+        "reference": "ChIJpUNfQocOZ0gR2Al5Z8qznzo",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3661,
+        "vicinity": "Parnell Square West, Rotunda, Dublin 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.33817610000001,
+                "lng": -6.237789800000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3395658302915,
+                    "lng": -6.236339019708499
+                },
+                "southwest": {
+                    "lat": 53.3368678697085,
+                    "lng": -6.239036980291504
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Canal Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117533045411382718473\">Grand Canal Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqy7KdnE-pZFlGzUhnyoP9Rkul2AIjWTpsrhhCkC6wZ2TrKYD1mRcpKnkDDFRgsX2qr_NoWFVKBtp_qywoFWqChRAT8eHDtblk9AKluLCSMo8ZKLMmc7KS1pE8sLxj-_0W2H20yu-KwgU4Cu9Ef5negQ217Dm1liQsm5cHBX6mUER_f",
+                "width": 5472
+            }
+        ],
+        "place_id": "ChIJp7zI7eoOZ0gRVv63fvYY1BE",
+        "plus_code": {
+            "compound_code": "8QQ6+7V Dublin, County Dublin, Ireland",
+            "global_code": "9C5M8QQ6+7V"
+        },
+        "rating": 4.3,
+        "reference": "ChIJp7zI7eoOZ0gRVv63fvYY1BE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2147,
+        "vicinity": "Grand Canal Street Upper, Dublin"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.34522510000001,
+                "lng": -6.254099699999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3464993802915,
+                    "lng": -6.252789019708497
+                },
+                "southwest": {
+                    "lat": 53.34380141970851,
+                    "lng": -6.255486980291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Trinity City Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3605,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107372255644923303389\">The Trinity City Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWoFSQ4QH6nKo3iRNSSIwc04w6f4GaN6PFIlE3Ne-PjWhZZHSD3kAjxPl_pqCkPw7gOt8pOQS-7qZSvSu_uk-BUxpqVRP4KNgpfSny38rppIrbe6wa9dOxisjQMtvqaonwTwXNQOVv88RZTB4JihM3lWS4J-x6qtPDqugQcxnEYuCBhg",
+                "width": 5400
+            }
+        ],
+        "place_id": "ChIJY4y6C84LXUgRmtwgyWTPOi0",
+        "plus_code": {
+            "compound_code": "8PWW+39 Dublin, County Dublin, Ireland",
+            "global_code": "9C5M8PWW+39"
+        },
+        "rating": 4.2,
+        "reference": "ChIJY4y6C84LXUgRmtwgyWTPOi0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1966,
+        "vicinity": "Pearse Street, Dublin 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.34861530000001,
+                "lng": -6.2285123
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3499031802915,
+                    "lng": -6.227291869708497
+                },
+                "southwest": {
+                    "lat": 53.3472052197085,
+                    "lng": -6.229989830291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "the gibson hotel",
+        "photos": [
+            {
+                "height": 2756,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105826953601500692451\">the gibson hotel</a>"
+                ],
+                "photo_reference": "AdDdOWoLtqsgRnTRjiYIUFTvaGQYdBTTJnlKdEaCw6v9IY_46ZWbbLQSMpaP-kDCnxcH7g7qHGAHLxf4RmJQdp1OVxC2yOV2g6V7UR2x_P4LVNpqDFfzZk8Um5dpU9-Tscsf72anwJ65nhpw7KK1cawOY4E36H0uXBddh8mTODjZ1DayFNmf",
+                "width": 4134
+            }
+        ],
+        "place_id": "ChIJLyP6P_AOZ0gRFhHN1UZA8nw",
+        "plus_code": {
+            "compound_code": "8QXC+CH Dublin, County Dublin, Ireland",
+            "global_code": "9C5M8QXC+CH"
+        },
+        "rating": 4.3,
+        "reference": "ChIJLyP6P_AOZ0gRFhHN1UZA8nw",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3986,
+        "vicinity": "Point Square, North Wall, Dublin"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3525091,
+                "lng": -6.2599113
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.35381658029149,
+                    "lng": -6.258536019708497
+                },
+                "southwest": {
+                    "lat": 53.35111861970849,
+                    "lng": -6.261233980291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Academy Plaza Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4685,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117242145550872349980\">Academy Plaza Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWq4YrKRcNhzHZPKHLxfd7PCveJS7QlwK_EfJ1rWqKQ9nMmEhgayef_GsBAopM6ds6hoPZjUKTBhcFgYAs3uWBbydvQaUA-camBUtZ9krIEoswNgXSBV7i6qzGvUc9TCFt0vQ9cbpJBd4_5q2NT34KPmnXB29Jkrw8A60XkqgvtdQ3-z",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJl7GCGIQOZ0gR1eKfkCCnaKc",
+        "plus_code": {
+            "compound_code": "9P3R+22 Dublin 1, Ireland",
+            "global_code": "9C5M9P3R+22"
+        },
+        "rating": 4.1,
+        "reference": "ChIJl7GCGIQOZ0gR1eKfkCCnaKc",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3333,
+        "vicinity": "10-14, Findlater Place, Rotunda, Dublin 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3517733,
+                "lng": -6.250032999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3530966302915,
+                    "lng": -6.248582169708499
+                },
+                "southwest": {
+                    "lat": 53.3503986697085,
+                    "lng": -6.251280130291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Address Hotel Connolly",
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109464338311721084267\">Peter Brunner</a>"
+                ],
+                "photo_reference": "AdDdOWpmxyYoOQ4C9zu5XTUXS-eLmK6uss_Q5lQF6j2hyE2pTCiId3CQil8jrsKXNbOwzTYYA7YiMl2zrWIURl9Jc-rGtmsPMKLSXalq4fBfheffIT7hbwFQYf20HDP2LOLSi8BGV6YWngPwPTAiawTtg4GJ-CTjhiORgfyvZ90moHxt-Yke",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJq278S4kOZ0gRS42i__LaB4w",
+        "plus_code": {
+            "compound_code": "9P2X+PX Dublin 1, Ireland",
+            "global_code": "9C5M9P2X+PX"
+        },
+        "rating": 4.1,
+        "reference": "ChIJq278S4kOZ0gRS42i__LaB4w",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1757,
+        "vicinity": "Amiens Street, Dublin 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3259994,
+                "lng": -6.2253722
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3272517302915,
+                    "lng": -6.223749769708497
+                },
+                "southwest": {
+                    "lat": 53.3245537697085,
+                    "lng": -6.226447730291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Clayton Hotel Ballsbridge",
+        "photos": [
+            {
+                "height": 3648,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106666566806749976849\">Clayton Hotel Ballsbridge</a>"
+                ],
+                "photo_reference": "AdDdOWoiDru9Hxg8cfpRCS6vtfUcr7Z_5gCL6Cc10_u8cOI9uOW-5OUvMHCR4p94NWMmyJfhF7rVgQKQAPV7Kfx1kSVu_cng0n3fC_G92bqh60KdLyocheM8vfNrq_Yp70xIKI5aavxFPdvLKgWDiOv02c6mzerV808mmvR6Fkkb__iCOBZf",
+                "width": 3648
+            }
+        ],
+        "place_id": "ChIJnbCnesUOZ0gRP_F61TVSlgc",
+        "plus_code": {
+            "compound_code": "8QGF+9V Dublin, County Dublin, Ireland",
+            "global_code": "9C5M8QGF+9V"
+        },
+        "rating": 4.2,
+        "reference": "ChIJnbCnesUOZ0gRP_F61TVSlgc",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4176,
+        "vicinity": "Clayton Hotel, Merrion Road, Ballsbridge, Dublin"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3373746,
+                "lng": -6.263279799999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3388181302915,
+                    "lng": -6.261858669708498
+                },
+                "southwest": {
+                    "lat": 53.3361201697085,
+                    "lng": -6.264556630291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Green Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113743316282328921334\">The Green Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWq8ASrk8BicLqjKPWTK0H1mT8MD9U67mxokZSwGJrStMLAVjRfQxyBqIBAH2hvwSgStQifUExVlMZHQOXGxyB1FI4zDqHftjMNES8Cvt7Zr8JcE7BBC4jMIrOzIwuljIv1j9rma_34mEQzmZzr-TyBVJQVYgojvadbxWF9o3KlINmrM",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJEbI6nZ4OZ0gRNYANgsRAF9E",
+        "plus_code": {
+            "compound_code": "8PPP+WM Dublin 2, Ireland",
+            "global_code": "9C5M8PPP+WM"
+        },
+        "rating": 4.2,
+        "reference": "ChIJEbI6nZ4OZ0gRNYANgsRAF9E",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 787,
+        "vicinity": "1-5 Harcourt Street, Dublin 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3333283,
+                "lng": -6.246893199999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3347140802915,
+                    "lng": -6.245548269708497
+                },
+                "southwest": {
+                    "lat": 53.3320161197085,
+                    "lng": -6.248246230291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Mespil Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5206,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108877475206796989243\">Mespil Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWo0-u8xdDA41N6xgfhMZyHKY9YJuioZBfHhj_se_GFiMMPiFSSSLSI6T4drjV-8NyEWWJveN1SbfG67NXVdqMYxIi0M_PMmixwu-L6khLsJ4DXyaS39gBLYoO-fnNjWZx2USyCktIomvL5SmPnJ3gaDt07qoUPoNwccug4Jwzq0BRpR",
+                "width": 7808
+            }
+        ],
+        "place_id": "ChIJOfLeur0OZ0gRIJva0UTWaAQ",
+        "plus_code": {
+            "compound_code": "8QM3+86 Dublin 4, Ireland",
+            "global_code": "9C5M8QM3+86"
+        },
+        "rating": 4.5,
+        "reference": "ChIJOfLeur0OZ0gRIJva0UTWaAQ",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2234,
+        "vicinity": "50-60 Mespil Road, Dublin 4"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3453782,
+                "lng": -6.261729700000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.34686298029149,
+                    "lng": -6.260415969708498
+                },
+                "southwest": {
+                    "lat": 53.34416501970849,
+                    "lng": -6.263113930291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Gogarty's Temple Bar Hostel",
+        "photos": [
+            {
+                "height": 729,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116811762794178450030\">Gogartys Temple Bar Hostel</a>"
+                ],
+                "photo_reference": "AdDdOWreET4cF2hAujdGgFsGOiVauZsV9h_6oRCLFXMZtj_Dd7O7inWRGLh2VhBplzqo31UxRbf8jHYyyN7owhhzTP31EGkRSvtKsyJvSonAmgx7TqSR_-HZGekyOyZF-Dfoxax8ASUgCJ2LM9Kk9eNlOB7WfqBVeqkKbkiI6-RLILs9GU9g",
+                "width": 844
+            }
+        ],
+        "place_id": "ChIJITCoVIMOZ0gRyPcpKKtEkEM",
+        "plus_code": {
+            "compound_code": "8PWQ+58 Dublin 2, Ireland",
+            "global_code": "9C5M8PWQ+58"
+        },
+        "rating": 4.3,
+        "reference": "ChIJITCoVIMOZ0gRyPcpKKtEkEM",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4301,
+        "vicinity": "18-21 Anglesea Street, Dublin 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.34540490000001,
+                "lng": -6.266725
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3467807802915,
+                    "lng": -6.265397419708498
+                },
+                "southwest": {
+                    "lat": 53.3440828197085,
+                    "lng": -6.268095380291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Clarence Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3648,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102351142586529335153\">The Clarence Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqHaZuWxH83JsFsrYv3jXV1l0bHV9icRBv1MzmtvoYZ-S1Qyo1oPZBwg34ps6TMf2QKNS22kdpdcqGE5z_blQ7_JUwOaw0Yby6nH_1ZKyOAHu0rZQEUd103PtlY4aqHnAQIFDoO9puDa7mll2sGy6Tp9ptRA0QdNxGNUlSGW2ILxXrK",
+                "width": 3648
+            }
+        ],
+        "place_id": "ChIJo8oetYIOZ0gRwYWzeaWxMxI",
+        "plus_code": {
+            "compound_code": "8PWM+58 Dublin 2, Ireland",
+            "global_code": "9C5M8PWM+58"
+        },
+        "rating": 4.2,
+        "reference": "ChIJo8oetYIOZ0gRwYWzeaWxMxI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 964,
+        "vicinity": "6-8 Wellington Quay, Dublin 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.34535409999999,
+                "lng": -6.2647671
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.34674663029149,
+                    "lng": -6.263504019708499
+                },
+                "southwest": {
+                    "lat": 53.34404866970849,
+                    "lng": -6.266201980291504
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "The Norseman",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110062444671272842458\">The Norseman</a>"
+                ],
+                "photo_reference": "AdDdOWqYBL3ZF2SiMbUR8wfYESJf93y5yc3Xv7RMhlx3M2DVRaTygRfPwLBLdoPJtlR-F8IbpbdYh8WDxbosVyvtVSvn2fYa1QJ36io8q8JdW_PNkF5ut-MnN7Cbzzht_8jpdyDNA88IhtLbuy0kdJdcJuCLX58i4QYjszU0-HWDdKnm_Mr8",
+                "width": 5184
+            }
+        ],
+        "place_id": "ChIJVfWIKoMOZ0gRIX4KZlTka4k",
+        "plus_code": {
+            "compound_code": "8PWP+43 Dublin 2, Ireland",
+            "global_code": "9C5M8PWP+43"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJVfWIKoMOZ0gRIX4KZlTka4k",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3071,
+        "vicinity": "28E, Essex Street East, Dublin 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.33321360000001,
+                "lng": -6.264256199999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.33464653029151,
+                    "lng": -6.263154719708498
+                },
+                "southwest": {
+                    "lat": 53.33194856970851,
+                    "lng": -6.265852680291503
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Camden Court Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108189846685034064526\">Camden Court Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrKd_T1BHUqxqHM5IfnPuOLYSJuAi0bLQ3afpfGlK1Ubr3lURBPwwpJxNkCOFhsfSggmdqYP_NjcEoIe210KKeaW4A0U0PNTuubEGb4hP1FHtOA6-rJJFLyK_bfb-aqvTw2Qi6As-GqUjaZGlh8f4N_jr6TgYjZZh5D44HEHtr-mCJY",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJkZPPDaAOZ0gRpnfbgd9-bws",
+        "plus_code": {
+            "compound_code": "8PMP+77 Dublin, County Dublin, Ireland",
+            "global_code": "9C5M8PMP+77"
+        },
+        "rating": 4.4,
+        "reference": "ChIJkZPPDaAOZ0gRpnfbgd9-bws",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "gym",
+            "hair_care",
+            "beauty_salon",
+            "cafe",
+            "health",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2536,
+        "vicinity": "Camden Street Lower, Dublin"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3284671,
+                "lng": -6.2321988
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.32946078029149,
+                    "lng": -6.230482569708498
+                },
+                "southwest": {
+                    "lat": 53.32676281970849,
+                    "lng": -6.233180530291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Herbert Park Hotel and Park Residence",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109826079703693982972\">Herbert Park Hotel and Park Residence</a>"
+                ],
+                "photo_reference": "AdDdOWqMYDNll1z5un_ykt8aPCYk4Goa5FqlzxppHI_ruHLCEnfF8QfcfJiD1q_irsbR2qWlrNpeMZuRjjNYaK3XwGjEXWo1X6wYQtv9-fnxxWXZm7NfuZwyJobw6FXUCHQuuaRxlR9FfxmJ_P9Cq5ytWA4xgh9dWn9aWwnp_4UigvyKKRhv",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJz41EUMYOZ0gRXM77B7wqfNI",
+        "plus_code": {
+            "compound_code": "8QH9+94 Dublin, County Dublin, Ireland",
+            "global_code": "9C5M8QH9+94"
+        },
+        "rating": 4.4,
+        "reference": "ChIJz41EUMYOZ0gRXM77B7wqfNI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1579,
+        "vicinity": "Ballsbridge Terrace, Ballsbridge, Dublin 4"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.3547688,
+                "lng": -6.263354500000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.3560823302915,
+                    "lng": -6.2619475697085
+                },
+                "southwest": {
+                    "lat": 53.3533843697085,
+                    "lng": -6.264645530291504
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Castle Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 723,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104879815139961503126\">Castle Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpEZVYYEklYB0YOcX-n6MiX_CAPHnxGOMYLq-GfIv8QgZlpMUpQ99MPmYCaLxykZAu3JBjfu5WSHH48EfHcL5lYj83rJ6Z0q1jFyQJmH1cbPKnQts81QXCb8vECaqJpQYx6QCqFhTG9rWfhgz4UuXxWXWdn6UKXArzGMGLrnmfoW2kR",
+                "width": 1285
+            }
+        ],
+        "place_id": "ChIJif9mNYcOZ0gRC-cNixUDS6M",
+        "plus_code": {
+            "compound_code": "9P3P+WM Dublin 1, Ireland",
+            "global_code": "9C5M9P3P+WM"
+        },
+        "rating": 4.3,
+        "reference": "ChIJif9mNYcOZ0gRC-cNixUDS6M",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2532,
+        "vicinity": "Gardiner Row, Dublin 1"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.348342,
+                "lng": -6.258687999999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.34980463029149,
+                    "lng": -6.257391119708497
+                },
+                "southwest": {
+                    "lat": 53.3471066697085,
+                    "lng": -6.260089080291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Wynn's Hotel Dublin",
+        "photos": [
+            {
+                "height": 1985,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107180665454565601307\">Wynn&#39;s Hotel Dublin</a>"
+                ],
+                "photo_reference": "AdDdOWrjgylsoGtgbMIdxO-ilXzkX5gCFodoeWB3Zdfwsps6_xQ2w2zsu7Hni5xus6WS1xwHnuWwfGyaJmeHIlIwh7At5xvhS6XZiGSgUMvdTDzsFIygbCtNEOOQj3GPvtTkp4WDkxSzurUDsYfX-2bzx4qokQgGm2_J-vnQ9hJJp41P6sIf",
+                "width": 2100
+            }
+        ],
+        "place_id": "ChIJG7_3CoMOZ0gRo00joSI1zu8",
+        "plus_code": {
+            "compound_code": "8PXR+8G Dublin 1, Ireland",
+            "global_code": "9C5M8PXR+8G"
+        },
+        "rating": 4.3,
+        "reference": "ChIJG7_3CoMOZ0gRo00joSI1zu8",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "night_club",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2176,
+        "vicinity": "35-39 Abbey Street Lower, North City, Dublin 1"
+    }
+]

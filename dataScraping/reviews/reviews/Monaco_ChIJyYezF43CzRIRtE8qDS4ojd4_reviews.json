@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Ambassador Monaco",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Kiel A",
+            "author_url": "https://www.google.com/maps/contrib/100355375535301953511/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIR2fiIJTYClJsCPb47jHtsDHHFHmZM3eLw-vBwk3jD_4RfHg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "It was a very serviceable room, clean bed and mini-fridge complete with kettle. The bathroom seemed moldy but it could have just been stained. No complaints about the staff at all, were pretty friendly. The breakfast was wonderful. The hotel was about a 15-20 minute walk to the Palais Princier and a 30 minute walk to Monte Carlo (if I remember correctly) - just be warned you’ll be walking uphill to see the sights! There is also a market not too far away.",
+            "time": 1729076118,
+            "translated": false
+        },
+        {
+            "author_name": "Elisabeth Tsoukalidou",
+            "author_url": "https://www.google.com/maps/contrib/116031476532446336537/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBnTOHzkOpP20cF1YUSVM7Yp8nRmgTe8fD2Sqgv8qDelHZU28tVA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "We went to Monaco for the first time ever and the Ambassador Hotel greeted us very friendly . Our room had the perfect view towards the Palace of Monaco . Thank you for the amazing hospitality!",
+            "time": 1732213263,
+            "translated": false
+        },
+        {
+            "author_name": "Bill Stakemann",
+            "author_url": "https://www.google.com/maps/contrib/108017288535196541185/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-S9lvMxfAurfcBL8D9N4TJUDaMDHxGp1uZ7ecvlCMAZJwJA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "We enjoyed our stay.  The room was older, but well kept and seems to have had a recent bathroom renovation. The staff was friendly and courteous.  The area is close to everything- shopping, marina, Prince’s palace. Cute shops and markets in every direction.",
+            "time": 1720061022,
+            "translated": false
+        },
+        {
+            "author_name": "Simon Daniel Flottmann",
+            "author_url": "https://www.google.com/maps/contrib/100138457612696500684/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1sJeRhbu1_T0pSZ-1oBQTcx3HIuOOXSAFo0ibgk9hY5XjeoA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "The hotel is “okay”. Small but clean rooms, the staff tries their best but they struggle with any language but French.\nThe alleged expansive breakfast buffet is quite small, consists mostly of unbearable sweet stuff and the breakfast times 7-10 are not very tourist friendly.",
+            "time": 1722971623,
+            "translated": false
+        },
+        {
+            "author_name": "Alexander S.",
+            "author_url": "https://www.google.com/maps/contrib/112283827789049994495/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTmc_SW5z5smLLVuTPaytvfuj8iN8ZqbHuLTA0Y6i1my8VVg=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "11 months ago",
+            "text": "If you’re on a budget, then this is the most friendly option. The man at the reception seemed very apathetic and a bit irritated like we were bothering him. The building is dated, and while the rooms themselves are clean and modern looking, the bathroom is another story. It smells horrible and damp, and if you leave the door open, the whole room smells like drainage. There’s barely any room to store anything in the bathroom and almost no sockets in the bedroom. The breakfast is okay, nothing of note. Honestly the only good thing is the location, the discount on the car park and maybe the price.",
+            "time": 1703347619,
+            "translated": false
+        }
+    ]
+}

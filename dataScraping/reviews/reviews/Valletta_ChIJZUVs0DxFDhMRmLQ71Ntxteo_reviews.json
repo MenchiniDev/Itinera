@@ -1,0 +1,66 @@
+{
+    "name": "Tex Mex American Bar & Grill",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Amanda Hilton",
+            "author_url": "https://www.google.com/maps/contrib/100012116311047812452/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaZT1jBt9yscBVRuF5-HXk4vyXlga5lTy2m5Cm_7-jd24FDNxQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Lovely food and excellent service. The home made pasta sauce tempted me with that dish and it wasn't a let down. Deep flavours and a generous portion. Finished off with the excellent ice cream and 2-4-1 on cocktails midweek before 9 brought the bill in at under €30. Recommended.",
+            "time": 1725910796,
+            "translated": false
+        },
+        {
+            "author_name": "Mia Taylor",
+            "author_url": "https://www.google.com/maps/contrib/101186208561157448543/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt-0KbaWfBwATKQuca662gK9sBrpUyBgssS4kuByEFlqP9zg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great food and service! The list of drinks was insane and super cheap!! We went at happy hour and were able to get two for one. Super friendly staff as well :))",
+            "time": 1720518016,
+            "translated": false
+        },
+        {
+            "author_name": "Liam Stivala",
+            "author_url": "https://www.google.com/maps/contrib/102232008338726636064/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzaaA4Fn13wElzxP4EAyOFQ1_vBpJAsvTIENRnV3dBFLX7PQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great food and cocktails. Staff are very helpful and attentive.",
+            "time": 1730288855,
+            "translated": false
+        },
+        {
+            "author_name": "ijeoma williams",
+            "author_url": "https://www.google.com/maps/contrib/100181818701780564414/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUdf6z5ZxM5zvi6oy8lnBVMYvHsFlKMJFVX2qx8wSYYHuY9Pxw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Amazing service, happy hour is actually HAPPY! Cocktails taste fantastic! Would recommend this bar to anyone visiting Pacevile. Special shout out to Lauraina who looked after us. 5 stars 🫶",
+            "time": 1727457258,
+            "translated": false
+        },
+        {
+            "author_name": "Nikolas Konstantinou",
+            "author_url": "https://www.google.com/maps/contrib/118264324500857337001/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWX-EE925LXUqjZxPk-Xz4LgTfecSoqBCGg7Pl9XtKq5GR8gkA_yQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Nice food, average service but very bad atmosphere. The music was too loud, the clients were misbehaving and it was concideree normal. It was more like a party bar than a restaurant.",
+            "time": 1720604914,
+            "translated": false
+        }
+    ]
+}

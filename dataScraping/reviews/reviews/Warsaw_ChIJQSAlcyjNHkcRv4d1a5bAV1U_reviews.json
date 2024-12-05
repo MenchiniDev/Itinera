@@ -1,0 +1,66 @@
+{
+    "name": "Pasta i basta",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Vitalina",
+            "author_url": "https://www.google.com/maps/contrib/103838426386701807537/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUixuz_pYTkJHsHg0vjogORXi3efdGV8kmnHijj0ySy0jf61Cb_=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "There is a dish called Tris which serves 3 different types of pasta if you want to try more than one. The food was good, and the personnel were quick and friendly. I liked the place.",
+            "time": 1727021002,
+            "translated": false
+        },
+        {
+            "author_name": "Diane Cornuet",
+            "author_url": "https://www.google.com/maps/contrib/111116822865714114158/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5Zru_Vcmfvoa8ynmApJJqojh1TGRQbRZBAQdgqsreYn9aukQEqA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I was looking for a place with dumplings, and this restaurant didn’t disappoint. The atmosphere is nice and chill, the dumplings were delicious and the wine was very good too! Before coming i read a comment about the need to order extras separately (sauce/sour cream, onions), which is indeed the case and I recommend ordering something on top of dumplings as otherwise they'll come plain, which is not to everyone's taste. I really liked everything and I recommend to come and enjoy good food and drinks.",
+            "time": 1726257308,
+            "translated": false
+        },
+        {
+            "author_name": "Samuel Altschul",
+            "author_url": "https://www.google.com/maps/contrib/112096244494528937573/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoGK1BYKqPxCTnRYvgNwZkzFMLiuXQGJkE68RM6DsSc_bPrzB8=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Spectacular pasta, both ravioli and ordinary. The tris comes highly recommended. My wife enjoyed the aspagus pizza.\nAnd then they had khinkaly... my guilty pleasure.. a fantastic snack, fresh, juicy and full of flavour!\nQuite tollerable wines as well.\nThe lad a serving were immaculate in their service and a bit of humour added to this wonderful experience.",
+            "time": 1715454944,
+            "translated": false
+        },
+        {
+            "author_name": "Gor Ber",
+            "author_url": "https://www.google.com/maps/contrib/105541528754279679418/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2nRNmQksJWq77CYFDY4BkBASaE8u9ZjeFs0r63snt9QEnEtXC=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Fantastic gnocci! We both loved the food, very good and broad variety of italian dishes.\nBig screen tv for sports in separate room. Very well worth the costs. Highly recommended.",
+            "time": 1718438977,
+            "translated": false
+        },
+        {
+            "author_name": "Johny Krasavec (Johnny Bé)",
+            "author_url": "https://www.google.com/maps/contrib/104187711495243766430/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAKavXLT2CmePqof6dQyS9TFaPrAFSIhDc4_ZzE3UBucyc2lhK=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Amazing local place with a good professional service that gave us a lot of attention in a way to make sure we understand everything or that we can find everything. Very welcoming.\n\nThe food was amazing, the drinks were amazing. Very pleasant experience that made our day so much happier.\n\nThank you, highly recommended place.",
+            "time": 1724239257,
+            "translated": false
+        }
+    ]
+}

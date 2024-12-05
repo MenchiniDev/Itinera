@@ -1,0 +1,28 @@
+{
+    "name": "CaterStars",
+    "rating": 5,
+    "reviews": [
+        {
+            "author_name": "fabio Moretti",
+            "author_url": "https://www.google.com/maps/contrib/103337956103632475324/reviews",
+            "language": "en-US",
+            "original_language": "it",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDH8-aCveilBRQaA3jDt7aNdfLUqhhfJpCtw6vB4RTonz948Hi9Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "Optimal",
+            "time": 1467990456,
+            "translated": true
+        },
+        {
+            "author_name": "Emanuele Valle",
+            "author_url": "https://www.google.com/maps/contrib/107989576091419045107/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxnVIPGrm60sj0bFzbU8_rXZWxidjKjjv9Xy-Dfm1oCKY6gQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "",
+            "time": 1563059644,
+            "translated": false
+        }
+    ]
+}

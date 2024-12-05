@@ -1,0 +1,66 @@
+{
+    "name": "Divaka",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Martin Lock",
+            "author_url": "https://www.google.com/maps/contrib/101154172316531434724/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsSBtIrMWvXfmeUCzSZSFi2UW1MOXNtNaCFwnzKZygFii36V4dlg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Our first day in Sofia and a friend who lives here commended this to us, we were not disappointed.  A lovely setting and atmosphere inside, the food and drinks were fantastic. We shared a couple of starters and then the mixed meat in bread and couldn't finish it. Super tasty food. We highly recommend.",
+            "time": 1728020770,
+            "translated": false
+        },
+        {
+            "author_name": "Kris T",
+            "author_url": "https://www.google.com/maps/contrib/115057586078553661948/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3_tCK-Xbxvwi7N_hWz2mAcoaAIkny1d9vDhcl74Bug6Fn0VpSJA=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "The waitress was so nice, smiley, and helpful. I was amazed by her genuine style and approach. Everything that we ordered was fresh and nicely cooked. Fish, starters, everything was great and tasty. The second floor has a children's play area, and it is nice for the parents to sit there and their kids to play.",
+            "time": 1725699851,
+            "translated": false
+        },
+        {
+            "author_name": "Fakı AKIN",
+            "author_url": "https://www.google.com/maps/contrib/105427635862212292195/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzLU8ZLwgMC7VKQSXXp5xuTUTIaUdOwtECGENocKrleYmPDvpe=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Nice location near the main shopping street.\nThe soup we ordered was served in bread and was not hot enough, but it was still tasteful.  Then we ordered the Greek salad, this was nothing special with just regular some pieces of cheese in it. We selected the potatoes from the chef’s daily card but it was also just regular. To finish we ordered the mixed meat plate, this consisted of meatballs, merguez and sausages. But it was already served with some ketchup sauce on it which i dont prefer because I want to taste the meat, not meat with a lot of sauce on it. rhe portions where enough, the taste of the meat plate was good but not extraordinary. The beer was also not served very cold.",
+            "time": 1720284480,
+            "translated": false
+        },
+        {
+            "author_name": "Adreena Angela",
+            "author_url": "https://www.google.com/maps/contrib/105090037290840014353/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjwlqXghMMvdYSoFBtNQLZvQkQYkckYSkR6WiH6ITKVmbRd0avmQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I loved this restaurant. Very simple and local, but such an enjoyable meal. The covered courtyard with the greenery is very peaceful and there's loads of space. A full menu of local cuisine. The food we got was all really decent and I wanted to eat everything I saw going past! They also had burgers, wraps and icexream alongside traditional dishes. I'd definitely come back. Loved the shopska salad and the spicy green chilli dip.",
+            "time": 1719844568,
+            "translated": false
+        },
+        {
+            "author_name": "Rakesh Reddy Aaraga",
+            "author_url": "https://www.google.com/maps/contrib/109050906695806298785/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5v6ZvVPP6e3or3Xb26GYxsoWXnRUd_VMyPYEK1r8uRp4-g68T=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "We had the \"Chicken Divaka\" and \"Baked Pork Knuckle\" dishes, and both were delicious! The pork knuckle was perfectly cooked—tender and flavorful. The potatoes in both dishes were particularly tasty and complemented the meat wonderfully. The ambiance was very pleasant, with a cozy and welcoming environment that made the meal even more enjoyable. Highly recommend this place for a great dining experience!",
+            "time": 1723845739,
+            "translated": false
+        }
+    ]
+}

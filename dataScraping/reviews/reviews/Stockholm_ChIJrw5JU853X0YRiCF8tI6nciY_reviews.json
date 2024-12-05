@@ -1,0 +1,66 @@
+{
+    "name": "Reimersholme Hotel",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Edgars Koronevskis",
+            "author_url": "https://www.google.com/maps/contrib/100671525066158008543/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViQM6sSf-TYybnT1tG21Xqf5nD8PkuhV6RapXPfq2S349A8A1fiA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Surprisingly comfortable beds and friendly hotel staff. The surroundings are nice, with a Coop shop close to the hotel. Fast and stable Wi-Fi. Nice breakfest included. Good price/performance.",
+            "time": 1727718537,
+            "translated": false
+        },
+        {
+            "author_name": "Tomás da Silva",
+            "author_url": "https://www.google.com/maps/contrib/115703955199479533845/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURhw-lvJOVlj8z_nUhZfsRwbz7aU_3_zorj-N6bu6yplgPDaGR=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This place is so nice. Underrated and under the radar. Very good selection of wine. Nice staff and snacks.",
+            "time": 1722634756,
+            "translated": false
+        },
+        {
+            "author_name": "Riley Draper",
+            "author_url": "https://www.google.com/maps/contrib/104963364673432049113/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjValVhvIBsnJ4vs4UC3ZoRMbydAQIdcenEfTchohFXn-lGEuc8U=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "What a lovely little oasis on a tiny yet central island. Great events and really quite decent free breakfast. I had a small private room with a sky light. For the price, the room was more than enough. Bathrooms were clean. The inside of the building itself is well decorated but nearly without any natural light which I didn’t like but I can’t complain..just outside the building you’re greeted with natural beauty and peaceful nature so it balances out. Great hospitality at the restaurant and great live music at the venue!",
+            "time": 1696127590,
+            "translated": false
+        },
+        {
+            "author_name": "Javi Digiorgio",
+            "author_url": "https://www.google.com/maps/contrib/105614705012876897472/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYhydBJEezoLuEv3GSQmv67YzeCkaiCHTNTB_WWKw_2EIb1dXV=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "Pros:\nThe staff was kind, friendly and as helpful as possible.\nIf you are looking to party and meet people it’s a good spot, a ton of music and drinks.\nNice location, a pleasant 45 minute walk to the center with nice parks nearby and river views.\nVery good breakfast buffet.\nThe bed was comfortable.\nThere is a separate building called The Annex which seemed like it would be more of a normal hostel experience.\n\nCons:\nThis is one big bar. EXTREMELY noisy, people coming in from the bar to use the hostel bathrooms CONSTANTLY. So the bathrooms are FILTHY, piss, hair and wet toilet paper everywhere and always occupied. They clean them daily but they are used by the bar patrons so you’ll be taking a shower with drunk lads banging on the door. It is not a small bar but a big terrace with 100+ people.\nRandom bar patrons wandering around at all hours, really weird vibe. The crowd of the bar isn’t really a young crowd either, like 30s, 40s but loud and messy.\nEverything is cheap, dirty, graffitied on, like living in an Erasmus bar. The rooms are TINY, nowhere to open a suitcase never mind unpack or put clothes. They didn’t give us any towels until the last day of our stay (??). If it were 30€ a night and you are a 20 year old student here to party with no need for sleep or pleasant shower experience it would be great! However its more expensive and it doesnt match what it advertises",
+            "time": 1698001553,
+            "translated": false
+        },
+        {
+            "author_name": "Max Wright",
+            "author_url": "https://www.google.com/maps/contrib/115741139004762455009/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4a1gtmXJeUSszKAFPEMODlO9gVDWtcGYGXCwbTqos1niNqQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "4 months ago",
+            "text": "Nice place. But waitresses took my beer before I finished it.",
+            "time": 1721141517,
+            "translated": false
+        }
+    ]
+}

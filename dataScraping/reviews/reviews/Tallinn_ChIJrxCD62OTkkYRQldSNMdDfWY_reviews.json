@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant Chedi",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Tatjana Kovtuna",
+            "author_url": "https://www.google.com/maps/contrib/111099687171566362769/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwz_7QuUd-nS43_ZcR8KDAPHbSS8wPiOmVnaf1vy9a_Mmp1wY_=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "The restaurant was empty, but the interior was very attractive. The waitress was absolutely lovely—she explained everything, showed us around, and gave us detailed information about the dishes. The presentation of the food was really impressive.\n\nIt was just the two of us, and we mostly came in for a quick bite. I ordered a dish because the name caught my attention—it was a very interesting duck with pancakes. The presentation was indeed unique. There were four pancakes, vegetables, sauce, and a crispy, delicious duck leg. The waitress carved the duck for me, and I assembled the pancakes myself, which I really enjoyed.\n\nMy husband also ordered duck in a different sauce, but he didn’t like it as much. Overall, though, we were both satisfied with the experience. The prices are pretty high.",
+            "time": 1728831007,
+            "translated": false
+        },
+        {
+            "author_name": "Arkadi Tedresaar",
+            "author_url": "https://www.google.com/maps/contrib/100316477372925336371/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSWy_NdRY1L8r2P5UMw--1LY_YW0w0HQ67ebYAFEnqLqVPqzOU=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Beautiful experience, food was excellent and accompanied with great wine. Nice calming atmosphere in the restaurant makes you wanna stay there for hours. We finished our lunch with green tea, which was like aromatherapy, still remember it's taste. Thanks",
+            "time": 1730806381,
+            "translated": false
+        },
+        {
+            "author_name": "Fiana Lu",
+            "author_url": "https://www.google.com/maps/contrib/116951287924934813219/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9ByKhkcNt5cZe6UPZjHvX11heYJEj3qC358_GiYU9PgmDMNy9fw=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Super disappointed with the crispy duck!!! It’s over cooked to the point is like jerky, only flavor came from the sauce. Black pepper stir fry asparagus and lotus root is average, no black pepper flavor. The fried curry squid is the star of the table, and the only reason I didn’t rate this place 1 star.\n\nService is nice but not super attentive, interior design is well decorated.",
+            "time": 1695987913,
+            "translated": false
+        },
+        {
+            "author_name": "Linela",
+            "author_url": "https://www.google.com/maps/contrib/108595249615665103400/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9pZauzUVgGEdsorsG4hzezm7HdEjila05z1W-IYyHIVidi4Lizw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "The food here is superb! We came back twice on the same day for lunch and dinner and still, every item we ordered from the menu was so good.\nWe especially recommend baked venison dim sums, liu sha bao and the gently fried squid with  chili and curry leaves (must order!).\nThis restaurant is so good that we're thinking to visit Tallinn again just to eat here. Truly one of the best Chinese restaurants I've visited in Europe.",
+            "time": 1710105601,
+            "translated": false
+        },
+        {
+            "author_name": "Thomas Strasser",
+            "author_url": "https://www.google.com/maps/contrib/100079315514911318343/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV65lRhFSZD8B6pw8bTyhFka3tkldN8LqQzuxnZ1KZwZJ4R6Xeu=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "Nice place, good service and good food presentation.\nUnfortunately the food quality does not hold the promise.\nFor some reason everything is very sweet. Sugar, honey…\nTuna tartar on too much salad with a very sweet sauce.\n„Golden“ octopus deep fried in a sweet dough.\nHalibut with Szechuan pepper and chili deepfried in a sweet doughnut like dough\n\nTea steamed ribs in a sweet sauce\n\nFirst it would help to state in the Menu what is deep fried in sweet dough\n\nAnd please use less sweets in general. It is far too much\n\nI was many times in Asia and it is not that sugary, really.",
+            "time": 1718347842,
+            "translated": false
+        }
+    ]
+}

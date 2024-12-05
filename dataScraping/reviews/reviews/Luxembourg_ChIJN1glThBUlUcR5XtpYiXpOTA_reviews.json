@@ -1,0 +1,66 @@
+{
+    "name": "Friture Mr. Goufy Sàrl",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Alireza Nouri",
+            "author_url": "https://www.google.com/maps/contrib/109319985195364809327/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTSy0XQMXjJE1a7JafTRYZjEgJFP67bTKMUMjtUyGD2CvmfFBj=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "A local place and very good, especially the nuggets. Fast service and delicious.",
+            "time": 1732562801,
+            "translated": false
+        },
+        {
+            "author_name": "Kelly Roberts",
+            "author_url": "https://www.google.com/maps/contrib/104641220916497287399/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkxdDfNITGgx4Y4FHd4uJdmLgPgpktzHt-gFJKfbc_DXSdug4=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Road side fast food café! If you wanted to try Gromperekichelcher but were disappointed not to find them in Luxembourg city, this is an excellent spot to get the potato fritters. A great menu with lots of choices including a delicious currywurst. Clean, fast, friendly service. Lovely little terrace to sit on (by the road).",
+            "time": 1727716976,
+            "translated": false
+        },
+        {
+            "author_name": "Rafael Sanchez",
+            "author_url": "https://www.google.com/maps/contrib/111198483090547369215/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAmYT033iJtJPWOZSX7uiP37Cm6PUgbfi4Mg60xUqUhD52pzE-Tw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Convenient and unbelievable open hours for Luxembourg. The burger meat is hard and has a peculiar taste, bread is good as well as the fries. Definitely not a first pick.",
+            "time": 1731501886,
+            "translated": false
+        },
+        {
+            "author_name": "Malcolm Goodall",
+            "author_url": "https://www.google.com/maps/contrib/114704840631812488270/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVexIJGYRtkplDaBHFsNDAZgXqg2qgvKMVGcYBB36NZ-l-XBlEE=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "Quite a large, well managed friture. Has quite a lot of seating on an enclosed terrace. Standard food and good service",
+            "time": 1710194034,
+            "translated": false
+        },
+        {
+            "author_name": "charel felten",
+            "author_url": "https://www.google.com/maps/contrib/102991082427792160105/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIlJNlZ-5RXEZDXCgzcd5pF-R4Z63JXbucLgQ8DmcNvBGrNiUK=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Offers authentic luxembourgish fast food. Definitely worth a visit, and very popular among locals. Especially the burgers reflect traditional luxembourgish burgers. Not a restaurant, it is fast and cheap, but not not a lot of place inside.",
+            "time": 1558590465,
+            "translated": false
+        }
+    ]
+}

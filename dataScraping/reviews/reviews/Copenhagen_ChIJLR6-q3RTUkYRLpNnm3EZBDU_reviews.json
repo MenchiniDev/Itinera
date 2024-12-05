@@ -1,0 +1,66 @@
+{
+    "name": "Cofoco",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Lina D",
+            "author_url": "https://www.google.com/maps/contrib/101256171801868780054/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9Zdkc83MBH0Ro9OWGR04qzDK-8YcWZWZw89GzQAm1EcMJHpfP=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Very nice restaurant with a modern Nordic cuisine. Great flavours and beautiful presentation. I tried 5 courses menu with winepairing. My favourites were mussel soup and waffle with mushrooms, although all 5 dishes were just delicious! Wines - as well!\n\nWorth mentioning their wonderful service! The girls were super nice, presenting every course and every wine, always smiling and creating nice relaxing atmosphere. They were also very flexible and gave me a table when I was quite late to my reservation due to some unforeseen circumstances.\n\nI would definitely come back there and really recommend this place to others due to their delicious food, great service and pleasant atmosphere.\n\nThank you!",
+            "time": 1726348012,
+            "translated": false
+        },
+        {
+            "author_name": "Carol Lofquist",
+            "author_url": "https://www.google.com/maps/contrib/108425725115009894333/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBct7ePsFvDeZu4wWERfRgo_j2jpsW6WKkQkoEQ4FTB78rhw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We didn’t have a reservation but were able to enjoy a most delicious four course meal! From the bread, fig salad, mussel soup, quail, monk fish pastry, and strawberry dessert - all the flavors were divine. Service was impeccable!",
+            "time": 1727724783,
+            "translated": false
+        },
+        {
+            "author_name": "Belisa Miller",
+            "author_url": "https://www.google.com/maps/contrib/104041045409993048135/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTKDVULFaNe4APpRpy5Xu_9jxUVnQomwB4cbdVZ9OOnYJirXp4=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Incredible dining experience! I ordered the 5-course menu with the 5 accompanying wine glasses for each meal, which is such a great concept.\nI also LOVED the interior design and the atmosphere. Service was also very good!",
+            "time": 1723442570,
+            "translated": false
+        },
+        {
+            "author_name": "Leon Cheng",
+            "author_url": "https://www.google.com/maps/contrib/118001928094006276038/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw-XBJLCXyJZEfG2EwoIvkMdXPZeKWi-i3Tgu12GFSGd5UhdQOAQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "My dad visited this restaurant two years ago, and recommended it to me while now I’m traveling in Copenhagen. Now I totally understand why he loves this place. Chilling atmosphere, lovely staff, and the dishes were creative and tasty. Wonderful place for a fine dining in Copenhagen.",
+            "time": 1718126008,
+            "translated": false
+        },
+        {
+            "author_name": "Gert Kopera",
+            "author_url": "https://www.google.com/maps/contrib/104845345642667090825/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMz8owd76YNVl1t5IN39nBrUDyPcw6x7_fYm-FSYS3jBf-SA=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Sublime.. Highly creative food, worth a plane ride, not just a detour.\n\nThe mussels soup, the monk fish in puff pastry, the waffle with. Mushrooms, the ribeye... Wow.\n\nSpectacular.\n\nSimplicity in interior design, perfection of service and sublime food.",
+            "time": 1727389619,
+            "translated": false
+        }
+    ]
+}

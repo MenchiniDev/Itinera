@@ -1,0 +1,66 @@
+{
+    "name": "Shakespeare Boutique Hotel Vilnius",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Anastasia Cubbins",
+            "author_url": "https://www.google.com/maps/contrib/113725340380822337664/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6Y-OwfBxUGT4X63WG4VDZd7HPUUqR7zzDQUotqG5D1ikArKK9=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "Unfortunately the hotel didn’t live up to my expectations. I saw a lot of good reviews and beautiful photos online, but in reality: the room is very cold (heating didn’t work, we had to ask for radiator), the cleanliness of the room isn’t the best (hair in bed and in the bathroom), one socket only on one side of the bed, very slow internet, no bathrobes, old kettle with limescale, breakfast is mediocre, the stuff is polite but too serious (they never smiled once).\nOn the good side: great location and unique interior.\nFor this price you can find a much better hotel in Vilnius.",
+            "time": 1728151250,
+            "translated": false
+        },
+        {
+            "author_name": "Steve Christian",
+            "author_url": "https://www.google.com/maps/contrib/110815673628120067534/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcuoEPe1pI4DDHplMIp6gjKUpasI8S3OqtCYeZgxP9dvZYxHHRZA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great location, very good breakfast.   Rooms are as one would expect in a historic structure.  The shower setup in the bathtub had some issues with water spraying everywhere and without a proper shower curtain.",
+            "time": 1725387398,
+            "translated": false
+        },
+        {
+            "author_name": "Antanas Vilcinskas",
+            "author_url": "https://www.google.com/maps/contrib/112666884911249201008/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk5vbIPxx9g4kxE5gHzHJaySQU4LM5u_MQrktsQLKOE4WiDdqM=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Great location, walking distance from old town.\nRestaurant need to improve on breakfast time. Ran out of coffee, plates, spoons... To get coffee from one machine took almost 10 minutes.",
+            "time": 1727162424,
+            "translated": false
+        },
+        {
+            "author_name": "Melek Özel Akyüz",
+            "author_url": "https://www.google.com/maps/contrib/110527604232918653214/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXNNDIhb8L9jHD63G71Q9yL8SduWBoMw3imNR1Hys1D7vaBjmhTg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "I can say that it is one of the best hotels to stay in Vilnius in terms of location. The rooms are large and spacious.The day I was leaving the hotel, I asked the reception where the toilet was and he said it was upstairs, but the upper floors were dark, the lights weren’t on and I couldn't find it. Then I went downstairs again, he got sullen and angry. This was not nice at all, there are no lights and I can't find it, it's your problem.think you should learn how to treat tourists and guests or keep the lights on in your hotel!!!",
+            "time": 1722406277,
+            "translated": false
+        },
+        {
+            "author_name": "Haakon Engen",
+            "author_url": "https://www.google.com/maps/contrib/101555332896304378865/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS1alS3Hu0lV0xYFkA0AtGOeNQabwKZ9sf9YvcftrTRfJjCCvU9w=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "An absolutely lovely place to stay. Only downside is that it's an old (ancient!) building, so a bit loud, but the charm more than makes up for it. Strong recommend getting the breakfast too! Super friendly staff. All around two thumbs up!",
+            "time": 1716710345,
+            "translated": false
+        }
+    ]
+}

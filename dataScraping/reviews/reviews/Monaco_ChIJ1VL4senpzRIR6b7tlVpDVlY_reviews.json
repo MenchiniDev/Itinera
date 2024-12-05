@@ -1,0 +1,66 @@
+{
+    "name": "Hôtel Le Roquebrune",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Raquel Clark",
+            "author_url": "https://www.google.com/maps/contrib/114115169880485314137/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMtHkHSRlO-rolW-4CrxaIHGiHP5OTyGKElgGVTZyrVDNHW6-i=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Our room here was so comfortable and nice, the terrace was so inviting, a private sunny refuge with a lime tree growing on it. The show stopper is the view from the small restaurant. It;s a spectacular view of all the yachts parked near Monaco. The staff treated us great, and the breakfast was wonderful. although way too much food.  We did not get a chance to eat dinner at the hotel, but would expect it to be just as good. This is not a hotel you should stay at if you have mobility issues. It was two sets of steep (one twisting) stairs, then another two sets outside, just to get to our room. I can't imagine it work for people with small children or mobility issues.",
+            "time": 1728157820,
+            "translated": false
+        },
+        {
+            "author_name": "Diana Boudinova",
+            "author_url": "https://www.google.com/maps/contrib/111373449302290105432/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbMHONtdpOyPwqZZTxAm9Mkz1xRkdkacxYoZaxYoPFOvwG55S0=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Charming little hotel with amazing views, spotless and comfortable rooms and a very friendly service. Only a short bus ride from Monaco so a much better option than staying in the crowded Monte Carlo. Highly recommended!",
+            "time": 1731485133,
+            "translated": false
+        },
+        {
+            "author_name": "Viktoria Johansson",
+            "author_url": "https://www.google.com/maps/contrib/104071796394652004162/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ4B3kZM_Prtya12KFG3LL8ACOpaBMXvQo3doYo3l7GUgSKj4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Lovely place which is newly renovated. Staff is super friendly and helpful. 5 min walk to the beach and 15 min walk to Monaco.\n\nOnly downside is that they charge for parking (a car is a must in this area) and food is pricey.",
+            "time": 1728143706,
+            "translated": false
+        },
+        {
+            "author_name": "jeniemi",
+            "author_url": "https://www.google.com/maps/contrib/107697881749630607017/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCAyQfYrBXxvMSAswtxj5k5-19vD5S_x9rB7ziLjJ9RSxNYKM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Friendly staff, beautiful room and welcome drink and breakfast at the room made the visit extra special. Highly recommended!",
+            "time": 1728402435,
+            "translated": false
+        },
+        {
+            "author_name": "AM Sm",
+            "author_url": "https://www.google.com/maps/contrib/115408596551058466291/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHmG1OeFi2PdZ8BmVfpRoR7qCifj1AJK_Decda4m_8GLxaeA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Wonderful boutique Hotel. Staff was absolutely amazing. Location and views are killer and the hotel was very quiet . Rooms are romantic and beds are comfortable which is not always the case in France. The walk to the beach is about 6 minutes. Again, wonderful hotel only 7 rooms which is nice.",
+            "time": 1687763219,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,988 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.80947399999999,
+                "lng": 6.090889
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.81093723029149,
+                    "lng": 6.092282180291503
+                },
+                "southwest": {
+                    "lat": 49.80823926970849,
+                    "lng": 6.089584219708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Pizzeria Am Park",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101864873213074129848\">Restaurant Pizzeria Am Park</a>"
+                ],
+                "photo_reference": "AdDdOWoZ7ylykWWhV9jh61xYFjqptn8oo6Yv_VtjlD6FONECQOYx6wIDJS0sGpK8DRILs6Xli27CeVNUX_SepIHO5AT1YSBkrMqCeZGUAa8GlUP4NMY3A6WE5f3tbglkrv6mwMzUYsmRl-b1c8eWZmvkEU3yy3F-tll7VuRaQi6jNyZr2euP",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJjU2rJ0hUlUcRx6ue6N1V7qU",
+        "plus_code": {
+            "compound_code": "R35R+Q9 Colmar-Berg, Luxembourg",
+            "global_code": "8FX8R35R+Q9"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJjU2rJ0hUlUcRx6ue6N1V7qU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 186,
+        "vicinity": "Rue de l'Ecole"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.82987509999999,
+                "lng": 6.095988999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.83122023029149,
+                    "lng": 6.097439980291502
+                },
+                "southwest": {
+                    "lat": 49.82852226970849,
+                    "lng": 6.094742019708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gran-Sasso",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 508,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115443607288572061832\">Gran-Sasso</a>"
+                ],
+                "photo_reference": "AdDdOWr3w6uMwB0aecA6M1RkxtJSBxi5OTL1GYieTO0D6jfIAx5LLVgI_Z5u1z94_FNfxdp2oHEOEPqih_NBXLmSn1GI91KrJde8iIFSTrHpA4IUYG5iXWBeo-XYMPP7zHSJDNxP2aXu3igkE0ZQonaZ9spMq8FhOBorrswZ5TYhtXO6Mu5c",
+                "width": 900
+            }
+        ],
+        "place_id": "ChIJzdUIhsdVlUcRN6wUNvAeYDM",
+        "plus_code": {
+            "compound_code": "R3HW+X9 Schieren, Luxembourg",
+            "global_code": "8FX8R3HW+X9"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJzdUIhsdVlUcRN6wUNvAeYDM",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 353,
+        "vicinity": "74 Route de Luxembourg, Schieren"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.7887429,
+                "lng": 6.097197200000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.79016178029149,
+                    "lng": 6.098357130291503
+                },
+                "southwest": {
+                    "lat": 49.78746381970849,
+                    "lng": 6.095659169708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name": "Shell",
+        "photos": [
+            {
+                "height": 1193,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101852939103883162081\">Shell</a>"
+                ],
+                "photo_reference": "AdDdOWo0DF8I9iHJ66ssGUFrKfpMLSy_ef_rpVHRSEcqqZIPWHves57-EFAllEoZfVwu10V1GgWuoN7utD27OC7tTslcWzYsbm0Ql2lCoosYmgplrLlH9k6HvGCBhQJzMH2MoMP3x80os4cOt8-gLx0KSAxbVPtjmpRdgXSlPbJzdCH3RNOF",
+                "width": 2119
+            }
+        ],
+        "place_id": "ChIJqzgxRRBUlUcRem16EGkt8RM",
+        "plus_code": {
+            "compound_code": "Q3QW+FV Bissen, Luxembourg",
+            "global_code": "8FX8Q3QW+FV"
+        },
+        "price_level": 2,
+        "rating": 3.7,
+        "reference": "ChIJqzgxRRBUlUcRem16EGkt8RM",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "car_wash",
+            "convenience_store",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 22,
+        "vicinity": "6 Rue de Luxembourg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.84550530000001,
+                "lng": 6.0979415
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8468993302915,
+                    "lng": 6.099054830291503
+                },
+                "southwest": {
+                    "lat": 49.8442013697085,
+                    "lng": 6.096356869708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fischer",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112892068550130776554\">Fischer</a>"
+                ],
+                "photo_reference": "AdDdOWr6UtD3vONU8hF1NgAVxlZUuX1dGLYp6oBQlRWGYebEtj55zUd_f5fzXrzG27AR19fZHI8_1rsl3P34QNoWHuLMZJSrpLgy9NHNkWMLG9PL214GxSogxh9xriqYaHawrxD2xavIxGAxe6AOKFBAjNBXeODYRrTCz4ZM21ZCDyYQ1mQN",
+                "width": 1420
+            }
+        ],
+        "place_id": "ChIJX-sOE5NVlUcRLDt8qZgJIJ8",
+        "plus_code": {
+            "compound_code": "R3WX+65 Ettelbruck, Luxembourg",
+            "global_code": "8FX8R3WX+65"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJX-sOE5NVlUcRLDt8qZgJIJ8",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 176,
+        "vicinity": "1 Place Marie-Adelaide, Ettelbruck"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.84714899999999,
+                "lng": 6.1044269
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8484600802915,
+                    "lng": 6.105790980291502
+                },
+                "southwest": {
+                    "lat": 49.8457621197085,
+                    "lng": 6.103093019708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fresh Paradise",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1868,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113292269353144301284\">Rody Rodman</a>"
+                ],
+                "photo_reference": "AdDdOWp8PXR69-Pmm8ssV5ln13vcup2nFgyWRR3Vo-99QPScI5HGFN6QcuNsRmZ5nqv-PoGykD1Kz5BuO7KtJBXwV4m8_S0lBZPAFn7_mlFNYzI_DCrVA3RPY_vQKEaQ3_xqEzhubNHzxdQoz5AujJOL9halWHOwz5bILGBKK4Og1CdAeQX1",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ9xDk7O1VlUcR7CCuXeoNYGw",
+        "plus_code": {
+            "compound_code": "R4W3+VQ Ettelbruck, Luxembourg",
+            "global_code": "8FX8R4W3+VQ"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ9xDk7O1VlUcR7CCuXeoNYGw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "45 Avenue J-F Kennedy, Ettelbruck"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.847216,
+                "lng": 6.099486000000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8486521802915,
+                    "lng": 6.101160880291502
+                },
+                "southwest": {
+                    "lat": 49.8459542197085,
+                    "lng": 6.098462919708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fischer",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 270,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117332747853423757046\">Fischer</a>"
+                ],
+                "photo_reference": "AdDdOWqdC6_s6bNB1JPz1HP4rgf11wo9AQC1tsLQzRAD7A6Afa0JcGZn8rPufEIo9iaKW5EapS78Ho00BFAVC3qNWJ-X_I8jPRpM3VYcuxGSHWgcwQVrRzSRAuyqYqwVN-JOQVPguXmKl_vKSEvM0L8H1h3OjQwIaF66oxV3kBBPAS8rmxws",
+                "width": 480
+            }
+        ],
+        "place_id": "ChIJFUHzSu1VlUcRAwXoD2m3YSA",
+        "plus_code": {
+            "compound_code": "R3WX+VQ Ettelbruck, Luxembourg",
+            "global_code": "8FX8R3WX+VQ"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJFUHzSu1VlUcRAwXoD2m3YSA",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 201,
+        "vicinity": "55 Grand-Rue, Ettelbruck"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.8480416,
+                "lng": 6.103738100000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8493506302915,
+                    "lng": 6.105126730291503
+                },
+                "southwest": {
+                    "lat": 49.8466526697085,
+                    "lng": 6.102428769708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Atithi",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103982252218804168819\">lex dupont</a>"
+                ],
+                "photo_reference": "AdDdOWpblUQDVrMhCs5UuXrwUEXg3EDNxLvn77QtulXF8t7a6ZINkMQNBJfZ6KOIfghJJk6DfCP6hQMtQ_gUDNY3l3E50mj4jlAkPzMGSzyx5e1_ljLau0BYrl0lRjqaxk8Q-se7QttcY6VfBlQ1iXXfZO_BrTCF7epF98mLIHCPDnie4FOO",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJl-62d_JVlUcRtaYut--AgTc",
+        "plus_code": {
+            "compound_code": "R4X3+6F Ettelbruck, Luxembourg",
+            "global_code": "8FX8R4X3+6F"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJl-62d_JVlUcRtaYut--AgTc",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 264,
+        "vicinity": "15 Avenue J-F Kennedy, Ettelbruck"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.8484965,
+                "lng": 6.104811199999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8498140302915,
+                    "lng": 6.106198930291502
+                },
+                "southwest": {
+                    "lat": 49.84711606970851,
+                    "lng": 6.103500969708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Les Etoiles Du Cap Vert S.a R.l.",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2736,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112672514513523838603\">52</a>"
+                ],
+                "photo_reference": "AdDdOWqBt96-wF156ApIP6ph4lzBwbLhP81aTKRaLpfMaYSNfxdzgh3rDd-lXCCAdPyK2wJoGzjbcg3RXdkPwUDalU4kVgsp1RqGFYgOs8X2k_jzpLTGbqyqC3qwROv26UUfT2Bn2TgR3DEtXyVvIfU-2FjNZH3Yd9miUr4tehoNSv-nT6f_",
+                "width": 3648
+            }
+        ],
+        "place_id": "ChIJD_kaDvJVlUcR5f_xNueID-Q",
+        "plus_code": {
+            "compound_code": "R4X3+9W Ettelbruck, Luxembourg",
+            "global_code": "8FX8R4X3+9W"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJD_kaDvJVlUcR5f_xNueID-Q",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 161,
+        "vicinity": "41 Avenue J-F Kennedy, Ettelbruck"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.84713750000001,
+                "lng": 6.0979247
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8484715302915,
+                    "lng": 6.099264680291501
+                },
+                "southwest": {
+                    "lat": 49.84577356970851,
+                    "lng": 6.096566719708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Bonne Etoile",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 6000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107144622769523341939\">peter-pal varga</a>"
+                ],
+                "photo_reference": "AdDdOWpdUAX1w_BP-FawePFcWRkA3BkyldM06f02NvUBzp3UsuLxXgitrnurjnSNi0rThnQSidFqDOoC_BckRllw3Tk7Bo_MpZM9dNAU2XkbdnrKA91gLfE5TETaK0jdxwEb4oQ6jvvSoFGEl4qq4rWE_Zw-z7z9UI0f_BBIjZnJm4MZBmyA",
+                "width": 8000
+            }
+        ],
+        "place_id": "ChIJn_LDv5JVlUcRoiVGTU3Tx_I",
+        "plus_code": {
+            "compound_code": "R3WX+V5 Ettelbruck, Luxembourg",
+            "global_code": "8FX8R3WX+V5"
+        },
+        "rating": 4.2,
+        "reference": "ChIJn_LDv5JVlUcRoiVGTU3Tx_I",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 95,
+        "vicinity": "18 Rue de Feulen, Ettelbruck"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.8460221,
+                "lng": 6.081951200000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8473749802915,
+                    "lng": 6.083319730291501
+                },
+                "southwest": {
+                    "lat": 49.8446770197085,
+                    "lng": 6.080621769708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+        "name": "Camping Ettelbruck",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109676241279261345728\">Camping Ettelbruck</a>"
+                ],
+                "photo_reference": "AdDdOWrNN4cjTK9LDDBvECQsc2UPcfE7YBa0ta6zXphzzBKYOW7_UFK30CcDGnYDLDz1_HCtHmJh0TMnsaeta_WfV_oesV3cAKJI35XA2n-1VRGJL7QfKiLeo4s4krfsi-H2gisR9JrvFe843kBbd3z4ZL0XB05zTufd-wC5x4_YbLu7JNGW",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJW31eVZpVlUcRqRSNuFl9XmQ",
+        "plus_code": {
+            "compound_code": "R3WJ+CQ Ettelbruck, Luxembourg",
+            "global_code": "8FX8R3WJ+CQ"
+        },
+        "rating": 4.5,
+        "reference": "ChIJW31eVZpVlUcRqRSNuFl9XmQ",
+        "scope": "GOOGLE",
+        "types": [
+            "campground",
+            "park",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 437,
+        "vicinity": "88 Chemin du Camping, Ettelbruck"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.85881159999999,
+                "lng": 6.136939999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.86010308029149,
+                    "lng": 6.138374880291502
+                },
+                "southwest": {
+                    "lat": 49.8574051197085,
+                    "lng": 6.135676919708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fischer",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 270,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114654150409600873090\">Fischer</a>"
+                ],
+                "photo_reference": "AdDdOWqfCbtKHD7js99O_EH3SEhMFR7D8hxJM6tyOFLz9pFidzyFe3Py1dGzWtt1NGzKB56b7D3_ulx3YqCfAAGUIi7VacBwHOaqb2p7Zs6hvsygTvzfMyrftmtuKMmltVitqdiwJJwi6MNWdMq9EDNeFJ0d9VGKoYS4gc7De8pp1OVY1KKz",
+                "width": 480
+            }
+        ],
+        "place_id": "ChIJN2N-avj9v0cREs4KIBHVin4",
+        "plus_code": {
+            "compound_code": "V45P+GQ Erpeldange, Luxembourg",
+            "global_code": "8FX8V45P+GQ"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJN2N-avj9v0cREs4KIBHVin4",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 85,
+        "vicinity": "Rue Du Cimetière"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 49.8587545,
+                "lng": 6.137087599999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8600882802915,
+                    "lng": 6.138459180291501
+                },
+                "southwest": {
+                    "lat": 49.8573903197085,
+                    "lng": 6.135761219708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "bati frites",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 1152,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105734177415965507364\">bati frites</a>"
+                ],
+                "photo_reference": "AdDdOWqU25Op24ru-u7WnvjlCYoZWN22KWZ3y2Yt6tWvx08D3Fkn8NzpnNQKA_K2LpkzyRyaZ32IdPYmx1vXzg8B6ahsjwsSZWFZt8sB3TkWOh2acchnUw22u4zBwt3RCPtO14Q_K8NH8mDPVkVj70LXDIza12-QVu-poHBtMvYH5-nZ4rMB",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJlY2xP_j9v0cRHIg7ULy1nzI",
+        "plus_code": {
+            "compound_code": "V45P+GR Erpeldange, Luxembourg",
+            "global_code": "8FX8V45P+GR"
+        },
+        "rating": 4.8,
+        "reference": "ChIJlY2xP_j9v0cRHIg7ULy1nzI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "INGELDORF LU, 0 Zone Industrielle"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.8588447,
+                "lng": 6.1404856
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.86016293029149,
+                    "lng": 6.141877230291503
+                },
+                "southwest": {
+                    "lat": 49.8574649697085,
+                    "lng": 6.139179269708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "McDonald's Diekirch",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108568263535108600597\">McDonald&#39;s</a>"
+                ],
+                "photo_reference": "AdDdOWo6tigcXt1Rjyi-t52bodw-MXKztfFbihXhTj7SMUBGNl-tFEDoIfZzIzHXNNMQZ4SN1G26kH5dCQuy8Bo8boDGk0pxBXIPnHZ-s8HHWMC2Qbr8OzVSEuuOPICtUhW1wYQZkHpBeTEm9Q_o3OBAV-LkgYzJ5PVln9o_p-Y6Dp7FevCz",
+                "width": 1000
+            }
+        ],
+        "place_id": "ChIJlersNstVlUcRyJiWThduGYs",
+        "plus_code": {
+            "compound_code": "V45R+G5 Erpeldange, Luxembourg",
+            "global_code": "8FX8V45R+G5"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJlersNstVlUcRyJiWThduGYs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1779,
+        "vicinity": "1A Route d'Ettelbruck, Erpeldange-sur-Sûre"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.815273,
+                "lng": 6.129582999999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.81632218029149,
+                    "lng": 6.131098230291501
+                },
+                "southwest": {
+                    "lat": 49.81362421970849,
+                    "lng": 6.128400269708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Diekirch",
+        "place_id": "ChIJoQfSAABXlUcRTze58pifHDI",
+        "reference": "ChIJoQfSAABXlUcRTze58pifHDI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "R48H+4R, Nommern"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.815273,
+                "lng": 6.129582999999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.81632218029149,
+                    "lng": 6.131098230291501
+                },
+                "southwest": {
+                    "lat": 49.81362421970849,
+                    "lng": 6.128400269708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Luxumburg",
+        "place_id": "ChIJ83hGTwBXlUcRa2e-EErCgxM",
+        "plus_code": {
+            "compound_code": "R48H+4R Nommern, Luxembourg",
+            "global_code": "8FX8R48H+4R"
+        },
+        "rating": 5,
+        "reference": "ChIJ83hGTwBXlUcRa2e-EErCgxM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "Luxembourg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.815273,
+                "lng": 6.129582999999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.81632218029149,
+                    "lng": 6.131098230291501
+                },
+                "southwest": {
+                    "lat": 49.81362421970849,
+                    "lng": 6.128400269708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Le Cafe Francaise",
+        "place_id": "ChIJxcBSbABXlUcR4MPExIHIIRs",
+        "plus_code": {
+            "compound_code": "R48H+4R Nommern, Luxembourg",
+            "global_code": "8FX8R48H+4R"
+        },
+        "reference": "ChIJxcBSbABXlUcR4MPExIHIIRs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Luxembourg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.815273,
+                "lng": 6.129582999999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.81632218029149,
+                    "lng": 6.131098230291501
+                },
+                "southwest": {
+                    "lat": 49.81362421970849,
+                    "lng": 6.128400269708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fameck",
+        "place_id": "ChIJYZxgOABXlUcRejb2ObBU78w",
+        "reference": "ChIJYZxgOABXlUcRejb2ObBU78w",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "R48H+4R, Nommern"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.81721,
+                "lng": 6.098144
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8185088802915,
+                    "lng": 6.099404830291502
+                },
+                "southwest": {
+                    "lat": 49.8158109197085,
+                    "lng": 6.096706869708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Friture Mr. Goufy Sàrl",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114791840842418920318\">Friture Mr. Goufy Sàrl</a>"
+                ],
+                "photo_reference": "AdDdOWoY106mHWURhcA9ZKqSxeF4XA7rL2UiOiLzVjCFZBJN_YbHNwc45SzauX7M_7Nf-cWEFeRgKhtIUMATWQsypzLVzYN9QpKJTs_V2AdTfODU8J7D9pu92B3Zir89AMEiMsfsY_r7RAcGpurquPnDhttBMS7_OZDaK9uBTAEh1bCfy7l8",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJN1glThBUlUcR5XtpYiXpOTA",
+        "plus_code": {
+            "compound_code": "R38X+V7 Schieren, Luxembourg",
+            "global_code": "8FX8R38X+V7"
+        },
+        "rating": 4.4,
+        "reference": "ChIJN1glThBUlUcR5XtpYiXpOTA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1387,
+        "vicinity": "Route de Cruchten"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.8175987,
+                "lng": 6.0977738
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.8189496802915,
+                    "lng": 6.099166580291502
+                },
+                "southwest": {
+                    "lat": 49.8162517197085,
+                    "lng": 6.096468619708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name": "Shell",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1075,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107711012111629531550\">Shell</a>"
+                ],
+                "photo_reference": "AdDdOWoGT-VV8Hf5SgHM8wI45V-8h0jCMWsTNKRGa2yL2O-mKFPw-QtK2yceSqvV2UkEgMLqGTDl3cbZQAruws3ApaYRMdYH9U91VZNRXp6m9LqY2EJUFzsWASh_QjlcjyL3xYTboWMSahjo-A7ojT2wQXCGp6xQkP4Jcq6QEAuSuTXodAQ5",
+                "width": 1907
+            }
+        ],
+        "place_id": "ChIJtaAbeDNUlUcRGFSVPng3wCk",
+        "plus_code": {
+            "compound_code": "R39X+24 Colmar-Berg, Luxembourg",
+            "global_code": "8FX8R39X+24"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJtaAbeDNUlUcRGFSVPng3wCk",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 24,
+        "vicinity": "Rue d'Ettelbruck Colmar-Pont, Colmar-Berg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 49.8119622,
+                "lng": 6.0967144
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.81338433029151,
+                    "lng": 6.098060380291502
+                },
+                "southwest": {
+                    "lat": 49.81068636970851,
+                    "lng": 6.095362419708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "belvalux",
+        "place_id": "ChIJG5adbQBVlUcRsROMLl0LZgU",
+        "plus_code": {
+            "compound_code": "R36W+QM Colmar-Berg, Luxembourg",
+            "global_code": "8FX8R36W+QM"
+        },
+        "reference": "ChIJG5adbQBVlUcRsROMLl0LZgU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "vicinity": "Luxembourg"
+    }
+]

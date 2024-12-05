@@ -1,0 +1,66 @@
+{
+    "name": "KRISTAL",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Svetlana Smaglii",
+            "author_url": "https://www.google.com/maps/contrib/110301416542686086747/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVl2kS0-l5xrVS3yhIBltuvJ1s3dkOtm4YeukzXoIQrI3duNcE=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Generous portions (the photos don’t do the size justice), friendly staff, and incredibly delicious food. I highly recommend this place! It’s a restaurant with traditional Montenegrin cuisine and hospitality.",
+            "time": 1729610753,
+            "translated": false
+        },
+        {
+            "author_name": "Rahul",
+            "author_url": "https://www.google.com/maps/contrib/115103313368932855630/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTFy_Glf7FebFby0DTBQB07x_8-QKcr8N--MgSKZJNf4Deq46u=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I was in podgorica only for 3 hours before heading to the airport, and this is the only place I visited in the daytime for lunch after looking at the good reviews on the map and indeed it was a correct decision.\n\nThe food was absolutely delicious 😍 and quite reasonable in comparison to the ones in Kotor. We ordered the vegetarian and diavola pizza, and these are some of the best pizzas I have ever had. The total bill for 2 pizzas and 3 beer was around 17 Euros, which was very reasonable.\n\nThe menu was available in English. The service was ok. The waiter knows some sort of English but not fluently. Overall, it's a recommended restaurant to visit in Podgorica.",
+            "time": 1719766921,
+            "translated": false
+        },
+        {
+            "author_name": "Albert dominguez Cros",
+            "author_url": "https://www.google.com/maps/contrib/108457487218220598243/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFVd4qoFHFd8KuLaYaZCNi_Aox4D_ldn_A0BfJ-Lbn6bRSWCJU=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Good restaurant. The food was delicious and the service was good. They speak english, this is always a pro when you are traveling.\n\nYou might have place to park just in front of the restaurant. Only negative point is that their menu is in their local language, but it’s normal since you are in their country (Just use google to check).\n\nIn the picture you have ‘Svinjska koljenica’, and I’m sure you can ask the waiter for some recommendations.",
+            "time": 1728479303,
+            "translated": false
+        },
+        {
+            "author_name": "Sinan küçüköz",
+            "author_url": "https://www.google.com/maps/contrib/116963284281219501933/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbpeVVqY_uRCI5s-XjedlwViTSUP2aa6ue68HPBg1xfj07M1jEKA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Probably one of the best places to eat in Podgorica. It would be a shame to return without eating here. The kitchen is  a little bir slow but it’s worth it. Popeci especially Rocks!",
+            "time": 1729342332,
+            "translated": false
+        },
+        {
+            "author_name": "Kedar B.",
+            "author_url": "https://www.google.com/maps/contrib/113050933807184449424/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4225OGbC4p0oo7X2qrr5fQHFvaSehmgJFzf_uOEYHK161cA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "That was the biggest burger we have ever had.\nFood was fantastic.",
+            "time": 1722704103,
+            "translated": false
+        }
+    ]
+}

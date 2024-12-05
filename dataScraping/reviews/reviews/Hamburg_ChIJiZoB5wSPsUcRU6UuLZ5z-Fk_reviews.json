@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant Kartoffelkeller",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Ruby M",
+            "author_url": "https://www.google.com/maps/contrib/113724888024572345454/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR49Fy8dFugROYxUxkm5yDxlP23sTdycx08OKvMfk9l1_gYQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Really impressed with the level of service and detail our waiter had.\nFood was nice and affordable.",
+            "time": 1722035477,
+            "translated": false
+        },
+        {
+            "author_name": "Connor Wilson",
+            "author_url": "https://www.google.com/maps/contrib/107721950170095955771/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg46Mzy8Yhd37wE09_Tk7ZSzCAr_4QFew3iaZ2Gzh9CtHDU2l_Fw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very nice resturant, we had the pleasure of sitting downstairs. Nice burger and good choice of beers. Staff very friendly and chatty",
+            "time": 1724493122,
+            "translated": false
+        },
+        {
+            "author_name": "Bianca Smith",
+            "author_url": "https://www.google.com/maps/contrib/108514796430801444531/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2au5ZWm7yGTCV1GK55VIDeBfkh7goenVCx9OABOsjivClwA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "11 months ago",
+            "text": "Personally, the restaurant is very overpriced for what you get. I thought this was going to be really good food but it wasn’t. I ordered the Schnitzel and yes it’s very large BUT, it comes with no sauce which means it’s very dry. It has no salt and mine was overdone and it’s chicken so you can imagine how I had to chew. It really wasn’t worth it.\nThe staff was friendly.\nDespite giving extremely large portions, they don’t have take away boxes and gave us a piece of foil to wrap our food in.",
+            "time": 1704040980,
+            "translated": false
+        },
+        {
+            "author_name": "Arkadija P. (Photo owl)",
+            "author_url": "https://www.google.com/maps/contrib/109883752031193714768/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3glRSNjNnxUpYjPQjp1Og-hJxW3047UNI9bVcRAQJSA1oJn_b=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very beautiful street on which the restaurant is located. Cozy atmospheric place inside, candles in the evening add the mood and I liked the view from the window on the canal. Very friendly staff, they found us a table for an hour even without a reservation. I ordered the drumsticks with apple sauce, an unusual combination, but it was tasty, a good size portion. I think it's a great place for a company of friends or a date.",
+            "time": 1699273944,
+            "translated": false
+        },
+        {
+            "author_name": "Sergey Grekov",
+            "author_url": "https://www.google.com/maps/contrib/103415933750528364900/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUR0KNMSP74f0Juk7mqqUw0lDqg9vduyz6bqGnS6iNNUOPeuctAQg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "Terrible service that ruined a great day for us. There were quite a lot of free tables and we sat on the table the had no reserved label. The waitress condescendingly explained that usually they don't allow, but they will allow us to sit. Not sure what was the purpose of this message, but the mood was spoiled",
+            "time": 1727020257,
+            "translated": false
+        }
+    ]
+}

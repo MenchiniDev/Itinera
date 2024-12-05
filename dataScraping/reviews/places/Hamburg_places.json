@@ -1,0 +1,1044 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.54629139999999,
+                "lng": 9.9810638
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5475456802915,
+                    "lng": 9.982383630291503
+                },
+                "southwest": {
+                    "lat": 53.5448477197085,
+                    "lng": 9.979685669708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "THE MADISON Hotel Hamburg",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3070,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102824416632135697516\">THE MADISON Hotel Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWqi45tC72KmSSbUNxkykncbNV2jw1r8fHNkxkFKU3q9uh6hpkPFk1ef84hDH9BtMfC6_V8xHjuvyJHlwukktRxI9O1L9nBAwkHrrc_wTEQuygxMrEHmoEeWIBX8nskxfQ3z08_kMLVhDG6SJxbDRMHwPtUsrnT45hN57tTGu7qaXG1i",
+                "width": 4605
+            }
+        ],
+        "place_id": "ChIJP9-RmA-PsUcRzaexTVBsidM",
+        "plus_code": {
+            "global_code": "9F5FGXWJ+GC"
+        },
+        "rating": 4.8,
+        "reference": "ChIJP9-RmA-PsUcRzaexTVBsidM",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1987,
+        "vicinity": "Schaarsteinweg 4, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5566361,
+                "lng": 9.986638899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.55793333029149,
+                    "lng": 9.987978480291503
+                },
+                "southwest": {
+                    "lat": 53.55523536970849,
+                    "lng": 9.985280519708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "SIDE Design Hotel Hamburg",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1334,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115773649769763032884\">SIDE Design Hotel Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWqICYpPCY5nFBc-I4FPMatwecNhY-IreEI_8UpD11-Vh5UEeDL1HcI91BkDsJWO4-brksF-XCkMcXZNZ9FbEjLP4pQeHZaxMrjMRVZFQdpcdFgEmYIOT05_Butajp15ryf7UuxkJzmjp1q0nOySjziTiNVoV32KYYLuwuMLpV9ujZbO",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJM_-dhxePsUcRPYpAi8Pg6a0",
+        "plus_code": {
+            "global_code": "9F5FHX4P+MM"
+        },
+        "rating": 4.5,
+        "reference": "ChIJM_-dhxePsUcRPYpAi8Pg6a0",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1933,
+        "vicinity": "Drehbahn 49, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.54142119999999,
+                "lng": 9.999256299999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5427939802915,
+                    "lng": 10.0007299802915
+                },
+                "southwest": {
+                    "lat": 53.5400960197085,
+                    "lng": 9.998032019708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "25hours Hotel Hamburg HafenCity",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 6048,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101558584939343832744\">25hours Hotel Hamburg HafenCity</a>"
+                ],
+                "photo_reference": "AdDdOWogRqocxcVG3xp0VzknQfvWa81gl2mipAW6Pjdyee-g6Uoua9UGG--J7GAFU4mZx9aFnfr2fLo36k8W8WL9HyBkEYzJp-Nd7x9C1E7Z2LzMfWf6GjDePToZxqTf7iJ20U6O0Khei4K4LpJmhFJ-BgLccjD8aHtO0snOYeZI6Mudu1ya",
+                "width": 4024
+            }
+        ],
+        "place_id": "ChIJZ7ipIB-JsUcRWGV3LEfEgsw",
+        "plus_code": {
+            "global_code": "9F5FGXRX+HP"
+        },
+        "rating": 4.5,
+        "reference": "ChIJZ7ipIB-JsUcRWGV3LEfEgsw",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2346,
+        "vicinity": "Überseeallee 5, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.54696970000001,
+                "lng": 9.9694686
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5484986802915,
+                    "lng": 9.970529980291502
+                },
+                "southwest": {
+                    "lat": 53.54580071970851,
+                    "lng": 9.967832019708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Hafen Hamburg",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1802,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109566417682589818392\">Hotel Hafen Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWqysIenaqI-ZECbY60N9WYB_uJIAE971J4UIu_nG9nCvCV75wyFun2TSKyHApZOx4nUgvMCwqC9qiLSO4HTrX2m2DjUF8_PHx1qBC6eK9z2ujNb5qzsFMz-n5ped_6AG3BO5giiZi3gOSnaqbm7Ky7mW8ijzNwC7PkfR-E2ITsRH_wy",
+                "width": 2700
+            }
+        ],
+        "place_id": "ChIJD-SwLw2PsUcR5Vnq4h7Tg1A",
+        "plus_code": {
+            "global_code": "9F5FGXW9+QQ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJD-SwLw2PsUcR5Vnq4h7Tg1A",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7929,
+        "vicinity": "Seewartenstraße 9, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5615554,
+                "lng": 9.987446699999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5627023802915,
+                    "lng": 9.9892455802915
+                },
+                "southwest": {
+                    "lat": 53.5600044197085,
+                    "lng": 9.986547619708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu Hotel, Hamburg",
+        "photos": [
+            {
+                "height": 682,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101516295562836059858\">Radisson Blu Hotel, Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWrb6LQaeJOVkg8BLqh7nVvmfjaBJPdfHb7qD7Nrms9s2blYci_33DMo6UohADQv-cnlrAXPHkSHnLZHTnKez5fQ65IMKxCZ-AeSg0ufvAMUxdw6AQ3P1QrXU2eImQSoYac_hffyoBXUmG2SRkPYmtAYGD7MK1wRe_-WFwZlLjayyHQ",
+                "width": 1023
+            }
+        ],
+        "place_id": "ChIJC1HR3jyPsUcRy0UhCcVRUBM",
+        "plus_code": {
+            "global_code": "9F5FHX6P+JX"
+        },
+        "rating": 4.3,
+        "reference": "ChIJC1HR3jyPsUcRy0UhCcVRUBM",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4814,
+        "vicinity": "Congressplatz 2, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5527404,
+                "lng": 10.0093618
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.55407168029151,
+                    "lng": 10.01077008029151
+                },
+                "southwest": {
+                    "lat": 53.55137371970851,
+                    "lng": 10.0080721197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Generator Hostel Hamburg",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4640,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116976590193785939429\">Mona Theodoridis</a>"
+                ],
+                "photo_reference": "AdDdOWqwKM-dpGufmt-aXQFpg8dOg-NY2tofJo9rf5WZvd39z0jTkEo55xgjPRzEy7jE6REMbiLCLL-NgAqx9kmeZa0EowL0KLf7ivJZpvKATJWhT4rwlO14IMtIpOHmQ3znhjs8jTcc6AnEWmfnYsF--gAJRFdbYhhzocEm_15S4SUfKIRq",
+                "width": 3472
+            }
+        ],
+        "place_id": "ChIJ9dI4ueaOsUcRfd9RchFeWAU",
+        "plus_code": {
+            "global_code": "9F5GH235+3P"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ9dI4ueaOsUcRfd9RchFeWAU",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4191,
+        "vicinity": "Steintorplatz 3, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5472372,
+                "lng": 9.9633163
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.54847083029151,
+                    "lng": 9.964673730291501
+                },
+                "southwest": {
+                    "lat": 53.54577286970851,
+                    "lng": 9.961975769708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Empire Riverside Hotel Hamburg",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1535,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103080022108325784540\">Empire Riverside Hotel Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWrNpRZKEJpHbMwiHLQJbCT66Z-Xb8XH2bbh1-w6NQXjJfAt6zsvkJiENYhZiIWiUZMAaXTtJI4wMX01kQerBicAJH2it8Cegtp2E-hz_5FZ_THRU7PUrTpmZNhZqKmLB17kTTjqhhIa7KE9xUveFZ97GyXnQ5mlAJXYE9vEWZfifN8p",
+                "width": 2300
+            }
+        ],
+        "place_id": "ChIJlWNyS3KPsUcRq2pjdWy_hkM",
+        "plus_code": {
+            "global_code": "9F5FGXW7+V8"
+        },
+        "rating": 4.6,
+        "reference": "ChIJlWNyS3KPsUcRq2pjdWy_hkM",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7327,
+        "vicinity": "Bernhard-Nocht-Straße 97, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5434955,
+                "lng": 9.9787231
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5451381802915,
+                    "lng": 9.980027630291504
+                },
+                "southwest": {
+                    "lat": 53.5424402197085,
+                    "lng": 9.9773296697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Das Feuerschiff LV 13",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117217540158992027580\">Das Feuerschiff LV 13</a>"
+                ],
+                "photo_reference": "AdDdOWpUjDBsSPMM6XfJ1yZGaQXMETunc8OwGyqJ9epXlG_I9wx7xvMIqE142__iF95x3zPmSZzgElfv_kaFQJ6_FWg477eBMcBcdVmc-6K7RuGXfLP31fGr-j_26HxnWOxodjGS4V7xQcXG4jR8r8zqp_JLMV38wzp-jxX81GbLOEqedhXa",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJAz1A3A6PsUcRcP_7y5jEls8",
+        "plus_code": {
+            "global_code": "9F5FGXVH+9F"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJAz1A3A6PsUcRcP_7y5jEls8",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3389,
+        "vicinity": "City Sporthafen, Vorsetzen, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.55119029999999,
+                "lng": 9.965886200000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.55246933029149,
+                    "lng": 9.967224480291504
+                },
+                "southwest": {
+                    "lat": 53.54977136970849,
+                    "lng": 9.9645265197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "east Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4355,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116232906516608328761\">east Restaurant</a>"
+                ],
+                "photo_reference": "AdDdOWpGlK0GTlxaASnuUqT3kj3IfFFNKV9l-XU3q5_fJr3CQMLvQmpMC-GT-ZhkCOiE1ngcbQh2lNF6bgGq-UO7DPoRgL52xQYoqZINBLzDjtFVzFtUpn9w20C0XPfUaY7AUm3rQ3xD-nJMJyIT5m_a95r4ep2r4hXPUCFG3Q-TdTNDYVwH",
+                "width": 3484
+            }
+        ],
+        "place_id": "ChIJ0fCwoW2PsUcRDftLG4WA6lI",
+        "plus_code": {
+            "global_code": "9F5FHX28+F9"
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "ChIJ0fCwoW2PsUcRDftLG4WA6lI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 923,
+        "vicinity": "Simon-von-Utrecht-Straße 31, Hamburg"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 53.5539638,
+                "lng": 10.0086322
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5553256802915,
+                    "lng": 10.0098543802915
+                },
+                "southwest": {
+                    "lat": 53.5526277197085,
+                    "lng": 10.0071564197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Europäischer Hof",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107072793343734694252\">Hotel Europäischer Hof</a>"
+                ],
+                "photo_reference": "AdDdOWoJHKAJMMAB2g2nI9HCQQxAK7rwayf-k6A9wItenns8jlheAsCeaWXtQwE0oRcbq5mcZlXoUDjvgIB8gLAZ3P3piBJdjpD_E0EZjFGfXTE7nfXSOWo-BZb2jEyFOsIJwxkVrSJEix7zixeJ0ln1jCw44Ngj7E8k1kYXG2gLpUcJvrZM",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJJ26FK-GOsUcRkNhnzNiacj0",
+        "plus_code": {
+            "global_code": "9F5GH235+HF"
+        },
+        "rating": 4.2,
+        "reference": "ChIJJ26FK-GOsUcRkNhnzNiacj0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2274,
+        "vicinity": "Kirchenallee 45, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.55154009999999,
+                "lng": 10.0184014
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5528829302915,
+                    "lng": 10.0197530302915
+                },
+                "southwest": {
+                    "lat": 53.5501849697085,
+                    "lng": 10.0170550697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Junges Hotel Hamburg",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4380,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103827805392214682133\">Junges Hotel Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWrEmQ1URPl57RxGt_XtxX78FKRPmXaiQcFL2COIRoK-4t4ndbmt0U_vn2Pt_3FGGloIZN_LQdPB6NWnMQVGh_ywTGDE357rtot3GEudDDlwwViMBi7ps2gSRtkkRbOvooAPC_1R-xyU7lPfbBaFFGtZUPU_fnhi25oFyBSxbMA0hjfP",
+                "width": 2920
+            }
+        ],
+        "place_id": "ChIJg5MDwuiOsUcRiffwExVnl4U",
+        "plus_code": {
+            "global_code": "9F5GH229+J9"
+        },
+        "rating": 4.2,
+        "reference": "ChIJg5MDwuiOsUcRiffwExVnl4U",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 905,
+        "vicinity": "Kurt-Schumacher-Allee 14, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5576028,
+                "lng": 9.991434399999997
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.55901533029149,
+                    "lng": 9.992783280291501
+                },
+                "southwest": {
+                    "lat": 53.55631736970849,
+                    "lng": 9.990085319708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Kleinhuis Hotel Baseler Hof Hamburg",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106127081907658482005\">Kleinhuis Hotel Baseler Hof Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWr6aLDMFiZis5ngkrOQYO-jzao4J-LClJfl-rIiF8GwV4K2vYD2wb76iaFX8ZUQur93iW99jtS2ZmyD5uYrT9TvtmKHNfad15M7AO8pGGe9dzue2t8dvWYO52B-neCH2S71Cee8wxK2yGizT8XamKeVFXGfWIdIHgDlnfG3Ykl_9hjW",
+                "width": 781
+            }
+        ],
+        "place_id": "ChIJHfmCYhiPsUcRhvM8DyR_7Sk",
+        "plus_code": {
+            "global_code": "9F5FHX5R+2H"
+        },
+        "rating": 4.3,
+        "reference": "ChIJHfmCYhiPsUcRhvM8DyR_7Sk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1521,
+        "vicinity": "Esplanade 11, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5628201,
+                "lng": 9.918720699999998
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.56424408029149,
+                    "lng": 9.919871030291501
+                },
+                "southwest": {
+                    "lat": 53.5615461197085,
+                    "lng": 9.917173069708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Gastwerk Hotel Hamburg",
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110506255372384907044\">Gastwerk Hotel Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWq9lE8U0CF00VdszWHyqt47G9O00L-rQw5T5FDLAayv4OEr4XKUrXq2uKr2r19C_gxuYBHQs0N6uGiKz226Tl2JyXM3fVRIssOIjJenu_O2GV3XrxmRBiLmB12OoGGX6XqPs1DAztr0DhxkGXa4wHuEXyHrRhtFPDgIB4K5z0ARH7v3",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJ_b6n7JSFsUcRJsZpZONNZZM",
+        "plus_code": {
+            "global_code": "9F5FHW79+4F"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ_b6n7JSFsUcRJsZpZONNZZM",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1936,
+        "vicinity": "Beim Alten Gaswerk 3/EG, Hamburg-Altona"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.56996669999999,
+                "lng": 9.966627899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5711828302915,
+                    "lng": 9.9681523302915
+                },
+                "southwest": {
+                    "lat": 53.5684848697085,
+                    "lng": 9.965454369708496
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "YoHo - The Young Hotel",
+        "photos": [
+            {
+                "height": 4466,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102638381946733636177\">YoHo - The Young Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWok87rDB0rShz8arERhv8ta4eFUIhChLOi31nF2D5dYA5l7jOCrRqvfZ5Z1CfFtqg7KkL2UcA7qcr1AmUuNQs2zljJxIhrfYB1BTvuiq5Bq6Pr2IaA18WIBkfR-Wsw8iNKvaIJxMU01JCJMbJeMbDvHpiYjvQMIN-CkIwHsltP96jaO",
+                "width": 6699
+            }
+        ],
+        "place_id": "ChIJhUlVvEWPsUcR2HWK4-61BQE",
+        "plus_code": {
+            "global_code": "9F5FHX98+XM"
+        },
+        "rating": 4.5,
+        "reference": "ChIJhUlVvEWPsUcR2HWK4-61BQE",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 410,
+        "vicinity": "Moorkamp 5, Hamburg-Eimsbüttel"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.55561780000001,
+                "lng": 9.991548600000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5569430802915,
+                    "lng": 9.993008780291502
+                },
+                "southwest": {
+                    "lat": 53.55424511970851,
+                    "lng": 9.990310819708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Fairmont Hotel Vier Jahreszeiten",
+        "photos": [
+            {
+                "height": 4468,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117308096253947384733\">Fairmont Hotel Vier Jahreszeiten</a>"
+                ],
+                "photo_reference": "AdDdOWqCpqA7GfOxtAsln0Iz1fkWZ2SXMPO3VOfnEwdggcGbjdTHstV6B9z8OU01r_f_a3R-xgLWEVWT1xtdcvf1u9riA-UUBVQgGMPuV8FSW1h981bEmMnxDiOlHRhdkpBQOCp5JB3vnWe_i4VPq8Msg6gbITrY5vkc0vnFXkd8T2GpKxZL",
+                "width": 6702
+            }
+        ],
+        "place_id": "ChIJ78O2HRmPsUcRRX8fUCLLmbk",
+        "plus_code": {
+            "global_code": "9F5FHX4R+6J"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ78O2HRmPsUcRRX8fUCLLmbk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1977,
+        "vicinity": "Neuer Jungfernstieg 9 14, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.54714800000001,
+                "lng": 9.996279200000004
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.54854988029151,
+                    "lng": 9.997966130291504
+                },
+                "southwest": {
+                    "lat": 53.54585191970851,
+                    "lng": 9.995268169708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Gröninger Privatbrauerei Hamburg",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1192,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101487359166556631923\">Gröninger Privatbrauerei Hamburg</a>"
+                ],
+                "photo_reference": "AdDdOWogYt5n9y0xd5sGabNjP7FWeQgEwXKZIV3bjv-oEYGOgYWG3XD9BeK0LDNNS3SjbbTbNYQSRsvnferE1F1TT9JrN35PCStYuzXWdc7M-LuAopSSlN4wbWb3GGGif8nvUNfA86rDMg9GXNtlSldBQKJtnsHhZ0bg9rZWdq2aDhUaXsaG",
+                "width": 2119
+            }
+        ],
+        "place_id": "ChIJSwlmMx2PsUcRzsvcuSXUK_c",
+        "plus_code": {
+            "global_code": "9F5FGXWW+VG"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJSwlmMx2PsUcRzsvcuSXUK_c",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1576,
+        "vicinity": "Willy-Brandt-Straße 47, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5462461,
+                "lng": 9.987544200000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.54763258029149,
+                    "lng": 9.988873380291501
+                },
+                "southwest": {
+                    "lat": 53.54493461970849,
+                    "lng": 9.986175419708497
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurant Kartoffelkeller",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116635079283634183811\">Restaurant Kartoffelkeller</a>"
+                ],
+                "photo_reference": "AdDdOWpuyfmjFueucueHrPfQz5w-Vc6MgDblNFR9r0BfzzJmAg3vpyOPjHMPUarBF3Rhbw1mAzWPn52xKdEUrR2_TgGglwPEHU4D0ZH36uPE1xFoxpL_9PrYUUpOEKkCV30lU8-lwCbqtFe1X-l6MFaprcThoJe66DSGH4QZweBqLdk6jT5R",
+                "width": 600
+            }
+        ],
+        "place_id": "ChIJiZoB5wSPsUcRU6UuLZ5z-Fk",
+        "plus_code": {
+            "global_code": "9F5FGXWQ+F2"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJiZoB5wSPsUcRU6UuLZ5z-Fk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2742,
+        "vicinity": "Deichstraße 21, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.55123210000001,
+                "lng": 10.0031978
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5525892302915,
+                    "lng": 10.0043728802915
+                },
+                "southwest": {
+                    "lat": 53.5498912697085,
+                    "lng": 10.0016749197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Tschebull Restaurant|Beisl|Bar",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1367,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102266216860559021439\">Tschebull Restaurant|Beisl|Bar</a>"
+                ],
+                "photo_reference": "AdDdOWoP3gjRnY_T3a9FPBMMx7LWX1sts2edSc57LT0t12rnk9CXajyeOO83AI03Znm69j-jyKPT3YDdPOhHsFXTlOBk2dbj7FGAByFMrI72f93IJ7Fu7W5O-lEgsi3IH-JLa64Gwva131x7vyxwgvVnrcVF2QM5X3b3Kste5p-J-4KVThmi",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJkTWSOuKOsUcRlC_lmchDDb4",
+        "plus_code": {
+            "global_code": "9F5GH223+F7"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJkTWSOuKOsUcRlC_lmchDDb4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1485,
+        "vicinity": "Mönckebergstraße 7, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.5496346,
+                "lng": 9.9933221
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5509236302915,
+                    "lng": 9.994717580291503
+                },
+                "southwest": {
+                    "lat": 53.5482256697085,
+                    "lng": 9.992019619708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "mama trattoria Hamburg Rathaus",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103372343310325896511\">mama trattoria Hamburg Rathaus</a>"
+                ],
+                "photo_reference": "AdDdOWpXfz1mBTCqMvMTkV1gdxYfUezAWAfpx8RCInbbm9l6QALJJj_lE_KSeKCZswPdfuOOD6mfk2B-Lnb2MQQzMoxNJ-cuzrf4fI6ubMNf3oYXfKFZpilD-8muJYZRdLuTNGwtyRPGuYC08PkiR8CO3uVc9H3HAdN2e9Ss8kOpfgQOAxwA",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ49YejByPsUcR4ucga2uU2mc",
+        "plus_code": {
+            "global_code": "9F5FGXXV+V8"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ49YejByPsUcR4ucga2uU2mc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1681,
+        "vicinity": "Schauenburgerstraße 44, Hamburg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 53.54620029999999,
+                "lng": 9.9769498
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.5475747802915,
+                    "lng": 9.978325530291503
+                },
+                "southwest": {
+                    "lat": 53.5448768197085,
+                    "lng": 9.975627569708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Panthera Rodizio",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 636,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117513111875233394408\">Panthera Rodizio</a>"
+                ],
+                "photo_reference": "AdDdOWp8AAHVQAf9JuENPLrtQ063Kue0jt4VPP5CXfJ0x0KjiFQbUi_NF-VBGq5dmJ_NC19W2VvF4BfhokzLM4cQydFtCra14X9Nn91Q_MNFvWQVMtcXC05o8Y4HfyYLceRzAQmlR6C65OYWyetUl6I-xGzglIdiJNLX82cjLtffIMOxu6UV",
+                "width": 848
+            }
+        ],
+        "place_id": "ChIJC5boYg6PsUcRYkxGT2lVrz4",
+        "plus_code": {
+            "global_code": "9F5FGXWG+FQ"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJC5boYg6PsUcRYkxGT2lVrz4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9323,
+        "vicinity": "Ditmar-Koel-Straße 3, Hamburg"
+    }
+]

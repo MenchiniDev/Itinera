@@ -1,0 +1,66 @@
+{
+    "name": "Taberna de La Daniela Goya",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Barbara Conde",
+            "author_url": "https://www.google.com/maps/contrib/110230209859776436566/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOgGzy87EIva1yWQ_OAKGysXMHBNPTNNnHt8kvr8i6pV12NA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Very cozy restaurant. Absolutely delicious Cocido Madrileño and the apple tart with cream.\nSpecial thanks to our waiter Santos who went above and beyond.\nKeep it up!",
+            "time": 1692156686,
+            "translated": false
+        },
+        {
+            "author_name": "DiAl GoAg",
+            "author_url": "https://www.google.com/maps/contrib/103686634776753141477/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBbSDYy9oa4ayS_Ee6kWOWqptFksXG6Eg2-nDAAVmR1hwudZJT=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Good equilibrium among prices, quality and quantity!!. The taste of the “cocido madrileño “ it was so good 😊!! The treatment was excellent, it was fast and kind!, thanks 🙏. Very recommendable",
+            "time": 1664316258,
+            "translated": false
+        },
+        {
+            "author_name": "Roman Vilensky",
+            "author_url": "https://www.google.com/maps/contrib/103330249638336911835/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGt9tKv1thh3o3pXl96v6YOrdXzkPkmos9PCiQ199xNID5szs0Pg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "One of my favorite restaurants in the world. Everything that came out of that kitchen tasted delicious. The atmosphere and decor is relaxing and rustic and the waiters are smiling and helpful.",
+            "time": 1692124986,
+            "translated": false
+        },
+        {
+            "author_name": "Jose Ruiz Morcillo",
+            "author_url": "https://www.google.com/maps/contrib/105679325390003562139/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLTBbCd-bKFFkhKI2GEdT6ViP3fAHUhdGJNA5Wva6ORDgJHnhs=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Historic place. Nice ambient. Staff very friendly. Excellent food. Typical cocido madrileño. Desserts are delicious. Good price. I really recommend this place to enjoy \"cocido\"",
+            "time": 1502347525,
+            "translated": false
+        },
+        {
+            "author_name": "Виолета Владова",
+            "author_url": "https://www.google.com/maps/contrib/105521192285117913981/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcVShj17jpq_CbdkbrpFT_QybdyuQjq36k1udEJqyXvXoVMcI=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "Very unprofessional attitude from the staff. No one came to show us where to sit even when we waited for 10 minutes and this even though there were empty tables. No communication, complete silence and ignoring. Rude! We never managed to try the food because we looked for a place with friendlier people. Fortunately, there are many restaurants in Madrid with good food, polite service and a pleasant atmosphere, and there is no need to waste time and nerves with this particular restaurant.",
+            "time": 1714501861,
+            "translated": false
+        }
+    ]
+}

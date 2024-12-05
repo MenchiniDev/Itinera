@@ -1,0 +1,66 @@
+{
+    "name": "Restaurante Milos - La Parrilla Griega",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Karen MR",
+            "author_url": "https://www.google.com/maps/contrib/112014669930073419874/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXRyuuNfa0quTiZRFWfg0W2QMBZbcPpFHSAkVEnUo1I2vuy0wYxQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Greece in Madrid!\nYummy food, great atmosphere and live band on Thursday!!!\nI didn't loved the service because the waitress made me feel a little bit uncomfortable but other than that I would recommend this place",
+            "time": 1731406499,
+            "translated": false
+        },
+        {
+            "author_name": "Doga Ozyurekli",
+            "author_url": "https://www.google.com/maps/contrib/111520926136335254366/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYVKsNSZv26ZT93tScYgOQ63b4uAo1R-JhAEdkFEH05z6AdQf92g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Normally I am a fan of greek food and almost every summer I have a greek island visit. This is the first greek restaurant I’ve tried in Madrid, therefore it is not very easy to benchmark it. Even though the food did not feel purely same as in Greece, it was good enough I believe. The service was good, prices were OK. In conclusion Milos is a good option to try greek food.",
+            "time": 1707045744,
+            "translated": false
+        },
+        {
+            "author_name": "N.K Z.Z.V",
+            "author_url": "https://www.google.com/maps/contrib/105477345274947525634/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOaxqtAISosLzXJNTfOcOOsUMXn5NAgQh6bnYyrf6V5N8lkg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Incredible food if you let your self be recommended by the owners, that normally they are at the restaurant. It has everything that a Greek cousin can offer, depending on the area of Milos.\nGood atmosphere, they have improved the acoustic and now is much more calm. I have been there 3 times in las 6 months. That is a lot for a person who travels for work.",
+            "time": 1699989808,
+            "translated": false
+        },
+        {
+            "author_name": "Pablo Hernandez",
+            "author_url": "https://www.google.com/maps/contrib/118293614312610782885/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdp3Yf6Dc8daFruPSWibxeRRwSgM5OXfAHpu8BpE4sVLByTCGC=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "The food was amazing. Authentic Greek dishes.\nThe service was fast, the staff is well trained and knowledgeable about the menu options",
+            "time": 1732433322,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Saxby",
+            "author_url": "https://www.google.com/maps/contrib/112544630198112070344/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzQ5CMtBgUAWeo281mpfBBlYkWUHc3Ql-EFer35Rpb5QunNv5m=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "This place is delicious you will not be disappointed everything tasted fresh check out the photos",
+            "time": 1694698159,
+            "translated": false
+        }
+    ]
+}

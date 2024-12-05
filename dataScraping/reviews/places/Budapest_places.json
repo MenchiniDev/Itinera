@@ -1,0 +1,1073 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.508282,
+                "lng": 19.0595493
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5095685302915,
+                    "lng": 19.0608009802915
+                },
+                "southwest": {
+                    "lat": 47.5068705697085,
+                    "lng": 19.0581030197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu Beke Hotel, Budapest",
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111608616266558444169\">Radisson Blu Beke Hotel, Budapest</a>"
+                ],
+                "photo_reference": "AdDdOWoUAp-pZF-Wpu2VncPMHKSd9i63DvFqYVRngejQ1324fqgi3shC6HCQNi0P4A5hCzPsm-JblgTjrFfRSytPtkxVa4gZXkw5M9_CtUvsr2oFYUU6VxF82lFIjoglDrWZJGEC7zCXQsVZDkx7SM_KcQkWvB9ZfT9PI_9I3wHBkml0Bb9w",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJ48uRoXLcQUcRY9cq9gdzH1s",
+        "plus_code": {
+            "compound_code": "G355+8R Budapest, Hungary",
+            "global_code": "8FVXG355+8R"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ48uRoXLcQUcRY9cq9gdzH1s",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 4001,
+        "vicinity": "Budapest, Teréz körút 43"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.472167,
+                "lng": 19.0201056
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.4734303302915,
+                    "lng": 19.0215506802915
+                },
+                "southwest": {
+                    "lat": 47.4707323697085,
+                    "lng": 19.0188527197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Rubin Wellness & Conference Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 593,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117570002983418465636\">Rubin Wellness &amp; Conference Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqVIBdYO0SwkCOwXCa8YM4BVe1vaFNrjE18oFxDbwtYUf5QcA0rH5Ki9Ti66e2G5qNK8tuEfl0wrV0iXeTv_pGOXWJCUsMoCirdkBsxJRPuKP9B7jMOvXL_arhNSA7dvN8C70T4XGHa_sKa8liDINQR54zVkZCEbu1_7rkJW4FZbjd2",
+                "width": 811
+            }
+        ],
+        "place_id": "ChIJa6hBF8XdQUcROxJNKIQJBRg",
+        "plus_code": {
+            "compound_code": "F2CC+V2 Budapest, Hungary",
+            "global_code": "8FVXF2CC+V2"
+        },
+        "rating": 4.2,
+        "reference": "ChIJa6hBF8XdQUcROxJNKIQJBRg",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2041,
+        "vicinity": "Budapest, Dayka Gábor utca 3"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.4974274,
+                "lng": 19.0522268
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.4988153302915,
+                    "lng": 19.0535635802915
+                },
+                "southwest": {
+                    "lat": 47.4961173697085,
+                    "lng": 19.0508656197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Kempinski Hotel Corvinus Budapest",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105170171340665046993\">Kempinski Hotel Corvinus Budapest</a>"
+                ],
+                "photo_reference": "AdDdOWpJDMubpHFHl-1KD2UsPo4JnarzoH47iGpabl92I0MRtK_uc2At1nhf9ZNF5o7ljPTeyo2X4BAgUcyeJWLLEJsqUm5VbtN2qMUHSkHkqbYK5vmDeXRV9oa529-hX5-__z3hA4GAIo4vdfscnGCWdVrt3FlpbYtQipOwSk43trrEkxg3",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJS3lyakDcQUcRhHOxez3aqUA",
+        "plus_code": {
+            "compound_code": "F3W2+XV Budapest, Hungary",
+            "global_code": "8FVXF3W2+XV"
+        },
+        "rating": 4.7,
+        "reference": "ChIJS3lyakDcQUcRhHOxez3aqUA",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3651,
+        "vicinity": "Budapest, Erzsébet tér 7-8"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.503334,
+                "lng": 19.0318289
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.50475258029149,
+                    "lng": 19.0332453802915
+                },
+                "southwest": {
+                    "lat": 47.5020546197085,
+                    "lng": 19.03054741970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "St. George Residence All Suite Hotel de Luxe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3968,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109182157370110021036\">Ádám Dévai</a>"
+                ],
+                "photo_reference": "AdDdOWrYnYSi0ZSkxaaob7yY1DcQO1a_LxzdGtC0lvgWSfqVO3VS9VjAz37clidOv3Gbxc47bdX4CTQdmZxLewDaaKWwlr5TIRVxrQ-orG1suRQHoUPMBDg_IRa0jlZZ4ptAa9eRcFDdcaUtTjnmJNNtXYdJ30YWtxzbbw7GQpx-8HhyAM-9",
+                "width": 2976
+            }
+        ],
+        "place_id": "ChIJz6ybSx_cQUcR1_F51gsnSr4",
+        "plus_code": {
+            "compound_code": "G23J+8P Budapest, Hungary",
+            "global_code": "8FVXG23J+8P"
+        },
+        "rating": 4.4,
+        "reference": "ChIJz6ybSx_cQUcR1_F51gsnSr4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 383,
+        "vicinity": "Budapest, Fortuna utca 4"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.50562900000001,
+                "lng": 19.0289251
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.50712548029151,
+                    "lng": 19.03029938029151
+                },
+                "southwest": {
+                    "lat": 47.50442751970851,
+                    "lng": 19.0276014197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Castle Garden",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 668,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101289241304919076471\">Hotel Castle Garden</a>"
+                ],
+                "photo_reference": "AdDdOWrkbM_Pbmi_ykJ3v1lIjqoqy2TvcISO9Fft7IOIY8Y2-IGuNUxgPbZpdjB8VFUDZunSXGrws-2FVuT9yOui8nCdZ5rI65QqeACBGQ-BDJiALOWh2U7YrSJgu1pvsjnCw_Okf3JG_K9gE6agdeXHHKMN8rQIWfmsHR3BuTcJ9bld2Bg",
+                "width": 1000
+            }
+        ],
+        "place_id": "ChIJ1VRjLRPcQUcRzCVS-mX8utc",
+        "plus_code": {
+            "compound_code": "G24H+7H Budapest, Hungary",
+            "global_code": "8FVXG24H+7H"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ1VRjLRPcQUcRzCVS-mX8utc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 817,
+        "vicinity": "Budapest, Lovas út 40-41"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.5185225,
+                "lng": 19.0492436
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5199258802915,
+                    "lng": 19.0508665302915
+                },
+                "southwest": {
+                    "lat": 47.5172279197085,
+                    "lng": 19.0481685697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Fortuna Boat Hotel Budapest",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101259532915034773326\">Mitrofan Lucian</a>"
+                ],
+                "photo_reference": "AdDdOWpktLF9PK0bOFDdWBuxtaUrPLgLVxgcOOGcim9Lm3lZC8cRdvXEwlAuh9ke8-DdFbMagHxXONssX7U_KSSu4XNZrGi4hUjWI1rWpy1U3AIjQjPQ94xBx8P30Hx-ysiIkinwUdnu82tZ8ml5o2F4DcOYeoKE-t9Pj5tBJAclziYoyeV9",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJecax4AfcQUcRrJbnGLAv_-8",
+        "plus_code": {
+            "compound_code": "G29X+CM Budapest, Hungary",
+            "global_code": "8FVXG29X+CM"
+        },
+        "rating": 4.3,
+        "reference": "ChIJecax4AfcQUcRrJbnGLAv_-8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1101,
+        "vicinity": "Budapest, 1137 Budapest, Szent istván park, Pesti alsó rakpart"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.4791177,
+                "lng": 19.074408
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.4804564802915,
+                    "lng": 19.0757888302915
+                },
+                "southwest": {
+                    "lat": 47.4777585197085,
+                    "lng": 19.0730908697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Actor Hotel Budapest",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103374323089553737865\">Actor Hotel Budapest</a>"
+                ],
+                "photo_reference": "AdDdOWqjnWedzPHIPVNY8ttcZQz-vl6xthcKAuks8g1DcbZ9U4AyVrXrnD0ZQxC8KFe-n5-EhQz8uD_Z6XQW3v-ICovMBFpb6ImaXKWX5YtRys8UEAx7dVQNUcvIPOWdQZNOrS2srGvcz_NqxDN0hTBcvDhItRoIvJvxv-1CxbrKghJWeDOA",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJieNKcdHEQUcRTyOkbcNGOIs",
+        "plus_code": {
+            "compound_code": "F3HF+JQ Budapest, Hungary",
+            "global_code": "8FVXF3HF+JQ"
+        },
+        "rating": 3.4,
+        "reference": "ChIJieNKcdHEQUcRTyOkbcNGOIs",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 738,
+        "vicinity": "Budapest, Viola utca 10"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.50335699999999,
+                "lng": 19.032407
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.50466043029149,
+                    "lng": 19.03368913029151
+                },
+                "southwest": {
+                    "lat": 47.5019624697085,
+                    "lng": 19.0309911697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pest-Buda Bistro",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 629,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106673397917344283109\">Pest-Buda Bistro</a>"
+                ],
+                "photo_reference": "AdDdOWo7E0y7lAus8VcVd8ZZ5HuKQeHKRa_H1GoVVJmxEmrMSvhMU71RkGEHS3hlmn-e9LKxYbg8XWAjn6D9NgfcdZvOpG4t_R-Xx3GPNb3yFZLgWZPJVRY-G0aqPYsgh9b0SJDL_Dgu9nJs9mtUArGMzmqt-sBgfJrMowWCHdWJc0UMisDa",
+                "width": 945
+            }
+        ],
+        "place_id": "ChIJV894sxjcQUcRHRuaZEY61ZU",
+        "plus_code": {
+            "compound_code": "G23J+8X Budapest, Hungary",
+            "global_code": "8FVXG23J+8X"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJV894sxjcQUcRHRuaZEY61ZU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1520,
+        "vicinity": "Budapest, Fortuna utca 3"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.49813460000001,
+                "lng": 19.0626144
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.4994708802915,
+                    "lng": 19.0639878802915
+                },
+                "southwest": {
+                    "lat": 47.4967729197085,
+                    "lng": 19.0612899197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Tel Aviv Cafe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104033008978795285692\">Dovid cohen</a>"
+                ],
+                "photo_reference": "AdDdOWqXn4XUdF9UEHyk17skZb4lsNPnxJTydCR0IktpEymx4k60a3IGzeSW5v9yM1Ctl5Kr3iSW0ka_3YUjmGKLkF_wnLNzXG0xK2GU1WfhFCZ2uZ6KRHeolBa_roV_LbqvBYcTVRrdKxh_dmmkHhIA3m6vOORt7mc2Gct2uIPco3ziujVd",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJfT41N2jcQUcRiBeoviRnh8w",
+        "plus_code": {
+            "compound_code": "F3X7+72 Budapest, Hungary",
+            "global_code": "8FVXF3X7+72"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJfT41N2jcQUcRiBeoviRnh8w",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1751,
+        "vicinity": "Budapest, Kazinczy utca 28"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.51129530000001,
+                "lng": 19.0764697
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.51273653029151,
+                    "lng": 19.0776629802915
+                },
+                "southwest": {
+                    "lat": 47.51003856970851,
+                    "lng": 19.0749650197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Benczúr Hotel",
+        "photos": [
+            {
+                "height": 3836,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107310485172663006015\">Benczúr Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqTFnHdF2qLjEIAu7tu57a_KqH6eyt0Ma875gYPKaRHl_a5Mmezvoc0jKVp86Vgoc1gUu3jrSX5I1i22gBujIQNAbseuzood3Wq6Cr27K7H4AdObe1pPz8Lq32gR66L9Bbh6uJl3zyh6q0QhwjtLbMxXok8zd6EAlL4PyDnKy6N6Rug",
+                "width": 5755
+            }
+        ],
+        "place_id": "ChIJux5ewXncQUcRCRqaRj_uWwU",
+        "plus_code": {
+            "compound_code": "G36G+GH Budapest, Hungary",
+            "global_code": "8FVXG36G+GH"
+        },
+        "rating": 4.1,
+        "reference": "ChIJux5ewXncQUcRCRqaRj_uWwU",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3622,
+        "vicinity": "Budapest, Benczúr utca 35"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.5024507,
+                "lng": 19.0395582
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5037284802915,
+                    "lng": 19.0406409802915
+                },
+                "southwest": {
+                    "lat": 47.5010305197085,
+                    "lng": 19.0379430197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "art'bistrobar",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 866,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110914019536761270108\">art&#39;bistrobar</a>"
+                ],
+                "photo_reference": "AdDdOWqn65XOQZ5YBfPtoRiQ-ezznkR-5ti3L8dyL9gAErG5czGcePKixR5COrLLSO6jtdIpvMmyYY0uuRtZm_wK1MbMUud7opwqcPcDB8W1_miGqI9XkVtIKdhyNeYFVglYehMF8kb0IsIHmZdTU-xBXXJ_r13mXdCEzmwkmMYpRL6B-be1",
+                "width": 1299
+            }
+        ],
+        "place_id": "ChIJt2RniRfcQUcRpiij772lJOw",
+        "plus_code": {
+            "compound_code": "G22Q+XR Budapest, Hungary",
+            "global_code": "8FVXG22Q+XR"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJt2RniRfcQUcRpiij772lJOw",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 23,
+        "vicinity": "Budapest, Bem rakpart 16"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.51216290000001,
+                "lng": 19.0743056
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5133492302915,
+                    "lng": 19.0757094302915
+                },
+                "southwest": {
+                    "lat": 47.5106512697085,
+                    "lng": 19.0730114697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Mamaison Hotel Andrássy Budapest",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111961260053219645601\">Mamaison Hotel Andrássy Budapest</a>"
+                ],
+                "photo_reference": "AdDdOWrmW-XsMvxbfTcE38UCwnluFc5L3vV1Ssg8QO_myhQKOjwQRazUa4ckGWPkiWyACK9ZP-W9ut7HAoTzAvy8kQGzeg0UFGy713X6MNKj00tkUtaBGlGdcxY4TTtIq68BzARrk3KJ90xzOO1XBPatKPcpPpK_Rx9HhsbI08KlDNYi_woz",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJowabb3fcQUcRz6xDSwV-LOc",
+        "plus_code": {
+            "compound_code": "G36F+VP Budapest, Hungary",
+            "global_code": "8FVXG36F+VP"
+        },
+        "rating": 4.5,
+        "reference": "ChIJowabb3fcQUcRz6xDSwV-LOc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 930,
+        "vicinity": "Budapest, Andrássy út 111"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.4996026,
+                "lng": 19.056287
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5009878302915,
+                    "lng": 19.0575614302915
+                },
+                "southwest": {
+                    "lat": 47.49828986970851,
+                    "lng": 19.0548634697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "VakVarjú Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2736,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114348715454496415741\">VakVarjú Étterem Pest</a>"
+                ],
+                "photo_reference": "AdDdOWpAdo8E-LX9IrsmX2fu0ZaHLfg2HFnhRmjRuBrggXLujZugxbXt_lD-9ScJwrgMPVEJgg7xMTVktYdEKzGYQDHNPR5a424eqTH6_3IJZS6_VFw_Vot5jz14Dtjn90qIC1V_D97Ze1OlZG1KXLskGkaLLZ94QxLmtwQE5INcxxtAcQ6t",
+                "width": 3648
+            }
+        ],
+        "place_id": "ChIJ602zYGrcQUcRJ-N5Gpjx7kg",
+        "plus_code": {
+            "compound_code": "F3X4+RG Budapest, Hungary",
+            "global_code": "8FVXF3X4+RG"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ602zYGrcQUcRJ-N5Gpjx7kg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 11396,
+        "vicinity": "Budapest, Paulay Ede utca 7"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.5025948,
+                "lng": 19.0395694
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5039477802915,
+                    "lng": 19.0409703302915
+                },
+                "southwest": {
+                    "lat": 47.5012498197085,
+                    "lng": 19.0382723697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Park Plaza Budapest",
+        "photos": [
+            {
+                "height": 970,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113511682559422217856\">Park Plaza Budapest</a>"
+                ],
+                "photo_reference": "AdDdOWowMcUMtrwOyBw__H7JDZE-Ac_kAOKSrBQawZ_5sdpwfbxyLd3WQj0pyM8KC7IU7zRaO3MJAUEiMU09cwlM7AYVqZ0pH07r2KAU7Jg-HwPRUi4RuSGUD4iUsa8Zoc_Lei2KxQ6F3rVizJIZMJS56moks6baUC-aYRLIPlJzHcw7tdHm",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJceAajRfcQUcRDVkN0SLIKHQ",
+        "plus_code": {
+            "compound_code": "G23Q+2R Budapest, Hungary",
+            "global_code": "8FVXG23Q+2R"
+        },
+        "rating": 4.4,
+        "reference": "ChIJceAajRfcQUcRDVkN0SLIKHQ",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "bar",
+            "lodging",
+            "health",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2191,
+        "vicinity": "Budapest, Bem rakpart 16-19"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.5039639,
+                "lng": 19.0628165
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5053632802915,
+                    "lng": 19.0641201802915
+                },
+                "southwest": {
+                    "lat": 47.5026653197085,
+                    "lng": 19.0614222197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Menza Étterem és Kávéház",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107247713223283981309\">황지윤</a>"
+                ],
+                "photo_reference": "AdDdOWqQ8SyashuRytbg01CzlPVKBVaoCAKSipBi-mW69u5uXu0VBjIwNAcvIvJVTu0nGKFvJZ-AFnrZ3KhwQLZ-ZHBazI1r7GeiMUYOa1IyPqQDsSrcTv_C99JjSx8jtQrpZdN-2jYdyPp4HS3du5Tlxikf1W9FJvjYO5VcfZet8tk0kG_G",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ1dRim27cQUcR_kCX7BuqHTY",
+        "plus_code": {
+            "compound_code": "G337+H4 Budapest, Hungary",
+            "global_code": "8FVXG337+H4"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ1dRim27cQUcR_kCX7BuqHTY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 16627,
+        "vicinity": "Budapest, Liszt Ferenc tér 2"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.49696400000001,
+                "lng": 19.0502535
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.4982278302915,
+                    "lng": 19.0518446302915
+                },
+                "southwest": {
+                    "lat": 47.4955298697085,
+                    "lng": 19.0491466697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Café Gerbeaud",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2670,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112421886669660996034\">Gerbeaud Kávéház</a>"
+                ],
+                "photo_reference": "AdDdOWq40jCltKs1bTDC9cf81soYWCOM-Xcm_ROK0reZy_LtW74mLUNOfUEVLZVAZl_BD6jDpHO06Lj1iS7SgwVR5utGIp01RiEdBbyr4S1E0nOMmHCwBUfs2YiC-SPuQqDU1LgGUA5LDNuYwFoHgpXMY7ecnBsh-VV3T6mQ_abC-5Vb6wxb",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJeQACh0DcQUcRVO6JctVQ5-g",
+        "plus_code": {
+            "compound_code": "F3W2+Q4 Budapest, Hungary",
+            "global_code": "8FVXF3W2+Q4"
+        },
+        "price_level": 3,
+        "rating": 4.2,
+        "reference": "ChIJeQACh0DcQUcRVO6JctVQ5-g",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 10095,
+        "vicinity": "Budapest, Vörösmarty tér 7-8"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.5083919,
+                "lng": 19.0261295
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5101058802915,
+                    "lng": 19.02808494999999
+                },
+                "southwest": {
+                    "lat": 47.5074079197085,
+                    "lng": 19.02272515000001
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Mammut",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116125039255028276262\">Henrik Max Bischoff</a>"
+                ],
+                "photo_reference": "AdDdOWqTJdmbZc6LR5R1Ud9SNTjt5p7VphwTJCgkyV798R4yiT1Oay8XhZXVPH_OhQGIJzOKu2dMxGofAd0sVBdxS3499OAzmpltSZtqIjQHJzgLD2OHvnfXhBfNjGpst0M3DdAb8Y061OkkzW9feRiAqlmo2EjOJ0ciIPlGRty6C2Q2oInA",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJdw64tKDeQUcRD62_jsDPN1M",
+        "plus_code": {
+            "compound_code": "G25G+9F Budapest, Hungary",
+            "global_code": "8FVXG25G+9F"
+        },
+        "rating": 4.2,
+        "reference": "ChIJdw64tKDeQUcRD62_jsDPN1M",
+        "scope": "GOOGLE",
+        "types": [
+            "shopping_mall",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 34469,
+        "vicinity": "Budapest, Lövőház utca 2-6"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.4849209,
+                "lng": 19.0773006
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.4862696802915,
+                    "lng": 19.07866918029151
+                },
+                "southwest": {
+                    "lat": 47.4835717197085,
+                    "lng": 19.0759712197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "GoodMo House",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114619764535097643434\">Nurettin ŞEKER</a>"
+                ],
+                "photo_reference": "AdDdOWpCAoQRf4faXV57tZErzapGkDOlx1AAfO8zZMtsSGiAZEz68zoF0x2ns7-_N5AwNKMn0HStKuYmyTIpU0RzOAS3zzGkdPoXUdmFKeB3KCTVltYag0kpTB03S1MqYYlr-TatbHWUBCd9UbcynEV1njp09tOxAjxAEKrWG32skseKQAnE",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJS4ezMF_cQUcR_6WcnxYX5qU",
+        "plus_code": {
+            "compound_code": "F3MG+XW Budapest, Hungary",
+            "global_code": "8FVXF3MG+XW"
+        },
+        "rating": 3.9,
+        "reference": "ChIJS4ezMF_cQUcR_6WcnxYX5qU",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 678,
+        "vicinity": "Budapest, Leonardo da Vinci utca 41"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.513607,
+                "lng": 19.0497499
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5149938302915,
+                    "lng": 19.0510482802915
+                },
+                "southwest": {
+                    "lat": 47.5122958697085,
+                    "lng": 19.0483503197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Budapest Jazz Club",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117912499581571758151\">László Csoknyay</a>"
+                ],
+                "photo_reference": "AdDdOWrQu-wSUJ-a-7xK80kd-xEjOzaAe6YtOSbdrWLsS8hUzB5-DLzPAUvdCw-5M2nzRJNBSwNiG9g-wuvbmQ4PjmtUMjdDjl8aZs9rQGfoivPXg7BWiAyzB_edC8qwf89NY2EQUObOQOqbupDoO_1dOxE0HtD4XuNIyl_cXFEABszcBU95",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJqdwvEFvcQUcRcH9XdELrXg4",
+        "plus_code": {
+            "compound_code": "G27X+CV Budapest, Hungary",
+            "global_code": "8FVXG27X+CV"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJqdwvEFvcQUcRcH9XdELrXg4",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "cafe",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3452,
+        "vicinity": "Budapest, Hollán Ernő utca 7"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 47.49994909999999,
+                "lng": 19.0593719
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.5012380302915,
+                    "lng": 19.0607905802915
+                },
+                "southwest": {
+                    "lat": 47.4985400697085,
+                    "lng": 19.0580926197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Trofea Grill Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1363,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113195577210638002772\">Trófea Grill Étterem Király utca</a>"
+                ],
+                "photo_reference": "AdDdOWoTjVk3DLtVUmpuyG57dRYTu_wgQimhrRYgz4iUpvSBlOq2j-ZBXPrUeiHAWOx7TgdL3cSRngoU5m5-nbfj9q2NBRFWii1qkSmpJS-IvHjS0jMelR5rr9TChi_tBxoz1XhVxp-8KPaDJjuZtkoqf1unIlncVzIA7H3ZEgXwcX8FtvUE",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJNR-igGncQUcRR0meTdzWcro",
+        "plus_code": {
+            "compound_code": "F3X5+XP Budapest, Hungary",
+            "global_code": "8FVXF3X5+XP"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJNR-igGncQUcRR0meTdzWcro",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 11505,
+        "vicinity": "Budapest, Király utca 30-32"
+    }
+]

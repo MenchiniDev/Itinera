@@ -1,0 +1,66 @@
+{
+    "name": "City Hotel Ljubljana",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Goca S",
+            "author_url": "https://www.google.com/maps/contrib/109896777502718375114/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEcdQc2bO_MZWtGygemlfKIRsK89HNck5D3Rx4QoTh1HK_uQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "My compliments to the hotel and staff.  Our visit went great.  The rooms are comfortable and clean, the location of the hotel is perfect.  I would describe the breakfast at the City Hotel as the best of the hotels in the European cities I have visited.  So many different and delicious dishes and drinks, really awesome.  With all care to cover dishes for people with a special type of diet.  Four coffee machines!  The hotel is a top ten! 👌",
+            "time": 1733092608,
+            "translated": false
+        },
+        {
+            "author_name": "Tom Harris",
+            "author_url": "https://www.google.com/maps/contrib/103644645086299872968/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDH4AlZLl1YvvATFh58Q-HzwsOOwH1gS85WxkvVaAiuCZKh6A_=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "This is an excellent hotel, with great rooms, highly professional and friendly service and a very good breakfast. For me, it represents true value for money. Highly recommend.",
+            "time": 1732565069,
+            "translated": false
+        },
+        {
+            "author_name": "ANA-MARIA B",
+            "author_url": "https://www.google.com/maps/contrib/118362634024985282032/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8ellkiQ3GjvHbALeF3EKAItbZ-BHYl5dhvre7Td1U-lMK0-cCNA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "quite and lovely place to rest. Nice and friendly stuff. You can have a breakfast inside in the morning, great food and good coffee. Thank you for kindness and attention.Close to the city center, close to the bus station. You can visit some locations by walking close to the hotel.",
+            "time": 1731837687,
+            "translated": false
+        },
+        {
+            "author_name": "Barnaby Brampton",
+            "author_url": "https://www.google.com/maps/contrib/101774280953424060485/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUC9_FFUrK3CN7IRkfKIiMu7cxGJ4YqSHneJtFXBq69C5cPANa-=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Really excellent hotel. I was very surprised how nice the room was, very comfortable and good facilities. Breakfast was great with lots of staff around.  All the staff were very helpful. Location was perfect for visiting the city and easy to get to. I felt very safe and comfortable here. Highly recommend.",
+            "time": 1725092131,
+            "translated": false
+        },
+        {
+            "author_name": "Jasmine Fassl",
+            "author_url": "https://www.google.com/maps/contrib/106660922144352425681/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnaP1UZe5QR-sJ43FpVRAuhqrH94emTZpYYamyhAO5LE1vcQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We spent a really lovely 2 nights at this perfectly centrally situated hotel. The young staff were extremely friendly and helpful. The rooms were big and clean. They were trying a new environmental policy: for every day you agree that your room wasn't to be cleaned, you got a free drink in the terrace bar - we didn't need fresh towels, so enjoyed a glass of wine at sunset on the terrace bar.\nAnd the breakfast was brilliant - a massive choice of warm and cold option, as well as bowls of peaches, apricots, apples, grapes, bananas.\nIt's much recommended all round.",
+            "time": 1722415849,
+            "translated": false
+        }
+    ]
+}

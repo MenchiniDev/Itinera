@@ -1,0 +1,66 @@
+{
+    "name": "art'bistrobar",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Yuriy Shymon",
+            "author_url": "https://www.google.com/maps/contrib/101973843454511990690/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI86sPtjlZBqCEuadZIa9EP88P-0O2rE6bFRxNaNmYv-JdU2Ws=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Very good place and especially the bartender! Amazing cocktails",
+            "time": 1731330211,
+            "translated": false
+        },
+        {
+            "author_name": "Dimitris Papadimitriou",
+            "author_url": "https://www.google.com/maps/contrib/103183530081957155830/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUCmGbQ5byrF-ThS1OqquWpbQux3nWmz11rQQYX8uz-8bpjz1f=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "4 years ago",
+            "text": "The portions are a little bit small for the price, but the food is very tasty. The view is great, if you happen to sit by a window, and the personnel is very helpful! It's also a perfect choice if you live in the hotel and you don't want to leave the premises.\n\nI had a beef goulash soup, which was perfect after a cold day on the move, and my friend had a Mushroom consomme, which was not as good as the goulash.",
+            "time": 1581517921,
+            "translated": false
+        },
+        {
+            "author_name": "Sven Novak",
+            "author_url": "https://www.google.com/maps/contrib/107711008092840527640/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNClYuJR10pSZox-791iceFNgd9NWRJQ4L0ZwJxu_T8y2ZiD1x=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Simple but tasty hotel bistro",
+            "time": 1501100736,
+            "translated": false
+        },
+        {
+            "author_name": "P P",
+            "author_url": "https://www.google.com/maps/contrib/102159631154135487902/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVod5nDgZxxyXs29mGiwAqvJeOoOYT-MZvpBdsaGXQryDTfV4A0=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "8 years ago",
+            "text": "Hotel bar. More expensive and less attractive than local bars and restaurants.",
+            "time": 1476280988,
+            "translated": false
+        },
+        {
+            "author_name": "Kenny Scott",
+            "author_url": "https://www.google.com/maps/contrib/104016213903303598818/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWXKdGP8D_-kOGkHeeGS8efjlSqeB97JRpfWD8QgLiaQyRBg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Great food",
+            "time": 1553800765,
+            "translated": false
+        }
+    ]
+}

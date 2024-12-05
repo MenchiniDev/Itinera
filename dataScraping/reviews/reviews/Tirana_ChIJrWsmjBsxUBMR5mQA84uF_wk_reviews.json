@@ -1,0 +1,66 @@
+{
+    "name": "Artigiano at Vila",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Marina",
+            "author_url": "https://www.google.com/maps/contrib/108852931340682409393/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl4k4Ry1LE4r9Z2MQbkl0I76ILpvGOr4iKycSGSgcRO4j-MIl2xg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We were seated on the terrace, which we found to be much nicer than the inside of the restaurant, which was pretty crowded and loud.\nThe menu is nice and has some unique options, like the pistachio pasta with shrimps.\nThe food was really, really good.\nService was friendly and attentive. Prices were reasonable too.\nWould absolutely recommend.",
+            "time": 1729945277,
+            "translated": false
+        },
+        {
+            "author_name": "Sanja Kotevska",
+            "author_url": "https://www.google.com/maps/contrib/115920274513920979606/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNMAWx9Rn0JWSkbEFCH_M7bBoQxQj1_x0gegBOgO129R2rjVPA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Artigiano at Vila in Tirana exceeded all expectations. The food was absolutely delicious, with a variety of flavors that delighted the palate. Their selection of wines perfectly complemented the meal, enhancing the dining experience. The service was impeccable, with attentive and friendly staff ensuring everything was just right. Overall, a fantastic dining experience in a charming setting. Highly recommended!",
+            "time": 1723677169,
+            "translated": false
+        },
+        {
+            "author_name": "Arti Qormemeti",
+            "author_url": "https://www.google.com/maps/contrib/106326838445621882325/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-C1W8K44mw4NpV1EBeRoXiez1W6a_ouThXGKUTYpnkUARXyINQg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The rooftop section is amazing. Very pleasant atmosphere, cozy and beautiful. The food was not equally breathtaking though. The artisan burger was overcooked and dry, the pizza was not tasty at all.",
+            "time": 1729273855,
+            "translated": false
+        },
+        {
+            "author_name": "Mariia M",
+            "author_url": "https://www.google.com/maps/contrib/114069433969957098456/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu6PyUjZemzzLqJ0vetqqoKqEzLxynwJc-BtIhW5MC3tP7xG4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "We had a lunch here, and considering there were six of us, all our dishes came out very very quickly and they were delicious! There is a proper pizza oven as well, so you can rest assured that your pizza will be 100% amazing. I got pea soup and a salad and both of them were cooked incredibly well! I would recommend coming here!",
+            "time": 1720040911,
+            "translated": false
+        },
+        {
+            "author_name": "Lubomir Krabac",
+            "author_url": "https://www.google.com/maps/contrib/110800469693290900680/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfofBK9Z7J7EwSJMCkkGz0IHI8gr8G3MOooICYnNTU1a8_7f0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Delicious food for reasonable prices. Pizza around 7-8 EUR, salad 5-6 EUR. The Greek salad (Dakos) was super tasty, pizza was also good. Tagliatelle portobello contains chicken meat, which might be surprising for vegetarians. Service was neither very fast nor well organized. Place was spacious and had cozy atmosphere inside. Coperto of 70 ALL charged per person. All in all, nice place. Recommended.",
+            "time": 1729938685,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Loft Hotel Bratislava",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Amy Dalton",
+            "author_url": "https://www.google.com/maps/contrib/108207552996802392412/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz7H0z00Vug_xPAAK7CGUa6W5OQrZK87S4cQ3BvMQNi6gKiOY=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We really enjoyed this hotel.   It was the most spacious room I have ever seen in Europe.  Very clean with comfortable bed/linens.  The mini bar is free and breakfast is included so it's a great deal.   Centrally located so easy walk to old town.    They even gave my husband a bottle of wine and a card because it was his birthday.  So nice!",
+            "time": 1730281366,
+            "translated": false
+        },
+        {
+            "author_name": "Julie J",
+            "author_url": "https://www.google.com/maps/contrib/101154693413907030947/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhoO6CpI90_zjD07VJbOAJIewdH3gQBWSeqKzqROG1D-Z1LQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Fabulous stay here. We only had one night but it was lovely. Comfortable room, lots of space, free mini bar and luggage storage. The staff were friendly and helpful. It’s about a 10 minute walk to the old town and closer to 25 to the castle area but it’s a lovely walk once you are off the main road. We had no complaints about our stay.",
+            "time": 1728993154,
+            "translated": false
+        },
+        {
+            "author_name": "Nadia S.",
+            "author_url": "https://www.google.com/maps/contrib/101832902957941343066/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWttlCSEJjsdMcDEBYNjPc7GG5GVie0QpSME9gFhuzQ0vL8L0A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "This hotel is very stylish, with an excellent breakfast and good service. The beds are comfy, there's a free mini-bar with beer, and the shower is great. Some rooms do not have a TV (you'll know upon booking).\n\nHowever, there were a couple of drawbacks. You have to take the stairs to reach the front desk, which can be tough with luggage. Also, our check-in was a bit confusing. I had booked a double bed but was given a room with twin beds. When I asked about it, I was told, “Ma'am, this is the type of room you booked.” Later, I found out that, due to the promo rate, room type is assigned at the hotel’s discretion. It would’ve been helpful if the staff had clarified this when I asked instead of suggesting I had booked incorrectly. Courteous communication is key in hospitality!",
+            "time": 1731038930,
+            "translated": false
+        },
+        {
+            "author_name": "Rita Patrick",
+            "author_url": "https://www.google.com/maps/contrib/110812816105107435031/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSaey0Gn9WYiuDAzwDGsPLeXOifm7zVdwUiNZ72Kguar242Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This was the best room we stayed in during our 2 week trip in Europe. Very spacious and comfortable. We had a room with 2 king beds. The room had nice decor and large sitting area. We had a view of the Castle. The included breakfast was good with lots of variety. The included mini bar and wine card for the wine dispenser down the hall was a great addition.",
+            "time": 1724754307,
+            "translated": false
+        },
+        {
+            "author_name": "Francesca",
+            "author_url": "https://www.google.com/maps/contrib/100508251493111208706/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSlE8vtrjCFFtNJVP3NJkIByRi22adU09hMZ_ACbLshJZcEg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "A wonderful place to stay! The rooms were beautiful, we got a free upgrade to a top floor room with a view over the garden it was stunning! The minibar was free and refilled daily and we got a card with credit to spend on wine, the breakfast was delicious there was so much choice and the staff were very friendly and helpful. Great location and great price! Would visit again! Ďakujem",
+            "time": 1725027442,
+            "translated": false
+        }
+    ]
+}

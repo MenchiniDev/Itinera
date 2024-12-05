@@ -1,0 +1,66 @@
+{
+    "name": "Hôtel Écologique BelleVue Marseille",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Nick M",
+            "author_url": "https://www.google.com/maps/contrib/112350968179003572770/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcXwbCWM3sWbtWfE5FR3USUXvipqF2Zt3pJgyzJyBqHS5Tww=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Terrible experience with reservations.  Their website was counterintuitive and awful.  I called for assistance, and was told it \"was not possible\" for them to help me because I had to use the website.  I used the website and ended up booking for the wrong year.  I called and emailed to try to fix the problem and was repeatedly told \"it's not possible\" for them to help me.  They denied me a refund, denied me changing the dates, and denied me any sort of discount on new rooms.  I have multiple email exchanges in French and English that simply blow my mind with such poor, unhelpful customer service.  We ultimately booked with a place on the other side of the Port and had an amazing time.  I will never bother with this place ever again.  If you decide to risk booking a reservation here, you've been warned.",
+            "time": 1729626245,
+            "translated": false
+        },
+        {
+            "author_name": "Laura Butler",
+            "author_url": "https://www.google.com/maps/contrib/114770963595976584177/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8gZ0ZEM7LrGGijWYMhGBJjS9HykELkJZPzjZLPvImrkrURw=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "The woman at the reception when we arrived was the most unfriendly person. We carried our bags to the 1st floor and she was sitting behind the desk, picking her teeth with her fingers, looked us up and down and rolled her eyes. Never offered to help with bags and we felt like a burden. She let us know \"check in was at 3\" without checking to see if the rooms might be ready. It was 1 pm. Then she started eating a croissant. When we left for the day, I was so put off and made to feel so unwelcome that I was nervous to return and actually check in. Luckily, the person working when we got back that evening was much nicer. The rooms were fine and clean, and the views were amazing. The building is old and it shows in certain areas, which is understandable.",
+            "time": 1719589233,
+            "translated": false
+        },
+        {
+            "author_name": "Candice S",
+            "author_url": "https://www.google.com/maps/contrib/107367894259681004076/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXehJZNNfoIzksbZ0X4vhlNk3dir8RcDvxbWTn0jHMfTh3g0otX=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Only stopped here for a quick drink but it's a great spot with lovely views. We got a table in front of windows overlooking the port as the balcony was full, but still very cute inside.",
+            "time": 1718221750,
+            "translated": false
+        },
+        {
+            "author_name": "David",
+            "author_url": "https://www.google.com/maps/contrib/107021619917749046381/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmQq2cwC7uWxhuVwTgDozxmaPPu1R7d_7TXlHQfdFAjaMSNfV1=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Really nice hotel, with friendly and warm staff. Great location with a très belle view! Room was small, but very pleasant and comfortable.",
+            "time": 1721371619,
+            "translated": false
+        },
+        {
+            "author_name": "Goran Rasidkadic",
+            "author_url": "https://www.google.com/maps/contrib/109319896173667388087/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYLcehVcjkc_qHvOEYHwjDiguWBSV11CJN1_V7WObeiQUa5w=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "I had a wonderful stay, and view from room was spectacular. My mother was so pleased looking at the Vieux port and Notre dame above while resting on her bed in the afternoon.",
+            "time": 1718609057,
+            "translated": false
+        }
+    ]
+}

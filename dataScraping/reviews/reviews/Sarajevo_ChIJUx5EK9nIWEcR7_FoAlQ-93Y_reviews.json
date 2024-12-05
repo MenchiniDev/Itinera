@@ -1,0 +1,66 @@
+{
+    "name": "Mutvak",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Nomada Vlog",
+            "author_url": "https://www.google.com/maps/contrib/116882917632678749962/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8z8qbphdnplThSzM9J_3vEVuGl_jqvJY1DhmiQAx-7noH9Qc=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Taste like homemade Sandwich . soft warm bread Baked in the oven. Delicious kebab or doner just need more heated.",
+            "time": 1653852614,
+            "translated": false
+        },
+        {
+            "author_name": "Halim Chellal",
+            "author_url": "https://www.google.com/maps/contrib/112189570037045097867/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtna7cPpKuqpr8jYLGe30V5OV1E9-e9S2Mocpz5Ht-fC0fXg4=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Disrespectful, cold and agressive. Don't go there as a tourist.",
+            "time": 1733085624,
+            "translated": false
+        },
+        {
+            "author_name": "Emil Hajric",
+            "author_url": "https://www.google.com/maps/contrib/106859471635993966502/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFQB0-MHqw34T2Z-rMdyirtPYeQDQ5-Ncz4rKnN_LMy5YcOq1rkA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "A classic gem in Sarajevo. Tastes as delicious as it did 15 years ago. Homemade bread, donner, hard to not be delicious",
+            "time": 1716068956,
+            "translated": false
+        },
+        {
+            "author_name": "U094040 Mahmood",
+            "author_url": "https://www.google.com/maps/contrib/109567459270820236704/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpEeXmdN8BPSVtrQ-oSggxMix-1yYd_MYKlNL8AlDKbRzbkg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "nice and tasty dishes.. Halal food with certifie.",
+            "time": 1727183561,
+            "translated": false
+        },
+        {
+            "author_name": "Saif Amrkhail",
+            "author_url": "https://www.google.com/maps/contrib/115227073250923379950/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl-dAgglVtLxyIt7JYIAEkc7-gSuhOCOzG4Dxt5mStvsMYCw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Delicous Kebap, friendly service and great atmosphere.",
+            "time": 1724145128,
+            "translated": false
+        }
+    ]
+}

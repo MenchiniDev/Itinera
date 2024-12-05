@@ -1,0 +1,66 @@
+{
+    "name": "GLO Hotel Art",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Andreea Gaitan",
+            "author_url": "https://www.google.com/maps/contrib/113833723252601570185/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxVH1D96c21POYG2C-WHgbD7bo-pkvVhuxMRtsOqt0Z2avsDwl=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Charming, cozy, unforgettable!\n\nThe first thing that grabbed my attention was how unique the hotel felt—there’s this cool, medieval vibe to the building, but with all the modern comforts woven in perfectly. It’s like stepping back in time, but with all the luxuries of today!\n\nThe rooms are on the smaller side, but honestly, they’re so beautifully decorated and cozy, it didn’t even matter. I loved how everything was designed to make the most of the space. And can we talk about breakfast? It was so good—everything was fresh, and there were tons of options, no matter what you’re into. But what really made my stay memorable was the staff. They were so warm and welcoming, always there to help with a smile or just to chat about what to do around the city.\n\nI left feeling like I had been truly taken care of. I’ll definitely be coming back!",
+            "time": 1726311777,
+            "translated": false
+        },
+        {
+            "author_name": "Rupa Das",
+            "author_url": "https://www.google.com/maps/contrib/101242210753358771840/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn3pr0f9Q5Ne6nnp56V9I08D1HXWESEtV8F97vxNdUJx6Jgw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Enjoyed our stay here. The staff are warm and helpful.  They recommended tours we could avail, places offering local cuisine etc.  The breakfast was delicious,  with a vast array of choices.\nThe lobby and ground floor were inviting",
+            "time": 1730710114,
+            "translated": false
+        },
+        {
+            "author_name": "Ana Z",
+            "author_url": "https://www.google.com/maps/contrib/104916427949468146236/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRqzxS8d9pQjQV_q_wH-2oJtwi7YROez-2B_vk2pW1dY11hm1kBA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "While the room was on the smallish side, the staff and all the hotel services greatly made up for it. The staff were welcoming and ready to offer assistance in all things. They were great about allowing us to check in a little early, and quick to offer assistance with any question or issue we raised.  The hotel was near many of the sights and also conveniently located to public transportation.",
+            "time": 1728292231,
+            "translated": false
+        },
+        {
+            "author_name": "Melissa Wilson",
+            "author_url": "https://www.google.com/maps/contrib/102378826156209842879/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhC7wZD-Ke9jI00raIYh0t7lMylXW8SNRao0scU8jD6doJauic=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Not a good stay. The room was cheerless, dirty, and just sad, with an even sadder view of a parking lot where people were smoking at 2 am while talking loudly. The bed was comfortable but the sheets had an odd smell. The breakfast was tasty, however the cutlery was dirty. The staff seemed like they had no interest in being there or dealing with issues.",
+            "time": 1730471302,
+            "translated": false
+        },
+        {
+            "author_name": "Christina Le",
+            "author_url": "https://www.google.com/maps/contrib/109126900972213418987/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEiKANFUS-sA-ioiRnOg2_iZ7kZw39M8wK1mV4YiYkn8Yh6xQf=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Excellent place to stay, even during renovations! The rooms are modern and clean. The location is good, only a 10-15 minute walk to the train station. The breakfast was amazing – probably worth staying here for the breakfast alone! It had everything from crepes and croissants to scrambled eggs and sausage to bread, ham, and cheese. I would come back again!",
+            "time": 1720698611,
+            "translated": false
+        }
+    ]
+}

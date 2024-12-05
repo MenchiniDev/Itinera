@@ -1,0 +1,66 @@
+{
+    "name": "Perlan",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Sutha Hasan",
+            "author_url": "https://www.google.com/maps/contrib/108585022473697403294/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKEEj7wmVDBRCeEWJSwb-62YpMzYJr9quCkGSh-pJzN1GUFrmYmQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The museum offers a great opportunity to deepen our understanding of Iceland's natural environment before starting the tour. It's a pleasant place, usually not overcrowded, allowing for around two hours of engagement, including several impressive shows. The northern lights and lava exhibitions are particularly remarkable.",
+            "time": 1729531883,
+            "translated": false
+        },
+        {
+            "author_name": "Adan Morales",
+            "author_url": "https://www.google.com/maps/contrib/108072017515219020809/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT0_rCkpDxGm57BBS5_-njXDjMTGrUuX2n88sKM7i1SwzfAg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "Really cool place. Almost too much to see and the observation deck is for sure the spot to view the city and beautiful landscape. Floor 5 would be awesome to be in to watch the northern lights in a cozy space.",
+            "time": 1732006584,
+            "translated": false
+        },
+        {
+            "author_name": "Jamie Dickson",
+            "author_url": "https://www.google.com/maps/contrib/114221257321511416307/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbyRLH-GvN-RefKDipbLPwR7Q0V-uZFxNs5Gu6xMwH_EgulQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Visited on the weekend whilst on holiday and really enjoyed the afternoon here. The ice cave was amazing and views over the city from the observation deck were great; if a little windy! Lovely couple of exhibits and just a generally all round good time.",
+            "time": 1731365690,
+            "translated": false
+        },
+        {
+            "author_name": "David Gillingham",
+            "author_url": "https://www.google.com/maps/contrib/107129196958239319664/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUATFEC6tklxvAPmp0B55Ytl6GwM3WgsHxCNSbhGn58BDWsy8tWDA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great visit especially on a rainy day. Set over several floors with a great viewing Dome and restaurant at the top. Large free car parking.  Lots of interactive elements to the visitor especially the ice cave.",
+            "time": 1730157745,
+            "translated": false
+        },
+        {
+            "author_name": "John Madrid (JJ)",
+            "author_url": "https://www.google.com/maps/contrib/115508521493045595005/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLres9Ga1nP0L9Y4bBlsT52O7Yyssm4uOxGN_2HmX_JAP2p1w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Perlan Museum was a fantastic afternoon adventure! The views were stunning, and the interactive exhibits were engaging and educational. The restaurant’s location was a highlight, offering delicious food with a great ambiance. My friends and I had a blast and learned so much. Highly recommend! 🌟🏞️🍽️\n\nEnjoy sharing those memories!",
+            "time": 1729886386,
+            "translated": false
+        }
+    ]
+}

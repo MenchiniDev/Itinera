@@ -1,0 +1,1080 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4955788,
+                "lng": -0.353131
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4968923802915,
+                    "lng": -0.3518053697084979
+                },
+                "southwest": {
+                    "lat": 39.4941944197085,
+                    "lng": -0.354503330291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Olympia Hotel, Events & Spa",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3243,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112297562702529006797\">Olympia Hotel, Events &amp; Spa</a>"
+                ],
+                "photo_reference": "AdDdOWoYDwAZOmJfKuJTB_d-okCtrDUHZWiCdPQY6eWAqx0PQR59I14x_7AunxC88HSSem57RltajIWhoycvha4pLclSuYw4NRS-NSUmrA_OpiBA0CMrZL2dXIOoC7OYiBOexxLhpMjJfyZjImmyqwowz9owRfFuF7_tQkFS8oEglXpeErAn",
+                "width": 5684
+            }
+        ],
+        "place_id": "ChIJr93TOyNGYA0RzZNIJD6JAFA",
+        "plus_code": {
+            "compound_code": "FJWW+6P Alboraya, Spain",
+            "global_code": "8CFXFJWW+6P"
+        },
+        "rating": 4,
+        "reference": "ChIJr93TOyNGYA0RzZNIJD6JAFA",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4764,
+        "vicinity": "Carrer Mestre Serrano, 5, Alboraia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.456933,
+                "lng": -0.3834829999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4583234302915,
+                    "lng": -0.3822295197084979
+                },
+                "southwest": {
+                    "lat": 39.4556254697085,
+                    "lng": -0.384927480291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurante La Cepa Vieja (Valencia)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 551,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102161442540646858968\">Restaurante La Cepa Vieja (Valencia)</a>"
+                ],
+                "photo_reference": "AdDdOWqZpXqBFHJekTGdLEgmJLfUSMYV__ECHHLSHTXg8_rSBE-EP5qAbRso1KWWLJOHnYnMgDuDYGYzcxyPHlJoznEgT9pQ9kwVSoYopdycdn2JCvZwfRnp1CyvSgPXgpwv8xChsVWr5hzWPlqsHOF2uUbCZy3yNnHtmXCcd4VHpDGPzQ3P",
+                "width": 870
+            }
+        ],
+        "place_id": "ChIJ0dnyZDBPYA0ROz1Bc_kjM9E",
+        "plus_code": {
+            "compound_code": "FJ48+QJ Valencia, Spain",
+            "global_code": "8CFXFJ48+QJ"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJ0dnyZDBPYA0ROz1Bc_kjM9E",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 731,
+        "vicinity": "Carrer de Sant Vicent Màrtir, 209, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4709549,
+                "lng": -0.3666431
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4723855302915,
+                    "lng": -0.365218319708498
+                },
+                "southwest": {
+                    "lat": 39.4696875697085,
+                    "lng": -0.3679162802915021
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Hospes Palau de la Mar | Valencia",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 864,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100391969639638757109\">Hotel Hospes Palau de la Mar | Valencia</a>"
+                ],
+                "photo_reference": "AdDdOWpzNzSsYd0IKB_DhkEtpGHpW2NkH5y_0JSs7lyrEuTlpV7n_wCwx2OCSqEFGTCvOyPk2a6Jp2P2nmslrhmKwgP9QdO4shYbVJypJH25T5BHW5wN8bpxQ1QnRUzbxfqaMEF3cn18WVVMuNFm8iEbqH2jp9naAtgByYffD2LIrF7eP-Qw",
+                "width": 1296
+            }
+        ],
+        "place_id": "ChIJYVn8x7BIYA0RIb5xwMV46xI",
+        "plus_code": {
+            "compound_code": "FJCM+98 Valencia, Spain",
+            "global_code": "8CFXFJCM+98"
+        },
+        "rating": 4.5,
+        "reference": "ChIJYVn8x7BIYA0RIb5xwMV46xI",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1904,
+        "vicinity": "Avinguda de Navarro Reverter, 14, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4576104,
+                "lng": -0.375463
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.45878063029151,
+                    "lng": -0.374180569708498
+                },
+                "southwest": {
+                    "lat": 39.45608266970851,
+                    "lng": -0.3768785302915021
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Senator Parque Central Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3296,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114305518759741567485\">Senator Parque Central Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWoacJ3sEitAOvRrL4lfGnRhTksTYGVdJhACqhTLKRG17OlfNGb9HNNNILeznWDIFWPbPirsFLQeBQgFCOPAG8Ej1MBnMhzPGPFk1iXjSM9lcCwAxfSWsR7kivfg7Fpw18a6s1BOXSbKTcdqS4zhInQi2R4R9JNS-s9GodtkAiLzo5SX",
+                "width": 4944
+            }
+        ],
+        "place_id": "ChIJCYI2JjNPYA0RPTUl5-LQiEo",
+        "plus_code": {
+            "compound_code": "FJ5F+2R Valencia, Spain",
+            "global_code": "8CFXFJ5F+2R"
+        },
+        "rating": 4.1,
+        "reference": "ChIJCYI2JjNPYA0RPTUl5-LQiEo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3755,
+        "vicinity": "Plaça Manuel Sanchís Guarner, 1, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.45453759999999,
+                "lng": -0.3596608
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.45579533029149,
+                    "lng": -0.3583265197084979
+                },
+                "southwest": {
+                    "lat": 39.4530973697085,
+                    "lng": -0.361024480291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "A Tu Gusto",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 672,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112118891159076507022\">A Tu Gusto</a>"
+                ],
+                "photo_reference": "AdDdOWrLrQ-5yccBTszcOW04Oce6vyni7EdIpgBUW9fM6WWqV-AdDeeVzWGDrLkBSyF4V9kQrAqR57VR2rZkFuPuRkqZjY6v_zTVMKNzb6HiFjgbcbfUUNc1EivE3ZV38wLtoFzJ3GJXHCEkag3LRFS4z-qVUg0iakbY9dWgVVk1LEyUfUvf",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJZeX1s9xIYA0Rdr_7evab_20",
+        "plus_code": {
+            "compound_code": "FJ3R+R4 Valencia, Spain",
+            "global_code": "8CFXFJ3R+R4"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJZeX1s9xIYA0Rdr_7evab_20",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 636,
+        "vicinity": "Carrer del Marqués de Lozoya, 4, bajo, derecha, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4664455,
+                "lng": -0.3245658999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4677969302915,
+                    "lng": -0.3232691197084979
+                },
+                "southwest": {
+                    "lat": 39.4650989697085,
+                    "lng": -0.325967080291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Las Arenas Balneario Resort",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4667,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108623737308018128705\">Hotel Balneario Las Arenas</a>"
+                ],
+                "photo_reference": "AdDdOWpbJRhTUq3FTLgKyDBCVhBustznLMfARlh0Rj_cQT1NcXipU-ILeXJJtp5c9nWtlL5gpp9YHZXHVbanEGNnn-zregvZ1jgzOtgk6GpJYlZtyZXrlrK4C39HSQPtlBOFK1scjorFvyoORU6TCPc5rwaI-P-QNWdVouZrPQSu56-iObN7",
+                "width": 7000
+            }
+        ],
+        "place_id": "ChIJD1guwWlIYA0REfH09cBlg5o",
+        "plus_code": {
+            "compound_code": "FM8G+H5 Valencia, Spain",
+            "global_code": "8CFXFM8G+H5"
+        },
+        "rating": 4.6,
+        "reference": "ChIJD1guwWlIYA0REfH09cBlg5o",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9236,
+        "vicinity": "Carrer d'Eugènia Viñes, 22, 24, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4642981,
+                "lng": -0.3236137
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4656932302915,
+                    "lng": -0.322359969708498
+                },
+                "southwest": {
+                    "lat": 39.46299526970851,
+                    "lng": -0.325057930291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Miramar Valencia",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2672,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115189800071619960707\">Hotel Miramar Valencia</a>"
+                ],
+                "photo_reference": "AdDdOWpFSn8f13LHPfGFgeLUAg4SrkIgWjKOsIg3gHECnlx4MI3FcV_ore_9MKR8AgmDKlHS9oOG6SJDrh_mDI7uorJIIS9G7m0-bRN_hyi2ZlmtlHg6_1WXqVoDwK1UOBu8leY3nxV-UTlB5hY8sQVVUct5zbJd0ramB57uxyEUP1_ohlke",
+                "width": 3672
+            }
+        ],
+        "place_id": "ChIJo9xXF0JIYA0RvKtIMKtAYbw",
+        "plus_code": {
+            "compound_code": "FM7G+PH Valencia, Spain",
+            "global_code": "8CFXFM7G+PH"
+        },
+        "rating": 3.9,
+        "reference": "ChIJo9xXF0JIYA0RvKtIMKtAYbw",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1159,
+        "vicinity": "Passeig de Neptú, 32, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.480233,
+                "lng": -0.3885189999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4814270802915,
+                    "lng": -0.3869973697084979
+                },
+                "southwest": {
+                    "lat": 39.4787291197085,
+                    "lng": -0.389695330291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "HOTEL TÚRIA VALENCIA",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104197942739822050511\">HOTEL TÚRIA VALENCIA</a>"
+                ],
+                "photo_reference": "AdDdOWpvneP7JI03RE2Xpvgdlf1FIZjihNvVVe1FG_t5m1e9Nz3ZZhFml6anm3n2lOR5oAkQsVWp-IjghDNuva4XbqFyFzSHeMjhkzkGhkpEomK_vVnwmGeGeE5BxCD3B1PqNXrZabf7bz2a3llA3skg-kEsqoc79A8mC5mfqyMlBaxrWoM",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJc_oc8VtPYA0RduISD8UlN_0",
+        "plus_code": {
+            "compound_code": "FJJ6+3H Valencia, Spain",
+            "global_code": "8CFXFJJ6+3H"
+        },
+        "rating": 3.9,
+        "reference": "ChIJc_oc8VtPYA0RduISD8UlN_0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2386,
+        "vicinity": "Carrer del Professor Beltrán Báguena, 2, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4912645,
+                "lng": -0.3979877999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4927675802915,
+                    "lng": -0.396640919708498
+                },
+                "southwest": {
+                    "lat": 39.4900696197085,
+                    "lng": -0.3993388802915021
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel ILUNION Valencia 4",
+        "photos": [
+            {
+                "height": 3384,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112446655685774186271\">Hotel ILUNION Valencia 4</a>"
+                ],
+                "photo_reference": "AdDdOWqrhSWWahCxBuQclJGXzNJrA9yDjYWUdirCIRCym5S-rYRt8k8oLje0Bso4l1JJXJnCfBe4st8kR3SsE4n2t2Ukym02B6s5Qsd5OveqBuDExqVlSGqj-Q7k2NNMoNs9iwdH83UqGu-F_jcs1j1Clzkh5RQUHCQwSHKhjficnHQfEUk",
+                "width": 5616
+            }
+        ],
+        "place_id": "ChIJQUA0BIxFYA0R_iiCZ10nOMM",
+        "plus_code": {
+            "compound_code": "FJR2+GR Valencia, Spain",
+            "global_code": "8CFXFJR2+GR"
+        },
+        "rating": 4.1,
+        "reference": "ChIJQUA0BIxFYA0R_iiCZ10nOMM",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2525,
+        "vicinity": "Carrer de la Vall d'Aiora, 1, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4692764,
+                "lng": -0.378042
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4707981802915,
+                    "lng": -0.3767607197084979
+                },
+                "southwest": {
+                    "lat": 39.4681002197085,
+                    "lng": -0.379458680291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Navarro",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 599,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103264873795191878365\">Restaurante Navarro</a>"
+                ],
+                "photo_reference": "AdDdOWpixYwLvGeWMGW3nZme5_YiMJj7HLhDxwfdUwgFXj8C5OgagS8DTnCMFqHR2QpYIjgBpLXxAnAGWYEVxhmpp73ONSzcFe_yd0XJp2YUROHhsVN5kiXptIjoMfKX7ezomenY8SpaDX8ET0pHX6yCkJYdEF416fwwu89owb2WAnJliJM",
+                "width": 900
+            }
+        ],
+        "place_id": "ChIJR6UGlEtPYA0RLO8qoS8OpZY",
+        "plus_code": {
+            "compound_code": "FJ9C+PQ Valencia, Spain",
+            "global_code": "8CFXFJ9C+PQ"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJR6UGlEtPYA0RLO8qoS8OpZY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2851,
+        "vicinity": "Carrer de l'Arquebisbe Mayoral, 5, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4801438,
+                "lng": -0.3876863999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.48150768029149,
+                    "lng": -0.386348369708498
+                },
+                "southwest": {
+                    "lat": 39.47880971970849,
+                    "lng": -0.3890463302915021
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "El Corte Inglés",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2252,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114118451392288609524\">Pako Valera</a>"
+                ],
+                "photo_reference": "AdDdOWotER9obCReyLf4e9FqdMq4UakcNGGqbwYRESgAqcwwROB1K5D4g_IEAJucalLejKFTRNdFKB6Ffj0roIrQPynzbCMayV2DQZsJ_hserA67oQWTOML0UVpYsIvEeenM_-vesjksPyWmflIBwK6woDZkQPmd_sJcj7tCct6F2wT2xkKj",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJx6gnh1lPYA0RdCV9WFcKS7M",
+        "plus_code": {
+            "compound_code": "FJJ6+3W Valencia, Spain",
+            "global_code": "8CFXFJJ6+3W"
+        },
+        "rating": 4.2,
+        "reference": "ChIJx6gnh1lPYA0RdCV9WFcKS7M",
+        "scope": "GOOGLE",
+        "types": [
+            "shopping_mall",
+            "meal_delivery",
+            "supermarket",
+            "parking",
+            "grocery_or_supermarket",
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13952,
+        "vicinity": "Avinguda de Menéndez Pidal, 15, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.46373469999999,
+                "lng": -0.3233092999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.46505903029149,
+                    "lng": -0.3221675197084979
+                },
+                "southwest": {
+                    "lat": 39.46236106970849,
+                    "lng": -0.324865480291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "El Coso",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100221048377354353355\">El Coso</a>"
+                ],
+                "photo_reference": "AdDdOWo9n5hvpHDrIWly-xMlY4tUMOXzGJEmB7zhpzvFi71SKhH-xRSGK7rQMWU8MsvAfU7ecEp27Oozrx38s55zQDT4B7Js-8LxXVFi_Xo8g9juXg0cgfxG3-8sw5Mq8q1r5Tf1sVtjTU_S6ghXs1d-5hzlYpmFy1HG7qsjLrdR6qDyq7Xo",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ99rmJEJIYA0RwtFOCEOGvaQ",
+        "plus_code": {
+            "compound_code": "FM7G+FM Valencia, Spain",
+            "global_code": "8CFXFM7G+FM"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ99rmJEJIYA0RwtFOCEOGvaQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7215,
+        "vicinity": "Passeig de Neptú, 12, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4815185,
+                "lng": -0.3243832999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4828376302915,
+                    "lng": -0.323216469708498
+                },
+                "southwest": {
+                    "lat": 39.4801396697085,
+                    "lng": -0.3259144302915021
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "El Bobo",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111503501404408355113\">Restaurante El Bobo</a>"
+                ],
+                "photo_reference": "AdDdOWoSolB8ZZcovamqXHkYRjWVuQKZUBybL0tVul3UTo6UCvHM9fEGLrSgAorXIfXeWJ3Kf5YuL240BSSsyBXRJ0-w76hW7Ik_fECMK3R5xEkC-3XhokNokFfoqYRv7vFPrrHvfrSh6gdggpzvUpaGcSR6UPWeW50yiaz9HND4vRPQPwet",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJFwZaImVIYA0R76LLgqs9dh8",
+        "plus_code": {
+            "compound_code": "FMJG+J6 Valencia, Spain",
+            "global_code": "8CFXFMJG+J6"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJFwZaImVIYA0R76LLgqs9dh8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2985,
+        "vicinity": "Playa de la Malvarrosa, Paseo Marítimo, 3, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4614102,
+                "lng": -0.3753176
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4627982302915,
+                    "lng": -0.373996419708498
+                },
+                "southwest": {
+                    "lat": 39.46010026970851,
+                    "lng": -0.376694380291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cuinar-te Russafa",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100062695024230950006\">Cuinar-te Ruzafa</a>"
+                ],
+                "photo_reference": "AdDdOWoL5kzGP7Mm3-xzHj8k36iFSdfgz7jn4ehaMNK4AbBeOj5n4yMkqMoJevsNTinbmuNaYwd0LcYm2iEUjtiuSmoBu1us5XiNPSJ3seup00Wi4AxbjmtpAsLegRL6hdqUoVNkOuaVBHvMBKT9gboRRnCGhO7pFbham0qlyX-gj9X6de0I",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJu45kyDRPYA0RNkpUVmm4VNk",
+        "plus_code": {
+            "compound_code": "FJ6F+HV Valencia, Spain",
+            "global_code": "8CFXFJ6F+HV"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJu45kyDRPYA0RNkpUVmm4VNk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 676,
+        "vicinity": "Carrer de Puerto Rico, 15, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4765308,
+                "lng": -0.3777045000000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4779367802915,
+                    "lng": -0.376352519708498
+                },
+                "southwest": {
+                    "lat": 39.4752388197085,
+                    "lng": -0.3790504802915021
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bar Los Picapiedra",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105455419423519438138\">Nikola Burdová</a>"
+                ],
+                "photo_reference": "AdDdOWozfzIRUv9Y3NV5dxA7mkBZ3u3LNR4QFctIqj1HIm_kVCmMXT4K7h-ZXGARlHCsaOwnzX69F8_gSefQJh5ocOvXZlsGLgRRok00tzyHWq2ls1xe1DsSzO9Van0UVmtTmZAt8ak5oenoDvYbVy9ld1lKfA0QbZvseuYyLO0yzkEbTxl4",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJB8KvZ1JPYA0RhpmS790X85A",
+        "plus_code": {
+            "compound_code": "FJGC+JW Valencia, Spain",
+            "global_code": "8CFXFJGC+JW"
+        },
+        "price_level": 1,
+        "rating": 4.8,
+        "reference": "ChIJB8KvZ1JPYA0RhpmS790X85A",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1719,
+        "vicinity": "Carrer dels Cavallers, 25, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4739733,
+                "lng": -0.3856772
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4753182302915,
+                    "lng": -0.3844185197084979
+                },
+                "southwest": {
+                    "lat": 39.4726202697085,
+                    "lng": -0.387116480291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurante Pelegrí Valencia",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2304,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100026587491912625180\">Restaurante Pelegrí Valencia</a>"
+                ],
+                "photo_reference": "AdDdOWpLojpX3BfP9QJkA5m9fHo3HyiYp9cw-iiMEyur_-6IkiIs8HVvuIBHHqBjzc6_KuH_wxGMvlYPMoypp9lmn0fY0q2ivU0DQtXAixM4sir6om6-jIX9dRvdyGDr6Zv91cA6k6gu2be27sIYOTasN-gvMBHTpeCeKuS4vewyqMql3KBN",
+                "width": 3456
+            }
+        ],
+        "place_id": "ChIJL3JjFkVPYA0RQAlTa2d0DwM",
+        "plus_code": {
+            "compound_code": "FJF7+HP Valencia, Spain",
+            "global_code": "8CFXFJF7+HP"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJL3JjFkVPYA0RQAlTa2d0DwM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 540,
+        "vicinity": "Carrer de Lepant, 23, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4670923,
+                "lng": -0.3665554
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4684734802915,
+                    "lng": -0.3651294197084979
+                },
+                "southwest": {
+                    "lat": 39.4657755197085,
+                    "lng": -0.367827380291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Racó del Túria",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107430972441956399773\">Irina Moreno</a>"
+                ],
+                "photo_reference": "AdDdOWrmPIHFH1yJgI5oQAdwgaFB7SQY0YJ-f4EHyt_9LxyqR5a1FSt3-dnfOsQBHvZmFgZKbqy0mqsMTsstya66SKYnXGG_eoIoQQzlnI46GU2dp3V8ayqA0Yp0DoVMX8aKA79p51eWRbkdD8PXfftJVmdBtkkk8eYlgENK1cs_atK3D_-u",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJIRgmmLdIYA0RZpX6MUMTVoE",
+        "plus_code": {
+            "compound_code": "FJ8M+R9 Valencia, Spain",
+            "global_code": "8CFXFJ8M+R9"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJIRgmmLdIYA0RZpX6MUMTVoE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1311,
+        "vicinity": "Carrer de Ciscar, 10, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4525959,
+                "lng": -0.3542365
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.45588925,
+                    "lng": -0.35218235
+                },
+                "southwest": {
+                    "lat": 39.44994585000001,
+                    "lng": -0.35952415
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Centre Comercial El Saler",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1688,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103665646979914357199\">Centro Comercial Saler</a>"
+                ],
+                "photo_reference": "AdDdOWrJkSK7RfJXaBNYWl_myA_XzBwbTitgc9ZET1sG78I3XCxu0gmC3xTQsUR2vvAYrcsq3wsXJB1G5wbz3shcMnQd9yDqHoSjROQEkShOIm3n64Fie4gXtTcd0dY1VXpUFdLWAfXS5FRiU80xUWcy-AbKwH5XyMdk3qcKy8GBPxYuUTgl",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJGRQGhedIYA0RY-_EwBwFIXc",
+        "plus_code": {
+            "compound_code": "FJ3W+28 Valencia, Spain",
+            "global_code": "8CFXFJ3W+28"
+        },
+        "rating": 4.2,
+        "reference": "ChIJGRQGhedIYA0RY-_EwBwFIXc",
+        "scope": "GOOGLE",
+        "types": [
+            "shopping_mall",
+            "shoe_store",
+            "convenience_store",
+            "supermarket",
+            "grocery_or_supermarket",
+            "clothing_store",
+            "home_goods_store",
+            "movie_theater",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 32505,
+        "vicinity": "Avinguda del Professor López Piñero, 16, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4829699,
+                "lng": -0.3946427999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.48432443029149,
+                    "lng": -0.3931999197084979
+                },
+                "southwest": {
+                    "lat": 39.4816264697085,
+                    "lng": -0.395897880291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Restaurante ZEN",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114939148239146253789\">Itaca</a>"
+                ],
+                "photo_reference": "AdDdOWqin9q1B-H7XBsKpNRdN2twtdGj2-eRaM-NhSKl_DwpYZPdkBC5dDFzwAYhZgQR7r1icy4g5YVwGl2rSt1IQ6ndDl7QdJd-sAs_UqFj3XvskeoF3lStdMUtLE3cBx3o0nA5spSM1pmF662Menpl091f91IP70oJ4r524ez_XvMoXKFT",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJc0p6iWBPYA0RXas5GIQV-AI",
+        "plus_code": {
+            "compound_code": "FJM4+54 Valencia, Spain",
+            "global_code": "8CFXFJM4+54"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJc0p6iWBPYA0RXas5GIQV-AI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1104,
+        "vicinity": "Avinguda de Pius XII, 33, València"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 39.4536277,
+                "lng": -0.3689449
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 39.4551604802915,
+                    "lng": -0.367828219708498
+                },
+                "southwest": {
+                    "lat": 39.4524625197085,
+                    "lng": -0.3705261802915021
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mas Blayet",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110704378436298411193\">Mas Blayet</a>"
+                ],
+                "photo_reference": "AdDdOWpzRv53faWZz0Ik-zcq67CYrVwUTJLPleU5IZBfvQt2cIOP_qHBpvIZq3IL4vn7ari9sni7WMI0VgQKKvQKplRgugj5rtP6Ya9aPR-ga76MuLtqeAyg6Gbc0jvRpUyZfAYd-lug8C-Ojim1gD6BcWbjg4-dom7nZ-0A-TZ9GW1MwYVi",
+                "width": 3872
+            }
+        ],
+        "place_id": "ChIJc2Q9PdJIYA0RiXgh_X-JLEM",
+        "plus_code": {
+            "compound_code": "FJ3J+FC Valencia, Spain",
+            "global_code": "8CFXFJ3J+FC"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJc2Q9PdJIYA0RiXgh_X-JLEM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3087,
+        "vicinity": "Avinguda de la Plata, 12, València"
+    }
+]

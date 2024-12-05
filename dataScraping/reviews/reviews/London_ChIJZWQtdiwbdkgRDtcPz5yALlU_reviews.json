@@ -1,0 +1,66 @@
+{
+    "name": "Charlotte Street Hotel",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Helen",
+            "author_url": "https://www.google.com/maps/contrib/105938971727823828620/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJg01Ffv17WjHt_CFj1ieqZg00ZBDuI79-12vPRaa9YmLFDw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "We've been coming here for about 10 years and staying anything from a weekend to a few weeks at a time. We've always been made to feel at home and welcome.\n\nThe rooms and decor has always been maintained so it as new. The team are well trained and know how to deal with difficult request and above all, know how to deal with a situation that doesn't go to plan- the mark of good service.\n\nA special mention for Renton who always goes above and beyond to make our stays very memorable. Thank you.\n\nGreat rooms, food, service, and such very good people. Here's to another 10 years of it being our favourite hotel in London.",
+            "time": 1732925513,
+            "translated": false
+        },
+        {
+            "author_name": "LucAbroad",
+            "author_url": "https://www.google.com/maps/contrib/100144549092022082251/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBNB73wfQP-iS7s9IRA2y7Y5F9h1TLegoefFQUDLrvNkM9EOF8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "I recently visited the hotel for afternoon tea with my family and had a lovely experience overall. The service was excellent, and the tea and coffee were superb. The only downside was the selection of sandwiches, which were served on sourdough that was a bit hard. Despite this, I would still recommend the experience.",
+            "time": 1724948666,
+            "translated": false
+        },
+        {
+            "author_name": "Rebecca Kassube",
+            "author_url": "https://www.google.com/maps/contrib/108286612189590270855/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_Nccva3g-0xjTiB3ytZGwojT-xh0QIvfsQDI3BjOzsegs4A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We stayed at Charlotte Street Hotel for two nights and used their Deluxe Junior Suite (with the floral headboard) as a bridal suite.\nThe room was absolutely stunning with so much light and beautiful fabrics to act as the perfect backdrop for our wedding morning.  There was plenty of space for hair, makeup, and bridal party to sit and get ready.\nOn the evening of our day, the staff had switched our robes out for 'Mr & Mrs' robes which was a lovely special touch.\nOur only complaint was that there wasn't a coffee machine and my tip for other brides would be to bring a tall enough rail to hang your dress for steaming (the rails inside the wardrobe aren't particularly high).\nThe staff at the hotel were helpful and friendly and all of our photographers/videographers were vey complimentary (and greatful) for such a beautiful photogenic venue.",
+            "time": 1727616433,
+            "translated": false
+        },
+        {
+            "author_name": "Susie Roberts",
+            "author_url": "https://www.google.com/maps/contrib/105105775339950855298/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHNTHKIY2ksvLc5Znm2Yv4Mn-LpfQQT8BnTTVKUV6exlyQJt0=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This is one of the nicest places I have ever been to in London. The latte was definitely the best, the afternoon tea was sublime, the service was truly outstanding. Cannot recommend this place highly enough.",
+            "time": 1728234888,
+            "translated": false
+        },
+        {
+            "author_name": "Ronna Fu",
+            "author_url": "https://www.google.com/maps/contrib/112465025498632733664/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXH2DLi_1QLL9oIeoB0VHS5Ri5oBu6DeOprKW9utdY3JbmS9ieS=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Swanky hotel away from the heart of city but close enough to commute to various hot spots. There are many food places surrounding the hotel where can explore both local and foreign cuisines. The tube station is close by if you want to catch the train to get out of the city.",
+            "time": 1725875798,
+            "translated": false
+        }
+    ]
+}

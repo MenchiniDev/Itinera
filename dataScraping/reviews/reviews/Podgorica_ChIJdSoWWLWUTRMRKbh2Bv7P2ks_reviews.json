@@ -1,0 +1,66 @@
+{
+    "name": "Pizzeria Me Gusta",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Nina HS",
+            "author_url": "https://www.google.com/maps/contrib/117752085101606795549/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqYoLEEs58TD0BFCnij2su4i6H0WG2XS49rt_gXssbcdJvNQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "I came here once and tried the risotto (beef&mushroom); definitely coming back.\nFood was fresh and tasty plus we were served by a very nice waiter! And the bonus- we used Golden360 app to get “pay one, get two” on the risotto!",
+            "time": 1625403852,
+            "translated": false
+        },
+        {
+            "author_name": "Maijastina Kuusinen",
+            "author_url": "https://www.google.com/maps/contrib/109905167986602984187/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU93DsoO8ZGLnTjBenZMXanxnc-B2tRGFNl6Gqg77eV_RVulFw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "Great pizzas and you can choose with 2 sizes: 400g or 600g",
+            "time": 1565465098,
+            "translated": false
+        },
+        {
+            "author_name": "Predrag Mirotic",
+            "author_url": "https://www.google.com/maps/contrib/104858329330883801670/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKexa1AjjqgK_6n9ia8r35SnSmazi_JNsJCL4-At_0OHOloAA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Our employees are ordering every working day food in our offices, i can confirm that they work better! :-)",
+            "time": 1484315887,
+            "translated": false
+        },
+        {
+            "author_name": "David Keisar",
+            "author_url": "https://www.google.com/maps/contrib/114575231988080646307/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGaFG4_hpa4Kw0EJ4kcz3dvvUqOm8t7g0a2bSUsmmFJxknIQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "Very nice place, tasty and cheap. Would go again for sure.",
+            "time": 1620217770,
+            "translated": false
+        },
+        {
+            "author_name": "Milica J",
+            "author_url": "https://www.google.com/maps/contrib/104243424109502517538/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXerQB1JAGTD9v9BS3BzeKEe0n8biO1dUvU7ogqqsiJFIhdNlYw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Delicious pasta and pizza. The prices are little expensive than the others pizzeria in town.",
+            "time": 1517076317,
+            "translated": false
+        }
+    ]
+}

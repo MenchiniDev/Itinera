@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant Teatteri",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Courtney",
+            "author_url": "https://www.google.com/maps/contrib/114228802962011633563/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9Zqcepb6kMwIeVuldeN_nkC1-3JWHQ-_5sdAjQumhGFY6KA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Very nice atmosphere. We waited for a while for a table though as they were understaffed. Nicely decorated inside. Before we got a table we had to order our food at the check in stand. We picked our table after we ordered. Sat outside. Food came out and it was plentiful and delicious! Had the risotto and the corn!! I would go back and try something else.",
+            "time": 1727131692,
+            "translated": false
+        },
+        {
+            "author_name": "Gertrud Lend",
+            "author_url": "https://www.google.com/maps/contrib/108542290783647314942/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJizNXxCaDlM6xfhefLsqCoJsvkWnjzVJcgduM8jER0jnAkFw=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 weeks ago",
+            "text": "The atmosphere was classy and cozy but one minute stake was cold and served with cold soft fries, risotto was over salted. Drinks were too sweet. Service was on rush and took very long.",
+            "time": 1731176729,
+            "translated": false
+        },
+        {
+            "author_name": "Ani Serobyan",
+            "author_url": "https://www.google.com/maps/contrib/112944866857548754595/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2DnmO2rApjk4gdk0Qc2kcO7EL4Q7ujecKQuLrVr94lOMEusI4=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "📍located in the center of Helsinki, Swedish theater building, next to Esplandi park\n🖼interesting design, unique for Helsinki\n🤵‍♂very good service, nice waiter\n🥗food was very tasty , had fish and the Ceasar salad with chicken\n🍸drinks were better at the bar,not a large offer in the restaurant . The bar is very flexible in making cocktails you want, so you don't have to choose from menu only\n💶quite expensive place, surely not for a budget, but it's worth for the tastes and atmosphere\n🌟would love to visit again",
+            "time": 1637593774,
+            "translated": false
+        },
+        {
+            "author_name": "Sanna Vilkki",
+            "author_url": "https://www.google.com/maps/contrib/102272765294556529843/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVUqmpqjCwl4vbzfklY9TWLB8vZJ7VfX-Oo1avZ_dxwOegdA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "Long queues for no reason, but one can pay to get in past the queue. So if you have money and want to make sure others know that too, this is your place to go. Nothing else is special here.",
+            "time": 1732922097,
+            "translated": false
+        },
+        {
+            "author_name": "Sami Puro",
+            "author_url": "https://www.google.com/maps/contrib/104794162896577001915/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdoajsVa2jZS258iVWtaUQiXIuaDFpguhhlHhMKqQxo36MU0U=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Excellent meat dish, with a friendly no-nonsense but still \"upper-class\" service, with good recommendations on food and drink (I believe we were served by the shift manager the last time here since even I noted the professionalism).\n\nHave visited here often, and has always been a nice experience.",
+            "time": 1724412944,
+            "translated": false
+        }
+    ]
+}

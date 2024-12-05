@@ -1,0 +1,66 @@
+{
+    "name": "Hôtel Pulitzer Paris",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "David K",
+            "author_url": "https://www.google.com/maps/contrib/106389568743774602454/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxlOBPaLYx4vlqfduJs4NL2sKF_u1N7AqyNXBHpY4ZImqobw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We had a great stay here! After initially staying a couple nights at another hotel close by, we moved to here for the remaining 5 nights of our trip and it made such a drastic difference. The staff was fantastic, friendly, and accommodating (and even helped us with a great room upgrade). The property is comfortable as it's quiet enough if you need to get some work done but also not too quiet where it feels like there is no energy in the place. It's on a busy street, but the second you step inside it's a good escape from the hustle and bustle of the city.  They bar has great cocktails and friendly, attentive service. You can tell there was lot of attention to detail in the design choices throughout the property and rooms. Comfortable bed, stylish room, and very clean. There are multiple metro stations within only a few minutes walk. We had previously stayed at the Hotel Pulitzer in Barcelona so were familiar with the brand and the Paris property was another great experience. We highly recommend this property and look forward to our return visit!",
+            "time": 1728423039,
+            "translated": false
+        },
+        {
+            "author_name": "John Honeyman",
+            "author_url": "https://www.google.com/maps/contrib/111322736452159132403/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXE9eqlyTenGRz7egiS9sEiQmSveDEePEjSvgYIzK-vCH7MUv52=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Location was excellent and room was cozy and cute. Despite being a very small floor space it had what I needed and was new and clean. Bed was very comfortable and I slept well. Staff were polite and professional and the breakfast was good. Highly recommend.",
+            "time": 1732530284,
+            "translated": false
+        },
+        {
+            "author_name": "Meridith McCurtis",
+            "author_url": "https://www.google.com/maps/contrib/105350464655985659852/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv_72M40OOT9kmp_8-Od1bzBatpkC8vhEtqm3ZE_XhMT3qqq39=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "A well situated quaint little hotel in the heart of Montmartre.  Great access to metro restaurants and shops.  Unfortunately room faced inner courtyard overlooking back windows and top of lobby roof ceiling.  Also the bathroom door was not hung straight indicating lack of maintenance quality control.\n\nIn spite of these room issues, the front desk staff are outstanding and helped with a number of questions about transportation and culture.  Definitely worth a stay.",
+            "time": 1728848985,
+            "translated": false
+        },
+        {
+            "author_name": "Alison Boyle",
+            "author_url": "https://www.google.com/maps/contrib/117254785056216795114/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3VxYSQQiQRhIDMBP4TqgrcTB82UQpWL1rVsvoCv1pZV1u5Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Couldn't fault our stay at all. Lovely staff who couldn't be more helpful, always with a smile. The guy on reception remembered our names which was sweet. I wish I had got his name to mention him as he is super smiley too. The room could have been bigger but who comes to Paris to stay in your room? Loved it and would not hesitate to stay here next time we are in Paris",
+            "time": 1728818356,
+            "translated": false
+        },
+        {
+            "author_name": "Bobby Strawbridge",
+            "author_url": "https://www.google.com/maps/contrib/107450685235647692741/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQ2gmx_bScd9TwKfP69Ld0ggG4113bxbgkcvR2yrf1pzAkvQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Just finished a 10 day stay at this hotel (work then leisure).  The hotel itself, while not as spacious as many venues is elegant and stylish and very Parisian.  The room is well proportioned and equipped and the daily cleaning is to a very high standard.  The location is in a vibrant part of the city and is equidistant to the main tourist targets.  What made our stay was the welcoming and friendly staff.  From our arrival to our departure all members of staff were engaging and eager to help.  Special mention has to go to the breakfast/house team (all the receptionists and especially Casper and his colleagues; apologies I have a sieve for a brain) whose attentiveness and cheery demeanour made every start to the day a pleasant one.\nWe have stayed at The Pulitzer a few time now and while it may seem sensible to change locations the warmth and vibe make it a go to place for our team.",
+            "time": 1719400820,
+            "translated": false
+        }
+    ]
+}

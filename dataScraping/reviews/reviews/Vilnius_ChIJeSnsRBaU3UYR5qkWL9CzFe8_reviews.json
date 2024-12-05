@@ -1,0 +1,66 @@
+{
+    "name": "GABI",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Ainoa Pieters",
+            "author_url": "https://www.google.com/maps/contrib/114783734524974502017/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5YLhRfVZuVc2zsrSt1oRzvtpLszDaF_9goigNzfhODOQcH_E_oA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "One of the best restaurants I have ever been to! The food was amazing and the interior is beautiful. Creates a very nice atmosphere. The food was delicious. I would 10000% recommend this restaurant when visiting Vilnius. Even the prices were really good. The staff was really kind and funny.",
+            "time": 1731498697,
+            "translated": false
+        },
+        {
+            "author_name": "Tomas S",
+            "author_url": "https://www.google.com/maps/contrib/115311691504120597682/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnHdgxuQnat32LoKm11tYOGdvs5fozTPHw-FKgIotFNvyVOQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Great location down a quiet road just off the main tourist area so it was quiet and easy to get a table for a large group.\nPrices are reasonable and there's a good selection of traditional Lithuanian food. Service was a little slow but otherwise fine.\nFood was reasonable but not the best I've had in Vilnius. Reasonable drinks prices and selection.",
+            "time": 1720381603,
+            "translated": false
+        },
+        {
+            "author_name": "David Tilšer",
+            "author_url": "https://www.google.com/maps/contrib/100903724703933644912/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC7MbDJyM4xOxAng_eiWbpuln_Gbvmrh84bnh32yPfH2RUt0r_=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Hidden, very nice restaurant. The staff is extremely professional, but don't expect a smile. I like the staff to be smiling, to be pleasant. You'll feel like you're being served by robots here. Maximum professional, but not a bit of smile, nothing like that.\nWe waited 45 minutes for our food, which I thought was very long.\nAnyway, the environment is amazing. It's beautiful in the garden and inside. The food and the wine were excellent.\nI take a star off for the long wait and no smile.\nI would still recommend the restaurant. Worth a visit.",
+            "time": 1723535181,
+            "translated": false
+        },
+        {
+            "author_name": "Georgy Furs",
+            "author_url": "https://www.google.com/maps/contrib/105533912536092977445/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWV_1yO4qEvjiZ8sVCgChkrAtF6OXRuBPHr6J_dNFE24ttTc0ir=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The staff is friendly and patient, potatoes here are especially good(important for a cuisine that has a pretty big focus on potatoes), and the garlic bread is traditionally excellent. The dessert is airy and sweet.\n\nEverything had a nice presentation, and the feel of the restaurant is atmospheric.",
+            "time": 1724391211,
+            "translated": false
+        },
+        {
+            "author_name": "Bruno Froz",
+            "author_url": "https://www.google.com/maps/contrib/101660696092704620677/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxNY3EIsDf76t4OQSRu2PXoPHCAwNTezTxk1zWrnteffeCA8VX=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The food is simply amazing. Best Lithuanian food I've tried so far. Also, prices are very fair.\nThe Gabi dessert was really tasty and unique.",
+            "time": 1729077916,
+            "translated": false
+        }
+    ]
+}

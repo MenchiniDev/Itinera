@@ -1,0 +1,66 @@
+{
+    "name": "Daifuku Ristorante Giapponese",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Tristan Alexander",
+            "author_url": "https://www.google.com/maps/contrib/106799832959584802708/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8i_yrl6qJE_PRgFauZ7R0Q2FOWZROaBzVPUd2xDoUdRT5uXM=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "The food was incredible, and the price of ~17€/person is not bad either. I admit I was somewhat apprehensive due to the review further down the page that said that 5 courses weren’t enough and the food was not good, but I wholeheartedly disagree. I found that the five items I ordered were not only TOO MUCH food, but were also beautifully presented and carried a flavor to match their appearances. What you “lose” in not getting all you can eat is more than made up for in the quality of the dishes. The salmon, for example, just melted in my mouth. I highly recommend this restaurant and will return if ever again I find myself in San Marino.",
+            "time": 1651097755,
+            "translated": false
+        },
+        {
+            "author_name": "Irybelle Razon",
+            "author_url": "https://www.google.com/maps/contrib/118111569801016698572/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1wzj5oZ46RtVrVG1FxXOzPvPWjHgBoIlcNJ2fNFqmGXeTmvi5=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Delicious food! Great service! Near to hotel Rossi and bus stop. A must try",
+            "time": 1715444259,
+            "translated": false
+        },
+        {
+            "author_name": "Mirela Cudalb",
+            "author_url": "https://www.google.com/maps/contrib/103263216541176230781/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpBcErHWkIPrHUVAVIUFsB5bvzHem56Z47D9QTbAn329yG=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Excelent sushi, fresh and tasty, great services, very good restaurant! We will sure come again in the future if we will come again in San Marino. We have ordered also sweets that were very good.",
+            "time": 1661375000,
+            "translated": false
+        },
+        {
+            "author_name": "Jose Calderon",
+            "author_url": "https://www.google.com/maps/contrib/105920250747353172312/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXjZ3SoM7aH9frmV5-fV416I-k_VU946uqbTxRBwtRVQBp2w=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Very good sushi, reasonably-priced. A very fun experience. Boats are a great deal",
+            "time": 1508917195,
+            "translated": false
+        },
+        {
+            "author_name": "Jay Boychuk",
+            "author_url": "https://www.google.com/maps/contrib/105176965205633794471/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJURRLbqt6s023V3sdkVJdPz75yMlqZ3rRm2MaSIXLL3lyMtQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "Lunch menu (choose 5 dishes) - gratuitous portion sizes, overall good quality, normal service. 4/5 overall.\n\nBad: when paying I'm 95% sure the waiter did something very suspicious with the card, as he waved it around strangely behind the counter as if there was a camera, and requested the card for him to tap versus letting me tap. Left a very untrustworthy feeling. Hope I'm wrong here, but don't want anyone getting scammed.",
+            "time": 1656269099,
+            "translated": false
+        }
+    ]
+}

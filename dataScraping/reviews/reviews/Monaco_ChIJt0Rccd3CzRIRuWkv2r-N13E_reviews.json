@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Edmond's",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Nicole Lensen",
+            "author_url": "https://www.google.com/maps/contrib/111766205671364910711/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAWBwG9_qFEvyJ67jY0RRVG9eVtQpJq01U5KrRF3nwICVLws49=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Brasserie: wonderful! Our family of 4 travelled from California with a layover in Copenhagen and arrived in Nice. We were jetlagged. We checked into our Airbnb in Cap d'ail and needed dinner. We dined on a Wednesday night with two children (11 & 12) and we were shocked at the kindness and hospitality of the staff at the Brasserie, wonderful customer service. The people dining in the restaurant were also lovely. It was a welcoming and delightful environment. The food was delicious! I loved the risotto. Overall magnificent! I would highly recommend and will be back on our next trip!",
+            "time": 1728912825,
+            "translated": false
+        },
+        {
+            "author_name": "Adriana Badea",
+            "author_url": "https://www.google.com/maps/contrib/104848260450866575161/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoLSGyxxUIvotxZOOHnnr4pibLMqmMTN3hZ23EIF86XAdCEA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Tasty food, except the crepes which weren’t great. Overall an elegant restaurant with friendly staff.",
+            "time": 1724758927,
+            "translated": false
+        },
+        {
+            "author_name": "Jessica Lewis",
+            "author_url": "https://www.google.com/maps/contrib/109217874596342208692/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPiVS1JbNLSF2Sm8JfR4IHbRcwpvZAL1Z96ke960OUkDwG53N_=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "*review of the restaurant - not hotel*\n\nTried to have breakfast at Edmonds but instead had an awful experience.\n\nAfter waiting for an hour for our food, it arrived and was inedible. We politely tried to explain that the scrambled egg was too watery and runny for us to eat. We could see the milk still floating on top of the egg and the texture was like stale porridge. I tried to explain that we were happy to pay for everything else we had ordered but the owner became very aggressive and demanded that we leave.\n\nWe have had such a wonderful time on this trip to Monaco and have been met with such wonderful friendly service and great food elsewhere so this experience was so bizarre and disappointing. I think Edmond has some clear anger issues that need to be addressed away from his customers.",
+            "time": 1688892146,
+            "translated": false
+        },
+        {
+            "author_name": "Neville Callear",
+            "author_url": "https://www.google.com/maps/contrib/114945508630943013476/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-sAulrbB-dVfdfc9uPXyIciURfW30i0kHTMelwwYEjtSnRw=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "Tastefully decorated, lovely staff, good air conditioning. Unfortunately toilet bowl was cracked, no kettle in room so had to pay for a cup of tea in restaurant (€3:80) ! ..no fridge so drinking water warm. Toilet roll holder underneath drying towel ! ...overall a nice place but needs to think more about its customers needs.",
+            "time": 1659555958,
+            "translated": false
+        },
+        {
+            "author_name": "Ben Bishop",
+            "author_url": "https://www.google.com/maps/contrib/116347617691312098003/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxP2EjfbT-rMaeGCf93_Tt7BT4bwGZeG3axAEW1F_K9etVwA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "*This is a review of the restaurant*\n\nPizza was tasty and very cheesy but service wasn’t great. Took a while to be seen and the waiter made us feel not welcome. Tried to speak as much French as we could but was made to feel like an inconvenience.",
+            "time": 1692198517,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Brasserie France",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Vy N.",
+            "author_url": "https://www.google.com/maps/contrib/110668520811326745970/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUknOCwZsqrWKtiFkoVdrAoqE7BnacQ8rfQtoO6AluprUFKonpg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Classic French food in a nice part of Oslo. We had a 3 course with a cured meat platter, duck for main, and crème brûlée for dessert. The food was well prepared and presented, but perhaps a bit rich for me (not a problem if you have a big appetite!).\n\nThe noise level wasn’t great. We were on the second floor and it was difficult to speak with the person across the table without shouting.\n\nServers were efficient and friendly. It’s a nice restaurant for a more formal dinner, though is probably pick a more quiet time of the day if I came back.",
+            "time": 1731360806,
+            "translated": false
+        },
+        {
+            "author_name": "Bulu Tune (Bulutune)",
+            "author_url": "https://www.google.com/maps/contrib/114176289824871908917/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrs8B7CveQ-pRmAHIUH2ARWxhvXunk_Fj8w8XGz1jptU5rD1mY=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "One of the best French restaurants in Oslo. Food is tasty, very nice service and above all it is not so pricey. Very hard to find such a good restaurant in a very touristy area. You should definitely give a try.",
+            "time": 1693503607,
+            "translated": false
+        },
+        {
+            "author_name": "Emna A.",
+            "author_url": "https://www.google.com/maps/contrib/116289665040641950325/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUq-BbNM_iI3rV09jXowxU5xYmnjLApxPaDaoXCme9Qalef3VN8=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The restaurant is so welcoming! they have options for any kind of diet whether gluten free only or seafood or anything you can imagine. their dessert is so delicious, the vibes of the restaurant and everything there was breathtaking!\nI definitely recommend this restaurant for anyone who fancy a luxurious dinner 🥘",
+            "time": 1695367912,
+            "translated": false
+        },
+        {
+            "author_name": "Elaine Said",
+            "author_url": "https://www.google.com/maps/contrib/116159824023017023108/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX86VbfTRC2vJ6nEddgFiqXM8CTlu-usiIfBUQ7V2iZ1xeE_YY=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "I lived in Brussels for many years and this restaurant felt like I had stepped into a restaurant in Brussels or France of course since it is a French restaurant. The food was very good. I had the snails and the French onion soup. The staff were friendly and the place is so cosy. I’ll definitely be back.",
+            "time": 1708758953,
+            "translated": false
+        },
+        {
+            "author_name": "Eric Leung",
+            "author_url": "https://www.google.com/maps/contrib/112634787733070152229/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUJcrktA4xCxxHoSbzq8KkhLUnHXoMumJd0HMbOJv5WpRl_Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Find this little cosy French restaurant on a side street and the food and wine was so good. Onion soup was excellent…",
+            "time": 1718468833,
+            "translated": false
+        }
+    ]
+}

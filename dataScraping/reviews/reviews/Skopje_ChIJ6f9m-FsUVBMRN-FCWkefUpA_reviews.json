@@ -1,0 +1,66 @@
+{
+    "name": "Balkanika Rustikana Restaurant",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Ingel Kadarik",
+            "author_url": "https://www.google.com/maps/contrib/117489301955626781103/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqb6KmzuayNUswTHzGa0hfED5pmz6JStmb1QlByC42jG0VoA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Perfect place to visit after walking around the city park. Visited Sunday lunch time. Amazingly quiet and cozy place with perfect service and very tasty food. After a long walk during a very hot day, this place was like a paradise.",
+            "time": 1724009574,
+            "translated": false
+        },
+        {
+            "author_name": "CIN ID TV",
+            "author_url": "https://www.google.com/maps/contrib/104139378124159491671/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfGBsspTwR1t_oBnx9La-4tSWFAehj_JamU1zYv2luWJ5LxOFKGA=s128-c0x00000000-cc-rp-mo-ba8",
+            "rating": 1,
+            "relative_time_description": "4 years ago",
+            "text": "Where can I start? The cook should take cooking lessons. My meat arrived more than burnt. It was dry dry dry. No flavour at all. Very hard. No condiments. Kids screaming. I'm a non smoker. So I had to eat covered in smoke. The hand sanitizer does not show the amount of alcohol it has so maybe. We are just pouring any liquid over us. The food had no taste at all. The desert 3 Leches was ok as usual.",
+            "time": 1601750004,
+            "translated": false
+        },
+        {
+            "author_name": "Jack Neary",
+            "author_url": "https://www.google.com/maps/contrib/113048672431242834492/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhtXwUzmuEQ9o4j5wtefCgj-PMFkXWHCtBEOmG5NFOPTICtLiL=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "\"In the heart of Skopje, Balkanika Rustikana is a culinary gem that embodies the soul of Balkan cuisine. Stepping into this rustic oasis feels like entering a time portal to the heart of the Balkans, where tradition and flavor dance harmoniously. The menu, a testament to the region's diverse culinary heritage, is a celebration of robust flavors and hearty dishes. The sizzling aroma of grilled meats, the comforting embrace of slow-cooked stews, and the delicate balance of spices in every bite—it's a symphony for the senses.\n\nThe dedication of the chefs here is nothing short of remarkable. Each dish tells a story, weaving together the history and culture of the Balkans on a plate. The cevapi, a quintessential Balkan delight, is a masterpiece of perfectly seasoned, tender meat, served with a side of warm, freshly baked bread. The hospitality echoes the warmth of Balkan households, making you feel like family from the moment you walk in.\n\nBalkanika Rustikana is more than a restaurant; it's a culinary expedition, an exploration of flavors that leave an indelible mark on your taste buds and your soul. If you're in Skopje and craving an authentic Balkan experience, this restaurant is a pilgrimage you must make. It's not just a meal; it's a journey through the heart and hearth of the Balkans, where every bite is a tribute to the rich tapestry of Balkan gastronomy.\"",
+            "time": 1698599774,
+            "translated": false
+        },
+        {
+            "author_name": "Ivaylo Marinov",
+            "author_url": "https://www.google.com/maps/contrib/110016765442739063134/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJIaFQaHMsUTZY7oMzvWTKakAYJ-Lv6zrRWcMW_NULlWe3bQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Great food.\nPlescavitsa was the best I have ever tried in Macedonia.\nUshiptsi - great.\nSalad - traditional and real taste of vegetables.\nFor sure you should try the little bread with sesame seeds as well.\nDefinitely will come back if I have the chance!",
+            "time": 1570258720,
+            "translated": false
+        },
+        {
+            "author_name": "Idan",
+            "author_url": "https://www.google.com/maps/contrib/100837873805034784243/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrYftGvt1zp5zlKpWf0Tsv_2soFW-jb0np3nkAUu5nhWhg9yh5=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "10 months ago",
+            "text": "Cooked meals are good. Just like many places here in Skopje, people smoke inside (even the napkins smell like smoke). You can sit outside though.",
+            "time": 1706985106,
+            "translated": false
+        }
+    ]
+}

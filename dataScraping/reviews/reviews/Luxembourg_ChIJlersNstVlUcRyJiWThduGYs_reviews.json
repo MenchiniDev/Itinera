@@ -1,0 +1,66 @@
+{
+    "name": "McDonald's Diekirch",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "Jan Siderius",
+            "author_url": "https://www.google.com/maps/contrib/106836564573390655805/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0BB3uXI9YEz3IRxZO_N_TmZkaEZDQVzShRrKLWczd73NwBV5C5w=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Off course, the consistent good quality one expects, clean toilets. Outside terrasse bit windy location .",
+            "time": 1719228369,
+            "translated": false
+        },
+        {
+            "author_name": "Michel Meyers",
+            "author_url": "https://www.google.com/maps/contrib/102618940928767446069/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsIcWG9dqQA3Ck_E-77e9oydrEGGWpPY6n0tfrm7RUT1OTAIVoNA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "5 months ago",
+            "text": "Bring headphones unless you want to listen to extremely obnoxious TV snake oil salespeople shilling nonsense cosmetics! (\"less than 600 remaining!\")\n\nUpdate: Staff who told me the ad-spouting could not be turned off have now turned it off and replaced it with music. (Restoring a few stars on the rating.)\n\nUpdate 2: Today, instead of QVC-style sales pitches you got treated to fake-reality TV garbage \"Der Blaulicht Report\" on the P.A. and screens, where people have heated arguments with their neighbours and/or the police. Perfect ambient sound for a relaxing meal! When asked, staff again told me it was impossible to change the channel, so I'm adjusting the ratings accordingly (1-star for the annoying atmosphere, 2-star deduction for the non-service).",
+            "time": 1719654749,
+            "translated": false
+        },
+        {
+            "author_name": "V",
+            "author_url": "https://www.google.com/maps/contrib/117520881817423205536/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnyVKzaf8A8lAIKif0VYmJJjpo_q-qWZUuhr9vSVDAnXbrrif7=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Visited as a tourist from the Netherlands. The food is horrible. Such a big difference from other countries. The fries were almost white and swampy and the burgers were like biting into some clay, but the nuggets were actually alright. Also a lot of items unavailable. Other than the food the visit was fine.",
+            "time": 1723318966,
+            "translated": false
+        },
+        {
+            "author_name": "Fin Garlin",
+            "author_url": "https://www.google.com/maps/contrib/111286580123917808732/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtWR8mkPUKJARkBTrHI07OTIbioTx51FNMYktVinuPzMH4FA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "work very cleverly. if you take something away, there will always be something missing. last time they \"forgot\" to add nuggets, which cost almost 12 euros. money in their pocket and my nuggets will be taken home by one of the staff. Bon appetit",
+            "time": 1721942539,
+            "translated": false
+        },
+        {
+            "author_name": "Ana Barbara",
+            "author_url": "https://www.google.com/maps/contrib/106416478315361731379/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6hlfLPBJSuFjxlgHcpk7f2DxgPAkUQi_rgo0aLDWjThGamSL9=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "The potatoes were undercooked, the burger had a bit too much sauce, and most importantly I asked without onion and pickles and it came with onion and pickles.\nThe staff was friendly though!",
+            "time": 1729341326,
+            "translated": false
+        }
+    ]
+}

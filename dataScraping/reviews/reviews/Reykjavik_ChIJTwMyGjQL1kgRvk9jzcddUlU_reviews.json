@@ -1,0 +1,66 @@
+{
+    "name": "Subway",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Gladys Thibaut",
+            "author_url": "https://www.google.com/maps/contrib/105083603562999270003/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKckZAAGVy-HjZlCrVZDWFPcLA9NE4lkdmc_w55EF2QQE9nbg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "Very bad customer service from an employee named Luna who was absolutely rude",
+            "time": 1716132568,
+            "translated": false
+        },
+        {
+            "author_name": "Maria Lecka",
+            "author_url": "https://www.google.com/maps/contrib/105153171575574631819/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdfebaEYUepuneI8Vch4V4qAjCYn5b9X9UYdahqI7nwcRjGMoe=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "rude employer.\nwas was rude to my little brother that accidentaly touched the glass and she talked to me like i didnt know what i was ordering that was one 6” chicken sandwitch… really rude and a know it all.\nthe sandwitch was cold but okay",
+            "time": 1657453088,
+            "translated": false
+        },
+        {
+            "author_name": "Just KarthiK",
+            "author_url": "https://www.google.com/maps/contrib/105609913026386318554/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtjfHFR4GN8R4lbYa13L-lBoqKB9qsqWc4ncl5isQWUJOmpScYvA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "6 years ago",
+            "text": "Pretty bad wrapping. We couldn't hand it properly and eat it. Once the pack all the veggies their task done but they're not bother about how we will eat those items if they didn't wrap properly.",
+            "time": 1528156825,
+            "translated": false
+        },
+        {
+            "author_name": "Ranjith Raja Simha",
+            "author_url": "https://www.google.com/maps/contrib/108614760873170036927/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGJq0IHL1RgrYpRlC_10rK45DknAbthexHzbMmh_jUdVt2sbV-Tw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The staff were so kind and polite. The sub is also tasty.",
+            "time": 1679420829,
+            "translated": false
+        },
+        {
+            "author_name": "Asu Shah",
+            "author_url": "https://www.google.com/maps/contrib/110014436217251967573/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAi9fCWd1AL2HiiZMaRprTboAXfQiWuhWvseF_C6FIfJI0sx8o=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "They work fast..but while doing that,sandwiches do get made sloppily",
+            "time": 1695972910,
+            "translated": false
+        }
+    ]
+}

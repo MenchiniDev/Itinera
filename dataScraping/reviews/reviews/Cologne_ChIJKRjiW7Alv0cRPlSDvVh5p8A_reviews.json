@@ -1,0 +1,66 @@
+{
+    "name": "Peters Brauhaus",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Tomas oconnell (Road Warrior)",
+            "author_url": "https://www.google.com/maps/contrib/114122736914314511128/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYD-yBbeVSK9PGClWzu5s1dsSY4lxvue6ynDdIVPneOaAcm3NM=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Had a short wait at lunch time but got seated expeditiously.  Local beer came quickly. Cool and lite similar to Miller. 🥱. We sampled many of the dishes with nice surprise.  Large portions and good flavor.  All was well prepared considering the rumors of bland cuisine of the area.  A matter of fact staff just this side of almost rude.  Good time had by all.  Nice find.  👏",
+            "time": 1732427216,
+            "translated": false
+        },
+        {
+            "author_name": "Jennie C",
+            "author_url": "https://www.google.com/maps/contrib/113659222953036224625/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQ7jrdpuCs5NWuJT0BIk9jf5T5Wlw4XHVNAmadPGwg0MquuQcW=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Local food, it was served promptly, good portion for the price. Shortly understaffed.\nUnfortunately when it comes to paying the bill, the waitress told us directly we have to leave a tip even tho service is non existent. We ended paying 13% more on top of the bill for tips as she loudly tapped the card machine on the table. Unpleasant meal experience.",
+            "time": 1733037210,
+            "translated": false
+        },
+        {
+            "author_name": "Bruno Da Silva",
+            "author_url": "https://www.google.com/maps/contrib/102304060349179716207/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM1jrgfkQWfbRhsd6iIawh9riOIE1aKurMC1biNYJH5zJW_XZ55A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Only came to this place because of the reviews I saw online, and I have to say I was not disappointed if you wanted to taste a true German restaurant and food, this is the place to go. I had the schnitzel dish, and we also tried the sausage and the turkey dishes, and all of them were delicious 😋. Local beer local food and German feeling we had a great time. Definitely recommend and would come back again.",
+            "time": 1731669043,
+            "translated": false
+        },
+        {
+            "author_name": "Nic I",
+            "author_url": "https://www.google.com/maps/contrib/115431340819704701305/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKsj74IV0f8VoY0Y6Cp9Vswo30Govxn5JyXD2NnvKyLuqLwA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "A fun place to get a lot of tiny beers. It's German food so don't expect a flavor punch to the mouth, but it's  clear the take pride and care in their food.\n\nThe blood sausage and ham hock were great. Kraut is a must. The beef tartare is definitely to share!",
+            "time": 1725315064,
+            "translated": false
+        },
+        {
+            "author_name": "Sergio Diaz",
+            "author_url": "https://www.google.com/maps/contrib/103876898092009472158/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgdtO9StZKdZGAw-5dOy8EFWMIKY0W50zsTb7JzJ7oNq8I1HgY=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "2 weeks ago",
+            "text": "The food was okay, but unfortunately, the service fell very short. After we finished eating, we had to wait over 30 minutes for the server to clear our plates. They only picked them up when the dessert finally arrived. Speaking of dessert, it was disappointing—I had the apple strudel, which was soggy and cold. Overall, there are definitely better places to dine in Cologne.",
+            "time": 1731864321,
+            "translated": false
+        }
+    ]
+}

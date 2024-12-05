@@ -1,0 +1,66 @@
+{
+    "name": "Central Hotel Stockholm",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Paul Lawrence",
+            "author_url": "https://www.google.com/maps/contrib/108978063521737715359/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_NXjV01DiNG81V5xIl5nGqMoRvGGVigWh_KAgYzvb1bR-Vg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This hotel is an excellent base for Stockholm. Ideal for getting to and from the airport by bus or train. Easy to walk to any part of town. Rooms are lovely. Breakfast is plentiful. This is my 2nd stay at this hotel.",
+            "time": 1721775352,
+            "translated": false
+        },
+        {
+            "author_name": "Rajneesh Chawla",
+            "author_url": "https://www.google.com/maps/contrib/117160689422714136124/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-XKFLr7W79XOOJlYTugvlVdx2K96vxlsCRYQRArt8FMg6W6jl=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Except the location, can't find anything right with this hotel...The room is so poorly designed and planned that from the moment you put your suit cases...you can't move around within the room without banging with something or the other...it's very poorly planned...there is no closet/ wardrobe to keep anything... To make fun of the tight space...they have placed dumbbells in the room to do weight training...good joke but in bad taste...\nHouse keeping staff is poorly trained...they left only one towel for 2 people...\nCan't find anything nice to say.",
+            "time": 1728767578,
+            "translated": false
+        },
+        {
+            "author_name": "Hillary Montague",
+            "author_url": "https://www.google.com/maps/contrib/107740795677584675515/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkGGPhYfnLuMFXYTVuuc_chR54_cyaGXJAKywo7KAVCd-Bxw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great location and very friendly staff. We were particularly impressed with Mo on the front desk who was extremely helpful and kind. Thanks for giving us such a wonderful first impression of Sweden Mo! It really made our holiday start on a great note.",
+            "time": 1723558807,
+            "translated": false
+        },
+        {
+            "author_name": "derya KISACIK",
+            "author_url": "https://www.google.com/maps/contrib/117370232663758802408/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtVnZe__uOaQMXHS-oOrgEGWP3bxLq5XV6Z8Llhu3qKQbEqw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Location is definitely impressive, you just walk 3 mıns from central station, easy walk.\nThe rooms are okey.\nBreakfast is great, delicious and variety available.\nthe rooms are not noisy, just be mindful using the hairdryer, it has a turning fan behind which can take away all of your hair 😅",
+            "time": 1722168363,
+            "translated": false
+        },
+        {
+            "author_name": "Ayumi Onozato",
+            "author_url": "https://www.google.com/maps/contrib/102579264600982663048/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZoYLWwJzM7mMRZlNHDbf-QWkwRTlOb7SqP2lRKhZMljh_aL39=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The location is good and the staff is very helpful and friendly.\n\nWhen I arrived in Sweden, I was tired and nervous.Because it was my first time traveling alone, and I wasn't very happy with foreign languages.\nAt the front desk, the staff greeted me in Japanese, saying \"YOKOSO (welcome).\" I'm sure it was just a normal thing for them, but for me it was a great relief and I was very happy.\nI enjoyed my trip. Thank you.",
+            "time": 1718719683,
+            "translated": false
+        }
+    ]
+}

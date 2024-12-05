@@ -1,0 +1,60 @@
+{
+    "name": "bati frites",
+    "rating": 4.8,
+    "reviews": [
+        {
+            "author_name": "Frederico Araújo",
+            "author_url": "https://www.google.com/maps/contrib/116123112741365367161/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpMOtTWjxzKO12zRRWqMfAcCDb4OUJC7LTZ0fenqC3tC9wcA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Top",
+            "time": 1564077503,
+            "translated": false
+        },
+        {
+            "author_name": "Patrick Vermeersch",
+            "author_url": "https://www.google.com/maps/contrib/108121991777396318778/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuKyavrj9XufazROZvYsZ_VhtL9sSQ3sL787ptcg4YXmVNxQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "Extra clean and fast",
+            "time": 1564438738,
+            "translated": true
+        },
+        {
+            "author_name": "Bea Greisch",
+            "author_url": "https://www.google.com/maps/contrib/101807792266013696233/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu9D0z16qzlWgZ_wsPq4_HYTJA4Qo-WdWWY2sWeWuFRaD7g0nG=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "",
+            "time": 1576413450,
+            "translated": false
+        },
+        {
+            "author_name": "Harun Honsić",
+            "author_url": "https://www.google.com/maps/contrib/111432268445100104579/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFvYFCPKxem9Km1xwjFMjouKAFFH-3IfC3pdtqYNW3v52GBw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "",
+            "time": 1572886973,
+            "translated": false
+        },
+        {
+            "author_name": "Antonio Inacio",
+            "author_url": "https://www.google.com/maps/contrib/108419537794065983895/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKofX4pf8YqqgiDICNR3WhATIa6lNoCUBb3IpaYtdbJG8kDKw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "",
+            "time": 1564077569,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Coconat Thai Kitchen",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Shobana Karthik",
+            "author_url": "https://www.google.com/maps/contrib/106211553991074892026/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWemiT7Phyc-klQwOMSakszbpa9M5zNw_y7rZrqpqxv-Dys22zi=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Yummy food, wonderful smiling courteous staff.\nIf you are in Liechtenstein, you should come here. They close at 2.30 after lunch and open again.",
+            "time": 1726573215,
+            "translated": false
+        },
+        {
+            "author_name": "Toivo Voll",
+            "author_url": "https://www.google.com/maps/contrib/105881943267833989127/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9lPkEmKWs8gXhoSo99mT1Atfp2FA2Sk6jzHGXg5DoY-TDpOA_=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Simple menu, a few choices not made to order, clean modern interior, great quality food and excellent and friendly service.",
+            "time": 1541768021,
+            "translated": false
+        },
+        {
+            "author_name": "Bruno Meier",
+            "author_url": "https://www.google.com/maps/contrib/111907037361271848714/reviews",
+            "language": "en-US",
+            "original_language": "de",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt6ETYbuVBX2ASiAViAADmhYoeEuD9SB6iEtwy6-PCFw_mxA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Delicious food - very nice people!!",
+            "time": 1716623644,
+            "translated": true
+        },
+        {
+            "author_name": "Jasmin K",
+            "author_url": "https://www.google.com/maps/contrib/101376051930732813175/reviews",
+            "language": "en-US",
+            "original_language": "de",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYgZjyd1h6serjnpXgqPDjHF8mSYWOo_Alm02THY_CuOk6lA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Very fine food. Authentic, fresh, great value for money",
+            "time": 1572366906,
+            "translated": true
+        },
+        {
+            "author_name": "Carsten Rüthel",
+            "author_url": "https://www.google.com/maps/contrib/105891460710312777833/reviews",
+            "language": "en-US",
+            "original_language": "de",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYwvTjgJmGsfiuw7W1al25jaIVURhEband3LYDnQwiZ3Cjw6st=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "4 years ago",
+            "text": "The dishes are always delicious, but there is little variety on the manageable menu. Definitely worth the trip once a week.",
+            "time": 1582214822,
+            "translated": true
+        }
+    ]
+}

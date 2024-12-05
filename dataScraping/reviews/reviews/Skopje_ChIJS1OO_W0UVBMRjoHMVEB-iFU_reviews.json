@@ -1,0 +1,66 @@
+{
+    "name": "Food Bar Trend",
+    "rating": 3.6,
+    "reviews": [
+        {
+            "author_name": "Kemeny S",
+            "author_url": "https://www.google.com/maps/contrib/103748703090913513014/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTwUDGCbx6CsQ6eu7B5HLmm9ZPcKxAbryC-g6pJRpM-SZfufhU=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "If you're looking for an early morning breakfast spot in Skopje on a Sunday, your options might be limited. However, this restaurant stands out as an exception. They offer a nice variety of breakfast dishes at a good price, making it a top choice for early risers. The quality of the food and the reasonable prices make it a worthwhile visit.",
+            "time": 1719781891,
+            "translated": false
+        },
+        {
+            "author_name": "Kristijan Topalov",
+            "author_url": "https://www.google.com/maps/contrib/112564403471677789662/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRuPKLmzoF7BNRyW-vrDLf0N80lXj4Pl16Gwe04sHJRTM6eA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "The bar has friendly and attentive staff, with a quick food wait time. The food quality is average and a bit pricey for what you get. However, the space is large, with a great atmosphere and good hygiene.",
+            "time": 1731270440,
+            "translated": false
+        },
+        {
+            "author_name": "Sale Hristov",
+            "author_url": "https://www.google.com/maps/contrib/113709902626537015510/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu8yyDTmhxTS8GjxclkTOtY79FcuUvpkyhjOrdhQ-HvadjHAL74g=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "They keep disappointing  over and over again. Unfriendly,  unpolite... even arrogant staff.\nEveriting is so expensive,  guality and taste  varies from time to time , sometimes ok, sometimes very bad.\nOffen you will have to wait a long time to order and then again long to get your order...\nIt's really a shame such a good location and atmosphere, but Everiting else catastrophic.",
+            "time": 1727811518,
+            "translated": false
+        },
+        {
+            "author_name": "Marte",
+            "author_url": "https://www.google.com/maps/contrib/109390992456563673658/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrNxr3Ok5KLclUkzGq_GLBwcAG7qDDiDfXAKlJTvuCiMQe32I=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Prices are exorbitant, and the hygiene was horrible. The floors and the chairs looked disgusting, like they haven't been cleaned in weeks. The chairs had crumbs, dust and dirt all over them. The menu and the food overall look so average which do not match the name of the place \"Trattoria di Italia\". This place has nothing to do with an Italian trattoria. Avoid.",
+            "time": 1720432082,
+            "translated": false
+        },
+        {
+            "author_name": "Zehra Veysel",
+            "author_url": "https://www.google.com/maps/contrib/100620550869414384850/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBhIRM1zxoR5D2DuSlOtYcwEewPXBTB0JHWfvhSIDr5NfcwFB3=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "2 years ago",
+            "text": "I ordered brownie, however it did not even taste like brownie. It was so dry and more like chocolate moist cake. I would not recommend it. If there was not ice cream on the top of it, I would not even finish it.\nOn the other hand, when it comes to designing it is a remarkable and trendy restaurant.",
+            "time": 1662491646,
+            "translated": false
+        }
+    ]
+}

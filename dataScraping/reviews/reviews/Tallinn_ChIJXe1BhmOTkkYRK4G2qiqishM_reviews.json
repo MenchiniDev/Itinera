@@ -1,0 +1,66 @@
+{
+    "name": "St.Olav Hotel",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "PH PC",
+            "author_url": "https://www.google.com/maps/contrib/117429178736616591827/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoT4ybaXLTIfEYOKzFM-KU4PiUZ0RaE8CdshqIztA_rB9FaaHW=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This is such a beautiful historical building. We enjoyed exploring around the hotel 🏨 and reading about the history of the building and it's a gem!\nThe staff are very welcoming and friendly, especially Sergio & Maria at the reception.\nOur twin room was beautiful on the upper floor by stairs, and it's well decorated!\nAll the amenities are working well and enjoyed our stay.\nWe would love to stay here again and recommend it to anyone who likes building with character and special touches!",
+            "time": 1726075250,
+            "translated": false
+        },
+        {
+            "author_name": "Amy Parkinson",
+            "author_url": "https://www.google.com/maps/contrib/105948749023617258771/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQz3GfVQa44J2Pg8kdQuYHAesrmG2uK9rxrg4EEHbm8T8mgw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This hotel is fabulous. It has a castle feeling to it, the corridors are like a maze with exposed stonework and wood beams. The rooms are clean and fully equipped with everything you need. The bathroom was spotless with good shower pressure. Also, the location is very close to everything, especially the main square. Fully recommend staying here",
+            "time": 1726902609,
+            "translated": false
+        },
+        {
+            "author_name": "Miloš Metlar",
+            "author_url": "https://www.google.com/maps/contrib/107039772116122762231/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAktKV4FDsm-CWQZznZcjEfKhcRfrSH0TKrRxEY5aZfeBDwTOV=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Old-fashioned and centered in old town this hotel offers unique experience. I spent there 5 nights this November and I would recommend it to everyone.",
+            "time": 1733126648,
+            "translated": false
+        },
+        {
+            "author_name": "Adam",
+            "author_url": "https://www.google.com/maps/contrib/111724283558206651087/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMk4Qc0abDwblBdi_ltzR2GlyL3htmjJEVoPXmx8s2soY99tTg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Chose the cheapest room, it was fine but a bit tight to move around the bed since there was like 30cm to pass next to but nothing tragic. Bathroom was really nice, place was clean, staff was kind and helpful and a big advantage is breakfast included. Would recommend 👍",
+            "time": 1725534848,
+            "translated": false
+        },
+        {
+            "author_name": "Luigi Dott",
+            "author_url": "https://www.google.com/maps/contrib/102493309239814246913/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfJW6DpGChJBW6rzwDUSBkitGG3qxxfq8V9ANnCjGwc1bF_HYV=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "at first time they asked me 20€ for a two-hour EARLY check-in. After a claim by email they gave me a ready room free of charge at 10:00\nFor the rest, everything is just in the average. The classic furnishings are pleasant. The toilets need updating. The staff is moderately rude and unsmiling. I suggest to take care more customers.",
+            "time": 1726560738,
+            "translated": false
+        }
+    ]
+}

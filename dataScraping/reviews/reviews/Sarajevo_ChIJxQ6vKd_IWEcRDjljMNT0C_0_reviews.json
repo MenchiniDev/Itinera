@@ -1,0 +1,66 @@
+{
+    "name": "Food Gallery",
+    "rating": 1.9,
+    "reviews": [
+        {
+            "author_name": "Suhail Alam",
+            "author_url": "https://www.google.com/maps/contrib/116844700436222200872/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW96LFei-6W9yhHM8fnr833s5ovlQxwNO15yx6_ydIn9kKl8wnW=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "We went for dinner here as we did not fancy having fast food.\nAmbience- Its like a canteen. Get a tray and join the queue and choose the food.\nService- It is what to expect. No issues\nFood- It was wholesome, home cooked style food with decent variety. We really enjoyed it!",
+            "time": 1721929462,
+            "translated": false
+        },
+        {
+            "author_name": "T Ikanovic",
+            "author_url": "https://www.google.com/maps/contrib/109031365550155620696/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCPhtDs6MoX_i2yw4_VoYpfWULrj-NFmsmba_4cn2vbD7_9y94=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "Portions are becoming smaller & smaller. This restaurant is overpriced indeed, like everyone think. Quality is ok. Value for money - NOT GOOD!",
+            "time": 1713539751,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan Perovic",
+            "author_url": "https://www.google.com/maps/contrib/109958979443785446616/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHnaBKxAmwxpaBKU11DGhg4LdRSRh2wumxPEq1pjdxz3LR6A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "7 months ago",
+            "text": "My expectations were low and I was prepared for a bad deal considering it's a shipping center food court but it still caught me by surprise\n\nThe ladies at the counter were nice enough, the food is okay, but the portions are shockingly small while the price is quite marked up, a grownup won't get full unless they eat a lot of bread (which is free refills, one of the only positives)\n\nWe only chose to eat there because we were in a hurry, but there are 10x better options around the shipping center",
+            "time": 1714608029,
+            "translated": false
+        },
+        {
+            "author_name": "Stefan Mamic",
+            "author_url": "https://www.google.com/maps/contrib/113504398672420044241/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0x6Jsd3LBLpNCBMNoLmgDft9AbN0T6yYKuTRcqCYCxIvwOw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "6 years ago",
+            "text": "In the beginning were portions really big as on photo, but later they have become somewhat smaller. Taste stayed the same, but there is also not to expect too much, it's classic Mensa styled food. Only 3 stars from me, but I would definitely recommend if you are looking for quick average meal. Prices are bit higher because of location.",
+            "time": 1539847026,
+            "translated": false
+        },
+        {
+            "author_name": "Muh a",
+            "author_url": "https://www.google.com/maps/contrib/103538087286592344675/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoy1j12QqI7GeSKlBFLJECz8iBI7mGDh6Xla7PYvu7lplZBWe1=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "in the last week",
+            "text": "The food is too expensive and it tastes bad. The workers are sarcastic and rude.",
+            "time": 1732998708,
+            "translated": false
+        }
+    ]
+}

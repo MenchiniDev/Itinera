@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Único Madrid",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Husnu Okvuran",
+            "author_url": "https://www.google.com/maps/contrib/118283277503906976258/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqdW8670F2hqVVfVC46vnGLmDmvVIbgj98WUyQfqjofj69DQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Amazing hotel. Best staff and service I have experienced in all the years of travel. Just perfect. Great location, great people. Everything done at peak professionalism. Sorry we could not stay longer and would love to stay again.\nSmall lovely property - ideal for adults and couples.",
+            "time": 1718025083,
+            "translated": false
+        },
+        {
+            "author_name": "Bart Cleary",
+            "author_url": "https://www.google.com/maps/contrib/106162362743818948946/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXalGQ-AeUVYVZt31SHwsQJwdrNjHWT1IgsiTlWMEc3E6Rr2A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "One of our best experiences ever at a hotel.  From the minute we arrived to the moment we departed, the service was impeccable. Elena was most helpful taking care of our special requests and every other member always greeted us with a smile and was there to help.  This hotel understands hospitality.  Thanks for a marvelous week.",
+            "time": 1715527543,
+            "translated": false
+        },
+        {
+            "author_name": "Magda Akle",
+            "author_url": "https://www.google.com/maps/contrib/113194174863865579316/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxeRvWFaD4-RdvE0mNOlyiS_Cf_JRyPvMM6Ej3wv8qvUBb_Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "The staff is amazingly friendly and efficient. The breakfast location and food are amazing. Rooms and bathrooms are spacious and have all the amenities one needs. The location is just the best in all Madrid. Will return again and again.",
+            "time": 1712839282,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Brodie",
+            "author_url": "https://www.google.com/maps/contrib/106206651022922857281/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLu-yZ-7fLl_AptOs6dbQ7qZah6UdfUt8plkhzTC10DwXlUBw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Wonderful hotel, staff are so attentive could not fault them in any way.great location for shopping and football stadium.hope to visit Unico on my next trip to Madrid.",
+            "time": 1714552275,
+            "translated": false
+        },
+        {
+            "author_name": "Simon Woods",
+            "author_url": "https://www.google.com/maps/contrib/100911668577891326851/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhPOcuVonSyHqJwudyTMrbR35P-yG9-ieUKTEL9xuIWV8tbw=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Quite a small, dark room. The bed was just ok; it was supposedly a \"king\" size bed but somehow short, such that my feet hung off the end. The bathroom was nice, if also small. The best things about the hotel are the restaurant and the location. Overall I found the experience to be just ok. I will look for another option for my next visits to Madrid.",
+            "time": 1684309402,
+            "translated": false
+        }
+    ]
+}

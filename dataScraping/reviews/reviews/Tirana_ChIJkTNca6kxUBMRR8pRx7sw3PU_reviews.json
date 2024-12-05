@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Mondial",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Lexie Newlands",
+            "author_url": "https://www.google.com/maps/contrib/111077077383822133281/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5PawXUwFrKF5rwIXnXizsuZRTqwVMxI8Zdq0rlN5vthuLYWF6=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Overall, a nice hotel. Useful to have a pool in the summer heat and not overcrowded. A little out of the centre, which we had hoped meant it would be quieter but the soundproofing was poor. We could hear the lift and the pool from our room - even when the pool was closed in the middle of the night. Staff were great and bed was comfortable. Stay here but bring earplugs.",
+            "time": 1723405647,
+            "translated": false
+        },
+        {
+            "author_name": "Matias",
+            "author_url": "https://www.google.com/maps/contrib/113728137433977499963/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWn3jGVZtGwIf9FyNrAGYyf_RyO-FYR1BUyq9z5HMim7ogeeosX=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Great, hotel, we had a pleasant stay and the staff was very helpful.\n10/10 breakfast and beautiful rooms.\nParking needs to be sorted outas it's a bit confusing and on public roads,  the location is not the best and the upfront road is quite noisy, but we will surely be back!",
+            "time": 1725809068,
+            "translated": false
+        },
+        {
+            "author_name": "Mees de Ridder",
+            "author_url": "https://www.google.com/maps/contrib/106926255166934192791/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV276h7_voG_mzo5ES0Vd3QIuPONMWmRdunC5VLLWwHYR3EWXo3cA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Really enjoyed my stay here. The rooms are clean, spacious and well-equipped with i.e. airco.\n\nBesides the great breakfast -not over-complicated but good quality- and rooftop bar, the one thing that stood out to me was the service. The reception helped us with all of our questions and needs. Would definitely recommend visiting this hotel.",
+            "time": 1720351756,
+            "translated": false
+        },
+        {
+            "author_name": "Maialen Aiestaran",
+            "author_url": "https://www.google.com/maps/contrib/112364614702020746611/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDocIKu0iiM_KjG-mTzxUTGQu6_Wl6KKThxU3cX1TpA6ChPw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "The hotel is great: rooms are big and beautiful, breakfast has plenty of options and food was very tasty and fresh, and the location is good and quiet to sleep at night. However, the fact that they close the pool at 18:00 is a shame. Being a city hotel, where the temperature during the summer is high even later in the afternoon, it’s a shame not being able to go for a dip after having walked around the city. Also, in the bar of the pool, the indoors part of the bar, people smoke inside. Quite disgusting. Overall a great experience except for those two things.",
+            "time": 1722767177,
+            "translated": false
+        },
+        {
+            "author_name": "Ololade Ajala",
+            "author_url": "https://www.google.com/maps/contrib/101269448247854643846/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVCZ-Ggyu8lgjCpM1kAjDVP9gTp7AwJd2EsC8qUfPQdXFkHw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "The hotel was really beautiful and clean. Service was good too and tried to accommodate our requests. The terrace bar was really nice and had a great view. The food was okay, had some hits and misses. My only downside is the limited choices of breakfast, same options every day. Overall, really great hotel to stay",
+            "time": 1717016050,
+            "translated": false
+        }
+    ]
+}

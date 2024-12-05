@@ -1,0 +1,66 @@
+{
+    "name": "The Waterfront Hotel",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Miho Yoshii",
+            "author_url": "https://www.google.com/maps/contrib/110950260159350288613/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOBmbXN0rmULqf97MIiJdx-ZGM-IBNDkjH03kt8qMIvQ7KdflV=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "2 weeks ago",
+            "text": "The breakfast was poor. Salad was not fresh, so many tin food. More like 2-3 star standard. Sauna was so small, all heats disappear every time the door is open. The changing room the gym/swimming area was also poor. Gym is not really a gym, just few treadmills and no place to do a floor exercise or stretch and no privacy at all.\nMy room was in courtyard side so it was quiet and bed was nice. Good enough but not luxury.",
+            "time": 1731844806,
+            "translated": false
+        },
+        {
+            "author_name": "Katie Hopkins",
+            "author_url": "https://www.google.com/maps/contrib/108756575278697768338/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj5IGpB-ceqajLNzmpYYO34rnQ1oS4qKJUGvJEshXKR93QmiQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "The hotel itself is fine, the nights were quiet. In the room the coffee making area and the desk are poorly lit, I asked Dorko one of the receptionists for a lamp and he was very helpful and found one for the our room. Unfortunately there's nowhere to dry the wet towels. The phone system barely functions, it was very difficult to call the Reception and the Room Service. In the Restaurant there was a lovely lady Sunita who was always very helpful, she remembered after the first breakfast that I'd like a slice of lemon with my tea. At breakfast there's only one coffee and hot water machine, which is not enough.",
+            "time": 1732475391,
+            "translated": false
+        },
+        {
+            "author_name": "Heide Grimm-Wiegand",
+            "author_url": "https://www.google.com/maps/contrib/116157784012624272658/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqsv_AXMLcV6Wt2YlkRKh_alRBafRawogOQWHyTgWXRfUXfA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Wonderful Experience at the Waterfront Hotel Malta!\n\nAfter a disappointing week at another five-star hotel, we were so relieved to switch to the Waterfront Hotel. Right from the start, the management impressed us: friendly, helpful, warm, and understanding. We felt immediately welcome, almost like being part of a big family.\n\nThe entire staff, from the reception to the bartenders, was incredibly kind and attentive. I’d especially like to highlight one bartender who took the time to create new non-alcoholic cocktails for my son—even though they weren’t on the menu! His personal attention really made our stay special, and I was thrilled with his creativity and dedication.\n\nThe reception staff also deserve praise: they were always ready with helpful tips, whether it was about local attractions or practical information like the nearest supermarket or pharmacy. The iPad at the reception was also very handy, making it easy to find our way around.\n\nThe pool areas were fantastic as well. Despite the peak season, the outdoor pool was pleasant and offered plenty of space for swimming and playing with my son. The indoor pool was a great alternative for cooling off, and the whirlpool was simply wonderful.\n\nThe evening events at the rooftop bar were another highlight and perfectly rounded off our wonderful week.\n\nWe had a fantastic stay at the Waterfront Hotel and highly recommend it to everyone!",
+            "time": 1723988615,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Gleeson",
+            "author_url": "https://www.google.com/maps/contrib/110127106416408514567/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpImj1eUlQ8Ni4CaX9i8qXsuwqq9UGAoop9SBK1fe4y_o7GfPz=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Great value for money! A very nice hotel with good food, comfortable beds, spacious rooms, friendly staff, and clean facilities. Breakfast was included with the price of the room, and guests have access to both an outdoor and indoor pool. Complementary access to water coolers and a mini fridge was a pleasant surprise.",
+            "time": 1731165443,
+            "translated": false
+        },
+        {
+            "author_name": "Christine",
+            "author_url": "https://www.google.com/maps/contrib/105517388754856522525/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvZ5qCLNADNMLwzK5B8TRQ9cNIkzB-z6PECZ6QjHKhQbZq7g=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Good thing: Good hotel. Great location. Good amenities\nBad thing: This wasn't a thing a few years ago when we stayed -- but every Monday they now have a theme night and it is LOUD. The windows to the room are not sound proof at all and you need to bear with the singer until at least 22:30. I appreciate a fun night, but volume or sound proofing needs to be managed to balance it out. For someone who's tired and just needs a peaceful night's sleep, it's really a pain.",
+            "time": 1726516446,
+            "translated": false
+        }
+    ]
+}

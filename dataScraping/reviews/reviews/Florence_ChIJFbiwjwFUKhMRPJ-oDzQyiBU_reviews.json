@@ -1,0 +1,66 @@
+{
+    "name": "Caffè Gilli",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Chen Lu",
+            "author_url": "https://www.google.com/maps/contrib/101249464010443031359/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID88AzNs376QkTRosqIOaRQKPAMIWAlABOgOMZC7UnVA9PyQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We had a quick stop here for the famous ice-cream coffee. It was raining very heavy in Florence on the day we visit, we walked in with dripping water rain coat, the store staff were very friends. Coffee is very nice, ice-cream is quite sweet, blending together it does make taste coffee creamy and smooth, just a bit too sweet for me. We did not sit down, just had our coffee at the counter, service is very fast.  The deserts and candies are displayed very nicely, lovely to look at.",
+            "time": 1728775145,
+            "translated": false
+        },
+        {
+            "author_name": "류재민",
+            "author_url": "https://www.google.com/maps/contrib/110775894412204047444/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZSe4Uothh0zAemUYzyxyywmpzVamIFK6rpbQxaBvTYO6H6Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Perfect cafe where you can enjoy a marvelous view, and nice desserts. I owed a lot to my deer friend, Ronald. I left my bag at the seat, and Ronald kept it for me! My passport and wallet were inside the bag. He saved my life🥹🥹 I will never forget the kindness that Caffe Gilli showed me. Fallen love with the city, too ❤️ Really appreciate it Ronald🙏🙏",
+            "time": 1732117491,
+            "translated": false
+        },
+        {
+            "author_name": "Komal G",
+            "author_url": "https://www.google.com/maps/contrib/101006194295258404883/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBxttdgpU3CLbe1WXU8jTuPPQ1aqPMZ4LxIhoVJAJYekF-Th1XhQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Caffè Gilli is a fantastic spot for breakfast in Florence!\n\nThe coffee and pastries are excellent, and the atmosphere is beautiful, historic and very inviting. A big thank you to Mr. Tomas for his friendly and attentive service—it really made the experience even better. Definitely worth a visit!",
+            "time": 1732439535,
+            "translated": false
+        },
+        {
+            "author_name": "Jeff Hwang",
+            "author_url": "https://www.google.com/maps/contrib/115486749292631552248/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFhhN2sqCvw-SbkVLvhEV3GE-2o-52bnRihxizyMnxoXll_Zkv=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We spend some quality break time here. We were seated outside covered seating area.\nThey opened glass walls and ceiling cover then all the cool breeze was coming in and out. It was such a great feeling.\nWe ordered some drinks and desserts and they were all tasty, we had to order second.\nSeating was very comfy as well\nRestroom was clean and they had dedicated person who was taking care of the restroom. How awesome!\nAll the staffs were very good.\nAlessia and Raffa was such a great people. They were very friendly and helpful. They let us have great break time here. Had wonderful time here.",
+            "time": 1724773219,
+            "translated": false
+        },
+        {
+            "author_name": "Rafaela Lomba Bartolamei",
+            "author_url": "https://www.google.com/maps/contrib/114291379929218516621/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRIsePS7QQ2VZqxpUXCmbI8KzmLyJYqxV-z80U_AaB4JnwI_0=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Delicious food! The service is also excellent. Normally to be seated you have to pay an extra fee, but since I was with my girlfriend who is disabled they let us take a seat free of charge. The waiter Tomas was exceptionally kind to us. The cafe is also very beautiful and worth the visit. Highly recommend!",
+            "time": 1720083913,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Dviguba fantazija",
+    "rating": 5,
+    "reviews": [
+        {
+            "author_name": "Станислав Подлипский",
+            "author_url": "https://www.google.com/maps/contrib/100837282611029240958/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcUbVSJH8E75ULkZHi1SaBQI41_rMOElywu0SS-lD6Oc0lEifK=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Very tasty tacos",
+            "time": 1665913136,
+            "translated": true
+        },
+        {
+            "author_name": "Deana Murtha",
+            "author_url": "https://www.google.com/maps/contrib/114509437527604741962/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmnPcBR6TI3gno49zS7yz_BIbCYsy4JRqmlPJDLO-V4btkZtHGsg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "",
+            "time": 1531111348,
+            "translated": false
+        }
+    ]
+}

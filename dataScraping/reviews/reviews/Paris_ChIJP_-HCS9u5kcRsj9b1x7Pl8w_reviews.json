@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Regina Louvre",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Gregory Biwott",
+            "author_url": "https://www.google.com/maps/contrib/118138686695811875313/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpY3MVGriIt7KzVxhyh45S-DHo5piAuTX47-6Th6poTf5Vlso=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I recently stayed at Hotel Regina, and it was an incredible experience! From the moment I walked in, the staff made me feel welcome with their warm smiles and helpful attitude. The rooms were clean, spacious, and beautifully designed, offering a perfect balance of comfort and style.\n\nOne of the highlights was the food, which made my stay even more enjoyable. The food was excellent, with a wide variety of delicious options to choose from.\n\nLocation-wise, the hotel is perfectly situated near [mention any nearby attractions, transportation, etc.], making it easy to explore the city. Overall, I had a fantastic stay and will definitely return on my next visit!\n\nHighly recommend Hotel Regina Louvre to anyone looking for a memorable stay.",
+            "time": 1729233856,
+            "translated": false
+        },
+        {
+            "author_name": "Donna C",
+            "author_url": "https://www.google.com/maps/contrib/114014881563765303116/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrRe5xbCGb4xc_qNWXst1bRZwncs5lVP4J1XAxjYJAoa2dZIc=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "My husband and I stayed at this lovely, elegant Parisian hotel for four days.  The service was outstanding as was the location.  The staff truly cared about making our stay the best possible.  I needed to see a doctor for a minor but troublesome issue and the concierge arranged for a doctor to visit me at the hotel.  Amazing!  I highly recommend this hotel for your trip to Paris.",
+            "time": 1730049277,
+            "translated": false
+        },
+        {
+            "author_name": "David",
+            "author_url": "https://www.google.com/maps/contrib/115803018287425700045/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1Prxyz-njk0ze6R7Oxh68xaL2vAnC9x4O7GQMMK81V8h5oA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Great Rooms. Clean and all furnishings perfect. Room service was on point and the general service across the hotel was top notch. A beautiful lobby and while mostly an empty restaurant when we were there the room service food was always very good.\n\nI have to say the service was outstanding. I noted ahead we would be early and the room was ready for us when we arrived.\n\nI cannot thank enough nor  praise enough the concierge team. They were incredibly helpful and quick in  tracking down some wine.\n\nYes, the hotel is under construction and that does unfortunately mean there is a good bit of noise during the day. It never started too early and they were done by 5.",
+            "time": 1720445439,
+            "translated": false
+        },
+        {
+            "author_name": "Amber Hazell",
+            "author_url": "https://www.google.com/maps/contrib/110791354385140934443/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4ugXYtnuX4KcvScz9toGkav0Qj188lz9g3PAoeu2g5gOTlA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This beautiful 1900's building is absolutely stunning. All rooms have amazing views of the Eiffel Tower, the gardens or the museum.\nThe Hotel Regina Louvre offers free wi-fi, flat screen TVs, as well as being equipped with a well stocked minibar and great 24 hour room service. Would highly recommend a stab at this hotel.",
+            "time": 1729248747,
+            "translated": false
+        },
+        {
+            "author_name": "Patel Janvi",
+            "author_url": "https://www.google.com/maps/contrib/106808471995511650439/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU5Kre5EPcWLQRtME60G2zQVSmlTzdvkqeagZWIQdc3J_lrCIX=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The presentation was well-organized and engaging, with clear visuals that effectively supported the main points. The pace was generally good, although there were a few opportunities to enhance audience engagement, perhaps through more interactive elements or slightly shorter slides. The conclusion provided a strong summary, but I would suggest expanding on the implications of the research findings to further emphasize their significance. Overall, the presentation was informative and valuable, and I learned a lot. Thank you so much for sharing your work.\"",
+            "time": 1729833171,
+            "translated": false
+        }
+    ]
+}

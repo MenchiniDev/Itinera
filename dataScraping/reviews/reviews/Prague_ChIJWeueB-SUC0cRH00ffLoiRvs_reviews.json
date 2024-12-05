@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Čertovka",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Anastasia Stavridou",
+            "author_url": "https://www.google.com/maps/contrib/115678656702336749948/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXixPVaonlqQglXR-Y0sAVdX--CQGgV5pjAXNZ3Gi6oJ17LfqW0=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Central hotel in Prague with a cosy and warm ambiance. It is well-located, 17 minutes on feet from the Prague Castle and 15 minutes walk to the Old Town Square. We got to cross Charles Bridge several times, all hours of the day, and the views were always impressive! Facilities were excellent, the hotel was super clean and breakfast was fine. Finally, the staff were very kind and helpful. Overall, highly recommended!",
+            "time": 1729023245,
+            "translated": false
+        },
+        {
+            "author_name": "Kamry Bowman",
+            "author_url": "https://www.google.com/maps/contrib/114196112775545472030/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGHZvJ1mixSbrXoptq_zFIzEPm0QqosPiDzzSv5cXD59N6fw=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Room was okay, but curtain runner was broken, and AC made disturbing noise throughout the night. Breakfast area was too small, so that all tables were full and there was no place to eat. Staff was also petty about forbidding an espresso from the automatic machine after the breakfast cutoff. Nice location though.",
+            "time": 1729362246,
+            "translated": false
+        },
+        {
+            "author_name": "Uliana Sheigets",
+            "author_url": "https://www.google.com/maps/contrib/100960625223280400611/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHwynsaHMTLnTMv-arKwtGjY_fQXJBZ9jYalEHJZKMJudcuCg4=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "II stayed at this hotel last week, and I can say that both the rooms and the location are really great. It's situated literally in front of the Karlův Most, and you can get anywhere in the city center on foot. I also liked the breakfast—it was generously served, and the waitress was welcoming.\n\nHowever, I would like to share my negative experience with one of the receptionists. Two of them, a young lady and a middle-aged gentleman, were charming. But I had some trouble with the third one. I don't recall her name, but she was a middle-aged lady with glasses. She was neither gentle nor polite with me. While I was asking for something (as I was staying for quite some time), I got the impression that I was bothering her. The morning after my arrival, there was a water cut at the hotel, and I wasn’t informed. When I asked her what was going on, she just pointed to a small notice on her desk without saying a word.\n\nThe most shocking situation happened during my check-out. I want to note that this lady spoke English with quite an accent and very quietly. When I asked her to repeat what she said because I simply hadn't understood her, she started shouting and treated me like dirt. She came close to screaming, saying I should have come before 7 p.m., and quote: \"At 7 o'clock, no reception. No reception, no luggage. Understood?\" I beg your pardon, but this is not the correct way to speak to a guest at a 4-star hotel. All my good impressions of the hotel were erased by this incident.\n\nAnd yes, the cleaning staff speaks loudly here as well, so don’t be surprised if you’re woken up at 8 a.m. because one of them is cleaning a nearby room while talking to her friend on the phone.\n\nIn conclusion, the Certovka Hotel is worth your attention, but they have some areas of service that need improvement.",
+            "time": 1724270792,
+            "translated": false
+        },
+        {
+            "author_name": "Tammy Dietz",
+            "author_url": "https://www.google.com/maps/contrib/113853241843308071763/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVGzlKqX3GyafHUedfQ7oLo-_SJ7vD12Mub7bDZqbBc1Oqwg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "This hotel is  in Lesser Town, located right next to St. Charles Bridge.  It's clean and our room was large enough but the air was pretty non-existent.  We had to open windows,  but it didn't cool down until the am. We were only there two nights, and the first night,  we thought the air just took a while to cool the room since they didn't keep it on, and it was hot when we came in. I don't recommend paying for the breakfast. In my opinion,  it's expensive for what you get.  This was our last place to stay on our four city stops in the countries,  and in other hotels, the breakfast selection was at least four times what is offered here for the same amount of money. So if breakfast is your thing,  I suggest going somewhere else.   The hotel has a lot of character and is very clean and the staff was very helpful.",
+            "time": 1716011759,
+            "translated": false
+        },
+        {
+            "author_name": "Penny Bell",
+            "author_url": "https://www.google.com/maps/contrib/109163035043042342742/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXztNQ1laOO6nuyqpBYONLn8PPlDmBNTWtXbzuuJJSA1yaauawWg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Brilliant location. Breakfast was adequate, pastries were nice, I'd personally like more hot food. I did travel alone and was given a room with a single bed, 1 plug by the door of the room, and there was no kettle or drinking facilities available in the room. I am 5'7\" and found the slanted ceilings above the bed and the shower difficult to negotiate. This may just been the single bed room but I can't assume.",
+            "time": 1699920390,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,1059 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.14134319999999,
+                "lng": 17.108838
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.14259723029151,
+                    "lng": 17.11035905
+                },
+                "southwest": {
+                    "lat": 48.13989926970851,
+                    "lng": 17.10660885
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Radisson Blu Carlton Hotel, Bratislava",
+        "photos": [
+            {
+                "height": 682,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110240842413320403779\">Radisson Blu Carlton Hotel, Bratislava</a>"
+                ],
+                "photo_reference": "AdDdOWqwn9gFxVwcAiVT0Q7HsxficzxNK9wpGoTgdm9soXyot49_nHbmcEQTVHvpwO5Qio7lr8Bm780CRMzXHqZZhp2gV70ROu6C48tQTRTsdXJDxAQsfH7iBa15YyRO1iuFCamnKiVvIubg_EwW0hS-GP-SslYg_DLiXaJPAtFEzJ5WBOxi",
+                "width": 1023
+            }
+        ],
+        "place_id": "ChIJw7WQnEKJbEcRUkWsThGiOlY",
+        "plus_code": {
+            "compound_code": "44R5+GG Bratislava, Slovakia",
+            "global_code": "8FWV44R5+GG"
+        },
+        "rating": 4.6,
+        "reference": "ChIJw7WQnEKJbEcRUkWsThGiOlY",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2509,
+        "vicinity": "Hviezdoslavovo námestie 3, Bratislava"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.14588630000001,
+                "lng": 17.1035494
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1472596802915,
+                    "lng": 17.1048197802915
+                },
+                "southwest": {
+                    "lat": 48.14456171970851,
+                    "lng": 17.10212181970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Falkensteiner Hotel Bratislava",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113697457878874983929\">Falkensteiner Hotel Bratislava</a>"
+                ],
+                "photo_reference": "AdDdOWp5vKTKJupw2Ky6BgIbYgw1ci-mAP6GuX-_upiMqz60GPGGGfTQ_KURfDSTTT82tZZeGXyboPffsXS4qjbzSlS5P_IsHS67xlZMwzQUlzOFXHrb0DiU7zg667O7bHMhGkciSsk8_oX_05VnlAC7FwT2W_AcCBZ03AAZf6FYMRoLn8pZ",
+                "width": 6720
+            }
+        ],
+        "place_id": "ChIJGWe3a1yJbEcRuWzxtO9GYVY",
+        "plus_code": {
+            "compound_code": "44W3+9C Bratislava, Slovakia",
+            "global_code": "8FWV44W3+9C"
+        },
+        "rating": 4.4,
+        "reference": "ChIJGWe3a1yJbEcRuWzxtO9GYVY",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2204,
+        "vicinity": "5, Pilárikova 7372"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1498047,
+                "lng": 17.1334173
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1511308802915,
+                    "lng": 17.1348772302915
+                },
+                "southwest": {
+                    "lat": 48.1484329197085,
+                    "lng": 17.1321792697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Apollo Hotel Bratislava",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103265699541795093076\">Ľubomír Fedák</a>"
+                ],
+                "photo_reference": "AdDdOWpO_o4WkZ86XLpdrcH8rZs2tvH-t_ZHusYrzp-tBKXAbqnWLjsJGBhoLuCcumaghn37Xxaa4QA8Ob9bFVY-mRiW4T526Mv6Cdswr1gbjsEQUAm9bN0_8XgQsbuHeI13j7ws9Mg5Hg4xTfR9eGoHJ-QGMbsIUlV5NkFqUhyiVjk0XW7N",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJi8Rg1DCJbEcRNX5E39oAsGI",
+        "plus_code": {
+            "compound_code": "44XM+W9 Bratislava, Slovakia",
+            "global_code": "8FWV44XM+W9"
+        },
+        "rating": 4.3,
+        "reference": "ChIJi8Rg1DCJbEcRNX5E39oAsGI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3052,
+        "vicinity": "Dulovo námestie 1, Ružinov"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.14040379999999,
+                "lng": 17.1059503
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1418310802915,
+                    "lng": 17.1072393302915
+                },
+                "southwest": {
+                    "lat": 48.1391331197085,
+                    "lng": 17.1045413697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Park Inn by Radisson Danube Bratislava",
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103011103587259794638\">Miroslav Senko</a>"
+                ],
+                "photo_reference": "AdDdOWqg-eO4EM2j-8ahJQqIprBZsvMxr8C9OIhWQwFjTp5bYpqaLZdm86Wi1lhYB3DS5GweseC58R14XlRCjpP1bLFdVMpVCvbjcRz_vTEC6r5d1tyfC4rL_nWCnU0rb83BJMD6OID6D-eYw03d9DABIyWCcZPNKP71ATTjxaEAXwV39Cl3",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJp0jIC2iJbEcRT6ptovY_epc",
+        "plus_code": {
+            "compound_code": "44R4+59 Bratislava, Slovakia",
+            "global_code": "8FWV44R4+59"
+        },
+        "rating": 4.3,
+        "reference": "ChIJp0jIC2iJbEcRT6ptovY_epc",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1938,
+        "vicinity": "Rybné námestie 1, Bratislava"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.14991570000001,
+                "lng": 17.0908358
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1513313802915,
+                    "lng": 17.0920546302915
+                },
+                "southwest": {
+                    "lat": 48.1486334197085,
+                    "lng": 17.0893566697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Albrecht",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3695,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117989173033711042190\">Hotel &amp; Reštaurácia Albrecht</a>"
+                ],
+                "photo_reference": "AdDdOWphCD8I3j2sJcqGE8X_msIp4j-jBSXn_zxJeekLM1AcEySO7YCbO3__hWrepShk1T2LNBwEN1z6vcufGgyv_rGZARsB9leZqInhnZbGnEPKx0w0v_RumTVJ2K3kGxN5jewQPgQ6Ep37P5lnvMxa3_OT-SyYZ66TLQiScy6Fi7FHk6OP",
+                "width": 5542
+            }
+        ],
+        "place_id": "ChIJBc8L7OOLbEcRMy8bVJ3y42c",
+        "plus_code": {
+            "compound_code": "43XR+X8 Bratislava, Slovakia",
+            "global_code": "8FWV43XR+X8"
+        },
+        "rating": 4.6,
+        "reference": "ChIJBc8L7OOLbEcRMy8bVJ3y42c",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 324,
+        "vicinity": "Mudroňova 4237/82, Bratislava"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1826322,
+                "lng": 17.0949707
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1839791302915,
+                    "lng": 17.0963102302915
+                },
+                "southwest": {
+                    "lat": 48.18128116970851,
+                    "lng": 17.09361226970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Kamzík Television Tower",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110252853552225668328\">Mark Ruvald</a>"
+                ],
+                "photo_reference": "AdDdOWpNAPc_z_EHK6dCBkl8B3VgSlPCOeasFgzYwZofihhh0KZ2-KSk15yfv7J2nXwok7zHPd88KJwFse2kyyECevfQtAxM-YM4adV_-0OiL9Z3ZLGsXug6K6GKAm5LBUOvNzZFZ2irpX1zcXb7oi76KXGwBCOp-Y1lzzCcDCxY53wPSbHW",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJMQXg3hWMbEcRW9tbL_0m5Z8",
+        "plus_code": {
+            "compound_code": "53MV+3X Bratislava, Slovakia",
+            "global_code": "8FWV53MV+3X"
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "ChIJMQXg3hWMbEcRW9tbL_0m5Z8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "tourist_attraction",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3066,
+        "vicinity": "Cesta na Kamzík 14"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.12402890000001,
+                "lng": 17.1104441
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1253808302915,
+                    "lng": 17.1117178802915
+                },
+                "southwest": {
+                    "lat": 48.12268286970851,
+                    "lng": 17.1090199197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Dominika",
+        "photos": [
+            {
+                "height": 2702,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114727388017393974634\">Vladimir Ondrejcik</a>"
+                ],
+                "photo_reference": "AdDdOWoDUzRLrRPvzoMI91VzcCMzebKyfLrdoEv29v0H0FyoGnNLq9vgFbafOjpjzI3Hid71ZQgsi_GwrZHVMF9b1VCCTWE8oXijK5y7fOOGFNgqO_0maKXu8F6dHkZOiHcnX8WHFqeuOl7QWxkagXVaFcEI1FSAhFePdJdPHs-QR91k3ygc",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJvbF0SAuJbEcRuUb9EDvN5PA",
+        "plus_code": {
+            "compound_code": "44F6+J5 Bratislava, Slovakia",
+            "global_code": "8FWV44F6+J5"
+        },
+        "rating": 3.7,
+        "reference": "ChIJvbF0SAuJbEcRuUb9EDvN5PA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 727,
+        "vicinity": "Vlastenecké námestie 3, Petržalka"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1400944,
+                "lng": 17.1074451
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1414474802915,
+                    "lng": 17.1088625802915
+                },
+                "southwest": {
+                    "lat": 48.1387495197085,
+                    "lng": 17.1061646197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Devin",
+        "photos": [
+            {
+                "height": 827,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109723724015811233224\">HOTEL DEVÍN</a>"
+                ],
+                "photo_reference": "AdDdOWoyybrVWyM8hnPRi-c4muWMZCyobyqcPwaujz8xJeCtj0fpultBt7KVFhI8U7OeX-Eb9U1Muaz600dAVLsj_zpp7wP406mbsJvDGIw6p84OMVQxWwQFCJX_6vItb5bWugtqmgy25m8vCXvHs2OQjW0nD78DCbTkF5cHA517zmUQ9JdF",
+                "width": 1058
+            }
+        ],
+        "place_id": "ChIJ0RTfP2iJbEcR7Xs3j8YvZ7s",
+        "plus_code": {
+            "compound_code": "44R4+2X Bratislava, Slovakia",
+            "global_code": "8FWV44R4+2X"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ0RTfP2iJbEcR7Xs3j8YvZ7s",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1704,
+        "vicinity": "Riečna ulica 162/4, Bratislava"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1449404,
+                "lng": 17.116973
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.14633753029149,
+                    "lng": 17.1182864302915
+                },
+                "southwest": {
+                    "lat": 48.14363956970849,
+                    "lng": 17.1155884697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Danubia Gate",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 914,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103384188215823307363\">Hotel Danubia Gate</a>"
+                ],
+                "photo_reference": "AdDdOWoAR5tT1ao3tDM1ifxDoMWd-E86cp4FvV7aQVc36M9fp-vvAAxOxI3AqRTm5Qh-AZfHfXJFH87bCyJg38A4NS641cGpELwJcprLGT52onfexiluy62AMDYwexdRRezzBi_q2aM-jsH6tTxnJJvJv9iwjrWRd6K4--QtFFwwjFlXg-D5",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJy2-mtEaJbEcR9gJQ64d-TA8",
+        "plus_code": {
+            "compound_code": "44V8+XQ Bratislava, Slovakia",
+            "global_code": "8FWV44V8+XQ"
+        },
+        "rating": 4.5,
+        "reference": "ChIJy2-mtEaJbEcR9gJQ64d-TA8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 720,
+        "vicinity": "Hotel Danubia Gate, Dunajská 2314/26"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1534383,
+                "lng": 17.1463521
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1549911802915,
+                    "lng": 17.1475538302915
+                },
+                "southwest": {
+                    "lat": 48.1522932197085,
+                    "lng": 17.1448558697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Aston Business hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109907314995126677650\">Pavol Durana</a>"
+                ],
+                "photo_reference": "AdDdOWqfpNYGAoKm-dvXtQj3FqGUNsNoKWrX7uKiluSWqbhnMIcdej9XBEhfHy4ktwF__cYYc-q-bVKAUYGikolkwoy8izqi0-xO3mMGGjkXtjUY-v-ltQzyT5Q-iw3EvT2NOpgX8-pemlX1LTIG14vGizrObjwOVxi74lXZFiixqkIb9t9O",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJe5fjAS2JbEcR_b8clJLcQJg",
+        "plus_code": {
+            "compound_code": "543W+9G Bratislava, Slovakia",
+            "global_code": "8FWV543W+9G"
+        },
+        "rating": 4.4,
+        "reference": "ChIJe5fjAS2JbEcR_b8clJLcQJg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 383,
+        "vicinity": "22, Bajkalská 715"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1519321,
+                "lng": 17.107188
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.15314418029151,
+                    "lng": 17.1085248302915
+                },
+                "southwest": {
+                    "lat": 48.15044621970851,
+                    "lng": 17.1058268697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Loft Hotel Bratislava",
+        "photos": [
+            {
+                "height": 740,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114648570319266701474\">Loft Hotel Bratislava</a>"
+                ],
+                "photo_reference": "AdDdOWoRi3Rlj7t8XA0-P3Kl_DtoHm_sjHzaC8fQy2cxWgdjug4Hg2TmIxM-kSKE78jZ0IPzlcrQUNdfm6OkSWSB08O-QXRYhMF4bkp2q3Wz1Wtx7Lf2DUp0yDKJEXr_yo4kbYMBJZUyMmhlDkNNCdh1GX4lbX24ecSXFXxMCuB35JCQh2p1",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJC4TRo1CJbEcRDJ1qJRu9pI4",
+        "plus_code": {
+            "compound_code": "5424+QV Bratislava, Slovakia",
+            "global_code": "8FWV5424+QV"
+        },
+        "rating": 4.7,
+        "reference": "ChIJC4TRo1CJbEcRDJ1qJRu9pI4",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1073,
+        "vicinity": "Štefánikova 864/4"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.17093910000001,
+                "lng": 17.1026726
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.17228323029151,
+                    "lng": 17.1040722802915
+                },
+                "southwest": {
+                    "lat": 48.16958526970851,
+                    "lng": 17.1013743197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Slamená Búda",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3472,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103086539410012879270\">Iveta S</a>"
+                ],
+                "photo_reference": "AdDdOWpzVF_DpJGcrO444rA7c7CPSGhdJ10U2VfZAaJE8ALkfvc9F2GxNopO62phGKgtZBFByz_7RGKFmIl-uAa2oJF1AILXbQ1NNWkt2qVYqWmCbr9Ld0XHpIRExZ_TQpW3CSxwsZjmNUMM-ll6U3lGaQZ3UX8QeVbgG80EKvS9atvTWM7v",
+                "width": 4624
+            }
+        ],
+        "place_id": "ChIJt85DYgOMbEcRY0DrRQtK4kM",
+        "plus_code": {
+            "compound_code": "54C3+93 Bratislava, Slovakia",
+            "global_code": "8FWV54C3+93"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJt85DYgOMbEcRY0DrRQtK4kM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 451,
+        "vicinity": "Cesta na Kamzík 39, Nové Mesto"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1238803,
+                "lng": 17.0896012
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.12520338029149,
+                    "lng": 17.09103223029151
+                },
+                "southwest": {
+                    "lat": 48.1225054197085,
+                    "lng": 17.0883342697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "BERG restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110189772178814353860\">BERG restaurant</a>"
+                ],
+                "photo_reference": "AdDdOWrH-tOlxN3n00dlxIqskqzP3NVjfGxhDGXa9z3ougqxMK-HkZScSv03w8hfuRNRnCt4sDu96Dc2rWp-jHr7HgMEIrmjMwZnjXtYi8ytTxJNUFWlycMLm9W_RrYjkyQtRIC3UL2XuLRRxEvcuAvS_hmHFg4I5n8mZgew0wJ259k-xg0o",
+                "width": 3500
+            }
+        ],
+        "place_id": "ChIJH0owoniJbEcRXBqQfAxXhTU",
+        "plus_code": {
+            "compound_code": "43FQ+HR Bratislava-Petržalka, Slovakia",
+            "global_code": "8FWV43FQ+HR"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJH0owoniJbEcRXBqQfAxXhTU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "meal_delivery",
+            "cafe",
+            "bar",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1325,
+        "vicinity": "24, Údernícka 2712, Petržalka"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1660884,
+                "lng": 17.080434
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1674884802915,
+                    "lng": 17.0814288302915
+                },
+                "southwest": {
+                    "lat": 48.1647905197085,
+                    "lng": 17.0787308697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Patrónka Brewery & Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106391984628150664325\">Barbora Bajtošová</a>"
+                ],
+                "photo_reference": "AdDdOWpfrDQnPDIuCiiyd_HjGufKXWkmHwNYKq8tLm_jWDDzKoNOtwoHNQ4APdpQ9W0uzO1nUCm3ESJyStvCIeRf6OzlXjNH1oC6amdPc1EY59fS5oeolZ4Ci3N19_sThSeviNGY6cDgyiKpRb_I9GbzOVvLrfO6BMW5tDLotFY-ubgEmOBE",
+                "width": 2268
+            }
+        ],
+        "place_id": "ChIJNRcKgwqMbEcRv4PRvwTFH-g",
+        "plus_code": {
+            "compound_code": "538J+C5 Bratislava, Slovakia",
+            "global_code": "8FWV538J+C5"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJNRcKgwqMbEcRv4PRvwTFH-g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 941,
+        "vicinity": "Brnianska 3732/57"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1407166,
+                "lng": 17.1095829
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1420694802915,
+                    "lng": 17.1109865802915
+                },
+                "southwest": {
+                    "lat": 48.1393715197085,
+                    "lng": 17.1082886197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Prazdroj",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2322,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100110688207497665947\">Roman Vavřina</a>"
+                ],
+                "photo_reference": "AdDdOWojjRqs5yjhq9tkbb-tGNCvbl9slV5GCji8LD_RKBEtWSeEoapJvm2wFzIcKKufYDeXk9OslRSHLDI3B0GuzxwInhl9zBeSQ4f68ijj5-czab95lg32FlK5KevDTsiJfI8Sy8MyYmiWOrXVrn8DK-VH-gWGPqkL3hz7tZUXG0puFp1O",
+                "width": 4128
+            }
+        ],
+        "place_id": "ChIJSy5D1GmJbEcR6GthUO6L5RI",
+        "plus_code": {
+            "compound_code": "44R5+7R Bratislava, Slovakia",
+            "global_code": "8FWV44R5+7R"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJSy5D1GmJbEcR6GthUO6L5RI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1346,
+        "vicinity": "Mostová 275/8, Staré Mesto"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1446023,
+                "lng": 17.1124075
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1459365802915,
+                    "lng": 17.11388623029151
+                },
+                "southwest": {
+                    "lat": 48.14323861970851,
+                    "lng": 17.1111882697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Asean Fast Food",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 750,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100408738319137328986\">ASEAN FASTFOOD—COM VIÊT</a>"
+                ],
+                "photo_reference": "AdDdOWoeRIeSEvdndjrBgObVaEPY_28BJMVlmSyH7MUjAQNvOSli5GyTUy_QApUKL0w0GSmGZlRH4mWl9jBxhzrI8kHYDnd7-AoBDB3Qmq0kKH6Lb4yOPKhD6UD4UIttnlzjydwjv2p8YdFiRyKdr_IvR5m0WfeV0dRv3sSl9xM33ET9w4KM",
+                "width": 1125
+            }
+        ],
+        "place_id": "ChIJoeWNy0SJbEcRgHYAdhwuQ4A",
+        "plus_code": {
+            "compound_code": "44V6+RX Bratislava, Slovakia",
+            "global_code": "8FWV44V6+RX"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJoeWNy0SJbEcRgHYAdhwuQ4A",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 518,
+        "vicinity": "Námestie SNP 23"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.15670129999999,
+                "lng": 17.1086589
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1580374802915,
+                    "lng": 17.1100787302915
+                },
+                "southwest": {
+                    "lat": 48.1553395197085,
+                    "lng": 17.1073807697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Italiana Pizza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106833273591399133839\">Tomáš Medi Medveď</a>"
+                ],
+                "photo_reference": "AdDdOWq1VD_1RDW5Nrdl62GoH7tEx7xQRM9ksb1nzibvFOuxFhRTdtYJNr0Fo6vvpjXrGkOj0B3d8wQYfWwASRg9J-o9OxdQ5MinKwQpMNTLh5gna2keXh7OEG_-zlw9VqQem-uPo4O3HuPzrKXg2P_4_wWzmncykjETzL2QlMCOtxRMnJ9D",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJNcKx_lOJbEcRsfVpp9B-ONY",
+        "plus_code": {
+            "compound_code": "5445+MF Bratislava, Slovakia",
+            "global_code": "8FWV5445+MF"
+        },
+        "rating": 3.4,
+        "reference": "ChIJNcKx_lOJbEcRsfVpp9B-ONY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 193,
+        "vicinity": "Bukurešťská 3204/3, Bratislava"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 48.1537667,
+                "lng": 17.1364583
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.1549756302915,
+                    "lng": 17.1375771802915
+                },
+                "southwest": {
+                    "lat": 48.1522776697085,
+                    "lng": 17.13487921970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "COM BUI",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109885145436764868796\">Anni H</a>"
+                ],
+                "photo_reference": "AdDdOWqIAanKFYkTT8G8xOpaImS7kkiFlpP9s2556Qm0jlQt9kgBzRp_U4e_ii25LghcK0DCGt9cf0lspKPubZD1NQIoWT3SguMiIoMprW5995Nbbx8U-0YbxB0r1EajKEuFN5a0QpCZ315Ucu93iAPRS-q7hB4Yi9QLJtPCePn8QgSyvAT2",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJ93wcizOJbEcRqNpT8Q2eE4I",
+        "plus_code": {
+            "compound_code": "543P+GH Bratislava, Slovakia",
+            "global_code": "8FWV543P+GH"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ93wcizOJbEcRqNpT8Q2eE4I",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 66,
+        "vicinity": "Miletičova 15"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1396125,
+                "lng": 17.0967426
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.14118328029149,
+                    "lng": 17.0981329802915
+                },
+                "southwest": {
+                    "lat": 48.13848531970849,
+                    "lng": 17.0954350197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Marina Botel & Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1279,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100198148067820651562\">Natascha Orlowski</a>"
+                ],
+                "photo_reference": "AdDdOWqbWVlGzpcg0jxPPfwPoDiQ31VrqmVs4Rd45nhSxotZGBycg-HSuq-w8Q3ezyHgZBzoEA7CnqpfvUkl5yKVHgbMxmkpOp7x6Fl4CU3eqYOO1bbImZAPXL-dgmNpds-SWEbPyG1udilKB3YKAzVdw-9ivWg1Ogj3PUBstLsJAoTsJyQq",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJFwIc0N2LbEcRiGga2PpZ0tU",
+        "plus_code": {
+            "compound_code": "43QW+RM Bratislava, Slovakia",
+            "global_code": "8FWV43QW+RM"
+        },
+        "rating": 3.9,
+        "reference": "ChIJFwIc0N2LbEcRiGga2PpZ0tU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 316,
+        "vicinity": "Nábrežie armádneho generála Ludvíka Svobodu, Bratislava"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.1488301,
+                "lng": 17.1253952
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.15019313029149,
+                    "lng": 17.1266537802915
+                },
+                "southwest": {
+                    "lat": 48.14749516970849,
+                    "lng": 17.12395581970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cbc café & restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2610,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102147529011275677902\">Marek Bartal</a>"
+                ],
+                "photo_reference": "AdDdOWqJ-qrzaR0116dYWr-xPW5Ux9a-Zxb1gXsHFODMJ4cf5nrr8fhGkBQ6FcqEN01kUwLWxZqLzdia1ubJ5ee9mg-IDv9zSgHBy133F6KTPsHdL9MkjxvDvtDBIDpfqQHCWEIpZNbc--x2_9NAE3tjN4_pRH5picCdy8yIDy_J9tFXSCiH",
+                "width": 4640
+            }
+        ],
+        "place_id": "ChIJZ6vW_zeJbEcRX6B-FWV-dlo",
+        "plus_code": {
+            "compound_code": "44XG+G5 Bratislava, Slovakia",
+            "global_code": "8FWV44XG+G5"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJZ6vW_zeJbEcRX6B-FWV-dlo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 436,
+        "vicinity": "Karadžičova 10, Ružinov"
+    }
+]

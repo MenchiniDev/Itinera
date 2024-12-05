@@ -1,0 +1,66 @@
+{
+    "name": "Galerija Istaba",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Audravi",
+            "author_url": "https://www.google.com/maps/contrib/105958545814532959817/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKM-OejwkzLDb5hqTVClCsps-D91VdOt9OPOc6mUVClaWxTmQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "The interior is very cozy and charming in a bohemian kind of way, perfect for a romantic rainy autumn evening. The menu is short, the food - simple, but very well done, better than expected. The girl waiting on us was super nice. Overall a very pleasant experience, highly recommend.",
+            "time": 1730909905,
+            "translated": false
+        },
+        {
+            "author_name": "Maximilian Ratlmoser",
+            "author_url": "https://www.google.com/maps/contrib/102065879536032153119/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLsw7TUuzjn5fXYcv4wuArcmCsXLr8hp7jOjUh7ffglWc_wA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Stunning location, not easy to find, on the upper floor of a gallery. Friendly and quick service, beautiful tableware, small but well selected choice of wines and beers. There are only a few different dishes available, coming with homemade bread and dips as well as salads, that were exceptionally good. Main course was also good, my suggestion is to go with meat.\nVery cool experience, at a reasonable price for the quality provided.",
+            "time": 1571901032,
+            "translated": false
+        },
+        {
+            "author_name": "Chuan Woei Lim",
+            "author_url": "https://www.google.com/maps/contrib/117345711673223882609/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINokzr-Fxi3kZmNJXWMP9vi8FzE-eKj61xO0LZ2tat5Bq_ag=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Best meal I’ve had in Riga. Delicious flavours, decently priced and friendly service. Cool interior too. Highly recommended",
+            "time": 1692296308,
+            "translated": false
+        },
+        {
+            "author_name": "Stacey",
+            "author_url": "https://www.google.com/maps/contrib/115658141042560830133/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWNTOZYdBc9hUP0nVGZZmlcByOYXsxrEveeVZB9H9FLlxXW74=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Amazing food, service and atmosphere! Very well-priced and food came out quickly. Would recommend without hesitation :)",
+            "time": 1698226228,
+            "translated": false
+        },
+        {
+            "author_name": "Damon Bui",
+            "author_url": "https://www.google.com/maps/contrib/112208937031129285620/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfkxRNNU51-27BeUuCORjuOAosvBj18Z2MfHm6PbDZOaurX8RqdQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Great place, loved the interiors.  Strong, tasty flavours and well cooked dishes.  Hospitable service. 100% recommend",
+            "time": 1692296446,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Ravintola KuuKuu",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Indie Gall",
+            "author_url": "https://www.google.com/maps/contrib/109334926751185371148/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsWa53W1hb7I8qSxMwNtDo0k73-kgHdGr1HkSxaCEh0hne9g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "The food was delicious, good customer service. I dined here specifically for the red currant dessert. Unfortunately it arrived half melted unlike the pictures I’d seen on Google reviews so I was a bit disappointed especially because I planned to post a picture in my own review. The server just said that the dessert melts quickly since it’s taken out to thaw and only after I mentioned I’d seen pictures where it was not melted did she offer another one with a wait which I wasn’t interested in. Overall a good restaurant that I would go back to.",
+            "time": 1724797188,
+            "translated": false
+        },
+        {
+            "author_name": "Dianne Lim",
+            "author_url": "https://www.google.com/maps/contrib/100874489533649607942/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNcHLs6KXNEueQ8iXhlsMYwJXQkL3LjMXVPd3Ajz2CE-aQq_11=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "A really nice quaint place that was our warm stop after a cold morning exploring. Amazing service, very helpful, very friendly. Recommended us the perfect portions when we ordered. We had great comfort food - the Salmon Soup and Meatballs. Highly recommend!!",
+            "time": 1730032377,
+            "translated": false
+        },
+        {
+            "author_name": "Martin Pedraza",
+            "author_url": "https://www.google.com/maps/contrib/114842070611295816444/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDi7P8ksce-K2cy4LlBry2gWRuaebvr3eGGWi1BtPFhaXumL73=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I chose this restaurant based on reviews, and far from being disappointed, I was surprised by how good it was! The restaurant employees were very nice, continously attending to our every need. The atmosphere was cozy and professional, perfect for catching up with family. And the food was delicious, both my guests and me were surprised! I ordered first pumpkin soup (13€) as a starter and then the cabbage roll (24€). Both were very nice and filling, and I think I could have just had the roll and I would have been fine. The roll was particularly astounding; I hadn't had such a delicious vegetarian dish ever! Thank you for this evening, and I will sure look forward to coming again.",
+            "time": 1729793444,
+            "translated": false
+        },
+        {
+            "author_name": "Annabel Fountain",
+            "author_url": "https://www.google.com/maps/contrib/106228343305339226606/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInRtOBWnnsaa2RpTZDAwYlm-qv5R7qbFLxVWO23l0mZMyHPA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "The kitchen closes at 10pm. We arrived at 955 and they were very accommodating. The food was very good. The portions generous. They have a specialty cocktail list which was yummy and an excellent wine list.\nWe felt rushed at the end, although the bar was still open.",
+            "time": 1720955563,
+            "translated": false
+        },
+        {
+            "author_name": "Sutapa B",
+            "author_url": "https://www.google.com/maps/contrib/115138467985089632144/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6N-bG2SEEtJY_4xn_-ETQYAAyabxJs1EYsr9E6Za07x7jnfk=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Amazing food, but, make sure you opt for authentic Finnish dishes.\nLoved the shrimp sandwich, veal and Sole with cauliflower puree.\nWho wants to come to Finland and not have fish!!\nThe waitresses were very attentive to us and recommended the local beer and fizz.\nThe atmosphere was great and relaxed.",
+            "time": 1723275376,
+            "translated": false
+        }
+    ]
+}

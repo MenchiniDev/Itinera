@@ -1,0 +1,66 @@
+{
+    "name": "Flemings Hotel München-Schwabing",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Majo Zelada",
+            "author_url": "https://www.google.com/maps/contrib/114452215129355307707/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0TJIbFhd6nWR8E4HBH6PvCPzXZcO9T4YRr7X5nqV-2EdQbIxd=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "A beautiful hotel, near the center. They only clean ever 2 days, this was fine. There were a few dirty spots visible, if your room is on the bussy side of the street you can hear the cars, me personally didn't bother this. The shampoo and soap were amazing! I do recommend this hotel not only for single people but also for family traveling with 2 kids",
+            "time": 1733140996,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Daley",
+            "author_url": "https://www.google.com/maps/contrib/113236946154309310657/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjiyyzXkxLcTF2B9yZCci09GkYodau8F7fvITjkH8hPeEuzX8=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "When we got to our room, the first thing we noticed was that it looked a bit outdated. We then saw that there was vomit splattered around the toilet that wasn't cleaned properly. We brought this up downstairs and they sent someone up to clean it. We then also found a bug under our comforter the second night which made us not sleep well. When we went to report this early in the morning before we had to catch our train there was no one around. This hotel was \"cheaper\" than others with Oktoberfest going on, if it was clean and we didn't find a bug I would've given them 4-stars.",
+            "time": 1727709839,
+            "translated": false
+        },
+        {
+            "author_name": "Rafaela Schwarz",
+            "author_url": "https://www.google.com/maps/contrib/114667561378651639180/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqbL-gyCunKe9hQLBurcAM4lyM-dEGl9XiPV6CJXM4MwQnnw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Very pleasant stay! Friendly and helpful staff!\nAs the hotel is next to a Main Street, it can be pretty loud during the nights, especially when the window is open.\nThe only thing that “bothered” us, was the lack of a bigger ceiling light, therefore the room was quite dark.",
+            "time": 1721651312,
+            "translated": false
+        },
+        {
+            "author_name": "Paul Donea",
+            "author_url": "https://www.google.com/maps/contrib/107638934803871044453/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWOT_k5dDtvGdwZqggeQbF2gX6xJiqDMLuzGBz2-cnepA3HVdz=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "The hotel is nice and clean and the location is very convenient. Staff is friendly and helpful with the exception of one grumpy guy who came out of the kitchen with the wrong tone and attitude. The breakfast is not the best but all in all the stay was pleasant.",
+            "time": 1722804155,
+            "translated": false
+        },
+        {
+            "author_name": "Joyful Journeys",
+            "author_url": "https://www.google.com/maps/contrib/109869648454613350437/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3sN1P4YSSji1enWrkjinttGyM_VFX06VfAno3588Qs4Kt_0at=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "The small rooms are quite noisy if you get one facing the main street and in case you want to sleep with the window open and the air conditioning turned off. The room was clean and the beds were comfortable. There is an underground car park (€18 p. night) and the elevator goes directly to the floors. There is a tram stop in front of the building and the S-Bahn is only a five minute walk around the corner.",
+            "time": 1723812732,
+            "translated": false
+        }
+    ]
+}

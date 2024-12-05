@@ -1,0 +1,66 @@
+{
+    "name": "Pizza Hut București Dorobanți",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Abdid Bhazin",
+            "author_url": "https://www.google.com/maps/contrib/113444459160637386633/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6r2hAhxBR8He9VmNQjex8pRAatCZwnCRumLW9eZhfSCFr327k=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "Very good pizza, but for 34:90 lei, I'd rather eat something at Ikea or buy a saorma for 29 lei and I could also buy a juice.I think if i dropped it on the ground the bugs and rodents would only last one hours on it beofre they would starve to death.",
+            "time": 1725376371,
+            "translated": false
+        },
+        {
+            "author_name": "Daniela",
+            "author_url": "https://www.google.com/maps/contrib/105866234084114492906/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxZpwqLyLG5L_kO55SPSMo-tG-fyJAR1uzIKbrtI-Pa05QSPljkg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Nice location, friendly staff and food was delicious! I recommend getting the lemonade as well it was so fresh and yummy!",
+            "time": 1731390101,
+            "translated": false
+        },
+        {
+            "author_name": "VIPUL TALWARIA",
+            "author_url": "https://www.google.com/maps/contrib/109316986380362494679/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcjI6E-BaRgh617ANOalKymcnr0ZtnStXFGhDcYiBCjvsAjrITJg=s128-c0x00000000-cc-rp-mo-ba8",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "I tried Pizza hut in Romania but personally I would prefer pizzas of Pizza Hut India because of the no. of options and taste more accustomed to Indian palate. The service was also a bit slow. The place has good number of comfortable seatings though.",
+            "time": 1685289635,
+            "translated": false
+        },
+        {
+            "author_name": "Andrei Traian Oancea",
+            "author_url": "https://www.google.com/maps/contrib/107637754809401314982/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW36Oy014nKZWKPtG4DfC-aOWdl-zEXMKtrrRstUdTMSF27w6lwVg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Nice place, with lots of tables to choose from. The pizza is good and the staff is polite.\n\nI would recommend you to visit the place on Monday to Wednesday, when there are special offers. Like on Monday you buy one medium pizza and you get one free.\n\nOne more thing, if you don’t finish your pizza you can ask to have it on the go.",
+            "time": 1673357634,
+            "translated": false
+        },
+        {
+            "author_name": "anca lara",
+            "author_url": "https://www.google.com/maps/contrib/107668862102827993978/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqcVqbfs31zhBsh78Kv3-BcAMVBcAuaT4ccU7caHh_Aum83A=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Famous place for pizza, we ate peperoni cheesy bites pizza but surprinsing the dessert called profiterol was amazing!",
+            "time": 1731870531,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Westend",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Steph P.",
+            "author_url": "https://www.google.com/maps/contrib/107146607177323122040/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX93n78WPhwynEynTCCNAUGbagyq2dBKRx-74ZIoeMm4dmUYfVyJw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Solid no frills, no fuss hotel. As others mentioned it's old school so you give them your room key every time you leave, but honestly I can't blame them especially during Oktoberfest fest when people would probably lose it otherwise. Location is right next to the festival grounds and about a 10 minute walk from the nearest train station so pretty simple to get to old town as well. Rooms were clean and comfortable. Shower is kinda small, but it wasn't a huge deal. The 24/7 warm drinks was awesome in the chilly weather!",
+            "time": 1727555836,
+            "translated": false
+        },
+        {
+            "author_name": "Gordon Urquhart",
+            "author_url": "https://www.google.com/maps/contrib/115915745336790123255/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYjnNSVabus6Euf9oFl1pX36RV8pwG71w1-0gYTibMlf-7hQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great place for an affordable hotel that is close to Munich HBF.\nThe room was clean and beds were comfortable. Free Wifi with great speed.\nFree and free tea, coffee and apples in Reception.\nBreakfast was excellent value at 8€ per person.\nStaff were very friendly and helpful.\nWould definitely stay here again if I come back to Munich.",
+            "time": 1718438698,
+            "translated": false
+        },
+        {
+            "author_name": "Esra",
+            "author_url": "https://www.google.com/maps/contrib/103929567933901186293/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8agGCJ5RMM-2gOKvwdo58FvyiaPbiQJtvldHOJJA7mUZE_y5h=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "The rooms were clean and modern. Moreover, there was not only a bed in the room, but also a sofa, which I liked very much. Everything was clean. The breakfast was also very diverse and delicious. Tee and coffee was free. Very close to buses, trams and S-Bahn. Transportation is very easy. All the employees are friendly. Thank you for all!",
+            "time": 1709551915,
+            "translated": false
+        },
+        {
+            "author_name": "Maryam Karbalaei",
+            "author_url": "https://www.google.com/maps/contrib/108800606108088364255/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqIGUC4RQebhnIgkhSBwAAqgwYuiaVpPBRjq9n3lPUBdVfckpy=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "11 months ago",
+            "text": "Very nice and helpful reception.\nClean room and toilet.\n24-hour reception service.\nFree coffee and tea service.\nA little bit far from the city centre by walking, but easily accessible by public transportation.\nThe room’s walls are so thin and you hear the noises.",
+            "time": 1704207632,
+            "translated": false
+        },
+        {
+            "author_name": "J B",
+            "author_url": "https://www.google.com/maps/contrib/104998093943729424427/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBeNkPfl7j5EqljxyU5me7ir9oEYuqpgqbgOMzjC6hxL7TtSyi=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "If you're going to Oktoberfest, you want to be as close to the Theresienwiese fairgrounds as possible. Hotel Westend is the perfect location for the festivities! Decent prices for the location and definitely check them out for Oktoberfest!! Prost!!",
+            "time": 1723588066,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "UNAHOTELS Mediterraneo Milano",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Ellis Mitchell",
+            "author_url": "https://www.google.com/maps/contrib/116424512524002251219/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKs23Hq8KbZEda3jkYE_2562dzc-DgnL7sumoRX1c2SGfSpeH-=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Clean and modern hotel, our room was nice and a good size. Very welcoming and friendly staff, great breakfast in the morning too! Location was great for a short stroll to a metro station to get around easily and see the sites of Milano, or a 15-20 minute walk to get to the Duomo by foot.\nWould absolutely stay again!",
+            "time": 1725870630,
+            "translated": false
+        },
+        {
+            "author_name": "Robert",
+            "author_url": "https://www.google.com/maps/contrib/105529578715390005019/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4i6RVxOZ0AnGVRubEGJcVqPIT5WJKIP9DrLnF3hdm7Sx6cQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "Basic hotel in a good location. My room was tiny and very tired looking. Noisy air con which makes sleeping difficult. No iron in rooms and they didn't have any available for some time which was annoying for a business trip. Staff are mostly friendly and helpful otherwise.",
+            "time": 1726140860,
+            "translated": false
+        },
+        {
+            "author_name": "Valo Aunola",
+            "author_url": "https://www.google.com/maps/contrib/117269260570330104243/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8YhAlaIaVa_Mnm1RWcgHZf79fAalY1nSA2k3ZJ2q6Ut0_GKBf=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Checking in and out was super simple and the staff were very friendly. The room was clean and had everything needed (: the metro station was nearby and had great access to the city center.",
+            "time": 1731530460,
+            "translated": false
+        },
+        {
+            "author_name": "Ugo R.",
+            "author_url": "https://www.google.com/maps/contrib/101427268693862284343/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGQG5EUgAuosvxgjfbJDc_1gM8xInJLpo4ALaDU8AkB7mZWptFqw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Nice hotel, with good rooms and breakfast was not bad at all. Bad sound insulation from the room next to it. For me it was not a problem, however for the price they ask it's not fine.",
+            "time": 1723787880,
+            "translated": false
+        },
+        {
+            "author_name": "Mariana Agostinho",
+            "author_url": "https://www.google.com/maps/contrib/101518951430738105321/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAYpVL-WG7HPidqZlwm2dWwKgkm3MuKQV333VyMWySMlqJLf4=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "It's a very good hotel for those looking for a more economical option. The breakfast is wonderful and so are the rooms. The only problem is that it's a bit far from the center, but the metro is very close by.",
+            "time": 1718731458,
+            "translated": false
+        }
+    ]
+}

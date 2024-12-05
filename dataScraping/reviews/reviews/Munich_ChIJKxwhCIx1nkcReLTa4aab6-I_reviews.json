@@ -1,0 +1,66 @@
+{
+    "name": "Brenner",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Jim",
+            "author_url": "https://www.google.com/maps/contrib/108271745772373383549/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ0cdTii_Iwj8EiCk-s6yijG0FHtOTmu78GbPbqhfRt4j5doZP_w=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Went here on a Friday night. Absolutely loved the atmosphere, it was packed but there are a lot of attentive and friendly staff.\n\nThe place has a real buzz and the menu is decent. We shared a starter of carpaccio beef, then had two mains, a pasta dish and the tiger king prawns.\n\nDespite the queue of people waiting to get in we never felt rushed.\n\nWould highly recommend.",
+            "time": 1732962304,
+            "translated": false
+        },
+        {
+            "author_name": "Julia Khalil",
+            "author_url": "https://www.google.com/maps/contrib/102266281641450608950/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2wRNMonMEpX5853Nv_kq_g5HEY7kba_P9IcxjaB3uSB0Lgw=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "We came here twice: once, the service was terrible but food was good, once the service was excellent but food was disappointing. Elias was wonderful - very attentive, kind and efficient. You can sit outside nicely in the heart of Munich. The interior design is very tasteful.",
+            "time": 1725302185,
+            "translated": false
+        },
+        {
+            "author_name": "Muhammad Sultan",
+            "author_url": "https://www.google.com/maps/contrib/110154867751948697339/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUy3AdPlAy3hVrywiemHkrC-bd9uJmpmTMi3Jag32Y2lUdBA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "The ambiance was truly delightful, and the food was exceptional. Our waiter was incredibly knowledgeable and helpful, making the dining experience even more enjoyable.",
+            "time": 1730830528,
+            "translated": false
+        },
+        {
+            "author_name": "JOY KITTEN",
+            "author_url": "https://www.google.com/maps/contrib/110444870919475763577/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2aCqbfpDypx8jZqhtlemf-tK0rFR_4voeLk3XXIN1SRq0ads=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Best service I have received in my 14 days in Europe. Food is delicious, pleasantly surprised by the grilled Octopus!\n\nHot chocolate was very rich 👍🏻\nCoffee was great.\n\nOnce again, the service rendered was sincere, polite, customer-centric. The owner must be proud to have a team that is self-motivated. Good jobs guys!\n\nP/S: wished I tried the apple pie! Saw it too late, they have a very nice display of delicious looking desserts 💜",
+            "time": 1716982242,
+            "translated": false
+        },
+        {
+            "author_name": "Hala AlSalman",
+            "author_url": "https://www.google.com/maps/contrib/115563749292115450785/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCPwcp1daeiQOWrMv3RFNfZMB3yth4wiybeo529vXWI5BILA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The food was extraordinary and the service was exceptional. I visited the restaurant twice during my 4 day stay in Munich. The steak was amazing, the pasta was as good as or even better than what I would get in Italy. The dessert and coffee were good. The whole experience was exceptional.",
+            "time": 1723209537,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Neiburgs Hotel & Restaurant",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Jayma Flap",
+            "author_url": "https://www.google.com/maps/contrib/102814987642906025445/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvI4ZvemVjmJHYZ5ze5HdXTlXMugKar-TNLYux9uTxeqdzscxD=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "- The rooms here are fantastic—they come with a private kitchen and a cosy living room area, which I really appreciated. And there is a bottle of water included.\n\n- There’s also a small gym and spa, which I absolutely loved.\n\n- Breakfast was incredible—everything was super delicious and well-prepared.\n\nWhy I’m giving 4 stars:\n\n- The restaurant and bar are only open on certain days and with reduced hours, which was disappointing.\n\n- Breakfast times could be improved—it starts at 7:30 and ends at 10, whereas many hotels offer breakfast from 7 to 11, which is much more convenient.\n\n- The lobby area is nice but feels a bit small.",
+            "time": 1733221684,
+            "translated": false
+        },
+        {
+            "author_name": "Diane Adams",
+            "author_url": "https://www.google.com/maps/contrib/103947769212177584268/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqKA1isKGXe1t72IquM3ChtpFZcEhdmEZYcwNRp1u2ie5ySpom0A=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a week ago",
+            "text": "Disappointing Stay Due to Noise Issues\nWhile the Neilsberg Hotel has some positives, such as spacious rooms, friendly service, and a good breakfast, the noise issues were a major problem. The lack of soundproofing meant I could hear street noise, guests above, and doors slamming, which disrupted my sleep every night. The hard bed and uncomfortable pillows didn’t help. The bathtub/shower setup was inconvenient and poorly designed, and my massage was ruined by noise from the gym above. Overall, I wouldn’t stay here again or recommend it due to the poor sleep quality and noise disturbances.",
+            "time": 1732522719,
+            "translated": false
+        },
+        {
+            "author_name": "Esben Myhre",
+            "author_url": "https://www.google.com/maps/contrib/114943960160430241583/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1hTqE_TkIl2D1O224prKBNmhR9xpAqlnNZkJNNd-Qy75y6r-npg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "A very nice hotel with an excellent breakfast.\nThe room was spacious and clean. Nice beds too.\nIt was kind of cold in the room, so they borrowed us a heater.\nThey have a very small gym too..",
+            "time": 1728113099,
+            "translated": false
+        },
+        {
+            "author_name": "Renata Brak",
+            "author_url": "https://www.google.com/maps/contrib/112806662604373313271/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS2PbaSqSMEjFIffYNO_p19UnI1UMcOYyFAdndJ5Mxpd8KU2Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Such a gorgeous hotel in the heart of Old Town Riga. We visited during Spring while they had a cold snap and lots of snow. You would not have known it was cold outside as the rooms were extremely well heated. The whole room was stunning from the decor, to the ammenities, to the views.",
+            "time": 1721090163,
+            "translated": false
+        },
+        {
+            "author_name": "Jim Lamborn",
+            "author_url": "https://www.google.com/maps/contrib/111298456577210446802/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKg9tp-bqt4xCEN15FNOXJMoyK07pwl3YFEUbr_ssaPqPIjzQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This is a great place to stay in old town Riga. The building is an amazing example of Art Nouveau architecture with breath taking facade. The rooms are great and the breakfast is to die for - so much to choose from and all very fresh and tasty. The staff are very friendly and you can also do your own laundry in machines in the basement. The restaurant provides great food and wine. I can't fault this place - only one minor comment - the showers are awkward inc a big step up into the bath.",
+            "time": 1719664149,
+            "translated": false
+        }
+    ]
+}

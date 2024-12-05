@@ -1,0 +1,66 @@
+{
+    "name": "Hello Hotels Bucharest",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Vio M",
+            "author_url": "https://www.google.com/maps/contrib/110758672475660218225/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMURtJ3F9q6UTG40Beza7SsU7lgFeJVsvoJ83SjQp8qyxaugo=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The hotel has friendly and welcoming staf, with a really good location, well-connected by the tube and other transport options. The room was clean and met all my needs. It also futures a restaurant and a coffee shop, which was convenient during my stay. Overall, a great option for both comfort and accessibility!",
+            "time": 1728600515,
+            "translated": false
+        },
+        {
+            "author_name": "Daniela Sheppard",
+            "author_url": "https://www.google.com/maps/contrib/106682665458894488263/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuYS3XQrx4SU9SnyjjS3RUPLwnk-UScEfVIOC8_Gk1LnjH3-6MvQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This hotel is all about convenience and is one place we often use when visiting Bucharest. The location is handy for the train station (good trains to airport every 15min) and the Metro. Rooms are basic but clean and efficient (good bed, shower, wifi and a small tv). The staff is very friendly and helpful. The lobby has a nice café with plenty of seating areas and there is a luggage room should you need to leave the heavy bags for few hours. We loved the new shower we had in our room.\nThe only inconvenient is the area around the hotel. Not the nicest place to take a walk particularly in the evenings but on a nice day, Calea Victoriei is only a 15min walk away.",
+            "time": 1728974620,
+            "translated": false
+        },
+        {
+            "author_name": "Sa La",
+            "author_url": "https://www.google.com/maps/contrib/112600088315196213970/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4yesqbbNJBGfP1Ow6tzRTxLorjjcYuxMf2YrXNxcatw-bqPf6=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "Spent our night killing mosquitoes on our 5th floor room. Good hotel, good location very close to M1 metro and North station but the hotel seriously needs to settle mosquito issue. Housekeeping is done every other day but fresh towels and rubbish collected everyday upon request. Parking cost 7€ per day.",
+            "time": 1727467473,
+            "translated": false
+        },
+        {
+            "author_name": "Shubham Pandey",
+            "author_url": "https://www.google.com/maps/contrib/114450690019167198719/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYNmJDUGMyBYy7rXZa0dyMxEJpHz_qYFErn_Nk_nEIbskQ02s7=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Perfect location, affordable rooms, good breakfast, free luggage storage facility.\n\nWait, then why I am giving one star. The devil is in the details.\n\nIn one line, you won't be able to have peaceful sleep.\n\nThere are sounds coming from AC, shower, and window glass. The AC senses room temperature automatically and starts and stops again and again. This produces very high pitch sound. But I switched off AC to manage this.\n\nThe shower produces some sounds of water drainage, but they are not that high pitch and can be ignored.\n\nIt is the sounds coming from window glass which is unbearable. Like some air get stuck into window and then it produces break sound, every 5 minutes.\n\nInitially I was in room 501, I changed room midnight due to AC sound. Then I moved to room 523, which was having these window sounds. I recoreded the sounds, informed the reception, but nothing changed.\n\nThen I asked some of my colleagues who were also staying same time as we went for a consultation. Almost everyone complained about AC sound and a few complained about window sounds.\n\nIn sum, I couldn't sleep properly for six days.",
+            "time": 1724057788,
+            "translated": false
+        },
+        {
+            "author_name": "Kristian Vasiljevic",
+            "author_url": "https://www.google.com/maps/contrib/117704492145681807954/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxtr1hYJKHoiOQ2pnLv6SnJQtVPE8UiasW0f2FsxjQQ3G4cwNk=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "What a lovely hotel!\n\nMe and my girlfriend went to Bucharest by train, from Chisinau.\nWe stayed for a night, and this was perfect!\nIt was extremely cheap for the stuff it offered. We payed 76 Euro for a night in a double comfort room.\nIt includes a king size bed, shower, toilet, sink, table with 2 chairs, fridge, and a lovely view of Bucharest!\n\nThis was the perfect location, as its just a 5 minute walk from the station!\nWhich i loved.\nSince i wasnt looking forward to walking or taking a taxi with all my luggage..\n\nThe toilet door is a little broken and the shower leaks a little but the owners said theyre working on a renovation!\n\nThe staff are extremely kind and helpfull.\nWe arrived early in the morning with the train, and the check in wasnt till 3PM.\nWe decided to wait a little in the station, as walking around with bags in the scorching heat isnt very fun..\nAfter 2 hours i said lets just go check if they have the room.\n\nBy sheer luck, they had 1 comfort room ready and available, which means we checked in at 11am instead of 3pm!\n\nWe later asked for the best way to get to the Therme Bucurest, which the staff member nicely explained to us.\n\nLoved it!",
+            "time": 1725879048,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Clube de Fado",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Nathalie Pedro",
+            "author_url": "https://www.google.com/maps/contrib/108965123489316854023/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmoXFLfi6QTB-IA_DSFV4o1WGtSGkpjBtnHRWn6QX_Yl55OldGXg=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I had a blast! The place is a typical portuguese Fado venue and is lovely. It's very well managed. The food is actually incredibly good and well presented. You're not just here for the music! Though the music was awesome. The singers were incredible. I must say we had Mauro as a waiter and he was the sweetest, the funniest and so professional. I was impressed.\nYou should not look anywhere else for your Friday night! I've tried a few and this one is my favorite, no doubt!",
+            "time": 1732664327,
+            "translated": false
+        },
+        {
+            "author_name": "Linda Paul",
+            "author_url": "https://www.google.com/maps/contrib/107671408923535327252/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZqPP4kVc8HXhA47GRSkQ7zKDl72NlcQmWkVYaVqgF7UiJtm8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Everything about our evening was perfect.  I'm not sure how, but we nabbed a front row table and so we felt immersed in the Fado experience which was beautiful.  Our waiter was probably the best we've ever had -- anywhere.  From his explanations of the menu to artistic removal of the fish bone!  And the food was truly phenomenal.  My husband and I agree that Clube de Fado is truly a class act. (One note: if you are using a GPS to get there, it can be a little confusing.  If you are on the main road down by the water, it's one street up, but Uber drivers don't have access to that street.  You either need to take.a regular taxi or walk up the one block. But it's 100% worth it no matter how you get there!)",
+            "time": 1729359084,
+            "translated": false
+        },
+        {
+            "author_name": "Stephen Eccles",
+            "author_url": "https://www.google.com/maps/contrib/118117827391370728867/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDe4vjUcU9lpn9wZPLeH-yqJxDSRAC1-_mxbLYPx4Q08uGnoc=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Loved the Fado, truly mesmerizing. The food was excellent, but to be honest the waiter was very poor.\nWe had Robby to start with, who was very friendly and informative. Unfortunately he’ was switched to some bigger tables and the waiter that came next was very poor (did not give his name, and was not communicative). He offered nothing and we needed to ask for everything; more water , another glass of wine etc (actually had to ask the maitre d’ for the wine, because the waiter never came back to check on us).\nLoved the ambiance, the music, and the food, but per above the service lessened the experience. Would still highly recommend.",
+            "time": 1729877509,
+            "translated": false
+        },
+        {
+            "author_name": "Kristinn Ólafsson",
+            "author_url": "https://www.google.com/maps/contrib/112768982910355396371/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-dbk38-wcez50wwLIzrPDtHsULyfZZGW0wdmdQVgn-OX0DGAt=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Wonderful evening we had. The music was amazing and the food was delicious. We enjoyed the evening so much and we had a great service. We recommend the restaurant. The Fado music is amazing and a must to listen to. Thanks for a wonderful evening.",
+            "time": 1730369703,
+            "translated": false
+        },
+        {
+            "author_name": "Lincoln",
+            "author_url": "https://www.google.com/maps/contrib/109613975184896522405/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCDX7rA2GvPj5VZzHFH6IGzW4PWfBXcCMYSnwAJc_JdmveLg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Absolutely fantastic experience - the food, service, and atmosphere were great and the music absolutely heavenly! It was a highlight of our visit in Lisboa. I will make it a point to come back - and I highly recommend Clube de Fado 🥰",
+            "time": 1731867684,
+            "translated": false
+        }
+    ]
+}

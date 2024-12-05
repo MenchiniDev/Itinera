@@ -1,0 +1,66 @@
+{
+    "name": "Le Stollberg",
+    "rating": 4.8,
+    "reviews": [
+        {
+            "author_name": "Olga van Heumen",
+            "author_url": "https://www.google.com/maps/contrib/117854578036786221423/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXItd_EsTWFJK9wkf14qc7QMIGeHVRGXhjSWVGjrjmi0MY-wnzd=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Today we accidentally got into this restaurant and did not regret it. To say that it was delicious is to say nothing, it was amazingly delicious 110 points out of 100)) We ordered three dishes for two and did not even expect that all the dishes would be laid out on different plates for each of us. Every dish was great. Many thanks to the cook. Despite the fact that we ate three dishes for two, we did not stay hungry, it was enough for us, especially at 10 o'clock in the evening. The waiters are very polite and courteous. I highly recommend visiting this restaurant. My daughter and I will definitely come here next time we visit Munich",
+            "time": 1697179893,
+            "translated": false
+        },
+        {
+            "author_name": "Annie Liao",
+            "author_url": "https://www.google.com/maps/contrib/110042965507337732344/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIQb3Wf4xk0qXzu0EsOeA88HDgI8XJZnvVnJlklT-6qVg9PjVu=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Highly recommended! We have four course menu, and a glass of wine comes with each dish. Excellent!",
+            "time": 1715619254,
+            "translated": false
+        },
+        {
+            "author_name": "Helen Bradley",
+            "author_url": "https://www.google.com/maps/contrib/102233692029402202702/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKup-AYNUkuzIu-yDLJ3hW7n8pXrbU0KrXlkYlwsMT8xpoOYA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The food is very good indeed, the service quietly efficient and the surroundings elegant. I’d highly recommend the 4 course menu with the accompanying wines. A lovely place for a special occasion or just for a treat.",
+            "time": 1729696141,
+            "translated": false
+        },
+        {
+            "author_name": "Priti Singh",
+            "author_url": "https://www.google.com/maps/contrib/114039083033317378186/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVigQTb-tAyksepinolAOAkY0fEJTuqoIxHIOhyL7YSUOAt7pQk=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "A day before our reservation, I had called the restaurant and asked if there are any vegetarian options I could try. The next day, the restaurant was so kind to have prepared few vegetarian options only because I enquired. All options were great. I chose to have risotto with green and white asparagus. It was a sumptuous meal!\nMatthias, who was attending our table, was so friendly and made sure we were enjoying our meal the whole time. Thank you Matthias :)",
+            "time": 1682059918,
+            "translated": false
+        },
+        {
+            "author_name": "Jay KR",
+            "author_url": "https://www.google.com/maps/contrib/104876934679891405310/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs_YhwN-bAALWjUJ9SplgLuuPUevrE2Ar78fHnjwTj0LdUuOVaPw=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "I had a great business lunch today. Very professional and friendly service and a nice & cosy restaurant with outdoor seating available.\n\nWe took 3 courses menu which came along with octopus salad, beef steak and brownie for sweets.\n\nIt was the best French restaurant I have been to in Munich during my stay this time. Highly recommended to try out",
+            "time": 1623252113,
+            "translated": false
+        }
+    ]
+}

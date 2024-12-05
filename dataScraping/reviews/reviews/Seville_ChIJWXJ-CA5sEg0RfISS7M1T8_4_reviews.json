@@ -1,0 +1,66 @@
+{
+    "name": "Al-Medina",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Heather Bourque",
+            "author_url": "https://www.google.com/maps/contrib/101713907220692884815/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfstxbrMNEglEIvgpq_225BaHqTB_jgwCE5Ao3knYO3DkbLnz1=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "We had a great meal and fabulous service. We chose a sidewalk seat which was really nice. We started with each a cup of tea and appreciated the traditional Moroccan pour (high pour) that fills the air with a wonderful aroma. Our food was delicious and the perfect way to add a few veggies into our the mix.",
+            "time": 1718096523,
+            "translated": false
+        },
+        {
+            "author_name": "Leonardo Avila",
+            "author_url": "https://www.google.com/maps/contrib/102710376333070640891/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvzF-ASv9WtNhCMyBL1U6bptrkgrL8BvcjL5ihSg2dIRLWGelb=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "We just had dinner with my family and it was an excellent experience. The food was exquisite, the service unbeatable, and the ambiance of the place is very well thought out. This place is a hidden gem in Seville, highly recommended.",
+            "time": 1718313224,
+            "translated": false
+        },
+        {
+            "author_name": "John Paul",
+            "author_url": "https://www.google.com/maps/contrib/107738041251276476677/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUXISIZH_BpbqU1xT5rAFEVoXLMU_urf0WruJUWcvnvxYdwKU=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "The food was exquisite !  I’ve had kefta bruschetta many times but the ones made here are by far the best I’ve tasted. Everyone was lovely ! Will return.",
+            "time": 1721547483,
+            "translated": false
+        },
+        {
+            "author_name": "Alfin Priambudi",
+            "author_url": "https://www.google.com/maps/contrib/100620531025217108940/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI62FvA2k1UA3CAV5T-YXxCyu6g1xX3EoSdXMLj1wMawzjo8w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Enjoyable and halal food in the heart of Seville. The owner offered chicken pastilla which was proved to be great choice.\nTry kuskus, mix grill and rice! Tea was served in unique way. Great experienced!",
+            "time": 1715934412,
+            "translated": false
+        },
+        {
+            "author_name": "Fizza Fatima",
+            "author_url": "https://www.google.com/maps/contrib/114837166251168797055/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqA2QzsBty5KdT6TOTGrOhTBSM6wE_7asxeBmdeohJDEyZYv0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "I’ve been to Moroccan restaurants all over Spain but this was the best experience ever! The service, food, ambience everything was perfect. The female staff is so professional and friendly that just made our day. We had the tagine, roasted veggies and pastela. The lamb was cooked perfectly. The mint tea is also delicious. Will def come when I come to Seville next. You’re all doing a fabulous job!",
+            "time": 1709497431,
+            "translated": false
+        }
+    ]
+}

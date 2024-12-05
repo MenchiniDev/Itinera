@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Lux",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Elizabeth Matherson",
+            "author_url": "https://www.google.com/maps/contrib/101231853244651753266/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcgYRDWA5kEhATXPu_aMDJo5bkdZBiUBebP_uxesvWngjoYA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Such a unique spot. Perfect location for city center. I loved my time here and will definitely stay again when i return to München☺️🇺🇸",
+            "time": 1729962713,
+            "translated": false
+        },
+        {
+            "author_name": "Christian Langenegger",
+            "author_url": "https://www.google.com/maps/contrib/102564969344116611897/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-81CkYOP2hLA2IXzgZJ4gFkvA-BhMQIULelplG_D4Eqr-47ve=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great location. Nice rooms. Was just in for the night and too exhausted to visit the bar, but it looked fabulous.",
+            "time": 1730358714,
+            "translated": false
+        },
+        {
+            "author_name": "SF",
+            "author_url": "https://www.google.com/maps/contrib/117001768311397747945/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVAotpVWgj0yX-NvAi4Mo8xpgYhBZ2aydu05xfq-wmtcZJJA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Hotel perfectly located in the heart of München. Rooms are clean and well isolated. The price is very correct for the quality and location of the hotel.",
+            "time": 1726509637,
+            "translated": false
+        },
+        {
+            "author_name": "Shaun Vorster",
+            "author_url": "https://www.google.com/maps/contrib/102404380435620662938/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPhOeiqprmJ2KTtWS7qHFvVSeyH7dRWDYNyBSBZDOrvjuZEXhTSg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Excellent staff; superb location; classy restaurant; shout to the amazing front-of-house team",
+            "time": 1726687170,
+            "translated": false
+        },
+        {
+            "author_name": "Dennis Burns",
+            "author_url": "https://www.google.com/maps/contrib/107676235619439548700/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW72B6PPjplYTq0Z2b1_pp-P0tTA8LxZ3k0iKkhpwWjlgLenU_m=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The service was phenomenal, the breakfast was delicious, the location is perfect, and the room was very nice! 10/10 would recommend.",
+            "time": 1723635292,
+            "translated": false
+        }
+    ]
+}

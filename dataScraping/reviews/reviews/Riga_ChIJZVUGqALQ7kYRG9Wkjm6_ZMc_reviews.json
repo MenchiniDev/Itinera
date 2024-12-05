@@ -1,0 +1,66 @@
+{
+    "name": "NB Hotel",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Marta Trebatická",
+            "author_url": "https://www.google.com/maps/contrib/112559291763647872921/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWbilUSWR6hcAcgHkKLxzMCTCfBzDMx-4d3b5wilZithNUuZgC=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "I recommend not to choose the rooms on the right side of the entrance starting with numbers 4 and 5. They are different, more modest than those in the hotel photos. The beds were comfortable though. In the evening only cold water flowed. A bonus is the wide breakfast buffet.",
+            "time": 1731166293,
+            "translated": false
+        },
+        {
+            "author_name": "Marina Nekrassova",
+            "author_url": "https://www.google.com/maps/contrib/114292547003166860452/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaMd9LVC1Kf6UDX-9LEzQcwMjRrTP2WU8oL1f3X8_6Ecg8I-kMrQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Stayed there in 2023. Room was smelly and dirty, with outdated furniture and facilities. In general, it felt like a reminiscent from the Soviet era. Breakfast was nothing special, just didn't remember it. The only good thing is location, quite close to the center, on a relatively quiet street, with a free parking. To sum up: nothing catastrophic, but got disappointed after accidentally selecting such place for a stay during my visit to Riga.",
+            "time": 1720212411,
+            "translated": false
+        },
+        {
+            "author_name": "Yury Yakauleu",
+            "author_url": "https://www.google.com/maps/contrib/107740499534521665818/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUIaVtI0v-kUZe1zUiEW4mJIDVouBuefFT1SmfYlJ556HA9Gk=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Visited this hotel in May 2024. Very good place to stay in quiet area. Rooms are clean and comfortable. Excellent breakfast for everyone. Very welcome personnel.",
+            "time": 1718534068,
+            "translated": false
+        },
+        {
+            "author_name": "Eduard Markov",
+            "author_url": "https://www.google.com/maps/contrib/102446365864450073534/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzpCYnLIiWwgVk1XyovJLBK2eVQuo-lXmOXYVoEYN2Yhhg-SY=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Peacefull place. About 15 min to center by tram. Good food.",
+            "time": 1732981921,
+            "translated": false
+        },
+        {
+            "author_name": "Paul Schlecht",
+            "author_url": "https://www.google.com/maps/contrib/111627269029623778047/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUO_Ekpx0_F_gheqyItQJ9p4QR2yQfAtrxQYQHfmUfMYpvt-MWF=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Small, relatively cheap hotel. I was there for a week, and the service was good, but the rooms were not of outstanding quality. Some parts of the wall were damaged, and a switch was broken. The location is good if you want to visit the University as I did. Otherwise, it is pretty far to go to the city center or old town.",
+            "time": 1687092439,
+            "translated": false
+        }
+    ]
+}

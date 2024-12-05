@@ -1,0 +1,66 @@
+{
+    "name": "Metropol Hotel",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Jake J",
+            "author_url": "https://www.google.com/maps/contrib/108569576154091849471/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2nge1z8LCv2Bejp16U-O1Araav_mNGCoZF89HLCEfifXTTKk=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Stayed here on a trip to Tallinn and it was a nice hotel, the location was good and an easy walk to anywhere you need to go, staff were very friendly, Breakfast was a buffet style and was very nice with a decent variety.\nMy one downside would be the room was very hot even with the window open and the radiator off.\nStill had a comftable stay and would stay again.",
+            "time": 1732192604,
+            "translated": false
+        },
+        {
+            "author_name": "Kristoffer Stalby",
+            "author_url": "https://www.google.com/maps/contrib/100211568047710866851/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKV_MdU-Nm-QT0T9ePOTjZcJf6yG-1nhGD5uZS_KMmEYDkBA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "My room did not have a window towards the street and the air quality inside therefore deteriorated quickly. Otherwise basic room with all you need.\n\nBought breakfast at the hotel once, it was 5 minutes before buffet closed, which I didnt know or check. Staff did not point this out to me which is poor service as I barely managed to get one plate of food.\n\nLocation is however prime, short distance to the old city. And the hotel has it's own spa with different saunas and hot pools.\n\nAll in all could return.",
+            "time": 1730866158,
+            "translated": false
+        },
+        {
+            "author_name": "Miira Norrgård",
+            "author_url": "https://www.google.com/maps/contrib/107952436815851884023/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_KVc_p9hgClXl3ncWNS8cwEv19yWKUmCt6uDZQkf4XkIJJ6cM=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Why is it so difficult for Estonians to be nice and polite when in customer service? Anyway the spa was small but nice with four hot tubs and one bigger pool. There were four saunas, they were okay. Slight minus not to be able to have drink in the pool, but some people still did it, even signs everywhere. Room was a not new anymore and it didn't smell fresh, but we had \"romantic\" room so we had chocolates and sparkling wine waiting in our room decorated with the rose pedals",
+            "time": 1723458182,
+            "translated": false
+        },
+        {
+            "author_name": "Ilia Raysin",
+            "author_url": "https://www.google.com/maps/contrib/112479796023966136772/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBvCfQd7ZuqV_arLPGMHciSg_6P7D6wDzf1ANNZpOeqTgh5w=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "The room was extremely hot and had bad ventilation and smelled like sewage. They let me have another room the next day after I insisted on it, but the ventilation was only slightly better. The bathroom in the other room still smelled a bit like sewage.",
+            "time": 1724580266,
+            "translated": false
+        },
+        {
+            "author_name": "איתמר",
+            "author_url": "https://www.google.com/maps/contrib/105343376089995723534/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLSAEuOjRcmDJUv3uOnjQ9U_iBQ6SiiKcmFj00sE0OvDDqt4A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "4 months ago",
+            "text": "Very much below our expectations. Small rooms with no feeling of hospitality. Not enough lights and bad placement of furniture. Small and uncomfortable shower and toilet. No view and the windows won’t even open. Good location in the center of the city though.",
+            "time": 1722369099,
+            "translated": false
+        }
+    ]
+}

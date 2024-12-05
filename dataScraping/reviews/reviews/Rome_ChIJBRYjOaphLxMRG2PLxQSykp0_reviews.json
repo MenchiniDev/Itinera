@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Majestic",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Ahmed Alayed",
+            "author_url": "https://www.google.com/maps/contrib/100397029443923206199/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2gD0B9aNZ1Gq6M4ZSnzQkxthf6GYY9OS2c3ifZuKCoto4Ahva=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "This hotel deserves 5 stars. It has luxury European style with amazing marble floor and walls.\nI stayed in suite with view of main street in Feb 2020. I am rating it at four seasons hotel level. Well deserved!\nThe hotel location is amazing walking distance to all hot touristic spots. Even shuttle bus to Castle Romano outlet is steps away.\nTheir lift is very antique and unique it reminds me of old style lifts.\nBF was very good with different choices.",
+            "time": 1581974029,
+            "translated": false
+        },
+        {
+            "author_name": "Andrea K",
+            "author_url": "https://www.google.com/maps/contrib/116653677095409425402/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR6p0eLvouX-mVdQ09cCVVzl4CRUPZ0CrKMf59FDcbRRG9Lw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "My room was very comfortable. I stayed on the first floor so I had some street noise but nothing that kept me up. Very clean. Great location. Did not dine at hotel so I cannot comment. I have nothing negative to say. Enjoyed my stay.",
+            "time": 1528995550,
+            "translated": false
+        },
+        {
+            "author_name": "Diane Montgomery",
+            "author_url": "https://www.google.com/maps/contrib/106098362184379775622/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrOsJmpq35Km6mEzNrzZIO-AOvqm5H6Kvm54kPJZeqHFDetq3cnA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "6 years ago",
+            "text": "We had a terrible time there. The noise from the construction work was horrible. We had a deluxe room. Ha!  Reception was very cold. But, the food in the dining room was excellent.\nWith all that said, some very expensive jewelry was taken from our room. Of course, management said they were not responsible plus they said I should have known sooner that it was missing. Not to wait til I returned home.",
+            "time": 1527092731,
+            "translated": false
+        },
+        {
+            "author_name": "Luke Campos Brown",
+            "author_url": "https://www.google.com/maps/contrib/106725269215857248465/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVexn5NK8OnFMLI4lQX6uj6QdmJgaOP3D8zMRGLkQaa9iL4jlxj=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "9 years ago",
+            "text": "Gorgeous hotel!  The service was exceptional and my room was extremely inviting and well kept (with a great view too).  Breakfast was amazing, and the staff was always very helpful.  I would definitely stay here again.",
+            "time": 1428846051,
+            "translated": false
+        },
+        {
+            "author_name": "Pamela Donato",
+            "author_url": "https://www.google.com/maps/contrib/101663606861263305165/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJihOkstdCxuTRt2YfJ_ZmlUks8_Exerb_ErguKq1s-FNSHGN9Ew=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Our room is a a superior double with a large bed, full closet, desk, and marble bathroom. It is beautiful and comfortable for 2 people. The hotel is conveniently located, within walking distance to several historic sites.",
+            "time": 1535310416,
+            "translated": false
+        }
+    ]
+}

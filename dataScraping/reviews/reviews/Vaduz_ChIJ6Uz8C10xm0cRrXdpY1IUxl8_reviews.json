@@ -1,0 +1,66 @@
+{
+    "name": "Dolce Vita Ice Cream Parlor",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "christine mcquilkin",
+            "author_url": "https://www.google.com/maps/contrib/106289304733247579136/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqyL_Bm83UQxUXkfxhYy_5cxU7l0XS8SVlnMgvlpNqQGsQgTpyiA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This may be the best mint chocolate chip ice cream I've ever had! (And since it's my favorite flavor, that's saying something!). Plenty of gluten free choices of homemade ice cream. Wish I could go back!",
+            "time": 1726475345,
+            "translated": false
+        },
+        {
+            "author_name": "Z",
+            "author_url": "https://www.google.com/maps/contrib/100485344487075097192/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7cDW-eygci4tl2HZr3UJYHNBI_MNRIqhC_2Ds_97f5E4cRSbh=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "If you’re absolutely craving something slimy, overly sweet, and overpriced simply because of its location, or if you have nothing else to do in the area, then this might be your place. The food here lacks thought and effort, and it seems like the recipes weren't even tested after being made.\n\nWe tried three flavors, and none were decent enough to prevent us from leaving a fair comment to warn others. The cheesecake flavor was especially disappointing; it tasted like someone carelessly threw in the wrong ingredients. It was excessively sweet with a funky, strong flavor that bordered on bitterness, which made me cough repeatedly after eating.\n\nThe service was minimal, characterized by a cold demeanor and few words. The atmosphere was slightly better than the food, mainly because it’s located in the center of a touristy area with plenty of natural outdoor seating at its corner store setting.\n\nIt seems the owner is rather fortunate to have a 4.5 rating, likely due to serving only happy tourists. However, this rating is misleading for those who rely on it to make their dining choices.\n\nAs an avid gelato enthusiast and a longtime “local guide” on Google who has been silent for years, I felt compelled to write this review to provide a more accurate depiction.",
+            "time": 1720418851,
+            "translated": false
+        },
+        {
+            "author_name": "Vittal Mogasale",
+            "author_url": "https://www.google.com/maps/contrib/112573218341157470123/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmZ7KOZuIEsj-p1WIgUrOgChZ6FuxkULmTUrMRR2XluSoyAdI=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Tried different varities of ice cream here. Excellent taste!",
+            "time": 1727459583,
+            "translated": false
+        },
+        {
+            "author_name": "Arjun Butani",
+            "author_url": "https://www.google.com/maps/contrib/102281322789847603530/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAcC8brveGVSW1GZFOqtn-S2Ndo8SNLIVb6GINnwTwK-sFoiA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Decent ice cream. Mine was good but over sweet chocolate and slightly burnt cone",
+            "time": 1716408222,
+            "translated": false
+        },
+        {
+            "author_name": "Travel",
+            "author_url": "https://www.google.com/maps/contrib/117682827075435869525/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLg15vWkP9wMfha4qImkUjDopfYEPa-1iu1WWcKyKyN4bTPg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Good ice cream in central location.",
+            "time": 1729287107,
+            "translated": false
+        }
+    ]
+}

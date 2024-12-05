@@ -1,0 +1,66 @@
+{
+    "name": "Shift",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Alexandru",
+            "author_url": "https://www.google.com/maps/contrib/111785693646006276256/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaRAsJXDOuymlIY5ErURKzVFHrZbUpQRrOjp4S9dU8CycLZiFREQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "One of the best pasta’s so far, i recommend shrimp with truffles in white sauce.\nPrice-quality is great, food is tasty and drinks are fresh, also they have a nice terrace.",
+            "time": 1730061401,
+            "translated": false
+        },
+        {
+            "author_name": "Teodora F",
+            "author_url": "https://www.google.com/maps/contrib/107576825506155340395/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURcdNgfxVXAETfv7DB7FA-YKeLKMEy-Gd60Tn_diGEW8sWXhyD=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Hands down one of THE BEST places to eat out in Bucharest. Their staff are amazing, super accommodating and helpful - definitely one of the better services to be found in the city.\n\nThe food is absolutely amazing, from entrées to desserts, and their portions are HUGE. For reference, a schnitzel is no less than 750 grams - that’s almost a kilo’s worth! And so tasty and flavourful, absolutely loved it!\nAlso, their menu is quite large, so there is a lot of variety, which means you are definitely going to find something you’ll like.\nPrices are pretty fair, and on the friendlier end when it comes to popular Bucharest restaurants.\n\nWould definitely recommend this place to anyone looking to get a great meal and great service for a really good price! All in all, an amazing experience.",
+            "time": 1722197229,
+            "translated": false
+        },
+        {
+            "author_name": "Maria Ruxanda Tudor",
+            "author_url": "https://www.google.com/maps/contrib/109457772704497436614/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuEUv9zPiW7L12lhUlPUW7fCM4Tv70L74hnQjvTg8leHQvaO0G=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "The place looks amazing, especially the garden. The food is very tasty and their cocktails as well. They have a refined menu for wines and spirts. It's usually crowded so better make a reservation before coming if you want to stay in the garden.",
+            "time": 1720949498,
+            "translated": false
+        },
+        {
+            "author_name": "Alice Cornell",
+            "author_url": "https://www.google.com/maps/contrib/116863976584457828550/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7Ce8qSJmY9ECxc3bwHU0BIeEN1RUo-VIkmh1eomencALkkaI=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great cocktails (the espresso martinis will sort you right out if energy levels are flagging), great food - absolutely huge portions of pasta, you could easily share, but so delicious that you may not want to.  The garden outside is the nicest place to sit - inside has high stools which have to be perched on.  AND they serve food till after midnight - brilliant.",
+            "time": 1720632000,
+            "translated": false
+        },
+        {
+            "author_name": "Gabriel FLR Project",
+            "author_url": "https://www.google.com/maps/contrib/118143856215343765433/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUreODgzSlzUaUh7C4xUQsQcpW5ivL5YszC9jRaZ_DSnclHTtFQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "In terms of food, it never disappointed, the portions are big, the quality is great, even with the above average price, i would say its way worth it.\n\nIt’s a place I would return to for a good lunch or dinner.\n\nGreat location, albeit the tables are a bit too closed together trying to fit more people.",
+            "time": 1722321296,
+            "translated": false
+        }
+    ]
+}

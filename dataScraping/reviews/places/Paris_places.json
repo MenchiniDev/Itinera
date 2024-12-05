@@ -1,0 +1,1060 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.86386539999999,
+                "lng": 2.3325488
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8651718802915,
+                    "lng": 2.333787180291502
+                },
+                "southwest": {
+                    "lat": 48.8624739197085,
+                    "lng": 2.331089219708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Regina Louvre",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3700,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109908333790946649027\">Hôtel Regina Louvre</a>"
+                ],
+                "photo_reference": "AdDdOWqU8ZI_UH7nJ6xrQ83nWIjVDe6ID-gQidzBB9D8avW1EVCCWaEHmi02PvT8SNJ6Ld9cAr0sxO97R4mpcsFMDn5FxnPexZW_RcPVSopXGTTLyq8fQ5ROGNPpwriF_UF0etCZ7WgcJC2Ghfkz2RcYdYBg5p8fMpbje4BMX3sWo2f-87sY",
+                "width": 5550
+            }
+        ],
+        "place_id": "ChIJP_-HCS9u5kcRsj9b1x7Pl8w",
+        "plus_code": {
+            "compound_code": "V87M+G2 Paris, France",
+            "global_code": "8FW4V87M+G2"
+        },
+        "rating": 4.3,
+        "reference": "ChIJP_-HCS9u5kcRsj9b1x7Pl8w",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 634,
+        "vicinity": "2 Place des Pyramides, Paris"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 48.86501200000001,
+                "lng": 2.330710499999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8659513302915,
+                    "lng": 2.332087730291502
+                },
+                "southwest": {
+                    "lat": 48.8632533697085,
+                    "lng": 2.329389769708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Saint James Albany Paris Hôtel Spa",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 507,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108570400659068256718\">Saint James Albany Paris Hôtel Spa</a>"
+                ],
+                "photo_reference": "AdDdOWpt8FSjJSKF5YyoEinX_PcHT-b_X8gnm3nR1U08TLVoXiBQpYxsARV5kIPJCBp7nys81ZrfyZEvAJnWkCmilc-eoRtw2VW8MBpbcUCH8Nuz3R5Ei77sXX9zWXFSMNfl2qcinLbLGNLQqgSdXHb-agbT8TJMN0m9fXenv0hpGPinn7Pi",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJ8znTVS5u5kcREq8TmzOICFs",
+        "plus_code": {
+            "compound_code": "V88J+27 Paris, France",
+            "global_code": "8FW4V88J+27"
+        },
+        "rating": 4,
+        "reference": "ChIJ8znTVS5u5kcREq8TmzOICFs",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1064,
+        "vicinity": "202 Rue de Rivoli, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.835282,
+                "lng": 2.387818
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8365194302915,
+                    "lng": 2.389013980291502
+                },
+                "southwest": {
+                    "lat": 48.8338214697085,
+                    "lng": 2.386316019708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hôtel Campanile Paris Bercy Village",
+        "photos": [
+            {
+                "height": 1518,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112355558789120123661\">Campanile Paris 12 - Bercy Village</a>"
+                ],
+                "photo_reference": "AdDdOWpoISYtVrE-7NUaiDNo5couyUF09xmyinrl85zoi08os9PdcJ8puDcv7MoxEumbvBZcBZKf--YrkzoOipCxppX-QplEIrY7TfdczMnu4XyUHB8xV-Hor-Ya4ieBhRNuMa8EV66zRWdF2PufJWsH0q5OmA_O9Fuq_qT9uRoTqfS8MzUB",
+                "width": 1518
+            }
+        ],
+        "place_id": "ChIJOZIp44m8tRIRJsrQU-CBbEM",
+        "plus_code": {
+            "compound_code": "R9PQ+44 Paris, France",
+            "global_code": "8FW4R9PQ+44"
+        },
+        "rating": 4,
+        "reference": "ChIJOZIp44m8tRIRJsrQU-CBbEM",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2643,
+        "vicinity": "17 Rue Baron le Roy, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8722222,
+                "lng": 2.3030556
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8734354302915,
+                    "lng": 2.304509530291502
+                },
+                "southwest": {
+                    "lat": 48.8707374697085,
+                    "lng": 2.301811569708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Warwick Paris",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102595556527908707630\">Warwick Paris</a>"
+                ],
+                "photo_reference": "AdDdOWoMuaPI7E1slBPmgdnYs9yWZi1Sw_B8Nz4gtQDrQYznccESTXP2YlHlxpBfV4BZ9TLZXsRWU-oiw7M3cV_yvCtngqc05NqJKqN6giuPuMokKFyHRtu1x6SSzolr4GAjLnw3oZG-Jkx2lwhV1jBWzQR2QlDsKkiSFOc-yN8iAD_TnmtA",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJzbddL8Jv5kcRSxvM72EgJ90",
+        "plus_code": {
+            "compound_code": "V8C3+V6 Paris, France",
+            "global_code": "8FW4V8C3+V6"
+        },
+        "rating": 4,
+        "reference": "ChIJzbddL8Jv5kcRSxvM72EgJ90",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1191,
+        "vicinity": "5 Rue de Berri, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8567203,
+                "lng": 2.3278538
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8581143802915,
+                    "lng": 2.329212280291502
+                },
+                "southwest": {
+                    "lat": 48.8554164197085,
+                    "lng": 2.326514319708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Montalembert",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3545,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108668413476059666894\">Hôtel Montalembert</a>"
+                ],
+                "photo_reference": "AdDdOWrUJtBWXkRnEBAzaSDNnQb9VNAGv6x4eZi1psmDOi9F-r0Gs1KkXUcK3AXwE3zaXZaDhMi28pb8I3SOTa7j8BqZ4L7I5R1q0bwbpITLAZvsFSg8djS_MycpZKVghJjvC1Z7uqzWRQTwqmzQXTNm1mDEhJpCety5HOLGCBXXtKBS9ldy",
+                "width": 5318
+            }
+        ],
+        "place_id": "ChIJ_RAH_ylu5kcRuLruDyjwFao",
+        "plus_code": {
+            "compound_code": "V84H+M4 Paris, France",
+            "global_code": "8FW4V84H+M4"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ_RAH_ylu5kcRuLruDyjwFao",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 261,
+        "vicinity": "3 Rue de Montalembert, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8683206,
+                "lng": 2.333098
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8696647802915,
+                    "lng": 2.334525380291502
+                },
+                "southwest": {
+                    "lat": 48.8669668197085,
+                    "lng": 2.331827419708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Edouard VII",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2912,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107195589265260459328\">Hôtel Edouard 7</a>"
+                ],
+                "photo_reference": "AdDdOWo-oGQ09af8MqdAt7N5R8jNB3v_EFqTkpGh7TN_2KJNJpstvd8-XODLsX7G1e1a38-qC08qksB1sniYrPdiIAN0WAiVZ3hrwYectxmXf3pRh-GpFKS_myovV5ENkKwvFcghiRVaBwZ4AKj2LcUucMjWxh9tQ3Y09M50iJg3qfBeAeQF",
+                "width": 4368
+            }
+        ],
+        "place_id": "ChIJ_Ze3ZjBu5kcRiCRPWLatnSg",
+        "plus_code": {
+            "compound_code": "V89M+86 Paris, France",
+            "global_code": "8FW4V89M+86"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ_Ze3ZjBu5kcRiCRPWLatnSg",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 474,
+        "vicinity": "39 Avenue de l'Opéra, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8683896,
+                "lng": 2.326849
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8697090802915,
+                    "lng": 2.328243280291502
+                },
+                "southwest": {
+                    "lat": 48.8670111197085,
+                    "lng": 2.325545319708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Castille Paris",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1363,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105219260034050413944\">Castille Paris - Starhotels Collezione</a>"
+                ],
+                "photo_reference": "AdDdOWoEhr4l8Qmxnw3ylcXASX3csmijQ41m_ESNE3zdGHWVdGfHsJLhwGGox1Fz9olrW6DClcVsWQaDO4_f5071WCp8YAQJjxpX2y2qRUZPjE4npeFSFhORZVx08iUZtp8jibxdpLVSVFv_2hhtOE6l80nJ8eBiZC1wXpxIzMeiOBgBiHLP",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJyyyZRjJu5kcRiVEp4-OqivU",
+        "plus_code": {
+            "compound_code": "V89G+9P Paris, France",
+            "global_code": "8FW4V89G+9P"
+        },
+        "rating": 4.4,
+        "reference": "ChIJyyyZRjJu5kcRiVEp4-OqivU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 674,
+        "vicinity": "33-37 Rue Cambon, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8557481,
+                "lng": 2.3250372
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8570532802915,
+                    "lng": 2.326500580291502
+                },
+                "southwest": {
+                    "lat": 48.8543553197085,
+                    "lng": 2.323802619708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hôtel Bac St-Germain",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3130,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112710613523428241006\">Hôtel Bac St-Germain</a>"
+                ],
+                "photo_reference": "AdDdOWoUQH0jSECjnviKJRJjSzNdecPxYSSZcwgSx_ncMSyOX2etmTRssVCfiCrAZKtbrAjCfonCfNSRo2X21JcY-RnHkCah_qys6N49IFxUO6cajx_dZfPZft4l7NL7IpqqRps3UaWHaGTXEVXnoYiYTfXUdlf96n89g36fSYvnRAejSwJJ",
+                "width": 4695
+            }
+        ],
+        "place_id": "ChIJRw7Zm9Vx5kcRiOAJd6mKl0Y",
+        "plus_code": {
+            "compound_code": "V84G+72 Paris, France",
+            "global_code": "8FW4V84G+72"
+        },
+        "rating": 3.8,
+        "reference": "ChIJRw7Zm9Vx5kcRiOAJd6mKl0Y",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 160,
+        "vicinity": "66 Rue du Bac, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8719682,
+                "lng": 2.2978942
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.87335538029151,
+                    "lng": 2.299278630291502
+                },
+                "southwest": {
+                    "lat": 48.87065741970851,
+                    "lng": 2.296580669708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Vernet, Champs - Élysées",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101649441147291548627\">Hôtel Vernet, Champs - Élysées</a>"
+                ],
+                "photo_reference": "AdDdOWo8KaRaguLhnbn3g86bRtdZa3DhHqGVgqI7CJDl9rGiYLDDzc4mqqHQ5WVvhITB4LDs78Kj9mTq3Sj2IIbDZWSjnbqjoKVjexbl0CerKoYy_d1dz05jtbO0dZsm5mB47sJXj0mffVhh-fNrkBtURG1jueAo_4UjmCx2RaUAOrrmQSo",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJXUM2f-lv5kcR_qirHSdh-mA",
+        "plus_code": {
+            "compound_code": "V7CX+Q5 Paris, France",
+            "global_code": "8FW4V7CX+Q5"
+        },
+        "rating": 4.5,
+        "reference": "ChIJXUM2f-lv5kcR_qirHSdh-mA",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 341,
+        "vicinity": "25 Rue Vernet, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8519758,
+                "lng": 2.3388494
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8532626302915,
+                    "lng": 2.340123730291502
+                },
+                "southwest": {
+                    "lat": 48.8505646697085,
+                    "lng": 2.337425769708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Le Relais Saint Germain",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 460,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111320856264999401474\">Le Relais Saint Germain</a>"
+                ],
+                "photo_reference": "AdDdOWoNTQv028cfFQKErmAnfdHMxdArD7_XG9A81E8Dt6PMwvIYnINtMaNKH38o9ba_Q3Ytyk4eiDRv1WSXI8Qj_RTtYicybpo_fVA1-SJAkfTp_ItM2wWK_JbyEcTFgBljTvxDB7vVIyADe8qYAfmSfjJUB58sMdiFF5yxiN-ZIed1AVXq",
+                "width": 840
+            }
+        ],
+        "place_id": "ChIJz5Ors95x5kcRWuk_sUIMlpU",
+        "plus_code": {
+            "compound_code": "V82Q+QG Paris, France",
+            "global_code": "8FW4V82Q+QG"
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "ChIJz5Ors95x5kcRWuk_sUIMlpU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 181,
+        "vicinity": "9 Carrefour de l'Odéon, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8720691,
+                "lng": 2.3236657
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8734329802915,
+                    "lng": 2.325074130291501
+                },
+                "southwest": {
+                    "lat": 48.8707350197085,
+                    "lng": 2.322376169708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hôtel Bedford Paris",
+        "photos": [
+            {
+                "height": 1181,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100560231775928347732\">Hôtel Bedford Paris</a>"
+                ],
+                "photo_reference": "AdDdOWrLJEsjCTA7gCR8VcnzqAcgZZOo_u3bNoSZAdvEFq0KiZhVsusZf1wytjstUmnotSRmr2BSW1BLk2qL64CQRnDx4Z13PGmD-voXHF5mxJiMjdajjnZd6gEz2G26DOGuQM9EKgdzMfm_f4Nd-nzOJX3-LV3ciLaaEOfHZ3Ufy7zJWq6l",
+                "width": 1772
+            }
+        ],
+        "place_id": "ChIJA_GxrjRu5kcRHHGB8y34d0k",
+        "plus_code": {
+            "compound_code": "V8CF+RF Paris, France",
+            "global_code": "8FW4V8CF+RF"
+        },
+        "rating": 4.3,
+        "reference": "ChIJA_GxrjRu5kcRHHGB8y34d0k",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 731,
+        "vicinity": "17 Rue de l'Arcade, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8732719,
+                "lng": 2.3428869
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8746239302915,
+                    "lng": 2.344288430291502
+                },
+                "southwest": {
+                    "lat": 48.8719259697085,
+                    "lng": 2.341590469708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hôtel Pulitzer Paris",
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104722443820691209480\">Hôtel Pulitzer Paris</a>"
+                ],
+                "photo_reference": "AdDdOWo6UShih479DqnS5yldaYKJshfv89skNLM_osic1UXmhS16szOJGrqt_m1eadNUG8lTd69TL6XNAp_j_EXqFrUkEJWY2iASxzKGi3IgkNA8RzDifGrQgGZihl9nFezOEzsEEm6MbYyzStiQAFFR3rd8wkQUHJZsDDTt4ZLiWT4xYDn2",
+                "width": 6000
+            }
+        ],
+        "place_id": "ChIJldl69z5u5kcREiH-s7c4u-8",
+        "plus_code": {
+            "compound_code": "V8FV+85 Paris, France",
+            "global_code": "8FW4V8FV+85"
+        },
+        "rating": 4.4,
+        "reference": "ChIJldl69z5u5kcREiH-s7c4u-8",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 390,
+        "vicinity": "23 Rue du Faubourg Montmartre, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8632711,
+                "lng": 2.352693
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.86461218029149,
+                    "lng": 2.353965180291502
+                },
+                "southwest": {
+                    "lat": 48.8619142197085,
+                    "lng": 2.351267219708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hôtel Georgette",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112851757923591367842\">Hôtel Georgette</a>"
+                ],
+                "photo_reference": "AdDdOWqhrWeYB1RsLllVEc77ynqfxLM7Fzy8wnBj2S3ItgoGC3OKkJiUg6KgtDVBJEGg5LWf4xNFshRRQc3m05K3RqHtoGc75QAs9PnC7Ie0bpUCWJtQXS6oU4lh-SiiBgkOOLzhF8J6mGSQgNV6PqrjiS_htC3yINbMYnJEw4wMqtpEi0V5",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJZ6OWsRtu5kcRuyOkJ6_e06E",
+        "plus_code": {
+            "compound_code": "V973+83 Paris, France",
+            "global_code": "8FW4V973+83"
+        },
+        "rating": 4.4,
+        "reference": "ChIJZ6OWsRtu5kcRuyOkJ6_e06E",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 471,
+        "vicinity": "36 Rue du Grenier-Saint-Lazare, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.85627299999999,
+                "lng": 2.366041
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8575658302915,
+                    "lng": 2.367371080291502
+                },
+                "southwest": {
+                    "lat": 48.8548678697085,
+                    "lng": 2.364673119708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Le Pavillon de la Reine",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111056284734449938214\">Le Pavillon de la Reine</a>"
+                ],
+                "photo_reference": "AdDdOWor_Zaz03SOoyxC-a2qhCUBwze4LKGMxzkHaARBrn_fQ5OJX4C1M-5mEtkcTO9sqfkF-kB4azgsgg8Ff48CTL5spStvX7cUrWg7azFqw4pOcZJE6DkMFgCf8iKa6xaTuWjcuolpCmrya5ASrLY9ZGmdVHkev79GOGmWawGCCEJm1r59",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJowDQ3_9x5kcRTtwZxXwH_kQ",
+        "plus_code": {
+            "compound_code": "V948+GC Paris, France",
+            "global_code": "8FW4V948+GC"
+        },
+        "rating": 4.6,
+        "reference": "ChIJowDQ3_9x5kcRTtwZxXwH_kQ",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 562,
+        "vicinity": "28 Place des Vosges, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8816959,
+                "lng": 2.3372647
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8830050302915,
+                    "lng": 2.338671580291502
+                },
+                "southwest": {
+                    "lat": 48.8803070697085,
+                    "lng": 2.335973619708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Le Pigalle",
+        "photos": [
+            {
+                "height": 2002,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117804288775651323894\">Le Pigalle</a>"
+                ],
+                "photo_reference": "AdDdOWosk0J1ekcAYv0uX4tSqV32GXLZC539FJdiseb5JS19Krc9x54IishZXKP-YCNtoKkyHSQrf1oaIWiIoCPrO5kbsewKF27iSYOyPm0tRK89Q6wKah1Hr8LGQCrXS8Zy7uYfDFAEZeZTHlenQLtzQ6-4FmDOTI8K-_IKdGPIKC1YUpxv",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJqzBe2EVu5kcRvU67ufRGCTU",
+        "plus_code": {
+            "compound_code": "V8JP+MW Paris, France",
+            "global_code": "8FW4V8JP+MW"
+        },
+        "rating": 4.6,
+        "reference": "ChIJqzBe2EVu5kcRvU67ufRGCTU",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 792,
+        "vicinity": "9 Rue Frochot, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.87576050000001,
+                "lng": 2.300295
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8771462302915,
+                    "lng": 2.301668980291502
+                },
+                "southwest": {
+                    "lat": 48.8744482697085,
+                    "lng": 2.298971019708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Le Royal Monceau - Raffles Paris",
+        "photos": [
+            {
+                "height": 5584,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103633223527746040150\">Le Royal Monceau - Raffles Paris</a>"
+                ],
+                "photo_reference": "AdDdOWrRbZOGJqfEWXoSc4iPy8fZfAaCzztALHx5RTvjvLrGHDlKE4daq5LLYufSiymPLINU7gB7-ImcVgjiLDPPh5cmpHe0WRF-VEF0ObMqvRhPLv4fYrTiSkcuuZJy2PF3Dc_XgPzu5Gr2zwHae0c_94pVmoxynK2DzrPR6YYEjC-V4vXU",
+                "width": 8368
+            }
+        ],
+        "place_id": "ChIJaQacl-pv5kcRC2DmtH2M0jk",
+        "plus_code": {
+            "compound_code": "V8G2+84 Paris, France",
+            "global_code": "8FW4V8G2+84"
+        },
+        "rating": 4.5,
+        "reference": "ChIJaQacl-pv5kcRC2DmtH2M0jk",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1989,
+        "vicinity": "37 Avenue Hoche, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.83409,
+                "lng": 2.346187
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8353832302915,
+                    "lng": 2.347594930291502
+                },
+                "southwest": {
+                    "lat": 48.8326852697085,
+                    "lng": 2.344896969708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Belambra Hotel \"Magendie\"",
+        "photos": [
+            {
+                "height": 1654,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105419798392590142153\">Belambra Hôtel &quot;Magendie&quot;</a>"
+                ],
+                "photo_reference": "AdDdOWooru8SeQHl-DcYYGu4kN7Lsh7Qg_ktsCUbhQtwOAZTKzQFzQaV4PgkpKzCQnhP9Yr6CvFdzMpeOgEUQFRsUftkMg9GbBl9M2brDxGErtN1w8oclJBiv5mFzq5tfndSoPfqltipW_AXZsjDbPv_Vw87YGwJ26Py3NgdoCBHikd0JsM7",
+                "width": 2480
+            }
+        ],
+        "place_id": "ChIJp7d38JRx5kcR_1RUyN2Lmfc",
+        "plus_code": {
+            "compound_code": "R8MW+JF Paris, France",
+            "global_code": "8FW4R8MW+JF"
+        },
+        "rating": 3.8,
+        "reference": "ChIJp7d38JRx5kcR_1RUyN2Lmfc",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "storage",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 912,
+        "vicinity": "2-4 Rue Magendie, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.86647959999999,
+                "lng": 2.3084964
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8677930802915,
+                    "lng": 2.309905330291502
+                },
+                "southwest": {
+                    "lat": 48.8650951197085,
+                    "lng": 2.307207369708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hôtel San Régis",
+        "photos": [
+            {
+                "height": 800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100094293831775914580\">Hôtel San Régis</a>"
+                ],
+                "photo_reference": "AdDdOWp0jy8mBJd_STbrEEihVTofVkp6urpmr0_Tuj2f_QhtAOmCdPO2ISfWsP3YhWudH_ZRXYiObpqNbpCGTq0A4kGDLV1UQ0tSl7vZba_jCz4O_QUAsqBPljS79EkfHHjnUMLCithbWLqErG9lXKqktQZ4V4tyYx75VwpWC-JHgwDCzaPc",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJr8GOKNtv5kcRuZLn6IlEOxY",
+        "plus_code": {
+            "compound_code": "V885+H9 Paris, France",
+            "global_code": "8FW4V885+H9"
+        },
+        "rating": 4.7,
+        "reference": "ChIJr8GOKNtv5kcRuZLn6IlEOxY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 687,
+        "vicinity": "12 Rue Jean Goujon, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.8631306,
+                "lng": 2.3379051
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8644982302915,
+                    "lng": 2.339173580291502
+                },
+                "southwest": {
+                    "lat": 48.8618002697085,
+                    "lng": 2.336475619708499
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hôtel du Palais Royal",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 919,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113466963846536759636\">Grand Hôtel du Palais Royal</a>"
+                ],
+                "photo_reference": "AdDdOWrUFTRw2AfXoJu6g2R4lUhNmRGuVQ_ocqCh6gKTXVOI_AxUKq_fNHTXAnFzGSG6BQYAEARlbpNyoBu2ZOVjRFdZUv-J1RalHyNxRrysKCKnA3Q9l3V0q4hzZ02X0nxh7ucx_8Xx9SmxI-LDULjmL2MYdkSfSUtqeLK57a12rm8t5CAJ",
+                "width": 1378
+            }
+        ],
+        "place_id": "ChIJpT58XyRu5kcRebe-VXwklTo",
+        "plus_code": {
+            "compound_code": "V87Q+75 Paris, France",
+            "global_code": "8FW4V87Q+75"
+        },
+        "rating": 4.7,
+        "reference": "ChIJpT58XyRu5kcRebe-VXwklTo",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 775,
+        "vicinity": "4 Rue de Valois, Paris"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 48.860208,
+                "lng": 2.411864
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.8615344802915,
+                    "lng": 2.412932930291502
+                },
+                "southwest": {
+                    "lat": 48.8588365197085,
+                    "lng": 2.410234969708498
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Residence International De Paris.",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103725952450994612265\">Résidence Internationale de Paris.</a>"
+                ],
+                "photo_reference": "AdDdOWrO2SxEkPAWs4zYdXAK6z0AVZNzRCyYKAbzQ-BaXV1VLYbQLSth0iqjCQPmj0gnR4qKc2QhlZkR3o5u3KZVBAu2s2wx0K8GqWM5H_oHTf0Pg6znEt9czYc33EG1qtw_Rv3h1tFq8wXk13todM8LJCNyKc2VwOGWz7mHpbIu8mAFHxfW",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJXZ10HIJt5kcRSpZcRSMA6Rc",
+        "plus_code": {
+            "compound_code": "VC66+3P Paris, France",
+            "global_code": "8FW4VC66+3P"
+        },
+        "rating": 3.3,
+        "reference": "ChIJXZ10HIJt5kcRSpZcRSMA6Rc",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 259,
+        "vicinity": "44 Rue Louis Lumière, Paris"
+    }
+]

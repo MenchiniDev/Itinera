@@ -1,0 +1,66 @@
+{
+    "name": "Proper PIzza",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Mark Henry",
+            "author_url": "https://www.google.com/maps/contrib/102284432835002120295/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6FpiPwG4_0ooTe_lPaDOOXjQJvnHhx5SCCxySFXoR1C4Mwhk=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Proper Pizza❌\nTerrible Pizza👍\nNot clean, Staff are rude and unprofessional at work",
+            "time": 1694374687,
+            "translated": false
+        },
+        {
+            "author_name": "LMD",
+            "author_url": "https://www.google.com/maps/contrib/111860824113689860010/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUbfn5n2zRKwoYhXBEE0LFzmzDgVP3EJN6NYD5YC49uz_4geVA=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "The guy who picked up the phone was very rude and unprofessional, great food but really rude staff in general. Had to talk to the delivery dude for 20 minutes telling him basic instructions on where i am.",
+            "time": 1649809720,
+            "translated": false
+        },
+        {
+            "author_name": "Vegim Zhitija",
+            "author_url": "https://www.google.com/maps/contrib/100000142344338550167/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh97A7bGDnWzxHuZ7J0qCSLfNvWwZV4G9Yx0W4WMHg9wJZKsDEtA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Best pizza place in town ever!",
+            "time": 1512727749,
+            "translated": false
+        },
+        {
+            "author_name": "Fatlum Orlishta",
+            "author_url": "https://www.google.com/maps/contrib/100916249893318360615/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqboUjXTI0DhZBWx1ltr1waf9AckEMReob_6eQr5AZmuDGQA=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Best pizza near here !",
+            "time": 1513581384,
+            "translated": false
+        },
+        {
+            "author_name": "K Fru",
+            "author_url": "https://www.google.com/maps/contrib/101381206349270926987/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV53ZD79W8jPxMeqVa5BDMJIPQ9sV04H1B0oqWyGFCM19UZsgIpjQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Extra extra large pizza is the way to go",
+            "time": 1646441626,
+            "translated": false
+        }
+    ]
+}

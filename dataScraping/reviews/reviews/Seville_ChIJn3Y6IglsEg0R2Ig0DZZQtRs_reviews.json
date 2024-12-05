@@ -1,0 +1,66 @@
+{
+    "name": "Espacio Eslava",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "J Clappy",
+            "author_url": "https://www.google.com/maps/contrib/107254178829406270318/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9E5Y5PuzGajihdaNvEUF6VqCgBIOOoOTRPjxa9TQ4DRYduA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Maybe the best meal I have ever had! Every dish had so much flavour, we had 8 dishes and did not feel sickly. The waiters were very friendly and knowledgeable too. Very reasonably priced! Would give it 6 stars if I could!",
+            "time": 1732357428,
+            "translated": false
+        },
+        {
+            "author_name": "Tommy Bahamas",
+            "author_url": "https://www.google.com/maps/contrib/102779329698606145343/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbsh3C8Z549ylf7lrFw98TDIceeB5MH_I7UNGzBf67UwVfxw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "The food here is some of the best I've ever eaten. Better than any restaurant I've been to in London (inc several Michelin starred places). Unpretentious, creative and delicious. The anchovy in herb oil was a particular favourite and the honey ribs are definitely not to be missed.",
+            "time": 1732359934,
+            "translated": false
+        },
+        {
+            "author_name": "Piro Shiki (piroshiki)",
+            "author_url": "https://www.google.com/maps/contrib/108380013867144606279/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoyy_giULQyBU1tPXrN5IG2fGuHNezY7_geM-rtmHIL16J8q4VKw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "The food was absolutely delicious, and I can see why this restaurant is so popular. The wine was excellent as well. After trying many tapas in Sevilla, I can confidently say these were the best!",
+            "time": 1732165451,
+            "translated": false
+        },
+        {
+            "author_name": "Erik Seide",
+            "author_url": "https://www.google.com/maps/contrib/104386383040428445088/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRJw7Q4K4zFffPW2S5zWRHn0KT5JwL_RMAbDfbWhnFPxvPpw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Was an amazing experience and really had a very authentic vibe.  Very little inside seating except for the bar, so any table seating is relegated to outside. Inside can get very crowded, but was well worth the trip.  Really enjoyed the food and wine, but it had a very special ambiance which inspired a 3 hour meal.  High recommend.",
+            "time": 1728825411,
+            "translated": false
+        },
+        {
+            "author_name": "Coralie Belaval",
+            "author_url": "https://www.google.com/maps/contrib/108422113103815281841/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVX9LEd0vES4Xh3dFlDpoizdcmVwoNg9-3nlz9NCUoDPb9PfPKG=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "The best tapas restaurant in Seville, without a doubt! Here, don't expect to eat the same tapas you find everywhere else, as everything is reimagined and extremely well-crafted. Their \"cigar\" is a must-try, but honestly, go ahead and order the whole menu because everything is delicious! Special mention to the service team who are absolutely lovely as well.",
+            "time": 1731593683,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant Z",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Pawel Cichy",
+            "author_url": "https://www.google.com/maps/contrib/114897124049667694577/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIKjXSz4uRkM6H9eIQd_vavJbzM46Gv2-ioKChjT_-7OTFC5iN=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "I spent a nice time here with three friends.  Good starters, very good main courses, professional service, very nice.  the only drawback is the coffee that nobody liked and I drank coffee from all over the world, but this one did not taste good to me.",
+            "time": 1652619869,
+            "translated": false
+        },
+        {
+            "author_name": "Alwin Ferwerda",
+            "author_url": "https://www.google.com/maps/contrib/103442578782593008675/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_Ffw47gtapVC6tn58wCgetemsuPOvtH6oA3hAtFd6QAMtWBOn=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "A very nice restaurant. Real greek food, not expensive and very friendly personel geving a personal touch to the experience. Recommended!",
+            "time": 1717325407,
+            "translated": false
+        },
+        {
+            "author_name": "Ines Kalember",
+            "author_url": "https://www.google.com/maps/contrib/105008221505670708036/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAKVZ_gAHZDNGMtI3LQM-btBY3-VXU1dvvAhd7kkjpAD-XU0wqPw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great restaurant, waiters very helpful but without bothering you too much. Proper Greek food. Probably the nicest calamari I ever had( didn't have better in actual Greece). Highly recommended for anyone looking for some Mediterranean cuisine in Berlin.",
+            "time": 1664125924,
+            "translated": false
+        },
+        {
+            "author_name": "Giorgio M",
+            "author_url": "https://www.google.com/maps/contrib/100290972761057104923/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxXnHo1-NNUwoji9VMyCZTDbgQPMCPx80ZbxBVvjfN2iaaaA=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Very good Greek restaurant, with friendly service, nice ambiance, and extremely good food and wine. The meat, especially the lamb, is absolutely great, grilled to perfection and very tasty. The menu is pretty varied compared to most Greek restaurants, and offers some unusual dishes as well as the classics. Wine and desserts have a good selection and great quality too.",
+            "time": 1512759343,
+            "translated": false
+        },
+        {
+            "author_name": "Andrés Suárez",
+            "author_url": "https://www.google.com/maps/contrib/107838955068237376222/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQfBrPkCY9bNyRPjd3llid0c_3YgAtaM0EJxj5Dj6Z6Yjo1fMe=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "2 years ago",
+            "text": "(3.5) Traditional greek fare. good service cosy well decorated portions are very big",
+            "time": 1662222697,
+            "translated": false
+        }
+    ]
+}

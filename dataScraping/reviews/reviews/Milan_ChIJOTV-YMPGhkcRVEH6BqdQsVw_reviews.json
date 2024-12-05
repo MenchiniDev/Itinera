@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Andreola Central",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "M. ZGN",
+            "author_url": "https://www.google.com/maps/contrib/106746960187710257477/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOHvaKLYrG8FQJ0q0semy6GtJl4U6yIXNpD199kSBY3TNhjok=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Location; If you want to stay close to the central station, it is the right choice.\n\nCheck-in; very polite and friendly welcome.\n\nRoom; high ceiling, relatively small but clean and nice room on the first floor with a garden view. The bathroom is big and nice.\n\nBreakfast; not bad, the options are reasonable but I must say that two staff are not enough for breakfast service.\n\nIn general, it is an old-fashioned hotel and an ideal choice for those who like that old-fashioned nostalgic atmosphere.",
+            "time": 1722770587,
+            "translated": false
+        },
+        {
+            "author_name": "Maria Eichler",
+            "author_url": "https://www.google.com/maps/contrib/105081558671052034574/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgxycXiV_1ZLxAQiwE88lqKZecn17lpcBZtw5BIFcfRNkUdA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The hotel is perfectly located; close to the central station and two metro stations. The decor is elegant, classic style. The rooms are very clean, have all the amenities; air conditioning, comfortable beds, nice bathroom. Towels are changed daily. Delicious and rich breakfasts. The restaurant, reception and hotel staff are very friendly and helpful. We found everything in the hotel to rest comfortably and have a nice time in Milan. I highly recommend it and thank you!",
+            "time": 1720396378,
+            "translated": false
+        },
+        {
+            "author_name": "Emil Aghakishiyev",
+            "author_url": "https://www.google.com/maps/contrib/100445716779448057541/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX93lEtRW2DHc2H_zf4OmFTrFDELGcXfLL5GgAjlXQOZ5huf_c=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "The staff is not the most friendly. Moreover, they refused to solve some problems at the reception, they asked for napkins that were not in the room, but we were refused saying that there were no napkins in the hotel, there was too little choice at breakfast, there was no kettle in the room and they refused to bring glass cups for tea, offering cardboard ones, in the restaurant you can only eat - and this is normal if the bar is open, but by 10 o'clock in the evening it was closed, at the reception they refused to bring water to the room, we had to go up to the sixth floor, although for the first time they brought water to the room, the only plus that I can highlight is this location, after reading positive reviews that seem to be fake, I don't understand what the hotel is a masterpiece? Although",
+            "time": 1729246012,
+            "translated": false
+        },
+        {
+            "author_name": "etrading MR",
+            "author_url": "https://www.google.com/maps/contrib/113530270896943583338/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfB6eykqis_pVPD8oOBlJBz7_7Pfk3SDigag31YqbvhI_chS7-=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "We just stayed there recently on our first leg of our Italian trip . First time staying in a European hotel. We weren’t disappointed. Well kept hotel with a pleasant staff to greet us . Very clean and comfortable room. The breakfast was fabulous with an assortment of pastries and also eggs and sausage. All and all the hotel had that Old World Style . Close to everything especially the train . I would highly recommend for your stay in Milan . Price was reasonable!",
+            "time": 1718395237,
+            "translated": false
+        },
+        {
+            "author_name": "Mary Boland",
+            "author_url": "https://www.google.com/maps/contrib/112277911583677189648/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKz3WDm4mLFxB0i4dUszP-Lzyi3kzTI5uSjec4pBl-OwXZ4CQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "A beautiful boutique hotel with an amazing lake view. Welcoming and helpful staff. A real slice of Italian life rather than filled with many tourists! Highly recommend!",
+            "time": 1730573531,
+            "translated": false
+        }
+    ]
+}

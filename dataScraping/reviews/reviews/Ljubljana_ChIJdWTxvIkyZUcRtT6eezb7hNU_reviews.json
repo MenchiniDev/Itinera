@@ -1,0 +1,66 @@
+{
+    "name": "Cubo",
+    "rating": 4.8,
+    "reviews": [
+        {
+            "author_name": "Matjaz Sivic",
+            "author_url": "https://www.google.com/maps/contrib/112902087196961143850/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUY--yk_fGhjVDY9HGyvxQBGSjUNy8m1pAZj4uQZ7M1utlEdE1K=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "A really fancy restaurants, filled.with business people or just people who like to eat well and have some money.\n\nCelery and carrots with mayo for starter, incredibly balanced tris of sea food and a melting sicilian risotto with aubergines.\n\nPrice is quite high, but price-performance still good - cca 70€ per person without dessert or wine.\n\nI highly recommend this restaurant for gourmands.",
+            "time": 1732126164,
+            "translated": false
+        },
+        {
+            "author_name": "Dom Dub",
+            "author_url": "https://www.google.com/maps/contrib/112169852591836522750/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZeDBqMU5oFiNTdMbMk2oj2xP5is_7tAv9VXyCXs2z9kNQFfc=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Restaurant is very cosy like a Michelin star ambience. There is a lot of choice in the menu, sea food, meat, vegetables, desserts, with some seasonability products. Very hard to make a choice because you want to try everything.\nAll the plates are attentioned and well dressed. Premium products cooked perfectly. Photos are talking by themselve.\nWine menu is incredible with all the Slovenian top wines, and also reference from other countries.\nService is perfect and attentive for the client.",
+            "time": 1729700007,
+            "translated": false
+        },
+        {
+            "author_name": "Marina Panisic-Sekeljic",
+            "author_url": "https://www.google.com/maps/contrib/116933371522228118007/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhOEfLBW7kmnkBFh2dv8YzylzAuBwcIHxLHHY84776CVsVhMg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "I was with friends at an official dinner. A very interesting restaurant, with an elegant and attractive ambience and a very well thought out menu. Everything was extremely tasty and beautifully served. The flavors of the appetizers and both main dishes /fish and meat menu/ are outstanding, and the peak of pleasure was the dessert.\nAll compliments to the head chef.",
+            "time": 1711182550,
+            "translated": false
+        },
+        {
+            "author_name": "Pavle Zobundžija",
+            "author_url": "https://www.google.com/maps/contrib/115476889220378193934/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoZy3T_hraC6mU-0mh5-U9MYC2061FpC7hjNMsFVnf_jVrbtdkLA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "One of the best restaurants in Ljubljana, especially for business occasions. I was told so many years ago. And I still consider it to be true.\nI have visited the place 7 or 8 times over the years and it was always perfect. Last week I had fish and it was as good as always. I highly recommend it",
+            "time": 1721405309,
+            "translated": false
+        },
+        {
+            "author_name": "Zoja Brešćanski Pleško",
+            "author_url": "https://www.google.com/maps/contrib/103999685854197755982/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAxYXeS9Adbu1ijvxz7isunYJCzk3K80XFX6QAx3PE2wPZzRc=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The best tiramisu i have ever eaten and I have very high standards for it. I am amazed. Also the service was fenomenal!!\n\nI don’t want to eat the last bite because it’s so good I don’t want it to end. 10/10",
+            "time": 1717867777,
+            "translated": false
+        }
+    ]
+}

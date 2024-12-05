@@ -1,0 +1,66 @@
+{
+    "name": "MIQT pub",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Christian Walker",
+            "author_url": "https://www.google.com/maps/contrib/114081497425066714493/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpbMtgepkgX9XPnzNyJ5BawkrNxgx-YJSIuMGZDJbub0PKWa-ZVA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "A cozy, trendy bar not far from the main boulevard in Pristina - a nice place to unwind and sink a pint after a day of travelling. Very welcoming.",
+            "time": 1731578246,
+            "translated": false
+        },
+        {
+            "author_name": "Mustafa P",
+            "author_url": "https://www.google.com/maps/contrib/116599978753952039096/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL572guzbjNJ-LyKNWSaXboJWodi4nv2uZxErIwJG6fNxOzIUwI=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Incorrect location on maps, correct location is 42.6647662, 21.1584103. Friendly staff and good beer. Affordable prices, 0.5L for 3 Euros. Chill vibe in the afternoon and bustling in the evening .",
+            "time": 1684873970,
+            "translated": false
+        },
+        {
+            "author_name": "Flo",
+            "author_url": "https://www.google.com/maps/contrib/117093646374702610165/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHGWeUqIlQP0P2-2qZhHS91xs-R_MIbVON5H67H_q0_S0-PsR9-g=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Amazing location. Good drinks with a moderate price, nice music, friendly barkeepers and a great outdoor area",
+            "time": 1680154079,
+            "translated": false
+        },
+        {
+            "author_name": "Mari Havs",
+            "author_url": "https://www.google.com/maps/contrib/104872376025801671590/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9d2BlSIdCcDHnQJ7hl7gMt8ZlraVqsmCmFR39qj02SvPTQHA6Eg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "There were almost nobody on Saturday evening. This place for those who don’t like crowded places ) choice of beer is not  the best. Apérol Sprits was made very nice 👌🏻",
+            "time": 1696236120,
+            "translated": false
+        },
+        {
+            "author_name": "Cagri Oner",
+            "author_url": "https://www.google.com/maps/contrib/114451881164177037071/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFvVwVvPh_DUwCZEOzyJzeO8dBhobvdE6sf51fb_bvwNplUB7LMA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "A very cozy place with reasonable prices. Service is good. The ambience is very relaxing. The garden is very suitable for working whole afternoon",
+            "time": 1536072739,
+            "translated": false
+        }
+    ]
+}

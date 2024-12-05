@@ -1,0 +1,66 @@
+{
+    "name": "Hermitage Hotel Prague",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Mark Chappell",
+            "author_url": "https://www.google.com/maps/contrib/100865510155632872275/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRxTU-nQm1ffFk6MR82lkSE70D14FN_gn1sbDAKkw7bGdOBg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Really enjoyed our stay!\nThe staff are so friendly, efficient and welcoming, providing great local knowledge.\nBreakfast was good. Only small feedback is they need a second toaster.\nWell done everyone! Great stay...would definitely return!",
+            "time": 1732365780,
+            "translated": false
+        },
+        {
+            "author_name": "Ahmet Burak Öztürk",
+            "author_url": "https://www.google.com/maps/contrib/108374942054248688153/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-BOKHSC0-5PhM7BuxeFUBJp91yhczF87VQOX_ncoebhssOM1i=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "The room was clean, and the minibar offered a variety of options, including alcohol, chocolate, and more. The breakfast was one of the best you can find in EU hotels, with plenty of options beyond the typical croissant, coffee, or continental fare.\n\nThe staff were helpful and kind. We requested boiled eggs for 10 minutes, and they prepared them right away. They also provided a map showing all kinds of restaurants in Prague. Public transport is very close to the hotel, which is convenient.\n\nThe room had high ceilings, giving it a spacious and comfortable feel. If I visit Prague again, I would definitely stay here.",
+            "time": 1732628298,
+            "translated": false
+        },
+        {
+            "author_name": "Rodolfo Fischer",
+            "author_url": "https://www.google.com/maps/contrib/105506054911316492345/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDK74QzsOi08OKbI0ul4bEv5zfZRrn4PvwQT8S3bJd4vjEguqzRg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Very comfortable hotel. The building served as a printing facility and had a significant connection to the newspaper industry. Its distinctive Art Deco and industrial architectural features reflect its original purpose.\n\nGreat points:\n\nFriendly staff\nExcellent breakfast\nNice looking foyer\nRooms spotless, perhaps a touch small.\n\nIf you don't mind walking, this is about 30 minutes from the historical town.",
+            "time": 1732545392,
+            "translated": false
+        },
+        {
+            "author_name": "Jane Marsden",
+            "author_url": "https://www.google.com/maps/contrib/102550909403208913362/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX6rNv58ux5jdH2GBue6CdjcQPtvl_l24tOlnqzqFRixOfsQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Had a really enjoyable stay at the Hermitage hotel. A gorgeous hotel, with very comfortable beds and pillows. Bathrooms are bright and spacious, and really appreciate the bath and shower option in the room. Great buffet breakfast option too. Would highly recommend to stay here when coming to Prague!",
+            "time": 1730320077,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Harkett",
+            "author_url": "https://www.google.com/maps/contrib/116312727843963948535/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUi48kFOAQOTQUugxK3IecmDxzHykhgmtN_CtQ0RUL4GJWXrrno=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This is an absolutely brilliant hotel. It's located far enough away from the centre of the town to be quiet but close enough to walk in if you desire. However the tram system is superb and can take you everywhere you need to get to. The room was spacious, clean and tidy. The staff at reception could not have been more helpful, even printing tickets for us. My wife had arranged our 3 night stay for my birthday and the staff laid on champagne, and cake as a\nsurprise. We didn't eat lunch or dinner in the hotel restaurant but the breakfast offered an amazing variety with both hot and cold, English and European options as well as fruit, cereals etc.\nAll in all a marvellous stay and thoroughly recommend.",
+            "time": 1728657171,
+            "translated": false
+        }
+    ]
+}

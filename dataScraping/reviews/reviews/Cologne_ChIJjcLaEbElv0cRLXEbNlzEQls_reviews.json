@@ -1,0 +1,66 @@
+{
+    "name": "Keule",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Sean Mulvaney",
+            "author_url": "https://www.google.com/maps/contrib/113745502222429623905/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvc2ffD0x99snkWrbh2Jj17FZWe8xxgDIsgszxX4wuVi6FGXZ4dA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Had looked up this restaurant before coming to Cologne. Excellent German food and great reviews. I'm happy I did. Schweinshaxe was perfect. Left with a very full belly.",
+            "time": 1732822182,
+            "translated": false
+        },
+        {
+            "author_name": "Jennifer Allison",
+            "author_url": "https://www.google.com/maps/contrib/108070805418239248667/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMEDCwj76rnDQmlrls_eG40BYyOi9p8m4XVnHtvlUwrngU3Erp=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Cash Only. Maybe that's why it wasn't super busy. Not too bright which was also nice. They had a menu that you could scan to see an English version. Food was good. I had a Cordon Bleu breaded sausage and kolsch",
+            "time": 1731004462,
+            "translated": false
+        },
+        {
+            "author_name": "Icelandic Shtuff",
+            "author_url": "https://www.google.com/maps/contrib/102227616227459059116/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu0E3CwG5IVJbKIyE9-0tOoaT6stEQo0tpwpGroZwz9j2BDA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "I had a few Kölsch and a lovely Wiener Schnitzel here outside on the weekend before Karneval started. It was delicious and the service was great. Highly recommended",
+            "time": 1732761236,
+            "translated": false
+        },
+        {
+            "author_name": "Håvar Knutsen",
+            "author_url": "https://www.google.com/maps/contrib/104431629090771453895/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIerONCxZ3pkeXRfRzEPk6pMGb-7bL0HKwyXaie-PBbxCP5Qw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "This restaurant/pub had great reviews of their pork knuckle, wich is a must-try in Germany. The short version is that is was great and way to much. Recommend ordering a half one if possible. Pork knuckles are typically cooked in two versions, the slow cooked and grilled crispy schweinshaxe they serve here or the eisbein which is not crisped. The preparations takes some 40 minutes and is Worth the Wait. They only accept cash, several ATMs are avalible nearby. Enjoy.",
+            "time": 1732490741,
+            "translated": false
+        },
+        {
+            "author_name": "Cindy NKe1",
+            "author_url": "https://www.google.com/maps/contrib/113000654930889169135/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxxRWRnG27jd_r2tQ1clmb-XtUGWa0v2GnpD_DATl_CznySA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "No 1 Pork Knuckle in Koeln . A must try ! We had an excellent dinner of roasted pork knuckle. The crackling was perfectly done and the meat was very very tasty 👍",
+            "time": 1720519405,
+            "translated": false
+        }
+    ]
+}

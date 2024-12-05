@@ -1,0 +1,66 @@
+{
+    "name": "Grand Hotel et de Milan",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "F. L.",
+            "author_url": "https://www.google.com/maps/contrib/107152628511725428365/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHpFdby39q9gMiXSl219W4pMvvfRFccC2PyIBcGq3acLiH1aEPEQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "The Grand Hotel et de Milan is an absolute gem. The Belle Époque charm is impeccably preserved, creating an atmosphere of timeless elegance. The bar is simply outstanding—sophisticated and the perfect spot to unwind. The location couldn’t be better, right in the heart of the city, making it ideal for exploring Milan. The service is exceptional—quick, professional, and always with a warm smile. This is the ultimate place to experience the true Milanese lifestyle. Highly recommended!",
+            "time": 1732726451,
+            "translated": false
+        },
+        {
+            "author_name": "Margaret Sayre",
+            "author_url": "https://www.google.com/maps/contrib/117560810748590666329/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUH9LojrGWYZaIV-q_GsTTF9ExK6DEaeVakCcRMD5eRWB3xGeM=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I cannot say enough good things about this hotel. The staff is outstanding. During our stay I got very ill. The front desk staff got a doctor and then went out and got my medication and delivered it to me. They ordered a car to take us to the airport at 5 AM! Every staff member from restaurant servers to housekeeping is very well trained and friendly.  The rooms and public areas are beautiful.",
+            "time": 1729092966,
+            "translated": false
+        },
+        {
+            "author_name": "Adam Raksin",
+            "author_url": "https://www.google.com/maps/contrib/102464549666248331172/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPIv4u1nXPOfKmFilNLXyFDGn-HiCHkrKJPBSMz8RmEecZOQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Luxurious and attentive. Cannot say enough amazing things about this property. The staff is so amazing and attentive. They anticipated all of our needs and expectations. Everything is very clean and the rooms are spacious and beautifully put together. I especially loved the little reading lights next to my bed! The breakfast was delicious (try the pear juice) and the espresso is the best I've had. Cannot wait to return again in our favorite Italian city",
+            "time": 1724260938,
+            "translated": false
+        },
+        {
+            "author_name": "Charles Beaudrot",
+            "author_url": "https://www.google.com/maps/contrib/109945985815678675646/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvynVymCZldnPZ2cuFIWqnVabt-Yp1EuGyKZmaGOnclILJcg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This lovely historic hotel in the heart of the historic district is a stone's throw from La Scala.  (Verdi lived in the hotel for many years and you may be able to get in to see his room if it is not being used).   We enjoyed our three nights there during our visit to Milan.   The staff are terrific and attentive.  We were on the 5th floor and our room had a slanting ceiling which could be a bit disconcerting, but was lovely.    The shower and tub were the best of our stay in Italy.\n\nOne of the true delights was the outstanding rich hot chocolate made in the Bistro Restaurant, which you can also get in the Bar if you explain that you want that version and not the one with whipped cream on top.  The Bar version is fine too, but the Bistro version is simply outstanding.   Reminded us of Paris.\n\nIt is a lovely place to stay and we greatly enjoyed our visit.",
+            "time": 1728212116,
+            "translated": false
+        },
+        {
+            "author_name": "Johannes C. Boser",
+            "author_url": "https://www.google.com/maps/contrib/113443149797836923702/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOc1acgKvNVPKrrciJJ8-rsKb2P22ZYbJFa3jMbBdZ_0LL1Ymj=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We found a second home in Milan.\nThis is for sure a place that you will never forget.\nAfter a busy day in Milan you just feel indescribable happy to come back in this oasis. The staff truly cares about you and it's such a heartwarming atmosphere.\nThe Hotel is under the perfect guidance of the General Manager Mr. Auger.\nThanks to all of you, it was an extraordinary stay!\nWill come back very soon.",
+            "time": 1726564524,
+            "translated": false
+        }
+    ]
+}

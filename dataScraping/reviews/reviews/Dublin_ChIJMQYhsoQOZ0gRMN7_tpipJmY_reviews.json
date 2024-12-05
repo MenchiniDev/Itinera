@@ -1,0 +1,66 @@
+{
+    "name": "Temple Bar Inn",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Gregor De Valckenaere",
+            "author_url": "https://www.google.com/maps/contrib/105685700509432656405/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO-j81_pNeV3Au2ZE2rfzppbGh3FVShVg_4MYHZsuu1IQgwg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very good location within the city center. Small rooms, with everything that you need for your vacation. Towels provided, different pillows on the bed. It is possible to get new towels during your stay. Good international breakfast. With hot and cold parts, fruit and a sweet part.",
+            "time": 1730648109,
+            "translated": false
+        },
+        {
+            "author_name": "James Lukas",
+            "author_url": "https://www.google.com/maps/contrib/101316976583581945954/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvIRjEbX5eZw1vJnqqf-5fLBqCkxn8ge6VAZ3C672yiy3viQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "The room was pretty small, but clean. It’s a very noisy area, so be aware when you book. The night life is alive and well in temple bar. There’s a nice little Tesco right next door as well. The staff was friendly and we ran into no issues during our stay.",
+            "time": 1731946585,
+            "translated": false
+        },
+        {
+            "author_name": "Kim Brown",
+            "author_url": "https://www.google.com/maps/contrib/107796023082291286609/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAzUztVCbn2aVsq-vY1DLl15QLKfd5a4qi2Tukf5daWrfidA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This is the third time I've stayed at the Temple Bar Inn. My mom and I LOVE this hotel. It's centrally located in Dublin. Easy to walk to shops, restaurants, and attractions. Their breakfast buffet is the best. Their staff is PHENOMENAL! Martin at the door is always pleasant and funny. There is no question about dining, directions, or history he can't answer. The front desk staff is stellar! Diana was there almost every day we were, this trip. She was incredibly gracious and delightful to talk with. Since my first stay in 2015 I have recommended  the Temple Bar Inn to everyone who has asked where they should stay in Dublin. This is my personal go-to hotel. I LOVE IT! Thank you Temple Bar Inn!",
+            "time": 1726092000,
+            "translated": false
+        },
+        {
+            "author_name": "Ryan Sims-Atkins",
+            "author_url": "https://www.google.com/maps/contrib/102804605874919388281/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnC09cvPZUj6CyiBmeflxenkjqokwnKYJr165whw0KF7GrKjCf=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Fantastic hotel. Staff great, rooms immaculate. Location perfect. Literally the only downfall is how hot our room and the 4th floor was. Unbearably hot. Struggled to sleep. Provided fan but not much use. Install air con and it'll be perfect.",
+            "time": 1730044779,
+            "translated": false
+        },
+        {
+            "author_name": "Garrett Roberts",
+            "author_url": "https://www.google.com/maps/contrib/113789070772452700551/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXek2QsyRhPo_9kcrG-2TK_5njIpXrw0NSMq9KyeZ8GguTiYgVcwA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "If you are going to be near this bar district then this is a must stay. Rooms are a little small and back up to a casino on the second floor but overall noise is not a problem because it is on the farther end of the pubs. Ideal spot.",
+            "time": 1728468712,
+            "translated": false
+        }
+    ]
+}

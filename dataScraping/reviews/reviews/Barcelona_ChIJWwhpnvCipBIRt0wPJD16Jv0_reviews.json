@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Ohla Barcelona",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "JEANIE JUSTINVIL",
+            "author_url": "https://www.google.com/maps/contrib/100837687253563769990/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxEOoP340iTnq2Et_vG5Q6wQ5d9GzSPjOW_zdONE00rbXcdaDO=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "I did not stay at this hotel. My husband and I went to the rooftop bar only. What a beautiful view of Barcelona! The cocktails were good, but definitely on the pricer side because of the location. Overall, it's a nice place for drinks.",
+            "time": 1732109644,
+            "translated": false
+        },
+        {
+            "author_name": "Tjeerd",
+            "author_url": "https://www.google.com/maps/contrib/101097032840567961902/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwO51Iu7FHy39WxqJNNc5lvIwe9i2L0F3SKJxJuGZWICu-dQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "The staff was very professional, they work as a team and pay great attention to details. Very personalized approach and very clean. Great selection of restaurants within the hotel. Overall, we loved our stay and would 100% recommend the hotel.",
+            "time": 1732464270,
+            "translated": false
+        },
+        {
+            "author_name": "Vanness Patthana",
+            "author_url": "https://www.google.com/maps/contrib/113159514844274174710/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJU_OIZQK8lsWG1odvLtvAlhz3WR2ppV0XGJn4H6YeZT2xgQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I was stunned upon entering the Hotel. Wife had booked it and didn’t realize it was a 5 Star establishment as we have been just traveling through Europe. We were greeted promptly by Zak! An amazing person that was so friendly and took care of us so well! He got us a couple of glasses of champagne and chocolates. Helped with our luggage to our room and showed is a few things. They even upgraded our room to an art style. The shower was sooo cool! The hospitality was amazing. The rooftop bar and pool were sweet! WE DID NOT WANT TO LEAVE! We saw Zak again the next day and he was just so wonderful to talk with. I hope the Hotel sees this review and gives Zak the highest praise! He is an amazing member of the team that should absolutely be recognized!",
+            "time": 1724434871,
+            "translated": false
+        },
+        {
+            "author_name": "Vicki Palatsides",
+            "author_url": "https://www.google.com/maps/contrib/107663895713246613048/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcmqQH_N5E_fWGtwx9echlzVPkp9GGXZjhH8Fb3sx7t5DXDwt_=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Can’t say enough about this hotel. Upon arrival everyone was so friendly and eager to assist. Special thanks to Quique and his amazing staff! The bar/restaurant served a beautiful breakfast and afternoon cocktails were spectacular. The rooftop bar provided the perfect backdrop to relax after a long day and the spa facilities were first rate.\nThank you Ohla for making our first trip to Barcelona unforgettable.",
+            "time": 1726978959,
+            "translated": false
+        },
+        {
+            "author_name": "Jessica Teper",
+            "author_url": "https://www.google.com/maps/contrib/109430033364291428873/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIirR4cWQBeEKlmSnDYOp_xUuxvAHdBT7ne8upblgkAryfBgFF-=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This hotel quickly became one of our favourite places to stay in Europe. The service was impeccable, the rooms were beautifully designed, and the rooftop pool felt like a dream come true. The views of Barcelona from the rooftop terrace were simply breathtaking, and we were always able to find available loungers, as it never felt too crowded. We were also pleasantly surprised by the early check-in, and the staff went above and beyond to make our stay comfortable, offering friendly and attentive service throughout.",
+            "time": 1727622283,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Armazem F",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Andre Matarazzo",
+            "author_url": "https://www.google.com/maps/contrib/108011510506788036064/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXbT6dvoDEOIYDhXUzwDnKsZoaPF8OR7VYd7gF930Ksafz6T-dGQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "9 years ago",
+            "text": "Amazing view, simple hearty food at great prices. Above all, fantastic service. A place you can come and lounge around for hours looking at the view and having drinks.",
+            "time": 1447513901,
+            "translated": false
+        },
+        {
+            "author_name": "Krzysztof Raczynski",
+            "author_url": "https://www.google.com/maps/contrib/115463213076200589250/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0DaJQWpXvV-GlwGxK0ib9tjL0FADtsK3doZcHL3w01lCDrrhx5w=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "8 years ago",
+            "text": "Over expensive :(",
+            "time": 1470483175,
+            "translated": false
+        },
+        {
+            "author_name": "Gonçalo Araújo",
+            "author_url": "https://www.google.com/maps/contrib/104457094449833424514/reviews",
+            "language": "pt",
+            "original_language": "pt",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjuF5H7dSIj56omjtFMI--GpwA9ZuD8hLEsAOQ_VHQ-n-98TC-5Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "13 years ago",
+            "text": "O ambiente é engraçado e a comida é óptima, mas na prática acaba por ser um \"chimarrão chique\", nada mais. E não é armazem F, o restaurante chama-se \"armazem grill\" (que ya, fica dentro do armazem F)",
+            "time": 1296765362,
+            "translated": false
+        },
+        {
+            "author_name": "Neu Silva",
+            "author_url": "https://www.google.com/maps/contrib/114217307296777606832/reviews",
+            "language": "pt",
+            "original_language": "pt",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5vcUEavR-9pVVoI3i1T8xt1T4KgPp98SqR-uBEQSvlvPUiITP=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Ambiente fantástico à beira do rio Tejo. Comida excelente e pessoal muito atencioso e prestável",
+            "time": 1488893407,
+            "translated": false
+        },
+        {
+            "author_name": "Alexandre Goulão",
+            "author_url": "https://www.google.com/maps/contrib/106541626386749183258/reviews",
+            "language": "pt",
+            "original_language": "pt",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrDc6IZUhgR4EfwqZ2zmgTWFdstEXviOm-tZLkTeJI2OAirGmU=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "11 years ago",
+            "text": "Optima esplanada para um fim do dia a ler\nLocal de concertos a noite!",
+            "time": 1383497953,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,1062 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.0015528,
+                "lng": 21.43859329999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.0029130302915,
+                    "lng": 21.4398644302915
+                },
+                "southwest": {
+                    "lat": 42.0002150697085,
+                    "lng": 21.4371664697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Arka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108665836363835467309\">Hotel Arka</a>"
+                ],
+                "photo_reference": "AdDdOWop-b9prJ6ptlNVQh1F46i74rsYhXjS_Kwbvxdz596bmFdkATUWRlJm1d3J7HTxqrm1ibtBzx6HR4hKT6RWPOM8ADr4prAal-r3dh8rZ1V9Aywy7qNH_zx_uLCI_XAwH_1wBHa-AC6idRvqexRq4gq6n7nVFSx1glmrKEp3gOA94s6N",
+                "width": 2428
+            }
+        ],
+        "place_id": "ChIJYavsmq8VVBMRadMQNLcAxsE",
+        "plus_code": {
+            "compound_code": "2C2Q+JC Skopje, North Macedonia",
+            "global_code": "8GJ32C2Q+JC"
+        },
+        "rating": 4.4,
+        "reference": "ChIJYavsmq8VVBMRadMQNLcAxsE",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 656,
+        "vicinity": "Ul. Bitpazarska 90/2 Skopje MK, Skopje 1000 113, Shkupi"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.003604,
+                "lng": 21.425953
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.0047457802915,
+                    "lng": 21.4278659802915
+                },
+                "southwest": {
+                    "lat": 42.0020478197085,
+                    "lng": 21.4251680197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Tomche Sofka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3468,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115778137614310965077\">E. J.</a>"
+                ],
+                "photo_reference": "AdDdOWrvQOZZLVAfEqmjGc2S39hluZjdbqkppL6tMxN3VU6K5ea-qzz9i2S6oiUyPY7nnQnKIC4tyOYQxcIbPqUWkf_zfltXp7XxAbPSiJE7Xa8irlyqt2sf9C7Q73Yf-hAX5Rs38q5jRJ8whIaadHoqUn9R8RWWyuQusRs5bcS7YKHzMOlX",
+                "width": 4624
+            }
+        ],
+        "place_id": "ChIJPVr8v1IUVBMRi33jbZVbsy0",
+        "plus_code": {
+            "compound_code": "2C3G+C9 Skopje, North Macedonia",
+            "global_code": "8GJ32C3G+C9"
+        },
+        "rating": 4.2,
+        "reference": "ChIJPVr8v1IUVBMRi33jbZVbsy0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 493,
+        "vicinity": "Jordan Hadzikonstantinov - Dzinot 14, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9899712,
+                "lng": 21.4550133
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9913734802915,
+                    "lng": 21.45640218029151
+                },
+                "southwest": {
+                    "lat": 41.9886755197085,
+                    "lng": 21.4537042197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Porta",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111171203251813377015\">Dragan</a>"
+                ],
+                "photo_reference": "AdDdOWq0oqHeJs6f0IltPX2NNyNwVoV6nvv1oASWQRh5saGS3O0zJ0Q54JCSbyBNjTWjJEtD_hQ0OZ9u6EYZmplHjvDGW3ODUC15aml7w5O0gbSx55quYvr8fYyH0lI4p6FtAMnJYin5umM8jnn5-A7l7U0hAbCjbRXj12EWFjM3gRuOD_GN",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJocIxUJQVVBMR4lHQh_fiZfo",
+        "plus_code": {
+            "compound_code": "XFQ4+X2 Skopje, North Macedonia",
+            "global_code": "8GH3XFQ4+X2"
+        },
+        "rating": 4.1,
+        "reference": "ChIJocIxUJQVVBMR4lHQh_fiZfo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 308,
+        "vicinity": "blvd Jane Sandanski 1A, Булевар Јане Сандански 1A, Shkupi"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9956239,
+                "lng": 21.4256807
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9968524302915,
+                    "lng": 21.4270349302915
+                },
+                "southwest": {
+                    "lat": 41.9941544697085,
+                    "lng": 21.4243369697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Domino's Pizza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103583106412771225001\">Ron van Bruchem</a>"
+                ],
+                "photo_reference": "AdDdOWo8T8cBG7RTNpJODiuQKLnkLZDDyXwYLLRY2rxnMREIxoAEVp2WLYMmbftcCt1Wll7Q_psAM6vlxzpKNsGDrFKcAeq3vHBcjMZ0P-nU4HNqIALM7rEbBFZ8myyK4FfwHej9CmFPcyO12Dj9dIlyzHsA2qCx8O-aa3-lCUEGyBX_ZVs7",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJvUv2GEsUVBMR9DgYMFc_G6A",
+        "plus_code": {
+            "compound_code": "XCWG+67 Skopje, North Macedonia",
+            "global_code": "8GH3XCWG+67"
+        },
+        "price_level": 3,
+        "rating": 3.2,
+        "reference": "ChIJvUv2GEsUVBMR9DgYMFc_G6A",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 618,
+        "vicinity": "Dimitrie Cupovski 26, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9963094,
+                "lng": 21.4243856
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9976153302915,
+                    "lng": 21.4256695802915
+                },
+                "southwest": {
+                    "lat": 41.9949173697085,
+                    "lng": 21.42297161970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mosh",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5504,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113673494375996841049\">Mosh - Lounge &amp; Music Bar</a>"
+                ],
+                "photo_reference": "AdDdOWqU2NQAfKP02q9QIPimrAyhyl3e65iOCcdYsiC-yCZjWAu1N5lGXU0FNKryqgERM7p38ubNvlK7EYsMvBaoVEzNt4DLzA-y0RP3-aPL1fRK5UkqnUJvD6DTDjfaYYDPtrJ0F-98wUn-jDbwsgtqj3OGD3POQjWsng2AHju0ydfuJJfj",
+                "width": 8256
+            }
+        ],
+        "place_id": "ChIJ08bNbPwVVBMRgYC7d7mstT0",
+        "plus_code": {
+            "compound_code": "XCWF+GQ Skopje, North Macedonia",
+            "global_code": "8GH3XCWF+GQ"
+        },
+        "price_level": 3,
+        "rating": 4,
+        "reference": "ChIJ08bNbPwVVBMRgYC7d7mstT0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 537,
+        "vicinity": "Debarca 2, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9895118,
+                "lng": 21.4597428
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9907775302915,
+                    "lng": 21.4610535802915
+                },
+                "southwest": {
+                    "lat": 41.9880795697085,
+                    "lng": 21.4583556197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fast Food 7 - Aerodrom",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100577736622774239211\">Sla ven</a>"
+                ],
+                "photo_reference": "AdDdOWr6kVRHhObYHY2WOLhxzKfTtk-IzBGYS80re0q3b6f4GgzKS9KtCjpQVSkZd_YkXxdN6CKRx5ofmvqjFF-v6AiwwGEsuqcsMxA0Ua63RSdTGzT-hhjGnqbrcxhzljPDCaekITBHPGdNQNJ942VvEpiwRupU1_vk0uMRtGRui0d2Y9tI",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ5aZ0t5MVVBMRu_ewxtIbU6s",
+        "plus_code": {
+            "compound_code": "XFQ5+RV Skopje, North Macedonia",
+            "global_code": "8GH3XFQ5+RV"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ5aZ0t5MVVBMRu_ewxtIbU6s",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3181,
+        "vicinity": "TC Tri Bisera, MK, Булевар Јане Сандански bb, Shkupi"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.00959,
+                "lng": 21.4098386
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.0108719302915,
+                    "lng": 21.4111629802915
+                },
+                "southwest": {
+                    "lat": 42.0081739697085,
+                    "lng": 21.40846501970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Balkanika Rustikana Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103748703090913513014\">Kemeny S</a>"
+                ],
+                "photo_reference": "AdDdOWpU6zhyxsWNsGzCBLYX3cIb1VHUhPt8jJmPsf-1DaEEEwiTQdkDIaYgtNjvhlWjbySNmpCsJtd0sFdvckb8muh8SYd2CbHQoVipX45y_UPoSDlw6imSh0-jE48DzRyvIA4yXw_JKzCHvTmKGhDLpvy1JHvVMFaNNMyfUZoA4X_JV-Rq",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJ6f9m-FsUVBMRN-FCWkefUpA",
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJ6f9m-FsUVBMRN-FCWkefUpA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 307,
+        "vicinity": "2C55+RWP, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.00612719999999,
+                "lng": 21.4219528
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.0076084302915,
+                    "lng": 21.4234886302915
+                },
+                "southwest": {
+                    "lat": 42.0049104697085,
+                    "lng": 21.4207906697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Uranija",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106290021735073329567\">Uranija</a>"
+                ],
+                "photo_reference": "AdDdOWoMukI_9XhXKBeprByfPjRKSHHMqRJW_eah9rGeNsNRGtH6--AAdzTdz8vkJpFydRGFe5K0eV3X6GhURRMVzEmtyg_U-F1VScZO50MaEhDWyWuvo4Y1QpRuwDG5oQTr121JsfIh4Tpk0QqVd8_JmzTrCtLpV7zYpQdWD9GqLs3BIuIp",
+                "width": 1440
+            }
+        ],
+        "place_id": "ChIJOwl82VMUVBMRD5F_-jrmmnM",
+        "plus_code": {
+            "compound_code": "2C4C+FQ Skopje, North Macedonia",
+            "global_code": "8GJ32C4C+FQ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJOwl82VMUVBMRD5F_-jrmmnM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 199,
+        "vicinity": "Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.99639129999999,
+                "lng": 21.4283194
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.99765988029149,
+                    "lng": 21.4296469802915
+                },
+                "southwest": {
+                    "lat": 41.9949619197085,
+                    "lng": 21.4269490197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Градска кафеана Кај Јоле",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3388,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115490586807417302058\">Pavle Miljovski</a>"
+                ],
+                "photo_reference": "AdDdOWrLSKkO7Q_fUECSef3f92Kul-K64SC2Ki6a3Hw5THfusqcI1uiesUvHq3vPgE-QZCxPK6LcEeNhCI7GCnZzyyzDS2FwpiKNH2k9JjDjuuJvI1E-YNNYxmvF3ojeKiI1rPCirOhkqTKH12jgbprwK_62w0KqpI7JLzes63Cqr890_GUt",
+                "width": 5082
+            }
+        ],
+        "place_id": "ChIJz8trsLQVVBMRQHRUHDYZdVY",
+        "plus_code": {
+            "compound_code": "XCWH+H8 Skopje, North Macedonia",
+            "global_code": "8GH3XCWH+H8"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJz8trsLQVVBMRQHRUHDYZdVY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 734,
+        "vicinity": "Maksim Gorki 18, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9896951,
+                "lng": 21.4492859
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9912026302915,
+                    "lng": 21.4504619802915
+                },
+                "southwest": {
+                    "lat": 41.9885046697085,
+                    "lng": 21.4477640197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Meze",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100774361511688926498\">Meze Bar Skopjanka</a>"
+                ],
+                "photo_reference": "AdDdOWrYbp0XqcRBV7lV-bH3Vyvfyh6O-udkNgID22paIKfvpbo4uIDA0Iy26WeXeYHoccvR8IjJiT3d3hSkcQ_xwZ1zXyyJahTDbgWTQFUdrTLiSW-FOQHtwtXhSWRyR0a_tQS4dOAd_8p6Bfi6O9W3pXXcC3FJhfKoH8Bf671ci_zD-TjI",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ90cju78VVBMRpDOvFMkhQVI",
+        "plus_code": {
+            "compound_code": "XCQX+VP Skopje, North Macedonia",
+            "global_code": "8GH3XCQX+VP"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ90cju78VVBMRpDOvFMkhQVI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1120,
+        "vicinity": "Бул. Кузман Јосифовски Питу бб, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.0009691,
+                "lng": 21.4381049
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.0023142302915,
+                    "lng": 21.4395137802915
+                },
+                "southwest": {
+                    "lat": 41.9996162697085,
+                    "lng": 21.43681581970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gallery 7",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116024645539029003496\">Kevin VH</a>"
+                ],
+                "photo_reference": "AdDdOWrqAVdBP2Xr2hhFJpNl5O7wDe9IZcURtUTGXFXhadxQ5XaSkofeoxpsKlKh41_H91NEXo9-mGf28vhsLKD_dW-7h2FjoquJIF4hRGnJZA8VGkOKzL7sX1BWM8Sql123JoIpdmOeuWxa3_qkY4NJUj0y3vXHvh6ERLZNUCq2oEKwDQc",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJ4Z2S6q8VVBMRphL3x-Bl98c",
+        "plus_code": {
+            "compound_code": "2C2Q+96 Skopje, North Macedonia",
+            "global_code": "8GJ32C2Q+96"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJ4Z2S6q8VVBMRphL3x-Bl98c",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 261,
+        "vicinity": "191 4, Shkupi"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.99230959999999,
+                "lng": 21.4165497
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.99388743029149,
+                    "lng": 21.4179607802915
+                },
+                "southwest": {
+                    "lat": 41.99118946970849,
+                    "lng": 21.4152628197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Balilla",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113780302653814035931\">Sofi Gerakaki</a>"
+                ],
+                "photo_reference": "AdDdOWq97ClIVBV7hW1I1fugK977tq3OMOTrcuS03Fju5hhommGjaqm8pvjCjDChbzdLT1_I8kBi7hN8oNA4uFugruiDFZxmIv4iSPTAsI7azl_zkn5S1sppDEfIKqBP1xRx11q7ezmuOBk-2ULHP9KLH4gjxypwlYiQ1bhHtzhD-nYbUNnm",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ1x1wnTcUVBMRMQEbsYFaneM",
+        "plus_code": {
+            "compound_code": "XCR8+WJ Skopje, North Macedonia",
+            "global_code": "8GH3XCR8+WJ"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJ1x1wnTcUVBMRMQEbsYFaneM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 711,
+        "vicinity": "Васил Ѓоргов 29, Shkupi"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9977952,
+                "lng": 21.423944
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.99910148029149,
+                    "lng": 21.4252138802915
+                },
+                "southwest": {
+                    "lat": 41.99640351970849,
+                    "lng": 21.4225159197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fruttissimo Juice Bar",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114191586556129685896\">Fruttissimo Juice Bar</a>"
+                ],
+                "photo_reference": "AdDdOWpJZJgpN2hJHAYtNC2D1BnQatms4iCKvyM13ErUfeLUTfkiJhRQ-GhQu5Dn0nExeDE_n8A78rZnHWs3y4UhBVGOdZUJpnraS_fJYQsPKsqct4BQRBDRxSuLWA5YeTV8gzRFzHW9wzn26oPZFhYDG-9n02-4T2Ve3fqzGC-mWETawo6Z",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJiVAThksUVBMRm4ewiv5CiXM",
+        "plus_code": {
+            "compound_code": "XCXF+4H Skopje, North Macedonia",
+            "global_code": "8GH3XCXF+4H"
+        },
+        "rating": 4.5,
+        "reference": "ChIJiVAThksUVBMRm4ewiv5CiXM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 37,
+        "vicinity": "Boulevard Partizanski Odredi 21, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9991182,
+                "lng": 21.404852
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.0004609802915,
+                    "lng": 21.4062700802915
+                },
+                "southwest": {
+                    "lat": 41.9977630197085,
+                    "lng": 21.4035721197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Zanzibar",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2560,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109796650556449361534\">Aleksandar-Saša Popović (pixxel)</a>"
+                ],
+                "photo_reference": "AdDdOWoPXKlpnFfefzlHg56jRf56uIGQWO44YcBcTcloFFy5uiElo-juviTZs6s98Lebt5J3QNqOUQBRyefzqI758-hqMBTuUmhyYITdC9k4Er5LKmduTdS655-OKV70_21b20NFf9lquEvwrTcw7gfDcKSrVTNnAY_NCm3xJQkUW3jxz5es",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJl2K6ykgUVBMRtubjG0IG4_g",
+        "plus_code": {
+            "compound_code": "XCX3+JW Skopje, North Macedonia",
+            "global_code": "8GH3XCX3+JW"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJl2K6ykgUVBMRtubjG0IG4_g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 120,
+        "vicinity": "Boulevard 8-mi Septemvri 8/4, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9794043,
+                "lng": 21.4402115
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9807069302915,
+                    "lng": 21.4413946802915
+                },
+                "southwest": {
+                    "lat": 41.9780089697085,
+                    "lng": 21.4386967197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Caffe & Pizzeria Montegro",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100486172847884802659\">Zoran Petkovski</a>"
+                ],
+                "photo_reference": "AdDdOWpLbQZsHrSuKk015kaiikaF4mWQMPv2SaDQstT_QdGJLeyLoBwPOgTStu7eppCn4udybxAUkEgsx7vxZ1IL8QPe09g6IJKo_TenFw_PKGGKws1JWo8fH_fo-y7VTeVdtuRaPrSr96UPdNJ7H0bOTFxogDuKWwX4a4LtDOhbQ-viQq0i",
+                "width": 3120
+            }
+        ],
+        "place_id": "ChIJC1jkotoVVBMRIL8L0PgNkA0",
+        "plus_code": {
+            "compound_code": "XCHR+Q3 Skopje, North Macedonia",
+            "global_code": "8GH3XCHR+Q3"
+        },
+        "rating": 4.2,
+        "reference": "ChIJC1jkotoVVBMRIL8L0PgNkA0",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20,
+        "vicinity": "Vera Jocikj 7, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9827805,
+                "lng": 21.4521448
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9841288302915,
+                    "lng": 21.4534926302915
+                },
+                "southwest": {
+                    "lat": 41.9814308697085,
+                    "lng": 21.4507946697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name": "OKTA",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105451259418207045036\">OKTA</a>"
+                ],
+                "photo_reference": "AdDdOWponJni3HnWWzvHXQ2VvI9aUDYAiXafUcZCxAzVb-JbIl6j95uVrSjNZMTCoq4UHvDoQhlwkLC2PAREwXNcqqG0fiekWDoHz8Erpt8uNiC-7OtnzJI1FDSaX1pSKY-TBorkB5h2__oe1LwkL-ipBpa3eZT1qBpOA8CJpHfF_HuUvtK_",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJzfOE9-kVVBMRAEC1jI6j8-Q",
+        "plus_code": {
+            "compound_code": "XFM2+4V Skopje, North Macedonia",
+            "global_code": "8GH3XFM2+4V"
+        },
+        "rating": 4,
+        "reference": "ChIJzfOE9-kVVBMRAEC1jI6j8-Q",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "car_wash",
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 67,
+        "vicinity": "Boulevard 3rd Makedonska Brigada 56А Skopje MK"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.0047702,
+                "lng": 21.3917612
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.0062454302915,
+                    "lng": 21.3931318302915
+                },
+                "southwest": {
+                    "lat": 42.0035474697085,
+                    "lng": 21.3904338697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Burger King",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113889568797832123048\">Jaap Kunst</a>"
+                ],
+                "photo_reference": "AdDdOWp9GT8ZoybiAAzCIiwgEioAwzEKEBdKpI0ve32xRhfR5jEXsfoz0UGx56bQ9AKdhHGT_u46bA2ke-jfXcmAsmMT5nn7jL9ac8pJN4IUDeGMhnUSO7g0fnO0tpozsMN1LD1SIvtAa6f4v342VNf7r1tzDxVyu_ENtxTnEGlpkOuw5joN",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJSyji4HEUVBMRTmx9zxpNO_g",
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJSyji4HEUVBMRTmx9zxpNO_g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 498,
+        "vicinity": "293R+WP2, Ljubljanska, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9899429,
+                "lng": 21.4259388
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.99134283029149,
+                    "lng": 21.4273320302915
+                },
+                "southwest": {
+                    "lat": 41.98864486970849,
+                    "lng": 21.42463406970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Public Room",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 684,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106903094530641954919\">Public Room</a>"
+                ],
+                "photo_reference": "AdDdOWprjhBHdRmpmyoAxchJ6P3Zpkyf-Goq3PYomi1wVRPl0kT5RVWDVBtkN50-ECJp4FGHus0AlH1dSxqvwRNAN9meHfm1ptTrGw8W-w5GTpRricOQIiLXOu3cyv3F5l76Hh6wymSZJd6MbjEov4FKutwU3d5Ztx4Ok1aWwc_v12I-ikEd",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJ3zFz5k0UVBMRzSXVvSVyCPA",
+        "plus_code": {
+            "compound_code": "XCQG+X9 Skopje, North Macedonia",
+            "global_code": "8GH3XCQG+X9"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJ3zFz5k0UVBMRzSXVvSVyCPA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "art_gallery",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2346,
+        "vicinity": "50-та Дивизија 22, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.0043028,
+                "lng": 21.3907076
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.0056739802915,
+                    "lng": 21.3919007802915
+                },
+                "southwest": {
+                    "lat": 42.0029760197085,
+                    "lng": 21.3892028197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Food Bar Trend",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113709902626537015510\">Sale Hristov</a>"
+                ],
+                "photo_reference": "AdDdOWptSeWYlnFgQlDIzJRZ-lQ0Llh5iDPoeJYFMN9gUwbPimPbuME1H7lJRmf6v85H0UjHI9eFWVNIDwOJg-1xtwhnHz9UU7tjQXm6kJmF-VVa4vtY9GqGQSexDa4q9NMSpcRA1UoqrdIzt9oXss4xs8CefRk7oFUDJ9Yywz69yg2h5ca2",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJS1OO_W0UVBMRjoHMVEB-iFU",
+        "plus_code": {
+            "compound_code": "293R+P7 Skopje, North Macedonia",
+            "global_code": "8GJ3293R+P7"
+        },
+        "price_level": 2,
+        "rating": 3.6,
+        "reference": "ChIJS1OO_W0UVBMRjoHMVEB-iFU",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2120,
+        "vicinity": "Ljubljanska br4, Skopje"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.0033541,
+                "lng": 21.3960801
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.00467818029149,
+                    "lng": 21.3974236302915
+                },
+                "southwest": {
+                    "lat": 42.00198021970849,
+                    "lng": 21.3947256697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name": "OKTA",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102902505635692989186\">OKTA</a>"
+                ],
+                "photo_reference": "AdDdOWpOFpkzR2fxAKpSPSiKpqtsy8m79975nXfWMlg1Kwx-Ua7Y2ImIDBcuJH0xswvFOCnoh_GhWv3ZH7ZdFAkBKZsc6BygAIPBd8djXj2Z2mkFbzQjc16mLtQs5YV3UoSqwInARVdtupJo_UYmzHZKegd5ACiiwhywnufgdW0WKVjEANHg",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJdWOrn24UVBMRy67oQoicBXw",
+        "plus_code": {
+            "compound_code": "293W+8C Skopje, North Macedonia",
+            "global_code": "8GJ3293W+8C"
+        },
+        "rating": 4.5,
+        "reference": "ChIJdWOrn24UVBMRy67oQoicBXw",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "car_wash",
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 147,
+        "vicinity": "Boulevard Partizanski Odredi 104, Skopje"
+    }
+]

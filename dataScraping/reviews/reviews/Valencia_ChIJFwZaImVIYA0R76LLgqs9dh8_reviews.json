@@ -1,0 +1,66 @@
+{
+    "name": "El Bobo",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Ivo Dimitrov",
+            "author_url": "https://www.google.com/maps/contrib/118199854832960827809/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGspV_WRIFHphNMjNiV4hTMYKUnJSoXQs9Gdp5cNQxBeP-BWfu=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "A relaxing lunch in the sun with beach views and welcome and friendly service.",
+            "time": 1732288567,
+            "translated": false
+        },
+        {
+            "author_name": "Shuet Han Tsui",
+            "author_url": "https://www.google.com/maps/contrib/107501929051654767376/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeKUSTEf1q3CLWIfmaPAtgUW1OqdloslbFoP6eWT8X92dYyps=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "El Bobo is located right by the beach, offering amazing views of the sea. Some would regard these as ‘tourist traps’, but all I can say is that we experienced good service and food. Did like the white table cloths, which makes it feel a bit more special. It is located at the end of stretch, so is a bit quieter.\n\nThe prices are good and a lot like the other places in the area. We ordered a mix paella for two (rabbit, chicken and seafood) and it was delicious. The lunch was finished off with a complimentary vodka lemon sorbet.\n\nOn an earlier visit, I had a simple grilled hake.",
+            "time": 1578146914,
+            "translated": false
+        },
+        {
+            "author_name": "Janine M",
+            "author_url": "https://www.google.com/maps/contrib/113499638204077998227/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4jeZixCRd8G8HOpsU9G9zoo_edrUCplkG0byN-RiMmDKhiF0=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We visited the sea side for some lunch. To start we had the garlic prawns which were amazing, so flavoursome. For the main she shared paella mixta which was delicious. I would definitely recommend.",
+            "time": 1727002442,
+            "translated": false
+        },
+        {
+            "author_name": "francis fares",
+            "author_url": "https://www.google.com/maps/contrib/113959689559992177385/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-fFwhDXQGNe821n2ccGaeWuGtjc2A0JIriBqbhqH8nQGUA4ui=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Authentic Valenciana cuisine. The location is amazing, it’s right by the beautiful sandy beach of Valencia. For a great Paella (rabbit, chicken or meat), a good wine (san Miguel) and an amazing service you should try this place.",
+            "time": 1658421169,
+            "translated": false
+        },
+        {
+            "author_name": "Lara Staley",
+            "author_url": "https://www.google.com/maps/contrib/104842147988652643382/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq_HK_OO3WVh1PBSScckZvukU4DdoytdicTXwgdqP4w53siaFq=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "El Bobo got recommended to us by a friend from Valencia and I must say she was right. The food is excellent! Fresh sea food, local food. It gets busy so it´s best to reserve a table.",
+            "time": 1723443853,
+            "translated": false
+        }
+    ]
+}

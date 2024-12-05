@@ -1,0 +1,66 @@
+{
+    "name": "Park Plaza Vondelpark, Amsterdam",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Wendy McCulloch",
+            "author_url": "https://www.google.com/maps/contrib/110744974037850669097/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkQGp5Chcmfhn0exZfJzhKXZCxJrFC_InCfSbzM4BYVeOPlw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Lovely hotel. We had 2 cosy rooms and opted out of room service for environmental reasons- we all got a free drink return. The staff were really friendly and really helpful. Very good breakfast. It is about a 15-20minutes to town through the park and 4 minute walk total the tram which goes directly to the centre. Good local restaurants.",
+            "time": 1730666397,
+            "translated": false
+        },
+        {
+            "author_name": "Lisa Mason",
+            "author_url": "https://www.google.com/maps/contrib/116743497226102196121/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLas9HGY2Y3oi715KSYvjLDwyJqW2_oBqz7C4XzgNtZmIkZ62c=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Great hotel in a quiet area, easy walking distance to shopping and restaurants. Beautiful park to walk in close by. Excellent breakfast. Small (typical for a large city) but well designed rooms. Stayed May 2023",
+            "time": 1731870373,
+            "translated": false
+        },
+        {
+            "author_name": "Howard Lathrop",
+            "author_url": "https://www.google.com/maps/contrib/106699999607614466238/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6nvHko4aYa9XNAPjkr5RkFl6GH7dUDkQ4JEZU_s8HbayJq2o4qA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Quiet location in upscale neighborhood close to one of the largest parks in Amsterdam. Rooms are small with unattractive furnishings. Staff was very accommodating. We did not try the restaurant because it seemed expensive. Hotel is expensive compared to others in the area and pricey for size. I would not consider it a four- star hotel.",
+            "time": 1728300456,
+            "translated": false
+        },
+        {
+            "author_name": "John Mooren",
+            "author_url": "https://www.google.com/maps/contrib/106748906834774676680/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWZL8NSS8LWDE0D7Hl9bgsRHCB0hbM8aJtFcdQc6F5d3XzMUp7=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "This is a nice hotel in a beautiful location and the staff was very helpful. I was hesitating between 3 and 4 stars, but felt the issues we experienced were all minor and the staff dealt with all of them quickly. But there were quite a few:\n- As we opted out of room service, we ran out of toilet paper. I would expect them to still check that, especially if you are there for 3 days.\n- The shower was very nice, but leaked water underneath the door.\n- The hairdryer was missing from the room.\n- In return for opting out of room service we were meant to get a voucher. However, we didn't and had to go and ask for it.\n- I couldn't check in online as the site didn't give me the option to pay the city taxes, so had to do this at the desk on arrival.\n- We couldn't find a light setting that would only switch on the lights in the bathroom (i.e. leaving the lights in the bedroom off)\n- They advertise a shuttle service to the airport, but when we asked we were told it wasn't running. Instead they quoted a taxi price that was double the Uber we took instead.\n- There were a few more that I can no longer remember.\nAll in all we had a great long weekend.",
+            "time": 1731504178,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan Ivanov",
+            "author_url": "https://www.google.com/maps/contrib/117897704188155546401/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjiNTkl1I7PcBqMWOufKIeFCrs04edUHbyAxrJ4yUO1qAf3w=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "3 weeks ago",
+            "text": "Nice location - very quiet.\nRooms - very cold in November. Sleep is moderate - matresses can be better for such prices\nBreakfast - average. No fresh juice, poor selection of cheese. Lack of local food such as haring, or stroopwaffles. Tea selection is good.\nMajor - very slow internet! Not convinient for work or watch video in a good quality",
+            "time": 1731239764,
+            "translated": false
+        }
+    ]
+}

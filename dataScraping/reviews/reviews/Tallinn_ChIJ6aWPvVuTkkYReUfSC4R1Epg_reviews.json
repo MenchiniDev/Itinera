@@ -1,0 +1,66 @@
+{
+    "name": "Villa Thai",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Akhil Gupta",
+            "author_url": "https://www.google.com/maps/contrib/108530405076415518470/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIWeWYO8WABcPAKNmwVCGsuMxBraG9jzbRePrDWBZidssk-vje=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "The food was fantastic. What a hidden gem. We always used to go to either Chakra or Guru. Delicious food here. Even though little under staffed. But all well.",
+            "time": 1725562519,
+            "translated": false
+        },
+        {
+            "author_name": "Victor Bouwman",
+            "author_url": "https://www.google.com/maps/contrib/117453776241487755653/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4z43Z5I-KJnFJh7k-fAt2OMZujnZAsd7U9UZ9erI1eibGyQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "It's a very nice restaurant. Friendly staff in traditional clothes. The food is very good and the restaurant looks nice. Highly recommended!!",
+            "time": 1720859038,
+            "translated": false
+        },
+        {
+            "author_name": "hiieliin",
+            "author_url": "https://www.google.com/maps/contrib/116791613245257761463/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoS1syS3yNGjvPDe3oQZzBkvfxITC16NLm0tOeofxiC1tfMfQ5=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I recently visited Villa Thai again after several years and was happy to find that they’re still on top of their game. The atmosphere was very cozy, and the food was delicious. We had pad thai, tom kha, and spring rolls. Definitely some of the best pad thai I have had in Estonia.",
+            "time": 1725173599,
+            "translated": false
+        },
+        {
+            "author_name": "Khushboo Garg",
+            "author_url": "https://www.google.com/maps/contrib/107862388298623208796/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVToRe3UinV-rew3xifXhCl3Trsfg3lBIgE6xt89cGyxofGjs9Hdw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "After being very late on New Year’s Eve and being turned down by other restaurants because it was almost closing time, we end up going to Villa Thai. Food was delicious and service was excellent. Although we had to wait a bit but it was worth it!",
+            "time": 1715549466,
+            "translated": false
+        },
+        {
+            "author_name": "Martynas Sanijevas",
+            "author_url": "https://www.google.com/maps/contrib/107245121491019917861/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlRXjjdY-E0zhBHN-rOVBuOIfHlAmGBITsclUrQ4M2s_sx_A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Amazing service, nice atmosphere, good prices and most importantly very very tasty food! Would go there again!",
+            "time": 1719597504,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,1042 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.47677170000001,
+                "lng": -1.903438
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4781604802915,
+                    "lng": -1.901981119708498
+                },
+                "southwest": {
+                    "lat": 52.4754625197085,
+                    "lng": -1.904679080291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Malmaison Birmingham",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106894161570421352211\">Malmaison Birmingham</a>"
+                ],
+                "photo_reference": "AdDdOWpcqzrUZ_JlIM7iJrzJxpm5u1gll555uxkrkcfEHBQm9OrWnn5QTv2dplTP-Y_TC7aPVDRvmPY7IYc57zDau0npycwPzj2g4C5OLC0BdgoOPe19I1WYChjo5gSQ4Bz2JlT7IqLU0G8bxToE91kmeryEQRocUUfgf6LaV5t5Fyk5tO5j",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJb0mj0oq8cEgRn-gXjgRdALg",
+        "plus_code": {
+            "compound_code": "F3GW+PJ Birmingham, UK",
+            "global_code": "9C4WF3GW+PJ"
+        },
+        "rating": 4.2,
+        "reference": "ChIJb0mj0oq8cEgRn-gXjgRdALg",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1787,
+        "vicinity": "1 Wharfside Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.4804926,
+                "lng": -1.8994246
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4818787302915,
+                    "lng": -1.898117969708498
+                },
+                "southwest": {
+                    "lat": 52.4791807697085,
+                    "lng": -1.900815930291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Premier Inn Birmingham City Centre (Waterloo Street) hotel",
+        "photos": [
+            {
+                "height": 2848,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107450782244946571702\">Premier Inn Birmingham City Centre (Waterloo Street) hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrlKeXZxwDGSUjS4hr_VC4bcI7u35Rb8ZjqrQZhlpXcu1uDzOE6w3x8ZeulFYDCNcpLNL05DjNtoKSj-dkqZppZWArnBKsUb9rB7zSPiuV2dUuqRPCHtIo5cezPSPm19PnOeigcL5fcfTzYOfMNb4nj-4i_wxGTXisrR3qmpdQkpEQD",
+                "width": 4288
+            }
+        ],
+        "place_id": "ChIJ1S24H4y8cEgRK_UGHBzKDKU",
+        "plus_code": {
+            "compound_code": "F4J2+56 Birmingham, UK",
+            "global_code": "9C4WF4J2+56"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ1S24H4y8cEgRK_UGHBzKDKU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1121,
+        "vicinity": "3-6 Waterloo Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.481824,
+                "lng": -1.906615
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4831248302915,
+                    "lng": -1.905178819708498
+                },
+                "southwest": {
+                    "lat": 52.4804268697085,
+                    "lng": -1.907876780291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel ibis Styles Birmingham Centre",
+        "photos": [
+            {
+                "height": 4480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106071748482889016858\">Hotel ibis Styles Birmingham Centre</a>"
+                ],
+                "photo_reference": "AdDdOWpsvi3tnp4Eo0mJuqpAK1V8i96JO99FHbg2wz4Caw3mB3CT56XJElPypGFTSBvZq2JzGQycI-n6WwLhOdfZZodyBtwZPu9N5GzxUb88OlWlh1KV8_EfzER6E-_igJ79SESGGcoVrLEU0GNi0xyKAWny4zP-l2xWFE5-JWfg59EXKEMl",
+                "width": 6720
+            }
+        ],
+        "place_id": "ChIJwzRBKPO8cEgRuILWfeSZZAg",
+        "plus_code": {
+            "compound_code": "F3JV+P9 Birmingham, UK",
+            "global_code": "9C4WF3JV+P9"
+        },
+        "rating": 4,
+        "reference": "ChIJwzRBKPO8cEgRuILWfeSZZAg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1443,
+        "vicinity": "65 Lionel Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.47565609999999,
+                "lng": -1.8994144
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4771222302915,
+                    "lng": -1.897920019708498
+                },
+                "southwest": {
+                    "lat": 52.4744242697085,
+                    "lng": -1.900617980291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Holiday Inn Birmingham City Centre, an IHG Hotel",
+        "photos": [
+            {
+                "height": 1301,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105037735891166848872\">Holiday Inn Birmingham City Centre, an IHG Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpidRLahdjm041LMM3eS-yzII85FD1yN59SSrA5dEmPh7AzU6GQg0zF4JYSk7lj6TK9c9JFY7vgzMCjJZNL0la4k8kTs1yZCVRBVioYsgy8TX08_FdcuGeMqIcp9KATTT49bPhWEqeew6Uwl_l3yKAM_cbIRgd3wTjasolY1kGxOEtF",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ2Y0vzYu8cEgRC-Vc1u6h0OA",
+        "plus_code": {
+            "compound_code": "F4G2+76 Birmingham, UK",
+            "global_code": "9C4WF4G2+76"
+        },
+        "rating": 4,
+        "reference": "ChIJ2Y0vzYu8cEgRC-Vc1u6h0OA",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2541,
+        "vicinity": "Smallbrook Queensway, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.476537,
+                "lng": -1.908259
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4779674302915,
+                    "lng": -1.906616319708499
+                },
+                "southwest": {
+                    "lat": 52.4752694697085,
+                    "lng": -1.909314280291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Premier Inn Birmingham City Centre Bridge Street hotel",
+        "photos": [
+            {
+                "height": 531,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108849050242729899448\">Premier Inn Birmingham City Centre Bridge Street hotel</a>"
+                ],
+                "photo_reference": "AdDdOWoXPc_pNY2mObmWfybHTcjv9qmpu0eMrAGcOWQsNjZe2cOwu4AY71ND2jl8bbPiBWs_BtuJbxPdMwhCM5Q5Zu-5wliNcME7DCKJUqd1QVaw0hS61TIccoqjTZyIRy9HJ94UTVqZpKAEQWyziNa6Md2hqxc726Mq7fc9SvaR0D5CpUgO",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJPz9nGPW8cEgRitSSppCuwBM",
+        "plus_code": {
+            "compound_code": "F3GR+JM Birmingham, UK",
+            "global_code": "9C4WF3GR+JM"
+        },
+        "rating": 4.2,
+        "reference": "ChIJPz9nGPW8cEgRitSSppCuwBM",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1169,
+        "vicinity": "20 Bridge Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.47076389999999,
+                "lng": -1.8813806
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4721082302915,
+                    "lng": -1.880157219708498
+                },
+                "southwest": {
+                    "lat": 52.4694102697085,
+                    "lng": -1.882855180291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "The Moseley Arms",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108774393583051971521\">The Moseley Arms</a>"
+                ],
+                "photo_reference": "AdDdOWr0nTAWKDPdDfw71wKyh8gJeiaf6MXjYtye0fGjFAHqAethMreIA7njlse7Wjr3f_VZ9NcR6k18oF0sGgGY9sZYw43sllrpDONBVZI7tsKzYo5BcaeD7UwmvVSP3EdXxOLfTnkJMMzV4PwUKbBR8u1zsi964A1y7LlR63vr_UaPOgNk",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJId4wE3-8cEgRhNXdFbcE-j4",
+        "plus_code": {
+            "compound_code": "F4C9+8C Birmingham, UK",
+            "global_code": "9C4WF4C9+8C"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJId4wE3-8cEgRhNXdFbcE-j4",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 836,
+        "vicinity": "105 Ravenhurst Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.47121139999999,
+                "lng": -1.9401197
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.47259028029149,
+                    "lng": -1.938878619708498
+                },
+                "southwest": {
+                    "lat": 52.46989231970849,
+                    "lng": -1.941576580291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Premier Inn Birmingham Central (Hagley Road) hotel",
+        "photos": [
+            {
+                "height": 996,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103280135223285400589\">Premier Inn Birmingham Central (Hagley Road) hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqk3msvfnjLVZKhzDo8GFSBhR9nUVl78y2EMEruQt6aPbCVRptmtHtRS4kzkvbl1IjhvrU-v9imLD_f7kK7nHWXZN2mQYjUfIEqsaiAhkY6sD6MrPFHXYWcMRAiI-J-e__zmLL1mP9joYG9xs9lhePL1kmg-ceQ6SRr0cKnvAtyvGgR",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJzZnyZqq9cEgRKFi7DSlcVLo",
+        "plus_code": {
+            "compound_code": "F3C5+FX Birmingham, UK",
+            "global_code": "9C4WF3C5+FX"
+        },
+        "rating": 4.1,
+        "reference": "ChIJzZnyZqq9cEgRKFi7DSlcVLo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 714,
+        "vicinity": "176-184 Hagley Road, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.47561389999999,
+                "lng": -1.9153314
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.47700603029149,
+                    "lng": -1.913921669708498
+                },
+                "southwest": {
+                    "lat": 52.47430806970849,
+                    "lng": -1.916619630291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Premier Inn Birmingham City Centre Broad Street hotel",
+        "photos": [
+            {
+                "height": 996,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106494616104900084616\">Premier Inn Birmingham City Centre Broad Street hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpOiF1zfbd_Fxq5j5aW8ISD-VT4YhBXziMYOwT0gQW_cmPpW7yNKsinn_Z7Qbb9siOrRAIeL3Fp62sjKN-DQ72ANP6sSPocIv-ykHqwksVWE30bKBAuB7HAVwvRN3VSXP0mSDMaGOPbRnsOxgFJQjjb2LZhzrhyUzp3VIhDeKwZI3Em",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJATQWtfe8cEgR5CoxUZNva6M",
+        "plus_code": {
+            "compound_code": "F3GM+6V Birmingham, UK",
+            "global_code": "9C4WF3GM+6V"
+        },
+        "rating": 4.1,
+        "reference": "ChIJATQWtfe8cEgR5CoxUZNva6M",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 781,
+        "vicinity": "Essington Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.4721409,
+                "lng": -1.9274311
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.47353733029151,
+                    "lng": -1.925934619708498
+                },
+                "southwest": {
+                    "lat": 52.47083936970851,
+                    "lng": -1.928632580291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Best Western Plough and Harrow Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102564111188704887135\">Brian Drinkwater</a>"
+                ],
+                "photo_reference": "AdDdOWrTGBHqTa4HIg_tQJJUZsmfejKHZsslGvXqh8JZhhOozZSYzkNMO-uKzbieBAm7z4inUh3b-ReOI2au7W_2HTgWljmJ584fbUoCiLoodk8QzkV_7kvr6ylzjdIORFFe2qmidM8h8LCyeK2TBrFYJ-ZEEBN_mBcZOLdXaI0-pdGqloWE",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJYTIwdVW8cEgRz4k8O7CsBhk",
+        "plus_code": {
+            "compound_code": "F3CF+V2 Birmingham, UK",
+            "global_code": "9C4WF3CF+V2"
+        },
+        "rating": 4,
+        "reference": "ChIJYTIwdVW8cEgRz4k8O7CsBhk",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 931,
+        "vicinity": "135 Hagley Road, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.4724379,
+                "lng": -1.8729979
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4738023302915,
+                    "lng": -1.871814619708498
+                },
+                "southwest": {
+                    "lat": 52.4711043697085,
+                    "lng": -1.874512580291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "ibis Birmingham Bordesley Circus",
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100376954591094391437\">pb</a>"
+                ],
+                "photo_reference": "AdDdOWqXc7nkkYiBcsjiVm-Vywq9deLfuv9V80YKuEPRMtLrPb8YQBbrZnH3U0A31cRWz688VpE4HWPQA4WCq6x5gAL4zYieVlARel0AGoL3uGq2xVJRD_t06hadOoqWn-62FIL5jcao8liKfNhfeKPjRnE-YWC0HFsLvZpRJ6aVHe3rYq9b",
+                "width": 3200
+            }
+        ],
+        "place_id": "ChIJCSkzMoK7cEgR0cqMxi-dvyE",
+        "plus_code": {
+            "compound_code": "F4CG+XR Birmingham, UK",
+            "global_code": "9C4WF4CG+XR"
+        },
+        "rating": 3.9,
+        "reference": "ChIJCSkzMoK7cEgR0cqMxi-dvyE",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 743,
+        "vicinity": "1 Bordesley Park Road, Bordesley, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.4722251,
+                "lng": -1.9380356
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.47352068029149,
+                    "lng": -1.936666419708498
+                },
+                "southwest": {
+                    "lat": 52.47082271970849,
+                    "lng": -1.939364380291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Birmingham Strathallan Hotel | Signature Collection by Best Western",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101526306074273665755\">Birmingham Strathallan Hotel | Signature Collection by Best Western</a>"
+                ],
+                "photo_reference": "AdDdOWodxRrl6oj6R4vjIGUqu44-KKp46mT9BNNTfRAa-XYk5bH3mm7zGUQn3WL1Y31Mklt9spWdQjd7iHqt-fdkYnonNlHRHk3Evj_jlMcgeeLXbxmWwqMt5YmuwV9J86ZevxBsW6dE91F-D-dPxB0Bd1e_jsII6bqkKs64FOo3wgBtzfxH",
+                "width": 6720
+            }
+        ],
+        "place_id": "ChIJs9qzfQH3eUgRG8kLGpB1xD4",
+        "plus_code": {
+            "compound_code": "F3C6+VQ Birmingham, UK",
+            "global_code": "9C4WF3C6+VQ"
+        },
+        "rating": 3.7,
+        "reference": "ChIJs9qzfQH3eUgRG8kLGpB1xD4",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1301,
+        "vicinity": "225 Hagley Road, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.491254,
+                "lng": -1.8862005
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4924580302915,
+                    "lng": -1.884559069708498
+                },
+                "southwest": {
+                    "lat": 52.4897600697085,
+                    "lng": -1.887257030291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Premier Inn Birmingham City - Aston hotel",
+        "photos": [
+            {
+                "height": 996,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105550296259522052507\">Premier Inn Birmingham City - Aston hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrZ6gNu2w0Kg5iUrNOvpo90QWuCfHGQ13MdbFMsfbRTEjzGa_RTO9W2KZj36-3BAyJRHs-Tmd7WwAM9_iQq3z5-NDl5FJ75b16AKyiHaNNpYCk99tWBRsO7UsmLD6fKc8iet5o36J66rqgDNLQoO-pRhYJpAD-bSuRGvbhfJGnGvGEO",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJf7Z_lZ68cEgR0dth87EVlUg",
+        "plus_code": {
+            "compound_code": "F4R7+GG Birmingham, UK",
+            "global_code": "9C4WF4R7+GG"
+        },
+        "rating": 4,
+        "reference": "ChIJf7Z_lZ68cEgR0dth87EVlUg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1016,
+        "vicinity": "Waterlinks House, Richard Street, Aston, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.4810539,
+                "lng": -1.8905062
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4824166802915,
+                    "lng": -1.888768319708498
+                },
+                "southwest": {
+                    "lat": 52.47971871970851,
+                    "lng": -1.891466280291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Clayton Hotel Birmingham",
+        "photos": [
+            {
+                "height": 2395,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110836698234977067956\">Clayton Hotel Birmingham</a>"
+                ],
+                "photo_reference": "AdDdOWp1FGDjVGJID9RpMAAj3J6e-CSDWpkpbnEvaSsQmbNI9Y4nMJT2JCuE6428zhLDgWZoFRBxfq7w-CPa5LgnxbGzxMLCFvH7CrFbCSu529XwoLFEcpluTBmxAALBlgmMHfZFaMvLMQo--xn1Babxk1ZXGyXzXYrAOoxY9TouvwERdXNs",
+                "width": 3600
+            }
+        ],
+        "place_id": "ChIJF5clh4O8cEgR-EskG0QqegY",
+        "plus_code": {
+            "compound_code": "F4J5+CQ Birmingham, UK",
+            "global_code": "9C4WF4J5+CQ"
+        },
+        "rating": 4.3,
+        "reference": "ChIJF5clh4O8cEgR-EskG0QqegY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2836,
+        "vicinity": "Clayton Hotel, Albert Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.4786686,
+                "lng": -1.8976924
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.48029543029149,
+                    "lng": -1.8967977
+                },
+                "southwest": {
+                    "lat": 52.4775974697085,
+                    "lng": -1.9003765
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Premier Inn Birmingham City Centre (New St Station) hotel",
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109084727926459687885\">Premier Inn Birmingham City Centre (New St Station) hotel</a>"
+                ],
+                "photo_reference": "AdDdOWqK-K2QXZYZ3T0fwGwdJiqzF_U6tMLvw-xdIcAq46kZqxO74dVftyZ_3Dj6fRpIEb6bUn3lQqw4Gw1na8X5Q8XmMBxBBX0AZE_msDbSamPWjH-TKASJb-zGA8MHnaA4NmKQTwTO_JjxkE5sVVrGJS6ILYuHL2OIsvNg3xeHR5XGf1OO",
+                "width": 1799
+            }
+        ],
+        "place_id": "ChIJsRXghou8cEgRGrn5-ck4Ufs",
+        "plus_code": {
+            "compound_code": "F4H2+FW Birmingham, UK",
+            "global_code": "9C4WF4H2+FW"
+        },
+        "rating": 4.3,
+        "reference": "ChIJsRXghou8cEgRGrn5-ck4Ufs",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1455,
+        "vicinity": "Exchange Buildings, Stephenson Place, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.47199670000001,
+                "lng": -1.9421529
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.47334978029149,
+                    "lng": -1.940812319708498
+                },
+                "southwest": {
+                    "lat": 52.4706518197085,
+                    "lng": -1.943510280291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Apollo Hotel, Birmingham",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118004076150332449286\">Daniel McGwinn</a>"
+                ],
+                "photo_reference": "AdDdOWp2-g6R1mC3gZZ9tQ-4uy-pTnWYBZAdG6TzCc7krdPv38FSnUzYC8reeiSmCUf4TvzCilfFNFdQFjuKEEN_lkd3VUYq6bb7HfCMcy5EMCclB3opTzlB1oQni0de4hylscv1wYyWhvoq1sRhc5O-jAJczTrewWZB3-N-Js4Jv8BVU1Rl",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJ1ec3Eqi9cEgRQx_xnp2cs7k",
+        "plus_code": {
+            "compound_code": "F3C5+Q4 Birmingham, UK",
+            "global_code": "9C4WF3C5+Q4"
+        },
+        "rating": 3.1,
+        "reference": "ChIJ1ec3Eqi9cEgRQx_xnp2cs7k",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 331,
+        "vicinity": "Apollo Hotel, 243 Hagley Road, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.4777266,
+                "lng": -1.9112761
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4790116302915,
+                    "lng": -1.909898119708499
+                },
+                "southwest": {
+                    "lat": 52.4763136697085,
+                    "lng": -1.912596080291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Celebrity Indian Balti - Best Indian Restaurant Birmingham",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1047,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111491495758665024323\">Celebrity Indian Balti - Best Indian Restaurant Birmingham</a>"
+                ],
+                "photo_reference": "AdDdOWqKhtYrBKSroqOP-rWkMZ-VG0Zf1A3muiCU3a--d-DRBPFH_sG02A0IvQifGLmiFE1TVn3O32IIpVRSiO_9Q7u-dOPRNXt9BAwMkoLTu5SN-QsbfvZSBLapPhfD7x06FhAUrki2MYVU9MrSE6Onaq_7TD5miuBh_8gArRnDbHghlohc",
+                "width": 1944
+            }
+        ],
+        "place_id": "ChIJ4RCuIvS8cEgR7rJosJ7aLnE",
+        "plus_code": {
+            "compound_code": "F3HQ+3F Birmingham, UK",
+            "global_code": "9C4WF3HQ+3F"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJ4RCuIvS8cEgR7rJosJ7aLnE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 454,
+        "vicinity": "44 Broad Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.4790852,
+                "lng": -1.8970668
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4805297802915,
+                    "lng": -1.8954759
+                },
+                "southwest": {
+                    "lat": 52.4778318197085,
+                    "lng": -1.9007943
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Britannia Hotel Birmingham",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2736,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115985066359149071572\">Gilbert Sofeso</a>"
+                ],
+                "photo_reference": "AdDdOWrD0GdWUW3QH5v0uyO1bBElYZ06lxavoOx3vBcROpaD3jpaW0Hmjbv4pWx2n7leULhFLSDQy8X3prMpOF2rkBMYB_nFlFHt5ZY4lP0VFxdLPEPLf4SKhPvzQ-lB6WTeCBNzHfhO8fdjwltY8Rx_0Dyq-ouTGDKW-cTswYcH552sBO6-",
+                "width": 3648
+            }
+        ],
+        "place_id": "ChIJ1SFAVIm8cEgRhSSg3OwAl2Y",
+        "plus_code": {
+            "compound_code": "F4H3+J5 Birmingham, UK",
+            "global_code": "9C4WF4H3+J5"
+        },
+        "rating": 2.5,
+        "reference": "ChIJ1SFAVIm8cEgRhSSg3OwAl2Y",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2087,
+        "vicinity": "New Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.48037830000001,
+                "lng": -1.899225599999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4817177302915,
+                    "lng": -1.897804669708498
+                },
+                "southwest": {
+                    "lat": 52.4790197697085,
+                    "lng": -1.900502630291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "San Carlo - Birmingham",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103941435582790969350\">Tanya Sheridan</a>"
+                ],
+                "photo_reference": "AdDdOWpONNgyYfTsUY10QFzZXe9lFxbJaMlslJ1VNfPnh7DXHKnXYBywH5SLpSzdQAQ5zqauc1HGSaU1hkZPDUCKv5UfeivdIvMPK5XmhYkq8SjKwAVuRnombICUnGw27qxPQxmIknJ49ofn1LlR2-nK0yS8WCvzFlQE2LvLjwarFdshr6Y",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJj9BEoY68cEgROLMAHbHCNVg",
+        "plus_code": {
+            "compound_code": "F4J2+58 Birmingham, UK",
+            "global_code": "9C4WF4J2+58"
+        },
+        "price_level": 3,
+        "rating": 4.1,
+        "reference": "ChIJj9BEoY68cEgROLMAHbHCNVg",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1551,
+        "vicinity": "4 Temple Street, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.48509639999999,
+                "lng": -1.907861799999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.4864326302915,
+                    "lng": -1.906562419708498
+                },
+                "southwest": {
+                    "lat": 52.4837346697085,
+                    "lng": -1.909260380291501
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Lasan Indian Restaurant & Cocktail Bar",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4318,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110244356841552179593\">Lasan Indian Restaurant &amp; Cocktail Bar</a>"
+                ],
+                "photo_reference": "AdDdOWr9T4K12-Rk8kvU5EpRTQ6PsVh0r76VszKns_garoc9O9hLE1E562tKu268rkPfn9w5CKjq2uL0C2sI5Y7mqM5JMcA5v6KWkRJQEQ7To9bPq6PgX5J53eqXx0SKL_d6BTHTJTo8lsad2UyG7Buf4xX00xQFWkgpk0v0LGnO8QraVEh-",
+                "width": 3721
+            }
+        ],
+        "place_id": "ChIJFx2eXe28cEgRbjxc-Y50dC0",
+        "plus_code": {
+            "compound_code": "F3PR+2V Birmingham, UK",
+            "global_code": "9C4WF3PR+2V"
+        },
+        "price_level": 4,
+        "rating": 4.5,
+        "reference": "ChIJFx2eXe28cEgRbjxc-Y50dC0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 993,
+        "vicinity": "3 - 4 Dakota Buildings, James Street, Saint Paul's Square, Birmingham"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 52.48080399999999,
+                "lng": -1.899986
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.48220458029149,
+                    "lng": -1.898505719708498
+                },
+                "southwest": {
+                    "lat": 52.47950661970849,
+                    "lng": -1.901203680291502
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "The Old Joint Stock Pub & Theatre, Birmingham",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107019393887739316514\">The Old Joint Stock Pub &amp; Theatre, Birmingham</a>"
+                ],
+                "photo_reference": "AdDdOWqAcU41aTQyJx0IF4yamn_lsR_OnLZQ7D323W8Vd95XvkFt1GT4mYg49dWj0BASoCVVFa2JXtVJklmKE76JS4lZ0ClzUI1cqL8h4mWtWPe3UEAulO37wjfmPk6HlgSCfHMyoPDCcWjmZ_yp9bGH6IrrHXdpxAmk2VBOzQXuff9jl7ni",
+                "width": 1919
+            }
+        ],
+        "place_id": "ChIJtX9rIYy8cEgRqSOlmsDfv74",
+        "plus_code": {
+            "compound_code": "F4J2+82 Birmingham, UK",
+            "global_code": "9C4WF4J2+82"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJtX9rIYy8cEgRqSOlmsDfv74",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 4382,
+        "vicinity": "4 Temple Row West, Birmingham"
+    }
+]

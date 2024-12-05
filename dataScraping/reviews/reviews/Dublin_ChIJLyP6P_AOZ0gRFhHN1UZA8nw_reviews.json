@@ -1,0 +1,66 @@
+{
+    "name": "the gibson hotel",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Tara Sheldon",
+            "author_url": "https://www.google.com/maps/contrib/105619269950262590629/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7h1gYqzFevqYqFWPsbSRtZ8lJA-DKsDaGGMCyQQ-65Ig46A=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "Location is good although not really city centre, tram outside and a bus just around the corner will take you where you need to go. When we checked in our room it was dirty. Pastry still on the table sticky drink marks, bedside tables not cleaned, bathroom sink had hair in amongst the dust that had gathered (in this just been cleaned room) after going back to reception the manager who I must add was very attentive, and moved us to an upgraded executive room straight away. When we arrived at the new room, it was very nicely decorated - had a huge balcony that over looked the city, overall very spacious. We went on about our day. Once returning to the hotel I ran a bath and unpacked. The bed side tables again dirty. Table in the room dust all over the floor, walked into the bathroom and you could see the dust on top of my bath water, it had to be emptied and re ran. Not really a pleasant stay.\nFor a 4 star hotel you expect better. Would we stay here again? No. Would we recommend? No.\n\n(Photos of this are from the upgraded room)",
+            "time": 1724980138,
+            "translated": false
+        },
+        {
+            "author_name": "Helen Scotch",
+            "author_url": "https://www.google.com/maps/contrib/108384837637374785210/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwqV37rK9fcWFeJqYDfx9H_IL16gwbH9WfjpG1g6XS3yNY7cr4nQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Lots of good things to say about this hotel but the mold on the shower walls was pretty gross and not reflective of a 4-star hotel - hence my overall mid-rating! Otherwise the room was great - we had booked a triple (1 twin, 1 king bed) and it was very spacious. The service in the bar was great and the food & cocktails were great (only ate there once). The location is brilliant for a lot of things in the city as well being only a short trip to the airport. The proximity to 3arena is great if you are attending a show - but kind of annoying if you’re not as the place is overrun with concert goers 😅 Overall I will likely stay again but really think they need to clean up the shower. It’s not hard!!",
+            "time": 1730137708,
+            "translated": false
+        },
+        {
+            "author_name": "brooke",
+            "author_url": "https://www.google.com/maps/contrib/111786055829676361141/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCrMq56ZdJQTdPtI1j3qx0VQ7JBSaZKIPKHdiwNS9qjGo4JGkH=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Awesome stay!\nI recently stayed here for my first time in Dublin. It’s overall a great hotel.\nIt is not in the center of the city, but right outside the entrance doors is the tram which is so convenient. It’s about an 8 minute tram ride into the center and it’s so easy to navigate.\nThe staff was awesome, they were very helpful when we had questions about getting around town.\nThe rooms here updated, clean, and had AC which was a big plus. It was a very pleasant stay and would definitely recommend this place for anyone looking for a quiet, comfortable hotel.",
+            "time": 1727124202,
+            "translated": false
+        },
+        {
+            "author_name": "Joanne Kealy",
+            "author_url": "https://www.google.com/maps/contrib/107390766813551226442/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr52G_mBUDup0XqbXGCE5S2QpHYYpTUJJEqybYkSNhkih4owiBBA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Would recommend\n\nGood:\nBar was nice and spacious, nice range of drinks\nGreat location and security too\nRoom spacious and good facilities\nRooms were nice and quite\nSpecial packages were good as well\n\nBad:\nUnder bed was very dusty\nAlot of the grout in shower was orange\nScrambled egg and breakfast was unpleasant\nNo glasses at breakfast so asked manager for them,  girl who brought them down had a face of stone and completely mute.  Disappointing considering all other staff were pleasant.\nComplimentary water in the room would be appreciated as most 4 star we stay in offer 2 bottles on arrival.",
+            "time": 1731349194,
+            "translated": false
+        },
+        {
+            "author_name": "Leah Madden",
+            "author_url": "https://www.google.com/maps/contrib/105707002331265132893/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLusA0q2KtdOZ3MAC5svlmIJyQSrJ-hmK2GqWiZyplKNbDuxA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "We had a lovely stay in the Gibson during the week. I could not speak highly enough of how friendly and helpful each member of staff were. The room and hotel breakfast room service was certainly a highlight! And the amenities such as the relaxation area were absolutely exceptional. We will most definitely be back!",
+            "time": 1730983532,
+            "translated": false
+        }
+    ]
+}

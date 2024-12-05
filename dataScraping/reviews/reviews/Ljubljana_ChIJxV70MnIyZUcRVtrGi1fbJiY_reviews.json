@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant and hotel Portal",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "antonio govorusic",
+            "author_url": "https://www.google.com/maps/contrib/118321928886035059763/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPG4XCBgmIHueoBY7WgH-_Sj3DC34CCx3GfJzDwHWDqhxfAg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "I'm writing to share my unfortunate experience at a hotel Portal in Ljubljana, Slovenia, during a recent business trip. Unfortunately, the hotel fell short in several key areas.\n\nUpon arrival, the check-in process was disorganized, and we had to retrieve our room key from the bar counter due to the unavailability of the guest service desk. The staff's unwelcoming demeanor set the tone for our stay.\n\nOur room was plagued by relentless traffic noise, making sleep nearly impossible. The following morning, breakfast was underwhelming, with limited options and an unusable coffee machine. Moreover, the buffet lacked basic hygiene measures, such as sneeze guards and serving utensils.\n\nRegrettably, the servers were consistently rude throughout our stay. In a disturbing incident, hotel staff (hotel owner) lit garbage on top of my car, mistakenly assuming it didn't belong to a hotel guest. Plus no one apologized! Horrible!\n\nDuring checkout, we encountered further issues when the hotel attempted to charge us extra.\n\nIn light of these experiences, I strongly advise against staying at this hotel for business or leisure trips to Bed and breakfast Hotel Portal. Instead, consider alternative options.",
+            "time": 1730588749,
+            "translated": false
+        },
+        {
+            "author_name": "S K",
+            "author_url": "https://www.google.com/maps/contrib/111933999669979632268/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKinl-rLiAHgBlAMe2v-f1eA4uTRdGtJwzQCxQRIOSoaVtkXQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Restaurant Portal offers an exceptional experience that combines top-notch service with authentic Balkan cuisine. The staff is extremely friendly and professional, always ready to accommodate all guest requests. Their specialty is grilled food, prepared in a traditional way, which is evident in every bite. The ćevapi, pljeskavica, and kebabs are perfectly seasoned and juicy, delighting even the most discerning gourmets. The restaurant's ambiance is pleasant and relaxed, adding to the excellent atmosphere. If you are looking for authentic Balkan food in Ljubljana, Restaurant Portal is undoubtedly the right place.",
+            "time": 1717692903,
+            "translated": false
+        },
+        {
+            "author_name": "Mitja Ostir",
+            "author_url": "https://www.google.com/maps/contrib/102693813725933069968/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaaTwUR7ptSe75Gfyx_KMqfyRpLhQcBVg-BTkyj90KXb-T6tYilQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Good Serbian food and especially to be commended, good and fast service, which is a real rarity these days. I recommend.",
+            "time": 1723059053,
+            "translated": false
+        },
+        {
+            "author_name": "Iulia Roxana",
+            "author_url": "https://www.google.com/maps/contrib/112511525757844136556/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRVtZ0ugBp9VyJsemi9cUu5NPHF7yAQmeSlvd7AcaeH5SMMw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Rooms: new and clean\nBreakfast: very poor\nReception: closed at night, you have to check-in/out at the bar\nCarpark: big free carpark",
+            "time": 1725218675,
+            "translated": false
+        },
+        {
+            "author_name": "Hadija Hana",
+            "author_url": "https://www.google.com/maps/contrib/117691545213504945270/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn4Y1H3w-rWOYRF6w0CE3LwyBDfu4k486f0_yo91BLotaCqfpp-g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "11 months ago",
+            "text": "Phenomenal!!\nLeave Fancy Must Have, unnecessary make-up and beauty filters before you step into this restaurant. You will be greeted by kind staff and divine food. Recommendation for Leskovačko beer! Don't get around this place.\nAnd most importantly, they are flexible and willing to prepare a gluten-free variant for you.\nAll 5⭐️ from me!!",
+            "time": 1702893894,
+            "translated": false
+        }
+    ]
+}

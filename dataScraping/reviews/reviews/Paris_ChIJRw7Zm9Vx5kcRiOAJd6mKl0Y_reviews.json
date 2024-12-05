@@ -1,0 +1,66 @@
+{
+    "name": "Hôtel Bac St-Germain",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "David",
+            "author_url": "https://www.google.com/maps/contrib/116743779279329112955/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEX-j96905mcoeM3pSm8L7lY2oKNYQpA_bL1aizWWHBCW3yg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Sadly I think this cute little hotel is permanently closed. I’ve been watching it for the last 3-4 years, having stayed there in 2018.  There’s a plywood barrier all across the front and a keep out sign. It’s been that way for a couple of years. Too bad. We really enjoyed our stay and it’s very convenient.",
+            "time": 1717430084,
+            "translated": false
+        },
+        {
+            "author_name": "James Green",
+            "author_url": "https://www.google.com/maps/contrib/115889743843773759887/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4iiAnYKmOqFHfnWbenh9fvl4YhhYRwo0u5MSld3g4zhCvBZI-IQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Comfortable hotel in a very good location. Lovely area of Paris. Rooms are a bit tight but we were comfortable there for 3 nights.\nVery comfortable bed and good water pressure in the shower. Bath tub is a good size considering the room size.\nElevator is tiny but adds to the charm of the place. Great view from the breakfast terrace. Hotel staff ready to assist when needed.\nI would return to this one.",
+            "time": 1538985733,
+            "translated": false
+        },
+        {
+            "author_name": "Borislav Stoyanov",
+            "author_url": "https://www.google.com/maps/contrib/107193685956669294618/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIqq03Li_NKVT4VGnp7tLeCSka6dYq1JK7nVqYKPy8l9DdvQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 years ago",
+            "text": "Excellent price/quality ratio. Small hotel, good for people that need a quiet clean place to stay for a few nights. Excellent location, quick connection to the subway, within walking distance from most famous venues (Eiffel tower, Museum of Invalides, Arch of Triumph. The day I arrived a very nice woman was at the reception. She guided me on how to get quick to where I wanted to go - for business, for siteseeing and for the airport. I didn't try the breakfast there because I was in a hurry.\nI would recommend this hotel to all people staying at Paris.",
+            "time": 1469429530,
+            "translated": false
+        },
+        {
+            "author_name": "lesley corrigan",
+            "author_url": "https://www.google.com/maps/contrib/110684540096715558068/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJELTzz1QLfsAo0lF-Y3f_G8-dFr3MP8PKJZ7hU5IGJoL26DA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "My son and myself stayed here for 3 nights last week. The staff are all lovely and welcoming.  The room was perfect, lovely continental breakfast on the terrace with a view of the Eiffel Tower . It's centrally situated , close to the   Seine,  the museum's,  the tower, all within walking distance , also bus & metro. I would definitely recommend it to my family & friends & would be happy to go back there ourselves. First visit to Paris, such a beautiful city. I am so saddened & sorry to see the event last night at Notre Dame, you are all, Paris /France very much in our thoughts.",
+            "time": 1555419277,
+            "translated": false
+        },
+        {
+            "author_name": "Karolyn Kiisel",
+            "author_url": "https://www.google.com/maps/contrib/108758310349616074527/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4PGVQuZEOnRGTpXDWFuzy7DwxIZPvqd3f1fMoFA1rHcLaWCwV=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "9 years ago",
+            "text": "My experience at the Hotel Bac Saint Germain was excellent.  The room on the very top floor had a beautiful view of the Paris skyline, and was comfortable and well equipped.  The staff was super helpful with my internet issues and finding taxis etc.  The breakfast was great. Convenient location close to some great brasseries and the Metro.\nAll in all a good choice and I would definitely stay there again.",
+            "time": 1435435921,
+            "translated": false
+        }
+    ]
+}

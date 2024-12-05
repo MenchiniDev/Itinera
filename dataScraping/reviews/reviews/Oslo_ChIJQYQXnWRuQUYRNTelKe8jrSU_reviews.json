@@ -1,0 +1,66 @@
+{
+    "name": "Klosteret Restaurant",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Priscila Zijlstra",
+            "author_url": "https://www.google.com/maps/contrib/104402708588828663546/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBzLrdvghRK1bi-8aOEMTCoonJffkH2FhcWjZ8gfu1Tj00BCRLQA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Beautiful location! After entering, you descend into a very atmospheric cellar, mostly lit by candlelight. The service is excellent, and the cuisine is very Norwegian-oriented, which I appreciate. In a city like Oslo, known for its international flair, it can be challenging to find elevated Norwegian food.",
+            "time": 1729935758,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Grinshpon",
+            "author_url": "https://www.google.com/maps/contrib/105995873464039043913/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzpKAIXvDjwxxYPATGXoJ2s_JGepDZL2SKnzRavmlpMI2Hk5J7=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "A beautiful candlelit monastic barrel room setting with 10/10 food and 11/10 wine pairings. I got the 7-course and wine pairing and my partner got the vegetarian 5-course and pairing. The vegetarian tasting menu was not an afterthought and felt just as much a main event as the regular menu- an incredible rarity in the world of fine dining. Service was awesome. Just a world-class experience all-around.",
+            "time": 1718431046,
+            "translated": false
+        },
+        {
+            "author_name": "Khrom Taveeptrakoon",
+            "author_url": "https://www.google.com/maps/contrib/115285512456987268974/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfTyDIPuI7kX1LAY3wjP7KzSR3XJ3JQaJo8E6jlnHBrmhKUzqJ1w=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "11 months ago",
+            "text": "I had a special night here. The appetizer was crispy bacon and fried eggs. It seemed simple but tasted great. The main course was very meticulous, ending with two different dessert servings. Don't forget to have good wine to try and sip on.",
+            "time": 1702851390,
+            "translated": false
+        },
+        {
+            "author_name": "Ed Tatton",
+            "author_url": "https://www.google.com/maps/contrib/113851382166904335808/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCFMb2dHWnl4_9kSg9NFz63LzNU30PO6eGUVDsEeB6OD3De7xysA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "The atmosphere is amazing, the food was incredible, the service was some of the best I've ever had even compared to NYC top rated restaurants. This place is a must if you are in Oslo. Everyone was fresh and seasoned beautifully, I appreciate the love in the cooking and the care in the choice of ingredients. If I come back to Oslo this will be on my list of places to revisit.",
+            "time": 1530217048,
+            "translated": false
+        },
+        {
+            "author_name": "Monica Osorio",
+            "author_url": "https://www.google.com/maps/contrib/101749912571606963021/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMWBHNUCClAq3fQivPEmp-0ga_b8kIhJ-oZSBzKq-pzl1o31k2=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "a year ago",
+            "text": "Atmosphere is great. Had the 7 course meal, we loved one plate: the reindeer tartar ⭐️. Service was also good and friendly. They also offer a 5 and 7 vegan/vegetarian course meal we didn’t try it but definitely curious.",
+            "time": 1674146772,
+            "translated": false
+        }
+    ]
+}

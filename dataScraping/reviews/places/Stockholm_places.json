@@ -1,0 +1,1079 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3322318,
+                "lng": 18.0733061
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.3336311802915,
+                    "lng": 18.0746717302915
+                },
+                "southwest": {
+                    "lat": 59.33093321970849,
+                    "lng": 18.0719737697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Berns Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1921,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108189638110347540106\">Berns Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpD471n2OHdtS5lwr72EcjhBKHJ5OTL3s2FGtsESgNJSMNaHTu_mM06DEzQ0giEh9I44shG2YOe0AVFlqfINExuIKRUHVXV03lMlc0xzSM6Odrs-63vA9htaJt1XFqgOcqK0uEap8UvZA_G5ar6qm-z-I4AxBQzMMBL29wDzNcs76HY",
+                "width": 2392
+            }
+        ],
+        "place_id": "ChIJu-dN5ludX0YR5bHEIi3av_s",
+        "plus_code": {
+            "compound_code": "83JF+V8 Stockholm, Sweden",
+            "global_code": "9FFW83JF+V8"
+        },
+        "rating": 4.2,
+        "reference": "ChIJu-dN5ludX0YR5bHEIi3av_s",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2137,
+        "vicinity": "Näckströmsgatan 8, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.33475759999999,
+                "lng": 18.0531934
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.3360538302915,
+                    "lng": 18.0549063302915
+                },
+                "southwest": {
+                    "lat": 59.33335586970849,
+                    "lng": 18.0522083697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Clarion Hotel Sign",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5504,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112222249262717559260\">Clarion Hotel Sign</a>"
+                ],
+                "photo_reference": "AdDdOWrNBR1_ELtpNz6MwoyFM-8yCy9CwRIDFwyrd0U8kOo2zYcjCGZlqGMtHassconCBaHB03H6TskAR-itI4u4P4tnkhDbbWgzdxdn-lRDVUC8f-njb7GNirATj7K-a1cKtxCN08Hfu5NpjmJNA7OU-PjCnXHEMhLWOdRkV029AdJdTFB_",
+                "width": 8256
+            }
+        ],
+        "place_id": "ChIJc7gNTWGdX0YRKG-_8pWA0rM",
+        "plus_code": {
+            "compound_code": "83M3+W7 Stockholm, Sweden",
+            "global_code": "9FFW83M3+W7"
+        },
+        "rating": 4.2,
+        "reference": "ChIJc7gNTWGdX0YRKG-_8pWA0rM",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5388,
+        "vicinity": "Östra Järnvägsgatan 35, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3070649,
+                "lng": 18.0748087
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.30856338029151,
+                    "lng": 18.0760543302915
+                },
+                "southwest": {
+                    "lat": 59.3058654197085,
+                    "lng": 18.0733563697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Clarion Hotel Stockholm",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3307,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117431847785272088123\">Clarion Hotel Stockholm</a>"
+                ],
+                "photo_reference": "AdDdOWoVfwlEb4oT8FN3SH7kY0ge_UzRwHbGCw9VLQjWi6O1RRuMOiK8L_Ma7-f_zd_Tmp1-Pat0qhf3qejItTl_ahxNsC4ubSt_HJWLSetZcX4SPXVUgxDf6B3NUny7k5RBk4wZGws_sAiL8f_EGhkPjw7FJToh8L8V-kaw6l3BYogUKD0Z",
+                "width": 4961
+            }
+        ],
+        "place_id": "ChIJwaQLHfR3X0YRQWBewlEdJWc",
+        "plus_code": {
+            "compound_code": "834F+RW Stockholm, Sweden",
+            "global_code": "9FFW834F+RW"
+        },
+        "rating": 4.1,
+        "reference": "ChIJwaQLHfR3X0YRQWBewlEdJWc",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5738,
+        "vicinity": "Ringvägen 98, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.321345,
+                "lng": 18.0252345
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.3227977802915,
+                    "lng": 18.0266135802915
+                },
+                "southwest": {
+                    "lat": 59.32009981970849,
+                    "lng": 18.0239156197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Långholmen Hotel Stockholm",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116484315779314874101\">Långholmen Vandrarhem</a>"
+                ],
+                "photo_reference": "AdDdOWrrT06UDsmHVf9n6GKKsESFY9tvIhgfuTb9oyc6nvtuueG4CjPk8E7fc6RRRxhIeRIg9SuHZ0cn3N525vsbFxra_RejOA18RXrpXxSLeS1ViAgppfhD_8LmY7D-WtA9sptnxUZN2QbBumc4httq_d1Zt8qSEZYQ6rO1gftnQIU9ecnf",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJL7Eg29F3X0YRtYAR-70zV7o",
+        "plus_code": {
+            "compound_code": "82CG+G3 Stockholm, Sweden",
+            "global_code": "9FFW82CG+G3"
+        },
+        "rating": 4.5,
+        "reference": "ChIJL7Eg29F3X0YRtYAR-70zV7o",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1201,
+        "vicinity": "Långholmsmuren 20, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.331312,
+                "lng": 18.04492489999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.3327001302915,
+                    "lng": 18.0465689302915
+                },
+                "southwest": {
+                    "lat": 59.33000216970849,
+                    "lng": 18.04387096970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Clarion Hotel Amaranten",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 549,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115098402078396552120\">Clarion Hotel Amaranten</a>"
+                ],
+                "photo_reference": "AdDdOWpwOy2QLFTkJK893usPUxGTS4P4SGLHUwtVXPHFLU3a2R5A7p8ikcHAyMrczE6LvRVwP12qRt4c52vZc5n7RXBrpx597xjMdU45XN2YJnPmwyD1ykgXGJuPAvU4KF_E_BtDro0bTWut6R3QY3Rua8z7Oi7jALs2_jd--hR6wNwvja-a",
+                "width": 985
+            }
+        ],
+        "place_id": "ChIJVf9AXmKdX0YR36MXSqDHkOw",
+        "plus_code": {
+            "compound_code": "82JV+GX Stockholm, Sweden",
+            "global_code": "9FFW82JV+GX"
+        },
+        "rating": 4.1,
+        "reference": "ChIJVf9AXmKdX0YR36MXSqDHkOw",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4539,
+        "vicinity": "Kungsholmsgatan 31, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3370279,
+                "lng": 18.0729447
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.33846818029149,
+                    "lng": 18.07424893029151
+                },
+                "southwest": {
+                    "lat": 59.33577021970849,
+                    "lng": 18.0715509697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Anglais",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 712,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116385314705520961552\">Scandic Anglais</a>"
+                ],
+                "photo_reference": "AdDdOWpM1znrk3Z48QYhwPpr-n0SgIoni4zqlhZumHdwn2FZvNJ2_fJtoM-s1O6mNUH9aZqpwOmU9FXAUtPG1ULFlTUm6bZ3VvvfMs3VTqIOT-JMoyS0GbRDp3VnGnqRl66C-Efh6XgOvzYO-RlGBIZ8wSm-HPTflpx2OJTCdp5lCY9GCyTF",
+                "width": 1070
+            }
+        ],
+        "place_id": "ChIJ7YzPsFydX0YR6tMPR1jggrI",
+        "plus_code": {
+            "compound_code": "83PF+R5 Stockholm, Sweden",
+            "global_code": "9FFW83PF+R5"
+        },
+        "rating": 4,
+        "reference": "ChIJ7YzPsFydX0YR6tMPR1jggrI",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "spa",
+            "bar",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2111,
+        "vicinity": "Humlegårdsgatan 23, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3330108,
+                "lng": 18.1113728
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.33443928029151,
+                    "lng": 18.1127976802915
+                },
+                "southwest": {
+                    "lat": 59.33174131970851,
+                    "lng": 18.11009971970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Villa Källhagen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105877063590661923891\">Villa Källhagen Hotell och Restaurang Djurgården</a>"
+                ],
+                "photo_reference": "AdDdOWrra2lvAFgWt6erdRExFEr5AWLA9aPUcGS7oecq_PGkrwJLEjiJvS8fxnSuPUzvt-rTJiGkLLFw8l-A-sBl9vqhxRWFjCyPybVAYOK8BRNbJLp1WPLpWf_YGIHyVOByFTZ0uZk5GSiZkK3DKO-m1gU-GAvEnE_-MLFMUwkOOAujl6zA",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJj6oaFbKCX0YRxMQy-1B0rjY",
+        "plus_code": {
+            "compound_code": "84M6+6G Stockholm, Sweden",
+            "global_code": "9FFW84M6+6G"
+        },
+        "rating": 4.1,
+        "reference": "ChIJj6oaFbKCX0YRxMQy-1B0rjY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1141,
+        "vicinity": "Djurgårdsbrunnsvägen 10, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3363719,
+                "lng": 18.071643
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.33775908029151,
+                    "lng": 18.0730645302915
+                },
+                "southwest": {
+                    "lat": 59.33506111970849,
+                    "lng": 18.0703665697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Kung Carl",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 972,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115650493440766875600\">Hotel Kung Carl</a>"
+                ],
+                "photo_reference": "AdDdOWrZt0XxCbdbpSe8DoE75fgRgwDproHTzfYSoLIKaPGJZNBSIspYLDVEv4fIcyLE53225Qs7urtLevaws4mX2y_ox8ytR-9UvkPgtuNtLZCXekDbZ_ejausncqWNjV94_4GsppHCPyInmr8N_B4xOsLPaanLhhc-lyDfYVB_27G98AdG",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJpXJIwFydX0YR05bjQKwm3VE",
+        "plus_code": {
+            "compound_code": "83PC+GM Stockholm, Sweden",
+            "global_code": "9FFW83PC+GM"
+        },
+        "rating": 4.2,
+        "reference": "ChIJpXJIwFydX0YR05bjQKwm3VE",
+        "scope": "GOOGLE",
+        "types": [
+            "night_club",
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1756,
+        "vicinity": "Birger Jarlsgatan 21, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.33298399999999,
+                "lng": 18.0574374
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.3343013802915,
+                    "lng": 18.0586587302915
+                },
+                "southwest": {
+                    "lat": 59.33160341970849,
+                    "lng": 18.05596076970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Central Hotel Stockholm",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103656304485535233952\">ProfilHotels | Central</a>"
+                ],
+                "photo_reference": "AdDdOWr9XWOhuE-VVAPNGAYdijoMEGkbRyDvXDoPOUpl6UrLsjc-4xRcKPNS1ijukvZ-o9KqOUDs5QlXI5av50l_Ailn20jCe0QKB1CJBvrn2y2a7x6AThgK40TN7jHYb0vpdYJPV-0QLpIw3F6YoegN8mvUjOCb2FAKWUjgb_YDjFfqTB9L",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJOTKXxGCdX0YRj8sExfBgKeo",
+        "plus_code": {
+            "compound_code": "83M4+5X Stockholm, Sweden",
+            "global_code": "9FFW83M4+5X"
+        },
+        "rating": 4.3,
+        "reference": "ChIJOTKXxGCdX0YRj8sExfBgKeo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1244,
+        "vicinity": "Vasagatan 38, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3325722,
+                "lng": 18.05715
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.33403663029151,
+                    "lng": 18.0585433302915
+                },
+                "southwest": {
+                    "lat": 59.33133866970849,
+                    "lng": 18.0558453697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Nordic Light Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110032912004626730652\">Nordic Light Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWoh5c5PsBFUbTJs2ZBrMFEd_EMny_0kunCSvytdXcxlMiowsyl7f0hMQziouB6v58DQqJdCdAWbUIUVMgzNhRSZT2NWkfEWMx2cprU2eRVxK61tSvgVVa_NgVXrUAjGxTbJsR5R4P8TfgiJAAAOsD_0THGO8pmhUDw9Ov0CydSv895V",
+                "width": 1873
+            }
+        ],
+        "place_id": "ChIJ2UT_f2CdX0YR7z_qs38zu2k",
+        "plus_code": {
+            "compound_code": "83M4+2V Stockholm, Sweden",
+            "global_code": "9FFW83M4+2V"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ2UT_f2CdX0YR7z_qs38zu2k",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1709,
+        "vicinity": "Vasaplan 7, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3181838,
+                "lng": 18.0637996
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.3195444802915,
+                    "lng": 18.06500143029151
+                },
+                "southwest": {
+                    "lat": 59.31684651970848,
+                    "lng": 18.0623034697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Rival",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116472922874019773125\">Hotel Rival</a>"
+                ],
+                "photo_reference": "AdDdOWorni2-LihCEjRMegZ7TJtIE5P-MYEPcxGHSo0xHFHup7Nv-MAd1bne6dkGe69agy6O0y84w5Kk9g1ftH7TpMH6W07b_2OFq1nzbO1410YtUDBm9KYHvYrPgOrztGhRRl2JOqAkk_qbNP2m47GoiCUq6aFW_YwAg2LaNRouHmfOOysm",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJmyzqNeR3X0YRfhATfm0KISQ",
+        "plus_code": {
+            "compound_code": "8397+7G Stockholm, Sweden",
+            "global_code": "9FFW8397+7G"
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "ChIJmyzqNeR3X0YRfhATfm0KISQ",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3035,
+        "vicinity": "Mariatorget 3, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.33348480000001,
+                "lng": 18.0738338
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.3348271802915,
+                    "lng": 18.0750196302915
+                },
+                "southwest": {
+                    "lat": 59.33212921970849,
+                    "lng": 18.0723216697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Nobis Hotel Stockholm",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3614,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111101152154280328461\">Jules</a>"
+                ],
+                "photo_reference": "AdDdOWrF6Ok_94uQhqZqnYOSEReCOJ3MupstELFwloZ_yFPLhOIrz9W9GxlRIIOEUOXr2a8md1QbluXwN-7J5BylXYBVrkoy_4GPJOEfrnAa4J55b4u8SpuCYjjhZqjkwSWQdOlQGn0OIrcbucmXfSy6KLOPZztaAuQVVcrB_K5QHKog3Nf-",
+                "width": 4819
+            }
+        ],
+        "place_id": "ChIJZU6ilFudX0YRMWleWAQ6VkQ",
+        "plus_code": {
+            "compound_code": "83MF+9G Stockholm, Sweden",
+            "global_code": "9FFW83MF+9G"
+        },
+        "rating": 4.4,
+        "reference": "ChIJZU6ilFudX0YRMWleWAQ6VkQ",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1204,
+        "vicinity": "Norrmalmstorg 2-4, Stockholm"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 59.33068059999999,
+                "lng": 18.0597332
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.33196093029149,
+                    "lng": 18.0609499302915
+                },
+                "southwest": {
+                    "lat": 59.32926296970849,
+                    "lng": 18.0582519697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Terminus Stockholm",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 2862,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111028694572745697760\">Hotel Terminus Stockholm</a>"
+                ],
+                "photo_reference": "AdDdOWorDyM_C8yN2ZIlqh8cAtEYrwuzc9YKSmvsz5RHj1Js8aU1SGikmO0-zhIMqYFysJI7CkKjnTDeqzelZBSqozk7QY57Juw8OlynMKO-4mnMTgzl5eHiSnjBBP3Gc4-BMmHeaWZ_qXyz4CgH1q6oSWq7KyiVaD3SqQOsbhrnpMWkZKiI",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ0W35f2CdX0YRRtdebcuF2kA",
+        "plus_code": {
+            "compound_code": "83J5+7V Stockholm, Sweden",
+            "global_code": "9FFW83J5+7V"
+        },
+        "rating": 3.7,
+        "reference": "ChIJ0W35f2CdX0YRRtdebcuF2kA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 654,
+        "vicinity": "Vasagatan 20, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3182921,
+                "lng": 18.0251922
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.31962193029151,
+                    "lng": 18.0266663802915
+                },
+                "southwest": {
+                    "lat": 59.3169239697085,
+                    "lng": 18.0239684197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Reimersholme Hotel",
+        "photos": [
+            {
+                "height": 534,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113378557072362452361\">Reimersholme Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrse7QIgk1AVy2An52FwbX9bEzfpobPadrPbiEzvcxo_vdanP9BYmk6WucctxcaIVAeWwGuaTSGnfSxWaOtio3jlgA4qegdSqD9n5mWqzdMCzkPXCl7ke5C5K_VRa7Gf7sokHENSIwuRAnXlLDr4uVJkl7GJhFj9hAHjD5nhoDSoWuC",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJrw5JU853X0YRiCF8tI6nciY",
+        "plus_code": {
+            "compound_code": "829G+83 Stockholm, Sweden",
+            "global_code": "9FFW829G+83"
+        },
+        "rating": 4,
+        "reference": "ChIJrw5JU853X0YRiCF8tI6nciY",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 555,
+        "vicinity": "Reimersholmsgatan 5, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3247597,
+                "lng": 18.087685
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.32571698029151,
+                    "lng": 18.09099874999999
+                },
+                "southwest": {
+                    "lat": 59.3230190197085,
+                    "lng": 18.08276775
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Skeppsholmen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1367,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109412879674642799582\">Hotel Skeppsholmen</a>"
+                ],
+                "photo_reference": "AdDdOWpxEMMaNynltUS7RWVzrdgchX6zg0pp3xhxcltzn1dWEwv40e9N_wxcosK-2V6hfX_QcaxEoKNkp6sKlErWNlHGwa-gRZmRHJ3tRGo3NdDmViAIz-I2hJ3_9BBS_zj6IN735-OjAflUi9bD5B6bxynblNWXtxRLycIhLr79bAySCZOu",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJtenOqRxxX0YRpiZ0bJ1z7vg",
+        "plus_code": {
+            "compound_code": "83FQ+W3 Stockholm, Sweden",
+            "global_code": "9FFW83FQ+W3"
+        },
+        "rating": 4.4,
+        "reference": "ChIJtenOqRxxX0YRpiZ0bJ1z7vg",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 935,
+        "vicinity": "Gröna gången 1, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.29253000000001,
+                "lng": 18.0841495
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.29398443029151,
+                    "lng": 18.08556273029151
+                },
+                "southwest": {
+                    "lat": 59.2912864697085,
+                    "lng": 18.0828647697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Quality Hotel Globe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1230,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114698296942523645471\">Quality Hotel Globe</a>"
+                ],
+                "photo_reference": "AdDdOWoahjOwlKWvG5elj5mawql74t_s7QqP0yG6ZdPZFFwun5SLsYS8VxYhg-DmrM7_vfNGOxDql-D98kDLzC3s5df9iesw3utgnsF13z094SdvcgnfHT7hcGZ86ydG_qzGhjlkPOvhZcK-h_aF3QcQX-matnxulW2f7lDBJt3YQXYEej8C",
+                "width": 1856
+            }
+        ],
+        "place_id": "ChIJD4eBGCR4X0YR0juz3BMblMI",
+        "plus_code": {
+            "compound_code": "73VM+2M Stockholm, Sweden",
+            "global_code": "9FFW73VM+2M"
+        },
+        "rating": 4.2,
+        "reference": "ChIJD4eBGCR4X0YR0juz3BMblMI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4042,
+        "vicinity": "Arenaslingan 7, Johanneshov"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.30159889999999,
+                "lng": 18.1061634
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.30281833029149,
+                    "lng": 18.1072628302915
+                },
+                "southwest": {
+                    "lat": 59.30012036970848,
+                    "lng": 18.1045648697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Best Western Plus Park City Hammarby Sjöstad",
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100895770599553596626\">Best Western Plus Park City Hammarby Sjöstad</a>"
+                ],
+                "photo_reference": "AdDdOWo-BqQGXHST6ME8Iz80wWPnl9mveVc2qvSp10qWSgIWtmZF-ps9mUvyN23Iru7HAnHwt2dMPphcBQrwD7FyQ6LMhUyJMUi57xqlr3j5GNaRHKEQbbQmqUt7_XGsanxjLbnXKmjwBAQ19o65C3E-2HdBLacRdt2p4zIkysgh_Xdupcbb",
+                "width": 2880
+            }
+        ],
+        "place_id": "ChIJTVAc4RZ4X0YRN8s-RTVCWpA",
+        "plus_code": {
+            "compound_code": "8424+JF Stockholm, Sweden",
+            "global_code": "9FFW8424+JF"
+        },
+        "rating": 4.1,
+        "reference": "ChIJTVAc4RZ4X0YRN8s-RTVCWpA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1650,
+        "vicinity": "Midskeppsgatan 6, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.33779449999998,
+                "lng": 18.0795512
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.33916203029149,
+                    "lng": 18.0810160802915
+                },
+                "southwest": {
+                    "lat": 59.33646406970848,
+                    "lng": 18.0783181197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Mornington Hotel Stockholm City",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 819,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110336882930459413123\">Mornington Hotel Stockholm City</a>"
+                ],
+                "photo_reference": "AdDdOWo71mHkqhOTiG8AsBijfW3JwTH17aukXvbyizltvQ-TabuLy-Vi61GhESJyW6lrRKgUxwa0QiwKIePUcCQiPwcbHHXvDOrmaLa6DU3QVGdTrNjaA_ef4LyU_4YEkXaC1GIu7eLaAf4zcDO2juTJImYYybCduzV5zRZ7Gr03EZU5_667",
+                "width": 1229
+            }
+        ],
+        "place_id": "ChIJlcOc3kSdX0YR58GBu8ss74M",
+        "plus_code": {
+            "compound_code": "83QH+4R Stockholm, Sweden",
+            "global_code": "9FFW83QH+4R"
+        },
+        "rating": 4.2,
+        "reference": "ChIJlcOc3kSdX0YR58GBu8ss74M",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1636,
+        "vicinity": "Nybrogatan 53, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.3338316,
+                "lng": 18.0624326
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.33520998029149,
+                    "lng": 18.0638305302915
+                },
+                "southwest": {
+                    "lat": 59.33251201970848,
+                    "lng": 18.06113256970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Klara",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3152,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102498410095156947926\">Scandic Klara</a>"
+                ],
+                "photo_reference": "AdDdOWr3pIvqVRLpPIdHsPdXHcJSNOhi9KY71te-5rnaUqupG7IH_8rNe6BvGejj9hnI9-mSKLzzvLF5oLDpoXzwOoyNaVzQpsih-r-L5MgxBVAxLcedWXoTeAiRFKBrpC2rP1_EjTvLtRAT6-mFgrDbOxkDmjl5fUhpIVmChAyA-vC4jM4S",
+                "width": 4724
+            }
+        ],
+        "place_id": "ChIJl77I-V2dX0YRV0UemjmsPYU",
+        "plus_code": {
+            "compound_code": "83M6+GX Stockholm, Sweden",
+            "global_code": "9FFW83M6+GX"
+        },
+        "rating": 4,
+        "reference": "ChIJl77I-V2dX0YRV0UemjmsPYU",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2277,
+        "vicinity": "Slöjdgatan 7, Stockholm"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 59.33433849999999,
+                "lng": 18.0590951
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 59.3357246302915,
+                    "lng": 18.0604100802915
+                },
+                "southwest": {
+                    "lat": 59.33302666970849,
+                    "lng": 18.05771211970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic No 53",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5304,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108585635028173461017\">Scandic No 53</a>"
+                ],
+                "photo_reference": "AdDdOWpk8thVv-2SXvJlUdYRuRLmS2-DsU8gVx-lQt7Kxixl02jfycQIZI62kTx1OV66jfTYWhDl3lPOSjKeQcMK44datE0NWpxL_pTVUxXYQUXF8O-WqafQOPYbsaKQTtpKD9uPhztQaIum2lO1lfvSO53IJvlaTWSDgVc7EVpNAq3yUcth",
+                "width": 7952
+            }
+        ],
+        "place_id": "ChIJF-e87WadX0YR5CLKSrpRn-c",
+        "plus_code": {
+            "compound_code": "83M5+PJ Stockholm, Sweden",
+            "global_code": "9FFW83M5+PJ"
+        },
+        "rating": 3.9,
+        "reference": "ChIJF-e87WadX0YR5CLKSrpRn-c",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2179,
+        "vicinity": "Kungsgatan 53, Stockholm"
+    }
+]

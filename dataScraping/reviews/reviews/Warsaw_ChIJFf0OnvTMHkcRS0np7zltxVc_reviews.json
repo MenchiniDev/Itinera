@@ -1,0 +1,66 @@
+{
+    "name": "Bistro Bordo",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Вікторія Макарова",
+            "author_url": "https://www.google.com/maps/contrib/108569440478772892886/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLx9pOyaVokqTkO6UIxhvCUHozPm0FgbTcsnst9VKIbWDA1LQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "Great location and even better food! I think this is the perfect spot if you come to Warsaw for a first time, live in the center and have to spend some time before check-in😅\nThe food is tasty, seasonal menu is always interesting and full of dishes that you will definitely want to try.\nThis time we had ravioli with shrimps (they're just🤌chef's kiss), salad with grilled halloumi and pork in honey and soy sauce. Everything was great.\nI also recommend to try their salad with salmon and sweet potato fries.\nNice service, the staff speaks English. Atmosphere is nice and chill, also the decor is fun.\n\nP.S. Their cocktails are top-tier as well.",
+            "time": 1714325841,
+            "translated": false
+        },
+        {
+            "author_name": "Anna dG",
+            "author_url": "https://www.google.com/maps/contrib/100989053772378940463/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWm1z2KMsLNfoJF5kWSUYCt1s7OKbsXWvsIkJxtCc-5f7ecIsJ7=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Perfect place to meet friends in the centre. The food was very good with reasonable prices. Good service .",
+            "time": 1731858332,
+            "translated": false
+        },
+        {
+            "author_name": "Ivan",
+            "author_url": "https://www.google.com/maps/contrib/107579422503336801951/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe0LAAEa53A2d4sGiHt9EYJ5kG3_2jp28KVxYgDMGxrj_PxA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "We keep coming to this restaurant and the food seems to be always top-notch. Breakfast or lunch, you won't be disappointed. Great lunch specials as well",
+            "time": 1705318226,
+            "translated": false
+        },
+        {
+            "author_name": "bonnie kelly",
+            "author_url": "https://www.google.com/maps/contrib/110322113935232314753/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4cX1U6cIlZJ_0BmWs1FCNYPA_iSe6LKwdLhOB2stiagfS_A=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "What an incredible dining experience!!\n\nWhile visiting my nephew and his family in Poland, we stopped at their favorite bistro - Bordo for lunch.\n\nWe selected from the seasonal menu where we enjoyed sipping on delicious watermelon lemonade so refreshing. My niece and I ate a fantastic asparagus and halloumi cheese salad.  My nephew enjoy the focaccia club sandwich and side order fries and my great niece loved her Alfredo fettuccine. The portion are plentiful so come with an appetite or be prepared to bring some food home.\n\nWe enjoyed the patio because it was a perfect day to sit and relax outside.  However, there is plenty of sitting inside dining with charming decor.\n\nOur server - Karolina did an amazing job. Her food and drink recommendations were spot on. Her service was prompt and attentive.\n\nAlso note the breakfast deal here. My family highly recommends it!\n\nIf in Warsaw, this bistro is a must do.",
+            "time": 1686135753,
+            "translated": false
+        },
+        {
+            "author_name": "Daniel Hendo",
+            "author_url": "https://www.google.com/maps/contrib/106423067684880738380/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbD8A2ipNF6dFBZ4EIbWnTtehh5Nyz_CrFgpXiawfjJmQtOF4=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Absolutely wonderful establishment and very kind staff. Cheap drinks and eats, especially for such a central location, with plenty of foot traffic for people watching. Pavel is a particularly excellent human and catered to my every need. Will be back again, even if it is only for the kindliness and hospitable manner of the staff.",
+            "time": 1725023300,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Fischer",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Rachel G",
+            "author_url": "https://www.google.com/maps/contrib/112424740492682769015/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmg5FUgsBkDFGi5haYoe5yFm0lcPN2SA4Z5YrMXj9y-CUo2-6xkA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "Fresh food, quick, nice to sit in and out, free wifi. Would have given it 5 stars if the vegetarian sandwiches options were wider  (emmental only).",
+            "time": 1524902539,
+            "translated": false
+        },
+        {
+            "author_name": "Durra Allougi",
+            "author_url": "https://www.google.com/maps/contrib/105926516020123367251/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7EWR8jXxvuutBxPzH2-lTjd8vdnua5po2E4enUzuvvvrc6A=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "8 months ago",
+            "text": "I always enjoyed their foret noire but to that woman who rolled her eyes on me because I only wanted the cake but no coffee, honestly how rude? I'm paying what it costs so treat people with respect",
+            "time": 1711842685,
+            "translated": false
+        },
+        {
+            "author_name": "Frans Hondeman",
+            "author_url": "https://www.google.com/maps/contrib/109703532693754883435/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVz232yAnlsnmQ8OLYdGO1JC-UZfJuk-rpWndTCn_8rN9hWXcPKHA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great local bakery, friendly staff.",
+            "time": 1721411749,
+            "translated": false
+        },
+        {
+            "author_name": "Anna Lauva",
+            "author_url": "https://www.google.com/maps/contrib/100816043996535938510/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLLAlYqFE3F06M8qwo26_zk_QEtGDDJcFZ9_rNBs0yJ8i8u3k=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "5 years ago",
+            "text": "Extremely rude waiters, do not speak or understand english. Simple \"white coffee\" will not be understood. Do not suggest!!",
+            "time": 1562323684,
+            "translated": false
+        },
+        {
+            "author_name": "Quinten van Wesel",
+            "author_url": "https://www.google.com/maps/contrib/112444231882835562548/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW65IYhbiMkaxrpSpKZZYc3hEMyV_AWqQ1llp_D7kaJpe5rUTnkUg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Amazing place to have breakfast. The best we could find in Luxemburg!",
+            "time": 1599639519,
+            "translated": false
+        }
+    ]
+}

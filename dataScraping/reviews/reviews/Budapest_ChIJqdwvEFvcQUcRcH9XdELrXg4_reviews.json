@@ -1,0 +1,66 @@
+{
+    "name": "Budapest Jazz Club",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Agusto Chivossio",
+            "author_url": "https://www.google.com/maps/contrib/111635744550489558937/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1on_KqyxaO9s4HJi4P2YQd56YPxb6wW97LzI6Qnr6_c_aUSKf=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Budapest Jazz Club is a really decent venue, perhaps unexpectedly slick and white colar. First i liked the fact that the restaurant and the concert hall are separated , unlike i.e. most of the leading New York clubs. So people are actually either eating (as I did at first) or listening to jazz music (I did that too). I found both experiences equally satisfying, obviously in each own way. My grilled pheasant breast came perfectly cooked with nice sides and garnishes. The small band at the concert hall did their job too. We will return.",
+            "time": 1730068161,
+            "translated": false
+        },
+        {
+            "author_name": "Maxim Kovalenko",
+            "author_url": "https://www.google.com/maps/contrib/114560436317800539485/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzB9J8f8ipI2Q8-xHD6TPtYO74FznoOMVe7k6SKJWnogI4MA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Great music, different artists play every night. Tickets range from 3k - 5k. Large variety of drinks - spirits, cocktails and wines - and good prices.",
+            "time": 1732967884,
+            "translated": false
+        },
+        {
+            "author_name": "Seyko Isakov",
+            "author_url": "https://www.google.com/maps/contrib/116141101761726667769/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUW3SNQrhFLUiVJXKVF45Y2K9u-NjGf4f-zqu35K_sNkjfR_8oJWQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Average meals (had a big burger)\nDecent drink selection.\nService - below average. My wife's meal was delayed with more than 1 1/2 hours - with no apology at all.\nAtmosphere - nice vibe.\nMost probably, I will not come back.",
+            "time": 1730008246,
+            "translated": false
+        },
+        {
+            "author_name": "Mara Lopes",
+            "author_url": "https://www.google.com/maps/contrib/111124053810091589510/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaT_59APMaASSeHe5oR31dMZTC9SnIHxhHrRPdmQxgK5mHZTXK=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Nice place, great location, and well designed inside. They have very good concerts and the attendance are also great 👍",
+            "time": 1731193561,
+            "translated": false
+        },
+        {
+            "author_name": "Louise Carter",
+            "author_url": "https://www.google.com/maps/contrib/108007606808802512072/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVBEMxO6-uWREgIiPpDHWJmPZukK1T11pb92DvOccTtT1XHxQ_qg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The concert we paid for was great 👍 drinks were good value and staff was very friendly.",
+            "time": 1730356640,
+            "translated": false
+        }
+    ]
+}

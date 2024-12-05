@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Gromada",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Ham “Hamleto” Cons",
+            "author_url": "https://www.google.com/maps/contrib/117906387193993625867/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULZhMtKnFEq4Mkg8Rtv11ZCO8buvBuocejalZG32ZFUm0-deXm=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 weeks ago",
+            "text": "The hotel’s location was excellent.\nThe room was a double, and there was a minor issue with the toilet.\nThe floor tiles were cracked, and the sink, shower cabin, and faucets were slightly outdated.\nThe hotel’s breakfast was good and varied.\nThe rooms were cleaned daily.\nOverall, it was a good hotel.",
+            "time": 1731852307,
+            "translated": false
+        },
+        {
+            "author_name": "Gerald Tomyn",
+            "author_url": "https://www.google.com/maps/contrib/113075304307943064666/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDogTu3jVrU6kX_jU5GaJ3oHNUGFyZ70crto9vnP5AxLZkn6IH=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This hotel is a welcome sight when staying in Warsaw. The rooms are big and comfortable. Rooms are air conditioned also. The shower is big and the water is hot. The breakfast is very good. Service is efficient.\n\nOne small complaint about the shower: there is no door, so the water gets out onto the floor of the bathroom. Also no shelf inside the shower itself so nowhere to put things.\n\nOverall this is the best hotel I've stayed at in Poland.",
+            "time": 1720940721,
+            "translated": false
+        },
+        {
+            "author_name": "Assad Hamid",
+            "author_url": "https://www.google.com/maps/contrib/106859594564592476870/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXitpFmj_deTwFglwsIr90yUrov3qsXCAWtB3i9Tmf4HFIs8VGd=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Best location, walking distance to every touristic place, night life area, sprinkler water, tea/coffee was complimentary.\n\nIf you can get under discount this hotel would be best to choose mainly because of its location.",
+            "time": 1732512477,
+            "translated": false
+        },
+        {
+            "author_name": "Richard Wilson",
+            "author_url": "https://www.google.com/maps/contrib/116576266504116547064/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL18J_XpiO6GrrzEZv6GC14_R8SMnS85lPczGZ11qNRbR3Lig=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I spent two nights here with my partner. The room that we were allocated was massive, with a separate living area, bedroom, bathroom/toilet, and another separate toilet. The beds were comfortable, and although there was no air-conditioning, the room temperature could be easily varied by opening the various windows in a slanted position.\n\nOur room rate was very reasonable and included breakfast, which had a wide variety of cooked and cold dishes.\n\nThe hotel itself is well positioned in relation to public transport and the old town. I only had two minor niggles, the first being the shower, which sat over a bathtub with a curtain. It was impossible to stand up and shower because of the positioning of the head. Second, there was a large amount of roadwork activity outside, and the workmen started before 6 a.m.\n\nDespite these niggles, I would still highly recommend this hotel for its value for money and location.",
+            "time": 1727428127,
+            "translated": false
+        },
+        {
+            "author_name": "Ovidiu Voicu",
+            "author_url": "https://www.google.com/maps/contrib/104524394773355100767/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_kykPRyHlarPLr9WX0fwpCfcKiIno3m1jVl9mMWgOH--JCBPK=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "4 months ago",
+            "text": "The location is saving this place. Otherwise, it is just an old, tired hotel that needs urgent refurbishment.\n\nI stayed for three nights, in a single room, on a business trip.\n\nEverything was old: furniture, carpets, towels, sheets. The towels and sheets were clean, but the rooms and hallway were not so.\n\nMy windows were on the back side, towards the old and very noisy heating/cooling engine.\n\nThe bad was very small. Inevitably, the mattress was old and uncomfortable.\n\nThe breakfast was poor. Despite the relative variety, the products looked and felt like the cheapest option was selected.\n\nI wouldn't stay here again.",
+            "time": 1721938162,
+            "translated": false
+        }
+    ]
+}

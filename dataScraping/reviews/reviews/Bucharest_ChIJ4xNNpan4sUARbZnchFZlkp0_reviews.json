@@ -1,0 +1,66 @@
+{
+    "name": "SkyBar",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Megan Smith",
+            "author_url": "https://www.google.com/maps/contrib/115801030237227603028/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0yIM8dP3JUFH7r3koR6W0rxQtrHf7RqZyaxy08vQ9uNqOGBLY3A=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Nice views of surroundings area. The drinks were really good and so was the service. We went right after opening so it was nice to b there without a crowd.",
+            "time": 1679310661,
+            "translated": false
+        },
+        {
+            "author_name": "George Mihai Kanal D",
+            "author_url": "https://www.google.com/maps/contrib/103188808083910513172/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw_pJOzfPuiL96tnfb9PAuxKXnNPFiPaFLh3gbeyzgew7mHH4E=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Good coffee, good food, great view and atmosphere in one cool place in Bucharest. This roof top bar deserve a visit or two!",
+            "time": 1646525451,
+            "translated": false
+        },
+        {
+            "author_name": "GAN",
+            "author_url": "https://www.google.com/maps/contrib/100443503552373566881/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBrspY1Ux5LlbWoY_SOMaPsZ5i6U1LsTlq44s_GKLtNL6alWck=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "5stars for the interior design\n5stars for the drinks\n2stars for the food\n\nThe Carbonara pasta had no taste ( not a good choice of cheese) and they were Al dente ( personally don't prefer them like that).\nThe salmon pasta had the salmon cooked until it flaked ( dry and sticking to your teeth).\n\nOverall a great bar experience but I will not be coming back for the food.",
+            "time": 1614427619,
+            "translated": false
+        },
+        {
+            "author_name": "David Jareño Martinez",
+            "author_url": "https://www.google.com/maps/contrib/112321838808559541677/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWY7N5rccS-r3x582-s99vorIahFhO2r_pQIGgBcVH11y71N1Y5=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "Very nice ambiance. Good and large menu. Sights are wonderful and music well chosen. I took à very good white hot chocolate",
+            "time": 1511692547,
+            "translated": false
+        },
+        {
+            "author_name": "Madalina Pangrate",
+            "author_url": "https://www.google.com/maps/contrib/103197750948623575255/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjwiEXnfVykpr5Ojcz6NRoaTxAd6-iwcbo-Kc85qngnk3t9toBQg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "I've tested them for an event and the experience was really good. Waiters were nice, coffee was tasty, the view is spectacular. If no sound system is in place, can be quite noisy from the boulevard cars or ambulance. Not sure how the regular service is but I'll come back to try it for sure.",
+            "time": 1633507414,
+            "translated": false
+        }
+    ]
+}

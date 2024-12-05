@@ -1,0 +1,66 @@
+{
+    "name": "The Davenport Hotel",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Micah Storer",
+            "author_url": "https://www.google.com/maps/contrib/113293438889618809913/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvHBk0ZY2PpXpGb5SSav7saxOUA55sYSek4LRJ98dHp0H6tTfFFg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Beautiful hotel in the heart of the city.  33 minutes walking from the Guinness storehouse and only 11 minutes from the Book of Kells. The staff was friendly and when we reported there was an issue with the iron, they replaced it within 5 minutes. The bed was super comfortable and the in-room coffee machine made a great cup of espresso. The breakfast had great selections for all tastes.  Fresh pressed apple juice and orange juice and smoothies.  Eggs prepared any way you wanted and Irish sausage options galore.  Pastries were handmade and delicious.",
+            "time": 1732721844,
+            "translated": false
+        },
+        {
+            "author_name": "a on",
+            "author_url": "https://www.google.com/maps/contrib/113199944654657584985/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcyrd31DQ3ibFLvAcyd_JWbsI4wJ3VacSGpFyE-GumBIlx4Dpzjg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "a week ago",
+            "text": "If you want to base yourself here, relax for the evening and enjoy a drink at the bar, look elsewhere. Bizarrely, for a city centre hotel, they refuse entry to the bar and facilities both to the public and residents well before official closing time. Very strange and poor service when the sector is allegedly looking for more business. If you simply want a bed for the night, it's comfortable. Personally I won't be visiting the place again.",
+            "time": 1732316706,
+            "translated": false
+        },
+        {
+            "author_name": "Rhya Hamilton Felton",
+            "author_url": "https://www.google.com/maps/contrib/117725122816561481324/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKToKRW5J9JlQUGk5cF_lNWScl0nnCbEBNwQ22HF2MJz8RhkA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "We had the best time ever this morning in The Davenport. It was my grandmothers 94th Birthday and they couldn’t have been kinder to us. The staff were so lovely and accommodating and we felt so at home. Highly recommend popping in here for a meal if you’re in the city",
+            "time": 1732125428,
+            "translated": false
+        },
+        {
+            "author_name": "Alexandria Grigull",
+            "author_url": "https://www.google.com/maps/contrib/103876519668092860775/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwPR8ZXFlTFX3DRknNSgBjWQO04_NcgR2UrvqrfNSeRkJUOA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We loved our experience at the Davenport. We arrived at the hotel very late and they were able to provide us options with late night food which was awesome. The following morning, they also provided us with a map of attractions and list of personal suggestions. Because we were exploring all day we were able to keep our luggage safe and stowed away. Parking was in a locked garage which felt safe. Upon departure, Danial was nice enough to carry our bags out for us! We are very happy!!",
+            "time": 1726254388,
+            "translated": false
+        },
+        {
+            "author_name": "Jimmy's Gardening Allotment",
+            "author_url": "https://www.google.com/maps/contrib/107507872671919153000/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWyg_fgya14RJRrDq3KCd6Qv-BCVX1I4F_d-nXtb9oINh8yO7H6Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Myself and my son who is severely disabled stayed here for 2 nights as we were doing the Dublin Marathon. The location of the hotel was very close to the start and finish line of the MarathonThe staff were really nice and helped us when we needed it, very helpful. The room was nice and comfortable. I will book there again for next years Marathon 2025...Thank you",
+            "time": 1730133550,
+            "translated": false
+        }
+    ]
+}

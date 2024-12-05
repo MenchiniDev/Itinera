@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Dei Pittori",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Yvo Boudenoodt",
+            "author_url": "https://www.google.com/maps/contrib/114411799326995659365/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXScd4h58D-92w74-fpt8wZsovL_h54k2G72pyVo_RCccvvfB25=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Hotel with Extremely friendly and supportive staff at 400 meters of the city center.\n\nVery good breakfast, excellent coffee and very clean rooms.\n\nRecommendable if you want to visit Turin !",
+            "time": 1720524199,
+            "translated": false
+        },
+        {
+            "author_name": "Ken DeCesari",
+            "author_url": "https://www.google.com/maps/contrib/107605497207321077864/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdUlKiW4hreL8D06OKkQw_XAb4rO3aL5-FalfJNGJNrqOfDXA6=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "What a great surprise in Turin. The room we stayed in was very comfortable and well appointed. The balcony from our room was spacious and included a large couch, table and view of the street below. The steam shower was an extra bonus that was not expected. The staff was helpful and friendlier than you could ever expect. The restaurant offers a fantastic menu and wine selection while not being too expensive. We would go back here in a heartbeat.",
+            "time": 1499774297,
+            "translated": false
+        },
+        {
+            "author_name": "Bogdan Panait",
+            "author_url": "https://www.google.com/maps/contrib/100045118276100865267/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWo1gfOG5NLIMCt5j9mWUc4y4s5No5WLy4_KA-F23V8WBn6wbIU=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Short version: The staff tried to sneak an extra bottle of wine on the bill. When confronted, they reluctantly removed it off the bill, no apologies.\n\nHad the tasting menu. Some interesting dishes, but nothing amazing taste-wise. For the main course, the beef was good, but the accompanying potatoes were bland and dry. The mousse desert was particularly disappointing - high in sugar with an unpleasant texture.\n\nWhen we pointed out we were charged an extra bottle of wine, the staff refused to take us seriously until we showed them the bill. Ended up being charged 3 times for the dinner due to issues with their POS. We had to leave my card details with them, as payment would not go through. Despite agreeing they'd wait for the previous payment to settle, the staff used the card details to make a payment as soon as we left the restaurant (my Revolut app has instant payment notifications).\n\nSo mediocre food for the price and dishonest staff who try to get away with theft.",
+            "time": 1686507851,
+            "translated": false
+        },
+        {
+            "author_name": "Michał Kaczmarek",
+            "author_url": "https://www.google.com/maps/contrib/113562052481464120842/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtwFPu_tuAW_nf5sMGIo2-AEs0NJSSjtG_PsXToqRFsJlJPu3J=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "4 years ago",
+            "text": "The hotel is definitely very stylish and the breakfast choice was better than usually. However:\n1. it was freezingly called in our room and turning the A/C unit to heat was making the air really unfresh, while not completely heating the room.\n2. the shower was taking ages to get warm and it was leaking on the floor.\n3. at the breakfast there was only one salt shaker available for all 10 tables and the service vehemently protested when we took it for a few minutes to our table.",
+            "time": 1579620548,
+            "translated": false
+        },
+        {
+            "author_name": "Stefano Oggeri",
+            "author_url": "https://www.google.com/maps/contrib/102825599612538883306/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeneVjZdzN2beAkJpJ4RRT6cp_QrvPCzwEJj7BeR30-jtYO5Lm=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "5 years ago",
+            "text": "Food is not great and hides itself behind flashy fusion-like names in the menu. Ambience is ok, but it's part of a hotel and it shows. Service is undecided between courteous/formal and friendly/open. I wouldn't consider it, unless you are staying in the hotel for one night and all other places in the area are booked. Meh...",
+            "time": 1570843877,
+            "translated": false
+        }
+    ]
+}

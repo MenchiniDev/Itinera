@@ -1,0 +1,66 @@
+{
+    "name": "La Vietnamita",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Michele Mereu",
+            "author_url": "https://www.google.com/maps/contrib/105396743939575832806/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7ADJhkaBlgM-J28eC7sRDswr-sIviZ8pgAiIpfU5xpO70kRWbfQ=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "I had a great meal at a Vietnamese restaurant with very reasonable prices—I'd call it a low-budget option for Barcelona. Everything we ordered was delicious, the service was fast, and the entire staff was friendly. The place itself is charming and well-maintained.",
+            "time": 1730657806,
+            "translated": false
+        },
+        {
+            "author_name": "Oanh Trieu",
+            "author_url": "https://www.google.com/maps/contrib/111605925641630031458/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJQr3qYUJmrL5VqidXWA-oNKKJsHTm04FZTwOa1O7BgDCAIUkD=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "As a Vietnamese person, I really enjoyed La Vietnamita! Although not entirely authentic, the food was still delicious! My waitress Joanna was super sweet and kind, and spoke English very well! :)",
+            "time": 1717058317,
+            "translated": false
+        },
+        {
+            "author_name": "Andrea Mai-Tran",
+            "author_url": "https://www.google.com/maps/contrib/116349656355331327814/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsPXH3Ti1R0Ow6ukBb2pyvk1NuMKTLPxYA4f7VDklphHy7Oi8E=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "If you’re looking for Vietnamese street food, this is not the place. If you’re looking for yuppy, clean Vietnamese food, then come. Nice service and chill ambience.",
+            "time": 1719578518,
+            "translated": false
+        },
+        {
+            "author_name": "Maria Rubies Vistuer",
+            "author_url": "https://www.google.com/maps/contrib/108237888031671419982/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8rK-20FWLPK2owvA43McNwyW77sQyd_ZZL89lr7Lzd3FCFk0=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "I love this place. It has become one of my daughter's favorites too (6 years old). We love ordering soup on cold days, and for sharing, the fried rice rolls or the cauliflower and gyoza are fantastic. As for main dishes, any curry version is delicious. If you want something fresher, I recommend the mango salad. And let's not even talk about the desserts... the tapioca dessert is amazing. Highly recommended for going with friends, a partner, and also with children. The drinks are also really tasty.",
+            "time": 1706698603,
+            "translated": false
+        },
+        {
+            "author_name": "Dvir Bar",
+            "author_url": "https://www.google.com/maps/contrib/101193917712550823981/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdxFVWEMlsSo9phtenn64woLT_GmWjhkZEzKfCqnLTXXGw0IM=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "7 months ago",
+            "text": "This place has a lot of potential, a small, neighborhood place, cute and with good intentions, but I didn't feel that the food matched the authentic Vietnamese flavors. We have already come across more successful Vietnamese restaurants in Barcelona and it is a shame that the flavors in this place are not strong enough to make us want to go back there. The gluten-free advertising was also not one of the best we've come across at a level where we weren't sure if what we were being told was really so and we can be calm",
+            "time": 1712758357,
+            "translated": false
+        }
+    ]
+}

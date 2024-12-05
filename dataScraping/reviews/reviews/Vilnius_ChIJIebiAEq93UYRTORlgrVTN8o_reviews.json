@@ -1,0 +1,66 @@
+{
+    "name": "Panorama Hotel",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Tatiana Kazako",
+            "author_url": "https://www.google.com/maps/contrib/115684894396903248612/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC6w7GHn4quh0AzcUL55cg6v3nhAHSAQeulqMxSDqnFHm2U-A=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "Too old fashioned tired rooms. Uncomfortable bed and pillow. Also room is cold, not enough heating. No soap. No air conditioner. No telephone. No refrigerator. Personal from reception tried to help me and gave a kettle. Hotel is positioned like pet friendly but price for my small baby was too high. Breakfast is ok: not tasty but you can find something just not be hungry . Coffee is terrible. There is reconstruction front of hotel and too noisy.",
+            "time": 1733153525,
+            "translated": false
+        },
+        {
+            "author_name": "Никита Горбач",
+            "author_url": "https://www.google.com/maps/contrib/102083164268934007821/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKi-FAKegOn-AxlIh5R989IKHP-nOmpQbaC2zxqcZgIV4kzCg=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "in the last week",
+            "text": "This hotel was terrible! Even Ibis styles which is located near the airport and it will be better. In the bathroom I found rust. The room is so small that they did not even install normal air conditioners! THERE IS JUST A FAN!! I gave 2 stars because it is located near a beautiful park, there is McDonalds and good food. But for $ 50 I would choose Ibis.",
+            "time": 1732816380,
+            "translated": false
+        },
+        {
+            "author_name": "Toby Wellington",
+            "author_url": "https://www.google.com/maps/contrib/115332192320363164195/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV77e33CQ5ZI55XSoHu28q9HVkgL6rlmK_w7OYi1KpezcW3Q=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 3,
+            "relative_time_description": "2 months ago",
+            "text": "Pros:\nConveniently located near the main bus station and the old town. Cheap place to stay. Very friendly staff.\n\nCons:\nThe hotel is dated. Stains on the carpets. There is an odd smell everywhere. Very small shower with a busted showerhead. Reminds me of staying in a hostel. The walls are very thin, you can hear neighboring guests, anyone in the hallways, and even people on the street (I was on the 3rd floor). Breakfast is free but is far from the best hotel breakfast I've had in the Baltics.\n\nYou get what you pay for. One of the cheaper hotels in the area. Just know the trade-offs.",
+            "time": 1728190254,
+            "translated": false
+        },
+        {
+            "author_name": "William J Hayden",
+            "author_url": "https://www.google.com/maps/contrib/111372015148592826943/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpTCIhygAx_ANzhuu2qAEYcLjbnA4z4irZb9mKXFWZFAKd9D_h=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "This hotel has a nice exterior and a beautiful reception area.  However, the rooms are below minimal for amenities:  no refrigerator, no USB outlets, very, very few wall power outlets - none where you need them, one poor quality pillow each, no air conditioning, couldn't drink the water and they wouldn't provide any for brushing teeth, bathroom fixtures from the stone ages.  I will not stay here again.",
+            "time": 1725341607,
+            "translated": false
+        },
+        {
+            "author_name": "Samira Sh",
+            "author_url": "https://www.google.com/maps/contrib/109605916091553606453/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSIlFwe4PU0yPexLI5WCFjBLesNvmqqmklYXaKQWzHX51CJVKA=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "The location and the view of the room we were given was nice. But the hygiene of the room was very poor. The faucets were never cleaned, the bed spreads had stains, and the carpets were dirty.\nThere’s a construction site outside which wakes you up at 7 if your room is facing it (which was the case for us).",
+            "time": 1724339150,
+            "translated": false
+        }
+    ]
+}

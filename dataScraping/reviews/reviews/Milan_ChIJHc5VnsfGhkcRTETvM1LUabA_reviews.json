@@ -1,0 +1,66 @@
+{
+    "name": "The Dhaba",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Raj Lall",
+            "author_url": "https://www.google.com/maps/contrib/100374491128305315233/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkWYjrh74JRZ42y0yIBhLqTwK8EWOfCfbN7-AJzIMiF7hTVSaI=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Was longing for some hearty Indian food in Milan and found just that. Good, wholesome food with taste of home. A chilled kingfisher beer was a perfect complement. The owners were gracious. Would absolutely recommend it. R&P New Jersey",
+            "time": 1725263403,
+            "translated": false
+        },
+        {
+            "author_name": "Chloé Lempereur",
+            "author_url": "https://www.google.com/maps/contrib/113683800340918829951/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnB-5QEDi6U-MmKbQHXCQHR1CKkwyHDta7MqzTVHTdW5lAEYv1=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very good indian food and very nice people 🥰 Thank you !! Highly recommend 😉",
+            "time": 1723981932,
+            "translated": false
+        },
+        {
+            "author_name": "Aditya Mali",
+            "author_url": "https://www.google.com/maps/contrib/117547429393899641001/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2S_giojS4HLv0W6aSdpijKC0lYZbjON7ALgWKZ0430DBZ0oJhkQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "12 months ago",
+            "text": "This is one of the best Indian restaurants in Milan as per taste. I have tried vegetarian dishes and all were really good. Ambience is also good. They serve authentic and non generic north indian dishes like missi roti, sarson da saag, and many more which are Indian dishes that you won't find in other restaurants in Milan.\n\nService was good. Prices are a little bit on the higher side. I will suggest malai kofta (spicy version) and lahsuni naan (garlic nan).",
+            "time": 1702207898,
+            "translated": false
+        },
+        {
+            "author_name": "Adi Nicolae",
+            "author_url": "https://www.google.com/maps/contrib/117483877804748079608/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRHO4VYni9yn6zxFlLuXgyapZbXcZ8v49fj-TUmKlIjXTetdh5=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "The food is very expensive and it doesn't taste as good as you expect. When I asked if the rice was included or I needed to pay more, he continued to enumerate the things I could get with the main dish and ignored me even after I tried to ask multiple times. The main dish was 13.5€ and then the rice was 5.5€ and the portion was very small.",
+            "time": 1729455790,
+            "translated": false
+        },
+        {
+            "author_name": "Mohamed Bucheeri",
+            "author_url": "https://www.google.com/maps/contrib/107339825041992588846/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWONutLMZsUGsI7x6TNuQ6WOZZ43ZlP_cBSVk-VXcV6xCa7EMtk=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Tried it for take out\nMutton biryani was excellent\nI wish there was a side of yogurt with it\nHighly recommended",
+            "time": 1724595966,
+            "translated": false
+        }
+    ]
+}

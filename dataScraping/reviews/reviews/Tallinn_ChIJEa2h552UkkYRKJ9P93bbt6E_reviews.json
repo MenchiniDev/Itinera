@@ -1,0 +1,66 @@
+{
+    "name": "Pizza Americana",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Giorgi Vepkhvadze",
+            "author_url": "https://www.google.com/maps/contrib/104590676302574795677/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBw2SYRGF-sRnuqZrKwmDpPRlOKoe9tvMeESRPKtMarHHpGapb=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Right, honestly. Since I got here this place has been my go to anytime Im looking for some great food. Their Pizza is really good.\n\nBut, if you're going there for the first time, try their chicken burger menu, one of the best burgers I've ever had. 10/10 from me.",
+            "time": 1729602857,
+            "translated": false
+        },
+        {
+            "author_name": "Vakho Kachukhashvili",
+            "author_url": "https://www.google.com/maps/contrib/116558603726249086294/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkH1cQ6rr4yx4VotEDcMp9EiWGaDzPHKHXxQn-6ypKHHnODn3Rjw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "A fine place with the tastiest pizza ever. I recommend this place.\n\nA little update here, today we went there with a friend, and we ordered pizza and an ice cream cocktail, apparently, the lady who was accepting the order brought us a strawberry cocktail\nInstead of chocolate. She approached us after several minutes and served chocolate one for free due to a mistake. I mean it means a lot to customers, this is the service that most Estonian restaurants are missing.\n\nThanks for being kind and caring to ward customers.",
+            "time": 1725295883,
+            "translated": false
+        },
+        {
+            "author_name": "Jake J",
+            "author_url": "https://www.google.com/maps/contrib/108569576154091849471/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2nge1z8LCv2Bejp16U-O1Araav_mNGCoZF89HLCEfifXTTKk=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Had lunch here and enjoyed it alot.\nThe pizzas are very thick and full of toppings and cheese, the chips were very nice and the service was friendly, didn't take long to get our food and it was very nice, takeaway box's available if you don't finish your pizza.",
+            "time": 1732192212,
+            "translated": false
+        },
+        {
+            "author_name": "Riccardo Polovio",
+            "author_url": "https://www.google.com/maps/contrib/106279409941446667641/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXHaVrnZ2PHRjbkcYiXXc82HsLicnISWyMdPqBASYhYWkp7tEX=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "The place looks a bit rundown, but the food was good (I ordered a burger) and service was fairly quick and friendly. I loved their fries! Overall I would definitely recommend if you're looking for a place to have a quick meal while visiting Tallinn and you happen to be around it. It's also fairly close to the Old Town, which makes it an ideal spot to go to in between visits.",
+            "time": 1725102098,
+            "translated": false
+        },
+        {
+            "author_name": "Juni Tenison",
+            "author_url": "https://www.google.com/maps/contrib/111950974529012474758/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTQok7XjOpgddn81PJMwD-NTZqFggIOaNBPEUZqPaAsVPyvNMV=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Had a straight up cheese pie (Margherita) and it was a good east style pie, I’d give it a 7.9. If you’re into Neapolitan style I’d suggest you check out Kodu or Kaja Pizza. But for my taste this pie awesome.",
+            "time": 1728448083,
+            "translated": false
+        }
+    ]
+}

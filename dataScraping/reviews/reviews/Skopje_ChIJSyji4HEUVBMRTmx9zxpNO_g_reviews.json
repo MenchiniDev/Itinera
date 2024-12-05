@@ -1,0 +1,66 @@
+{
+    "name": "Burger King",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Evgenija Nankovska",
+            "author_url": "https://www.google.com/maps/contrib/108619369832013886824/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFEjmi5SFGzqLXO3h5hhJ6NTLxNiHDgGu3ijs1AzPeI9SeWXE=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "The burger king cafe on the first floor had a very nice employee and is the whole reason I'm leaving this review, give that man a raise!! Also the cafe is a bit pricey and the food is quite pricey and the milkshake is undefeated",
+            "time": 1699536039,
+            "translated": false
+        },
+        {
+            "author_name": "Kalina Cesmedziska",
+            "author_url": "https://www.google.com/maps/contrib/106631013684748747064/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKqkZpemjeKRl8ux5TlO3KHC5_VViPvg66ZRixdnQ0CuTfw_NeK=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "The food is always warm and fresh. There are a variety of different burgers with all kinds of meat. The prices are great and you can get a whole meal for pretty cheap. There are a variety of fizzy and normal drinks. They've got toys for the children's meals. The customer service is not the best, but everything else is great.",
+            "time": 1560237278,
+            "translated": false
+        },
+        {
+            "author_name": "Barış Birlik",
+            "author_url": "https://www.google.com/maps/contrib/116040584951326051306/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPyIiMFblutpkZBziKpR4R_aKj10DhMQltvbwtlzTIhAaKr0ar=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "4 years ago",
+            "text": "Regular Burger King, nothing more, nothing less. But it's a good place to kill time before your bus if you're a tourist, it's in the center of the city, also you can charge your devices and in winters its warm.",
+            "time": 1583465023,
+            "translated": false
+        },
+        {
+            "author_name": "Sale Hristov",
+            "author_url": "https://www.google.com/maps/contrib/113709902626537015510/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu8yyDTmhxTS8GjxclkTOtY79FcuUvpkyhjOrdhQ-HvadjHAL74g=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "12 months ago",
+            "text": "Dirty, not always the same guality, vegetables inside the burgers,  like tomatoes are not fresh,  and it is very expensive.\nThe bottle of water costs 80 denars - 1.2 eur",
+            "time": 1702040593,
+            "translated": false
+        },
+        {
+            "author_name": "maja markovska",
+            "author_url": "https://www.google.com/maps/contrib/113747395485845985672/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXl9_Te_pmDGLPnK4L3kOTZPZpyssW-vXc339af2yHSsuwlQxs0=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "The service is terrible, undertrained arrogant people. Not polite, they talk to each other while customers wait to order. Not ok.",
+            "time": 1710354610,
+            "translated": false
+        }
+    ]
+}

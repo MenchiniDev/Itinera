@@ -1,0 +1,66 @@
+{
+    "name": "Fischer",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Lídia Redondo",
+            "author_url": "https://www.google.com/maps/contrib/106515990616806736727/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvRY-ZNadKpZXykE83rHVD-WhBrq_rczFZZxOoNT5zfuqt0qgf=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Really nice stuff that made every effort to understand me so I can eat something given my lactose intolerance. Thank you so much 💙",
+            "time": 1711794902,
+            "translated": false
+        },
+        {
+            "author_name": "Los Notes",
+            "author_url": "https://www.google.com/maps/contrib/103073993310968204735/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVks4xGvKkDqZ1O7dTrzrk8Jho8fvkRF2vnAMHEDZ0aFYlacMe=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "11 months ago",
+            "text": "Stopped by during a road trip and had some pastries and coffee.  They were good and staff was so kind to let me use their bathroom.",
+            "time": 1702399058,
+            "translated": false
+        },
+        {
+            "author_name": "Krishna Shetty",
+            "author_url": "https://www.google.com/maps/contrib/107401514168524036335/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXH1C2nMMMRC8ne4QCYHGqd-QrrdATrlD_e0Ujm3mamgopnf96o=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 years ago",
+            "text": "July 2022, around 5:30 PM CET: The lady in the store needs to be given sone lesson on how to speak and treat other human being. My wife while at the store had asked on the contents of a product for which she was rude and didn’t respond to the question instead she’s like “either get it or leave” ! WTH!?",
+            "time": 1658511379,
+            "translated": false
+        },
+        {
+            "author_name": "Lukasz Jemiolo",
+            "author_url": "https://www.google.com/maps/contrib/107998894526759390594/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_MvMODwIk1FeT8iZMBiXhnRmWQxdF-Qbk7BOtASAU_568UvDz=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Small but cool place. One of many on Luxemburg. Good bakery and place to have a coffee or quick snack. Enjoy !!!",
+            "time": 1557950101,
+            "translated": false
+        },
+        {
+            "author_name": "Joao Miguel Sebastiao",
+            "author_url": "https://www.google.com/maps/contrib/105900966279211520744/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbWVavg9hbH3vQ9hX8i-F5wwXJ-eGDcx-zBzXblns8vti0bQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Bread, pastries, wraps, sandwiches, coffee-to-go or on the premises, and toilets too. Sounds like everyone's wettest dream come true 😝😜",
+            "time": 1570511611,
+            "translated": false
+        }
+    ]
+}

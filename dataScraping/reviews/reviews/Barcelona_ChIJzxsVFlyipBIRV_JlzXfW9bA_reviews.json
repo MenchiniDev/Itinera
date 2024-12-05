@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Barcelona Universal",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Traveling Retired Guy",
+            "author_url": "https://www.google.com/maps/contrib/109500270532289678976/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcskuJHKy4TMMXGQ_FzGguAmeTz_rM8-meY66Lwy2M5jSfFTLP=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "I stayed here for one night. My room was small but clean and comfortable. There were no USB charging ports in the room, so I used my electric adapter. The room was quiet even though the hotel is located on a busy street.\n\nThe hotel staff was very friendly and professional. The hotel is centrally located in easy walking distance to local attractions and restaurants.\n\nI would stay here again and I recommend that you do too.",
+            "time": 1732620753,
+            "translated": false
+        },
+        {
+            "author_name": "Steve Sam",
+            "author_url": "https://www.google.com/maps/contrib/111708815546083148437/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRa6zVIiyG2itpcaoObeLdpuoFw9I4zlY8G8-ApqLtOTHnNg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We enjoyed our stay at this hotel, we enjoyed walking around the local area. Our room was clean and well appointed. While there was an issue that our room safe was not working, staff gave us another option to use their safe box by their office. Their buffet breakfast was great!   The staff were very helpful with telling us how to get to our local tour and then to the port to meet our cruise ship.",
+            "time": 1729961580,
+            "translated": false
+        },
+        {
+            "author_name": "David Cook",
+            "author_url": "https://www.google.com/maps/contrib/111968238609958798134/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJoZlCASPaUt8PwkwH1hRiG3L0fR6NAvvZbiX3zvEl1RpY31A=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This hotel is a gem. Our first choice was sold out and we ended up here and were very happy we did. The rooms are nice and spacious and clean. The staff is very helpful and each evening they guided us to local non tourist restaurants that we enjoyed thoroughly.   The front desk staff were all outstanding especially Carlo's. The only disappointment was the pool but everything else made up for it. This may not come up when searching the gothic quarter but it is easily walking distance. We ended up enjoying the ethnic neighborhoods immensely. Do not be put off by location it is fantastic",
+            "time": 1725400597,
+            "translated": false
+        },
+        {
+            "author_name": "Anna Strawbridge",
+            "author_url": "https://www.google.com/maps/contrib/108492378016125352825/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL05XrSA2CMPIwCpxQ-PgYyuk-aOXwqg39tGe57kCU52gD1yw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "4 weeks ago",
+            "text": "My two daughters and I shared a spacious and clean family room for a 3 night city break. The location was great for exploring Barcelona. All the staff were really friendly and helpful, and breakfasts were really good. Only minor improvements would be the water supply (shower and sink were relatively weak and took ages to get hot) and the swimming pool was too cold to use.",
+            "time": 1730833233,
+            "translated": false
+        },
+        {
+            "author_name": "Dawn Sylvester",
+            "author_url": "https://www.google.com/maps/contrib/103876609840856593296/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu3yS5wOrIpskRIWgJkajyR0qT6VzC0aqlIyPZCuTyZK1bZltR=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The hotel was just as pictured. Beautiful, clean, good breakfast in the Wolf Restaurant. Great food and drinks on the rooftop where the pool is located. Beautiful view, and helpful people at the desk.\nThe desk attendant took a highlighter and told me the best places to visit.\nAlthough near the location of the hotel was in a slightly \"sketchy\" area, we learned where not walk at night.\nThe metro entrance was just outside the door making it easy to go anywhere in the city!",
+            "time": 1728648972,
+            "translated": false
+        }
+    ]
+}

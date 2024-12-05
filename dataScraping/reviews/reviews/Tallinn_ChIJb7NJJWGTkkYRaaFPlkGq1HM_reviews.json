@@ -1,0 +1,66 @@
+{
+    "name": "Bowling KUULSAAL",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Sofia De Maecker",
+            "author_url": "https://www.google.com/maps/contrib/112942668474827200263/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsSYVJl0FnX9wZucA6sbaRfVqYNXr_mYAkYFVVI-ECxF2JQdg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Fun place with beautiful cocktails! The only downside was that the food was very fried. It was however a nice concept with the sofas near the bowling!",
+            "time": 1728380012,
+            "translated": false
+        },
+        {
+            "author_name": "Peep Nigol",
+            "author_url": "https://www.google.com/maps/contrib/102136966689470100716/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdoCM6Cl8EiJO-JhuHwyTIYM6QhXHbmdXoKxwTtpczEW8IDg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We had an hour of bowling to spend time.\nWent early so all shoes were there.\nCost wise a little bit pricey for two but more people its better and its good times.\nBeen multiple times.\nGood plqce for pool and bowling",
+            "time": 1721849130,
+            "translated": false
+        },
+        {
+            "author_name": "Anna Moran",
+            "author_url": "https://www.google.com/maps/contrib/115882137709911978005/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7m8ZN5V96D_dz2DEKMv85K1ooYtcs58oZGtPlikVaMxRBfQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "Usually one of our favorite places to spend time as a family. However, our experience yesterday was disappointing. Our lane malfunctioned at least three times, causing delays, and the staff was unhelpful and rude when we asked for assistance. It was not the level of service we’ve come to expect. Hopefully we will see some improvements form here.",
+            "time": 1730186809,
+            "translated": false
+        },
+        {
+            "author_name": "MAD NET",
+            "author_url": "https://www.google.com/maps/contrib/109822334268770145356/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-QwRVrMK4GzHGXCqroWnC4hVVI2RiZS22FqyVC0tWKRLIAQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "3Commas is exceptionally professional. Definitely better than most of the trading apps out there.\n3Commas is exceptionally",
+            "time": 1731946435,
+            "translated": false
+        },
+        {
+            "author_name": "Elan Ruusamäe",
+            "author_url": "https://www.google.com/maps/contrib/113116052157326853629/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQuonUbJZtVcAvX9lwEWG511VgpVqjmtj7Qaa8MsTiTp9sfbvc=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Great place for bowling, but they don't have enough balls for all parties to play. Like only one same size ball for the whole venue. Like I asked for 9m or 10m ball and they just didn't have it",
+            "time": 1725287762,
+            "translated": false
+        }
+    ]
+}

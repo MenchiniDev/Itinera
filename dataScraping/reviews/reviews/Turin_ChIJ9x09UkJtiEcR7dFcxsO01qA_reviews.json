@@ -1,0 +1,66 @@
+{
+    "name": "Bottega Baretti",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Mercede Zehtaban",
+            "author_url": "https://www.google.com/maps/contrib/112259936395335822826/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV98qmL-AvaW--8l8n3u0P5TlNf-easSv2lUZDd0i_PyM-wOMGfeQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "This is one of the best pizzeria in Torino, jts really good quality and tasty. And its not expensive at all. Friendly staffs. The atmosphere and decoration is beautiful and cozy. The only problem is that its always crowded and you have to wait a lot for a table, also in that location you cant find parking easly, you have to search a lot.",
+            "time": 1721199265,
+            "translated": false
+        },
+        {
+            "author_name": "Joakim Fridheim",
+            "author_url": "https://www.google.com/maps/contrib/109359717636008492572/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3Fb5FXtFIMWmFvOUSAE98vWX4WbtCdML9dWeFA03YgPkcuA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Bottega Baretti is a delightful and cozy eatery, located in the heart of Turin. The restaurant serves authentic Italian cuisine that is tastefully prepared and beautifully presented. The pasta dishes are especially recommended, and the pizza was particularly delicious. Beyond the food, the atmosphere is warm and friendly, and the staff is welcoming and accommodating. The restaurant's location is also convenient since it is within walking distance of many of the city's popular tourist destinations. Overall, a cozy and quaint spot for an intimate meal or a casual evening with friends.",
+            "time": 1686914268,
+            "translated": false
+        },
+        {
+            "author_name": "Paddy O'Connell",
+            "author_url": "https://www.google.com/maps/contrib/114545504331677282546/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnWiyWpYxuOFuDpuYQ2X-VUL4JbshxGNTHy2IWxGWitps5vnxdHA=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great pizzas in the equally great San Salvario area.\nWe had no booking on a Saturday night but the team at this place managed to give us a table for 1.5 hours early on Saturday night.\nLovely setting as well.\nRecommended",
+            "time": 1651094265,
+            "translated": false
+        },
+        {
+            "author_name": "Kevin Cairns",
+            "author_url": "https://www.google.com/maps/contrib/113617923674191859300/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx9L9bEze9oATfZv0k7s4O02wfhCaXeXCpboIPX4zKlUC2Mv4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Great service (in english) I would recommend having a reservation because it was booked full. The hostess squeezed us into the schedule.  The waiter had perfect recommendations. They seem to specialize in pizza. The wine was great too.",
+            "time": 1523785066,
+            "translated": false
+        },
+        {
+            "author_name": "M.",
+            "author_url": "https://www.google.com/maps/contrib/117131775358799693762/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXefYIwLBUrMKugxLddaGFhWTD3XlxvGMMTOE5TQub1gaanQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Pizzas were all quite tasty , friendly service as well. Nice selection of wines",
+            "time": 1706049066,
+            "translated": false
+        }
+    ]
+}

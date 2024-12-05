@@ -1,0 +1,66 @@
+{
+    "name": "Restaurante La Hostería de Laurel",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Danielle Rogers",
+            "author_url": "https://www.google.com/maps/contrib/107875707185486117117/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInJgBCoVv9SJB14jb6hn318ox70HliaAcn-byo9MVjUtEYpw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Loved this place, really good traditional food, the presa ibérica was amazing and the fried anchovies. I wouldn’t call this a tourist trap at all. Great service and lovely, relaxed location!",
+            "time": 1733151379,
+            "translated": false
+        },
+        {
+            "author_name": "Charles Gasparovic",
+            "author_url": "https://www.google.com/maps/contrib/113341631084210065217/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8-_OePzM9BM35yRiVE5XgNxclxdLbqz4-gTyVcoPPGCQHDQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "3 weeks ago",
+            "text": "Friendly service and good food. We had croquetas, an artichoke dish, and a breaded and fried fish (cazon) and zucchini dish, all excellent.",
+            "time": 1731269630,
+            "translated": false
+        },
+        {
+            "author_name": "Paul Mulligan",
+            "author_url": "https://www.google.com/maps/contrib/105996551767923977453/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8uKxPWfnzYlqyePjPoE2T8oyGkF6j52slvlHrk-GbkkmQgTBs=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Ok I see comments about it being a tourist trap, maybe as it’s a busy thoroughfare and close to Real Alcázar, i had 2 glasses of Rioja for €12 🤷‍♂️…try to get sitting outside the bar window it’s a great spot to just drink and people watch imo!",
+            "time": 1727734588,
+            "translated": false
+        },
+        {
+            "author_name": "Jon Zlotnick",
+            "author_url": "https://www.google.com/maps/contrib/116046898005941527631/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8sZYQQJtJVUxKso6CskFx9oa57AeRKHqrGjK_6qQx3u4S6Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "This place is a tourist trap and ripped us off. We had some great food in Seville but this was by far the worst experience we had. We ordered the large prawns for a treat but he bought out 2 plates claiming he thought we wanted 2 portions as we had pointed to a table of 6 people to say we wanted the same as on that table. He bought us 2 large plates for 2 people. We asked why we would order so much he just said it wasn’t his fault. The prawns were Luke warm and unpleasant to eat and we felt a bit sick after eating g them. The rest of the food was ok but over priced. The worst thing was the appalling attitude of the waiter. He basically ripped us off and was rude to other tourists also. Please avoid and go to place next door, it was far better.",
+            "time": 1713123997,
+            "translated": false
+        },
+        {
+            "author_name": "Youssef Bedioui",
+            "author_url": "https://www.google.com/maps/contrib/113154734589893010242/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfxCh0PMDtIj38ebKSgJrewEyX0nSa-hyBlC1fGqlzvwnkOEaB=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Traditional Spanish place in the heart of the old town. Good food and good vibes all around.\nTry the fish and the seafood, fresh, extremely well cooked and tasty.\nThe place is not pricy at all and the inside is as beautiful as the outside sitting if you happen to go on a rainy day in Sevilla (quite unlikely though)",
+            "time": 1700413177,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Polski pod Białym Orłem",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Klaudia Kudanowska",
+            "author_url": "https://www.google.com/maps/contrib/118223547048544266687/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5DH0fN3We8d0uKRwYe50IZ54uSjCameWHKSeeQcfMxGjAvVPV=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Very good location. Staff is very friendly. Rooms are very nice and clean with everything you will need. Restaurant just next to the hotel.",
+            "time": 1732533387,
+            "translated": false
+        },
+        {
+            "author_name": "FD",
+            "author_url": "https://www.google.com/maps/contrib/104183789462543025845/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVd2MmbEO7dW7NVJOcHKQEHd3bMAHRZHUiCqBCCxsuNRIE1UE=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "4 months ago",
+            "text": "Only location is perfect.\n\n- The hotel has no guard, and you can enter and move inside the building without anyone asking you what you want here!! And only one person work in reception.\n\n- Housekeeping is terrible , my room was not cleaned during my entire stay. (I was leave at 3pm and put cleaning room sign but no one did the room).\n\n- There is a small internal staircase in the corridors of some rooms (maybe three or four steps) which may be tiring for the elderly.\n\n- The soundproof in the room is poor, I upgraded my room to have a view, it was a view of a lively pedestrian street but the music was loud at night and could be heard inside the room\n\n- There is no free bottle of water in the room.",
+            "time": 1722098773,
+            "translated": false
+        },
+        {
+            "author_name": "Phillip Wallace",
+            "author_url": "https://www.google.com/maps/contrib/111448996143842567295/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLd1lDI5_B9EYqbLUegkBI1xRBvK_PrRFZIEG-hBDIqrBUpLg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "First, the staff was fabulous.  Excellent English, and jumping from behind the counter to be helpful (more that once!).  Room view meh, but it was well appointed, temp control was easy.  There is a little bar with the restaurant but they will be happy to bring a drink down to a very plush lounge downstairs.  Really close to great food, and the museum next door is pretty good.  Very reasonable room rate, breakfast is nice.  They are happy to book transport to the airport and other sites.  Great place, would stay here again.",
+            "time": 1717517760,
+            "translated": false
+        },
+        {
+            "author_name": "Alona Piaskivska",
+            "author_url": "https://www.google.com/maps/contrib/112024032038766167620/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZjAgFvSJfvPx--2LLWoDkEm1B-kvmD9S_DQoB17WHVKRFWw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This hotel definitely earned its 5 star rating. The staff are so well trained and pleasant and made the trip even more enjoyable.\nRoom was impeccable and maintained just as I expected. If I ever return to Cracow I will definitely book a few nights here.",
+            "time": 1720560450,
+            "translated": false
+        },
+        {
+            "author_name": "Martin Dembek",
+            "author_url": "https://www.google.com/maps/contrib/116143879088697610064/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVow1gHcaWXqRQvOjzZxsjNWZPUdpqFx4-lixvjrnccvE8h1PKo=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "A great location right next to the Florian Gate. A comfortable place, friendly service. The hotel was clean and well-equipped. No bathrobes in the room. View from our room was not that great thoo",
+            "time": 1725163256,
+            "translated": false
+        }
+    ]
+}

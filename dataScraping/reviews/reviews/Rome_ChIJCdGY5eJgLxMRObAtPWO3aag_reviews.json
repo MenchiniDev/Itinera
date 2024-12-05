@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Lord Byron",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "justin markley",
+            "author_url": "https://www.google.com/maps/contrib/107246563135788845091/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwEyCuGINxSgfvpDF7eMMGHcvYq7IUMAd_2UuwIcm44tSrww=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "This is an excellent hotel! The best quality is the friendly staff that is very eager to help with recommendations for restaurants, sites to visit, and arranging taxis. The breakfast was wonderful with a nice variety of meats, cheeses, hot items, fruits, and juices. The coffee service was excellent! We did not try the restaurant at other times. The location is very nice being a little off the path of all the touristy things. Still walkable but quiet and away from the crowds. It's located around several Embassies so it felt very safe. We would definitely stay here again.",
+            "time": 1721352406,
+            "translated": false
+        },
+        {
+            "author_name": "Dave Wood",
+            "author_url": "https://www.google.com/maps/contrib/101075961531081704221/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuMpKU0Ibt0VSN4mVK1ghKsTtqHElvrofMsfBroPnvho5NVA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "One of the nicest hotels we’ve ever stayed at.  The staff, especially Alexia and Ivan went above and beyond to make our stay memorable. Ivan assisted me in acquiring a translation for my license and Alexis gave us two world class recommendations for dinner. If I return the Rome this is the only hotel I would consider.  7 Stars wouldn’t be enough for this amazing property. I would also like to mention Luigi who handled our bags and transportation. He is a gem and one of the nicest people I’ve ever met.",
+            "time": 1727520772,
+            "translated": false
+        },
+        {
+            "author_name": "Mary Vincent",
+            "author_url": "https://www.google.com/maps/contrib/111157145538899532503/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWvd9BSISnO5DaBtmsSubXFLejMKWGWqlQg703rLom5hryJw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We stayed at Lord Byron 2 years ago. I meant to write a review but unfortunately forgot.  This hotel made our Rome experience perfect.  The restaurant was amazing.  The chef is creative.  The presentation of food beautiful and was so delicious.  I highly recommend Lord Byron for a stay in Rome.",
+            "time": 1725116071,
+            "translated": false
+        },
+        {
+            "author_name": "Alayssa Taboy",
+            "author_url": "https://www.google.com/maps/contrib/102372032782532247272/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPuvWo8dM09IHvj4saJY2H4TFeipo0SyLkMAq7DT9YkhxoIiJpFg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We had an amazing stay at the Hotel Lord Byron. The staff members were incredible and provided us with excellent service, going above and beyond to make our experience extra special.\n\nThe buffet breakfast selection was delicious, and the location felt very safe and quiet. Highly recommended!",
+            "time": 1727172248,
+            "translated": false
+        },
+        {
+            "author_name": "Chad H",
+            "author_url": "https://www.google.com/maps/contrib/114571718199225194159/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwOhvIua_x7PymbUiKqbeH6gKTOK5jfN3CSWWmCGjmqYnURCploA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We thoroughly enjoyed our stay. Alexia was amazingly friendly and helpful. She was able to bridge the language barrier with ease. Some have said the hotel is distant from things to do, we found it peaceful in a very busy city. We walked from the hotel to Vatican, coleseum, pantheon, forumn, and more. The staff was very friendly on the whole. Overall, I would absolutely stay with them again.",
+            "time": 1726175101,
+            "translated": false
+        }
+    ]
+}

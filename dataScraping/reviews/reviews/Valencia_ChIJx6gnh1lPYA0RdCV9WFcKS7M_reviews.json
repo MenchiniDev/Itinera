@@ -1,0 +1,66 @@
+{
+    "name": "El Corte Inglés",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Christine Marie Pogado",
+            "author_url": "https://www.google.com/maps/contrib/104862178909388604249/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzzV-R7ImvlwR9Sv8y799dd3xLrcCTX7IYeEyQl_En1llTZJDJ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I bought a bag today and the staff, Javier Fernandez was very helpful and kind. Thank you so much. Your help meant a lot to me.",
+            "time": 1722183908,
+            "translated": false
+        },
+        {
+            "author_name": "Scandal Adventures",
+            "author_url": "https://www.google.com/maps/contrib/103961803157451818982/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2GgVccht7n2XlpbNLWBRIT7v_j15b4V9GDtdK8Wpub6KHArav=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 years ago",
+            "text": "Shop is well equipped but way how is organized is rather confusing. There's is one parking for two shops and you have to walk far form one building to another.   It's is also strange how stairs and floors are planned. For me this planning looks like a total mess and we wasted a lot of time just walking around and looking and asking for what we need.",
+            "time": 1659431121,
+            "translated": false
+        },
+        {
+            "author_name": "J",
+            "author_url": "https://www.google.com/maps/contrib/111950799257740137377/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiQNXNk5budcg_0N665t3M_NyVda9mwaXpKAS8ywG59MLooA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Very impracticle (2 separate buildings, have to walk in parking, quite dangerous and unpleasant) Typical Corte Ingles service (clerk avoiding clients, busy talking to each other or on their phone) Horrible and expensive parking.",
+            "time": 1721515456,
+            "translated": false
+        },
+        {
+            "author_name": "Richie Chien",
+            "author_url": "https://www.google.com/maps/contrib/100306521279801903561/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfkebfWCOLLOwYJ4Q6rr2J-VNfxFwIRjkAPTqWfSsC77OCeQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Center downtown location with park on the side.\nGreat supermarket in the basement with high quality groceries.",
+            "time": 1728913178,
+            "translated": false
+        },
+        {
+            "author_name": "Bernie Coldrick",
+            "author_url": "https://www.google.com/maps/contrib/108017378609509404292/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz7NcmVbdxu9Mr_YsDNC1O85ufft6S8wJ3gCVn88EZg1_RvA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Huge shopping experience. 6 floors to shop till you drop.",
+            "time": 1730660949,
+            "translated": false
+        }
+    ]
+}

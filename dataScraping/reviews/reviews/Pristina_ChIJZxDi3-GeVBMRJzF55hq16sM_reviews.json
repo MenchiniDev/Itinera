@@ -1,0 +1,66 @@
+{
+    "name": "deRada Brasserie",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Cagri Oner",
+            "author_url": "https://www.google.com/maps/contrib/114451881164177037071/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFvVwVvPh_DUwCZEOzyJzeO8dBhobvdE6sf51fb_bvwNplUB7LMA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "6 years ago",
+            "text": "It is a very nice road side restaurant. You feel like you are eating in a similar restaurant in Paris or Rome. The food is one of the most delicious one I eat in Prishtina. The house wine is OK, the prices are reasonable for a restaurant with that level of taste. Only the waiters could have been less sulky.",
+            "time": 1536074243,
+            "translated": false
+        },
+        {
+            "author_name": "Exus",
+            "author_url": "https://www.google.com/maps/contrib/103281098549036075394/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9Tnizysu67JlyB8_Wb34zG3fgwuTaXilZvXqhFfbZH1l9NWV1=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Great food, prices are a little high for locals but for foreigners it's heavily recommended. As for the atmosphere it's very nice and I have my coffe there every morning and there's also a smoking area. 🚬👌",
+            "time": 1547854248,
+            "translated": false
+        },
+        {
+            "author_name": "Don MacFarland",
+            "author_url": "https://www.google.com/maps/contrib/113354974740096510825/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4c8BUqhfMkrwtiG1435HYYYNhLMoQdHkoe6cT94w6iJpk-aKO=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Nice atmosphere and good service. The prices are very good and the food is also. They like to put mushrooms in everything though even if it's not mentioned on the menu.",
+            "time": 1522417252,
+            "translated": false
+        },
+        {
+            "author_name": "Dennis Capstick",
+            "author_url": "https://www.google.com/maps/contrib/116318935339764079926/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXIcVz8Goyo6jljQ4zx7odVpPheVUmFmkWWQNnTpKrJes8vQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Great food and service. Nice atmosphere.",
+            "time": 1640472553,
+            "translated": false
+        },
+        {
+            "author_name": "Tibor Kertész",
+            "author_url": "https://www.google.com/maps/contrib/117370372567044769835/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrz9s9WDG6MfEks3ln99Wdew1snmoav-GSddjvT8QpaEHAkA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "10 years ago",
+            "text": "The furniture and the installation makes this place really intimate. The food is tasty, the prices are correct. The menu is quite short.",
+            "time": 1398101750,
+            "translated": false
+        }
+    ]
+}

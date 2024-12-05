@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Łazienkowski",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Ivan Trotskyi",
+            "author_url": "https://www.google.com/maps/contrib/106971645151522722010/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvAPjc8CSTy6ps8zqs3tos51PdSH8M7qplsGEJzv_9nFpSjobPyg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Love this place!\nLocation magnificent because of Lazienki Park ♥️\nPersonal in the hotel,\nCaroline and Monika special thanks to your kindness and cooperation !\nQuite, clean rooms\nTasty breakfast in the morning 🌅\nThe only thing i was missing is a good coffee)",
+            "time": 1727094204,
+            "translated": false
+        },
+        {
+            "author_name": "Isil Teo",
+            "author_url": "https://www.google.com/maps/contrib/112986088062703521739/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdlzoijqex0G2QxrebB7unp0_8gdd-Iznmw9L3P0veRlStioTzLw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "The room was not ventilated when I come in and also the bed was not straight. So I was not sure if the room was cleaned before me. The night was silent. The room that I stayed was huge on 3rd floor. Breakfast fruit was old already at 8.30.",
+            "time": 1728508897,
+            "translated": false
+        },
+        {
+            "author_name": "Gael",
+            "author_url": "https://www.google.com/maps/contrib/117061352693299098264/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMRKMQQtUORr9EYD1hpzFApvVbEyEPDDrAxSIVDuZxXY44Lw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "They blamed the broken TV on me and asked for 200 euros. They tv is worth 30 euro new... Really tells me a lot about Poland....",
+            "time": 1722008377,
+            "translated": false
+        },
+        {
+            "author_name": "Jacob Pilegaard",
+            "author_url": "https://www.google.com/maps/contrib/114433390839449170465/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJr5dQB19CUm05x2_z8_KkU-cbCfXkpMb3wUeZObMIXwlHciA=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "2 years ago",
+            "text": "Location is great, but that is about it. Very expensive room for barely nothing. I can only say what others has said before me.\n\nWater from the tap was yellow, the bed lamps didn't work in my room, cobwebs all over the place and the most damning, the wifi does not reach the room I was given.\n\nFor all this, I would give the hotel a wide berth, as it doesn't deliver what it promised and what is needed, for the price it charges.",
+            "time": 1662489594,
+            "translated": false
+        },
+        {
+            "author_name": "Nasir Masud",
+            "author_url": "https://www.google.com/maps/contrib/108574172303716624247/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUD082DTb0hi8LNBw5pqk6WrLZvmb11wbDMzAG875vD0RwEE-m=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "4 years ago",
+            "text": "Suite rooms available. Comfortable stay and delightful atmosphere. Highly recommend if anyone is planning to visit. It has a Lazienki park near the hotel and has nice view of it. Very cleanliness and we'll managed. Service is quite good as well, parking is also available.  Go ahead with it and a try.",
+            "time": 1587195243,
+            "translated": false
+        }
+    ]
+}

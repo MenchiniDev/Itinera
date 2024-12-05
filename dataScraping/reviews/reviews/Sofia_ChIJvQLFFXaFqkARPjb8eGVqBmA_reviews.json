@@ -1,0 +1,66 @@
+{
+    "name": "Hotel “Crystal Palace Boutique“",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Leni Stoeva",
+            "author_url": "https://www.google.com/maps/contrib/118423418841394125148/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8ehAMIMonKCay_Cc36te9K92o7yG455wdIH_tLiS3lcSLmgjE=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Really nice, quiet and relaxing hospitallity in the center of a busy Sofia. Love the history of the boutique hotel and all the artifacts displayed inside. Fitness equipment and gym gear was great to have access to; not crowded at all. Can really escape in the center of Sofia or pursue a social lifestyle, options are endless.",
+            "time": 1724318435,
+            "translated": false
+        },
+        {
+            "author_name": "Matyas Miskolczi",
+            "author_url": "https://www.google.com/maps/contrib/111456787156455193996/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS5cus-xCjaCqVLP_fnTk9NwV4hkTr96-G9ejeBP-D8mlXAsi-Cw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "Rooms are nice, staff in the hotel is friendly, the breakfast is very good. The bar still has some challenges: the only red wine you can get in a glass is like a kind of strong acid and the \"bartender\" has no idea how to open a prosecco. The background music is horrible.",
+            "time": 1726896866,
+            "translated": false
+        },
+        {
+            "author_name": "Nikko D",
+            "author_url": "https://www.google.com/maps/contrib/116702488113550584553/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX80bhsS-E67D2xjs0q2g4r4d1jibf2wl03gqVqbJGGHSe8Oj8t=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "4 months ago",
+            "text": "The hotel is fine in general,  though pretty expensive. There are some problems, though. They haven't gave me an iron to the room - it's the only option to ask for ironing service with separate pay. And, despite me specifically asking for it, taxi, which they called for me, couldn't be paid by card and gave no invoice.",
+            "time": 1722393515,
+            "translated": false
+        },
+        {
+            "author_name": "Jakov Ignjatijevic",
+            "author_url": "https://www.google.com/maps/contrib/104750501375475324620/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtFSaDu3xq5wm0mFzOzd7mC_lswLGnYTfecbu0tZ0AUSdGM0M=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Rooms are clean and nest, everything you really need is here. Food selection is big and its all tasty/delicious. Hotel staff is kind and welcoming. Totally can\nrecommend!",
+            "time": 1720793223,
+            "translated": false
+        },
+        {
+            "author_name": "sepehr soltani",
+            "author_url": "https://www.google.com/maps/contrib/111507282123423924913/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNyHyIe9uSGYLY8A6G62HjmPZDbg46qKPnEAeadarzT6_uZ7-T=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "6 months ago",
+            "text": "Quite old but nice rooms. Location is amazing. Reception and people talk relatively good English and they have been supportive during my stay.",
+            "time": 1715770432,
+            "translated": false
+        }
+    ]
+}

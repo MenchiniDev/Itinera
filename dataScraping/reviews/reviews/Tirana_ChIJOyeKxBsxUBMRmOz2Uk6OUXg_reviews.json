@@ -1,0 +1,66 @@
+{
+    "name": "Green House Hotel & Restaurant",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Nebojsa Ilijevski",
+            "author_url": "https://www.google.com/maps/contrib/114299754768082936935/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpnPdHnzw36nSzeZ2tuSsmYGWpYo-Tmt1qTVJv4cV1rBerU1_1=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Its a decent option for a short stay. Rooms are well designed yet we got one that faced the garden. It was loud with the kitchen next door. Yet, rooms are comfortable and with new facilities. Room service is excellent!!! Stuff is polite and at service as well. I recommend at least one meal in the Berlin restaurant just next door. Garden is great and comfy. Breakfast, decent! Liked the sweets. Coffee is a real one at breakfast.",
+            "time": 1717938062,
+            "translated": false
+        },
+        {
+            "author_name": "Cristina Ghiurcuta",
+            "author_url": "https://www.google.com/maps/contrib/100865771486466662713/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYeRU54bp8dq5f-ovi1OOho5vc3NYGEUgPddY2vEU4LJQI6A5HNQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "We visited Albania for New Year’s Eve 2023 and we stayed in this nice hotel. Everything was lovely: the room, the staff, the location and breakfast (wide variety of salty and sweet food). We had a great time!",
+            "time": 1705754862,
+            "translated": false
+        },
+        {
+            "author_name": "M. Hörmann",
+            "author_url": "https://www.google.com/maps/contrib/107794686771361230125/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZD04yNnJJ2Qm9kaqPlkMvUksDsyp-2fCwh2-HMEgiH8GOCA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "The Hotel is located perfectly in the city center but still in a quiet street. You can reach all the sights within 10 minutes walking distance. It is very clean and my room was modern and staffed with all necessities. Above all to mention the friendliness of the staff that were all times approachable and helpful.\nThe breakfast has a wide variety of local and international foods.\nGreat place, I would come again!",
+            "time": 1574498752,
+            "translated": false
+        },
+        {
+            "author_name": "pierre matile",
+            "author_url": "https://www.google.com/maps/contrib/104465256277534157062/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1sFWcHzRe08GJopfuTNw_2FnITnv9s-OBJw2vR4g2yzTn34lwuw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "We booked a room with parking. When we arrived they pretended we could not park at the hotel, although the guy managing the parking found us a perfect spot. They tried to relocate us to another hotel on the main road. Worst experience in Albania. Do not go there, they do not deserve it",
+            "time": 1694411629,
+            "translated": false
+        },
+        {
+            "author_name": "Ida Gjinali",
+            "author_url": "https://www.google.com/maps/contrib/111120763464410381951/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIS40HVh33vnAq3ospc0ZobmznULLc0Xp9uKOFztXfYY4jPHlw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Wonderful staff and hospitality. Clean rooms and comfortable bed. Spacy rooms with snacks and mini fridge with drinks. Parking is for free for all hotel guests right across the street. Their breakfast is delishious, eggs, veggies, meat ans fruit selections. Tasty homemade yogurt also. Had a great time staying at the Green House and will be back soon.",
+            "time": 1660142392,
+            "translated": false
+        }
+    ]
+}

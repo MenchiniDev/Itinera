@@ -1,0 +1,66 @@
+{
+    "name": "Hofbräuhaus München",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Raman Gritsak",
+            "author_url": "https://www.google.com/maps/contrib/103558741408257221154/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsZukd_sLcbZuvOn5q_PT6-k27cZ_e7QMXlCzt6_SAHh5j7lQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "The food was good, but nothing extraordinary. It arrived quickly and was nice. The beer is also good, i cant say it’s any better than one from the store. However i guess many visit for the atmosphere and it’s definitely there. Live music gives a special charm. I highly recommend the Kaiserschmarrn dessert, it’s something else!",
+            "time": 1732352916,
+            "translated": false
+        },
+        {
+            "author_name": "MM McD",
+            "author_url": "https://www.google.com/maps/contrib/107251839973164815869/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdRz2yrfBm7ibooYcr7Ry-JYo-xQk1T_USj65md0PTlD-4oQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Wow! What an experience. So glad we made the trip here and enjoyed the wonderful beer, food and atmosphere. I was very pleasantly surprised by how good the food and service was (thinking it would be just tourist fayre).\n\nWe enjoyed a mixed meat platter with bread, bread dumpling and sauerkraut which was plenty for 3 people while listening to traditional music and soaking in the atmosphere.\n\nThis is a must for everyone visiting Munich. You will not be disappointed.",
+            "time": 1729418891,
+            "translated": false
+        },
+        {
+            "author_name": "Ionut Sandru",
+            "author_url": "https://www.google.com/maps/contrib/103299379497740497370/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3OBkosh8ZYIjvhTxFwhajqESg1cv38EddyOtDnBWL_DP1qHqR=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Totally touristy oriented but not exactly a tourist trap. If you are smart you don't go to this kind of places for gourmet experiences. The food is average and the waiters don't seem to be very interested but it's a cool place with a nice atmosphere. If you know anything about history than you know that this is a must visit when in Munchen!",
+            "time": 1729516452,
+            "translated": false
+        },
+        {
+            "author_name": "Md GUSTO",
+            "author_url": "https://www.google.com/maps/contrib/114566989528244719551/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMpNGC_U2wJELrLftfQZObsc77hQOfW-62Ai0n_UFMx1hivcaD=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "It's one of the best beers I've had in Germany. It has an atmosphere that makes you feel like you're in Bavaria. The meals are very large portions and delicious. I think it is a place that must be experienced. Enjoy your meal",
+            "time": 1729441473,
+            "translated": false
+        },
+        {
+            "author_name": "andrew mckee",
+            "author_url": "https://www.google.com/maps/contrib/100433390966805587066/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJldchPbX21WNci9ftOk7p8S9mai1do4u0A646RlGHTKwJkkg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Knuckle of pork was good,  but the beer was fantastic, only way to drink the large glass.. 1L...  oompha band was great.  People happy to share tables,  friendly atmosphere.  Chatted with Swiss, French, Italians and Finn's. The waiter was Croatian. 1 large drink turned into 4.  Went for a quick drink and meal to have the experience and spent the evening.",
+            "time": 1732802590,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Mrak",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Dave E",
+            "author_url": "https://www.google.com/maps/contrib/111382073760196202899/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1dKrwlhdKjuwa5XwBr4e7S4CI1lX3E9AASP2rdTjbYPoa9w=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "This is a nice little hotel within easy walking distance of the main part of the city.  Rooms are neat and clean, and quintessentially European(meaning fairly small).  Breakfast is great and staff seems quite friendly.",
+            "time": 1726062644,
+            "translated": false
+        },
+        {
+            "author_name": "Alexandra A.",
+            "author_url": "https://www.google.com/maps/contrib/107404812686090744064/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI692dI8dXsEl1o7VA7h6vTJeZKlN6pxsp5r2YXdLSvAeGWLQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "This hotel is quite nice and in a lovely area that gives easy access to the center. I feel that the woman who welcomed us could have been more empathetic in that there was a misunderstanding regarding parking and she was only able to say “I’m sorry” without seeming to try to empathize. I understand there can be mistakes made but I would expect a hotel of this caliber to A) actually listen to the concerns and seem to genuinely care and/or B) offer a small gesture to show they would like to make it up to the guest.\nThere was a lot of hair in the bathroom so some cleanliness was lacking. Because of my initial interaction with the woman at the desk I didn’t feel the hotel would be open to addressing the concern of the hair. So while the hotel is really modern and nice, and the area is great, this hotel should try to be more flexible in accommodating guests so that they want to come back. A little understanding and concern goes a long way.",
+            "time": 1718875067,
+            "translated": false
+        },
+        {
+            "author_name": "Cameron Abrams",
+            "author_url": "https://www.google.com/maps/contrib/112216533548117654836/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGE26N71ZX6GP9S5v1TjwOgNPsddKA3xqtxgL8n7Iu3bNX2dJ3=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Wonderful little hotel right in the middle of Ljubljana. Walking distance to the University and lots of other stuff.  Fantastic breakfasts! Would definitely stay here again! Loved the smarphone-based keyless entry system.",
+            "time": 1719929375,
+            "translated": false
+        },
+        {
+            "author_name": "Leslie L",
+            "author_url": "https://www.google.com/maps/contrib/104793183408615607003/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsAyKjk9w15WKMJRVnmgVvm3rN3JDKo3crmlKZPnYI3ErilONRCA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very nice and accommodating owner and staff. We called before booking to ensure they have available parking as we are not keen on streetside parking as our car is heavily loaded with our luggae. They helped us find an acceptable solution which they didnt have to especially in such peak season.\n\nThe hotel is full of personal touches that gave us a unique and special experience. We enjoyed our stay so much that we are definitely adding this on our favorite list for when we pass by the area again on our vacation trips.",
+            "time": 1723122544,
+            "translated": false
+        },
+        {
+            "author_name": "Mehri Kaufman",
+            "author_url": "https://www.google.com/maps/contrib/115070998208787122800/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLmGlpqaDoLjo09IrusNXbYwj7DMZXEN5sXPL00FDrHnm9OaJxtQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "This hotel is in a great location, close to activities.  The staff were super helpful and accommodating.  They provided cookies, fresh and dried fruits, iced tea, and nuts daily in the Lobby.  We stayed here 3 nights.",
+            "time": 1719405848,
+            "translated": false
+        }
+    ]
+}

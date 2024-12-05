@@ -1,0 +1,66 @@
+{
+    "name": "Beer House",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Diana Jefimova",
+            "author_url": "https://www.google.com/maps/contrib/107273443764726935129/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLcd3I3MF83CyvwPvFsaZpuT3h76maFGIKBnxV6gSgm4caCUGT=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "This place brings back many memories for me. We've been coming here for many years now, and the food and beer never disappoint. I definitely recommend trying their beer and starting with some delicious starters.\n\nThe duck I tried yesterday was absolutely amazing! I would definitely have it again.\n\nBy the way, if you visit on a Friday or Saturday, they have live music in the evening, which definitely adds to the atmosphere.",
+            "time": 1723652495,
+            "translated": false
+        },
+        {
+            "author_name": "Tor Hauge",
+            "author_url": "https://www.google.com/maps/contrib/103379414691905867766/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-SMudSimtQ1D2HhWGwoR2pCNfbfPcThzp6Mq0bzNgMFCFvEho=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "The restaurant has a very good, and Authentic German feel to it all. The outfits, the hair, it’s makes you believe you are actually in a German bar in Germany. The location I must say is quite good, and the restaurant itself looks really interesting with different German decals and etc.\n\nI had a beef burger with cheddar cheese and fries, the amount of grease in that burger is enough to clog an already obese man to the maximum. The greats made it harder for me to enjoy the burger, and made it so I had to use a fork and knife. The burger overall was quite good but the amount of grease and spill it caused, made it more difficult for me as a customer to not make a mess.the fries was quite good, and the beer was amazing with. The only “problem” was the grease and the size of the burger.\n\nThe location and the vibe was good, it was authentic and gave you a feel of a German bar, with German music.\n\nThe service was good as well, where waitresses was helpful all along the way and were simply amazing. Smiles were not too much present, but hey, it’s a German restaurant, what can you expect?\n\nThe bar is something I recommend, the location and the vibe is guaranteed somewhere you might want to bring your family and friends.\n\n4/5 stars!😎",
+            "time": 1720631044,
+            "translated": false
+        },
+        {
+            "author_name": "Sander van Vliet",
+            "author_url": "https://www.google.com/maps/contrib/112755359517673615771/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW20qBedKXZci3hgX6D9XuOyUsnsqk8UF0b0h0hbjXpXEA4rjmX=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Nice place for dinner or just a beer. The quality is good, but a bit pricey though. I got myself a nice Dunkeles Extra, which is €7 for half an liter.\nThe atmosphere is good in the restaurant!",
+            "time": 1730370112,
+            "translated": false
+        },
+        {
+            "author_name": "Andi",
+            "author_url": "https://www.google.com/maps/contrib/112410496472019635554/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7bOJiMXW34ondwP47NFGDvSXwiKusd3KwMnAfUBZjfj8ucw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Great place to have a couple of beers!!!\nWe tried the beer tasting with 6 different beers for 29€. Great beers, would highly recommend to get the selection\nWe also tried the garlic bread and the cheese balls. Both very tasty with its own dips.\nThe waiter was very friendly and the bathrooms were clean.\nIt is a place I would defintley come back to!",
+            "time": 1722517325,
+            "translated": false
+        },
+        {
+            "author_name": "Hohsü L",
+            "author_url": "https://www.google.com/maps/contrib/108645554041053284990/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4x4nR6EtrB3d8atYMUMyNuJbO0FIi28XXeqUz7tEUbbIj_cfU=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "4 months ago",
+            "text": "Beer House Fest(pork knukle) is very good, recommend! The portion is enough for two people and taste is very good. But I don't recommend the steak, almost the same price as the pork knuckle, but the portion is very small, the beef quality is not high, and the taste is not very good. Beer is good.  Overall the price is not cheap, but some dishes are worth trying",
+            "time": 1720780165,
+            "translated": false
+        }
+    ]
+}

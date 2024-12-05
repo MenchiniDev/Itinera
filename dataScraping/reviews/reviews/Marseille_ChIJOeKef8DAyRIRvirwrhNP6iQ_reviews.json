@@ -1,0 +1,66 @@
+{
+    "name": "Starbucks",
+    "rating": 3.9,
+    "reviews": [
+        {
+            "author_name": "Ivan K.",
+            "author_url": "https://www.google.com/maps/contrib/105396951003586541080/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBeTysCMbzqCtzpCvtcwhVUGsRdL3oq7AL11IlWUADcvY2-xU=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Excellent location and large cafe with some sitting area, normal internet and even kid’s corner.\nSome disadvantages are: ACs are not working making it very hot, toilet is closed! which is unacceptable and there was also no ice cappuccino available for some reason. The staff are very nice and friendly. Hoping those issues will be fixed sooner rather than later.",
+            "time": 1718871249,
+            "translated": false
+        },
+        {
+            "author_name": "Lilia W.",
+            "author_url": "https://www.google.com/maps/contrib/111030481404252869582/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdSmxhnJi8QIHMfAqds2Qj7MNHR2i2oYZnYEf_-1cUNSLQ8sY60g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "The place is beautiful but the service is average. The servers barely smile, a little slow even. And toilet hygiene is bad. (See photos). No soap… No supervision. This starbucks becomes almost abandoned.",
+            "time": 1721192578,
+            "translated": false
+        },
+        {
+            "author_name": "Tobias Vonstein",
+            "author_url": "https://www.google.com/maps/contrib/100491544835196635668/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCAxMt8WKIM5hdfKt2gIhXaQGzbgBGlfkcaBVueL1_FR4jWqlK=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "One of the most awesome Starbucks I have ever visited!! Perfekt place, perfekt view.",
+            "time": 1725108248,
+            "translated": false
+        },
+        {
+            "author_name": "Antoine G",
+            "author_url": "https://www.google.com/maps/contrib/103185527468166629543/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFCHwuVHRkTo8pRMku755sYRmFjPG6ZPvmf77HmW3T53pHJw4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Been to many Starbucks but this one is a shame for the brand. No microwave -no warm food, 3-4 electrical outlets in the entire shop -impossible to work on your computer inside. Dirty, filthy bathrooms, baristas ask three time what you’re ordering",
+            "time": 1722346018,
+            "translated": false
+        },
+        {
+            "author_name": "Fernanda Aguiar",
+            "author_url": "https://www.google.com/maps/contrib/108027323584377309078/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGTdzyzgEin_iF-XwCHUWcS02bxvFmC70qdq1Ye5KigakkxmA1=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Staff were super friendly, they had a lunch menu AND AC was working which was a huge relief on the crazy hot temperatures",
+            "time": 1722773990,
+            "translated": false
+        }
+    ]
+}

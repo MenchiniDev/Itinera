@@ -1,0 +1,66 @@
+{
+    "name": "Delicatessen Grünerløkka",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Stéphanie Krepelka",
+            "author_url": "https://www.google.com/maps/contrib/102009809946062610704/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBzllJeNGwC37_2c1VR-uFj5NkaeWpw2Z8ovJf9uYf-7KYGvJu=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Super welcoming atmosphere with super friendly staff! We had a great « light » dinner with only a few tapas plates to share. The sour beer was amazing!",
+            "time": 1718562955,
+            "translated": false
+        },
+        {
+            "author_name": "Vicki Whipple",
+            "author_url": "https://www.google.com/maps/contrib/100933115622089488220/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyucBq5D0QUFv6BGH4TzKY55mIX1YN_GMsEop53K3rJfGRmJDY=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Every dish we had was outstanding.  The location, next to the river, was exquisite.  The service was efficient, as was the ordering process.  I loved the empanadas and the halibut the most!",
+            "time": 1725036903,
+            "translated": false
+        },
+        {
+            "author_name": "Kaliya",
+            "author_url": "https://www.google.com/maps/contrib/100587794044822099601/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVwrewH0_VbLHivQNFLUOGY_rUtRrPzzgRgaoMu_R-9ZG5LNQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Food was really tasty. I especially liked the duck confit salad and the croquettas. The restaurant is super cute and cozy. The cheeses were also all super fresh and tasty.",
+            "time": 1727962622,
+            "translated": false
+        },
+        {
+            "author_name": "Patrick Garcia",
+            "author_url": "https://www.google.com/maps/contrib/103821400211492867349/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrgZ4O9PWyXx-RePcvYwafyNUQuW4xFgxHwQ6Yxoy9AjCuSQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Excellent location to eat dinner. The food is delicious and be able to combine as you want and it feels everything fits. The guys serving were very nice and explained everything there was to know. Im not a fan of QR code menus as a foreigner, but thats probably me. With 5 things and a drink we had a delightful stay. Also tap water is free, big kudo for that!",
+            "time": 1722453041,
+            "translated": false
+        },
+        {
+            "author_name": "Mathias Forrisdahl",
+            "author_url": "https://www.google.com/maps/contrib/104667321921261109600/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-9DhSTdcc9GD4L9GyfZAjR515bP-SjVYWC8o8_Z_o8akG7g=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Beautiful tapas restaurant alongside the walking streets of Oslo's Grünerløkka district. In the summer the restaurant is open completely to the outside with outdoor and indoor seating in the breeze, i'e the walls are gone. This creates a lovely atmosphere where you can enjoy the summer life and eat delicious food. Delicatessen is a chain known for its high food quality and excellent service. Albeit slightly on the pricy end, i highly reccommend coming here.",
+            "time": 1721331604,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "A Tu Gusto",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "susanne viberg",
+            "author_url": "https://www.google.com/maps/contrib/118241468169171723234/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBq5eA41hWJH4WmA1SaXYwyehY_x---rdUtzshKZnIO7n8Zg=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "Had a lovely Fallas set menu with some good wine from Valencia. Came on to watch the fireworks for \"Nit de Foc\" and most places were fully booked.\nSo grateful to find a table.\nThe staff was lovely and accommodating",
+            "time": 1710795284,
+            "translated": false
+        },
+        {
+            "author_name": "Alex Volovik",
+            "author_url": "https://www.google.com/maps/contrib/110210064148489287052/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp0fbLif3PjMPSDHxcLbU0H28nd2cLlILVshLytsS7LzNVmA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "We stumbled across this place while looking for restaurants near our hotel, and it was the best choice possible. The paella was so delicious, I wish we could have it daily. It’s a local place and is super clean and the service is amazing. It was a great choice and highly recommended!",
+            "time": 1711749431,
+            "translated": false
+        },
+        {
+            "author_name": "Asia Ż",
+            "author_url": "https://www.google.com/maps/contrib/115132730097127728944/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-8nEo7E-6A98QuqR0pTrz838jYVl37GJ2xMbLcgytVRf7av4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "The staff was extremely rude and simply mean. One would expect someone who works in the food industry of any kind to know the basic differences between food diets and restrictions. It has been stated that one person of the group is vegetarian and we made sure even one more time that the food does not include meat. However, we have been served a dish with fish and after reporting this fact we have been basically laughed at bacause, you know, 'fish is not meat, right'.\nHopefully after this unpleasant incident the staff will eventually figure out the difference between veganism, vegetarianism and pesceterianism. When in doubt Google is always a helpful tool! ;))",
+            "time": 1716411743,
+            "translated": false
+        },
+        {
+            "author_name": "Yenson Umaña Solano",
+            "author_url": "https://www.google.com/maps/contrib/100638804635162098743/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzpZ4BpDsnkOM0QOmNaf1HBBhCXnu2YYncWKNFgXmSLlKh4Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "I went today to get the free tapa of the 72 hour Valencia Tourist card, and I was thinking to get the lunch there as well, and as soon as I entered the staff looked me weird and then I was asked to move to another table, I moved out because I felt unwelcome and left as soon as possible, terrible service, food was good tho, in my country if someone sits on table ready for lunch you just move the things to another one.",
+            "time": 1719950230,
+            "translated": false
+        },
+        {
+            "author_name": "xy z",
+            "author_url": "https://www.google.com/maps/contrib/106890822110583881430/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgYs-UFe9uLdJnx6QhMkgKHLs5plRObadnP6AkCz068z7tvDuP=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "Walked into the restaurant, got no greeting despite the waiter watched us enter. Had to find a seat on our own, tried saying hi to the front desk and a waiter for around 2 minutes,  got no reply  except for a rather judgmental glimpse from the waiter.",
+            "time": 1708200503,
+            "translated": false
+        }
+    ]
+}

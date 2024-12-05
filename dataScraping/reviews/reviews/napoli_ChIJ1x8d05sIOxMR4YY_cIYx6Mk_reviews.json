@@ -1,0 +1,66 @@
+{
+    "name": "Pizzeria Ristorante Napoli Napoli",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "I. Popia",
+            "author_url": "https://www.google.com/maps/contrib/106438403071298863729/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhblUUb_ekpS0IYRRNad60hjezhmayOp932msDp5GlJSeTqg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Good pizza, good limoncello, rapid service.",
+            "time": 1729532640,
+            "translated": false
+        },
+        {
+            "author_name": "marwan ahmed",
+            "author_url": "https://www.google.com/maps/contrib/108824685511832213533/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUypbb2K0cHU-GfgW2d2A1V38y6H3ynoJ7kyvdliisQJiKCMvIe=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Whether you're here for a family gathering, an outing with friends or a nice little date, Napoli Napoli has your back. It features immaculate vibes, an elegant atmosphere, friendly waiters, and gourmet food. Located right next to the policlinico where med students attend classes, Napoli Napoli is a breath of fresh air after a day of long studies. Special shout out to Francesco, the coolest waiter ever. 10/10, gotta go there at least once.",
+            "time": 1685096007,
+            "translated": false
+        },
+        {
+            "author_name": "Pajkossy Ingrid",
+            "author_url": "https://www.google.com/maps/contrib/100682509982600130789/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuHROAImrJwL6926yHVw2VUFMygF5VN_eUlF5mpXOslEYq_ELI=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Seafood not fresh, calamari was like rubber. I hate sending food back, but it was not edible. We spent here like an hour and a half because the waiters never came. They still charged me for half of the dish's price. Yeah not coming back.",
+            "time": 1684091921,
+            "translated": false
+        },
+        {
+            "author_name": "Marco Müller",
+            "author_url": "https://www.google.com/maps/contrib/101247707107296897989/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrd6VD45am0hB5weDzJGt7zEmhxb5nhmQwRgJGhipHI8mnTPmP=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "6 years ago",
+            "text": "We wanted to eat something different than pizza, the waiter told us they serve only pizza today. OK, no problem.\nThe pizzas were served fast and they were good, but the waiter and any other person seemed to ignore us. Even after we asked for the bill it took them 15 minutes to return to our table. Maybe it was an exception on january 1st.",
+            "time": 1514837618,
+            "translated": false
+        },
+        {
+            "author_name": "T C",
+            "author_url": "https://www.google.com/maps/contrib/115388643690464307778/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKsQDIBoKaobCkpC5pArJ9iAULmusOvoCyKCHoNVTmcVFuqA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "A nice place where to eat a good pizza at very reasonable price and served by friendly staff. It is a Pizzeria and Trattoria, so they also serve other main courses, like pasta, but I haven't tried them yet. It is very close to the University Hospital and has discounted prices for students.",
+            "time": 1549611146,
+            "translated": false
+        }
+    ]
+}

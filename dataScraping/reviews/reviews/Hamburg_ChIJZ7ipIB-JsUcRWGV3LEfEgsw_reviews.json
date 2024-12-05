@@ -1,0 +1,66 @@
+{
+    "name": "25hours Hotel Hamburg HafenCity",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Antonio Divaira",
+            "author_url": "https://www.google.com/maps/contrib/116234384840284435361/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx1SFUfSExaJJOhwySos8G71daFEWw4Jo1VtoeauK7EQi77Q=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Fully packed rooms with everything you need. Shower was lovely. A pleasant surprise that there was a sauna in the hotel. Would recommend everybody takes advantage of this. Easy to reach from central station with the bus. All landmarks within approximately 10-20 minutes.",
+            "time": 1724334804,
+            "translated": false
+        },
+        {
+            "author_name": "Jonas Rye Kongstad Larsen",
+            "author_url": "https://www.google.com/maps/contrib/109903519914007778184/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRvdRlZX-u0IYAVGtwCtWd-UL-Ww6p_2csPxanVHOYZke6RpqVQQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Wonderful hotel at a great location. The atmosphere and decor is outstanding and the rooms are well designed with cozy details. The staff is friendly and it's clean and inviting. The only thing that I think could be better are the beds, they are a bit too firm and hard for my taste.",
+            "time": 1721309838,
+            "translated": false
+        },
+        {
+            "author_name": "Hanna M.",
+            "author_url": "https://www.google.com/maps/contrib/111659415912638172127/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKW4kwxm1FjcgxPF-Tl30C0hvGyUIABbAoD6LxTCHSSCxTtVQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "9 months ago",
+            "text": "Overall, I enjoyed my time at this hotel ! The staff couldn't have been friendlier, and the breakfast spread had a great variety of vegan and veggie options. Although the rooms weren't overly spacious, they were stylish and gave off a charming harbor and sea vibe. However, the one downside was the construction site right in front of the building, which brought noise and occasional odors. But, fingers crossed, once that's over, this place will be perfect! Can't wait to potentially update my review then.",
+            "time": 1709569729,
+            "translated": false
+        },
+        {
+            "author_name": "Stéphanie Krepelka",
+            "author_url": "https://www.google.com/maps/contrib/102009809946062610704/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBzllJeNGwC37_2c1VR-uFj5NkaeWpw2Z8ovJf9uYf-7KYGvJu=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 2,
+            "relative_time_description": "6 months ago",
+            "text": "I was disappointed with my stay at the 25hours HafenCity. The hotel felt very dark and not in such a good state but that was not the main issue. My night was disrupted by intense corridor noise and construction outside the building in front of the hotel, which was not communicated beforehand neither compensated in any way. Additionally, housekeeping entered my room twice despite the \"Do Not Disturb\" sign, intruding on my privacy. The stay did not reflect the standards expected for the price paid and my membership level. I hope the hotel addresses these issues for future guests.",
+            "time": 1717197670,
+            "translated": false
+        },
+        {
+            "author_name": "Dav Gilchrist",
+            "author_url": "https://www.google.com/maps/contrib/108540671382360461627/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6ImSExAqyCl9Ointxe6AGNayYfqNeRQk5muRNgPFfxIs2jS-O=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Well located for the river and St Pauli. A little over designed decor though! All the little extras make it very good, the listening room, free mini bar etc. Spa area a bit disappointing, more than four people and it's overcrowded.\nOverall good place to stay though.",
+            "time": 1716838737,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Café Gerbeaud",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Armen Kakosyan",
+            "author_url": "https://www.google.com/maps/contrib/103487424328931239980/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7M7Py4q0S53dZjGX56j9alpwNFMcRl5GscPWgcpSqEna39Sev=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a month ago",
+            "text": "Breakfast is very tasty, recommended for sure. You can try the sandwiches: the bread is very light and tasty. You can try the croissant. The desserts are also very good. The atmosphere is calm, and the interior is very beautiful with old design. Service is also good, but not top tier.\n\nEdited: The service:\nServing food was good. But the servants (maybe different ones) dropped my jacket 3 times, and did not try to pick it up (i was sitting next to it and i picked it) than i go to toilet and come back and my jacket is on the floor again. At first i’ve rated the cafe 5/5 and service 4/5. Edited to 4/5 and 1/5.",
+            "time": 1729330706,
+            "translated": false
+        },
+        {
+            "author_name": "Alexander Savitski",
+            "author_url": "https://www.google.com/maps/contrib/116754468570458306802/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaHELx8G8iLfG00pA60C8qEsqRk0xdcS6WOBG7cOm0c-VAt8uB=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "A magical place, as soon as you walk through the front doors you go back a century, and feel like royalty. The location is really convenient, it is near the yellow metro line 1. Most of the day there are a lot of people, so it is recommended to arrive at the opening, we arrived around 10 and already one hall was full. They have a large selection of cakes, we ordered: the famous chocolate pancakes, and 2 other non-classic Budapest cakes. Everything was divine, the taste and the service. We will definitely come back here again and try other cakes",
+            "time": 1726218469,
+            "translated": false
+        },
+        {
+            "author_name": "Paulina K-G",
+            "author_url": "https://www.google.com/maps/contrib/115490302549714855729/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2AOQjxMwuuTjWtBBgcdviik9BWXrnWrMhMae2Bs-ceLViwzf2=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Beautiful place, definitely worth visiting when in Budapest. Great coffee and deserts. It’s not cheap but not as expensive as we were expecting. Friendly staff and quick service.",
+            "time": 1725826522,
+            "translated": false
+        },
+        {
+            "author_name": "gulsah bastan",
+            "author_url": "https://www.google.com/maps/contrib/117355273822125151520/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHtS49bXQZKEN8Yq_vFKt2SfBR7KYmIGlBnZ4HtMOf7y4ZsA=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "2 months ago",
+            "text": "If you want to have a nice afternoon’s tea in a nice place, this is the nice place with a very charming interior. However, the none of the cakes were as tasty as they looked. We ordered platter of dessert selection, almost none is eaten fully. However, vanilla ice cream is very good.\nWould i go there again? I don’t think so. Not worth for the money",
+            "time": 1726487575,
+            "translated": false
+        },
+        {
+            "author_name": "Fan W.",
+            "author_url": "https://www.google.com/maps/contrib/104560132059624032049/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsL-JaBv6BLoTiLRfPLPYu6fCVZbJi5o0-k0JGVbeUVGJErr4i=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "I'm giving 1 star for attention of the owner. Unfortunately the cafe was pretty empty, the whole backside is closed off. It's a shame and as a customer I can tell you very honestly I can understand why. While you pastry is amazing, for eating in you want about DOUBLE the price. It's not worth it to me, this is not Paris. Not even in Paris I would need to pay such ridiculous amounts unless it's a world famous pastry chef! And then there is no 15% service charge either. You need to be more reasonable with your pricing, it's sad to see it almost 70% empty. Your pastry is good but not exceptional to have the audacity to charge about 10€. I got 2 take away cakes from yours for the price of 1 eat in cake and I ate it right in the square in front of your café, there is free seating and great atmosphere there too. I don't know how you are doing financially but it's really not nice as a customer to walk into an almost empty cafe, whether it's the oldest or not.\nThere are many other cafes in Budapest that have really amazing pastry and are not outrageously priced and great atmosphere. In the grand cafe they had live classical music, in the artist cafe they had amazing cake at a lower price and a more lively atmosphere. One of the oldest cafes in family possession in castle hill have amazing cake. I am yet to check out some other ones but this is my criticism. Again, it's not Paris.\nFood for thought.",
+            "time": 1723824439,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Fischer",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Philippe-Alexandre C.",
+            "author_url": "https://www.google.com/maps/contrib/102245599242268368902/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLPbWTVLKvognJ0jp2DqsYCuywbo7PFm3il9-15riLhsYpJw0u=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "3 years ago",
+            "text": "Decent tea & pastries, nice corner with seats.",
+            "time": 1626869456,
+            "translated": false
+        },
+        {
+            "author_name": "Miguel Marques",
+            "author_url": "https://www.google.com/maps/contrib/112907532468536069193/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3sG5pStRm7hppQvZdcxIdKjGhQLGAjji1ZiP9hQ6yWCxeGG_JNg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "Great service",
+            "time": 1706657442,
+            "translated": false
+        },
+        {
+            "author_name": "André Olivier Hansen",
+            "author_url": "https://www.google.com/maps/contrib/112232451535716476618/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIEf1zbj8pVvaAuhWdobCE2yEafEfMFjkp4qS6MijW2xFjEBo=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "The freshest products, the friendly staff and since I am a fan of DUOFIT bread I visit them regularly. Best wishes",
+            "time": 1711204743,
+            "translated": true
+        },
+        {
+            "author_name": "ludovic boulet",
+            "author_url": "https://www.google.com/maps/contrib/113752667968683328777/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9y05otVrxRzjy0GETZNzQrV-QJqZS_XllaObYDlcJp0UHwGv6=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "10 months ago",
+            "text": "The quality of the products is becoming very poor...no artisanal side",
+            "time": 1706031145,
+            "translated": true
+        },
+        {
+            "author_name": "Miguel Magalhaes",
+            "author_url": "https://www.google.com/maps/contrib/117266138240779397550/reviews",
+            "language": "en-US",
+            "original_language": "fr",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvo6tXbDJ01ve5-bnDh3qUkPPA8C3hhsyCcgRA0XL9rgByz4dF=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "10 months ago",
+            "text": "As always their breads and all the other items are very very good but really good!!! You have to taste their artisanal product and savor it in moderation hi hi!!! 👍👍👍",
+            "time": 1705152418,
+            "translated": true
+        }
+    ]
+}

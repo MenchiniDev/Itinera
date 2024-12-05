@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Kruja",
+    "rating": 3.7,
+    "reviews": [
+        {
+            "author_name": "Jennifer H",
+            "author_url": "https://www.google.com/maps/contrib/118381799032989591764/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLJbSFnA2VWXSzYTBjLuMszYHukgZpnofBZYjX6kc1-rN3pRpJvQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "Wouldn’t stay here. No air conditioning, no fan! They say they have AC in all rooms but this is not true! It is extremely hot and they said they could not give us another room and to open the windows. It is very loud with the window open. The WiFi and tv didn’t work very well. No elevator. We were stuck staying here as part of a tour, otherwise we would have left. Please stay somewhere else.",
+            "time": 1722061186,
+            "translated": false
+        },
+        {
+            "author_name": "Casual Kasual",
+            "author_url": "https://www.google.com/maps/contrib/105099763472528162069/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfJibvSE-sJWrouvMDm6xrON2-w4eB1Wh400w2hIgFOgspDQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "Absolute trash of a place, the food the staff the rooms THE AC DOESNT WORK. The owner let their dogs outside to bark, they nearly bite my children.Such a bad experience i had there.They offend you if u go and conplain to them!",
+            "time": 1719778016,
+            "translated": false
+        },
+        {
+            "author_name": "Carmen Sotelo",
+            "author_url": "https://www.google.com/maps/contrib/114889419062649866428/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8OLltyS6SI_T-MgVU9uARUwqRgyWlsYjn-d00RQ9UKnbNhw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Affordable and clean hotel near the city center. Staff is nice, helpful,  and friendly. I was able to apply for and print my Turkey e-visa with the help of the reception. It  also has an excellent a/c. Very satisfied with the service staff provides. I will not hesitate to book again if i decide to come to Tirana again. :)",
+            "time": 1529150650,
+            "translated": false
+        },
+        {
+            "author_name": "Ian NORRIS",
+            "author_url": "https://www.google.com/maps/contrib/111814574979946712872/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjIwQIv6e2PXXwv9SlhXusEXkRF483sGrgrh3dqJte6WTdVGA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "Fish tank/pond under the stairs is interesting good “cheap” hotel centrally located!",
+            "time": 1709568501,
+            "translated": false
+        },
+        {
+            "author_name": "SKonnerup",
+            "author_url": "https://www.google.com/maps/contrib/101350632513729307337/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyAFWUxbDk9y6-hr8JPlOXYatuCz0AgugHpAmjSqoQTBFoPeuC=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 years ago",
+            "text": "5 minutes from the main square (Skënderbec square). Good service, but not good in english",
+            "time": 1571051848,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Olympia",
+    "rating": 4,
+    "reviews": [
+        {
+            "author_name": "Geri Prendushi",
+            "author_url": "https://www.google.com/maps/contrib/103967663701373309801/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyh6JXHPwAN3dYCh43LAqfqs000QIi26rV2vOabFPx6_9QYQtZ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "👍🏻👍🏻👍🏻👍🏻👍🏻",
+            "time": 1486902830,
+            "translated": false
+        },
+        {
+            "author_name": "AMS AL",
+            "author_url": "https://www.google.com/maps/contrib/109171266601841652425/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUR1eqyOMp3XKzIdko8QRGzlVtG6wgJPA5uK1dZgTy8grU0fqO9NQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "",
+            "time": 1511119576,
+            "translated": false
+        }
+    ]
+}

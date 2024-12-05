@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Arka",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Bahar Selman",
+            "author_url": "https://www.google.com/maps/contrib/111337048859445338730/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs-iedTpFolsq81VGqOb3djzCKsqPkLGzmAjXsipXpnQQxZ84d=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "Disappointing Stay – Not Worth the Price\nThis hotel is not up to five-star standards – false advertising at its finest. The rooms are dark, making the place feel dreary and uninviting. The carpet on the floor doesn't look hygienic at all. The breakfast is mediocre at best, definitely not more than three-star quality. You can't even enjoy your meal on the open terrace. There is no separate shower in the bathroom, which is highly inconvenient.\n\nTo access the hotel, you need to pass through an old gate that doesn't give off a five-star impression. The sauna was not working during our stay, which was another letdown.\n\nThe only positive aspect is the location. I stayed one night with my partner, and I do not recommend this place. It is totally not worth the price.",
+            "time": 1723115549,
+            "translated": false
+        },
+        {
+            "author_name": "John van der Hoeven",
+            "author_url": "https://www.google.com/maps/contrib/103361909989420637176/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkeFkiekk9n10r5WIM4rCzX0TpVqoGjidbT9QA5eDxToDDgQcu=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Nice hotel on the edge of the historic Bazaar. Executive room was very spacious with a big bath but no separate shower. Guy at reception was very friendly and helpful. The indoor pool and the breakfast room are connected so you see who is swimming. Pool water was is June still to cold as it is inside the airconditioned area and there is a limit of max 4 persons to go in there. Lovely place to stay and the location is perfect. Nice view from the sky bar overlooking the city. Mind that there are too many mosques >10 waking you up too early in the morning with their praying and calling, so wear earplugs and something to cover your eyes as the curtains are not darkening the room.",
+            "time": 1718707831,
+            "translated": false
+        },
+        {
+            "author_name": "Simon Bradford",
+            "author_url": "https://www.google.com/maps/contrib/115735623000973345295/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfVXVqfcEJYZ2fwgtyNwQkMvneHci3bArVD3U_v-y1vGuVkVs=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Good location. Super friendly and helpful reception. This really made my stay. Air con in room not working. Nor was the fridge. Note 2 glass elevators and dining on 6th floor. If you don’t like heights this may be a problem. No shower. Curtains not great at blocking morning light.",
+            "time": 1718049521,
+            "translated": false
+        },
+        {
+            "author_name": "Shai Ghelberg",
+            "author_url": "https://www.google.com/maps/contrib/105691477810586363760/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0FeIQaG5W3Zdif5jy7ZUK2m5YGZ4rL9AqL9VoMLrL9fedkHgM=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "The location is really good.\nOur rooms were terrible, seemed very old and not well maintained, there was a feeling everything was musky and dirty.\nThe employees were very accommodating and helpful. The parking is a really good perk.\nThe breakfast was supeb, lots of variety.\n\nUnfortunately the rooms were bad to the point we considered leaving early - tons of daylight coming in at morning, super dark during night. AC was barely working. Water pressure was great but the showers had bad showerheads.\n\nThe pool is nice for hanging around and cooling down. There's a great view of the city.\nAvoid the fitness and sauna area...",
+            "time": 1719432374,
+            "translated": false
+        },
+        {
+            "author_name": "Ana R",
+            "author_url": "https://www.google.com/maps/contrib/118254946363196441582/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr1gVBxTSuW5zGYFOnvzPxF9Oj9Axf9j6lkOwRPIOAu7mUVGB-xQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "5 months ago",
+            "text": "Great location close to bazaar. Great views from 7th floor.  Breakfast was a wide selection of different foods. Room was old and didn't have a separate shower.",
+            "time": 1719641415,
+            "translated": false
+        }
+    ]
+}

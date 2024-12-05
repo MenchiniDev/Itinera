@@ -1,0 +1,66 @@
+{
+    "name": "Kainer",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Wei-Han Tan",
+            "author_url": "https://www.google.com/maps/contrib/103365164879815315809/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOuQxvhaDtTwI1tJx7E9K8tTk4pcmTlX0kdDruhpVpN1PzUYJRyg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Fantastic meal and what a great surprise. We were staying a hotel just around the corner and went with our family or 5. The owner was very kind and we had a great meal with delicious steak, venison and salmon. The lobster soup was stellar as well. We greatly enjoyed the sunset and local Lichtenstein wines and beers. Thank you again and we will be back!",
+            "time": 1721331748,
+            "translated": false
+        },
+        {
+            "author_name": "Andy Stevens",
+            "author_url": "https://www.google.com/maps/contrib/105776887086780048870/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZTjUXKFiTakbQpJlT-2Zc7LXLzUAGELTEVIZWSty7w3JMfkiqDg=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 3,
+            "relative_time_description": "5 months ago",
+            "text": "Staying nearby, we walked down to the restaurant, 5 of us got a table without reserving. Views from the restaurant are amazing.\nService was friendly, food was OK, priced in line with Swiss prices, so not cheap.",
+            "time": 1718311296,
+            "translated": false
+        },
+        {
+            "author_name": "Chris Baiata",
+            "author_url": "https://www.google.com/maps/contrib/104964664506810175208/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5Z1KPr1mS8BywTDD3_wTGZEu6qjoOZJIs0S4MVjwvE8AiAlcF=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "You want the most epic views while you eat? This is the place.\n\nHad pork and pumpkin soup. So tasty",
+            "time": 1726570158,
+            "translated": false
+        },
+        {
+            "author_name": "Katherine Damstetter",
+            "author_url": "https://www.google.com/maps/contrib/108875817674691102126/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_dtvoBH6RQ9uAVQbRomoz6ksyS8zMH5g8bbb3kVL5pAyE_meCzA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "All I can say is it is a beautiful view with beautiful delicious food.",
+            "time": 1724899222,
+            "translated": false
+        },
+        {
+            "author_name": "begüm “Begumiko” matakan",
+            "author_url": "https://www.google.com/maps/contrib/117062912168830110637/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKHuLGJwT1V0-jvaIaVfWjY4YTw7cO_kgcqEdEzlIcuih04Ljj=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "It is a place that I can recommend with its beautiful view and delicious food. Prices are normal for this neighbourhood. A very varied wine menu.",
+            "time": 1712859541,
+            "translated": false
+        }
+    ]
+}

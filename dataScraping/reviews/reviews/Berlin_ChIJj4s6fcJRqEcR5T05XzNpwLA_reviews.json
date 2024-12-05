@@ -1,0 +1,66 @@
+{
+    "name": "Grill Royal",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Ivan Brkljac",
+            "author_url": "https://www.google.com/maps/contrib/113638679568854542294/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjzm-gzJUdF_PnKcsWVCL_ofnhv27FeOuSX-VqMB53PxbRgXUsgA=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "A great restaurant that looks as if it was there for a very long time. The staff is well trained, the kitchen is visible from the whole restaurant. The food was outstanding, and even though the place is a bit pricey, it’s worth it. Highly recommended.",
+            "time": 1731313676,
+            "translated": false
+        },
+        {
+            "author_name": "Maria Herrera",
+            "author_url": "https://www.google.com/maps/contrib/103980447953672877868/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeNEK0n5OQEPhIMxjQeyYvUDS8YlN8RmKOVuh4b_FFQk9QCFOnlw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "3 months ago",
+            "text": "The food was not especial at all, it is just super expensive and not even good. We went for an anniversary and we were very disappointed, people in Berlin recommend it a lot but don't know why. I guess just because looks fancy and is expensive but the service is terrible bad and the food not good at all. The worst is the waters and the hostess that just because one is not full of botox or makeup assume that one has no money and treat you but. Definitely not going back and wouldn't recommend it.",
+            "time": 1724599512,
+            "translated": false
+        },
+        {
+            "author_name": "Georgia Chatzi",
+            "author_url": "https://www.google.com/maps/contrib/108470059106780940093/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXK7yLEobZtJ4iuKTZb9Gl9lAMxobgWh8sNCh4_wf8My3geTwtb=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We arrived without a reservation, and despite the restaurant being full, we were warmly welcomed and offered a lovely table. The service was exceptional, and the food truly delicious. Nancy, the sommelier, stood out for her professionalism and kindness. Our evening was truly wonderful, with a warm atmosphere and exquisite flavors.",
+            "time": 1729768530,
+            "translated": false
+        },
+        {
+            "author_name": "Johannes S.",
+            "author_url": "https://www.google.com/maps/contrib/102578245417283244245/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfwxND8fQ81JTXCm9BJ__TZgiQF8UnMkFSFJ2N_7PpM7go3g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very nice food, best beef I ever had.\nQuite pricy, but very good quality too. The Atmosphere directly at the waterfront was very nice.\nThe furniture is a bit outdated.",
+            "time": 1723762420,
+            "translated": false
+        },
+        {
+            "author_name": "D. L.",
+            "author_url": "https://www.google.com/maps/contrib/113059354336026634441/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIegy2MVzLYhQpHs8BsJbul42bu56SnYJsBTNG0Y0P4LjnA5w=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "6 months ago",
+            "text": "One time and never again. While the food was solid, the service was severely lacking.\n\nThere was a waiter who was very rude. He spoke very disrespectfully, where you can hear Berlin slang. Immediately after dessert we were shooed away by the waiter because they needed the table even though there were plenty of other tables.\n\nOverall, Grill Royal needs to seriously improve its service. Even the best food can't make up for feeling undervalued as a customer. I won't be returning anytime soon.",
+            "time": 1716918802,
+            "translated": false
+        }
+    ]
+}

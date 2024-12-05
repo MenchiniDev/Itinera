@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Kung Carl",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Peter Hartin",
+            "author_url": "https://www.google.com/maps/contrib/100464255056851194147/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyPrPQYSdrJEdXh0bTgQ1HBZycEwJZX8lohrJYQZR7VskxdFp8Rw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "I really enjoyed my stay at this hotel. It is centrally located and convenient to a lot of local restaurants, transit, and local attractions. The breakfast each morning is very nice and has options for everyone. The room was very spacious as a King Balcony room and although the thermostat in the room had some issues with adjusting down to a 19 degree Celsius setting the windows for the balcony being opened helped to cool the room down during the warmer days. The Bluetooth speaker that also functions as a vinyl record player was also a very nice and fancy feature. The staff were very friendly and they helped me sort a breakfast to go for my early departure to catch the train to my next destination so that I didn’t miss out and also provided me some delicious chocolate mints. Definitely check out this hotel on your next trip to Stockholm!",
+            "time": 1725296339,
+            "translated": false
+        },
+        {
+            "author_name": "Lily Wes",
+            "author_url": "https://www.google.com/maps/contrib/101666261281731476989/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4gjccVUjTI8STfa3xMYbW56SeIeit5hzieSpVght0NEerLw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I recently stayed at hotel Kung Carl and had a wonderful experience overall. The room we stayed in was clean, spacious, and the beds were incredibly comfortable, ensuring a restful night's sleep. The overall feel of the room was welcoming and well-kept.\n\nThe service at the hotel was exceptional. The staff were always friendly, helpful, and eager to assist with any requests or questions we had. Their professionalism and attentiveness really made our stay enjoyable.\n\nThe hotel's location is also a major plus. It's conveniently situated near a variety of stores, cafes, and restaurants, making it easy to explore the local area. Additionally, there is easy access to public transport, which is perfect for those wanting to explore further.\n\nOne aspect to note is that the hotel is located near several clubs and bars, which can result in some noise during the evenings. While this was a bit of a drawback, the hotel thoughtfully provides earplugs for guests, which helped reduce the noise.\n\nOverall, I truly enjoyed my time at Kung Carl\nand look forward to returning in the future.",
+            "time": 1721944176,
+            "translated": false
+        },
+        {
+            "author_name": "Russ Johansen",
+            "author_url": "https://www.google.com/maps/contrib/100664228007986724650/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc8CgX37cZlrPmAXUKJpoIC1f_hRBWrMSGQbDBor6QLXtaYQ=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This is a unique hotel. Each room is different,  created as a work of art. Very engaging!  The staff was universally wonderful, and the breakfast was superb. The only downside is it is often noisy enough outside to hear in the room as you are sleeping. They do give out earplugs! Not a long walk to the harbor.",
+            "time": 1729677920,
+            "translated": false
+        },
+        {
+            "author_name": "Nuri Mehmet Gokhan",
+            "author_url": "https://www.google.com/maps/contrib/101235778368759828331/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8NYzW6rM1upqcMiPmVvjthCJ6UzvpUPCzbxDEyZd7ULEfXFY4kA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very nice hotel at a very central location. Great staff, they were very helpful during the check in process and stay. Very nice breakfast buffet, and already included. All day coffee / tea was also available.\nVery historical, cute building, but nicely renovated. No A/C (not needed mostly) but they even put a fan in the room, just in case.",
+            "time": 1723334064,
+            "translated": false
+        },
+        {
+            "author_name": "Estelle Miller",
+            "author_url": "https://www.google.com/maps/contrib/103898175146038417697/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQOlyb8lzOevCG_0omtygqduqIyHemB2vDqmRvB0lYdIpb2FYm=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "We had a great time at Hotel Kung Carl during our stay. The rooms were unique. Sadly our room had a very small window and because of that we had minimal amount of natural daylight. Since we arrived around midnight it was difficult to discover it in the first place. But it might have been an advantage since the street was quite noisy during the night and we had no problems in our room with the noise. The breakfast was rich in options and some options even varied every day during our stay. We enjoyed the the colourful interior and proximity to the old town to the fullest. Sadly, the room did not have a safe and a mini fridge. Overall, a very nice stay in the city centre.",
+            "time": 1722437009,
+            "translated": false
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Splendide Royal",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Stephen Lowe",
+            "author_url": "https://www.google.com/maps/contrib/116247578144569011992/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEOA05b2MPkbDHu_DndDbtwD97X5Y0leGxz7Xhv6n45hRrdA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "We had an excellent experience. The staff was overwhelmingly friendly and helpful. The staff is without question the biggest asset to this hotel—they made the stay effortless. Location is quiet and peaceful. The food is very good and the rooms are clean and comfortable. The one issue that we had was immediately and effectively addressed and we enjoyed the rest of our stay without any problem at all. We would definitely stay here again.",
+            "time": 1732889504,
+            "translated": false
+        },
+        {
+            "author_name": "Shelby French",
+            "author_url": "https://www.google.com/maps/contrib/108952120061709935337/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCIdXQW0hRuUIZirPKb4jBU5BWlS24PO63N4djPgd7Ts_fTfOi=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Highly recommend this hotel! I mean the staff are next level, tending to every need and so chivalrous! Greeting you every time you enter and offering water etc. The rooms are in pristine condition and they even offer services such as laundry/steaming. Beds are comfy and the rooms are very spacious!",
+            "time": 1729848978,
+            "translated": false
+        },
+        {
+            "author_name": "Kevin Smith",
+            "author_url": "https://www.google.com/maps/contrib/116140376306209696077/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKiRn-kM6u5P8IC0kShIHk6mQiWs_KSOosQgf6PWkW0eR1BFA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Awesome hotel within walking distance to all attractions and shopping. Staff are wonderful, a special shout out to Ivan the hotel manager who was awesome. Rooms and common area are great and the drinks at the rooftop lounge are unique and delicious. Unfortunately we didn’t have time to eat at the Michelin rated restaurant Mirabels, but we’ll be back",
+            "time": 1727282525,
+            "translated": false
+        },
+        {
+            "author_name": "Linda Jauhal",
+            "author_url": "https://www.google.com/maps/contrib/105652342531916657652/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxboqfS7yMvbQKwPGV6ypscf6YzHdwN9WlWP5ITTqE-bRrdA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "This Hotel is amazing.  The service was impeccable and the staff could not do enough for you.  The food at all 3 restaurants was so good and the views from the restaurants are unbeatable. I would highly recommend this hotel and we will be back!",
+            "time": 1730393164,
+            "translated": false
+        },
+        {
+            "author_name": "Cameron Williams",
+            "author_url": "https://www.google.com/maps/contrib/112582087792515718567/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX27D_w3ZMgex0oM1uu656fzLwRaBO-odGDystzofZV_fHkR5sp=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We stayed a few nights at the Splendide Royal and we could not have been happier! The entire staff was incredibly friendly, from front desk to the breakfast crew. Big shout out to Gina and Laura who made our mornings wonderful.",
+            "time": 1727447141,
+            "translated": false
+        }
+    ]
+}

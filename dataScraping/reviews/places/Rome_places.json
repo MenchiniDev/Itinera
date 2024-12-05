@@ -1,0 +1,1061 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.89999219999999,
+                "lng": 12.4997019
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.90132798029149,
+                    "lng": 12.5011003302915
+                },
+                "southwest": {
+                    "lat": 41.8986300197085,
+                    "lng": 12.4984023697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "UNAHOTELS Decò Roma",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1401,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113897228124425467256\">UNAHOTELS Decò Roma</a>"
+                ],
+                "photo_reference": "AdDdOWrfsxtH3u9MBGJ4qcqd3SeWBC4Zxv-3u2ieL1tSGJWHFVAUCDkARIv65ZLxMUaLXc7DIST7zlAJDA56okNVTi_XwwObgugqWG-1ryWNu22kOkRY8F4EN672ot6M0O3yyBNN0266UJf_Ysh-KT6LyMLskG_kCcxOylW4wPj1jY47h6W1",
+                "width": 2100
+            }
+        ],
+        "place_id": "ChIJk6d0a6RhLxMRVH_wYTNrTDQ",
+        "plus_code": {
+            "compound_code": "VFXX+XV Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJVFXX+XV"
+        },
+        "rating": 4.4,
+        "reference": "ChIJk6d0a6RhLxMRVH_wYTNrTDQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2116,
+        "vicinity": "Via Giovanni Amendola, 57, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.8899689,
+                "lng": 12.4942703
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.89140963029151,
+                    "lng": 12.4955786302915
+                },
+                "southwest": {
+                    "lat": 41.88871166970851,
+                    "lng": 12.4928806697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "RoYaL Art Cafè",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116624275645538814451\">RoYaL Art Cafè</a>"
+                ],
+                "photo_reference": "AdDdOWo5Vj1A93scmwjqJI3l04mF24mGKk7H8lhXptu3HPfpPDHq0G9W9IlcdO1M99q-iW9ofYE7U0Bh_Wch6JYV2i1pWYxLjB0TWU0D9z5X2NdtWzWbN7rf4aBNBSWt14BdKsrZiNqNUEkOlBeLgjx6rQiLq6tC6ocwWF2PHxWFPdGg-WNz",
+                "width": 1179
+            }
+        ],
+        "place_id": "ChIJI7PPc7dhLxMRRt-a0qPpdNs",
+        "plus_code": {
+            "compound_code": "VFQV+XP Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJVFQV+XP"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJI7PPc7dhLxMRRt-a0qPpdNs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8244,
+        "vicinity": "Piazza del Colosseo, 1, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.90704179999999,
+                "lng": 12.4898377
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.90844348029151,
+                    "lng": 12.4912979802915
+                },
+                "southwest": {
+                    "lat": 41.90574551970851,
+                    "lng": 12.4886000197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Baglioni Hotel Regina - Rome",
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101808616814537990224\">Baglioni Hotel Regina - Rome</a>"
+                ],
+                "photo_reference": "AdDdOWqOcIZOD959pyozHHziEycqM3SWifyn-erx2lSUReKJEpR7ylBvj8Hy6oaKppMM1TeCgZ9IjnbeTWn3n3WXbCMDMJfJWTtc4ARwkkr3yghNTlnnI0RpTMBil3luWMAYXQLOBw4O-jZTCSfBWUqHoWEnFC32km0DV_31ZKQET2EsrnMr",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJSXC_NKphLxMR-W1fh44pYOY",
+        "plus_code": {
+            "compound_code": "WF4Q+RW Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF4Q+RW"
+        },
+        "rating": 4.5,
+        "reference": "ChIJSXC_NKphLxMR-W1fh44pYOY",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 692,
+        "vicinity": "Via Vittorio Veneto, 72, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.90471139999999,
+                "lng": 12.4806045
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.90609248029149,
+                    "lng": 12.4820263302915
+                },
+                "southwest": {
+                    "lat": 41.90339451970849,
+                    "lng": 12.4793283697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel d'Inghilterra Roma - Starhotels Collezione",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1999,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105231646872255162381\">Hotel d&#39;Inghilterra Roma - Starhotels Collezione</a>"
+                ],
+                "photo_reference": "AdDdOWpCSeOyM_S4aYn9pHR1XPNyDutrjKmo6X7qOuonpy4yWaJENza1mTYDPwOXLySBc81pFRVIiqHa8KkSC8cxqDXcjJnLY2TbQpKnu5laQmgAF9ol8Q6dF1m7QcvaWTNoiQjmiKTxwB3iw60Q50iJaGC-c9vb8uFCF1nAPCwz3SjusK5G",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJXwZhXlRgLxMRBk-k6U2rTaA",
+        "plus_code": {
+            "compound_code": "WF3J+V6 Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF3J+V6"
+        },
+        "rating": 4.3,
+        "reference": "ChIJXwZhXlRgLxMRBk-k6U2rTaA",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 498,
+        "vicinity": "Via Bocca di Leone, 14, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.90791160000001,
+                "lng": 12.4867411
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9092600302915,
+                    "lng": 12.4880400302915
+                },
+                "southwest": {
+                    "lat": 41.9065620697085,
+                    "lng": 12.4853420697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Splendide Royal",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104002390085821072817\">Hotel Splendide Royal</a>"
+                ],
+                "photo_reference": "AdDdOWppekc7fKgYA0mZk2BUdiQqilF2UaebfdIBbRRrKMYQKsh-2YA5Cxhd8INWX70uc8473DTprOWSmAQue7U7vZGr8QrWWdZqUJ6jUql5HJGEq0WwN2o_aHagY8_-VYhKsX7bSL6qHuCYEZnvgzDOW2NNrQ4ZyWlNKdKoGfHpzm9moC_u",
+                "width": 4500
+            }
+        ],
+        "place_id": "ChIJ3yLYfQBhLxMRHZtDqn639zc",
+        "plus_code": {
+            "compound_code": "WF5P+5M Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF5P+5M"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ3yLYfQBhLxMRHZtDqn639zc",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 434,
+        "vicinity": "Via di Porta Pinciana, 14, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.91510179999999,
+                "lng": 12.5145362
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.91647688029149,
+                    "lng": 12.5159374802915
+                },
+                "southwest": {
+                    "lat": 41.91377891970849,
+                    "lng": 12.5132395197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Silva",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 795,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115377063221806686420\">Hotel Silva</a>"
+                ],
+                "photo_reference": "AdDdOWrdisWeuqDYQo2WCoTksWIBZX-mxhTheQQHr8qWG1zdrl38YaCAwScTDH2dgHZM7Sq1CPHONR3X4YBbPcRT3VgCd3YkowZOMaC7wqfVeyxEGYFKFx9LM6znWSfNyBf21peQq4a5ztGfrrb9xMb5_EeG6sVXMbXmNyr_nnIy6pqalF8j",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJxbdhOW5hLxMRvDAZXmEWatw",
+        "plus_code": {
+            "compound_code": "WG87+2R Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWG87+2R"
+        },
+        "rating": 3.5,
+        "reference": "ChIJxbdhOW5hLxMRvDAZXmEWatw",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 219,
+        "vicinity": "Via Antonio Bosio, 20/a, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.90924089999999,
+                "lng": 12.4962065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.91052558029149,
+                    "lng": 12.4975783802915
+                },
+                "southwest": {
+                    "lat": 41.90782761970849,
+                    "lng": 12.4948804197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Oxford",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102279223788988000638\">Radon Fish</a>"
+                ],
+                "photo_reference": "AdDdOWo7wwzD2NVXM2NxSRfVbUoTASA8K0ahpyQVW1Vx4kjWhHV6DCp0TBdvrHl1ZRgGT-iOzU2BsQEvdPtLv2PGIK8ggSQJpWGZShZNxuNY2FQGuNgYRIcbC9lI-0Y0HHOoYZT3JLV4YhhtBJY63A62b7sybegfR_CWwl2GlComzgkcrg2f",
+                "width": 2252
+            }
+        ],
+        "place_id": "ChIJLdn1iAhhLxMRfPXTWz1q1Xo",
+        "plus_code": {
+            "compound_code": "WF5W+MF Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF5W+MF"
+        },
+        "rating": 3.9,
+        "reference": "ChIJLdn1iAhhLxMRfPXTWz1q1Xo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 783,
+        "vicinity": "Via Boncompagni, 89, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.90612919999999,
+                "lng": 12.4598196
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.90741278029149,
+                    "lng": 12.4611526302915
+                },
+                "southwest": {
+                    "lat": 41.9047148197085,
+                    "lng": 12.4584546697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Orange Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1530,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115240728001951550827\">Orange Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWr1w9R9zzK-13V1ZrIORrVmPi4N9l6WxrvpIb1IfFzC5bk5Epnf9974mcYKeTiQRTTnY41WoHFUFIXq95I-_EpiNU-ExTwRh1jYVR6VRo-IZuIW9JoLUIoPVvNox81mrnCapgQmtxZ4Tyo4X0z-qQnI4JUregCvMHV1TCnIY5xFVRZC",
+                "width": 2304
+            }
+        ],
+        "place_id": "ChIJn4dHtmBgLxMRn1S5aJ4OSl0",
+        "plus_code": {
+            "compound_code": "WF45+FW Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF45+FW"
+        },
+        "rating": 3,
+        "reference": "ChIJn4dHtmBgLxMRn1S5aJ4OSl0",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 341,
+        "vicinity": "Via Crescenzio, 86, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9198155,
+                "lng": 12.4815057
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9211007802915,
+                    "lng": 12.4827883802915
+                },
+                "southwest": {
+                    "lat": 41.9184028197085,
+                    "lng": 12.4800904197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Lord Byron",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105205527053594228733\">Hotel Lord Byron</a>"
+                ],
+                "photo_reference": "AdDdOWrUgAIAIVbhhlrGs-ZvfIRE08-D99k5cXeWtoeWsn_QneWC2yC2QCthcmUo3oKq4fRyFO-n30EGClzwa0XX4qhsyGlfdSJOMRjNQpFY0dXWeoKwveA-dcsms3N8UDJzEf5wtKMhCoNP1w8lkKetMG8nRc7KuBroZq25MBeRsX5VDUKN",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJCdGY5eJgLxMRObAtPWO3aag",
+        "plus_code": {
+            "compound_code": "WF9J+WJ Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF9J+WJ"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJCdGY5eJgLxMRObAtPWO3aag",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 227,
+        "vicinity": "Via Giuseppe de Notaris, 5, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9003233,
+                "lng": 12.4989324
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9016562302915,
+                    "lng": 12.5004001302915
+                },
+                "southwest": {
+                    "lat": 41.8989582697085,
+                    "lng": 12.49770216970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Bettoja Hotel Mediterraneo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1996,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109735594050994760129\">Bettoja Hotel Mediterraneo</a>"
+                ],
+                "photo_reference": "AdDdOWrv_Pfpp6inab6YGaJkI2UNMvhk0oNs4obrlSHPpDMlg8PMqzqdgJA-VesrVZEWYIIpzxA3D7RIpgsuW3zErg_f48ROjFBEOx8b7lt7oHjE9eYva_U_zbBugI4idBYQGvHLWaKEvpWIMH1AxLZ9wPU8zChANsSCuckXyZIoCgmS46ef",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJOZm9OaRhLxMRHst-uYUrJ3o",
+        "plus_code": {
+            "compound_code": "WF2X+4H Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF2X+4H"
+        },
+        "rating": 4.2,
+        "reference": "ChIJOZm9OaRhLxMRHst-uYUrJ3o",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2251,
+        "vicinity": "Via Cavour, 15, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.91778359999999,
+                "lng": 12.4916535
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9191349802915,
+                    "lng": 12.4928873302915
+                },
+                "southwest": {
+                    "lat": 41.9164370197085,
+                    "lng": 12.4901893697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Parco dei Principi Grand Hotel & SPA",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2848,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111741379562197202684\">Simone Paris</a>"
+                ],
+                "photo_reference": "AdDdOWqbhPT-qedLXVlmV7XGAG-3f0YCk3AbxatmK7mpSTCNXnVfYOFjsH-b-LqBRosfWnBqZ5JsMCElpfrz2fraTp2rLF_z_7xAJnH2Q4s_VT7H9Im7iV138yWJKUi6V6ui_c1_wAeeFEQk0bKJWZssJ_zkmZ5PoO0mC_k23vX2dScS0ns7",
+                "width": 3618
+            }
+        ],
+        "place_id": "ChIJYxlGORthLxMRbSbnT_Qc2As",
+        "plus_code": {
+            "compound_code": "WF9R+4M Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF9R+4M"
+        },
+        "rating": 4.5,
+        "reference": "ChIJYxlGORthLxMRbSbnT_Qc2As",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "gym",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1772,
+        "vicinity": "Via Gerolamo Frescobaldi, 5, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9076439,
+                "lng": 12.4866398
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9089080802915,
+                    "lng": 12.4880171302915
+                },
+                "southwest": {
+                    "lat": 41.9062101197085,
+                    "lng": 12.4853191697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Sofitel Roma Villa Borghese",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106067401502377013225\">Sofitel Roma Villa Borghese</a>"
+                ],
+                "photo_reference": "AdDdOWo-tkLNUZxGcZlXTFKBh5-zGmyCb8qQc6EdzOFHu_iegg0F7jgux9hlFeqen6zAv67LdzVMJbobYCo5-OCDolYgdfgmIAZJ9_YjZiLD3eNsd2AYdQ7d69LUYruJ24wtEWC8h_v3BzpKhhrqKpSd4PWCCBCRGJc5bd56Vyg3Kjp-Spsb",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJ6xPAgaphLxMRRNFYnP_XYdM",
+        "plus_code": {
+            "compound_code": "WF5P+3M Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF5P+3M"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ6xPAgaphLxMRRNFYnP_XYdM",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 777,
+        "vicinity": "Via Lombardia, 47, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9073982,
+                "lng": 12.4517011
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9087232802915,
+                    "lng": 12.4531104802915
+                },
+                "southwest": {
+                    "lat": 41.9060253197085,
+                    "lng": 12.4504125197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "The Spring House Hotel, Tapestry Collection by Hilton",
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100542606074430609145\">The Spring House Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrhUISrFhGGsX1cY03597xt53CN8tTwHML6BMpiX40e88O8QEZNXOn5n2tPateNN86WIPsccbPqOpsJUlPrKMlMGZ8269srNK1uGu_uLY3L7mBMbxwJfMMnpduioPex05G0dC82fAKUy_Wt6kVj0PF5XS-r5QEgcwRspSrRcgJ2oYEt",
+                "width": 4500
+            }
+        ],
+        "place_id": "ChIJJ6jqcWNgLxMRHFDyfNfoqQY",
+        "plus_code": {
+            "compound_code": "WF42+XM Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF42+XM"
+        },
+        "rating": 4.4,
+        "reference": "ChIJJ6jqcWNgLxMRHFDyfNfoqQY",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1370,
+        "vicinity": "Via Mocenigo, 7, Roma"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 41.90555749999999,
+                "lng": 12.487875
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9068867302915,
+                    "lng": 12.4893212302915
+                },
+                "southwest": {
+                    "lat": 41.9041887697085,
+                    "lng": 12.4866232697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Majestic",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 4284,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115168092804658161890\">Natalie West</a>"
+                ],
+                "photo_reference": "AdDdOWqenBHrhXCtfw1uKQNcR_HscHsqN_Gk82aebwCXJ69-7RQI9RdirX0RYMNZ2Z2LzoHhCg1_vv7OaIrfOTxm6mqNK4jUbeaMUhsoQrGw5by4PuE0_05vlXwvF49oxCvn_ojwHeNiYEi0qSkr0nxbAA7pvnlALVZtzlckhYqSjfNudwfl",
+                "width": 5712
+            }
+        ],
+        "place_id": "ChIJBRYjOaphLxMRG2PLxQSykp0",
+        "plus_code": {
+            "compound_code": "WF4Q+65 Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF4Q+65"
+        },
+        "rating": 4.4,
+        "reference": "ChIJBRYjOaphLxMRG2PLxQSykp0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 351,
+        "vicinity": "Via Vittorio Veneto, 50, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9099435,
+                "lng": 12.4774581
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9112450802915,
+                    "lng": 12.4787444802915
+                },
+                "southwest": {
+                    "lat": 41.9085471197085,
+                    "lng": 12.4760465197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel de Russie",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114640979678585791252\">Hotel de Russie</a>"
+                ],
+                "photo_reference": "AdDdOWpUGukNT3R5F-dxWsBnbAh4roEn93oK_cNbYwp3Pc9vWwKxxozYYnjlIR24sgkHrDGhqT4l0ym_BHyJEfCtWQUypP1UOUAy8jaUVKrOMCa5jdjkvvBA2BuKsWVrCBYSRO-PEb87qC-x4rX27-yYyHudbitIkmxz7PbSADxs7oQ1ARA",
+                "width": 5400
+            }
+        ],
+        "place_id": "ChIJ2Ti8x_hgLxMRXimOeq7uheo",
+        "plus_code": {
+            "compound_code": "WF5G+XX Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF5G+XX"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ2Ti8x_hgLxMRXimOeq7uheo",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1642,
+        "vicinity": "Via del Babuino, 9, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9074377,
+                "lng": 12.4893391
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.90867078029149,
+                    "lng": 12.4906308302915
+                },
+                "southwest": {
+                    "lat": 41.9059728197085,
+                    "lng": 12.4879328697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Savoy Roma",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102358669795911452477\">Hotel Savoy Roma</a>"
+                ],
+                "photo_reference": "AdDdOWry_F_6Qy6N_knSAuqi_DXNGYfikSM8JlYu-XVLe99DTwWViZK-O4m_CMGwEHLE-Ebs5t_3Q-kF084gVEo4R2GWZD5EBq9zXXaAszJnAXudrS2AVMbhm6QDkoWZy9Tv1zn-1XIGCXYuZ4nnAahUuAcWAKg2lr_am_h7ZUZf5e9YSQNi",
+                "width": 4500
+            }
+        ],
+        "place_id": "ChIJ1bCHqgBhLxMRSXGjGBD3iKQ",
+        "plus_code": {
+            "compound_code": "WF4Q+XP Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF4Q+XP"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ1bCHqgBhLxMRSXGjGBD3iKQ",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1685,
+        "vicinity": "Via Ludovisi, 15, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.8877625,
+                "lng": 12.460812
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.8889969302915,
+                    "lng": 12.4624039802915
+                },
+                "southwest": {
+                    "lat": 41.88629896970851,
+                    "lng": 12.4597060197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel del Gianicolo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5504,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100001409641917116328\">Grand Hotel del Gianicolo</a>"
+                ],
+                "photo_reference": "AdDdOWqDTwr_-wgunAFmsYtYJHGviCF7Iph0h23_tPH7YtsE61t1dSv38kMDP_AsQX2bRnyFLXsIDutw4GXD02kwrRcXmgdpkS3tg2Ne5rR9x5MkdW2dzGLiLsNiudJsZR2-tC0oxog4yjFAkqfHJDSzw9IXqKhoHT1ogfiN4nngFuWv6E4T",
+                "width": 8256
+            }
+        ],
+        "place_id": "ChIJw1j8Jj5gLxMRvE_sGvPw86Y",
+        "plus_code": {
+            "compound_code": "VFQ6+48 Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJVFQ6+48"
+        },
+        "rating": 4.2,
+        "reference": "ChIJw1j8Jj5gLxMRvE_sGvPw86Y",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "lodging",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 869,
+        "vicinity": "Viale delle Mura Gianicolensi, 107, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9067801,
+                "lng": 12.4900503
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9081948802915,
+                    "lng": 12.4915025302915
+                },
+                "southwest": {
+                    "lat": 41.9054969197085,
+                    "lng": 12.4888045697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Hotel Palace Rome",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106884046393841496636\">Grand Hotel Palace Rome</a>"
+                ],
+                "photo_reference": "AdDdOWoXSxppc9T8REUYpdJ-0R9w6mTJLfkqiOyZ5wFh2hzUYoNxzmtlq7X3jmv2AN4xBrKmFwF9uwDZv0Nu3QZSttGJzRLSznppDY3CJKKL_Kp_I_y9DvleLbUyaqXK0H8apKGvw7sw1LhT__LYdj_9hLtUoZ6fJJASS27pAmgebIltLpWW",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJSXC_NKphLxMRFO9uRgKvMyE",
+        "plus_code": {
+            "compound_code": "WF4R+P2 Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF4R+P2"
+        },
+        "rating": 4.4,
+        "reference": "ChIJSXC_NKphLxMRFO9uRgKvMyE",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 688,
+        "vicinity": "Via Vittorio Veneto, 70, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.925791,
+                "lng": 12.4418185
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.9269766802915,
+                    "lng": 12.4431472302915
+                },
+                "southwest": {
+                    "lat": 41.9242787197085,
+                    "lng": 12.4404492697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Park Hotel dei Massimi",
+        "photos": [
+            {
+                "height": 1836,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115700309744696626309\">Alexander Khokhlov</a>"
+                ],
+                "photo_reference": "AdDdOWqjdyoZoiOqAMXT8Oa-qYGOVoJpbStOjn1HA6c96XpPYtIwFP6Wzkb65mPZ8bp5kIqZjf6Ub1kDsTcfIlrZ5Vp5ee-H5t3OFsQHT6oYRSj0EoBYjO7Ct_fdqyT5dkWe5OTLatXgAeskebb8acrFg6itVC7L4bD6s_Pc3vrvVVYF2ubg",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJoRA1TJxgLxMR_GCgbUgM-ys",
+        "plus_code": {
+            "compound_code": "WCGR+8P Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWCGR+8P"
+        },
+        "rating": 3.9,
+        "reference": "ChIJoRA1TJxgLxMR_GCgbUgM-ys",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 485,
+        "vicinity": "Largo, Via Vincenzo Ambrosio, 9, Roma"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 41.9001178,
+                "lng": 12.4992685
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 41.90149413029149,
+                    "lng": 12.5006833802915
+                },
+                "southwest": {
+                    "lat": 41.8987961697085,
+                    "lng": 12.4979854197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Bettoja Hotel Massimo d'Azeglio",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2752,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104284340842515149924\">Bettoja Hotel Massimo d&#39;Azeglio</a>"
+                ],
+                "photo_reference": "AdDdOWp3DIWetIvZTwxeqLjFcyPZodxb-iX-Sj5FbEKextzDvlfNfqjNeR3EqUJg32aUs2Z6p3E0sDsyIZRUWOsWD-SK294YDdVQDHPENVm18lvB4wqjyxjzjtEShIgne2LRzvCKSvSslUXcDtU5zqEP5p0Zd0TCyM2ez-psNeLUDfJ4kvPA",
+                "width": 4128
+            }
+        ],
+        "place_id": "ChIJ6dM9FqZhLxMRQ4sh1q7TANQ",
+        "plus_code": {
+            "compound_code": "WF2X+2P Rome, Metropolitan City of Rome Capital, Italy",
+            "global_code": "8FHJWF2X+2P"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ6dM9FqZhLxMRQ4sh1q7TANQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1489,
+        "vicinity": "Via Cavour, 18, Roma"
+    }
+]

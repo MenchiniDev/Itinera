@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Manzoni",
+    "rating": 4.7,
+    "reviews": [
+        {
+            "author_name": "Eric D'Angelo",
+            "author_url": "https://www.google.com/maps/contrib/114333540900171492833/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwj11T5VDcYcA45EfVEkDFqRXQhyGkkD9ocPXRqDAO166UyCjjlg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "Hotel Manzoni in Milan offers a fantastic location and exceptional service. The water pressure in the showers is great, and the breakfast selection is delicious and varied. The beds are incredibly comfy, ensuring a restful night's sleep. While the rooms are on the smaller side and could benefit from a more modern update, and more bathroom hooks would be appreciated, the overall experience is delightful. I highly recommend it for a pleasant stay in Milan",
+            "time": 1722234566,
+            "translated": false
+        },
+        {
+            "author_name": "Ruth Redlener",
+            "author_url": "https://www.google.com/maps/contrib/106967545199758174905/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSEcvj-LPR6gwZBt2_60drR2ZwsdFhfNBJkU_ki_43DydzA8wr=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "This is an old review, but stayed spontaneously in December 2021 after our flight home was delayed by a day. Hotel staff were lovely, upgraded us to a wonderful room that even had a terrace (too cold and too brief a stay to use), but we thoroughly enjoyed our stay. I hope they have improved the restaurant as immediate area restaurants are not as plentiful, but beautiful luxury shops decorated for Christmas season. Would absolutely stay again.",
+            "time": 1712633504,
+            "translated": false
+        },
+        {
+            "author_name": "Yury Gryzlov",
+            "author_url": "https://www.google.com/maps/contrib/108644423178017313366/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8nsW5G5uEv1Ujvyh2tojuBgQs4YFCxDx6G7X0BzvaXWs0rgpQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "What a treat! While rated at 4 stars, I feel it definitely deserves more. Classy but functional (I'm usually not a big fan of old hotels) and renovated to perfection! Impeccable rooms and not intrusive service, super location (surprisingly very very quiet while being in the center!). Will get back. Thank you team!",
+            "time": 1707641927,
+            "translated": false
+        },
+        {
+            "author_name": "Alex Pritts",
+            "author_url": "https://www.google.com/maps/contrib/101512116760672638188/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUImt3GavfE5froCQpZHGloVX3-A1VHOsxqtm6lFNNa5JL7pMz-Sg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Location location location!! This hotel is incredible and it couldn’t be in a better location. The service here is amazing and the hotel is so beautiful. The service is also the fastest I’ve ever experienced. This is definitely the nicest 4 star I’ve ever stayed in. Easy to valet park if needed. Excellent coffee and breakfast. Air conditioning works incredibly well. It’s also very quiet inside.",
+            "time": 1688472335,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Atamian",
+            "author_url": "https://www.google.com/maps/contrib/117181110891716854834/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMAzZwe0iW4bVkx1cchpo7SCHHlcTIIZCdNYXuxw7lo3bpW9GS=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Perfectly located, 5 minute walk to Montenapoleone metro stop. In the high end fashion district. Very quiet! The hotel is very well kept and what I would call \"old world\" style. The staff are outstanding, offering great suggestions for dinner and even booking reservations for us. We had a great stay!",
+            "time": 1695410691,
+            "translated": false
+        }
+    ]
+}

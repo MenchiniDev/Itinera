@@ -1,0 +1,66 @@
+{
+    "name": "Plan B",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Dimitris Ladas",
+            "author_url": "https://www.google.com/maps/contrib/112357661140972839159/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXl-qm4PFi-VX3qgALJzKN5P5DY5NRmI6l5J6h2f24n4hCwi4KgXg=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "9 months ago",
+            "text": "Plan B Bar in Warsaw offers an electrifying ambiance that pulsates with cool vibes and infectious energy. From the moment you step in, you're greeted by a dynamic atmosphere that instantly uplifts your spirits. The eclectic music selection sets the perfect tone, catering to diverse tastes and ensuring there's something for everyone to groove to. The sleek and modern decor creates a trendy backdrop for an unforgettable night out. The staff exudes warmth and hospitality, adding to the overall welcoming feel. Whether you're sipping on expertly crafted cocktails or enjoying the lively conversations, Plan B Bar promises an exhilarating experience worth revisiting.",
+            "time": 1709120047,
+            "translated": false
+        },
+        {
+            "author_name": "Bowen de Vries",
+            "author_url": "https://www.google.com/maps/contrib/106862389518718533216/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxG9ea2bgYXcZSlykoJmAnnsTPvu-kly3I9Iw9CYFA0PjSAZKVjw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "4 months ago",
+            "text": "What happened to this place. We come here for years now. It used to be such a dope venue. Always packed with great atmosphere. Now it's a sad looking bar, smells like a sewer because of the nasty toilets and had one girl working her butt off while the other 3 boys behind the bar joke around and drink shots. What an embarrassment. Perhaps a change in management, or actual management might help turn it around.",
+            "time": 1722678787,
+            "translated": false
+        },
+        {
+            "author_name": "AXE VALENTINE",
+            "author_url": "https://www.google.com/maps/contrib/117411237395202766446/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH_oMVaDggso1wKMkG0ATrU_Nzy0cCKWVMYmBPwCaLajwsHWA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Well, What can I say? We had a great time there. Had a bunch of different cocktails and they were quite good, especially Warsaw Iced Tea. Service could be better, but who cares after a drink or a two? 🍹🍺🍻",
+            "time": 1672331133,
+            "translated": false
+        },
+        {
+            "author_name": "Fredrik",
+            "author_url": "https://www.google.com/maps/contrib/115379379901652444337/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNK2a5pr8GbAS0ZK3kalVSBwl_2RUbLkKkif4MwU5Zo_8bLVsiPg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Coolest place in Warsaw! Love the vibe. But please invest in a better sound system, the bass is pathetic.",
+            "time": 1725384939,
+            "translated": false
+        },
+        {
+            "author_name": "Viada Enterprise",
+            "author_url": "https://www.google.com/maps/contrib/116273308320916215113/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxl5faksS71N0FgosK2UcxeK7RTdqtHZcpmGwlAyywngG7VvKg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "relative_time_description": "10 months ago",
+            "text": "Crowded,small place with broken toilet locks.If you enter this place be ready to wash  afterwards all your clothes you have on and shave your head,bc this is the only way to get rid of this stinky smell from your hair",
+            "time": 1705256349,
+            "translated": false
+        }
+    ]
+}

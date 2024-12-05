@@ -1,0 +1,66 @@
+{
+    "name": "Neste",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Алекс Грин Фрай",
+            "author_url": "https://www.google.com/maps/contrib/100319306969367571087/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrW1cPIjOJWxFeOXMd2SZfVJZn5u-NitAon7X4-NDzYdeAPh8=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Automatic",
+            "time": 1559296060,
+            "translated": false
+        },
+        {
+            "author_name": "Andrew Krsheminsky",
+            "author_url": "https://www.google.com/maps/contrib/101429849379145671301/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDtzOm6SrmfNpldiCBOIn5sMb7i010Bv4gt0gXJRx27RbQr0KDKA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Eternal problem with the application. Money is blocked, fuel is not available. Money returns in more than a week! I do not recommend using the application. Not the first time. The operator cannot solve anything or does not want to. Sometimes it seems better to refuel more expensively but at another station, just not to spoil your mood!",
+            "time": 1700322468,
+            "translated": true
+        },
+        {
+            "author_name": "Girts Kovalevskis",
+            "author_url": "https://www.google.com/maps/contrib/114249795970576697979/reviews",
+            "language": "en-US",
+            "original_language": "lv",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXl_SkFdyb5S8mX5ZnMUUc6FH1qYza_4hKpdte3FNfen680ipE3=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "4 years ago",
+            "text": "I fill up here very rarely. The station is in a convenient location for me, as I pass by often, but the price is always higher than in the neighboring Neste stations.",
+            "time": 1604851921,
+            "translated": true
+        },
+        {
+            "author_name": "Vjaceslavs Dementjevs",
+            "author_url": "https://www.google.com/maps/contrib/101183007132128537002/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVikwn8q7AMBnWKNHhlSHl8QmhqDydVFPut93HgvmJ8R3oZAQDx=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "7 years ago",
+            "text": "Good prices for fuel. The station is automatic. There is no store.",
+            "time": 1490792259,
+            "translated": true
+        },
+        {
+            "author_name": "Atis Duka",
+            "author_url": "https://www.google.com/maps/contrib/116325588860659728576/reviews",
+            "language": "en-US",
+            "original_language": "lv",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCuv_hj0V7nipJjlINCmQ0mNtBcGsmigCfxZaDF7BzOAIN1A=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Excellent. No need to stand in line of burger eaters to pay for fuel.",
+            "time": 1557728323,
+            "translated": true
+        }
+    ]
+}

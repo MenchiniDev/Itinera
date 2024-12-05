@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Marski by Scandic",
+    "rating": 4.3,
+    "reviews": [
+        {
+            "author_name": "Cristina Núñez Pardo",
+            "author_url": "https://www.google.com/maps/contrib/112938091103068308172/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV24pxII-xKj9VAAx3PEmK8cp-Dj1J52TGhuVzjm-doYygE-ak3=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "2 weeks ago",
+            "text": "Fancy hotel cool decor but poor rooms. They always give me the basement window despite I travel for work. Bed duvets are not big enough and I always feel I have half of the body outside the blanket. I try to flatten the duvet but they redo it every single time. Also they don’t have body lotion.\nWhen big events happen (like now with Slush) a basement room with no window costs up to 370 euro and they never let you know when that price will increase.",
+            "time": 1732130090,
+            "translated": false
+        },
+        {
+            "author_name": "Roman Olekshiy",
+            "author_url": "https://www.google.com/maps/contrib/107941214981196274312/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQkKI_KbrUWqnsUFOvCNTeVcz39n6Qx6kp4iiF_BObSYFeDJkX=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Very good hotel in centrer of Helsinki, 4 minutes walk to central station. Rooms spacious and brand new. Various food were provided during breakfast. Lots of vegan and sustainable foods",
+            "time": 1728804431,
+            "translated": false
+        },
+        {
+            "author_name": "Ed Barry",
+            "author_url": "https://www.google.com/maps/contrib/117000399789746655181/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNkObm3vBRb4gAmZHAQCqa-2ot_keT6eJAvCayFQ6UkV7s0tw=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "Interesting place clearly updated but only to a point. I don't understand why (other than cost) why hotels, especially tourist hotels, have only one baggage holder when there's generally 2 people in a room. The lobby desk is periodically overwhelmed so they will not answer the phone. Mostly understandable. Breakfast is a free for all but I think it speaks more to the clientele than the hotel. People stay way too long at the tables when they are done causing a standing backlog. Also because clearing the tables is difficult it's hard to tell who's gone or not. Staff is helpful, great recommendations.  So I think the hotel is fine but to me it's one star too many. The mini bar in the room is bare bones.  I'd stay again but my expectations of the chain is that likely all of the properties are one star too high.",
+            "time": 1725442664,
+            "translated": false
+        },
+        {
+            "author_name": "Belle Chen",
+            "author_url": "https://www.google.com/maps/contrib/109544895239484312259/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqLiSxvPb-z7HvTHeY--j7yI8paZPzpE5gtm_wcqQSpV1hlOY=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We stayed in a room on the -1 floor, which was neat and clean. The front desk staff were friendly and professional, and the breakfast buffet was a delightful bonus.\n-\nHowever, the shower drainage could use some maintenance.\n-\nOverall, it was a positive hotel experience.",
+            "time": 1725356562,
+            "translated": false
+        },
+        {
+            "author_name": "Manmeet Sandhu",
+            "author_url": "https://www.google.com/maps/contrib/112049029260018489950/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRC71sMQYs6_Y7remqRNKkqF7EDagOTOiHPEjLnOqFvpFp-g=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "One of the best places to stay in helsinki. Stayed for 3 days and loved it. It is close to all major attractions and some of the best restaurants in the city. The breakfast buffet was good and had several continental to scandivian food options. Rooms were newly renovated and clean. Cleaning services were also good.",
+            "time": 1724130378,
+            "translated": false
+        }
+    ]
+}

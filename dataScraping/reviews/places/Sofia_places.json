@@ -1,0 +1,1074 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.697454,
+                "lng": 23.328315
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6987916802915,
+                    "lng": 23.3295390302915
+                },
+                "southwest": {
+                    "lat": 42.6960937197085,
+                    "lng": 23.3268410697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Arena di Serdica Boutique Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112936916411064083318\">Arena di Serdica Boutique Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWpkh5gqLlJ3HLNVF4O5NvU1OZGpBGOhu_UK0WxpHPPwaf0UGu3s8jDYxAXW1fjk3yg3-XopTOjNSOfZy6gcpu3bzhkc5AmKxa2IierAPCpJyragTZAn3Tz5q5MAKaqF3C_Vq_ZnLXWufNUYzYMrDTL-UqQqHryQinmBJqYgpVaT_F8c",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJY3JNPFyEqkAR82fNuUtNW8M",
+        "plus_code": {
+            "compound_code": "M8WH+X8 Sofia, Bulgaria",
+            "global_code": "8GJ5M8WH+X8"
+        },
+        "rating": 4.5,
+        "reference": "ChIJY3JNPFyEqkAR82fNuUtNW8M",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 743,
+        "vicinity": "ulitsa Budapeshta 2, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6937252,
+                "lng": 23.3374103
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.69517363029149,
+                    "lng": 23.3387673802915
+                },
+                "southwest": {
+                    "lat": 42.6924756697085,
+                    "lng": 23.3360694197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel “Crystal Palace Boutique“",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 639,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106502033767239799898\">Хотел &quot;Кристъл Палас&quot;</a>"
+                ],
+                "photo_reference": "AdDdOWp8rUCHT3PNSylx_AnREn55ctu3Pjl3LHwjfzh05t0QINqwnrNQhTd4CkvmtziIWcC22_NUTqsv1Xab2tEk0zyq2pZg-fW_T8yYNq-FNk5v8julaeBsQJcaouEOseLOYUk7SaXGr0CMIMMvj3mypTwjH33qTi7CJVgmBtfojEdK59jE",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJvQLFFXaFqkARPjb8eGVqBmA",
+        "plus_code": {
+            "compound_code": "M8VP+FX Sofia, Bulgaria",
+            "global_code": "8GJ5M8VP+FX"
+        },
+        "rating": 4.5,
+        "reference": "ChIJvQLFFXaFqkARPjb8eGVqBmA",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 986,
+        "vicinity": "Shipka Street 14, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6737742,
+                "lng": 23.3488395
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6749558802915,
+                    "lng": 23.3499515802915
+                },
+                "southwest": {
+                    "lat": 42.6722579197085,
+                    "lng": 23.3472536197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Park Hotel \"MOSKVA\"",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104749636680197443376\">Park Hotel &quot;MOSKVA&quot;</a>"
+                ],
+                "photo_reference": "AdDdOWoJwRAJ1hbzmjjuN5oTqI9b7EhTDF0o5RBruKX4YgPHHSG3c2PNOneke2cKHiywKgWjjf5ToSIR4S8julFtwScP0V4fntJoqxKeRzLI-nbwqPCcZUVZj9EGIcMExXNOyQbdZH7x5IyxgTUTvuDFP80C_e7atEuGL4WmeIHK067J6oAd",
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJm3P5L7aFqkARC4nRTuFhJT0",
+        "plus_code": {
+            "compound_code": "M8FX+GG Sofia, Bulgaria",
+            "global_code": "8GJ5M8FX+GG"
+        },
+        "rating": 4,
+        "reference": "ChIJm3P5L7aFqkARC4nRTuFhJT0",
+        "scope": "GOOGLE",
+        "types": [
+            "park",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4167,
+        "vicinity": "Nezabravka Str, ulitsa \"Nezabravka\" 25, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6819731,
+                "lng": 23.2889934
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6833669802915,
+                    "lng": 23.2902585802915
+                },
+                "southwest": {
+                    "lat": 42.6806690197085,
+                    "lng": 23.28756061970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "hotel GENEVA",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112939293965649654930\">And And</a>"
+                ],
+                "photo_reference": "AdDdOWpvNdLaf-E2fMN-yQ0Hh0SQLB-WeH8v3orvBdV1j13uIZH5uyuSbkzL0VUBVhlQq_qz3-yIt2GxD36S5VoLeCm1RKjbgF72INokD97rnZaGyM45d2z0S6Kw-gJ3WQZekw8DjVYLVxiiW76tWt9YOQWZPRwVJshlIAJxwfzA-QPQfN4z",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJVbPQjGiFqkARIBigUrwkrXo",
+        "plus_code": {
+            "compound_code": "M7JQ+QH Sofia, Bulgaria",
+            "global_code": "8GJ5M7JQ+QH"
+        },
+        "rating": 4.2,
+        "reference": "ChIJVbPQjGiFqkARIBigUrwkrXo",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 680,
+        "vicinity": "1612, ulitsa \"Balkandzhi Yovo\" 9, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.69986019999999,
+                "lng": 23.31568489999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.70116858029149,
+                    "lng": 23.3171648802915
+                },
+                "southwest": {
+                    "lat": 42.69847061970849,
+                    "lng": 23.31446691970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Best Western Plus Bristol Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2252,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116913302896574312399\">H. Jung</a>"
+                ],
+                "photo_reference": "AdDdOWoX2m_BiYfP0aghB0UTYBeo_RQ15LuZPYQrT4a7bV2SNcMMsDgUF7zeeyPbsHP8X5BQFEiWPPFPDO2F-UyDoprK0wYuA4jacZDzH2U1NIK3cBGTXV3lcmtrbP7MIbFZ4MkI47pX-G3IDJQmJEcXQpRepFObCxgh_YdHipvOOi6WReRL",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJK_QUgEKFqkARggr-y0qzh9k",
+        "plus_code": {
+            "compound_code": "M8X8+W7 Sofia, Bulgaria",
+            "global_code": "8GJ5M8X8+W7"
+        },
+        "rating": 4.1,
+        "reference": "ChIJK_QUgEKFqkARggr-y0qzh9k",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1356,
+        "vicinity": "Hristo Botev Boulevard 69, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.68425980000001,
+                "lng": 23.2971313
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6856779802915,
+                    "lng": 23.2986059302915
+                },
+                "southwest": {
+                    "lat": 42.6829800197085,
+                    "lng": 23.2959079697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Forum",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 971,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117768510746223985827\">Хотел Форум</a>"
+                ],
+                "photo_reference": "AdDdOWrW5VdI5hLCAWOd8ft9hrHNdTvjRNHTNb8woOlE9Wvk_aTS_5pJA37BgZrraQWhngwssMnaDB4hz6DMVtQ1NGf8i_tclq7u84rlTqH2OKepkeuW4KzwE665YNxlNNKBtl9Wr7uMw8zZqk0Bsp3l0oxboJlMMe6ueoODTV05XqD8WnAT",
+                "width": 1892
+            }
+        ],
+        "place_id": "ChIJ54JPZCOFqkARgxb5bfTZFYM",
+        "plus_code": {
+            "compound_code": "M7MW+PV Sofia, Bulgaria",
+            "global_code": "8GJ5M7MW+PV"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ54JPZCOFqkARgxb5bfTZFYM",
+        "scope": "GOOGLE",
+        "types": [
+            "parking",
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2077,
+        "vicinity": "bulevard \"Tsar Boris III\" 41, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.658576,
+                "lng": 23.3361347
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6598701302915,
+                    "lng": 23.3375514302915
+                },
+                "southwest": {
+                    "lat": 42.6571721697085,
+                    "lng": 23.3348534697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel ZOO Sofia",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1364,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113426038435296790396\">Hotel ZOO Sofia</a>"
+                ],
+                "photo_reference": "AdDdOWreILgPajUep5lGJ1pSZbeKO61XUKtFnWHX9XgVQuqNaxmBYKu9KLJJhv9P0UJqpE6eFRwQ-w_ZgzF4fwZdfBbmjqv6kc-psZB7vxvL2kjUN7W_lUnj3SXGqFvELOFbBwldhe_SbdbBD5V98aKgCMzZPp-OiKqnbeYUU0wS1aPaLTZt",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJAQAAAD-EqkARac37_x0NnJY",
+        "plus_code": {
+            "compound_code": "M85P+CF Sofia, Bulgaria",
+            "global_code": "8GJ5M85P+CF"
+        },
+        "rating": 4.3,
+        "reference": "ChIJAQAAAD-EqkARac37_x0NnJY",
+        "scope": "GOOGLE",
+        "types": [
+            "gym",
+            "parking",
+            "spa",
+            "health",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1562,
+        "vicinity": "Boulevard \"Simeonovsko Shose 6, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6820127,
+                "lng": 23.3238684
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6833819802915,
+                    "lng": 23.3251365302915
+                },
+                "southwest": {
+                    "lat": 42.6806840197085,
+                    "lng": 23.3224385697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mamma Mia Ltd",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103844454488046376684\">наталия караиванова</a>"
+                ],
+                "photo_reference": "AdDdOWpAgirH_3CdEla9SMfJWGtUUJBezoFP4wlFKFIwzatS1VzSad4j44ZFeP9f8BKRfc9oxGI73BIbZHPQkYK_XVK6M0H2fM9O63acQruSVoduvsa9aZUpr2ws-f2iUoo2bKEv3btdDUnAPhg9sjukDE5kKlga0VxMAw4PcnHUcFxG7XGZ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJb1lcPAaFqkARv8cRHb3LA8g",
+        "plus_code": {
+            "compound_code": "M8JF+RG Sofia, Bulgaria",
+            "global_code": "8GJ5M8JF+RG"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJb1lcPAaFqkARv8cRHb3LA8g",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1347,
+        "vicinity": "ulitsa \"Kapitan Andreev\" 13, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6893416,
+                "lng": 23.324585
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6906131302915,
+                    "lng": 23.3259209802915
+                },
+                "southwest": {
+                    "lat": 42.6879151697085,
+                    "lng": 23.3232230197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Manastirska Magernitsa Restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105546714310484637066\">Манастирска Магерница</a>"
+                ],
+                "photo_reference": "AdDdOWoh_v7-IlCaESCmQ5ctgjB6YGBAYgiOAU2jkmqxibey66MRoZ85EC-zNSFWONmHw3i3YGpNXcbJ_Iz-dK4nA-Vj1pCgnMbjBq1T-M3tMrnPDplATy9OaCdotkS7jahiBfnl0nz5pQpFHq5s2kGyC550MNkQ-xlo6SbX390eF0bNWWVp",
+                "width": 5184
+            }
+        ],
+        "place_id": "ChIJzXtU4QyFqkARFoQ60233NF0",
+        "plus_code": {
+            "compound_code": "M8QF+PR Sofia, Bulgaria",
+            "global_code": "8GJ5M8QF+PR"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJzXtU4QyFqkARFoQ60233NF0",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3397,
+        "vicinity": "ulitsa \"Han Asparuh\" 67, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.69307729999999,
+                "lng": 23.3211711
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.69439708029149,
+                    "lng": 23.3226004302915
+                },
+                "southwest": {
+                    "lat": 42.6916991197085,
+                    "lng": 23.3199024697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Divaka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1108,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110323843531860789143\">BusinessView - VisionTech</a>"
+                ],
+                "photo_reference": "AdDdOWoIZNvqdIJp0aZon-CdQpFdKQjmOorQcMeqC541bZ52Xr-LJnQmVl97h617rHKbBndTwelXt1DOAYvkLjoS-TkkSB7eny8gxfQmDkslUK1VIWkSoxIEf2mN0hr3wrGNO5Sd4taOGqXcoOOn2X66L5BGkdwWvkmHEaL8hmYv70jK59h3",
+                "width": 1662
+            }
+        ],
+        "place_id": "ChIJCyZ8Gm2FqkARqIRoTb7aN-E",
+        "plus_code": {
+            "compound_code": "M8VC+6F Sofia, Bulgaria",
+            "global_code": "8GJ5M8VC+6F"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJCyZ8Gm2FqkARqIRoTb7aN-E",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4918,
+        "vicinity": "ulitsa \"Hristo Belchev\" 16, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.68974499999999,
+                "lng": 23.3244505
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6911058802915,
+                    "lng": 23.3258024302915
+                },
+                "southwest": {
+                    "lat": 42.6884079197085,
+                    "lng": 23.3231044697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ugo",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1366,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109772859837671756204\">Just Commuter</a>"
+                ],
+                "photo_reference": "AdDdOWoBYZJrbjMigm554DX4Br2qCU2YmkJr-23t_EcPJPrIo1L8gD5poxOxdGoonmkMuc4TCiX6VHgO25oAUdkjjwQ6XqgBWio-UIXHZ4oW5OBPgkLUP1iTJodxccCqshVBnX4fGj7_BtU1VpcgdKyXeY51ujZWZmuwyyHNct3ZSBOhs1PV",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJHcxRIA2FqkARZLHqSWGypSY",
+        "plus_code": {
+            "compound_code": "M8QF+VQ Sofia, Bulgaria",
+            "global_code": "8GJ5M8QF+VQ"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJHcxRIA2FqkARZLHqSWGypSY",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 972,
+        "vicinity": "ulitsa \"Neofit Rilski\" 68, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.69167539999999,
+                "lng": 23.3200524
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6929801302915,
+                    "lng": 23.3212653302915
+                },
+                "southwest": {
+                    "lat": 42.6902821697085,
+                    "lng": 23.3185673697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "UGO",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118149114398864560142\">Wesley Vriesde</a>"
+                ],
+                "photo_reference": "AdDdOWqZ0vtre9VbfZOyBbKNthYw2TBFywdNwNwpUgtTHjVDsBcRWaz0SJf88XqP9yXsBHvK0wbZCmcYp8ZXwO1jIZNaxoQu8pO1r9oqN4nMX5ze3JcMdg5h25IMrAkUXYR5IDHn9JL4SAhZA4nc8WsDWRfpBVQatHSkUvMEKTRzXbR0O_8w",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJIxG-Vf2EqkARnUWxbj5A_Vw",
+        "plus_code": {
+            "compound_code": "M8RC+M2 Sofia, Bulgaria",
+            "global_code": "8GJ5M8RC+M2"
+        },
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "ChIJIxG-Vf2EqkARnUWxbj5A_Vw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7135,
+        "vicinity": "bulevard \"Vitosha\" 45, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6912533,
+                "lng": 23.3224839
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6926329302915,
+                    "lng": 23.3238380802915
+                },
+                "southwest": {
+                    "lat": 42.6899349697085,
+                    "lng": 23.3211401197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Divaka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105090037290840014353\">Adreena Angela</a>"
+                ],
+                "photo_reference": "AdDdOWpTTG5MWc0S0SiEaaybvDiyZzV4UeAb5s4yLSMZZnnVVrgTLHqRube4l0YJd2y76OVNDcbz3x18TdL7vdary9S1NYzqBf9TagQEm1mPwXK_WDPZZ9nE45ASEhMSdMTQfAxhQcRtKJMz631iNg6kxIFNgum7TzrbQVq7jnRiDViXP6Fy",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJpWizqnKFqkARcvZMLoGGfMA",
+        "plus_code": {
+            "compound_code": "M8RC+GX Sofia, Bulgaria",
+            "global_code": "8GJ5M8RC+GX"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJpWizqnKFqkARcvZMLoGGfMA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4515,
+        "vicinity": "ulitsa \"William Gladstone\" 54, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.659112,
+                "lng": 23.3476924
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.66065023029149,
+                    "lng": 23.3490064802915
+                },
+                "southwest": {
+                    "lat": 42.6579522697085,
+                    "lng": 23.34630851970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Vega Hotel Sofia",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 537,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108570780373539925177\">Вега</a>"
+                ],
+                "photo_reference": "AdDdOWryOJPvkq_U_c0NXwHJGf2I-cnRFb6GCD8yt5YywVdBoZDKjyb2eX0FC70QDUk5CexphFjXaEOnUF2n9YTHFEzE9RFcHSw3MyWwV5RqV3xNQY9_5nHCQVMMdp-jp-atakZzYM_aXYOAR_L6qkp7GQKu6cGW9ki7_adLfevBOlXSnWhe",
+                "width": 807
+            }
+        ],
+        "place_id": "ChIJ2c9p9TCEqkARCUdeh4_ZjKs",
+        "plus_code": {
+            "compound_code": "M85X+J3 Sofia, Bulgaria",
+            "global_code": "8GJ5M85X+J3"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ2c9p9TCEqkARCUdeh4_ZjKs",
+        "scope": "GOOGLE",
+        "types": [
+            "hair_care",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 987,
+        "vicinity": "булевард „Доктор Г. М. Димитров“ 75, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6935028,
+                "lng": 23.3185093
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6949008302915,
+                    "lng": 23.3198466302915
+                },
+                "southwest": {
+                    "lat": 42.6922028697085,
+                    "lng": 23.31714866970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "J.J. Murphy's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111001333262899065038\">Robert Davies</a>"
+                ],
+                "photo_reference": "AdDdOWok7Ae5rAz1LwvqqOLhoe_SXwtfkhOx_LT_wX-DVhxQgmFj2o-DgN2NWRrrE7McUxPG_qO9WnftbPDEdt8jSb7A1kHvToL7g3T5GBIIsZXzV3J8hqOXHqmjwo2iTaBOo7KRzFUAYKnhI1z4Tz2Mdr49qp23wyaFLvkG_JjfPypDB8-P",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJRWXGlmyFqkAR7E1lhoPyEZk",
+        "plus_code": {
+            "compound_code": "M8V9+CC Sofia, Bulgaria",
+            "global_code": "8GJ5M8V9+CC"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJRWXGlmyFqkAR7E1lhoPyEZk",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2693,
+        "vicinity": "ulitsa \"Karnigradska\" 6, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.67029369999999,
+                "lng": 23.31370919999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6716452802915,
+                    "lng": 23.3151680302915
+                },
+                "southwest": {
+                    "lat": 42.6689473197085,
+                    "lng": 23.3124700697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Happy Bar & Grill",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 641,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105996902813120692102\">Happy Bar &amp; Grill Lozenets</a>"
+                ],
+                "photo_reference": "AdDdOWor_P2G5obhDg96dSpYlAnkjshHkwRGtSqwaGml3acsSjaj0A751rxJ_epCDPL_ld-ZjJE37_HcuPKlkMlNjocX9gzzCoStUMGMHPkgwz_gzE9Y8Xy-2M8y3SqJGWv1hqkw4_4kl63JNk-5F-CA5Jk7xBTi6v8lzQ3-ACWj6uMGQEJV",
+                "width": 982
+            }
+        ],
+        "place_id": "ChIJm6Av2_6EqkAR7WrFLQb5ulw",
+        "plus_code": {
+            "compound_code": "M8C7+4F Sofia, Bulgaria",
+            "global_code": "8GJ5M8C7+4F"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJm6Av2_6EqkAR7WrFLQb5ulw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4398,
+        "vicinity": "ulitsa \"Bogatitsa\" 36, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6686403,
+                "lng": 23.3439051
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6699503302915,
+                    "lng": 23.3451550302915
+                },
+                "southwest": {
+                    "lat": 42.6672523697085,
+                    "lng": 23.3424570697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Korean Restaurant Yun",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112606996757577931769\">조준범</a>"
+                ],
+                "photo_reference": "AdDdOWr8IOZ38c7TcoBfpyCN-ik4STWYkUjAGiUQo5IHJGHaJXfHJvV5Ax9Kt3FofhrwCpIereWdh2GhRLHXCU6wce2_8R_IxCTdxOiY-4vlkQLK9XC8XBwaeI1Jc2sOryLvlqVHdUd3SW1rkUpqp9zJMSkkoTqPDj575bbaDHlwtjZfcvLx",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJVXs3T7WFqkARO8giF_S3nSs",
+        "plus_code": {
+            "compound_code": "M89V+FH Sofia, Bulgaria",
+            "global_code": "8GJ5M89V+FH"
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "ChIJVXs3T7WFqkARO8giF_S3nSs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 840,
+        "vicinity": "ulitsa \"Elemag\" 34, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.68931519999999,
+                "lng": 23.32534309999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.69066818029149,
+                    "lng": 23.3266463802915
+                },
+                "southwest": {
+                    "lat": 42.68797021970849,
+                    "lng": 23.3239484197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Divaka",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108934992111965499435\">Dess Sim</a>"
+                ],
+                "photo_reference": "AdDdOWp_RsaF8S5yMlzvzWoagF7NAYZEAKxUQCHhpG5WnNGrp2UhTrXlOji_zph0BqdmxBFblXMeOH92vQQ2OTwJZuR2HRbUDmt-POXaG9RdKy1xxkLRvmTe0b5Kl1ykslM4lNdHOAT2TLJiZlXAxSqfYrI3pd5gMwF6WRdd06iIkjmKM4ND",
+                "width": 3456
+            }
+        ],
+        "place_id": "ChIJO-HG6AyFqkARlOKfwxHo24s",
+        "plus_code": {
+            "compound_code": "M8QG+P4 Sofia, Bulgaria",
+            "global_code": "8GJ5M8QG+P4"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJO-HG6AyFqkARlOKfwxHo24s",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2046,
+        "vicinity": "ulitsa \"6-ti septemvri\" 41А, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.683091,
+                "lng": 23.3163
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6843629802915,
+                    "lng": 23.3175701802915
+                },
+                "southwest": {
+                    "lat": 42.6816650197085,
+                    "lng": 23.3148722197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Traditional Bulgarian Restaurant Chevermeto Sofia",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108433664060292093081\">Fernando Ceratto</a>"
+                ],
+                "photo_reference": "AdDdOWpt1T0zVwg1FXkTb6vrztprSSOlDO2TPv72TNoIMgCrs7Fg0X8yuy5v1ytM0QatuMQP4uGcOSR6vNgJDGOJ3ZAZsEEsBy96vuKSGA-AchYuH5hRfFIPdtO6SXpQItOPYyu1WmLR_5iIAlpGbWslvEkQ3AYFkSvhm-B7P2ZqP5tWSa3p",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJHyWYvA-FqkARPKnDwMll6Qw",
+        "plus_code": {
+            "compound_code": "M8M8+6G Sofia, Bulgaria",
+            "global_code": "8GJ5M8M8+6G"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJHyWYvA-FqkARPKnDwMll6Qw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1700,
+        "vicinity": "София, пл. България 1, Ндк, Проното, Pencho Slaveykov Boulevard, Sofia"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 42.6932923,
+                "lng": 23.3190452
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.6946346302915,
+                    "lng": 23.3204176802915
+                },
+                "southwest": {
+                    "lat": 42.6919366697085,
+                    "lng": 23.31771971970849
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Pastorant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107099514909013170745\">Taly Goren</a>"
+                ],
+                "photo_reference": "AdDdOWrxWkCDHl-Lb62dN30lQZ1Q6iayDI183fc5kewtScVnKXU4H6mQlsHd82Jpbo7BtkyS3Ce1i1E_yG7vaQAMDtvxJO4Q7T6wmBWdlQ6DhDKpaKkYbIaFFL5t8MRI_RL6m1yLWOnhsvXaBAaFSGtTwA0PKyzUT7bleYeM1TCtoMNnVOeI",
+                "width": 3427
+            }
+        ],
+        "place_id": "ChIJlct86myFqkARrh8E9rt-GXA",
+        "plus_code": {
+            "compound_code": "M8V9+8J Sofia, Bulgaria",
+            "global_code": "8GJ5M8V9+8J"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJlct86myFqkARrh8E9rt-GXA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1002,
+        "vicinity": "ulitsa \"Tsar Asen\" 16, Sofia"
+    }
+]

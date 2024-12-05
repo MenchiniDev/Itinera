@@ -1,0 +1,66 @@
+{
+    "name": "Restaurant Hanu' lui Manuc",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Magdalena Myrcik",
+            "author_url": "https://www.google.com/maps/contrib/105967742504150801956/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz7kvbglVpRps3qtZ6cZJ61uorxVeirGqahlXOu262SluxcSCxyw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "After dining I had a somewhat mixed experience. On the positive side, the quality of the food was excellent. Every dish we ordered was fresh, flavorful, and beautifully presented, so no complaints there.\n\nHowever, I found the prices to be on the high side for what you receive. For instance, a simple salad priced at 17 euros really should come with at least some bread included. Charging that much without offering even a small accompaniment felt unreasonable.\n\nUnfortunately, the service was extremely slow, and we had to wait a long time between courses. This really detracted from the overall experience, especially since it wasn’t a particularly busy night.\n\nAnother issue was the atmosphere. Non-smokers are seated alongside smokers, which made it very difficult to enjoy the meal. The smell of smoke was overpowering and unpleasant, especially when you're trying to savor the flavors of your food. A clearer separation or a smoke-free environment would significantly improve the dining experience for non-smokers.\n\nIn summary, while the food itself was great, the slow service, high prices, and the uncomfortable smoking situation left me feeling disappointed.",
+            "time": 1727099475,
+            "translated": false
+        },
+        {
+            "author_name": "Staci Loser",
+            "author_url": "https://www.google.com/maps/contrib/115399208870554655507/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfrmd0X_z632ehp9SZIFZ_LILGa3qiT6iascjxtZ_DnzckNmziAw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Benny was the best server. He gave us incredible recommendations and we loved all the food.\nEvery dish was fantastic.  We had the lamb leg, the cabbage rolls, the bean soup and the papanasi for dessert.  So so good.",
+            "time": 1732828617,
+            "translated": false
+        },
+        {
+            "author_name": "Cristian Garcia",
+            "author_url": "https://www.google.com/maps/contrib/110462818384533560842/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwjKAeL6eJBJ7Y-blhlChpyDD3HMFTHa9k0tounrORhlo2-2auqw=s128-c0x00000000-cc-rp-mo-ba7",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Seems to be one of the oldest and most traditional restaurants in Bucharest. Has live dance and music (you can also dance if you choose to) and an extensive traditional menu where the king is meat. I came with some Indian colleagues and since they were vegetarian had some issues to find options but the restaurant caters to most people. To me, the wine menu was the best, excellent local and Moldovan options.",
+            "time": 1731482631,
+            "translated": false
+        },
+        {
+            "author_name": "Nicholas Shoung",
+            "author_url": "https://www.google.com/maps/contrib/101128436513924780141/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2x8a5rcHU1KnwFd4ikJCHelMnlVKk7VPWtHJhXlSczut7ZNHMYg=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "We ate here twice, so clearly happy with the place.\n\nAtmosphere is better at dinner than lunch, but the lunch menu is incredible value. We really enjoyed our food especially the Mici and bone marrow along with the Romanian wines. The whole lamb knuckle is a bit overrated, I preferred all their other dishes.\n\nAt night the atmosphere in the courtyard with a full restaurant, good weather and live music is hard to beat.\n\nService was a bit absent at times and a little cold on entry, but otherwise mostly friendly.",
+            "time": 1727557370,
+            "translated": false
+        },
+        {
+            "author_name": "Ionela B",
+            "author_url": "https://www.google.com/maps/contrib/107460927130989152114/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNjEKbtPiwJzCh77gO69H0V8R21HqKlVbqUfY8Hytp00oPL0Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "relative_time_description": "a week ago",
+            "text": "Hanul lui Manuc is a great experience for tourists. Food is good, weiters are friendly, but the place is too small for so many persons. We was 8 persons at a table and barely could move my arms.\nThe traditional music sounded very bad and the artist had no voice. On the other hand, the dancers were wonderful, they smiled and they really need more space.",
+            "time": 1732309487,
+            "translated": false
+        }
+    ]
+}

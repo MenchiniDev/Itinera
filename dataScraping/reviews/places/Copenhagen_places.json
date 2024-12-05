@@ -1,0 +1,1078 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6763127,
+                "lng": 12.5702264
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.67761523029149,
+                    "lng": 12.5711482802915
+                },
+                "southwest": {
+                    "lat": 55.6749172697085,
+                    "lng": 12.5684503197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Palace Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1243,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116541235174530424806\">Scandic Palace Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWrZd_UOIW5tB3FH9aFkhGRt1xnH-9kSHMLMm1WWGV_R0w4n8ORvdCvT8_WXyT8f2DlA9A47lRc0qqlCkXKo6RAmcBRb2Y6i2M7a84uxT1Je9kT8TsQ7GmGcmKeFIERI-rK6RWsR_qVRp_GLbVFQoLdSzfSBljy7s23N9YVeWVqugvFx",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJAwi1AxJTUkYRH7VIhBzPxuY",
+        "plus_code": {
+            "compound_code": "MHGC+G3 Copenhagen, Denmark",
+            "global_code": "9F7JMHGC+G3"
+        },
+        "rating": 4.1,
+        "reference": "ChIJAwi1AxJTUkYRH7VIhBzPxuY",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1694,
+        "vicinity": "Palace Hotel, Rådhuspladsen 57, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6768672,
+                "lng": 12.5652595
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6783092302915,
+                    "lng": 12.5665952302915
+                },
+                "southwest": {
+                    "lat": 55.6756112697085,
+                    "lng": 12.5638972697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Ascot Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1281,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111603859066089114922\">Ascot Hotel</a>"
+                ],
+                "photo_reference": "AdDdOWr-dFen2o1B5X5sic3YpH6L3koDkpSUeGlTeJjuNECZuH6t3IWqoyk1v_LjtJwjwMaoljTveK4x4HYbxpVcZDadnaAJRcEiZ8mjTjG9eYhiGgRRObIZs75vNzceg4b1_kSLOWEw8OplYxiUgw6L2aPxn50Pvy0GXFeZcLUcgaOmAEkG",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJvejpKgxTUkYRdw9K80kbCUs",
+        "plus_code": {
+            "compound_code": "MHG8+P4 Copenhagen, Denmark",
+            "global_code": "9F7JMHG8+P4"
+        },
+        "rating": 4,
+        "reference": "ChIJvejpKgxTUkYRdw9K80kbCUs",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "health",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1536,
+        "vicinity": "Studiestræde 61, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.67494479999999,
+                "lng": 12.5596266
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.67646783029149,
+                    "lng": 12.5606007802915
+                },
+                "southwest": {
+                    "lat": 55.67376986970849,
+                    "lng": 12.5579028197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Copenhagen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1363,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112586217891680143484\">Scandic Copenhagen</a>"
+                ],
+                "photo_reference": "AdDdOWoIIyR1I0sIN_49K8qNWhS59wYqQneygWtt7zEFMZuYznHYH3XIHNQTXFMHelMLtcx8iYZnx3q6_TqV1htjFlijvBwUm-DvDugZOgsEoKCqpN-tLAvIN5jhgso-03JEHOR0j4X3r3dphJKetoiHtHC2OUIMGTky6-SRR-mL3frJEALT",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJFTasnAtTUkYRw8_1UeZ-Nls",
+        "plus_code": {
+            "compound_code": "MHF5+XV Copenhagen, Denmark",
+            "global_code": "9F7JMHF5+XV"
+        },
+        "rating": 4,
+        "reference": "ChIJFTasnAtTUkYRw8_1UeZ-Nls",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3962,
+        "vicinity": "Vester Søgade 6, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.68060519999999,
+                "lng": 12.5846997
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.68202523029149,
+                    "lng": 12.5861546802915
+                },
+                "southwest": {
+                    "lat": 55.67932726970849,
+                    "lng": 12.5834567197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel D'Angleterre",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112672360194478853496\">Hotel d’Angleterre</a>"
+                ],
+                "photo_reference": "AdDdOWqq_sU6NCiSLX7lZWtxga5Qz_h5-TdN2gxgfLB0jZ6W4zlCp1Drqyih0_MoOklma9q4OK99V2SnVRetB6XPLK9WpkfOscDOaMtvOLcIBQX9Zb6Mhuf3jXSziNxq0SEqQ_laglcm42LRARvdUrTjoS9yRVKY0tD6LNsnD_5dk3mQ7s1d",
+                "width": 6720
+            }
+        ],
+        "place_id": "ChIJtRm9KRhTUkYRdv7vSCAmeVM",
+        "plus_code": {
+            "compound_code": "MHJM+6V Copenhagen, Denmark",
+            "global_code": "9F7JMHJM+6V"
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "ChIJtRm9KRhTUkYRdv7vSCAmeVM",
+        "scope": "GOOGLE",
+        "types": [
+            "spa",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1465,
+        "vicinity": "Kongens Nytorv 34, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.68174379999999,
+                "lng": 12.5938583
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6831468802915,
+                    "lng": 12.5950099302915
+                },
+                "southwest": {
+                    "lat": 55.6804489197085,
+                    "lng": 12.5923119697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Copenhagen Admiral Hotel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100914072844059593804\">Admiral Hotel Copenhagen</a>"
+                ],
+                "photo_reference": "AdDdOWphh1FIiIvTd_tfsQqAIp9jzTEG7Rd19axE6xq4C2Fzmn4FPpbiDAPAHFQT3elIQx962NEjy-2SUrlUa0IHNJUDLWWvRegeClXiZYZSAdB8TZMLhlPQLai4IXZuQmecRJ5EW-4GzlPmacoQvUxsU1c7EVpWI2iOAzwnJwICWOjoYLX5",
+                "width": 1536
+            }
+        ],
+        "place_id": "ChIJuUjwBCNTUkYRI2UHKcbTNMQ",
+        "plus_code": {
+            "compound_code": "MHJV+MG Copenhagen, Denmark",
+            "global_code": "9F7JMHJV+MG"
+        },
+        "rating": 4.4,
+        "reference": "ChIJuUjwBCNTUkYRI2UHKcbTNMQ",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3264,
+        "vicinity": "Toldbodgade 24, 28, København K"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.67290939999999,
+                "lng": 12.5593586
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6742785302915,
+                    "lng": 12.5604855802915
+                },
+                "southwest": {
+                    "lat": 55.6715805697085,
+                    "lng": 12.5577876197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Comfort Hotel Vesterbro",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111902771014913253726\">Comfort Hotel Vesterbro</a>"
+                ],
+                "photo_reference": "AdDdOWoe6hyhbB-eJsly-9Egh5t0YsAHxlGPgN98Sl-LMJfo-gaoKp2Y5G-E0uSxkx2bF7zrPPajQOjbqQEhkRhbKHNHHAMlUjCWAl76xLA5dMdcqkf6EczqIq4BedwvMANWiw2tzWde7-JGzRpFU9crLZWtl5ZCZ4sfiwGzt02RgMfXBJ0m",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJ9XKqWQtTUkYRgG3s1F5didw",
+        "plus_code": {
+            "compound_code": "MHF5+5P Copenhagen, Denmark",
+            "global_code": "9F7JMHF5+5P"
+        },
+        "rating": 4,
+        "reference": "ChIJ9XKqWQtTUkYRgG3s1F5didw",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3586,
+        "vicinity": "Vesterbrogade 23/29, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6813386,
+                "lng": 12.5932285
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6826356302915,
+                    "lng": 12.5945537802915
+                },
+                "southwest": {
+                    "lat": 55.6799376697085,
+                    "lng": 12.5918558197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Front",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1473,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118391994052319657435\">Scandic Front</a>"
+                ],
+                "photo_reference": "AdDdOWpMfGEjCmuG57iM2HvLNBsJU5YP0gGWWt-XTnmXvTmIYnKhH5iBfxZ8DQ0gFL5RXzb9DoCEynEgzlsA2A3rfOeLhUJ63SUnq6Y_OwdZGL83TiJu8g3PNd1Ne5QSVOzigNgz1IzDh9Rk5G3XNpaKEyGN9pS6DPXHQqpZMmoJF4kQGMvL",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJMUfaHiNTUkYRv8SMa22_cXs",
+        "plus_code": {
+            "compound_code": "MHJV+G7 Copenhagen, Denmark",
+            "global_code": "9F7JMHJV+G7"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJMUfaHiNTUkYRv8SMa22_cXs",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1041,
+        "vicinity": "Sankt Annæ Plads 21, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6831332,
+                "lng": 12.5827597
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6844508802915,
+                    "lng": 12.5841756302915
+                },
+                "southwest": {
+                    "lat": 55.6817529197085,
+                    "lng": 12.5814776697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Generator Copenhagen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3755,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109398511629615538436\">Generator Copenhagen</a>"
+                ],
+                "photo_reference": "AdDdOWq6sbOnPN48KV6WUT2vDlfIYnvT5sbqEglUwFMPiY1zfF5alVIbwL1wNDVbQdDgI6ycLh9YHTXfa3MbI88V57WgkWbXvVLDNgcquVbXU9qDsSSlousmfY6ohIMDB9DWSI3UXb57yUr8FBcN7ln3b1539xBs-TEu8ejKRB-zC5uxuMnS",
+                "width": 5632
+            }
+        ],
+        "place_id": "ChIJF5P3mRlTUkYRHFiOVIREJDw",
+        "plus_code": {
+            "compound_code": "MHMM+74 Copenhagen, Denmark",
+            "global_code": "9F7JMHMM+74"
+        },
+        "rating": 4.1,
+        "reference": "ChIJF5P3mRlTUkYRHFiOVIREJDw",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 4304,
+        "vicinity": "Adelgade 5, 7, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6737712,
+                "lng": 12.5647803
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6751491302915,
+                    "lng": 12.5662763302915
+                },
+                "southwest": {
+                    "lat": 55.6724511697085,
+                    "lng": 12.5635783697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "ProfilHotels Copenhagen Plaza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2050,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106915196900174182327\">ProfilHotels Copenhagen Plaza</a>"
+                ],
+                "photo_reference": "AdDdOWrg4bAxfSBqyE8BtgkaKa1RwYYpwQMxE99B1irXmd08uWdSQj45JfgrZWlMu2Q_NvFeSZpf2uh1MZn_JzZFID140JLTIpp0-G8Ev8XCUDbF6zchNelXoDoHqa8ZXjB_zkiulwC97oYrcDxM-PzGTRcCvHr7GQ27Lo4LtdHWQU2UMQfK",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJoev5BQ1TUkYRL1h0hFGNQ6w",
+        "plus_code": {
+            "compound_code": "MHF7+GW Copenhagen, Denmark",
+            "global_code": "9F7JMHF7+GW"
+        },
+        "rating": 4,
+        "reference": "ChIJoev5BQ1TUkYRL1h0hFGNQ6w",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1116,
+        "vicinity": "Bernstorffsgade 4, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6812469,
+                "lng": 12.5917406
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6826430302915,
+                    "lng": 12.5931381302915
+                },
+                "southwest": {
+                    "lat": 55.6799450697085,
+                    "lng": 12.5904401697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel SKT. Annæ ApS",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 650,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116474678834767892701\">Hotel SKT. Annæ ApS</a>"
+                ],
+                "photo_reference": "AdDdOWqHWdKCdo5x7XjC1dhDiu5Is5fe1SvUFaWS99hlajqtKAt366ik7-_Nd13RHmlBJ0CUxl6Ii6Xp4rfmSJob5zvp_Ir4Ld0m1XMlyCc2dl52kxrQmMlaWuVbEajVs5iX3kBwMBhwiTdb6kAd8gK9Hhy-Fm6AoAxl1p8WyhmgaYSuIXxr",
+                "width": 1051
+            }
+        ],
+        "place_id": "ChIJOQgu3SJTUkYRyXwx2SzKwpI",
+        "plus_code": {
+            "compound_code": "MHJR+FM Copenhagen, Denmark",
+            "global_code": "9F7JMHJR+FM"
+        },
+        "rating": 4.3,
+        "reference": "ChIJOQgu3SJTUkYRyXwx2SzKwpI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1026,
+        "vicinity": "Sankt Annæ Plads 18, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6845583,
+                "lng": 12.5834111
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6859388802915,
+                    "lng": 12.5848120802915
+                },
+                "southwest": {
+                    "lat": 55.6832409197085,
+                    "lng": 12.5821141197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Christian IV",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 567,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106600346720005885389\">Hotel Christian IV</a>"
+                ],
+                "photo_reference": "AdDdOWpny3jcO7IBpdvrETnFHuQVTLcf9jR6lPzIRHdjiDFsJ4Mi3iJgRQ978T9wDxGmf__c5KUZ8sECsq6KFbO3rBtRJKY9nzlrXf1xk8iArPWkwlwepqtjya4WTuq01bR4Ik4jn-rFoMrlmmVnHLU3XYYFwZMH0Ig01FZ8TjYEZI9HyZx9",
+                "width": 850
+            }
+        ],
+        "place_id": "ChIJddtqbBlTUkYR_mVaE2d2P54",
+        "plus_code": {
+            "compound_code": "MHMM+R9 Copenhagen, Denmark",
+            "global_code": "9F7JMHMM+R9"
+        },
+        "rating": 3.9,
+        "reference": "ChIJddtqbBlTUkYR_mVaE2d2P54",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 423,
+        "vicinity": "Dronningens Tværgade 45, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.672146,
+                "lng": 12.5619202
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.67351318029149,
+                    "lng": 12.5633697802915
+                },
+                "southwest": {
+                    "lat": 55.67081521970849,
+                    "lng": 12.5606718197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Axel Guldsmeden Hotels",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114398373447128930846\">Axel Guldsmeden Hotels</a>"
+                ],
+                "photo_reference": "AdDdOWr9XHdSkt3l3ccHPy2WKa9evzyYKym_Go7uCLZYeyiGT1IYAVPoemHPN2kWxQWR-8YLd3cHAIkLA0b7x1ARpgTrj2UISvjkoeJa-eJGCh426TLWg6tEHZhnddcy2p8tYQGM6dBYLO42UQTuYh9NW9697Hp75zOV6yPXO1U-Yvp78bhD",
+                "width": 900
+            }
+        ],
+        "place_id": "ChIJIQgAuAxTUkYREwhuAu591mY",
+        "plus_code": {
+            "compound_code": "MHC6+VQ Copenhagen, Denmark",
+            "global_code": "9F7JMHC6+VQ"
+        },
+        "rating": 4.3,
+        "reference": "ChIJIQgAuAxTUkYREwhuAu591mY",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1786,
+        "vicinity": "Colbjørnsensgade 14, København V"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6544734,
+                "lng": 12.5415691
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6555787802915,
+                    "lng": 12.5423348302915
+                },
+                "southwest": {
+                    "lat": 55.6528808197085,
+                    "lng": 12.5396368697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Scandic Sydhavnen",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108720219371919606359\">Scandic Sydhavnen</a>"
+                ],
+                "photo_reference": "AdDdOWpdfeozCsIMvXvh7DWzVTzNxvx-uVylSC7Q6b9bagGJvdfj5hhqA1UeAy9CiEM_vb4xdsnaxdUej8_ygPEqP0ulpaMeY2ClpoBO608hOQdJumAU2wJqjpUn5wvHwIdvIJgzO7CVuEJEED6MwnUrAasoTn1doyj1UWgkt4GvJNpIb28M",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJE8Lo1YFTUkYRkFA6O1UGRHs",
+        "plus_code": {
+            "compound_code": "MG3R+QJ Copenhagen, Denmark",
+            "global_code": "9F7JMG3R+QJ"
+        },
+        "rating": 3.9,
+        "reference": "ChIJE8Lo1YFTUkYRkFA6O1UGRHs",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2806,
+        "vicinity": "Sydhavns Plads 15, København"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": {
+                "lat": 55.6726439,
+                "lng": 12.5616554
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6740092302915,
+                    "lng": 12.5630950302915
+                },
+                "southwest": {
+                    "lat": 55.6713112697085,
+                    "lng": 12.5603970697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "First Hotel Excelsior",
+        "permanently_closed": true,
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100058078904436916000\">Vladimir Fronton</a>"
+                ],
+                "photo_reference": "AdDdOWoRmt7mQYSWb12wWJnV7M-SnBEDXQh7L7oZ3w3XwRrgxa-SIaXvk5ASdyKYZMTA4BXHU4t89uTrI9if_Gmb4iUci_0dKFLH2qk889JJW93Cu14XF-1IrevL9C_81oJzSE9wsE2YN7rzTgISX7qJ3QxD_Sibge2NPpoCaQ8c0nPpnugV",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJV1QgxwxTUkYR2ACsZK3Fecw",
+        "plus_code": {
+            "compound_code": "MHF6+3M Copenhagen, Denmark",
+            "global_code": "9F7JMHF6+3M"
+        },
+        "rating": 3.6,
+        "reference": "ChIJV1QgxwxTUkYR2ACsZK3Fecw",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "Colbjørnsensgade 6, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6874917,
+                "lng": 12.593117
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6889238802915,
+                    "lng": 12.5943864302915
+                },
+                "southwest": {
+                    "lat": 55.6862259197085,
+                    "lng": 12.5916884697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Babette Guldsmeden",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 770,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100258020759996535169\">Babette - Guldsmeden Hotels</a>"
+                ],
+                "photo_reference": "AdDdOWonIJYdLo__65lNS5tnNPlAYCJbtS6T7km28gDM-og-VX71bisA9-2xR6cVruj0FNhkgzocWzmRUNmZ2OFpqK4SzTsbkVlhxPl-2g35_bAjblA2GuvbNoE2L2Ip4R31H2b1Y_LZvZdYmw0cDZiwgYo1Q-btoWntRrd08yhL2i_L_UiG",
+                "width": 770
+            }
+        ],
+        "place_id": "ChIJ1QgCxiFTUkYRRXXtQZgSvig",
+        "plus_code": {
+            "compound_code": "MHPV+X6 Copenhagen, Denmark",
+            "global_code": "9F7JMHPV+X6"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ1QgCxiFTUkYRRXXtQZgSvig",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 972,
+        "vicinity": "Bredgade 78, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6736111,
+                "lng": 12.5661111
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6748935802915,
+                    "lng": 12.5673293302915
+                },
+                "southwest": {
+                    "lat": 55.6721956197085,
+                    "lng": 12.5646313697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Nimb Hotel, an SLH Hotel",
+        "photos": [
+            {
+                "height": 1653,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106887567556811987030\">Nimb</a>"
+                ],
+                "photo_reference": "AdDdOWqGBbq0PCv17Gl3HkdhwGXzmfr6gFHnbsv1z38EKrXUn3owyD_MRcPZt-E8EZ_benkV5Axp2vszekYf2B0dwwRY-0SCFHkeefYSWAoRR246rngzPYlicgTd7UMT6ooETEApi-V3fv7HaLnfU7q8y0jGSTUElSyk4nqp9F5nZn_nLUPi",
+                "width": 2480
+            }
+        ],
+        "place_id": "ChIJm43fcg1TUkYRWyWZGBr4kiA",
+        "plus_code": {
+            "compound_code": "MHF8+CC Copenhagen, Denmark",
+            "global_code": "9F7JMHF8+CC"
+        },
+        "rating": 4.7,
+        "reference": "ChIJm43fcg1TUkYRWyWZGBr4kiA",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1333,
+        "vicinity": "Bernstorffsgade 5, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.67339930000001,
+                "lng": 12.5630986
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.67476798029151,
+                    "lng": 12.5645845302915
+                },
+                "southwest": {
+                    "lat": 55.67207001970851,
+                    "lng": 12.5618865697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Astoria, BW Signature Collection",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4361,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103849037541115376101\">Hotel Astoria, BW Signature Collection</a>"
+                ],
+                "photo_reference": "AdDdOWqiwaXLTd9VLcY2lcx7dzGezsu__7T0asZdf5arejxe3NpHZ5wyYYdqGYWh_8_DS0Nnjl_nd1Zowr_Sy9qUhduVPdswdRJPDyIX7hiDiGtTndQUn48wYTeCa77suJsJoGURec98w1VJ2yT4h8N4bKHegI2wDLpkwXLVCotXKJUf9Lkp",
+                "width": 6542
+            }
+        ],
+        "place_id": "ChIJNVulD0yrU0YRsIhUBB0N7ME",
+        "plus_code": {
+            "compound_code": "MHF7+96 Copenhagen, Denmark",
+            "global_code": "9F7JMHF7+96"
+        },
+        "rating": 3.8,
+        "reference": "ChIJNVulD0yrU0YRsIhUBB0N7ME",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1105,
+        "vicinity": "Banegårdspladsen 4, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.674828,
+                "lng": 12.5727279
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6760581802915,
+                    "lng": 12.5741005802915
+                },
+                "southwest": {
+                    "lat": 55.6733602197085,
+                    "lng": 12.5714026197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel Danmark - By Brøchner Hotels",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5464,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112971245070845183077\">Hotel Danmark - By Brøchner Hotels</a>"
+                ],
+                "photo_reference": "AdDdOWoet5GQEfIp2Vpgh-1pa8BoDXPHAyiOE7cHGKfWC__48B6zEKGZASkWzM_7yh4UocQOUerzYDnB9HbmE5qU6Yv7ep_lggF1wzublhm_4A11ysA2qbqROpb_uzQbkuBnTYKnUI8Fket5WI2e7xbjGH_nK3YzeA4fmleCajyQcpxlH2TT",
+                "width": 8192
+            }
+        ],
+        "place_id": "ChIJeVFZNRJTUkYRmo0TNDNliS8",
+        "plus_code": {
+            "compound_code": "MHFF+W3 Copenhagen, Denmark",
+            "global_code": "9F7JMHFF+W3"
+        },
+        "rating": 4.1,
+        "reference": "ChIJeVFZNRJTUkYRmo0TNDNliS8",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 970,
+        "vicinity": "Vester Voldgade 89, København"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.6847036,
+                "lng": 12.5667449
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6860124302915,
+                    "lng": 12.5679895302915
+                },
+                "southwest": {
+                    "lat": 55.6833144697085,
+                    "lng": 12.5652915697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Kalaset",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103121414496456218132\">strannizza</a>"
+                ],
+                "photo_reference": "AdDdOWrHiF0ri6rvc-tj6c08kDR8dT1aNqQ4t__gb1j54u71E6nWfIkkfvmcy5Jl8PAYbN-Gef76k1eEQek5pzhWHRySzGZhwyUypON7SQqPQabvUN9tuP5rV885RNOLsYx0KIorEe_gISyC_u0gIctH6laH15zLdXV7Bfskw6kVt-ODESHp",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJwdrCyAVTUkYRLM0WFavcxfY",
+        "plus_code": {
+            "compound_code": "MHM8+VM Indre By, Copenhagen, Denmark",
+            "global_code": "9F7JMHM8+VM"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJwdrCyAVTUkYRLM0WFavcxfY",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1583,
+        "vicinity": "Vendersgade 16, Indre By"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 55.67181429999999,
+                "lng": 12.5584284
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 55.6731033302915,
+                    "lng": 12.5598477802915
+                },
+                "southwest": {
+                    "lat": 55.6704053697085,
+                    "lng": 12.5571498197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cofoco",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116142263484072010758\">4u megu</a>"
+                ],
+                "photo_reference": "AdDdOWpWjHQIvgXyoMcbTI7hPBPeXJb8GYZsUalpOREMmUfdSvZjIr964ka0WrW9Td2mSJEyloY7XO8Z94XD7sPm5VYkZeVx6J2xTmeqouhDZtj1IRnZBZDh_rLKIQjvOXdFdmQH45MV6X64b9FDD9bL5tFiD63xX3rtOzudcjRtKvaaA0yt",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJLR6-q3RTUkYRLpNnm3EZBDU",
+        "plus_code": {
+            "compound_code": "MHC5+P9 Vesterbro/Kongens Enghave, Copenhagen, Denmark",
+            "global_code": "9F7JMHC5+P9"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJLR6-q3RTUkYRLpNnm3EZBDU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1411,
+        "vicinity": "Abel Cathrines Gade 7, Vesterbro"
+    }
+]

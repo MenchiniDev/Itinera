@@ -1,0 +1,66 @@
+{
+    "name": "Wilga Hotel & Restaurant",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Zethan Budgen",
+            "author_url": "https://www.google.com/maps/contrib/100668324464591415997/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4Purd_muh4u5JHnEEtvpLscerHB4VChP6dDLan5WjS19_YQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "5 months ago",
+            "text": "where do I begin, first, there was mold at the bottom of the kettle, the room service was horrible, I didn’t even have a mattress so I asked for one, immediately got taken away from me by room service, the wifi signal is absolutely horrible, there was still coffee stains in the mugs, the lid of the kettle was broken, all around, ruined my trip to krakow",
+            "time": 1718809275,
+            "translated": false
+        },
+        {
+            "author_name": "Ben Kacen",
+            "author_url": "https://www.google.com/maps/contrib/117814727207787245008/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeBNJv-T147GricK2XmZicKtjvfUedwdcR-lCztlgZbNieww=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "A very bad place the worker treat you bad and without any respect the bowling is not free and there is a lot of problems with it",
+            "time": 1725563344,
+            "translated": false
+        },
+        {
+            "author_name": "Zsolt Karpati",
+            "author_url": "https://www.google.com/maps/contrib/115103029841239888882/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcPZZWVharMKiT7z0gLNVPY5Rx9sHTTMzfO4MAeVWVm54WmA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I have been to Wilga Hotel and I had a great night. We were bowling and playing pool and the staff was really nice. Kasia and Anastasia were very friendly they made great cocktails, and have been a wonderful company. I certainly recommend.",
+            "time": 1671059953,
+            "translated": false
+        },
+        {
+            "author_name": "Sorin Chiriac",
+            "author_url": "https://www.google.com/maps/contrib/105284015027453806495/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7R9b4y-_XrrJl0BNeBCny8upez-yWqpa3n1Ck_drt2sD_uZz3=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "7 years ago",
+            "text": "While the area it's situated in doesn't impress, it only adds to the surprise that you get once you enter the hotel. It's a very modern interior, with well decorated hallways. The rooms are very clean, a good size with plenty of storage space and the bathrooms are well equipped. The beds are surprisingly comfortable, providing a good night's sleep. The staff have been supremely welcoming and friendly, even more so as I don't speak Polish. Everyone was very accommodating and I always got the sense that my needs were a priority. If there is one criticism I have it'd have to be the internet speed. On average I was getting about 2mbps. Breakfast was included in the price, but I haven't tried it so I can't speak to the quality of the food. Overall I would definitely recommend this hotel to those that wish to stay within easy reach of central Krakow at a reasonable price. Given the opportunity, I would happily stay here again.",
+            "time": 1501011124,
+            "translated": false
+        },
+        {
+            "author_name": "Ildikó Kőrös",
+            "author_url": "https://www.google.com/maps/contrib/112878381061093759153/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUbq4SVLTkppGT5BwSd7hu1TP8qhbXDKwyX-kEhLWK5jgt9_Kp=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Good location, situated in a silent street, within walking distance to Wawel and Kazimierz. Friendly and helpful staff, cosy and clean rooms, excellent breakfast buffet, tasty dinners.",
+            "time": 1692300723,
+            "translated": false
+        }
+    ]
+}

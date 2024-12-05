@@ -1,0 +1,66 @@
+{
+    "name": "Orange Hotel",
+    "rating": 3,
+    "reviews": [
+        {
+            "author_name": "M FF",
+            "author_url": "https://www.google.com/maps/contrib/116306647091583151447/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOfA_3sfx7M0bIH1pTUhRslfK2f2IUBgdSAFA0NktqYFA9z9ed-g=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 2,
+            "relative_time_description": "a month ago",
+            "text": "I give this hotel 2 stars because it should be a 2 star hotel! My first advice: if you are claustrophic, forget about this hotel. The room was very small with a very small bathroom. The cons: very dated, ignored, full of dust, tv not working, air conditioner from the 70's maybe, hair dryer (we were not sure what it was at first), a very young receptionist and her assistant (probably 16 years old!). No room service, no breakfast...\nThe one and only Pro: central location. I do not recommend this hotel.",
+            "time": 1729496105,
+            "translated": false
+        },
+        {
+            "author_name": "Professional Security Innovations",
+            "author_url": "https://www.google.com/maps/contrib/107747217984519774682/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbxJuBCCjS8WMfLzlZL_MQY_l47XBYKVPW-yEImu0CfYxXDA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a month ago",
+            "text": "Hotel was ok, a little dated and dirty, but the real reason for the low review is because housekeeping IGNORED our DND sign and our verbal request to not have our room cleaned, came in anyway and “accidentally” threw away our clothes! The front desk kept promising a refund but never did anything about it to compensate us. I had to go to my credit card company to get any assistance. Would not recommend them because of how they handled the situation.",
+            "time": 1728614334,
+            "translated": false
+        },
+        {
+            "author_name": "Juliana N",
+            "author_url": "https://www.google.com/maps/contrib/101954238490577185688/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURjYnScpRsUGQslOaURT2z442rjpZWXnqrxNM_ys4CCc7t722YxA=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "3 months ago",
+            "text": "Hotel is overpriced for sure, not comfy, soap and shampoo bottles empty, needed to ask for blankets\nSecond thing, I had my friends wedding celebration in Rome and my clothes was stolen from this room at this hotel I stayed and the stuff didn’t even care to help and advise. Cleaners decided to steal the clothes and the receptionists never knew who the cleaners are, lovely isn’t it? Disgusting attitude, I don’t recommend this hotel, think better before booking otherwise you might be robbed by stuff or cleaners👌",
+            "time": 1724150151,
+            "translated": false
+        },
+        {
+            "author_name": "Natalia Drzazga",
+            "author_url": "https://www.google.com/maps/contrib/107269367835123424183/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVesgmkwSwHOwG9n6-qbzqZKX-Qn9F_CCfVl_Sc2WEMC33sutig_A=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "4 months ago",
+            "text": "The hotel in general was ok. There were no problems with the reservation, although contact by whutsyp (contrary to what is on the website) was impossible. They did not respond to email either. Contact only by phone. Hotel staff 5/5, girls very smiling and helpful. The quality of the room and the whole hotel, however, falls short of the general standard of a 4-star hotel. There was no soap or bedding in the room. In the shower I found a bug. However, for a stay of 3 days in Rome, where we only slept in the hotel, I rate it good because the price was fairly adequate. My overall rating is a strong 3.5/5",
+            "time": 1721581066,
+            "translated": false
+        },
+        {
+            "author_name": "server computer",
+            "author_url": "https://www.google.com/maps/contrib/104835923627777603735/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3Zcp4_u3_IldLHOQeqyFXvlmfc0UNbBvdEF9WR7el2hPpqT2Z3Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "4 months ago",
+            "text": "What a rathole. No soap, don't bother asking your never going to get it, no blankets, don't ask your never going to get one. The elevator was broken and the counter person won't tell you, after standing there for 10 minutes STANDING AT THE ELEVATOR IN FRONT OF HER she couldn't be bothered to say it's broken or even put a sign up. I looked at her and asked if it was broken and she said \"yes\" I said thanks for letting me know and she gave me an evil grin. The rooms were dirty, no glasses in the room. Basically it's an unattended hostile with rude staff.",
+            "time": 1720861634,
+            "translated": false
+        }
+    ]
+}

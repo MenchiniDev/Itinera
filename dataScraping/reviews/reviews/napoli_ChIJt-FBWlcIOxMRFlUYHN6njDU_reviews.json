@@ -1,0 +1,66 @@
+{
+    "name": "Hotel San Francesco al Monte",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Kimberly Hebert",
+            "author_url": "https://www.google.com/maps/contrib/102290811163732048983/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_52jYrnjpEKJhv8qtg74hVQcdggqaMV1Z6KFbONzSgFBFGw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "4 weeks ago",
+            "text": "The most beautiful hotel with authentic, historical features that made my heart happy. The service is impeccable. My room with terrace offered the most stunning views of the Gulf of Naples and Mount Vesuvius.  The fine dining restaurant was beautiful, had fabulous service and delicious food. I would recommend staying here without hesitation. For Americans, each room had AC and they can provide ice on request. We ordered room service for breakfast for one person, but we (women) could have definitely shared the portions served.",
+            "time": 1730924469,
+            "translated": false
+        },
+        {
+            "author_name": "Moira Cameron",
+            "author_url": "https://www.google.com/maps/contrib/101016058984410726562/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6CMrjN1thfEyz_rq0XvgtDKVddmYPHSV9tfx2r_IWVSVZYQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The views from the hotel are outstanding, and the hotel has retained a lot of the history from when it was a monastery. The staff are friendly and helpful and the rooms are immaculate. It's easy to get down to the main areas in Naples. If you can't manage the climb back up, there's always the funicular.",
+            "time": 1730808857,
+            "translated": false
+        },
+        {
+            "author_name": "Samuel Thawley",
+            "author_url": "https://www.google.com/maps/contrib/101365765073528778634/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkv_ITITF9B5hFoCLE1NSVKPXHf26LR4kviHLZYeDuLMPpIw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "We first came here on a romantic impulse about 14-15 years ago. Trina’s inaugural visit to Italy. (Nine months later we had our first child…) The hotel remains as good now as then. I can see why some people might be taken aback: it’s up a hill; there is little contemporary chic; there are a few quirks depending on how many guests are staying… Yet the hotel is splendid. The sense of place and history is powerful. The rooms are simple yet comfortable. The hill provides amazing views across Vesuvius, Mt Somma, the Bay of Naples, and Capri. Everyone is friendly. The staff, particularly in the dining room, are excellent. Breakfast is good and certain offerings are just outstanding. It takes less than 5 minutes walk to be in the Spanish quarter and its various dedications to Maradona, Sophia Loren, and Toto; about 10 minutes walk to reach the main road with shops and museums; and 10-20 minutes walk to see the Caravaggios in town and the amazing museum of archeology. Along the way there is a great book district (if mostly in Italian). The hotel and its location give you a real sense of being in Naples and all its glory. I’m really pleased to have returned!",
+            "time": 1732375920,
+            "translated": false
+        },
+        {
+            "author_name": "Kevin Webb",
+            "author_url": "https://www.google.com/maps/contrib/103761163427234789953/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLx85BBmUMyxL5n_g6sjE8DrVJWbb8gsPF4pu4Q1XR5o-ceqA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Excellent service and stay here. Beautiful views overlooking Napoli and the entire bay. The rooms are a bit older but it is a very historic building and it has all modern amenitiesyou would expect. The reception was fantastic, and Jon Carlo, who helped us with our bags and car, was exceptionally wonderful. I would definitely stay again.",
+            "time": 1726150744,
+            "translated": false
+        },
+        {
+            "author_name": "Joeke Tjiam",
+            "author_url": "https://www.google.com/maps/contrib/114368411860104742019/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZdylGk5rRx4xlFhUd-TdaWm4M6qBxRVIlRPwuSb2qRxfPZNk=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We stayed here in March. Friendly service, great location. The rooms and view makes you feel like a vip. Walk through the hotel, you'll get lost but you'll see wonderful pieces of the buildings history. If I have to make a point of criticism, breakfast could be better. But then again, if you look outside of the breakfast room, all is forgotten.",
+            "time": 1725156815,
+            "translated": false
+        }
+    ]
+}

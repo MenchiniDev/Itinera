@@ -1,0 +1,66 @@
+{
+    "name": "Happy Bar & Grill",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Arturo Ferrentino",
+            "author_url": "https://www.google.com/maps/contrib/118208267227383369775/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7whuaLf91DGiv2OJ-0gtK-3GamtwuMlHI2vM9KmEXEWzI08dLUg=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "We recently visited Happy Bar & Grill as a group of ten, and everything was perfect! They allowed us to sit in the garden since we had a dog with us, which was much appreciated. Despite not speaking Bulgarian, communication was smooth, thanks to their bilingual menus (Bulgarian and English) with pictures of each dish. My friends visiting from Italy were really impressed with the place, the food, and the affordable prices. Happy Bar & Grill is always a safe choice – highly recommended!",
+            "time": 1730718865,
+            "translated": false
+        },
+        {
+            "author_name": "Linda Ibrahim",
+            "author_url": "https://www.google.com/maps/contrib/109494188873619775227/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSD3Led9A9tz7ZSVEykrhcNsnGE0tO41UnLBsEqBh4387YTmwL=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "2 months ago",
+            "text": "3 small cockroaches in the delivery bag. I don't know how this happened but it's disgusting and now I'm questioning the hygiene of the place overall. It's strange how no one could notice. Too bad I was regularly ordering from there. I won't order again from this location, but leaving the review for the restaurant managers to follow up with their staff, be more careful with the delivery bags, and look where those cockroaches came from.",
+            "time": 1727796653,
+            "translated": false
+        },
+        {
+            "author_name": "Martin Stoyanov",
+            "author_url": "https://www.google.com/maps/contrib/117294862797324388678/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxDjlwTJ245BJH_VycfZi484NkgPo-mJZhfaH-hrWJFBvTmZo=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Best restaurant chain in Bulgaria. Amazing service and everything is thought out very well. The interior and atmosphere are great. The staff is always welcoming, nice and very responsive. The food is also fantastic. Me and all my relatives visit this place regularly.",
+            "time": 1729624217,
+            "translated": false
+        },
+        {
+            "author_name": "Sabimir Sabev",
+            "author_url": "https://www.google.com/maps/contrib/100046501441097002947/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRgkN6ocmSIpiz8SSG-9NM-ENpQYaeYCTQK3F_iA2yueOfPaM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "7 months ago",
+            "text": "My favourite restaurants Happy Bar and Grill!  Food menu, drinks and atmosphere-top floor. Great service from employees, very elegant and friendly. 5 star from me. Will be coming with frenchies every now and then.",
+            "time": 1712914010,
+            "translated": false
+        },
+        {
+            "author_name": "B. Maldonado",
+            "author_url": "https://www.google.com/maps/contrib/100047994150544846488/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjbUAMWdDUWnnKeiz6Yr806cHFhbc54ogEmN8RTPl0GhmDAlrK0Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "I'm not one to usually go to a \"chain\" restaurant. However, a friend took me as he really recommends it. The food was delicious! We had mussels, paella, a salad with fried cheese, and the small fishes. It was all very tasty!\nI will definitely return. The wait staff was also very responsive and attentive.",
+            "time": 1721118841,
+            "translated": false
+        }
+    ]
+}

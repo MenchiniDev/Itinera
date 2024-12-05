@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Fabrik",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "Alena V.",
+            "author_url": "https://www.google.com/maps/contrib/103518177404873333474/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb362Dt2EKULIeLVUe3WVtNZ9RTtipgPzWgEE-QN3ei1-t9g=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "in the last week",
+            "text": "Very nice hotel. Clean rooms. Close to the metro station. Rooms are facing nice yard, quiet in the night. Excellent breakfast. Staff friendly and helpfull.",
+            "time": 1733069338,
+            "translated": false
+        },
+        {
+            "author_name": "Andre vanVugt",
+            "author_url": "https://www.google.com/maps/contrib/108763565695477800162/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqMHojITOymRH_4dg7jnQdS8_m9lJK73C99tR3iexHtjS_L1vz=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "in the last week",
+            "text": "Very good food, kind staff, foolproof dinner.",
+            "time": 1732822823,
+            "translated": false
+        },
+        {
+            "author_name": "Jorian van Dorrestein",
+            "author_url": "https://www.google.com/maps/contrib/104270097114244682080/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5eueKwMZ8hdnubkmcRvaU_bgYL3DRpXFf-k7sGISMkfANIEkN=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Good hotel, good price.\n\nWhat I found annoying was that everytime they cleaned my room they would lay my bed sheets again folded back on my bed. You would think its a new fresh one but that ain't true.\nDue to this you can't really settle in your room as you would desire.\n\nThe interior is simple but great.\n\nWhen it comes to the breakfast. I was a little disappointed. It has the basics but if you are not a pork eater you won't have much choice. On the other hand they have a fun thing on details like a small bread basket or a little bowl for fruit (they have multiple fruit options).\n\nThe location of the hotel is great. Its really close to public transportation. Around a 7 minute walk.",
+            "time": 1683906870,
+            "translated": false
+        },
+        {
+            "author_name": "Kondás János",
+            "author_url": "https://www.google.com/maps/contrib/115041088224663282671/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAY-2CB-t4BS05OT1vcnSxSXCIYlZprFEhq9vpuCQtvsw8hQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "This hotel has the most interesting architecture I have ever seen. The parking is not very good but with the hotel being in the city centre this is somewhat expected. The location of the hotel is very good for a business trip. Bed was comfortable and breakfast was adequate.",
+            "time": 1673973311,
+            "translated": false
+        },
+        {
+            "author_name": "Sergey Vasyagin",
+            "author_url": "https://www.google.com/maps/contrib/117484072182672030250/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBq405hi9C3GL2qKU7EHvHw4StkjZjFgAj9EztqrW4fb0doA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The restaurant and hotel are located in the old factory building, and manages to preserve the atmosphere. The food is great if you are looking for a classic Viennese cousin, which I really enjoyed. The stuff is very friendly.",
+            "time": 1676398542,
+            "translated": false
+        }
+    ]
+}

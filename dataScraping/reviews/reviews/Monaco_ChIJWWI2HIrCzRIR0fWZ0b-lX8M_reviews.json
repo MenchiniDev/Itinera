@@ -1,0 +1,66 @@
+{
+    "name": "Polpetta",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Niklas",
+            "author_url": "https://www.google.com/maps/contrib/113999784354365553459/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUco0MNOrtShvEgCOPUWyTBpniCzrivUO5Pzf-xtJY8e9tnM3rF=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "6 months ago",
+            "text": "Beautiful, traditional Italian restaurant.\nAuthentic.\nDelicious.\nPerfect.\nAnd the best: fair prices! Most of the time one dish costs between 20€-30€.\n\nThanks for this nice evening!",
+            "time": 1716575789,
+            "translated": false
+        },
+        {
+            "author_name": "Raymond Jones",
+            "author_url": "https://www.google.com/maps/contrib/108399140926219981654/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwHkUFymyiNEFAryzGrQvxXM6XqPIDSoEl4EELl8dvm1xVbw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Always a pleasure to return and dine in Polpetta. Italian through and through and always popular with Monaco & French locals. The pastas and veal dishes are terrific. The staff are friendly and enthusiastic. Not hard to see how this was one of Prince Rainier's dining locations",
+            "time": 1731115169,
+            "translated": false
+        },
+        {
+            "author_name": "Aline Araujo",
+            "author_url": "https://www.google.com/maps/contrib/117732710729920447267/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYNdEcCIiEFZrIfdQES9BTjUlaHFDlHkyzWOb8CtJ-XRB455DQVQ=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Outstanding dinner in this very traditional Italian place. Easily the best truffle tagliatelle I’ve ever had. The same for my friend spaghetti.\nChristian was an amazing guys and made us feel at home. The whole staff and owners were really nice to us. Fully recommend. Thank you guys for the experience, hope to come back.",
+            "time": 1684962505,
+            "translated": false
+        },
+        {
+            "author_name": "Nicole Ty",
+            "author_url": "https://www.google.com/maps/contrib/107185894222842569173/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3BfSl4MLoSCwO7XyqGIBoeuQgPXXc0dAtWaojiIFNwbGbajnP=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Chanced upon this gem close to the train station. The seafood pasta was delicious and flavorful - with very fresh ingredients. Tagliatelle a la Truffe was also incredibly good, but too much for me after a couple bites. Bruschetta was refreshing and tasty.\n\nIt was packed during peak lunch hour but we were able to get seats immediately because it was almost closing (closes 2PM). Seems to be quite popular among locals and tourists alike.",
+            "time": 1696061649,
+            "translated": false
+        },
+        {
+            "author_name": "Emily C",
+            "author_url": "https://www.google.com/maps/contrib/108848601475039785889/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBh7Yl7TRiCyClj_jR-mjzBTZsSBG_bGPskzkqq68DV3Cx9g=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "seafood risotto is amazing! fair price dining option in Monaco. the place can get quite hot during lunch time and the service is okay",
+            "time": 1725842313,
+            "translated": false
+        }
+    ]
+}

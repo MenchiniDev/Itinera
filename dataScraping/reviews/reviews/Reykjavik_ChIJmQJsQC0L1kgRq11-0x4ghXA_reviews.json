@@ -1,0 +1,66 @@
+{
+    "name": "Apotek Restaurant",
+    "rating": 4.6,
+    "reviews": [
+        {
+            "author_name": "P M",
+            "author_url": "https://www.google.com/maps/contrib/112332253713554545565/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5UyRXTeMITZD8gXn6J1h9Wi8BHVk9bShRcUlbSXj8h9tWsOBs=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 weeks ago",
+            "text": "Oh my goodness...Everything was perfect. The staff are lovely, we were so impressed with the service..the ambience is delightful,  the food exceptional.  Its not cheap,\nAround £225 for 2 of us but so worth it. Honestly some of the best food we've ever experienced. We will remember this for sure.",
+            "time": 1731019048,
+            "translated": false
+        },
+        {
+            "author_name": "Paria Pourmalek",
+            "author_url": "https://www.google.com/maps/contrib/112165705272136416559/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRSenC24nkKJJZsK0cR3-ALcfhUd1kTdRCFQCJL38o85zXpxXb=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Great food! Professional friendly servers! Highly recommend if you are Reykjavik! We were a group of 15 and had 3- course meal (fish or lamb). Both great. Appetizer and dessert were heavenly!",
+            "time": 1725052274,
+            "translated": false
+        },
+        {
+            "author_name": "Diane Nguyen",
+            "author_url": "https://www.google.com/maps/contrib/104673396468278860625/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyr2bhG9ruPJyXyZx9irM_T5M-ZI56VYNKiJjvkkRuaxbKFBk2HQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "We sat at the bar for drinks and it was very pleasant. All the cocktails were impressive and delicious. We had dinner in the main dining room with a nice views. The duck confit was excellent as well as the meat platters with steak, rack of lamb. It was cooked perfectly pairing with purple angel from Chile. Excellent dinner",
+            "time": 1723103902,
+            "translated": false
+        },
+        {
+            "author_name": "Ania",
+            "author_url": "https://www.google.com/maps/contrib/113244614867271057589/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2QeKduncMuc_iSYB1mGibF3x3adi9JM8ZIoY273zuTmRxIQaNvQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "What a delicious dinner!\nWe went in a bigger group of seven, including two children.\nIt's a very pretty and cozy spot with good service.\nWe started with beef carpaccio (blew our minds). We also received some bread with truffle butter, both regular and gluten free.\nAmong the main dishes were: rack of lamb, cod, tiger shrimp salad, one of the chicken dishes, and plaice. Everyone was extremely happy with their choices. Overall, the dinner was extraordinary.\n\nGF situation note: Not only did we received gluten free bread, but also the dishes we requested were adjusted to accommodate. While there are no markings or notes on the menu, asking the server is enough to learn if the dish can be prepared for you.",
+            "time": 1722026630,
+            "translated": false
+        },
+        {
+            "author_name": "Elin",
+            "author_url": "https://www.google.com/maps/contrib/100213598131721033008/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsUXB-lW2N9jPdk7Xkh0_HkTVmgjRYMxf9nlHvWVXWcWR4V11G=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a week ago",
+            "text": "Food was absolutely delicious and the service was amazing and quick. We always had water on the table and their Christmas Special Bread was warm and fresh. We will come back",
+            "time": 1732564716,
+            "translated": false
+        }
+    ]
+}

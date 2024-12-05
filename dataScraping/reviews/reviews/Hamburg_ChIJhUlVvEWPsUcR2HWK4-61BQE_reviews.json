@@ -1,0 +1,66 @@
+{
+    "name": "YoHo - The Young Hotel",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Mirsad Spahic",
+            "author_url": "https://www.google.com/maps/contrib/103963409175046115982/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJSZ55FE7dBjmqeAsu2bvqCMPk1ZaO-h62UFsjfSfjLbjBE5kI=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 3,
+            "relative_time_description": "in the last week",
+            "text": "Way too loud,at least the room I was in. Probably not a smart option for a business trip. Breakfast not worth the price...very clean room and a good bed. W",
+            "time": 1733006295,
+            "translated": false
+        },
+        {
+            "author_name": "Nai-An Chen",
+            "author_url": "https://www.google.com/maps/contrib/116304599385733123312/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcyC3jqeUIeCDze45lSrjCeVwKoimGgdhof0Lzh56sigMDOpmi6Q=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "The room smelled super nice. I love their color of the walls, calming.\nThe ceiling was high, the wooden window was beautiful.\nI had a peaceful night there, slept well.",
+            "time": 1718836462,
+            "translated": false
+        },
+        {
+            "author_name": "Sjoerd van Tiel",
+            "author_url": "https://www.google.com/maps/contrib/102382048724695832644/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMfmNVkWo2_FswYzT3VDMGN1MZmOaLo-RDvaDixnzG-zGaZuVO=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 3,
+            "relative_time_description": "8 months ago",
+            "text": "Fine hotel on a good location near subway line U2. Small rooms, but clean and the beds are good. Quite some noise from the Allee around the corner, but don't complain, Hamburg is a bustling city. Very friendly crew.\nDeduction of 1 point: breakfast very disappointing for this kind of hotel.",
+            "time": 1712652032,
+            "translated": false
+        },
+        {
+            "author_name": "Erebosaither",
+            "author_url": "https://www.google.com/maps/contrib/112388844368618994223/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIo4aXiC2LDVHuHmF4GN4pXieweL5gSgiExpXRFrBbLuqZ5hw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "It was very clean and neat hotel. Great experience",
+            "time": 1728729395,
+            "translated": false
+        },
+        {
+            "author_name": "Jennifer Pechloff",
+            "author_url": "https://www.google.com/maps/contrib/115612230248196335332/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqpwiFz1_jYAAOhYC-T1K1qx-loGm0631dHE4IzFyVOPeJZ5aD=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "I had a comfortable time in the hotel.\nThe location is close to a metro station but still quiet.\nThe room was small but cozy and I liked the design.\nThe bed was comfortable\nThe only small thing to improve would be that coffee specialties, e.g. cappuccino would be included in the breakfast price and don't need extra payment",
+            "time": 1685779322,
+            "translated": false
+        }
+    ]
+}

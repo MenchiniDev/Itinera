@@ -1,0 +1,66 @@
+{
+    "name": "Elevant resto",
+    "rating": 4.5,
+    "reviews": [
+        {
+            "author_name": "Franco di Stefano",
+            "author_url": "https://www.google.com/maps/contrib/104161729990807103727/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIdrZttCbNreM5dQkx9pmAPPi8TAB9rW9mYBOSw_ZIZDYNsQ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Very friendly and quick service personnel, that pays attention to its guests.\n\nWe had chicken and moose „kabab“, which tasted authentic and just delicious. It comes with three different sauces.\n\nIt is nice to sit outside „on the pavement“, but the restaurant is nicely decorated also.\n\nRestrooms are clean.\nSo easy to feel welcomed here!",
+            "time": 1723316412,
+            "translated": false
+        },
+        {
+            "author_name": "Mark Briffa",
+            "author_url": "https://www.google.com/maps/contrib/117460972988690177076/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2Ni8R9Dqzz4yb2k1Jap9IPtmSSf2thljInOYFlrjPyxvOdGg5Vg=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Located at the heart of Tallinn’s old town, this beautiful restaurant offering Asian cuisine.\nWe were told to visit by a local who is a regular. Restaurant was very tidy, setup is simple and very polite service with fluent English speakers.\nI wanted to try something spicy in taste so I opted to order a chicken vindaloo with basmati rice and we also ordered a daily special which was a lamb sauce, along rice and vegetables. Both meals were great in taste and overall it was a satisfactory experience.\nAitah Elevant !",
+            "time": 1718952658,
+            "translated": false
+        },
+        {
+            "author_name": "Monica Nelli",
+            "author_url": "https://www.google.com/maps/contrib/117250862670271976819/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvwrBbxXt0zZqPi2pVRosAJulA-w_7lqSqm-n9kkIhgykxXw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Delicious Indian food, staff is taking care of the customers and the restaurant contributes to create a perfect atmosphere: very much recommended if you’d like to avoid the typical tourist places.",
+            "time": 1723574917,
+            "translated": false
+        },
+        {
+            "author_name": "Mariana Marquina",
+            "author_url": "https://www.google.com/maps/contrib/112316059670303226151/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHnDdVZzLIYoPsA76gr22vN1NLgsARrevlUxIYdhYRAUqVtTiA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "3 months ago",
+            "text": "Amazing food!! The restaurant is very cozy, the staff is very friendly and the food was really good and very warm😍\n\nReally recommended!!",
+            "time": 1725187912,
+            "translated": false
+        },
+        {
+            "author_name": "Kaspars Lācis",
+            "author_url": "https://www.google.com/maps/contrib/101960947510559139564/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrSoREFa2l5XyYVn5g2B2wdpFoxblVfvMv6wVQZkQg8VcpNG7h=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "My favorite place in Tallinn for 5 years. Total hidaway even in town full of turists due to location in 2nd floor.",
+            "time": 1720615544,
+            "translated": false
+        }
+    ]
+}

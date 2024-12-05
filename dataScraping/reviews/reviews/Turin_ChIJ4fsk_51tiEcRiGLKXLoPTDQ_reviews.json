@@ -1,0 +1,66 @@
+{
+    "name": "San Giors",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Kārlis Miksons",
+            "author_url": "https://www.google.com/maps/contrib/108974858555229131530/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnkoiAmu39BYV45ogEhOkcFrGbBtzbudGeihPWQXbPUXvBwqC_ng=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "relative_time_description": "a month ago",
+            "text": "Overall experience was great… of course there are all these same things about neighbourhood and how safe you can feel after sunset. But…\n\nIf you are considering to order meal to hotel - think twice. I did not see any poster that “you CAN’T eat in room”. So I had to finish my pizza outdoors ok street.\n\nThere are no tables for such situations - you can choose between sitting on the street or find some kind of improvised shelf.",
+            "time": 1728370766,
+            "translated": false
+        },
+        {
+            "author_name": "Clara Viret",
+            "author_url": "https://www.google.com/maps/contrib/102341339087279775602/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtbxpGLtNJ22DMpMQ4m0VxPy3kts7Gpf9Fab85zsgd1pIYHA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "Great value and located about 10min walk to centre. Not the nicest location but convenient and a few free parking spots out the front. Hotel is very clean and lovely. Well decorated. The staff is very helpful and breakfast was delicious!",
+            "time": 1720425612,
+            "translated": false
+        },
+        {
+            "author_name": "Michael Pennisi",
+            "author_url": "https://www.google.com/maps/contrib/103587126790584041540/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyPIcppMwVeZaBkySC2hHQFDvCa249-5H3-XqFq8tWuNtuXfY=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "The hotel may not be in the best neighbourhood of Torino but it is well located. The idea of having different designers and artists design each room is a lot of fun. Staff are extremely helpful.  One thing to note - the hotel is an historic building and there are no lifts. We're glad we decided to have dinner at the hotel because the food was very good and gave us a few ideas to attempt at home. The restaurant has a serious cheese board that is highly recommended.",
+            "time": 1698862444,
+            "translated": false
+        },
+        {
+            "author_name": "Yves Le Goff",
+            "author_url": "https://www.google.com/maps/contrib/105641714634514621472/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxqy7lhAcRacFyJa40BIC6iEer_HwRJ0rkOerl6Pr-Pm10MzgI8Q=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Great authentic cuisine. Professional service and charming atmosphere",
+            "time": 1730109020,
+            "translated": false
+        },
+        {
+            "author_name": "Ben T",
+            "author_url": "https://www.google.com/maps/contrib/115107299679031023095/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdSI76k56QAvFECfQahr2eJs-CBEa6tcGlLOgxARRBpAButNghKQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "Blast the Arctic Outpost AM radio and drink an espresso. The rooms are very cool and lovely and artistically decorated. Also, clean and cozy. The area is very close to that enormous Saturday flea market, so don't plan on sleeping in on Saturday morning. We had a lovely visit. Not the nicest part of town, but it was perfectly fine, Italy isn't scary.",
+            "time": 1691598221,
+            "translated": false
+        }
+    ]
+}

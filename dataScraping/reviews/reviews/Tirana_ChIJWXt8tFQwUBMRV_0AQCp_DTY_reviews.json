@@ -1,0 +1,66 @@
+{
+    "name": "Hotel Lotus",
+    "rating": 3.8,
+    "reviews": [
+        {
+            "author_name": "Elsa Ademi",
+            "author_url": "https://www.google.com/maps/contrib/113395003782767197692/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmOrXmM0BzQfbGPmh7fy3QK1u_msMePWa2KxNR41MTK7tN5BzT=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "relative_time_description": "6 months ago",
+            "text": "The room was nice but not clean, there were bugs in the bed and in the bathroom. It is really noisy since it is in one of the main streets.",
+            "time": 1716553822,
+            "translated": false
+        },
+        {
+            "author_name": "S. Sing",
+            "author_url": "https://www.google.com/maps/contrib/112173931369737462335/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXErtt9hZwZPtjpx6Ydd-PLg1QksbvPZizVnVp0ib1Wev7Ztq95=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "When you stay at this hotel you can check in early (11am) and breakfast is included. The city and sights are a stroll (20-30min) away. If you have a car, you can park behind the hotel. The rooms are a nice size. However, it can be a bit noisy. The staff is nice, but English is very limited.",
+            "time": 1698236769,
+            "translated": false
+        },
+        {
+            "author_name": "Lucie Kraljová",
+            "author_url": "https://www.google.com/maps/contrib/100112521731859440658/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMObCy1ymPVWRJkrwXnHR1TN1RftBBeXgthJZBBx_XwHTuIphr=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "It was great! Our stay was lovely and staff was mega helpful. After breakfast they sorted us out with car rentals, taxis, and money exchange. Absolute legends and so friendly. We loved it. It’s not a Hilton obviously you get what you paid for. But we were more than pleased.",
+            "time": 1684833123,
+            "translated": false
+        },
+        {
+            "author_name": "Luse Avetisyan",
+            "author_url": "https://www.google.com/maps/contrib/116861649740188238368/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXY_x1dLBaEfiRfChOTyuRUijtC3clEIpBjRVtL8qTDtpsOhHXo=s128-c0x00000000-cc-rp-mo-ba6",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "This is a budget hotel, do not expect to get high class everything. What I liked\n- Room was nice and clean.\n- Staff was very warm welcoming although didn't speak English.\n- Location is good.\n- Terrace was good too.\nWhat I didn't like:\n- Wifi was terrible.\n- You can't choose breakfast so everyday you'll get what's in the picture.",
+            "time": 1636461301,
+            "translated": false
+        },
+        {
+            "author_name": "Danilo Matovic",
+            "author_url": "https://www.google.com/maps/contrib/114946122113464704087/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEx8CSjawhVOjAlNYiP8s6JkwEE3amqcB5d5YwdVRPzoUg-Q=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 weeks ago",
+            "text": "Best hotel in my life\nBest night in my life",
+            "time": 1731891098,
+            "translated": false
+        }
+    ]
+}

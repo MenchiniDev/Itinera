@@ -1,0 +1,66 @@
+{
+    "name": "Confitería Ochoa",
+    "rating": 3,
+    "reviews": [
+        {
+            "author_name": "Haylee Gardiner",
+            "author_url": "https://www.google.com/maps/contrib/117725771641515251585/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWV5CXk4QogwWiiOj_iidox4h1Csi7ozfBoq-g_VcFR2NnQw6BG=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "I happened to stumble upon this bakery, and I’m so happy I did! I spoke with a lovely woman who said everything was made in house upstairs- and I believe her! She was kind and attentive. We got 4 pastries for 12,70€, but were expecting to pay much more for the quality. Everything we had was absolutely delicious! I don’t understand the previous bad reviews. However, it is very warm inside the restaurant. I would take it to go!",
+            "time": 1727711038,
+            "translated": false
+        },
+        {
+            "author_name": "Ambrose & Brid O'Halloran",
+            "author_url": "https://www.google.com/maps/contrib/115568266606011158245/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8rhNeio10OPR1GyzkxHmbGfH-MFw1AjB1KbpEflCvuE8whUM=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "It’s raining this morning and by chance we found this bakery. A really lovely find.  Food and as really good staff friendly and efficient",
+            "time": 1728898400,
+            "translated": false
+        },
+        {
+            "author_name": "Donna Gysler",
+            "author_url": "https://www.google.com/maps/contrib/102914455780662118289/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7yP9DZ_YffR_OkoWicX8cGaE2ycpgOhmEU_L_FQo5tHYhTQ=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "The service and the food are absolutely wonderful.  We’ve been here twice in two days. And we will be back tomorrow. We have been greeted promptly and courteously. The staff is very friendly. The pastry is superb!",
+            "time": 1728634148,
+            "translated": false
+        },
+        {
+            "author_name": "Iustin Constantinescu",
+            "author_url": "https://www.google.com/maps/contrib/117949287612347405591/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_0KPPbQzWMpMfnuLVUE1FSIcF7PEpPNNUaQ5FZdIoagIBcw=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 1,
+            "relative_time_description": "9 months ago",
+            "text": "The coffee was horrible and also the water was horrible, the toilets were dirty, i strongly do not recommend coming here!",
+            "time": 1708511643,
+            "translated": false
+        },
+        {
+            "author_name": "Nic James",
+            "author_url": "https://www.google.com/maps/contrib/111661191287065946792/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQ2B9RZbd0J4dIuch8PgzH3f-Yc1S-IUjqHx-5gn3QotDeLw=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Nice cafe. Good selection of cakes and ice teams. Nice to drink a coffee in the table in the street. Go upstairs for menu del día is good for €12. Good value for the money and staff are friendly. I will return when next in Seville.",
+            "time": 1666015192,
+            "translated": false
+        }
+    ]
+}

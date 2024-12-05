@@ -1,0 +1,66 @@
+{
+    "name": "The Oven",
+    "rating": 4.2,
+    "reviews": [
+        {
+            "author_name": "Zhivko Gadev",
+            "author_url": "https://www.google.com/maps/contrib/107186585841026872268/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2vAfwuat75_Xz5efTnfDfhDRuYvKZ24Nxn_cVWeyJ2xur-nWR=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Well it was a delivery since our flight was delayed and we landed late.\n\nOrdered two pizzas both were amazing, from a guy who ate Napoleon pizza in Naples would stay this pizza is close!\n\nA good place to eat or deliver",
+            "time": 1729372317,
+            "translated": false
+        },
+        {
+            "author_name": "Anitka Cichowicz",
+            "author_url": "https://www.google.com/maps/contrib/103051714462486905914/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUA5weeZKJ5Y4_YS1WkHrVVR0ZUJGL8SJSz5k0KuhSuq7tOX4X=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "Really good burgers, fresh vegetables and favorable prices. The owner was very kind, reccommend this place!",
+            "time": 1727128916,
+            "translated": false
+        },
+        {
+            "author_name": "Maximilian Limburg",
+            "author_url": "https://www.google.com/maps/contrib/100178902253123868660/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmxth-4MQ7uW0ErlWbaTcm2s_kjYmRPv3x30MfU4ZJ1eLuebc=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "5 years ago",
+            "text": "Pretty much up there with the worst pizza I've had. An hour for delivery, prices not the best, sauce a 2/5 at best. Ordered extra topping Parma ham for my Peperoni Pizza and got it uncooked raw on the side in a plastic box (see picture), what am I meant to do with that? Four Cheese pizza absolutely tasteless. If I was from Malta I'd have demanded a refund.\n\n1 star for giving me Parma ham to have with my breakfast sandwich the next day. What a joke.",
+            "time": 1546966512,
+            "translated": false
+        },
+        {
+            "author_name": "Teresa Tamas",
+            "author_url": "https://www.google.com/maps/contrib/107851990983235083228/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYfdruPY_bD0qNOxj7lDP_rTpa5wi0ovgFiSgOzy2HapFfharXOw=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "6 months ago",
+            "text": "Pizza from hell.\nTo have a slice o pizza and get food poisoning its out of this world\nThe dough was fried/marinated in oil\nThey used the cheapest and thw worse salamis .\nI wouldn't recommend this place to anyone!",
+            "time": 1716029490,
+            "translated": false
+        },
+        {
+            "author_name": "Tim H",
+            "author_url": "https://www.google.com/maps/contrib/106808880368951851303/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWS3afPk6aVDUoTjLghcUNualwj2FsMONxfQjdhqIg6lPzVgQOjIA=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "relative_time_description": "7 months ago",
+            "text": "One of the worst pizzas I've eaten. Bland, soggy, poor quality of ingredients. Pizza in Malta is average at best but this is almost as bad as it gets.",
+            "time": 1715185908,
+            "translated": false
+        }
+    ]
+}

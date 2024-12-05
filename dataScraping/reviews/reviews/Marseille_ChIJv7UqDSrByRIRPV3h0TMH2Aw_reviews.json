@@ -1,0 +1,66 @@
+{
+    "name": "Chez Fonfon",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "june sawitri",
+            "author_url": "https://www.google.com/maps/contrib/104853156570769737880/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-DLZ47tk9rZRowA9jU8Exnwg0AHeV_Vxj4wE5GYfI1iz58h_0=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "The place is nice overlooking the port.Their service is very friendly.\nThe produce is very fresh and cooked in authentic style showing the freshness of the seafood more than seasoning it",
+            "time": 1726935928,
+            "translated": false
+        },
+        {
+            "author_name": "Carlos Chua",
+            "author_url": "https://www.google.com/maps/contrib/103139079078397207826/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVl9-U82xQSi-83LmSlTFfTGlPca87NmSLYyS6SUe3V02TLd1AyHg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "a month ago",
+            "text": "Managed to get a table for lunch, friendly waiter who explained what went into the Bouillabaisse, soup stock was hot, fish was cooked perfectly. Risotto was also fantastic",
+            "time": 1730453652,
+            "translated": false
+        },
+        {
+            "author_name": "Jeffrey Grier",
+            "author_url": "https://www.google.com/maps/contrib/110464451524967411833/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2GQxvWni6SU_g7zY33QS1ioZpigLKND6IiOMlgJHjym8CFNY=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "5 months ago",
+            "text": "A magnificent experience! I have been waiting many years to try authentic bouillabaisse and Chez Fonfon exceeded my expectations. The broth is rich with the flavors of tomatoes, fennel and saffron, and the fish is impeccably fresh as you can see in the picture. Handmade aioli and rouille are to die for! The staff are welcoming, friendly, and helpful. The price is reasonable considering the quality of the ingredients, and a bargain compared to other nearby restaurants serving true bouillabaisse.",
+            "time": 1719415533,
+            "translated": false
+        },
+        {
+            "author_name": "wakao yoshi",
+            "author_url": "https://www.google.com/maps/contrib/109645204616403049055/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvvHhWDkhC6gwMmFIOBffxGWYJUZgcBuTXfJhJYlUereNqNw=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 4,
+            "relative_time_description": "2 months ago",
+            "text": "I was really surprised when I visited in the June 2017. Not only was the bouillabaisse amazing, but the white fish soup was a unique experience. I wanted to eat it again, so I visited in 2021 from Japan. But the experience was terrible. The bouillabaisse surved very ordinary and the fish soup tasted much worse. I wonder if the chef or the owner has changed. I want to eat that delicious fish soup that you can't get anywhere else again, but I don't have the courage to visit again after being disappointed the second time.",
+            "time": 1726304533,
+            "translated": false
+        },
+        {
+            "author_name": "Frederic B",
+            "author_url": "https://www.google.com/maps/contrib/107731265775212206705/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWVsAFyhUzr5bZlFzDQEdeyISdFR7-CXPh8Q-8AG3WqoLZQg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "2 months ago",
+            "text": "SEP2024: superb, it’s an insitution that has not lost its charm and authenticity. We loved it. Worth a visit if you are in Marseille.",
+            "time": 1728133062,
+            "translated": false
+        }
+    ]
+}

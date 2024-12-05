@@ -1,0 +1,66 @@
+{
+    "name": "Džuljeta",
+    "rating": 4.4,
+    "reviews": [
+        {
+            "author_name": "Alexander Sokolov",
+            "author_url": "https://www.google.com/maps/contrib/108471014922479402083/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUyDLqne_X6ZlAkDx0V9iv9l1OelsOsR-_dLWlngPsKeDo6V6r=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 2,
+            "relative_time_description": "8 years ago",
+            "text": "A restaurant at the Carwash...  Enough said I presume. Owned by Armenian diaspora though one cannot have even a traditional Hash meal in the morning... It is hot inside in summer and - yes you guessed right, it is cold during cold months.",
+            "time": 1469871226,
+            "translated": false
+        },
+        {
+            "author_name": "Roberts Pakalns",
+            "author_url": "https://www.google.com/maps/contrib/117512034859761098041/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW4kqLp6GHuWPa_dPveGweyW2suLAxm131m7fUYdXewIY04Q=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "6 years ago",
+            "text": "Superb carwash",
+            "time": 1539282166,
+            "translated": false
+        },
+        {
+            "author_name": "Mihail Mahmudov",
+            "author_url": "https://www.google.com/maps/contrib/114834520192206597901/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWGP19RXhCuXTb5rkCkvEUUhdlJPxODMHCtY9XeD3gnc_T9tEV=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Super!",
+            "time": 1560011802,
+            "translated": false
+        },
+        {
+            "author_name": "Natalija Puzirevska",
+            "author_url": "https://www.google.com/maps/contrib/109006529603186118739/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVld1b_BMPEM4WTexCH28ekTpHrZ2cE0KyhD-XY4gWYX1P5SYHw=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "Washing - one name. They vacuumed as much as possible, the plastic and panel are smeared with a rag, the glass is even stained.  Complete trash 😡 it’s immediately clear why it became completely empty there.",
+            "time": 1695645429,
+            "translated": true
+        },
+        {
+            "author_name": "Ruslan Pankratov",
+            "author_url": "https://www.google.com/maps/contrib/114516820840234254087/reviews",
+            "language": "en-US",
+            "original_language": "ru",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgR35F-30F3OA23AHUGDv2h6fEBNU7HkdROU-ALUaswstg6tMS=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "relative_time_description": "5 years ago",
+            "text": "Okay, but the prices are steep. 50 euros, it kind of hurts. If you wash your car and clean the interior, you won’t be able to do it in an hour. We should expect 2, 2.5 hours.",
+            "time": 1553015451,
+            "translated": true
+        }
+    ]
+}
