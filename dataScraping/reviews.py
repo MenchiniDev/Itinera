@@ -29,7 +29,7 @@ def search_places(lat, lng, place_type, api_key):
     for type in place_type:
         params = {
             "location": f"{lat},{lng}",
-            "radius": 5000,  # Raggio in metri
+            "radius": 10000,  # Raggio in metri
             "type": place_type,
             "key": api_key
         }
