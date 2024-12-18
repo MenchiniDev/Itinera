@@ -32,12 +32,12 @@ public class ItineraJavaApplication {
 			System.out.println(result);
 		} catch (Exception e) {
 			System.err.println("Errore nella connessione a Neo4j: " + e.getMessage());
-			e.printStackTrace();
+			//e.printStackTrace();
 		}
 	}
 
 	/**
-	 * Crea una connessione a MongoDB.
+	 * connessione a MongoDB.
 	 *
 	 * @param mongoUri URI di connessione a MongoDB
 	 * @param databaseName Nome del database
@@ -51,7 +51,7 @@ public class ItineraJavaApplication {
 	}
 
 	/**
-	 * Crea una connessione a Neo4j.
+	 * connessione a Neo4j.
 	 *
 	 * @param uri      URI di connessione a Neo4j
 	 * @param username Username di autenticazione

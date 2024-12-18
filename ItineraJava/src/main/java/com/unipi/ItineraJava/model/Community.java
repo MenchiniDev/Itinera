@@ -1,0 +1,21 @@
+package com.unipi.ItineraJava.model;
+
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import java.util.List;
+
+// COMMUNITY
+@Document(collection = "communities")
+public class Community {
+    @Id
+    private String id;
+    private String city;
+    private String name;
+    private int numFollower;
+    private List<Post> post;
+
+    // Getters and Setters
+}
+
