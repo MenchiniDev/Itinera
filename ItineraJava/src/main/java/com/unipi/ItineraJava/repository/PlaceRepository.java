@@ -5,7 +5,5 @@ import com.unipi.ItineraJava.model.Place;
 
 import java.util.List;
 
-public interface PlaceRepository extends MongoRepository<Place, String> {
-    List<Place> findByCityOrderByOverallRatingDesc(String city);
-}
+public interface PlaceRepository extends MongoRepository<Place, String> {}
 

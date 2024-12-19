@@ -18,5 +18,10 @@ public class PlaceController {
     public List<Place> getPlacesByCity(@RequestParam String city) {
         return placeService.getBestPlacesByCity(city);
     }
+
+    @GetMapping("/city")
+    public List<Place> getTopPlaces(@RequestParam String city) {
+        return placeService.getBestPlacesByCity(city);
+    }
 }
 

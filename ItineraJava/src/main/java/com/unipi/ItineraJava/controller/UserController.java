@@ -2,9 +2,9 @@ package com.unipi.ItineraJava.controller;
 
 
 import com.unipi.ItineraJava.service.UserService;
-import org.apache.catalina.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import com.unipi.ItineraJava.model.User;
 
 import java.util.List;
 import java.util.Optional;

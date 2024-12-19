@@ -2,15 +2,15 @@ package com.unipi.ItineraJava.service;
 
 
 import com.unipi.ItineraJava.repository.UserRepository;
-import org.apache.catalina.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import com.unipi.ItineraJava.model.User;
 
 import java.util.List;
 import java.util.Optional;
 
 @Service
-public class UserService extends com.unipi.ItineraJava.model.User{
+public class UserService{
     @Autowired
     private UserRepository userRepository;
 
@@ -23,7 +23,7 @@ public class UserService extends com.unipi.ItineraJava.model.User{
     }
 
     public User save(User user) {
-        return null;    // TODO: userRepository.save(user); da errore
+        return userRepository.save(user);
     }
 
     public void deleteById(String id) {
