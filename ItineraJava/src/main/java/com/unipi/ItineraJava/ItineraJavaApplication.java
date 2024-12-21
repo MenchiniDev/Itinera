@@ -25,6 +25,7 @@ public class ItineraJavaApplication {
 		}
 
 		// Connessione a Neo4j
+/*
 		try (Driver driver = createNodeConnection("bolt://localhost:7687", "neo4j", "12345678");
 			 Session session = driver.session()) {
 			String query = "RETURN 'Connessione a Neo4j riuscita'";
@@ -33,7 +34,7 @@ public class ItineraJavaApplication {
 		} catch (Exception e) {
 			System.err.println("Errore nella connessione a Neo4j: " + e.getMessage());
 			//e.printStackTrace();
-		}
+		}*/
 	}
 
 	/**
@@ -57,10 +58,10 @@ public class ItineraJavaApplication {
 	 * @param username Username di autenticazione
 	 * @param password Password di autenticazione
 	 * @return un oggetto Driver per Neo4j
-	 */
+	 *//*
 	public static Driver createNodeConnection(String uri, String username, String password) {
 		Driver driver = GraphDatabase.driver(uri, AuthTokens.basic(username, password));
 		System.out.println("Connessione a Neo4j creata con successo");
 		return driver;
-	}
+	}*/
 }
