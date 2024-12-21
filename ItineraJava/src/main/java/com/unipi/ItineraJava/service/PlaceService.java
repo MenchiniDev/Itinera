@@ -17,4 +17,9 @@ public class PlaceService {
         //return placeRepository.findByCityOrderByOverallRatingDesc(city);
         return List.of(); //ritorna una lista vuota perchè il metodo sopra mi da errore
     }
+
+    public List<Place> getPlacesByCityAndCategory(String city, String category) {
+        return placeRepository.findByCityAndCategoryOrderByOverallRatingDesc(city, category);
+    }
+
 }

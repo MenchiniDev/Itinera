@@ -23,5 +23,12 @@ public class PlaceController {
     public List<Place> getTopPlaces(@RequestParam String city) {
         return placeService.getBestPlacesByCity(city);
     }
+
+    @GetMapping("/search")
+    public List<Place> getPlacesByCityAndCategory(
+            @RequestParam String city,
+            @RequestParam String category) {
+        return placeService.getPlacesByCityAndCategory(city, category);
+    }
 }
 
