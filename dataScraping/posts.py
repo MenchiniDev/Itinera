@@ -55,11 +55,13 @@ reddit = praw.Reddit(
 
 df_reviews = None
 
-if os.path.exists("data/normalized_addresses.csv"):
-    df_reviews = pd.read_csv("data/normalized_addresses.csv")["Hotel_Address"]
+print("Current working directory:", os.getcwd())  #debug
+
+if os.path.exists("itinera/data/normalized_addresses.csv"):
+    df_reviews = pd.read_csv("itinera/data/normalized_addresses.csv")["Hotel_Address"]
     print("Il file 'data/normalized_addresses.csv' esiste già. Nessuna elaborazione necessaria.")
 else:
-    df_reviews = pd.read_csv('data/Hotel_Reviews_Choosen.csv')
+    df_reviews = pd.read_csv('itinera/data/original/Hotel_Reviews_Choosen.csv')
     df_reviews = df_reviews["Hotel_Address"].drop_duplicates()
     df_reviews = df_reviews.dropna()
     print("Normalizzazione degli indirizzi in corso...")
@@ -67,7 +69,7 @@ else:
     df_reviews = df_reviews.apply(extract_city)
     # Salva i risultati in un file CSV
     df_reviews = df_reviews.drop_duplicates()
-    df_reviews.to_csv("data/normalized_addresses.csv", index=False)
+    df_reviews.to_csv("itinera/data/normalized_addresses.csv", index=False)
 
 
 
@@ -108,41 +110,47 @@ for city in df_reviews:
 
 # Analizza i post nei subreddit
 for sub in subreddit_list:
-    # Trova il post con il punteggio più alto
     try:
-        top_post = None
-        for post in sub.hot(limit=1):  # Prendi il primo post
-            top_post = post
+        top_posts = []  # Lista per accumulare fino a 10 post
+        for post in sub.hot(limit=10):  # Prendi fino a 10 post
+            top_posts.append(post)
     except prawcore.exceptions.Forbidden:
         print(f"Non posso accedere a '{sub.display_name}'.")
         continue
 
-    if top_post:
-        print(f"Post selezionato: {top_post.title} (Score: {top_post.score})")
-        # Carica tutti i commenti del post
-        top_post.comments.replace_more(limit=None)  # Espande tutti i commenti "MoreComments"
-        comments = []
+    # Elabora ogni post individualmente
+    for i, top_post in enumerate(top_posts):
+        if top_post:
+            print(f"Post selezionato: {top_post.title} (Score: {top_post.score})")
+            # Carica tutti i commenti del post
+            try:
+                top_post.comments.replace_more(limit=None)  # Espande tutti i commenti
+                comments = []
 
-        for comment in top_post.comments.list():  # Ottieni una lista piatta di commenti
-            comments.append({
-                "author": str(comment.author),
-                "body": comment.body,
-                "score": comment.score,
-                "created_utc": comment.created_utc
-            })
+                for comment in top_post.comments.list():
+                    comments.append({
+                        "author": str(comment.author),
+                        "body": comment.body,
+                        "score": comment.score,
+                        "created_utc": comment.created_utc
+                    })
 
-        # Salva i dati in un file JSON
-        output = {
-            "post_title": top_post.title,
-            "post_author": str(top_post.author),
-            "post_score": top_post.score,
-            "post_url": top_post.url,
-            "comments": comments
-        }
+                # Salva i dati in un file JSON per ogni post
+                output = {
+                    "post_title": top_post.title,
+                    "post_author": str(top_post.author),
+                    "post_score": top_post.score,
+                    "post_url": top_post.url,
+                    "comments": comments
+                }
 
-        with open(f"./dataScraping/top_post_comments_{sub.display_name}.json", "w", encoding="utf-8") as f:
-            json.dump(output, f, ensure_ascii=False, indent=4)
+                with open(f"itinera/dataScraping/posts2/top_post_{sub.display_name}_{i+1}.json", "w", encoding="utf-8") as f:
+                    json.dump(output, f, ensure_ascii=False, indent=4)
 
-        print(f"Dati salvati in top_post_comments_{sub.display_name}.json")
-    else:
-        print(f"Nessun post trovato per '{sub.display_name}'.")
+                print(f"Dati salvati in top_post_{sub.display_name}_{i+1}.json")
+
+            except prawcore.exceptions.Forbidden:
+                print(f"Non posso accedere ai commenti di '{sub.display_name}'.")
+
+        else:
+            print(f"Nessun post trovato per '{sub.display_name}'.")
