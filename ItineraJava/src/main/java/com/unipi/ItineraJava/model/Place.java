@@ -79,7 +79,7 @@ public class Place {
     }
 }
 
-class Review {
+public class Review {
     private String revId;
     private String user;
     private int stars;
