@@ -1,10 +1,8 @@
 package com.unipi.ItineraJava.service;
-//commento a cas per pushare
+
 import com.unipi.ItineraJava.model.Place;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.mongodb.core.aggregation.AggregationResults;
 import org.springframework.stereotype.Service;
 import com.unipi.ItineraJava.repository.PlaceCustomRepositoryImpl;
 
