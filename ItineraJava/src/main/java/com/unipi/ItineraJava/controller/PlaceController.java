@@ -39,5 +39,10 @@ public class PlaceController {
             @RequestParam String name) {
         return placeService.getReviewsByCityCategoryAndName(city, category, name);
     }
+
+    @PostMapping("/review")
+    public Review addReview(@RequestBody Review review) {
+        return null; //TODO: implementare
+    }
 }
 
