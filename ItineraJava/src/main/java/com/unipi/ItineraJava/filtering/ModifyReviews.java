@@ -8,6 +8,8 @@ import org.json.simple.parser.ParseException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 
+//codice per pulire reciensioni del Menco
+
 public class ModifyReviews {
 
     public static void main(String[] args) {
