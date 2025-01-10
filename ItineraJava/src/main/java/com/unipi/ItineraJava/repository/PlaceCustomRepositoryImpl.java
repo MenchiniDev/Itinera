@@ -1,10 +1,12 @@
 package com.unipi.ItineraJava.repository;
 
+import com.unipi.ItineraJava.model.Review;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.aggregation.Aggregation;
 import org.springframework.data.mongodb.core.aggregation.AggregationResults;
+import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.stereotype.Repository;
 import com.unipi.ItineraJava.model.Place;
 
@@ -34,6 +36,18 @@ public class PlaceCustomRepositoryImpl implements PlaceCustomRepository {
         );
 
         AggregationResults<Place> results = mongoTemplate.aggregate(aggregation, "places", Place.class);
+        return results.getMappedResults();
+    }
+
+    public List<Review> getReviewsByCityCategoryAndName(String city, String category, String name) {
+        Aggregation aggregation = newAggregation(
+                Aggregation.match(Criteria.where("city").is(city).and("category").is(category).and("name").is(name)),
+                Aggregation.unwind("reviews"),
+                sort(Sort.Direction.DESC, "reviews.stars"),
+                project("reviews").andExclude("_id")
+        );
+
+        AggregationResults<Review> results = mongoTemplate.aggregate(aggregation, "places", Review.class);
         return results.getMappedResults();
     }
 }
