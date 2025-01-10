@@ -1,0 +1,44 @@
+{
+  "Community_name" : "Vienna",
+  "Username" : "None",
+  "Post_body" : "Train from Vienna to Bratislava",
+  "Timestamp" : "2023-07-31 15:56:46",
+  "Num_comment" : 7,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "dmstan",
+    "reported" : false,
+    "Timestamp" : "2023-07-31 16:29:53",
+    "Body" : "You can buy the \"Bratislava Ticket\". It's 18 Euros for the trip and you can take the train in a 3 day window. \n\n[https://www.oebb.at/en/regionale-angebote/ueberregionale-angebote/bratislava-ticket](https://www.oebb.at/en/regionale-angebote/ueberregionale-angebote/bratislava-ticket)"
+  }, {
+    "Username" : "oratory1990",
+    "reported" : false,
+    "Timestamp" : "2023-07-31 16:38:21",
+    "Body" : ">  Do I need to buy tickets online or can I buy them at the train station without any problems?  \n  \nBoth are possible. There are ticket counters at every (larger) train station in Vienna.  \n  \nThe go-to website is the website of the austrian federal train service (ÖBB):\nhttps://shop.oebbtickets.at/de/ticket  \n  \nThey also have a (very easy to use) app:  \nhttps://www.oebb.at/de/tickets-kundenkarten/online-mobile-ticketing/oebb-app"
+  }, {
+    "Username" : "AutoModerator",
+    "reported" : false,
+    "Timestamp" : "2023-07-31 15:56:46",
+    "Body" : "Bei diesem Beitrag scheint es sich um einen Post zum Tourismus in Wien zu handeln. Hilfreiche Tipps findest [hier](https://www.reddit.com/r/vienna/wiki/index/tourismus).\n\nThis post seems to be a post about tourism in Vienna. Helpful tips can be found [here](https://www.reddit.com/r/vienna/wiki/index/tourism).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/vienna) if you have any questions or concerns.*"
+  }, {
+    "Username" : "p0d0s",
+    "reported" : false,
+    "Timestamp" : "2023-07-31 17:42:21",
+    "Body" : "Just back from Bratislava\nGot the ticket at Vienna central 30min before departure\n€12.50\n\nAnd €14.50 back ;)"
+  }, {
+    "Username" : "None",
+    "reported" : false,
+    "Timestamp" : "2023-08-06 09:29:33",
+    "Body" : "Did you have to make a reservation or is just the ticket needed? I keep seeing that I need to make a reservation along with the ticket but it is not available anywhere."
+  }, {
+    "Username" : "p0d0s",
+    "reported" : false,
+    "Timestamp" : "2023-08-06 10:46:47",
+    "Body" : "No, buy ticket , hop on the train, take the free seat.  Enjoy the ride"
+  }, {
+    "Username" : "None",
+    "reported" : false,
+    "Timestamp" : "2023-08-06 11:00:53",
+    "Body" : "Alright, thanks for your answer. I got really confused with the whole reservation thing"
+  } ]
+}

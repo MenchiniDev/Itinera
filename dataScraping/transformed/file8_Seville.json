@@ -1,0 +1,19 @@
+{
+  "Community_name" : "Seville",
+  "Username" : "9kSs",
+  "Post_body" : "Where can I get a good woolen sweater?",
+  "Timestamp" : "2024-12-23 11:05:15",
+  "Num_comment" : 2,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "Zealousideal_West_16",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 11:18:30",
+    "Body" : "El corte inglés"
+  }, {
+    "Username" : "Zealousideal_West_16",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 11:05:15",
+    "Body" : "Online"
+  } ]
+}

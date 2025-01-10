@@ -1,0 +1,19 @@
+{
+  "Community_name" : "Seville",
+  "Username" : "Itskikib",
+  "Post_body" : "Looking for a cooking class that is not Paella... any suggestions?",
+  "Timestamp" : "2024-12-21 19:52:02",
+  "Num_comment" : 2,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "BoNidle",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 19:52:02",
+    "Body" : "There's a company called La Vida ES which does non touristy things for people visiting. They organise Spanish classes with Andalucian cooking for families. \n\nhttps://www.instagram.com/p/CpQmwsSAHdG/"
+  }, {
+    "Username" : "Itskikib",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 20:05:21",
+    "Body" : "Thank you so much!"
+  } ]
+}

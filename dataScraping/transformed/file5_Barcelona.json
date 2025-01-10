@@ -1,0 +1,39 @@
+{
+  "Community_name" : "Barcelona",
+  "Username" : "andrewembassy",
+  "Post_body" : "I was out riding my bike in La Rierada and stumbled upon a pot of gold —— Estava amb la meva bicicleta a La Rierada i em vaig topar amb una olla d'or",
+  "Timestamp" : "2024-12-21 16:17:15",
+  "Num_comment" : 6,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "beatlz",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 16:17:15",
+    "Body" : "El arcoíris o el Peugot"
+  }, {
+    "Username" : "chabacanito",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 19:47:04",
+    "Body" : "Based 90s car"
+  }, {
+    "Username" : "----aeiou----",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 18:25:48",
+    "Body" : "\"A tot porc li arriba el seu sant martí\" XD"
+  }, {
+    "Username" : "andrewembassy",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 17:15:34",
+    "Body" : "El arcoíris señala el tesoro."
+  }, {
+    "Username" : "jbar3640",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 21:56:36",
+    "Body" : "80s and 90s. the license plate is from 1987."
+  }, {
+    "Username" : "jbar3640",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 21:54:48",
+    "Body" : "80s and 90s"
+  } ]
+}
