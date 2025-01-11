@@ -1,0 +1,40 @@
+{
+  "Id" : 50436,
+  "Community_name" : "Stockholm",
+  "Username" : "Accomplished_Tart832",
+  "Post_body" : "Boende 8natt/månad",
+  "Timestamp" : "2024-12-22 19:16:04",
+  "Num_comment" : 6,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "eqez",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 19:16:04",
+    "Body" : "Kan det inte vara värt och kolla på vandrarhem?"
+  }, {
+    "Username" : "bubbelplast39",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 19:41:38",
+    "Body" : "Kanske värt att kolla upp couchsurfing-grupper. Ser ut att finnas någon på Facebook för Stockholm. Men jag har ingen aning om hur de fungerar. Annars är det nog vandrarhem som någon annan skrev. Alternativt kolla om din arbetsgivare kan hjälpa till på något sätt."
+  }, {
+    "Username" : "kimotheus",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 21:48:31",
+    "Body" : "Vad är din maxhyra? Vad jobbar du med? Hur snart behöver du hyra?"
+  }, {
+    "Username" : "Accomplished_Tart832",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 21:41:33",
+    "Body" : "Sist jag bodde på vandrarhem fick jag mobilen stulen 😅"
+  }, {
+    "Username" : "Accomplished_Tart832",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 22:54:28",
+    "Body" : "Tekniker, typ elektriker. Nästa arbetsvecka är fr 7-10 januari. Därefter varannan vecka. Fr 100kr per natt till  300 är väl förväntningen. Pris beroende på tillgång/läge osv osv. 300kr per natt är ju typ vandrarhem men som sagt i en annan kommentar har jag dåliga erfarenheter från vandrarhem, stulen mobil.\n\nAlternativt om någon vill byta mot något eljobb, värde ca 500-800kr timmen vitt."
+  }, {
+    "Username" : "swedishfalk",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 22:31:58",
+    "Body" : "ta inte med mobilen "
+  } ]
+}

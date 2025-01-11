@@ -1,0 +1,35 @@
+{
+  "Id" : 50097,
+  "Community_name" : "Helsinki",
+  "Username" : "natureisdoperight",
+  "Post_body" : "Anywhere to charge an ebike?",
+  "Timestamp" : "2024-12-22 09:17:51",
+  "Num_comment" : 5,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "jks",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 09:17:51",
+    "Body" : "The [Kaisantunneli bike parking space](https://kaupunkiliikenne.fi/liikennointi/pyoralla/pyoratalli/) reportedly has a charging facility, free to use until they figure out how to set up payments.\n\nTo enter the facility, you need an [HSL card](https://www.hsl.fi/liput-ja-hinnat/hsl-kortti). Yes, even though HSL tells you to use their app, the only way to enter is with the card. It costs 5 euros and you don't need to buy tickets with it or top it up, you just need the card to open the door."
+  }, {
+    "Username" : "natureisdoperight",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 09:22:08",
+    "Body" : "Looks good! I tried Tripla which also according to internet had the option but ended up with notes on the wall saying it has been paused due to fire hazard! \n\nI hope Kaisa works. Thanks! "
+  }, {
+    "Username" : "jks",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 11:28:39",
+    "Body" : "Yeah, I haven't tried it myself so can't say for sure."
+  }, {
+    "Username" : "japalvia",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 12:32:25",
+    "Body" : "I saw wall sockets in the bicycle storage under Pasila railway station. This is a different location from the indoor storage in Tripla but no idea if those are available now."
+  }, {
+    "Username" : "natureisdoperight",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 16:23:02",
+    "Body" : "Thanks! Worth checking out."
+  } ]
+}

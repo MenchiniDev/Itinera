@@ -1,0 +1,35 @@
+{
+  "Id" : 50341,
+  "Community_name" : "Berlin",
+  "Username" : "Skytoto02",
+  "Post_body" : "Merry Christmas from good old Berlin ",
+  "Timestamp" : "2024-12-22 23:10:57",
+  "Num_comment" : 5,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "AutoModerator",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 23:10:57",
+    "Body" : "If your photography is for photography's sake, please use /r/berlinpics instead.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/berlin) if you have any questions or concerns.*"
+  }, {
+    "Username" : "Total_Slip8731",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 13:17:27",
+    "Body" : "It looks like Bar Jeder Vernunft"
+  }, {
+    "Username" : "MisanthropeRobot",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 23:58:28",
+    "Body" : "Berlin is not good anymore. It's too dirty. The rents are too high. Impossible to find an apartment anyway. The homeless and drug problems seem to be out of control. The public transport is getting worse. There is a perpetual war between car owners and bike riders both sides seem to be losing. The culture is being hit by a decrease in subsidies cuts. There seems to be an increase in ideologically motivated violence. So, yeah..."
+  }, {
+    "Username" : "Skytoto02",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 13:38:16",
+    "Body" : "Now it was an Event Called Palazzo"
+  }, {
+    "Username" : "Blaueveilchen",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 00:11:42",
+    "Body" : "It happens in so many European Capital cities, not only in Berlin.\n\n London, for example, is not good anymore. It's too dirty.The rents are too high. Impossible to find an apartment anyway.  The homeless and drug problem seems out of control, and 3/4 of Londoners are foreigners."
+  } ]
+}

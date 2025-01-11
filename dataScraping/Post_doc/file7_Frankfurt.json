@@ -1,0 +1,55 @@
+{
+  "Id" : 50219,
+  "Community_name" : "Frankfurt",
+  "Username" : "Timon_von_Phleius",
+  "Post_body" : "Gute Alternative Friseure",
+  "Timestamp" : "2024-12-22 21:45:46",
+  "Num_comment" : 9,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "JeanPierre-Blueberry",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 21:49:59",
+    "Body" : "Du müsstest \"untypisch\" ein bisschen konkretisieren"
+  }, {
+    "Username" : "Competitive-Art",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 22:27:26",
+    "Body" : "Mr. Leons Scherenhände"
+  }, {
+    "Username" : "AutoModerator",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 21:45:46",
+    "Body" : "Hello /u/Timon_von_Phleius, thank you for posting a question. Have you checked [our wiki](/r/frankfurt/wiki/index)  or the [stickied FAQ thread at the top of our subreddit](https://www.reddit.com/r/frankfurt/comments/otfb7a/visitors_and_newcomers_to_frankfurt_please_post/?utm_source=share&utm_medium=web2x&context=3)?\nWhen you have a satisfactory answer, please change the flair to \"Solved\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*"
+  }, {
+    "Username" : "hombre74",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 00:18:41",
+    "Body" : "Barbershops dürfen keine Scheeren benutzen (dann Friseur und Meister Pflicht). "
+  }, {
+    "Username" : "Timon_von_Phleius",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 21:53:09",
+    "Body" : "Schon eher Punkige Sachen. Iros, Mullets, Chelsea Cuts und auch Haarschnitte aus 70er bis 90ern\nIch weiß das sind eigentlich alles eher do it yourself Schnitte aber ich brauche erstmal wieder eine gute Grundstruktur um die dann zurecht zu schnibbeln xD"
+  }, {
+    "Username" : "Timon_von_Phleius",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 22:33:58",
+    "Body" : "Danke für die Empfehlung :D"
+  }, {
+    "Username" : "suspicious_racoon",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 00:58:53",
+    "Body" : "Du hast Recht, aber davon wissen die Barbieren aber scheinbar nix"
+  }, {
+    "Username" : "thuglifesoul",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 09:04:16",
+    "Body" : "Bei Cowboys and Angels wirst du so was finden können :)"
+  }, {
+    "Username" : "hombre74",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 07:34:25",
+    "Body" : "Wissen schon aber hoffen wohl das sie nicht erwischt werden? Ist auch gefühlt ein anderes Klientel...."
+  } ]
+}

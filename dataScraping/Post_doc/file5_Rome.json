@@ -1,0 +1,30 @@
+{
+  "Id" : 50305,
+  "Community_name" : "Rome",
+  "Username" : "Prestigious-Hall6405",
+  "Post_body" : "US Bank account that works in Italy? ",
+  "Timestamp" : "2024-12-23 10:07:34",
+  "Num_comment" : 4,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "RomeVacationTips",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 10:07:34",
+    "Body" : "Wise, Revolut, Charles Schwab."
+  }, {
+    "Username" : "cognificient",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 13:47:53",
+    "Body" : "BOFA has offices in rome"
+  }, {
+    "Username" : "LBreda",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 14:42:51",
+    "Body" : "Define \"works\". If you just need to pay by card, any bank account with a VISA or Mastercard will have no major issue (just some fee converting USD to EUR, you should verify with your bank). If you need to receive payments by wire transfer, having a European bank account will be very handy. In Europe we have a unified wire transfer network (the technical name is SEPA Credit Transfer): it will be faster than using a US bank account and you'll have no need to convert between currencies.\n\nA easy-to-open online bank account would probably be Revolut. It lets you pay in USD and EUR with no fee if you pay less than 2k€/month in USD."
+  }, {
+    "Username" : "boundpleasure",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 13:47:27",
+    "Body" : "We use a Schwab card whenever we’re in Europe.  I am NOT a Schwab fan, but hey it works."
+  } ]
+}

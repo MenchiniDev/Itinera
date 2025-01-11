@@ -1,0 +1,20 @@
+{
+  "Id" : 50151,
+  "Community_name" : "Bucharest",
+  "Username" : "DrJarp",
+  "Post_body" : "Car rental needed - full insurance and permission to go to Moldova required",
+  "Timestamp" : "2016-10-01 10:43:59",
+  "Num_comment" : 2,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "programatorulupeste",
+    "reported" : false,
+    "Timestamp" : "2016-10-01 10:43:59",
+    "Body" : "If you want to go with the big car rental companies, take a look at Sixt and Avis. These guys should be fine with travelling to Moldova, but do ask them.\n\nAvis has an office right in the city center.\n\nIf you want to go with local companies, I'm not sure what to recommend. "
+  }, {
+    "Username" : "shingdao",
+    "reported" : false,
+    "Timestamp" : "2016-10-01 18:38:25",
+    "Body" : "It is very unlikely that any of the major car rental agencies are going to allow you to drive the vehicle to/from the Republic of Moldova.  In fact a quick check of Avis Romania website states the following:\n\n>Premium cars (group G), certain vehicles 4x4 / SUV (groups K, O and P) and minibuses with 8/9 seats (group L) cannot leave Romania. \nAll other vehicles can travel only to these European countries (requires prior notification of the office rental Avis): Austria, Belgium, Bulgaria, Croatia *, Czech Republic, France *, Germany, Greece *, Hungary, Italy *, Luxembourg, Netherlands, Poland, Slovakia, Slovenia.\n\nMoldova is a high risk country in terms of auto thefts and also outside the EU.  Your best bet is to find a local auto rental company that has an office in Moldova too or a small operator that would be willing to take the risk.   \n\n "
+  } ]
+}
