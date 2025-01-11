@@ -10,10 +10,10 @@ api_key = "AIzaSyByUaM5K3h4oVamDjGG9RImuLlcaHLt_EY"
 
 european_cities = [
     "London", "Berlin", "Madrid", "Rome", "Paris", "Vienna", "Bucharest", "Hamburg", "Budapest", "Warsaw",
-    "Barcelona", "Munich", "Milan", "Prague", "Sofia", "Brussels", "Birmingham", "Cologne", "napoli", "Stockholm",
+    "Barcelona", "Munich", "Milan", "Prague", "Sofia", "Brussels", "Birmingham", "Cologne", "Napoli", "Stockholm",
     "Turin", "Amsterdam", "Marseille", "Zagreb", "Valencia", "Krakow", "Frankfurt", "Seville", "Oslo", "Copenhagen",
     "Dublin", "Lisbon", "Helsinki", "Riga", "Tallinn", "Vilnius", "Luxembourg", "Ljubljana", "Bratislava", "Sarajevo",
-    "Skopje", "Tirana", "Podgorica", "Reykjavik", "Valletta", "travel", "Monaco", "San Marino", "Vaduz", "Pristina"
+    "Skopje", "Tirana", "Podgorica", "Reykjavik", "Valletta", "Travel", "Monaco", "San Marino", "Vaduz", "Pristina"
 ]
 
 
