@@ -19,7 +19,16 @@ public class Post {
     private boolean reported;
     private List<Comment> commenti;
 
-    // Getters and Setters
+    // request GET /communities?id=roma&username=john_doe
+    public <U> U getTimestamp() {
+
+        // query usata per ritornare il timestamp del post
+        //
+        // se l'utente non ha l'arco tra community e lui (ossia non è loggato)
+        // allora si ritorna solo l'ultimo post con il timestamp
+        // altrimenti si ritornano tutti i post e commenti
+        return (U) timestamp; //todo: aggiustare con il timestamp post di riferimento
+    }
 }
 
 // COMMENT
