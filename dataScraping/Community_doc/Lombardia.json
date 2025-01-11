@@ -1,6 +1,8 @@
 {
+  "Id" : 50714,
   "City" : "Lombardia",
   "Name" : "Lombardia",
+  "Created" : "2022-01-29 09:42:46",
   "Post" : [ {
     "User" : "asimik",
     "Text" : "Un sondaggio su moralità per uno studente di Milano-Bicocca",
@@ -8,6 +10,6 @@
   }, {
     "User" : "ricerca_psych",
     "Text" : "Cosa ne pensi del futuro?",
-    "Timestamp" : "+56998-03-04 11:14:30"
+    "Timestamp" : "+57001-01-16 21:03:36"
   } ]
 }

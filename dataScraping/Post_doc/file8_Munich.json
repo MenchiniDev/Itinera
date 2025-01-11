@@ -1,0 +1,35 @@
+{
+  "Id" : 50336,
+  "Community_name" : "Munich",
+  "Username" : "ermwhatsmyname",
+  "Post_body" : "‘München Modell’ property renting advice needed!",
+  "Timestamp" : "2024-12-23 09:27:39",
+  "Num_comment" : 5,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "crashblue81",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 09:27:39",
+    "Body" : "Just to keep in mind on average there are 350 people with a permit applying for each München Modell apartment that is vacant."
+  }, {
+    "Username" : "Altruistic-Local9329",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 09:34:25",
+    "Body" : "Pretty sure you have to re-register for sowon six Months before your current registration ends. Otherwise, you will be locked ist of the system for months."
+  }, {
+    "Username" : "fhandschuch",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 10:31:11",
+    "Body" : "I don‘t know how immowelt works, but on Immobilienscout24 you can check the „Wohnberechtigungsschein erforderlich“ option in the additional filters. Münchner Wohnen (formerly GEWOFAG and GWG) used that option for the München Modell apartments in their portfolio. I had a scraper with that filter running when I was looking with my family - although we never got one, got something else from GEWOFAG at the time."
+  }, {
+    "Username" : "tofudoener",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 12:40:01",
+    "Body" : "Where's that number from? Is it the same for families with kids? Just asking because literally all families I know that searched for one (did sometimes take a few years, of course), eventually got into a Genossenschaft/München Modell."
+  }, {
+    "Username" : "crashblue81",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 12:40:47",
+    "Body" : "That was on average from a SZ article I read."
+  } ]
+}

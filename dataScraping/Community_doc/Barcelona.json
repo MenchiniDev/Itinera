@@ -1,6 +1,8 @@
 {
+  "Id" : 50473,
   "City" : "Barcelona",
   "Name" : "Barcelona",
+  "Created" : "2024-12-20 10:37:50",
   "Post" : [ {
     "User" : "un_redditor",
     "Text" : "La T-usual i la T-jove mantindran les bonificacions del 50% durant tot el 2025",

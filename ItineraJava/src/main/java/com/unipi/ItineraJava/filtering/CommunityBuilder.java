@@ -4,9 +4,12 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -18,9 +21,12 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 
 public class CommunityBuilder {
 
+    private static final AtomicInteger globalIdCounter = new AtomicInteger(50465); // Contatore globale per ID
+    private static final DateTimeFormatter TIMESTAMP_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+
     public static void main(String[] args) {
         // Percorsi dei file
-        String postsFolderPath = "/Users/rossana/LargeScale/itinera/dataScraping/transformed"; // Cartella con i JSON dei post
+        String postsFolderPath = "/Users/rossana/LargeScale/itinera/dataScraping/Post_doc"; // Cartella con i JSON dei post
         String outputFolderPath = "/Users/rossana/LargeScale/itinera/dataScraping/Community_doc"; // Cartella di output per i file delle community
 
         File folder = new File(postsFolderPath);
@@ -53,12 +59,19 @@ public class CommunityBuilder {
                 String communityName = extractCommunityNameFromFileName(fileName);
                 String cityName = getCityNameFromCommunityName(communityName);
 
-                // Crea il documento della community
+                // Crea il documento della community se non esiste
                 communityMap.putIfAbsent(communityName, createCommunityDocument(cityName, communityName));
 
                 // Aggiungi i post al documento della community (massimo 2 per community)
                 JSONObject community = communityMap.get(communityName);
                 JSONArray postsArray = (JSONArray) community.get("Post");
+
+                // Trova il timestamp minimo tra i post
+                String postTimestamp = (String) postJson.get("Timestamp");
+                String currentMinTimestamp = (String) community.get("Created");
+                if (compareTimestamps(postTimestamp, currentMinTimestamp) < 0) {
+                    community.put("Created", postTimestamp); // Aggiorna il timestamp minimo
+                }
 
                 if (postsArray.size() < 2) {
                     JSONObject post = createPostDocument(postJson);
@@ -73,6 +86,9 @@ public class CommunityBuilder {
 
         // Salva ogni community in un file separato
         saveCommunityDocuments(communityMap, outputFolderPath);
+
+        // Stampare l'ultimo ID generato
+        System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
     }
 
     /**
@@ -103,8 +119,10 @@ public class CommunityBuilder {
      */
     private static JSONObject createCommunityDocument(String cityName, String communityName) {
         JSONObject community = new JSONObject();
+        community.put("Id", globalIdCounter.getAndIncrement()); // Aggiunta ID univoco
         community.put("City", cityName);
         community.put("Name", communityName);
+        community.put("Created", "9999-12-31 23:59:59"); // Timestamp iniziale massimo
         community.put("Post", new JSONArray()); // Array vuoto per i post (sarà posizionato per ultimo)
         return community;
     }
@@ -121,6 +139,20 @@ public class CommunityBuilder {
     }
 
     /**
+     * Confronta due timestamp formattati come "yyyy-MM-dd HH:mm:ss".
+     */
+    private static int compareTimestamps(String timestamp1, String timestamp2) {
+        try {
+            LocalDateTime time1 = LocalDateTime.parse(timestamp1, TIMESTAMP_FORMATTER);
+            LocalDateTime time2 = LocalDateTime.parse(timestamp2, TIMESTAMP_FORMATTER);
+            return time1.compareTo(time2);
+        } catch (Exception e) {
+            System.err.println("Errore durante il confronto dei timestamp: " + timestamp1 + " e " + timestamp2);
+            return 0;
+        }
+    }
+
+    /**
      * Salva ogni documento della community in un file JSON separato.
      */
     private static void saveCommunityDocuments(Map<String, JSONObject> communityMap, String outputFolderPath) {
@@ -130,8 +162,10 @@ public class CommunityBuilder {
 
             // Riposiziona l'attributo "Post" come ultimo elemento
             LinkedHashMap<String, Object> orderedCommunity = new LinkedHashMap<>();
+            orderedCommunity.put("Id", communityDocument.get("Id"));
             orderedCommunity.put("City", communityDocument.get("City"));
             orderedCommunity.put("Name", communityDocument.get("Name"));
+            orderedCommunity.put("Created", communityDocument.get("Created"));
             orderedCommunity.put("Post", communityDocument.get("Post"));
 
             String outputFilePath = outputFolderPath + File.separator + communityName + ".json";

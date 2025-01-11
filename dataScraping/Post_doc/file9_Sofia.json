@@ -1,0 +1,20 @@
+{
+  "Id" : 50376,
+  "Community_name" : "Sofia",
+  "Username" : "Lopsided_Nothing9533",
+  "Post_body" : "Learning bulgarian",
+  "Timestamp" : "2024-12-23 00:50:35",
+  "Num_comment" : 2,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "CautiousRice",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 00:50:35",
+    "Body" : "There's a facebook group called Foreigners in Sofia & Friends. Might be easier finding the right type of people there."
+  }, {
+    "Username" : "ViktorKitov",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 00:56:00",
+    "Body" : "Maybe check out this guy I guess\n\n[https://www.reddit.com/r/Sofia/comments/1hg9key/meeting\\_new\\_people/](https://www.reddit.com/r/Sofia/comments/1hg9key/meeting_new_people/)"
+  } ]
+}

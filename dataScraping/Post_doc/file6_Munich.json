@@ -1,0 +1,35 @@
+{
+  "Id" : 50210,
+  "Community_name" : "Munich",
+  "Username" : "CiciCasablancas",
+  "Post_body" : "Wo/wie könnte ich in Muc bis morgen noch an dieses französische Maggi-Produkt kommen",
+  "Timestamp" : "2024-12-23 12:47:28",
+  "Num_comment" : 5,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "Important_Raccoon667",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 12:47:28",
+    "Body" : "Eine andere Gelatine tut es nicht? Laut Internet sind da noch ein paar andere Zutaten drin, aber nichts, was man nicht selbst noch hinzufügen könnte (MSG/Maggi, Salz, usw.)"
+  }, {
+    "Username" : "SkidZ66",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 12:49:51",
+    "Body" : "Das ist ganz normales Madeiragelee, nichts anderes als Gelatine, Fleischbrühe und ein bisschen Madeira-Wein (oder Port). Kann man leicht selbst zubereiten."
+  }, {
+    "Username" : "CiciCasablancas",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 13:12:03",
+    "Body" : "Danke - So genau hatte ich es mir noch nicht angeschaut. Ich weiß nur dass sie (eine Dame gehobenen Alters) wohl nur oder ganz besonders darauf schwört. :)"
+  }, {
+    "Username" : "CiciCasablancas",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 13:13:42",
+    "Body" : "Vielen Dank! Das ist vielleicht wirklich eine gute, einfache Alternative!"
+  }, {
+    "Username" : "PuzzleheadedFun5156",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 14:33:42",
+    "Body" : "Fleischbrühe kannst du bei manchen Metzgern fertig in top Qualität kaufen"
+  } ]
+}

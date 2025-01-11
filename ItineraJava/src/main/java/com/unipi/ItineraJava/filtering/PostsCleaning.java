@@ -13,6 +13,7 @@ import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
 import org.json.simple.JSONArray;
@@ -28,11 +29,12 @@ public class PostsCleaning {
     // Mappa per tenere traccia dei contatori per ciascuna community
     private static final Map<String, Integer> communityFileCounter = new HashMap<>();
     private static final Set<String> uniqueUsernames = new HashSet<>(); // Set per gli username univoci
+    private static final AtomicInteger globalIdCounter = new AtomicInteger(50000); // Contatore globale per ID
 
     public static void main(String[] args) {
         // Percorso assoluto della cartella con i file JSON originali
         String sourceFolderPath = "/Users/rossana/LargeScale/itinera/dataScraping/posts2";
-        String outputFolderPath = sourceFolderPath + File.separator + "../transformed";
+        String outputFolderPath = sourceFolderPath + File.separator + "../Post_doc";
         String usernamesFilePath = outputFolderPath + File.separator + "../usernames.txt";
 
         // Creare la cartella di output se non esiste
@@ -60,6 +62,9 @@ public class PostsCleaning {
 
         // Scrivere gli username univoci nel file usernames.txt
         saveUsernamesToFile(usernamesFilePath);
+
+        // Stampare l'ultimo ID utilizzato
+        System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
     }
 
     private static void transformJsonFile(File jsonFile, String outputFolderPath) {
@@ -100,6 +105,7 @@ public class PostsCleaning {
             int numComments = ((JSONArray) originalJson.get("comments")).size();
     
             // 📝 Aggiunta dei campi principali nell'ordine desiderato
+            transformedJson.put("Id", globalIdCounter.getAndIncrement()); // Aggiunta ID univoco
             transformedJson.put("Community_name", communityName);
             transformedJson.put("Username", user);
             transformedJson.put("Post_body", postBody); // Rinominato
@@ -156,25 +162,24 @@ public class PostsCleaning {
             e.printStackTrace();
         }
     }
-    
 
-   private static void saveUsernamesToFile(String filePath) {
-    File usernamesFile = new File(filePath);
-    if (usernamesFile.exists()) {
-        System.out.println("Il file usernames.txt esiste già. Non verrà sovrascritto.");
-        return; // Evita di sovrascrivere il file
-    }
-
-    try (FileWriter writer = new FileWriter(usernamesFile)) {
-        for (String username : uniqueUsernames.stream().sorted().collect(Collectors.toList())) {
-            writer.write(username + "\n");
+    private static void saveUsernamesToFile(String filePath) {
+        File usernamesFile = new File(filePath);
+        if (usernamesFile.exists()) {
+            System.out.println("Il file usernames.txt esiste già. Non verrà sovrascritto.");
+            return; // Evita di sovrascrivere il file
         }
-        System.out.println("File degli username salvato con successo: " + filePath);
-    } catch (IOException e) {
-        System.err.println("Errore durante il salvataggio del file usernames.txt");
-        e.printStackTrace();
+
+        try (FileWriter writer = new FileWriter(usernamesFile)) {
+            for (String username : uniqueUsernames.stream().sorted().collect(Collectors.toList())) {
+                writer.write(username + "\n");
+            }
+            System.out.println("File degli username salvato con successo: " + filePath);
+        } catch (IOException e) {
+            System.err.println("Errore durante il salvataggio del file usernames.txt");
+            e.printStackTrace();
+        }
     }
-}
 
     private static String capitalizeFirstLetter(String input) {
         if (input == null || input.isEmpty()) {
@@ -182,7 +187,6 @@ public class PostsCleaning {
         }
         return input.substring(0, 1).toUpperCase() + input.substring(1).toLowerCase();
     }
-    
 
     private static String extractCommunityNameFromFileName(String fileName) {
         try {
@@ -196,8 +200,6 @@ public class PostsCleaning {
         }
         return "Unknown"; // Restituisci "Unknown" come fallback
     }
-    
-    
 
     private static String convertTimestamp(long timestamp) {
         try {
