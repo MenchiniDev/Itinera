@@ -14,8 +14,8 @@ public class userCreation {
 
     public static void main(String[] args) {
         // Percorsi dei file
-        String inputFilePath = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\users_data\\user_fakeData_with_time.json"; // Sostituisci con il percorso del file di input
-        String outputFilePath = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\users_data\\users.json"; // Sostituisci con il percorso del file di output
+        String inputFilePath = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\users_data\\user_fakeData_with_time.json";
+        String outputFilePath = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\users_data\\users.json";
 
         try {
             convertJsonArrayToLines(inputFilePath, outputFilePath);

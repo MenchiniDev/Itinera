@@ -4,7 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.*;
 import java.util.*;
-
+//parte 7 creazione del file per reviews ristoranti
 public class creationReviewCollection {
 
     public static void main(String[] args) {
