@@ -4,9 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.*;
 import java.util.*;
 
-// PARTE 5 GENERO GLI OGGETTI RISTORANTI MA SENZA RECENSIONI ANCORA, PER EVENTUALI MODIFICHE ALL'ARRAY USEREMO QUEL FILE
-
-
+// PARTE 5 GENERO GLI OGGETTI RISTORANTI MA SENZA  INFO SULLE RECENSIONI ANCORA
 public class GenerateRestaurants {
 
     public static void main(String[] args) {
@@ -59,7 +57,6 @@ public class GenerateRestaurants {
                 restaurantObject.put("address", address.get("address"));
                 restaurantObject.put("city", address.get("city"));
                 restaurantObject.put("category", "restaurant");
-                restaurantObject.put("reviews", new ArrayList<>()); // Array di oggetti vuoto
 
                 // Scrivi ogni oggetto JSON su una nuova riga
                 writer.write(mapper.writeValueAsString(restaurantObject));
