@@ -1,14 +1,14 @@
 {
-  "Id" : 50430,
+  "Id" : 50402,
   "Community_name" : "Seville",
   "Username" : "username2022443",
   "Post_body" : "Help! Basic clothing store for older woman?",
   "Timestamp" : "2024-12-23 12:03:26",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "moreidlethanwild",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:03:26",
     "Body" : "What sort of clothing size is she?\n\nI mean, you have El Corte Ingles which should have anything she needs?"
   } ]

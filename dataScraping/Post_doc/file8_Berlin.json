@@ -1,109 +1,109 @@
 {
-  "Id" : 50355,
+  "Id" : 50332,
   "Community_name" : "Berlin",
   "Username" : "Ross_On_A_Break",
   "Post_body" : "Have I missed any English bookstore?",
   "Timestamp" : "2024-12-22 17:56:17",
   "Num_comment" : 20,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "DebbieHarryPotter",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 17:56:17",
     "Body" : "Shakespeare & Sons"
   }, {
     "Username" : "BlooWarrior53",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 17:57:06",
     "Body" : "Mall of Berlin have an English book shop."
   }, {
     "Username" : "Positive-Celery8334",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 22:52:49",
     "Body" : "As far as I know bookstores don't really sell textbooks, no matter what language. I think you should be looking for school supply stores but I guess those will rarely have material for English natives."
   }, {
     "Username" : "pyrokiss6891",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:15:48",
     "Body" : "Berlin Book Nook near U Schönleinstr. is a fantastic used book store"
   }, {
     "Username" : "Alternative_Suit_902",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 20:50:02",
     "Body" : "You can try the American history library in Hallesches Tor, sign up for free  and you can find all kinds of books there, I think you might find what u want as well"
   }, {
     "Username" : "Trippseatsalot",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 22:02:19",
     "Body" : "Shakespeares and sons"
   }, {
     "Username" : "kaput",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 23:37:51",
     "Body" : "Otherland has a large section of English fantasy and science fiction books."
   }, {
     "Username" : "sderfo",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 20:02:57",
     "Body" : "You seem to have missed the english bookstore range at Dussmann, it's separate and has a ton of fiction on two storeys. Find the sphinx, then he\nad to the right."
   }, {
     "Username" : "snorkelding85",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:20:25",
     "Body" : "If you want to buy English childrens books: Mouse & Bear Books in Boxhagener Straße"
   }, {
     "Username" : "zozobad",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 01:12:29",
     "Body" : "\"she says\"? also plenty of art books & magazine stores, mostly in english, like \"do you read me?\""
   }, {
     "Username" : "falafelhalloumibitte",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 05:00:52",
     "Body" : "Have you tried Lehmanns near charite? I think it specifies in textbooks so could imagine it has english titles :) Otherwise try kleinanzeigen, but you’d have to be specific and search subjects or disciplines? Also I would recommend Cafe Tasso near frankfurter tor, they have a great english book section downstairs on the shelves on the left, and all the books are something like 2/2,50€ each. I’ve found some great ones there!"
   }, {
     "Username" : "LifesGrip",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:37:12",
     "Body" : "Amazon.de ??"
   }, {
     "Username" : "Ross_On_A_Break",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 17:58:25",
     "Body" : "Really? I was there the other day. I don't know how I missed that."
   }, {
     "Username" : "Ross_On_A_Break",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:20:28",
     "Body" : "Thanks, will definitely check it out."
   }, {
     "Username" : "Ross_On_A_Break",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 21:02:08",
     "Body" : "This sounds great, but I don't live in Berlin. The library membership wouldn't be of any help to me."
   }, {
     "Username" : "Ross_On_A_Break",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 20:13:01",
     "Body" : "Is it at a different address? The main Dussmann store had an international section where English books were stored. I thought this was it."
   }, {
     "Username" : "gynnee",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 19:51:52",
     "Body" : "Thanks! I live in Fhain and didn't know about it."
   }, {
     "Username" : "BlooWarrior53",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:01:52",
     "Body" : "It's by the food area."
   }, {
     "Username" : "Alternative_Suit_902",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 21:03:36",
     "Body" : "Bummer, I'm not sure if you can buy books but you might be able to, gl"
   }, {
     "Username" : "neiaafc",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:23:53",
     "Body" : "English bookshop by Thalia"
   } ]

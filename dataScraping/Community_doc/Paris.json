@@ -1,15 +1,15 @@
 {
-  "Id" : 50471,
+  "Id" : 50479,
   "City" : "Paris",
   "Name" : "Paris",
-  "Created" : "2024-12-22 12:49:19",
+  "Created" : "2024-12-11 17:36:41",
   "Post" : [ {
+    "User" : "RichardHenri",
+    "Text" : "FORUM LIBRE : TOURISTS AND RESIDENTS, ASK YOUR COMMON QUESTIONS IN THIS WEEKLY THREAD : Open Forum -- 22, December, 2024",
+    "Timestamp" : "2024-12-11 18:36:41"
+  }, {
     "User" : "jusou_44",
     "Text" : "Parigo#255 - Ticket unique : la révolution billettique",
-    "Timestamp" : "+57001-01-16 21:28:12"
-  }, {
-    "User" : "Soft_Device8499",
-    "Text" : "Que faire/où aller quand on est seul à Noël ?",
-    "Timestamp" : "2024-12-22 19:54:24"
+    "Timestamp" : "2024-12-11 18:54:41"
   } ]
 }

@@ -1,15 +1,15 @@
 {
-  "Id" : 50473,
+  "Id" : 50461,
   "City" : "Barcelona",
   "Name" : "Barcelona",
-  "Created" : "2024-12-20 10:37:50",
+  "Created" : "2024-12-11 17:31:49",
   "Post" : [ {
     "User" : "un_redditor",
-    "Text" : "La T-usual i la T-jove mantindran les bonificacions del 50% durant tot el 2025",
-    "Timestamp" : "2024-12-21 21:21:31"
+    "Text" : "Got a question about Barcelona? Post in /r/AskBarcelona!",
+    "Timestamp" : "2024-12-11 18:31:49"
   }, {
-    "User" : "Mowgli_78",
-    "Text" : "Missatges d'odi als carrers de BCN",
-    "Timestamp" : "2024-12-21 20:38:43"
+    "User" : "aniol",
+    "Text" : "Un policia desenfunda la seva pistola en el desnonament de Verdum",
+    "Timestamp" : "2024-12-20 10:37:50"
   } ]
 }

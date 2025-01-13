@@ -1,19 +1,19 @@
 {
-  "Id" : 50231,
+  "Id" : 50215,
   "Community_name" : "Vienna",
   "Username" : "Fuchsi161",
   "Post_body" : "Orthopädie/Kniespezialist_in",
   "Timestamp" : "2023-07-31 20:29:32",
   "Num_comment" : 2,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "ASD_AuZ",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2023-07-31 20:29:32",
     "Body" : "https://knie-und-sportverletzungen.business.site/"
   }, {
     "Username" : "epichler",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2023-08-04 10:54:22",
     "Body" : "Speising, Orthopädiespital. Die sind wirklich gut dort."
   } ]

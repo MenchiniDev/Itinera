@@ -1,14 +1,14 @@
 {
-  "Id" : 50287,
+  "Id" : 50268,
   "Community_name" : "Cologne",
   "Username" : "bobbalm",
   "Post_body" : "Tom Schneider ich suche dich",
   "Timestamp" : "2024-12-23 15:31:03",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "sundayinitalian",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:31:03",
     "Body" : "Schau mal bei LinkedIn"
   } ]

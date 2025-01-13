@@ -1,15 +1,15 @@
 {
-  "Id" : 50523,
+  "Id" : 50440,
   "City" : "Dublin",
   "Name" : "Dublin",
-  "Created" : "2024-06-10 12:24:12",
+  "Created" : "2024-06-10 11:24:12",
   "Post" : [ {
-    "User" : "doctor6",
-    "Text" : "Killiney beach",
-    "Timestamp" : "2024-12-22 18:23:11"
+    "User" : "DublinModerator",
+    "Text" : "Posting about Tickets, Accommodation, Tourism? Things that aren't related to Dublin? Read This First.",
+    "Timestamp" : "2024-06-10 12:24:12"
   }, {
-    "User" : "AccomplishedOwl7117",
-    "Text" : "Parking",
-    "Timestamp" : "2024-12-23 14:43:01"
+    "User" : "dublinmod",
+    "Text" : "Do NOT post about renting, moving, or budget for living in Dublin",
+    "Timestamp" : "2024-12-11 18:40:33"
   } ]
 }

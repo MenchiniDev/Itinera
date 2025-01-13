@@ -1,94 +1,94 @@
 {
-  "Id" : 50024,
+  "Id" : 50021,
   "Community_name" : "Helsinki",
   "Username" : "wasting_myLife_here",
   "Post_body" : "Spending Christmas in Helsinki this year ",
   "Timestamp" : "2024-12-22 05:02:37",
   "Num_comment" : 17,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Korpikuusenalla",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 05:02:37",
     "Body" : "According to HSL app's route planner, the first I train to the city will leave at 8:04.\n\nThere is no bus until 10:30.\n\nSo either wait around for the train or grab a taxi. There are fixed price airport shared taxis ( it's really a minibus), at least there used to be. I'm not sure if those exist anymore. Those are the cheapest. \n\nAnd you're probably not the only person trying to get downtown, so maybe sharing a cab could be possible. It's holiday pricing, so it won't be cheap."
   }, {
     "Username" : "Telefinn",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 05:42:07",
     "Body" : "Regarding restaurants, I would imagine most if not all (except maybe some fast food chains and hotel restaurants) would be closed on Christmas Day, and many (if not all) will be open on the following days, as will shops.\n\nThat said, did you not do your research BEFORE booking your trip? It seems a bit odd turning up at a place without knowing the basics about transport and food! No offense intended, just genuinely curious."
   }, {
     "Username" : "mawkus",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 06:35:17",
     "Body" : "This could be useful for you regarding open things (run it through a translator):\nhttps://www.myhelsinki.fi/fi/info/joulunaika-helsingiss%C3%A4-2024\n\nGetting from the airport the taxis are normally a fixed price of ~35-40e to the center (ask the driver beforehand, there are different queues to different companies) if public transport isn't running yet."
   }, {
     "Username" : "mawkus",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 08:22:44",
     "Body" : "I haven't had issues using taxis from the airport, but it's a fair point that random taxis in the city can be ripoffs, and Bolt/Uber is a better idea.\n\nI've never tried this, but it could be an option: https://www.uber.com/global/en/r/airports/hel/pickup/"
   }, {
     "Username" : "arri92",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 07:57:47",
     "Body" : "Menevä has fixed price of 39€ to Helsinki city center. Fixutaxi and Taksi Helsinki have fixed price of 35€ to Helsinki city center."
   }, {
     "Username" : "wasting_myLife_here",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 07:30:42",
     "Body" : "Thank you!"
   }, {
     "Username" : "The_Grinning_Reaper",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 06:43:09",
     "Body" : "Many restaurants are open, link by u/mawkus has a good, but not complete, list"
   }, {
     "Username" : "wasting_myLife_here",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 07:30:17",
     "Body" : "Many thanks!\n\nI did do some basic research to know that at least i'll be able to find a way around and get some food. \n\nI didn't word it quite clearly. I guess I want to know, out of all the restaurants that still open, what are some good choices?"
   }, {
     "Username" : "wasting_myLife_here",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 07:31:49",
     "Body" : "Thanks! This is useful."
   }, {
     "Username" : "DoubleSaltedd",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 07:32:26",
     "Body" : "They are definitely going to rip him off on the one morning of the year when public transportation is not running."
   }, {
     "Username" : "wasting_myLife_here",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 08:25:46",
     "Body" : "Yeah. Id rather go with Uber over taxi. That way I'd know exactly what I pay upfront. Thanks!\n\nBut like others have said. I can choose the train at 8 am."
   }, {
     "Username" : "Korpikuusenalla",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 09:11:02",
     "Body" : "Is the fixed price the same holidays and nights as well?"
   }, {
     "Username" : "wasting_myLife_here",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 07:30:26",
     "Body" : "Thanks!"
   }, {
     "Username" : "nicol9",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 08:59:00",
     "Body" : "they have **fixed prices** : 35€ to the city"
   }, {
     "Username" : "arri92",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 09:14:03",
     "Body" : "It is their fixed price. I have used them after midnight and still the price was fixed price."
   }, {
     "Username" : "The_Grinning_Reaper",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 08:31:59",
     "Body" : "You can use table reservation tools to see open restaurants e.g. https://www.tableonline.fi/fi/search?city=Helsinki&q=&Hae=\n\nor\n\nhttps://www.quandoo.fi/helsinki-toeoeloe?bookable=true&quantity=1&dateTime=2024-12-25T19:00"
   }, {
     "Username" : "exclaim_bot",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 07:30:42",
     "Body" : ">Thanks!\n\nYou're welcome!"
   } ]

@@ -1,14 +1,14 @@
 {
-  "Id" : 50451,
+  "Id" : 50422,
   "Community_name" : "Legends",
   "Username" : "OmarChavez6887678",
   "Post_body" : "Warrior : Mobile legends Rank Vector",
   "Timestamp" : "2021-06-09 14:10:48",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "OmarChavez6887678",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2021-06-09 14:10:48",
     "Body" : "It's Here : >>> \r  \nhttps://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2FTRoberts457%2Fstatus%2F1402668018925113348&widget=Tweet"
   } ]

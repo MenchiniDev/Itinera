@@ -1,59 +1,59 @@
 {
-  "Id" : 50444,
+  "Id" : 50416,
   "Community_name" : "Riga",
   "Username" : "No-Cryptographer8074",
   "Post_body" : "ATM took my card, what to do?",
   "Timestamp" : "2024-12-14 19:40:37",
   "Num_comment" : 10,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Sufficient-Entry-488",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-14 20:21:31",
     "Body" : "I am pretty sure they won't give it back, but do call.\n\nI had to create a new card when my bank's own ATM took it. It was a long time ago though."
   }, {
     "Username" : "graamatvede",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-14 19:40:37",
     "Body" : "call your bank asap and block the card.\nedit: banks usually have an emergency phone number for card blocking."
   }, {
     "Username" : "_TheWildCat",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-14 20:52:45",
     "Body" : "You can order a new card from your bank. You cannot get the one you left there back. Source: left my card in an atm."
   }, {
     "Username" : "IndyDino",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-15 04:34:48",
     "Body" : "There's little to no chance of getting it back but if you have added it to your Google wallet/Apple pay or your banking app supports it, you should be able to pay everywhere by tapping your phone. 99% of places accept card payments and don't require physical cash."
   }, {
     "Username" : "RelativityJinx",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-15 12:01:09",
     "Body" : "speaking from experience - they will not give it back, there is zero chance of that happening, so you need to order a new card from your bank."
   }, {
     "Username" : "No-Cryptographer8074",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-14 19:42:11",
     "Body" : "Yes I was able to do that already from my mobile app. :)"
   }, {
     "Username" : "No-Cryptographer8074",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-14 19:42:42",
     "Body" : "I can block it and re-open it, that’s why I would like to have the card back."
   }, {
     "Username" : "No-Cryptographer8074",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-14 20:54:08",
     "Body" : "Oh okay. I was hoping I could maybe get it back, it is from another country so it is not possible for me to get it right now but will have to wait then. :)"
   }, {
     "Username" : "izii_",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-14 20:55:45",
     "Body" : "You can't get a card back unless it's the ATM  of your bank."
   }, {
     "Username" : "No-Cryptographer8074",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-14 20:58:52",
     "Body" : "Thank you for the info! Now I can start to figure out my next steps :) thanks to all!"
   } ]

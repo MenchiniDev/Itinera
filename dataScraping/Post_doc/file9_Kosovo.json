@@ -1,44 +1,44 @@
 {
-  "Id" : 50463,
+  "Id" : 50434,
   "Community_name" : "Kosovo",
   "Username" : "Responsible-Box-1449",
   "Post_body" : "Kosova esports",
   "Timestamp" : "2024-12-23 11:15:05",
   "Num_comment" : 7,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Significant_Score111",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:37:58",
     "Body" : "Kishe po shkrune Escorts vllaqko, shpejte jom hi"
   }, {
     "Username" : "Zhidezoe",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:15:05",
     "Body" : "Xprotali edhe ipko organizojne cdo vjet"
   }, {
     "Username" : "CapitanRainbow",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:57:40",
     "Body" : "Shumica e turnirave per esports organizohen prej Xportal Esports te na lyp ne discord e ki serverin \nhttps://discord.gg/xportal-esports-945292050339872768"
   }, {
     "Username" : "topnde",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:56:19",
     "Body" : "Fastest finger in Kosove"
   }, {
     "Username" : "Responsible-Box-1449",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:13:23",
     "Body" : "Veq skom award"
   }, {
     "Username" : "Responsible-Box-1449",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:13:42",
     "Body" : "Faleminderit"
   }, {
     "Username" : "Responsible-Box-1449",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:09:49",
     "Body" : "Faleminderit"
   } ]

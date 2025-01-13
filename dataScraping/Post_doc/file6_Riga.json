@@ -1,19 +1,19 @@
 {
-  "Id" : 50317,
+  "Id" : 50296,
   "Community_name" : "Riga",
   "Username" : "Stockton_Steroids",
   "Post_body" : "Solo travelling",
   "Timestamp" : "2024-12-22 08:37:10",
   "Num_comment" : 2,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Gravelayer",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 08:37:10",
     "Body" : "Doing it right now I would say Christmas market"
   }, {
     "Username" : "ContributionPlane863",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:01:59",
     "Body" : "Christmas market got spot, skunu iela street bars, karaoke bars at Hard Rock Cafe"
   } ]

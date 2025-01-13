@@ -1,39 +1,39 @@
 {
-  "Id" : 50283,
+  "Id" : 50264,
   "Community_name" : "Hamburg",
   "Username" : "santiagodelariva",
   "Post_body" : "Wo lernen am 26.12?",
   "Timestamp" : "2024-12-23 11:29:28",
   "Num_comment" : 6,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "LivingBreadGirl_",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:38:12",
     "Body" : "Schau mal auf der Seite der Bücherhallen welche davon einen Flexibib Zugang haben der über die Feiertage zur Verfügung steht. Da kannst du dich dann mit dem Bücherhallen Ausweis selbst reinlassen obwohl kein Personal vor Ort ist. \n\nhttps://www.buecherhallen.de/oeffnungszeiten.html"
   }, {
     "Username" : "sleepingmaffy",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:29:28",
     "Body" : "Moin, vielleicht hat die ZBW auf an der Alster."
   }, {
     "Username" : "None",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:54:53",
     "Body" : "[deleted]"
   }, {
     "Username" : "MelMey",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:01:18",
     "Body" : "Ich denke das wird schwierig, die Bibliotheken habe alle zu, zum Teil auch zwischen den Feiertagen."
   }, {
     "Username" : "hcilbretsnu_eppireg",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:18:18",
     "Body" : "der freiraum im museum für kunst und gewerbe ist prima zum arbeiten und lernen und hat am 26.12. von 12 - 18 uhr geöffnet!"
   }, {
     "Username" : "MelMey",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:59:17",
     "Body" : "Die ist an den Feiertagen auch zu."
   } ]

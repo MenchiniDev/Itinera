@@ -1,24 +1,24 @@
 {
-  "Id" : 50081,
+  "Id" : 50075,
   "Community_name" : "Tirana",
   "Username" : "KingOfTheNightfort",
   "Post_body" : "A message for turists: DO NOT ASK ABOUT WEED",
   "Timestamp" : "2024-11-30 15:42:16",
   "Num_comment" : 3,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "notroseefar",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-11-30 15:42:16",
     "Body" : "Ya, Tirana isn’t Lazarat, and you will enjoy yourself way more without it."
   }, {
     "Username" : "None",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-01 14:49:41",
     "Body" : "[removed]"
   }, {
     "Username" : "tirana-ModTeam",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-01 14:50:13",
     "Body" : "The poster was asking for something illegal."
   } ]

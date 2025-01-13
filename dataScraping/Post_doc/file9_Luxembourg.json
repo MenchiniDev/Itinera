@@ -1,34 +1,34 @@
 {
-  "Id" : 50415,
+  "Id" : 50389,
   "Community_name" : "Luxembourg",
   "Username" : "1plaakegen",
   "Post_body" : "physio in lux city",
   "Timestamp" : "2024-12-23 12:33:14",
   "Num_comment" : 5,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "LuxInterior66",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:33:14",
     "Body" : "[Sylvain Frecon](https://www.kine-frecon-aroldi.com/) is really good"
   }, {
     "Username" : "Tech_Dude1994",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:02:12",
     "Body" : "Caroline Martin is a good one"
   }, {
     "Username" : "Kennethe92",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:14:36",
     "Body" : "Not in the city center but the best physio by far is Arnaud Ominetti. He’s based in Thionville. Most of the football players here in Luxembourg work with him."
   }, {
     "Username" : "Hellojeds",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:52:56",
     "Body" : "I really like M&B Moes in Merl. \n\nBTW the way it usually works is that you go to your GP and they give you a physiotherapy prescription AND a prescription for a scan and/or a referral to a specialist (but you can usually go to a specialist of your choice). From my experience a physio won't give you advice on whether you need surgery, a specialist will do that."
   }, {
     "Username" : "Traditional_Bet_4221",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:00:44",
     "Body" : "Jennifer Agyepong from cabinet de thérapie manuelle in bonnevoie helped me a lot, I strongly recommend"
   } ]

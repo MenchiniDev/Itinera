@@ -5,10 +5,10 @@
   "Post_body" : "How Long could a master student apply to stay in University dorms if the student is considering a PhD afterwards",
   "Timestamp" : "2024-12-23 11:19:42",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "drunk_by_mojito",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:19:42",
     "Body" : "You can do stuff like Barteam and such in most dorms in Hamburg to get more time"
   } ]

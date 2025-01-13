@@ -1,59 +1,59 @@
 {
-  "Id" : 50315,
+  "Id" : 50294,
   "Community_name" : "Amsterdam",
   "Username" : "Hour-Grocery-5525",
   "Post_body" : "Are there any fellow Gaúchos (Porto Alegrenses) in Amsterdam? Would love to meet you!",
   "Timestamp" : "2024-12-22 18:50:02",
   "Num_comment" : 10,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "diegorm_rs",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:54:41",
     "Body" : "I know a fucking bunch of them and I am also one, but from Sao Leopoldo. We play football in Amsterdam every week. If you want to join us, drop me a message I can put you in contact with some nice folks and myself."
   }, {
     "Username" : "Zelenazuti1961",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:54:52",
     "Body" : "Chama 🗿"
   }, {
     "Username" : "Jolly_Flatworm_1460",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 20:56:29",
     "Body" : "Sou mais do sul ainda, mas se quiser trocar uma ideia manda um salve!"
   }, {
     "Username" : "chevalierdepas",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 00:37:09",
     "Body" : "Mineiro pode? Kk"
   }, {
     "Username" : "Specialist-Thought50",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 18:50:02",
     "Body" : "✌️✌️"
   }, {
     "Username" : "Hour-Grocery-5525",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 01:17:59",
     "Body" : "Não sou muito de jogar futebol mais tô pronto pra da banda rapa, te mando um DM aí"
   }, {
     "Username" : "Hour-Grocery-5525",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 01:18:37",
     "Body" : "Da hora, te mando um dm daqui a pouco, cheque ai"
   }, {
     "Username" : "Hour-Grocery-5525",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 01:19:14",
     "Body" : "Certo mano, te mando um dm prontinho véio"
   }, {
     "Username" : "Hour-Grocery-5525",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 01:20:46",
     "Body" : "Não sei muito de Minas Gerais mais ser brasileiro já é sempre bem vindo, te mando um dm aí"
   }, {
     "Username" : "Hour-Grocery-5525",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 01:19:43",
     "Body" : "Gaúcho da gema rapa, te mando um dm rapidinho"
   } ]

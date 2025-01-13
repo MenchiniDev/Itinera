@@ -1,19 +1,19 @@
 {
-  "Id" : 50052,
+  "Id" : 50048,
   "Community_name" : "Seville",
   "Username" : "wikichipi",
   "Post_body" : "New year, new subreddit updates!",
   "Timestamp" : "2024-01-04 22:30:08",
   "Num_comment" : 2,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "rex-ac",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-01-04 22:30:08",
     "Body" : "Guay!!!"
   }, {
     "Username" : "WallstreetWank",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-07-20 13:31:30",
     "Body" : "Thanks. This one here?  \n[https://play.google.com/store/apps/details?id=com.guay.guay&hl=gsw](https://play.google.com/store/apps/details?id=com.guay.guay&hl=gsw)\n\nI couldn't download it right now. I'm in another EU state\n\n."
   } ]

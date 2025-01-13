@@ -1,14 +1,14 @@
 {
-  "Id" : 50040,
+  "Id" : 50037,
   "Community_name" : "Sarajevo",
   "Username" : "Due-Screen-7395",
   "Post_body" : "Jahorina bus",
   "Timestamp" : "2024-12-23 12:56:22",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "only_4kids",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:56:22",
     "Body" : "None from Sarajevo. Try Lukavica or East Sarajevo."
   } ]

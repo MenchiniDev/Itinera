@@ -1,29 +1,29 @@
 {
-  "Id" : 50064,
+  "Id" : 50059,
   "Community_name" : "Warsaw",
   "Username" : "kemikalious",
   "Post_body" : "New Year Fireworks in city centre ",
   "Timestamp" : "2024-12-22 14:12:47",
   "Num_comment" : 4,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "sindthsim",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 14:12:47",
     "Body" : "I think the latest fireworks on NY city party was in 2017/2018, since then there's a laser show, I doubt if there will be official fireworks city session. I guess you remember WOŚP, which used to end with fireworks, but since few years they also switched to laser show (WOŚP is also in January) \n\nOf course there will be some individuals, who will fire them, but it's on their own"
   }, {
     "Username" : "eckowy",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 15:49:50",
     "Body" : "Pretty much correct - fireworks have been officially cancelled for a long time now.\n\nAnything you see in Warsaw is private people or events."
   }, {
     "Username" : "kemikalious",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 16:29:42",
     "Body" : "Oh, that’s a bummer, so I guess there’s no sense in going to the city centre on NY? \nAnd thanks for explaining!"
   }, {
     "Username" : "Ikswoslaw_Walsowski",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 23:22:40",
     "Body" : "There is always sense in going to CC- like a kebab and a beer"
   } ]

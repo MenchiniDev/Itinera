@@ -1,15 +1,15 @@
 {
-  "Id" : 50466,
+  "Id" : 50469,
   "City" : "Ljubljana",
   "Name" : "Ljubljana",
-  "Created" : "2024-12-20 20:29:20",
+  "Created" : "2024-12-11 17:20:59",
   "Post" : [ {
-    "User" : "Sea-Ebb7795",
-    "Text" : "Topla malica v LJ",
-    "Timestamp" : "2024-12-22 15:08:05"
-  }, {
     "User" : "Ok_Aide7125",
     "Text" : "NYE ",
-    "Timestamp" : "+57001-01-16 20:54:01"
+    "Timestamp" : "2024-12-11 18:20:59"
+  }, {
+    "User" : "Gregor988",
+    "Text" : "Podaljšani kroji M",
+    "Timestamp" : "2024-12-20 20:29:20"
   } ]
 }

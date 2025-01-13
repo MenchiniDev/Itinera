@@ -1,19 +1,19 @@
 {
-  "Id" : 50409,
+  "Id" : 50383,
   "Community_name" : "Paris",
   "Username" : "Spicajames",
   "Post_body" : "Zebra pens",
   "Timestamp" : "2024-12-23 10:20:39",
   "Num_comment" : 2,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "astreeeirene",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:20:39",
     "Body" : "If you mean the Zebra Sarasa pens, the basement floor of the Japanese bookstore Junkudo has them!"
   }, {
     "Username" : "Spicajames",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:55:43",
     "Body" : "Thanks. But I mean like the Zebra SL-F1 Mini Ballpoint Pen "
   } ]

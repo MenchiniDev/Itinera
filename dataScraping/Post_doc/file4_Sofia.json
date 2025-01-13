@@ -1,14 +1,14 @@
 {
-  "Id" : 50213,
+  "Id" : 50198,
   "Community_name" : "Sofia",
   "Username" : "Skuchubra",
   "Post_body" : "Търся бижутерия Ge Oro",
   "Timestamp" : "2024-12-21 15:07:14",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Going-Bananas-here",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-21 15:07:14",
     "Body" : "В Парадайс мол има"
   } ]
