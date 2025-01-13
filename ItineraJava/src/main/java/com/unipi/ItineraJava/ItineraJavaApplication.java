@@ -9,7 +9,7 @@ import org.neo4j.driver.GraphDatabase;
 import org.neo4j.driver.Session;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//ciao ragazzi commento per push
+
 @SpringBootApplication
 public class ItineraJavaApplication {
 

@@ -16,6 +16,10 @@ public class Community {
     private int numFollower;
     private List<Post> post;
 
+    public List<Post> getPosts() {
+        return post;
+    }
+
     // Getters and Setters
 }
 
