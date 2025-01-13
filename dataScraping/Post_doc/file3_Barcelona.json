@@ -1,0 +1,45 @@
+{
+  "Id" : 50160,
+  "Community_name" : "Barcelona",
+  "Username" : "un_redditor",
+  "Post_body" : "La T-usual i la T-jove mantindran les bonificacions del 50% durant tot el 2025",
+  "Timestamp" : "2024-12-21 21:21:31",
+  "Num_comment" : 7,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "CiccioGraziani",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 21:31:05",
+    "Body" : "This means that the T-usual for 1 zone will cost still 21 euros every 30 days even on 2025?"
+  }, {
+    "Username" : "volivav",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 21:48:41",
+    "Body" : "~~puto~~ collboni."
+  }, {
+    "Username" : "xalaux",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 10:23:12",
+    "Body" : "Poca broma, són 240€ a l'any que ens estalviem. Tan de bo fos per sempre."
+  }, {
+    "Username" : "chabacanito",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 21:21:31",
+    "Body" : "Visca la psoe potser els voto"
+  }, {
+    "Username" : "volcanoesarecool",
+    "reported" : false,
+    "Timestamp" : "2024-12-21 23:11:45",
+    "Body" : "For at least the first 6 months of the year, yes. Also the cheap Rodalies ticket.\n\n\nEdit: I read in a different article it was only the first 6 months, but maybe that's changed."
+  }, {
+    "Username" : "Zenar45",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 13:02:18",
+    "Body" : "Puto collobini i puta psc"
+  }, {
+    "Username" : "CiccioGraziani",
+    "reported" : false,
+    "Timestamp" : "2024-12-22 08:06:09",
+    "Body" : "Nice thanks for the info mate!"
+  } ]
+}

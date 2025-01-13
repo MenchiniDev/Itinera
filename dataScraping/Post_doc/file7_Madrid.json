@@ -1,0 +1,30 @@
+{
+  "Id" : 50351,
+  "Community_name" : "Madrid",
+  "Username" : "Emmanuel_I",
+  "Post_body" : "Destino Madrid: ocho historias entre un millón de acentos latinoamericanos",
+  "Timestamp" : "2024-12-23 07:33:09",
+  "Num_comment" : 4,
+  "reported" : false,
+  "Commenti" : [ {
+    "Username" : "Emmanuel_I",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 07:33:09",
+    "Body" : "[Sin muro de pago](https://archive.ph/XDVze)"
+  }, {
+    "Username" : "bordalash",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 10:12:41",
+    "Body" : "hispanoamericanos. hay que comenzar a llamarnos bien por favor. La palabra latinoamericano la introdujeron los franceses de forma despectiva para segregar y por odio al imperio ya en su tiempo."
+  }, {
+    "Username" : "BenigDK",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 11:29:49",
+    "Body" : "Que yo sepa los dos términos obedecían a intereses imperialistas, sólo que uno a los intereses franceses y otro a los españoles. No veo razón para el cambio."
+  }, {
+    "Username" : "chrundle18",
+    "reported" : false,
+    "Timestamp" : "2024-12-23 15:25:35",
+    "Body" : "Como latino, en verdad me da igual cualquiera. No te preocupes que creo que a ninguno le importa."
+  } ]
+}
