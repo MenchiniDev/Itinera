@@ -1,14 +1,14 @@
 {
-  "Id" : 50080,
+  "Id" : 50074,
   "Community_name" : "Legends",
   "Username" : "FLOORGAAANG",
   "Post_body" : "Legend!",
   "Timestamp" : "2021-08-01 13:28:23",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "tikislicktori-",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2021-08-01 13:28:23",
     "Body" : "My eyes see 4 blocks but still a legendary 🙌"
   } ]

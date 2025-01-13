@@ -1,44 +1,44 @@
 {
-  "Id" : 50279,
+  "Id" : 50260,
   "Community_name" : "Amsterdam",
   "Username" : "Koreanhangug",
   "Post_body" : "My house in staringstraat was robbed this week. Anyone have tips?",
   "Timestamp" : "2024-12-23 09:53:21",
   "Num_comment" : 7,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "avar",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:53:21",
     "Body" : "They used false key for the building, or your apartment in particular? You can change your own apartment key, you don't need the landlord for that."
   }, {
     "Username" : "solstice_gilder",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:37:52",
     "Body" : "I would visit the police? Change locks? You can do that yourself btw."
   }, {
     "Username" : "TaImePHO",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:57:32",
     "Body" : "Not at all trying to sound like Mr hindsight - but always ALWAYS change your keys when you move into a new place!"
   }, {
     "Username" : "defiantyy",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:37:02",
     "Body" : "Check if your important documents were stolen. (Certificates, Passports etc). Make an inventory of atuff that was stolen, this you need for police report and insurance. \nReplace the apartment lock with anti theft locks, get security equipments like RING or Verisure to prevent such a thing from happening again.\nMake a police report. \nIf you have insurance, contact them with the police report \nMake peace with the fact that you will never get back the stolen stuff, you can earn them back. But its important to feel safe again in the apartment so make sure to get those security measures."
   }, {
     "Username" : "jaydizzz",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:56:44",
     "Body" : "Just keep the original cilinder / keys to put back when you move out."
   }, {
     "Username" : "all_out_of_coffee",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:10:46",
     "Body" : "A good landlord will change the cilinder every time a new tenant moves in. This has happened with every rental apartment I’ve ever lived in."
   }, {
     "Username" : "jaydizzz",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:24:36",
     "Body" : "Yeah, however there are many not-so-good landlords in Amsterdam lol"
   } ]

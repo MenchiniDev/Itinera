@@ -1,29 +1,29 @@
 {
-  "Id" : 50280,
+  "Id" : 50261,
   "Community_name" : "Copenhagen",
   "Username" : "gaargoyle",
   "Post_body" : "Fedtkager i København?",
   "Timestamp" : "2024-12-23 08:02:33",
   "Num_comment" : 4,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Acidolph",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 08:02:33",
     "Body" : "Jeg tabte hårdt til brunsvigeren og chips på tallerkenen til jul. \nJeg vil også tage kampen op mod endnu en jysk eller fynsk importvare, men taber nok igen. \n2025 bliver fedtkagens år."
   }, {
     "Username" : "Mynsare",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:57:01",
     "Body" : "Fedtebrød er udbredt og kan endda købes i supermarkeder, men jeg må indrømme at jeg har aldrig hørt om fedtkager før nu."
   }, {
     "Username" : "Danish_sea_captian",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:57:23",
     "Body" : "Mener at de har dem i Mad&Vin i Magasin på Kongens Nytorv."
   }, {
     "Username" : "Own-Split7353",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:10:04",
     "Body" : "Jeg har boet i kbh i over 25 år, og aldrig stødt på dem. Har fedtkage craving hvert eneste fucking år. Et år var jeg drevet så langt ud, at jeg forsøgte at bage dem selv. Noget med palmin, og lejligheden stank af svinesti i en måned. Krydser fingre for dig!"
   } ]

@@ -1,14 +1,14 @@
 {
-  "Id" : 50330,
+  "Id" : 50309,
   "Community_name" : "Oslo",
   "Username" : "totorania",
   "Post_body" : "Mangler du vinyl?",
   "Timestamp" : "2024-12-23 14:23:19",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "UsernameFor2016",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:23:19",
     "Body" : "Har parkett"
   } ]

@@ -1,15 +1,15 @@
 {
-  "Id" : 50506,
+  "Id" : 50472,
   "City" : "Prague",
   "Name" : "Prague",
-  "Created" : "2023-10-03 12:45:03",
+  "Created" : "2023-10-03 11:45:03",
   "Post" : [ {
-    "User" : "throwawayedagain",
-    "Text" : "Help, first time traveler. ",
-    "Timestamp" : "2024-12-23 07:10:11"
+    "User" : "Lord_Lucan7",
+    "Text" : "[WIKI] Visiting Prague for the first time? Read this first!",
+    "Timestamp" : "2023-10-03 12:45:03"
   }, {
-    "User" : "ElegantBreath6062",
-    "Text" : "Title: Help Needed: Girlfriend’s Visa Situation in Czech Republic",
-    "Timestamp" : "2024-12-23 02:32:53"
+    "User" : "_invalidusername",
+    "Text" : "Visiting Prague? This is the monthly recommendations post (December 2024)",
+    "Timestamp" : "2024-12-01 22:04:19"
   } ]
 }

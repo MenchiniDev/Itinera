@@ -1,19 +1,19 @@
 {
-  "Id" : 50043,
+  "Id" : 50040,
   "Community_name" : "Tallinn",
   "Username" : "InternationalPin6177",
   "Post_body" : "I have an extra ticket to the Opera -giving it away for free",
   "Timestamp" : "2022-01-15 14:50:08",
   "Num_comment" : 2,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "r1243",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2022-01-15 14:50:08",
     "Body" : "/r/eesti, this subreddit is inactive"
   }, {
     "Username" : "InternationalPin6177",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2022-01-15 14:57:31",
     "Body" : "Thanks"
   } ]

@@ -1,14 +1,14 @@
 {
-  "Id" : 50205,
+  "Id" : 50190,
   "Community_name" : "Bucharest",
   "Username" : "Prov91",
   "Post_body" : "Football Tickets",
   "Timestamp" : "2022-10-22 22:16:56",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Elisss56",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2022-10-22 22:16:56",
     "Body" : "Sure, it is possible!"
   } ]

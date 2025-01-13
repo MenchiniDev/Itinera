@@ -1,14 +1,14 @@
 {
-  "Id" : 50433,
+  "Id" : 50405,
   "Community_name" : "Bucharest",
   "Username" : "huffmac",
   "Post_body" : "My Dog's Original Owner",
   "Timestamp" : "2024-05-14 08:47:34",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "pantsnsocks",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-05-14 08:47:34",
     "Body" : "Looks like it s a block of flats with 50+ units.  You can go to the address and ask around. Many ppl speak english"
   } ]

@@ -1,59 +1,59 @@
 {
-  "Id" : 50121,
+  "Id" : 50113,
   "Community_name" : "Travel",
   "Username" : "Jumpy-Yogurtcloset72",
   "Post_body" : "Should We Combine the Galápagos with Peru, or Focus Solely on Peru?",
   "Timestamp" : "2024-12-23 09:44:25",
   "Num_comment" : 10,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Liathano_",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:55:45",
     "Body" : "At the moment I'm also thinking of a trip to Peru and Galapagos, but I think your time on Galapagos would be too short. It's so expensive just to get there and there's lots to see, and doing it land based will mean you lose some time in transit. So I'd say you need at least 10 full days and visit Isabela island too. \n\nMaybe instead of Galapagos you could start in Chile and do the Atacama desert before Uyuni? It's definitely easier to combine with your Bolivia and Peru itinerary than Galapagos."
   }, {
     "Username" : "ilsa27",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:46:59",
     "Body" : "This depends on your interest levels I suppose. Although given climate change and potential tourism restrictions, I would go to the Galapagos sooner rather than later. \n\nWould suggest that you reconsider starting your itinerary with Bolivia - it's the highest altitude part of your trip and starting there may mean an uncomfortable first few days due to the altitude. Please consider working your way up in altitude via Peru - e.g. Sacred Valley, Titicaca, then over to Bolivia."
   }, {
     "Username" : "AutoModerator",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:44:25",
     "Body" : "**Notice:** Are you asking for travel advice about Peru?\n\nRead what redditors had to say in the **[weekly destination thread for Peru](http://redd.it/2o1sti)** \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/travel) if you have any questions or concerns.*"
   }, {
     "Username" : "AutoModerator",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:44:25",
     "Body" : "**Notice:** Are you asking for travel advice about Ecuador?\n\nRead what redditors had to say in the **[weekly destination thread for Ecuador](https://redd.it/4pth50)**  \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/travel) if you have any questions or concerns.*"
   }, {
     "Username" : "fan_tas_tic",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:00:12",
     "Body" : "I've spent a week in Máncora and loved it. The coast of Peru has insanely beautiful sunsets. Northern Peru is great if you like slow life, running on the beach, eating good food, and surfing (!). But the Galapagos is definitely more exotic. If you have the budget, go for it."
   }, {
     "Username" : "laowildin",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:03:21",
     "Body" : "Lima is a wonderful city. If it is your first time you should try and spend a bit longer there."
   }, {
     "Username" : "hrpthoms",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:05:28",
     "Body" : "Definitely include the Galapagos! After a big trip around Latin America, it was by far the best place we went to. I think we spent around 7 days there, so you should have enough time! "
   }, {
     "Username" : "remyrocks",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:29:11",
     "Body" : "1) I don't really see any rest and recovery days built in here, even though it's quite an active itinerary. You're going to be doing a lot of travel -- even day trips, like to see the condors, are early days with lots of driving and activities. If you're okay with it, and it's your travel style, go for it, but I would personally need some recovery days after a couple weeks at least.\n\n2) Where will you be flying in from? Bolivia is high altitude. Have you been in similar places before and been okay? If not, consider acclimating somewhere.\n\n3) I would personally choose Galapagos over northern Peru. There's no other place like the Galapagos. But, again, traveling between islands takes quite a bit of time -- especially if you're doing it by ferry, as you have to return to the central island rather than direct ferries between islands. If you do go, try to get in the water a bit more often -- the snorkeling is world class, and being able to swim with turtles, seals, baby sharks, rays, and more, should be done as often as possible in my opinion.\n\nCheers."
   }, {
     "Username" : "Medical_Water_7890",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:35:36",
     "Body" : "I agree you want 7-10 days but flights there aren’t that expensive if you’re already in South America."
   }, {
     "Username" : "hrpthoms",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:07:22",
     "Body" : "In that time we fit in San Cristobal, Santa Cruz and Isabela "
   } ]

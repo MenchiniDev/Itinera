@@ -1,14 +1,14 @@
 {
-  "Id" : 50150,
+  "Id" : 50140,
   "Community_name" : "Zagreb",
   "Username" : "oniumnix12",
   "Post_body" : "Problem s bucnim susjedima",
   "Timestamp" : "2024-12-23 15:23:23",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Tall_Pop_4087",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:23:23",
     "Body" : "Možeš stvoriti neugodnu situaciju s predstavnikom stanara, ignorirati klince ili se odseliti. Izbor je na tebi"
   } ]

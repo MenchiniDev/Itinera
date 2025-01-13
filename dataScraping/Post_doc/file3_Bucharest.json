@@ -1,24 +1,24 @@
 {
-  "Id" : 50067,
+  "Id" : 50062,
   "Community_name" : "Bucharest",
   "Username" : "PCB_1",
   "Post_body" : "Decent living wage in Bucharest?",
   "Timestamp" : "2016-08-25 21:38:06",
   "Num_comment" : 3,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "cage_nicolascage",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2016-08-25 21:38:06",
     "Body" : "Hey mate, this place is deserted. Try posting on r\\romania instead. From what I know, this is a normal salary for an IT junior. For example, the starting salary for a junior with some experience in Oracle Bucharest is between 5000 and 6000 RON net. Some companies pay more and some less, but that seems to be the average. You can find a decent rent in the Berceni neighbourhood or any other of the further neighbourhoods for ~300 euros/month, without utilities. Where are you from anyway?"
   }, {
     "Username" : "cage_nicolascage",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2016-08-26 20:26:55",
     "Body" : "That sounds like a good plan. Life is better here than in many European capitals, which have a much better image. Anyway, I think that you could find a better paying job, once you will be settled here. As an advice, I highly encourage you to contact the local Duch Chamber of Commerce as soon as you will arrive here and tell them about yourself, kindly asking them to include you in their next couple of meetings, saying that you want to network with the local business environment. I think their events are featured on their web site. They are super friendly people. You will meet all the Dutch local CEO's and get a chance to land a better job. People are very dumb when it comes to such initiatives, but it's so easy to meet top ranking people if you really want to. I know two Dutch youngsters who got great jobs via the local Dutch Chamber of Commerce. "
   }, {
     "Username" : "PCB_1",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2016-08-26 15:13:32",
     "Body" : "Thanks man! I am Dutch but I wanna live somewhere cheaper then my home country."
   } ]

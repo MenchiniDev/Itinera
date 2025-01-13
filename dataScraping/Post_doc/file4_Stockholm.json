@@ -1,709 +1,709 @@
 {
-  "Id" : 50253,
+  "Id" : 50236,
   "Community_name" : "Stockholm",
   "Username" : "Sea-Variation-9740",
   "Post_body" : "Min flickvän vill ha del av en eventuell framtida vinst?",
   "Timestamp" : "2024-12-23 10:29:33",
   "Num_comment" : 140,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "oskich",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:40:35",
     "Body" : "Räntan är ju en kostnad för att kunna bo i lägenheten, hade det varit tal om att även betala del av amortering så kan man förstå hennes tankegång. Du får ju dra av 30% av dina räntekostnader på skatten, så ta ränta x 0,7 plus avgiften och driftskostnader och splitta jämt."
   }, {
     "Username" : "Strobljus",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:38:47",
     "Body" : "Om hon inte tar risken så ska hon inte få vinsten?"
   }, {
     "Username" : "utterbutternutter",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:06:56",
     "Body" : "Skriv samboavtal! Om ni skulle göra slut behöver ni ha avtalat att din bostad inte är en del av samboegendomen, annars kan hon tvinga dig att sälja och dela hela vinsten från försäljningen, inklusive din kontantinsats. Kan vara värt att betala en jurist för att dra upp ett avtal. \n\nRimligtvis betalar hon hyra till dig, typ halva avgiften + halva räntan efter ränteavdraget."
   }, {
     "Username" : "spiderpigbegins",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:33:46",
     "Body" : "Hon får väl köpa in sig i lägenheten med så stor andel som hon vill ta del av vinsten.\n\nFör mig låter det helt korrekt att hon får betala halva månadskostnaden om ni ska bo där tillsammans. När hon äger lägenheten kan hon få ta del av eventuell vinst från punkten hon köpt. \n\nVarför ska hon vara berättigad någon vinst alla bara för att ni bor tillsammans i din lägenhet?"
   }, {
     "Username" : "MidnightSnackyZnack",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:03:19",
     "Body" : "Räntan är en del av boendekostnaden. Det har inget med ägandeskap eller amortering att göra.\nHyr du så betalar du räntekostnader åt hyresvärden.\nLuktar lite räkmacka?"
   }, {
     "Username" : "beebop013",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:32:32",
     "Body" : "Få den värderad och hon för köpa in sig på halva det priset?\nHon slipper ju i nuläget också risken att lgh går ner i värde."
   }, {
     "Username" : "prs1",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:36:39",
     "Body" : "Fullt rimligt att ni delar på avgift och räntekostnad men efter avdrag då. Om du inte redan räknat med det blir det blir hennes del 3100:-. Helt orimligt att hon skulle få del av vinsten bara för att hon är med och betalar räntan tycker jag."
   }, {
     "Username" : "LobL",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:30:13",
     "Body" : "Hon betalar halva avgiften och halva räntan (efter ränteavdrag). Vill hon ha del av vinsten får hon väl också bära risken och också köpa halva bostadsrätten."
   }, {
     "Username" : "bdrizzle871",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:48:00",
     "Body" : "Flytta inte ihop om ni ska hålla på att bråka om ekonomin redan nu\nOm ni väljer ändä att flytta ihop så kommer ni att bo tillsammans i några år och sedan separera\nSwedish lyfestyle 😎"
   }, {
     "Username" : "rebs92",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:33:47",
     "Body" : "Öh, hon kan ju få försöka hitta en hyresrätt för 4k.\nOch vad skulle hon ha för rätt på en vinst utan att ha någon faktiskt insättning... Alltså, hur fan tänker folk.\n\nMen, ni amorterar inte?! Galet."
   }, {
     "Username" : "Neither_Row1898",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:43:31",
     "Body" : "Bostadens värdeökning är ett resultat av bundet kapital. Kommer din framtida sambo ingå med kapitaltillskott och att köpa in sig i bostaden? Historisk avkastning inte en garanti för framtida avkastning, är hon villig att ta hälften av förlusten om du skulle sälja till förlust i framtiden? \n\nAntar att ni är unga och att det är din första lägenhet. Dela /2 på boendekostnaden (ränta, amortering, avgift, el, vatten och övriga fasta kostnader) och se till att du skriver ett undertecknat avtal där du och din framtida sambo avtalar sambolagens bodelningsregler."
   }, {
     "Username" : "caelestis42",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:37:18",
     "Body" : "Alltså antingen äger man och tar del av alla kostnader och sedan även eventuell uppsida, eller så hyr man och då får man betala rimlig hyra. 8000 / 2 = 4000 kr är rimlig hyra. Kan förstå hennes tankar kring räntka men å andra sidan hade hon aldrig kunna hyra så billigt som en brf-avgift utgör. Möjligen att hon skulle betala lite mindre, 3-3500 kr pga ränteavdrag etc men absolut inte 1000 kr. Sedan se till att skriv samboavtal och annat som tydligt reglerar och inte ger henne rätt till vinst så det inte kan uppstå problem i framtiden."
   }, {
     "Username" : "Doenicke",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:46:48",
     "Body" : "Eftersom ert förhållande verkar vara en enbart ekonomisk uppgörelse rekommenderar jag att ni sätter er ner med en advokat istället för att fråga reddit."
   }, {
     "Username" : "r6CD4MJBrqHc7P9b",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:59:01",
     "Body" : "Jag kan inte fatta att jag är den som säger det här, men ärligt talat; skippa den giriga hönshjärnan och låt henne försöka hitta boende för 1000 kr någon annan stans.\n\nMan blir ju fan äcklad. Hur kan hon hitta på något sånt här?"
   }, {
     "Username" : "Bissemannen",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:33:19",
     "Body" : "Jag är förvånad över att alla kommentarer handlar om hur det ska lösas praktiskt. Är det något jag lärt mig i livet är det att en girig och snål person kan man varken leva med eller ändra. Det är sannolikt att du så fort ni flyttat ihop stöter på andra liknande problem. Mitt råd är att se detta som ett varningstecken och att överväga om du verkligen vill leva ihop med en sådan människa."
   }, {
     "Username" : "differenthings",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:39:50",
     "Body" : "Den eviga diskussionen mellan verklighetsfrånvända (i ditt fall din tjej) och övriga (du). Det ni kan göra är att bortse från de faktiska kostnaderna för lånet. Istället får hon betala marknadspris för vad det kostar att bo inneboende med någon i motsvarade lägenhet. Detta innebär med största sannolikhet att det blir dyrare för henne, men är det det hon vill för att slippa känna att hon \"betalar för lånet\" så."
   }, {
     "Username" : "GoddessofWvw",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:57:05",
     "Body" : "Se till att ha ett samboavtal undeteknat av era båda framtaget av en jurist. Det kostar omkring 1000 kr om det är standard grejer som detta och tar några minuter att göra, seb erbjuder tex detta via tjänster som lexly. Skriver hon inte under detta får du slänga ut henne. Har hon bott längre än 6 månader utan riskerar du att förlora hälften av allt även fast du ägt det sedan tidigare då några nyare dommar från gick praxis om de regler som ska gälla, om du köpt det för att bo där själv och ägde de innan ni flyttade ihop ska det nämligen icke delas vid en sepperation. Men det händer iallafall. \n\nVill hon ej betala hälften är det golddigger varning. Byt ut henne om hon vägrar. Det finns 3 miljarder andra, jobbigare om ni har barn med mera. Bara schysst om det händer tidigt."
   }, {
     "Username" : "Impressive-Form1431",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:55:51",
     "Body" : "Hon ska betala halva avgift och ränta men vill hon betala extra i form av ammortering så får hon väll göra det och sedan äger hon endast så mycket hon lagt in.\n\nDå ger du henne möjligheten att lägga in pengar i ammortering iaf om hon önskar det"
   }, {
     "Username" : "Bkarm1995",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:29:33",
     "Body" : "Du betalar för bostaden och hon betalar för maten och annat som krävs för hemmet?"
   }, {
     "Username" : "Historical-Pen-7484",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:33:20",
     "Body" : "Hon kan ju köpa halva bostaden, och så tar du de pengarna och sätter på ISK i stället."
   }, {
     "Username" : "tom_bank",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:55:02",
     "Body" : "Om hon vill vara med och ta del av en eventuell vinst så bör hon även vara beredd på att hjälpa till med att ta en eventuell förlust vid försäljning.\n\nDvs om du säljer för 200k förlust så får hon stå för 100k av det (om det är 50% av vinsten hon förväntar sig). Tveksam till om hon tycker det låter så kul..."
   }, {
     "Username" : "kosdo",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:12:25",
     "Body" : "De ba dumpa henne"
   }, {
     "Username" : "divaddivaddivad",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:20:36",
     "Body" : "Är hon med och delar på en eventuell förlust med?"
   }, {
     "Username" : "naalat",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:22:36",
     "Body" : "Lgh är din, du har köpt och står på lånet. Hon ska betala hyra till dig (typ som att hon skulle hyra hälften av lgh). Hyran ska va rimlig för vad hon hade behövt betala om ni hyrde den. Du betalar 8 000 i månaden, 4 000 var är väldigt rimligt oavsett om man hyr eller inte.\n\nNär du säljer lgh ska hon inte få något då hon endast hyrt in sig hos dig. Om ni sedan väljer att köpa en ny bostad tsm så blir det en typ av vinst med tanke på att ni har råd att köpa en bättre bostad. Sedan skriver ni avtal på hur mycket kontantinsats ni lagt in, skiljer ni er får ni tillbaka de pengar ni lagt. \n\nDetta är vad jag gjort och tycker det inte är mer än rättvist."
   }, {
     "Username" : "Apachez",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:49:11",
     "Body" : "Den rättvisa lösningen för att slippa framtida problem när/om du och din flickvän går skilda vägar är att hon får betala 50% av brf-avgiften medan hon bor i din lägenhet medan du får betala 100% av ränte och amorteringskostnaderna.\n\nSe till att få ner detta på papper med vittnen som vidimerar innehållet som ni bägge har därefter varsitt exemplar av.\n\nSen när ni fortfarande är ihop efter ett par år och väljer att flytta till gemensamt boende så ni kan då dela på kostnaden gällande lånen med den kvarvarande huvudbryn att om ni skiljer er därefter så blir det lättast att sälja lägenheten och dela på kostnaderna (och ev. vinst) även då."
   }, {
     "Username" : "tompasten",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:33:20",
     "Body" : "Det logiska är att i samband med att hon flyttar in värdera bostaden och därmed så är det hennes startvärde om hon skall betala hälften av kostnaden. Sen får man dra av sådant som tex din kontantinsats med mera..\n\nVärt o notera att den svängdörren går åt 2 håll, går värdet ner och ni separerar så får hon betala dig för att flytta då halva värdeminskningen är hennes o betala för."
   }, {
     "Username" : "Any_Layer8916",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:50:06",
     "Body" : "Jag hade personligen inte flyttat ihop med denna människa då hon endast tänker på pengarna. Enklaste du kan göra är att dumpa henne."
   }, {
     "Username" : "Apprehensive-Yard-59",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:19:53",
     "Body" : "Rimligast är att hon betalar halva avgiften och halva räntan efter ränteavdraget eftersom du får tillbaks på skatten för det om du inte redan jämkat. \nSka hon dela på eventuell vinst/förlust måste hon ju köpa halva lägenheten av dig. Tänkte hon att hon skulle ha rätt till halva vinsten utan att ta någon risk alls?? 😅😆"
   }, {
     "Username" : "BullionZon",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:23:54",
     "Body" : "Självklart ska ni dela 50/50. Detta är inte Dubai liksom."
   }, {
     "Username" : "Mundane_Prior_7596",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:56:21",
     "Body" : "Ja, som folk konstaterar, samboavtal är nödvändigt och att hon i nuläget ska ha del i framtida värdeökning är röd flagg, absurt och idiotiskt. Speciellt som du kan ta bra mycket mer för en inneboende i en garderob. Däremot har jag en annan fråga som ingen har tagit upp. Om man på allvar älskar varandra och provar att bo ihop ska man kanske fundera på att den som har högre lön och fetare bankkonto tar lite mer av räkningar och restaurangnotor? Motsatsen är väl girigt? "
   }, {
     "Username" : "zodiaken",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:03:39",
     "Body" : "Din flickvän har en skev bild av verkligheten.. \n\nJag har redan sett ett antal inlägg med korrekt svar, dvs, hon måste vara delägare för att kunna ta del av en framtida vinst. Den vinsten har inget med hyra och ränta att göra då det faktisk är antagligen den minsta möjliga kostnaden hon hade fått betala oavsett om du ägde lägenheten eller nån annan. Frågar hon alltid sin hyresvärd om eventuell framtida vinst eller? 😂"
   }, {
     "Username" : "Sture-Bergwall",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:05:33",
     "Body" : "Jävla bönder i denna tråd. Kalla inte hennes andel ränta, kalla det hyra."
   }, {
     "Username" : "Kanelbullah",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:08:50",
     "Body" : "Avgiften 50/50 är rimlig. Räntan däremot tycker ska anpassas mot vad hon skulle ha betalt om hon bodde själv.\nSå om hon betalar 5000 idag själv och hon sen skulle få betala 1000 med dig. Så skulle jag lägga fram att hon betalar 2000 extra, det är 50% av 4000. Hon sparar ändå 2000 kr varje månad. \nEdit: Och vinsten behåller du själv."
   }, {
     "Username" : "SpaceTransaction",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:09:02",
     "Body" : "Om det ska vara någorlunda rättvist så bör hon betala halva avgiften pluss halva räntan beräknad på 50 % av lägenhetens värde minus ränteavdrag. Vill hon ta del av värdeökning får hon köpa in sig."
   }, {
     "Username" : "lukaskruger",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:21:30",
     "Body" : "Räntekostnad efter avdrag och avdrag är eran gemensamma kostnad. Om ni tjänar väldig olika kan du ju vara schysst och betalar olika delar beroende på vad ni har för inkomst. Ska hon ha vinsten måste hon köpa in sig."
   }, {
     "Username" : "angry-adult",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:21:33",
     "Body" : "dela på amortering? nja i det fallet tycker jag nog att man ska ha någon form av delägarskap i lägenheten. men annars är det rimligt att dela lika på ränta+avgift tycker jag. så fungerar det vid andrahandsuthyrning."
   }, {
     "Username" : "Shazvox",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:30:37",
     "Body" : "Svårt att avgöra. Om hon vill ha del av vinsten ska hon även stå för en del av lånet, inte bara pröjsa ränta.\n\n\nOm hon inte ska ha del av vinsten bör ni bara dela på de löpande kostnaderna (ev renoveringskostnader, förbättringar etc kan diskuteras då hon kommer dra nytta av det, men ej ta del av värdeökningen som uppkommer av de). Sedan kan man fundera på om ränta bör ingå i de löpande kostnaderna eller ej.\n\n\nDet säkraste rådet jag kan ge er är att komma fram till vad som känns rättvist *för er*, för ni kommer inte hitta någon objektiv rättvisa i denna fråga."
   }, {
     "Username" : "yanushki",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:45:58",
     "Body" : "Jag flyttade själv in i min sambos bostadsrätt och  när vi flyttade till gemensamt så gjorde sambon million vinst vid försäljningen. Vafan skulle jag ta del av den för när jag gått in med 0 kronor?\nJag betalade såklart hyra till sambon som vi kom överens om.\n\nLite fräckt av din tjej att förväntas få ta del av ev framtida vinst. Lite pengakåt kan tyckas. Spelar ingen roll om hon ska bo där och betala hyra och hur länge.\n\nVad säger dina föräldrar om saken?"
   }, {
     "Username" : "Tight-Temporary-8672",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:47:02",
     "Body" : "Det jag hade gjort här är att erbjuda henne en  skräddarsydd samboavtal att hon får betala högre hyra till dig än hälften (ex. 5000 kr istället för 4000 kr) men att allt hon betalar över hälften blir uppsparad, så att vid eventuella vinster får hon den andel av vinsten som hon betalat in.\n\nex. låt oss säga att bostaden kostade 1 miljon kronor. Istället för att betala 4000 kr som är halva kostnaden för hyran betalar hon 5000 kronor. 1 tusen kronor går till en sparkonto varje månad. på ett år blir det 24000 kronor, på 10 år blir det 240000 kr.\n\nLåt oss säga att bostaden 10 år senare blir såld och det blir en vinst på 100000 kronor. eftersom lägenheten kostade en miljon när han köpte den och hon betalat in 240000 kronor, kan vi räkna ut hennes andel av vinsten bå detta sätt:\n\n240 000 / (1 000 000 + 240 000) = 0,1935 = 19,35 procent\n\nAlltså, om hon betalar 5000 kr till dig istället för 4000 kronor i 10 års tid har hon enligt en sådan avtal rätt till 19,35% av vinsten.\n\nPå så sätt blir det rättvist, för du och föräldrarna har ju ändå lagt ner en massa pengar på hyresbostaden redan + hyran du betalar nu."
   }, {
     "Username" : "kalashej",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:49:28",
     "Body" : "Jag kan väl förstå lite hur hon tänker, även om det inte känns helt rätt. Det låter enklast att hon köper in sig i halva lägenheten isf. Sen håller jag inte med om att hon inte får del av vinsten. Om ni senare vill köpa något större så kommer ju 100% av vinsten gå in i det nya boendet, oavsett vem som vinsten officiellt står på."
   }, {
     "Username" : "AccomplishedYam5060",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:00:01",
     "Body" : "Skriv samvoavtal. Om ni flyttar isär sen, så har hon rätt till hälften av  bostadsrättens  värde."
   }, {
     "Username" : "AppleWithGravy",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:20:38",
     "Body" : "Tänker mig halva avgiften och 35% av räntan då du får tillbaka 30% på skatteåterbäringen."
   }, {
     "Username" : "Gastkram",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:28:47",
     "Body" : "Hur vill din flickvän göra vid eventuell förlust? Ska hon betala tillbaka till dig då? Finns ingen logik i det hon föreslår. Som det ser ut nu så tar du på dig all risk, så varför ska hon ha del av eventuell vinst? I förskott dessutom??\n\nDäremot får du/dina föräldrar göra avdrag för räntan. Det hade jag kunnat tänka mig att kompensera för genom att hon betalar lite mindre, så att ni delar lika på den faktiska kostnaden."
   }, {
     "Username" : "Jekkegokk",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:52:28",
     "Body" : "Om hon vill ta del av eventuell vinst får hon väl gå in med motsvarande kontantinsats och köpa in sig? Inte svårare än så. Räntan är vad det kostar att ha lägenheten. Skillnad hade varit om du krävde halva amorteringen men med ränta och avgift betalas inte lånet och hon ska således betala hälften av dina kostnader."
   }, {
     "Username" : "Tall-Bodybuilder-391",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:54:40",
     "Body" : "Var smart OP. EVENTUELLA VINSTER SKA ÅTERINVESTERAS I ERT FRAMTIDA LIV. Verkar som att du exkluderas. \n\nOP bör betala 65/35 med kvinnan."
   }, {
     "Username" : "oeverton_",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:14:19",
     "Body" : "Hon känner alltså att det skulle vara rimligt att hon betalar 1000:-/mån i hyra? På riktigt?"
   }, {
     "Username" : "MelodicSpeed1435",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:41:32",
     "Body" : "Jag hade nog ifrågasatt hela förhållandet. Antingen är hon efterbliven som inte förstår grundläggande ekonomi eller så är hon en girig leech. Inget av det är attraktivt öht."
   }, {
     "Username" : "john_cooltrain",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:09:52",
     "Body" : "Enda rimliga är att ni värderar lägenheten hos en mäklare och hon köper in sig på en andel."
   }, {
     "Username" : "Svintiger",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:11:46",
     "Body" : "Hon tror ni är gifta. Underligt beteende ärligt talat."
   }, {
     "Username" : "ResearcherOk7685",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:21:01",
     "Body" : "Vill hon ta del av vinsten får hon ju köpa in sig i lägenheten. Räntan är en del av den faktiska kostnaden för att kunna bo där. \n4000 är vansinnigt billigt för en bostad i Stockholm."
   }, {
     "Username" : "pellegrino6000",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:21:44",
     "Body" : "Hon låter rejält girig, ska ha eventuell vinst men kommer inte vara exponerad mot risk.\n\nFreerider, kanske bäst att fundera om det är rätt tjej?"
   }, {
     "Username" : "NeoGoober",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:55:43",
     "Body" : "I lägenheten jag och min sambo delar, men jag äger, betalar sambon bara halva BRF-avgiften och halva elen/bredbandet/hemförsäkring etc. medan hela lånekostnaden betalas av mig. Jag tjänar visserligen mycket mer än sambon, vilket kanske påverkar synen på det hela.\n\nJag tycker spontant att du själv borde betala för ditt lån."
   }, {
     "Username" : "Entire_Impression_50",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:27:02",
     "Body" : "Akta dig för denna Dam"
   }, {
     "Username" : "Illustrious-Aside-46",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:33:52",
     "Body" : "Acceptera aldrig att bli dominerad av din flickvän. Tro mig, jag är gammal, jag vet.\n\nStäll ett ultimatum, som inte är förhandlingsbart, hon betalar hälften av samtliga gemensamma kostnader, även mat och försäkringar. Eller så kan ni bo på varsitt håll. Jag har alltid gjort så, det har alltid accepterats, och jag har blivit ekonomiskt oberoende delvis pga att mina boendekostnader halverats under lång tid.\n\nMen ärligt talat, det bästa är om ni inte flyttar ihop. När ni gör det kommer det skapa friktion, främst hos henne. Hon kommer börja störa och irritera sig på hur du är, och hon kommer sluta ha den romantiska bilden av dig som hon (förhoppningsvis) har inledningsvis, och istället se den realistiska bilden av dig. Hon kommer förstås försöka dölja hur hon känner, men det kommer sippra ut. \n\nNär man flyttar ihop har de flesta även mindre sex, och sexet blir sämre, mindre passionerat. Du bör vara medveten om det. \n\nHon verkar vilja ekonomiskt utnyttja dig för ditt boende. Det är en stark varningssignal. Hade hon verkligen älskat dig, känt passionerat för dig, hade hon gladeligen betalat mer än du gör. En kvinna som älskar en man är villig att göra uppoffringar för att vara med honom. \n\nDu har även slitage på möbler och bostad att ta hänsyn till. Samt din förlust av frihet och kontroll över Ditt hem. Ta bra betalt för slitage. \n\nFörsök vara kall och rationell, och låt dig inte luras av din förälskelse eller törst efter sex. \n\nByter du någonsin lägenhet, och om hon flyttar med, så får hon automatiskt rätt till halva den nya lägenheten! Enligt sambolagen, vilket visar att hela samhällssystemet finns för att ekonomiskt gynna just kvinnor, på förälskade mäns bekostnad. \n\nVar väldigt försiktig. Vill hon inte ens bära hälften av era kostnader så kommer det bara förvärras med tiden. \n\nKvinnor kommer och går. Skydda dina tillgångar, bostad och pengar. \n\nLycka till unge man.."
   }, {
     "Username" : "skumt",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:35:58",
     "Body" : "Ja alltså att hon ska betala av ditt lån blir ju lite skevt. Avgiften fine dela på den och andra fasta kostnader. Annars får hon ju köpa in sig i lägenheten om hon ska ha del av eventuell vinst. Kan ju också bli förlust så inget är ju garanterat där."
   }, {
     "Username" : "Papercoffeetable",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:41:18",
     "Body" : "Now, I ain’t sayin’ she a gold digger\n\n(When I’m in need) But she ain’t messin’ with no broke -\n\n🎶"
   }, {
     "Username" : "SpaceCommissar",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:39:11",
     "Body" : "Jag håller med henne. Varför ska hon hjälpa till att betala av din bostad om hon inte får delägarskap?\n\nAvgift till föreningen, el, internet, mat och annat som ni förbrukar är en sak, jag utgår från att såna kostnader vet ni bäst själva hur ni delar upp. Men pengar som går till din investering, som du sen äger och kan sälja senare i livet, bör du stå för själv om du inte vill dela eventuell vinst eller förlust med henne sen."
   }, {
     "Username" : "tthompa",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:23:04",
     "Body" : "Inte rättvis att hon betalar av räntan på ditt lån som hon inte kommer få tillbaka. Mest rättvist är att ni delar avgiften+el procentuellt på inkomst. Om du tjänar 60% av hennes lön betalar du 20% mer, utöver amortering+ränta som du betalar själv."
   }, {
     "Username" : "Barneyk",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:29:42",
     "Body" : "On du inte vill dela med dig av vinsten är det helt orimligt att hon ska vara med och betala din ränta.\n\nAtt vara så här småsint och gnidig i en relation är i mina ögon helt sjukt.\n\nKompromissen för er tycker jag skulle vara att hon betalar halva avgiften och ingen ränta om du vill vara ensam ägare av lägenheten.\n\nNär jag flyttade ihop med min sambo så gick jag in med hela kontantinsatsen och vi skrev samboavtal där jag får tillbaka hela handpenningen och att vi delar lika på all eventuell vinst.\n\nAtt gå in i en samborelation där man delar på kostnaderna men vill hålla vinsten för sig själv eftersom man har lagt kontantinsatsen hade i min bok varit en dealbreaker.\n\nDet är väl en person man vill dela sitt liv med och dela på även ekonomiska framgångar?\n\nJag förstår inte hur man relaterar till sin partner om man inte tänker så."
   }, {
     "Username" : "Quiet_Fix9589",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:34:52",
     "Body" : "Det är inte rimligt att betala på ett lån hon inte tagit och som inte kommer se eventuell vinst på. Hennes förslag om halva avgiften låter bra. Annars får hon köpa in sig."
   }, {
     "Username" : "MaxVonk",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:55:53",
     "Body" : "Hur som helst ska ni skriva ett samboavtal. Skydda din egendom och din investering. Jag hade lagt upp det på följande sätt, du fortsätter att betala räntan, ni delar på avgift till föreningen, el, försäkring osv. Dela upp matkostnader på hälften rakt av. \n\nJag misstänker att du vill bo kvar i lägenheten om ni skulle separera?"
   }, {
     "Username" : "markizoffline",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:16:33",
     "Body" : "Betala själv för lägenheten och hon kan betala för maten och andra avgifter på kanske 4000 kr per månad, så slipper ni bråka om lägenheten om det skulle ta slut mellan er."
   }, {
     "Username" : "Glittering_Water3645",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:18:49",
     "Body" : "Rimligt i mitt anseénde:\n\nDu betalar\n\nRänta och amortering\n\nNi delar på\n\nBostadsrättsavgift\n\nDu är ägare av bostadsrätt och får hela värdeförändringen vid försäljning.\n\nOm hon vill dela på värdeökningen vid framtida försäljning så får hon betala av lånet med en summa som motsvarar din ursprungliga kontantinsats i bostaden + det du redan amorterat av. I det fallet delar ni på ränta och amortering på kvarvarande del av lånet. Då är bostadsrätten hälften hennes och hälften din."
   }, {
     "Username" : "flushkill",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:49:01",
     "Body" : "Hon har rätt, betalar hon ränta ska hon naturligtvis få en del av vinst.  Men det är inte frågan, varför ska hon betala ränta på ett hus DU äger.  För att undvika konstiga situationer bör du inte ens vilja detta.  Det är ditt hus, du betalar.  Jag skulle tillåta henne att bo hyresfritt och betala för mat eller något.  Det är en win win, och inga konstiga konstruktioner som kan bli otäcka i ett potentiellt uppbrott."
   }, {
     "Username" : "None",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:43:03",
     "Body" : "[deleted]"
   }, {
     "Username" : "JennyDarukat",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:52:12",
     "Body" : "This is the way"
   }, {
     "Username" : "Kaffepaus_",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:53:15",
     "Body" : "Att betala ränta är ju att betala för risken."
   }, {
     "Username" : "oskich",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:10:20",
     "Body" : "Gäller dock inte om TS bodde ensam i lägenheten innan de blev sambos. Bostad inköpt  för gemensamt nyttjande delas dock 50/50 vid separation, oavsett vem som betalat den.\n\nSamboavtal är tryggast att ha i vilket fall som helst 😁"
   }, {
     "Username" : "rehditt",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:11:05",
     "Body" : "Nej det stämmer inte. Det gäller endast om man flyttar in i bostaden samtidigt (eller från början köper den med avsikt att flytta in tillsammans i den).\n\nSkriver man inget avtal har man dock rätt till 50% av egendom som är inköpt EFTER samboskapet. Man behöver definitivt inte upprätta avtalet via jurist. Det finns mallar på nätet. Bra att se till att ha en neutral tredjepart som vittne dock till själva signeringen."
   }, {
     "Username" : "ValidSignal",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:11:27",
     "Body" : "Redan köpt lägenhet blir inte samboegendom. Det är om man köper en lägenhet som är tänkt att nyttjas av båda."
   }, {
     "Username" : "Silvervarg",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:38:55",
     "Body" : "Det är klart rimligt att köpa in sig i lgh. och därmed dela på kostnaden för lånet och vinsten."
   }, {
     "Username" : "Oberheimz",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:07:47",
     "Body" : "Ja det är inte så att avgiften motsvarar hyran för en hyresrätt, avgiften går ju till föreningens gemensamma kostnader för att hålla huset i drift och skick. Det är fullt rimligt att dela på just räntekostnaden, om hon vill dela på eventuell vinst får hon i så fall köpa in sig i lägenheten så hon också delar på risken. Hela det här upplägget är ändå fördelaktigt för henne."
   }, {
     "Username" : "yanushki",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:47:01",
     "Body" : "Håller med"
   }, {
     "Username" : "Removable_speaker",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:02:16",
     "Body" : "Det är en del av investeringen också. För att kunna äga bostaden tar man ett lån och betalar ränta på lånet.\n\nBästa är nog att komma överens om en rimlig hyra."
   }, {
     "Username" : "Latringuden",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:07:25",
     "Body" : "Räntan är kostnaden för att ta lån från banken för att köpa lägenheten, det är inte en kostnad för att bo i den."
   }, {
     "Username" : "ParreNagga",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:54:56",
     "Body" : "Fuck mäklare!"
   }, {
     "Username" : "Apachez",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:42:42",
     "Body" : "Värdering säger absolut ingenting. Chatgpt kan troligtvis bättre värdera din lägenhet än random mäklare."
   }, {
     "Username" : "thegamer1338minus1",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:47:40",
     "Body" : "Till nuvarande marknadspris"
   }, {
     "Username" : "Sea-Variation-9740",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:37:40",
     "Body" : "Nej ingen amortering så länge jag studerar är väl tanken."
   }, {
     "Username" : "LankyTradition6424",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:54:34",
     "Body" : "Amortering är inte en del av boendekostnaden. Den ska hon under inga omständigheter vara med och betala om hon inte samtidigt får andel i ägandet med motsvarande amorterat belopp."
   }, {
     "Username" : "OrangeBliss9889",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:38:12",
     "Body" : "Exakt, det är ett girigt resonemang och ett försök att utnyttja dig OP."
   }, {
     "Username" : "spisplatta",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:10:41",
     "Body" : "De är ju unga och har kanske inte funderat så mycket över ekonomiska frågor förut. Då är det inte självklart vem som är girig och snål. Kan mycket väl vara så att hon tror att det är OP som försöker utnyttja henne och därför sätter ner foten."
   }, {
     "Username" : "C4-BlueCat",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:38:34",
     "Body" : "Har du koll på vad mat kostar?"
   }, {
     "Username" : "Svartvit1",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:34:39",
     "Body" : "Varför nedröstas detta? Detta är en fantastisk lösning på girig flickvän.  \n\nMen för att svara på din fråga OP, amortering är ett sparande till fördel för dig, ränta är en avgift för att du \"köpt\" lånet, hade hon betalat amortering hade man kanske behövt snacka om vinst, men ränta bör bara ses som pengar som behöver kastas i sjön varje månad och ingenting som kommer tillbaka senare."
   }, {
     "Username" : "Erwigstaj12",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:44:47",
     "Body" : "Det inses ganska lätt att ditt förslag är orättvist om du tittar på siffrorna. 1000kr i boendekostnad existerar inte för människor som inte blir subventionerade."
   }, {
     "Username" : "tischan",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:22:46",
     "Body" : "Håller definitivt med att de skall komma överens om ett samboavtal där lägenheten klar görs. \n\nTycker dock inte att ditt förslag är rättvist på långa vägar. \n\n50% av räntan och avgiften är mycket skäligt. Var är el, försäkring, bredband, renovering, risk att priset går ner etc.\n\nHon nämner inte att han ska får en del av vinsten för det kapital som hon kan investera? Vi pratar en halv lägenhet summa plus hon slipper amortering."
   }, {
     "Username" : "Silvervarg",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:35:28",
     "Body" : "Detta! Hon ska inte betala av ett lån du valt att ta. Däremot rimligt att betala till föreningen för att få bo där. Hon ska också betala hälften av elen/bredband/mat et c. Sådant som krävs för att leva och som hon ändå skulle ha betalat om hon bodde själv.\n\n\n\nEftersom hon inte betalar lånet (ränta+amortering) ska hon inte ha del i eventuell vinst.\n\n\nDet bästa vore om hon kunde spara motsvarande andel som hon skulle betalat för det, till den dagen ni köper bostad gemensamt.\n\n\nGår ni skilda vägar så ha detta på papper enligt ovanstående talare."
   }, {
     "Username" : "EishLekker",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:53:29",
     "Body" : "Räntekostnader är att se som en boendekostnad. \n\nÄven om man mot förmodan inte behöver låna pengar alls för köp av lägenhet så är det ändå pengar man låser in, och som man inte kan få avkastning på, på börsen eller bankkonto."
   }, {
     "Username" : "Pythe1337n",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:52:17",
     "Body" : "Skriver ju att de inte amorterar, så betalar inte av en krona på lånet."
   }, {
     "Username" : "larschanders",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:42:12",
     "Body" : "Hon betalar ju inte av hans bostad. Han amorterar inte"
   }, {
     "Username" : "hestenbobo",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:50:28",
     "Body" : "Hur är det rättvist att OP ska betala mer på avgiften+el bara för att han tjänar mindre pengar än henne?"
   }, {
     "Username" : "EishLekker",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:48:15",
     "Body" : "> Inte rättvis att hon betalar av räntan på ditt lån som hon inte kommer få tillbaka. \n\nVadå ”betalar *av*”? Betala av innebär att man minskar på lånet, dvs amortering. \n\nRäntan ses som en del av boendekostnaden."
   }, {
     "Username" : "caelestis42",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:40:05",
     "Body" : "Då betalar hon också in halva förlusten till hans konto vid förlustförsäljning? Helt galet att hon bara skulle betala halva avgiften, det om något är småsint och gnidigt."
   }, {
     "Username" : "Neither_Row1898",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:49:10",
     "Body" : "Fullt rimligt i och med att det grundar sig i bostadens värde. Vad det egentligen kostar om man inte binder kapital i bostaden. Hon har inte tagit lånet men nyttjar objektet för lånet, vilket är bostaden."
   }, {
     "Username" : "differenthings",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:39:01",
     "Body" : "Han binder kapital, tar hela risken att värdet minskar, betalar nästan alla kostnader och hon betalar en avgift långt under marknadspris för hyra av motsvarande boende. Skön verklighet du lever i."
   }, {
     "Username" : "finalina78",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:50:34",
     "Body" : "Läs texten"
   }, {
     "Username" : "oskich",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:57:46",
     "Body" : "Då får hon väl köpa in sig 50/50 på lånet också, räntan är ju bara en kostnad för att bo."
   }, {
     "Username" : "LobL",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:29:21",
     "Body" : "Nej, det är en kostnad som du bär även i en hyresrätt. Risken för en BR är inköpspris vs försäljningspris."
   }, {
     "Username" : "greenlightabove",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:09:47",
     "Body" : "Jo, men en mycket liten del av den. \nOm OP och hans föräldrar betalat 990 000kr i insats + ränta vid försäljning och flickvännen då betalat 10 000kr i ränta skulle hon kunna hända rätt till 1 % av vinsten. \n\nMen det förblir en vinst hon aldrig hade kunnat nå utan deras kapital, så inget hon självklart har rätt till. Frågan om hon är med och splittar ev förlust blir ju också väldigt relevant. \n\nSumma sumarum sjukt girig fråga av henne. Jag hade fan hoppat av lycka över att kunna bo i Stockholm för 4000kr i månaden."
   }, {
     "Username" : "Resaren",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:09:44",
     "Body" : "Nej det är att betala för rätten att nyttja lägenheten, precis som en hyra. I en hyreslägenhet betalar din hyra bostadsägarens ränta, men inte förväntar du dig en del av värdeökningen som kompensation?"
   }, {
     "Username" : "MidnightSnackyZnack",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:13:18",
     "Body" : "Men alla hyresvärdar lägger räntan på den som hyr. Förstår inte varför detta är annorlunda? Hyrorna förändras beroende på räntorna. Det har vi väl sett ganska tydligt nu. De lägger ju även på för underhåll,slitage etc. Vilket OP också borde göra om han ska stå själv för reparationskostnader, egentligen?"
   }, {
     "Username" : "ResearcherOk7685",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:22:57",
     "Body" : "Situationen innebär att OP blir hennes hyresvärd. Hans kostnad för lägenheten är lånets ränta samt avgiften. Han hyr ut lägenheten till henne för halva den totala kostnaden. \nPå samma sätt som du inte får ta del av värdeutveckligen för en hyresvärds bostadsbestånd ska inte hon ta del av värdeutveckligen för lägenheten."
   }, {
     "Username" : "vimpelvims",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:36:26",
     "Body" : "Precis, detta är viktigt"
   }, {
     "Username" : "Flamsoi",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:36:08",
     "Body" : "Det är klokt om ni har schysst ränta, då överstiger ändå börsens utveckling, inflation och värdeökning på bostaden själva räntan."
   }, {
     "Username" : "EishLekker",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:50:16",
     "Body" : "Menar du att det är ett bättre eller sämre alternativ för OP?"
   }, {
     "Username" : "Apachez",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:54:18",
     "Body" : "Ja övriga driftskostnader kan man såklart ta med men här handlade det om lägenheten i sig och inte hur många kubikmeter varmvatten hushållet förbrukat etc. Dessutom är varmvatten, bredband, kabeltv etc många gånger redan inkluderar i brf-avgiften.\n\nOm hon vill köpa loss tex 50% av lägenhetens inköpspris för att därefter kunna ta del av 50% vid ev. försäljning så är det annan femma.\n\nKnepiga med sånt upplägg är vad som händer när hon eller du har vänstrat eller intresset för varandra har svalnat så ni inte längre är ett par?\n\nRätt ruttet att då även behöva lämna lägenheten du hade från tiden innan ni blev ihop eller tvingas ta lån för att köpa ut motparten.\n\nMest rättvisa och minst risk är att OP står kvar på lånet och hon får pröjsa 50% av dom gemensamma kostnaderna såsom:\n\n- BRF-avgiften.\n- Bredband (om den inte ingår).\n- Kabel-TV (om den inte ingår).\n- Varmvatten (om den inte ingår).\n- Mat\n- Gemensamma inköp till bostaden (köper ny soffa eller säng eller TV etc).\n\nSe till att upprätta ett sambo-avtal.\n\nSedan när ni bott ihop ett par år så kan OP antingen ändra ägarförhållandet för lägenheten till 50% genom att hon får betala 50% av inköpspriset och därmed även blir berättigad till 50% av framtida försäljningspris eller (vilket ger mindre huvudvärk särskilt den dagen ni går skilda vägar) flytta till nytt gemensamt boende som ni från början pyttsat in 50% vardera i.\n\nSån här är skittrist i början av en relation men \"you will thank me later\" den dagen ni går skilda vägar att då ha på papper ev. samboavtal, äktenskapsförord etc. Samma lika att inte skapa fler problem än vad du behöver från början.\n\nAtt flytta ihop är en stor grej och ger bara onödig huvudvärk att från dag 1 sätta sig i skiten.\n\nDvs ni kanske om 3 mån inser att det här med att bo ihop var inte något för er och har hon då bara pröjsat för BRF-avgiften och ev. driftskostnader så är det inga ekonomiska problem att lösa mellan er.\n\nMen om ni då redan har skrivit om ägarförhållandet för befintliga lägenheten så blir det inte bara att hon flyttar ut utan OP tvingas ta lån för att köpa loss henne eller tvingas själv flytta för att få faktiska försäljningspriset som sedan ska delas (samma lika om det blir kvarvarande skuld då ska den såklart också delas)."
   }, {
     "Username" : "Gastkram",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:35:43",
     "Body" : "Fast nu är ju inte ränta en avbetalning."
   }, {
     "Username" : "SpaceCommissar",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:44:55",
     "Body" : "Förvisso sant, det missade jag, men jag hade aldrig hjälpt någon att betala av bostaden utan att få ta del av kakan sen."
   }, {
     "Username" : "tthompa",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:59:21",
     "Body" : "Inser att jag skrev fel! Menade att om hans lön är högre än hennes så bör de räkna ut den procentuella skillnaden och sen betala därefter. Tänkte 60-40 förhållande till varandras löner, inte 60% av hennes lön som jag skrev. \nSå, om hans lön är 40.000 och hennes 30.000 av en avgift (utan räntan) på 7.000 borde han betala 4.000 och hon 3.000."
   }, {
     "Username" : "tthompa",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:04:31",
     "Body" : "Jag ser det som en skillnad eftersom det inte är hon som köpt lägenheten, hon flyttar ju in till en lägenhet som han äger. Räntekostnaden är ju på lånet som han står på. Men väljer hon att köpa in sig i lånet och lägenheten är det rimligt att hon även betalar del av räntan. Inte annars."
   }, {
     "Username" : "Barneyk",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:01:42",
     "Body" : "Att vara hyresvärd åt sin egen sambo är för mig helt sjukt.\n\nMen vi har väl olika syn på relationer.\n\nVi försäljning får man dela på kostnaderna om försäljningen inte täcker dom efter att kontantinsatsen dragits."
   }, {
     "Username" : "Quiet_Fix9589",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:14:50",
     "Body" : "Om han hade hyrt ut till henne hade han inte fått ta betalt för räntan. Jag förstår inte varför det skulle skilja sig nu. I sådana fall är det bättre att låta henne köpa sig in på lägenheten så samtliga blir ägare."
   }, {
     "Username" : "Glittering_Water3645",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:44:14",
     "Body" : "Allt det där gör han redan idag. Skillnaden är att han slipper betala halva bostadsrättsavgiften jämfört med idag så fortfarande en förbättring för hans egna ekonomi.\n\nSka man kräva att sin partner betalar hälften av allt så får man dela på ägandeskapet också på det sättet jag beskrev."
   }, {
     "Username" : "Apachez",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:41:26",
     "Body" : "Fast så länge han står på 100% av lånet så har hon 0% risk i det hela.\n\nSkorpar det till sig så är det han som blir av med lägenheten och i värsta fall hamnar hos kronofogden och får betalanmärkningar etc."
   }, {
     "Username" : "angry-adult",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:22:36",
     "Body" : "objektivt fel skulle jag säga. räntan betalar du för att du får låna pengar."
   }, {
     "Username" : "Removable_speaker",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:19:36",
     "Body" : "Om du betraktar din sambo som hyresgäst i din lägenhet är det rätt att tänka så.  \nEtt annat sätt att tänka är att en sambo är en person man delar sitt liv med, inklusive sin ekonomi.  \nDet finns inte bara ett rätt svar här utan det beror på hur man ser på sin relation."
   }, {
     "Username" : "already_tomorrow",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:08:47",
     "Body" : ">Men alla hyresvärdar lägger räntan på den som hyr. \n\nHyresvärdar är vinstdrivande, ska en pojkvän verkligen hantera flickvännen som ett redskap för att skapa vinst?!"
   }, {
     "Username" : "tischan",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:21:37",
     "Body" : "Instämmer men tycker att hon ska köpa in sig så borde det vara till dagens pris. Har skett mycket på senaste åren finns vissa bostäder som tappat värde och vissa som gått upp. Lika bra att göra en/två värderingar. \n\nAtt flytta ihop är idag med dagens sambo regler ett juridiskt ekonomiskt beslut och bör hanteras som det."
   }, {
     "Username" : "Silvervarg",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:29:58",
     "Body" : "Nej, det är ingen avbetalning, håller jag med om. \n\n\nMen hur mycket inflytande över lånet skulle du ge till den som betalar halva kostnaden för det? Jag tycker det berättigar ännu mer till del av vinsten. Hade känts som att jag bekostar någon annans lån utan att få något tillbaka.\n\nJag tycker: krångla inte till ekonomin, låt henne betala för saker som hon har/kan få inflytande över (jag liknar avgiften till föreningen som \"hyra för att bo i huset\" så delas lika av den anledningen).\n\nEller, om man kan tänka sig göra det mer rättvist, göra som föreslås längre ned och låta den som flyttar in köpa in sig och därmed vara lika ansvarig. Flyttar man isär så är det tydligt vad som gäller: köp ut den andra.\n\nEller sälj lgh och köp en ny 50:50."
   }, {
     "Username" : "differenthings",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:48:52",
     "Body" : "Vilket hon alltså inte skulle göra. Såatte."
   }, {
     "Username" : "finalina78",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:49:26",
     "Body" : "Men i detta fall är det ett icke-problem eftersom de ju inte amorterar"
   }, {
     "Username" : "EishLekker",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:00:07",
     "Body" : "Problemet verkar vara större än att du ”missat” något. Du har helt enkelt inte förstått att inbetalning av ränta inte är att ”betala av” något. \n\nRäntan är en kostnad för att ha lånet, och lånet krävs för att kunna bo där. Det är således en kostnad för att bo där. \n\nFör att kunna ha anspråk på en eventuell framtida vinst så behöver hon antingen lagt in en del av insatsen själv, eller att hon betalar en del av amorteringen. Plus att hon måste vara beredd på att hon även är delansvarig för en eventuell förlust."
   }, {
     "Username" : "EishLekker",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:18:06",
     "Body" : "Räntekostnaderna är för hela lånet, som är för hela lägenheten. Hon använder en del av lägenheten genom att bo där. Således är det rimligt att hon står för en del av kostnaderna. \n\nAlternativet är att hon blir inneboende rent juridiskt, och betalar en hyra där han har rätt att ta ut en avkastningsränta. Det skulle garanterat bli dyrare för henne."
   }, {
     "Username" : "vimpelvims",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:42:32",
     "Body" : "Vadå hyresvärd?\nDet handlar väl om att dela på kostnader som en lägenhet kostar?\n\nAtt dela på avgift + halva räntan efter ränteavdrag är det rimliga.\n\nDet är den fasta avgiften för lägenheten. De amorterar ju inte, så det är ju ingenting som han får tillbaka.\n\n\nOm de får nyttja lägenheten likadant så ska väl kostnaderna delas lika? Varför ska han betala mer när hon bor där lika mycket?\n\n3100kr blir det för henne i detta fallet. Vilket är en rimlig kostnad.\n\nAtt han får vinsten vid försäljning handlar ju inte om räntan eller avgiften utan det kapital som han lagt in vid köp av lägenheten. Han står ju för en risk med det kapitalet samt de pengar han lånat, han kan förlora pengar eller tjäna pengar. Men det har ju inget med avgiften eller räntan att göra.\n\nAtt glida in på en räkmacka och pröjsa 1000kr för att bo känns som riktiga Ove Sundberg fasoner\n\n\nOm de hade bott i en hyresrätt ska hon inte betala någonting då? Det är ju förenings lånekostnader\n\n\nPrecis som avgiften vid en bostadsrätt så det det mesta föreningens lånekostnader.\n\nMan gör ju ett aktivt val när man flyttar någonstans, är det för dyrt eller ej.\nMen du kan ju inte sitta och snylta på din sambo för att du vill bo bättre än du gör. #leech"
   }, {
     "Username" : "caelestis42",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:51:14",
     "Body" : "kanske. jag tycker man ska dela lika eller så rättvist det går."
   }, {
     "Username" : "Neither_Row1898",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:54:40",
     "Body" : "> Om han hade hyrt ut till henne hade han inte fått ta betalt för räntan. Jag förstår inte varför det skulle skilja sig nu. \n\nDet stämmer, hyr man ut så får man inte ta betalt för bankens aktuella effektiva utlåningsränta. Räntekostnaden, avgiften för lånet, är ett bindande avtal mellan banken och låntagaren. Hyresgästen och banken har inget avtal, således har hyresgästen inte heller möjlighet att påverka räntekostnaden genom amortering eller bindningstid. Hyresvärden får därför inte ta betalt för aktuell effektiv utlåningsränta gentemot hyrestagare.\n\nDet man istället gör vid ett hyresavtal är att ta hänsyn till bostadens värde, Kapitalkostnaden, den beräknas som en skälig, årlig avkastningsränta på bostadens marknadsvärde. Det spelar ingen roll om hyresvärden har fått bostaden gratis, betalat den kontant eller lånat pengar. Kapitalkostnaden tar inte hänsyn till bankens aktuella effektiva utlåningsränta.\n\nSe ’§ 4 Andra stycket Lag (2012:978) om uthyrning av egen bostad\n\nVid en tvist om hyran ska hyresnämnden, om inte en högre hyra följer av en prövning enligt 12 kap. 55 § jordabalken, fastställa den till ett belopp som inte påtagligt överstiger kapitalkostnaden och driftskostnaderna för bostaden. Kapitalkostnaden beräknas som en skälig avkastningsränta på bostadens marknadsvärde. Hyresnämnden får dock inte fastställa en högre hyra än vad som följer av hyresavtalet.’\n\n> I sådana fall är det bättre att låta henne köpa sig in på lägenheten så samtliga blir ägare.\n\nJa, absolut det är en god idé."
   }, {
     "Username" : "hestenbobo",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:58:31",
     "Body" : "Kapitalkostnader får du visst räkna med när du sätter hyra."
   }, {
     "Username" : "EishLekker",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:05:06",
     "Body" : "> Om han hade hyrt ut till henne hade han inte fått ta betalt för räntan. \n\nVad är den stora skillnaden mellan det, och att ta ut en skälig avkastningsränta, vilket är helt lagligt?\n\nFaktum är att evigt lagen har kan rätt att begära mer pengar om hon slutar ses som inneboende som betalar hyra. Blir det bättre för henne då?"
   }, {
     "Username" : "differenthings",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:08:21",
     "Body" : "Att dela på ägarskapet är naturligtvis ett alternativ. Utöver det kan man lägga upp kostnaden på tusen olika sätt så länge alla är med på det men om målet är att det ska bli 50/50 rättvist så är det bisarrt att tro att halva avgiften räcker. Att OP haft kostnaden ändå är ju ett nytt kreativt sätt att motivera det hela som naturligtvis går åt båda hållen - vad skulle flickvännen betala om hon INTE bodde hos OP? Tänker du likadant om OP skulle hyra ut ett rum? Att endast halva avgiften är nog som hyra.\n\nVad sker om lägenheten är avgiftsfri (som är fallet i flera föreningar med bra läge) och lånet är 10 miljoner? Är det rättvist att ena parten betala hela den höga kostnaden och tar hela risken då medan den andre bor gratis (de hade ju haft kostnaden ändå)."
   }, {
     "Username" : "Resaren",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:49:31",
     "Body" : "Det stämmer att räntan är priset banken kräver för att täcka deras risk. Men risken för låntagaren ligger i skulden, dvs lånekapitalet, och hur det är investerat. OPs partner är ingen låntagare och bär således inte den väsentliga delen av risken. Hon bär en liten del av risken i form av risken för ränteökning som kan omvandlas till en hyresökning, eller risken att tvingas flytta om OP inte kan betala tillbaka bolånet. Men detta är jämförbart med den (låga) risknivå en vanlig hyresgäst tar, och de förväntar sig inte en del av bostadens värdeökning som kompensation. Den dealen finns inte på marknaden, för att det är en dålig deal för bostadsägaren och går inte ihop matematiskt."
   }, {
     "Username" : "MidnightSnackyZnack",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:26:36",
     "Body" : "Ursäkta mig men det är OPs tjej som förväntar sig vinst på hans affär och han verkar inte OK med det så jag bara lyfter båda sidorna på myntet."
   }, {
     "Username" : "ResearcherOk7685",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:24:14",
     "Body" : "Med den rationalen borde hon köpa in sig i lägenheten så att hon kan ta del även om den går med förlust. Som det är nu låter det som om hon vill betala bara 12.5% av den faktiska kostnaden, utan att ta någon risk. Det är inte särskilt schysst och solidariskt av henne i ett samboförhållande."
   }, {
     "Username" : "MidnightSnackyZnack",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:23:39",
     "Body" : "Så de betalar inte räntor för att de är vinstdrivande eller vad menar du? Jag har inte någonstans påstått att han ska tjäna pengar på henne. \n\nMen det går på båda hållen. Man kan också sätta saker i lite perspektiv, 4k kontra vadå, 8k för några kvadrat att bo på själv? Bara tänker fritt nu men det hade ju låtit henne spara mer än om hon hade betalat 6+ i månaden om hon bott i egen lägenhet. Pengar hon hade kunnat lägga undan och spara, börsen etc. OP sitter i en bra sits (bostadsmässigt) och hon förväntar sig att ta del av det oavsett vad.\n\nSom jag skrev tidigare, jag lyfter bara båda sidorna på myntet. Personligen så hade jag värderar bostaden och låtit henne köpa in sig i bostaden om hon velat enligt värderingen de kommit överens om.\n\n\nAlternativt sålt bostaden illa kvickt och betalat alla kostnader inklusive hennes del av avgiften för att slippa eventuella tjafs i framtiden, sen köpt tillsammans.\n\nKomplicerade saker tycker jag. Tro det eller ej men jag tycker också att man ska kunna dela på allt rakt upp och ner osv osv men verkligenheten är inte alltid så och känslor gör ju allting mer komplicerat så klart."
   }, {
     "Username" : "ResearcherOk7685",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:28:03",
     "Body" : "Det är inte vinstdrivande när hon betalar hälften av den faktiska boendekostnaden.  \nHon vill betala 1000 spänn av den faktiska boendekostnaden på 8000, du tycker väl för fan inte på allvar att det är ett schysst beteende och så man behandlar någon man älskar?"
   }, {
     "Username" : "tthompa",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:30:24",
     "Body" : "Ja det har du faktiskt rätt i, är villig att ändra min åsikt! Då anser jag att räntan bör delas procentuellt enligt löneskillnaderna minus det 30% avdragsgiltiga."
   }, {
     "Username" : "Quiet_Fix9589",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:16:42",
     "Body" : "Utifrån en schablon ja. Inte räntan i sig."
   }, {
     "Username" : "Glittering_Water3645",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:23:43",
     "Body" : "Amorteringen tycker jag låninnehavaren ska stå till 100% för. Det är ju ett belopp som betalar av den privata skulden och blir så pass en betalning till sig själv. Att någon annan skulle betala den kostnaden anser jag vara orimligt.\n\nSen kan man inkludera räntekostnaden i delad boendekostnad tillsammans med bostadsrättsavgift, absolut. Det är lite av en gråzon om trådskaparen vill äga boendet till 100%.\n\nJag hade åtminstone krävt hälften av bostadsrättavgiften, matavgifter, reparationer, elavgiften, VVS-avgifter, hemförsäkringen och abonnemang båda nyttjar även då jag äger boendet till 100%."
   }, {
     "Username" : "already_tomorrow",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:07:41",
     "Body" : "Inte på hans affär som hänt tidigare, utan på investeringen som händer varje månad. Du måste ta i beräkning att hon kommer gå miste om värdeökningen i en egen bostad under den tid som de är meningen att vara ett par för resten av livet."
   }, {
     "Username" : "hestenbobo",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:30:07",
     "Body" : "Inte är direkt bundet till låntagarens räntekostnad men en högre kostnad än den faktiska räntekostnaden i de allra flesta fall. I och med att OP inte amorterar vet vi att belåningsgraden är under 50% så för att kapitalkostnaden ska vara mindre än räntekostnaden krävs att bostad tappat väldigt mycket i värde."
   }, {
     "Username" : "MidnightSnackyZnack",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:26:17",
     "Body" : "Ursäkta mig igen men ränta tycker jag mer tillhör boendekostnad än investering även om jag inte tycker du har helt fel."
   } ]

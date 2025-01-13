@@ -1,14 +1,14 @@
 {
-  "Id" : 50454,
+  "Id" : 50425,
   "Community_name" : "Podgorica",
   "Username" : "edgalimov",
   "Post_body" : "Anyone up for playing chess offline?",
   "Timestamp" : "2024-11-23 11:29:18",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "crazzywak",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-11-23 11:29:18",
     "Body" : "I sent you a PM :)"
   } ]

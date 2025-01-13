@@ -1,14 +1,14 @@
 {
-  "Id" : 50299,
+  "Id" : 50279,
   "Community_name" : "Legends",
   "Username" : "Tie1426_extraaccc",
   "Post_body" : "Absolute legend",
   "Timestamp" : "2022-01-10 08:31:46",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "ProScoutMain",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2022-01-10 08:31:46",
     "Body" : "When your gangster friend comes back from \"Vacation\""
   } ]

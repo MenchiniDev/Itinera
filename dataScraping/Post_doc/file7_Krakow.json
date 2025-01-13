@@ -1,19 +1,19 @@
 {
-  "Id" : 50238,
+  "Id" : 50222,
   "Community_name" : "Krakow",
   "Username" : "Gamebyter",
   "Post_body" : "Po burzliwych spotkaniach z mieszkańcami w sprawie Strefy Czystego Transportu urzędnicy zdecydowali o wydłużeniu konsultacji",
   "Timestamp" : "2024-12-22 17:53:38",
   "Num_comment" : 2,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "Snejks",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 21:17:35",
     "Body" : "Tom jest kurwa kpina nie konsultacje. Pierwsze dwa tygodnie konsultowano chuj wie co, jak już opublikowali projekt uchwały to dokręcili śrubę aż suty bolą a teraz jeszcze wydłużają konsultacje. Ciekawe co wyjdzie z tych ankiet co nawet captchy nie mają żeby weryfikować boty."
   }, {
     "Username" : "zRywii",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 17:53:38",
     "Body" : "To je są strefy czystego transportu tylko wykluczenia biednych posiadaczy aut. Możesz wjechać Land Roverem co pali 20litorw ale starszym Clio już nie."
   } ]

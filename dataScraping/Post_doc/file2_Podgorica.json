@@ -1,29 +1,29 @@
 {
-  "Id" : 50107,
+  "Id" : 50100,
   "Community_name" : "Podgorica",
   "Username" : "cymroircarn",
   "Post_body" : "Alternative things to do in Podgorica ",
   "Timestamp" : "2024-08-20 19:10:35",
   "Num_comment" : 4,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "mrbrightside-987",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-08-20 19:10:35",
     "Body" : "Go to cafe sport bar at 16:00 and watch football game and bet on games 🙃 , see how they know all lower leagues teams from National south or north"
   }, {
     "Username" : "cymroircarn",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-08-20 19:25:29",
     "Body" : "As in they bet on UK games?"
   }, {
     "Username" : "mrbrightside-987",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-08-20 20:19:32",
     "Body" : "It is small tradition for us to bet on  UK teams as they start 16 ( 3 english time) to bet on “little englishmens” over 0,5 goal in first half 😂 make parley 10+ matches and hope for win \n\nDoncaster, Dulwich and Hamlet, York, Yeovil, Darlington, Dag and Red, Rochdale, Grimsby, … are some of teams that been followed every week from Montenegrins 😆 \n\nIf dont believe go for coffe F cafe on Roman Square  to see the people 😆"
   }, {
     "Username" : "cymroircarn",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-08-20 23:56:39",
     "Body" : "This is hilarious, thank you for this"
   } ]

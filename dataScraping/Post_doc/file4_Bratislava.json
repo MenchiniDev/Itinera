@@ -1,14 +1,14 @@
 {
-  "Id" : 50066,
+  "Id" : 50061,
   "Community_name" : "Bratislava",
   "Username" : "knedlik_gulaty",
   "Post_body" : "telocvičňa/fitko s tyčami na šplhanie",
   "Timestamp" : "2024-12-22 11:27:10",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "nejakyandrej",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 11:27:10",
     "Body" : "Toto by sa dalo na TJ Sokol ale neviem ako tam je pristup pre verejnost, uz som dlho odtial prec. Alebo v zapasnickej hale mladost."
   } ]

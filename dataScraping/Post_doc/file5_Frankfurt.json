@@ -1,64 +1,64 @@
 {
-  "Id" : 50157,
+  "Id" : 50147,
   "Community_name" : "Frankfurt",
   "Username" : "RealGrapefruit8930",
   "Post_body" : "Craft beer Frankfurt ",
   "Timestamp" : "2024-12-23 14:03:27",
   "Num_comment" : 11,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "RichardXV",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:16:19",
     "Body" : "[https://g.co/kgs/p1T8Pnr](https://g.co/kgs/p1T8Pnr)\n\n[https://g.co/kgs/hy5AyCS](https://g.co/kgs/hy5AyCS)\n\nTap House and Naiv."
   }, {
     "Username" : "minimalniemand",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:29:17",
     "Body" : "I love the Näiv. Great view and nice terrace during summer time. Feels very urban. Not a huge, but weekly (I believe?) changing selection of craft beers"
   }, {
     "Username" : "Clockwork_J",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:45:35",
     "Body" : "Top adresses: Naïv and Tap House.\nHidden gem: Fox and Hound English Pub.\nAvoid: Brewdog."
   }, {
     "Username" : "AutoModerator",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:03:27",
     "Body" : "Hello /u/RealGrapefruit8930, thank you for posting a question. Have you checked [our wiki](/r/frankfurt/wiki/index)  or the [stickied FAQ thread at the top of our subreddit](https://www.reddit.com/r/frankfurt/comments/otfb7a/visitors_and_newcomers_to_frankfurt_please_post/?utm_source=share&utm_medium=web2x&context=3)?\nWhen you have a satisfactory answer, please change the flair to \"Solved\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*"
   }, {
     "Username" : "apfelwein19",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:53:03",
     "Body" : "Also check out Wir Komplizen"
   }, {
     "Username" : "thousandislandstare",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 15:27:25",
     "Body" : "I'm going to be honest, \"craft beer\" is mostly not very good in Germany. You will probably not find any kind of IPA that is anything better than \"ok.\" That being said, there are small local German brewers who make some of the best Helles in the entire world right in the Frankfurt area. I recommend you go to Drinksmith in Sachsenhausen because there will you have both styles available in one place: they have a couple IPAs on tap and they have Getränkeschmied Schmidt Helles on tap."
   }, {
     "Username" : "H4nZ9987",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:21:03",
     "Body" : "Brew dog in Bahnhofsviertel on kaiserstraße carries quite a few. Over 35 on draft on Rotation."
   }, {
     "Username" : "apfelwein19",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:50:09",
     "Body" : "but avoid the food in Fox and Hound 😂"
   }, {
     "Username" : "Leet_skilz",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:39:13",
     "Body" : "I cannot recommend this. The service is the worst one i have ever seen."
   }, {
     "Username" : "JuriOrlov",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:48:25",
     "Body" : "They’ve permanently closed their doors this Saturday (December 21st / 2024)."
   }, {
     "Username" : "Leet_skilz",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:53:40",
     "Body" : "Its probably for the better"
   } ]

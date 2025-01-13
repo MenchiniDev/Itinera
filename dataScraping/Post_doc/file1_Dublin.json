@@ -1,49 +1,49 @@
 {
-  "Id" : 50027,
+  "Id" : 50024,
   "Community_name" : "Dublin",
   "Username" : "MummysSpecialBoy",
   "Post_body" : "Best buffet in the city centre?",
   "Timestamp" : "2024-12-23 14:08:05",
   "Num_comment" : 8,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "JoulSauron",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:08:05",
     "Body" : "What type of buffet? There's Wing's World Cuisine near The Church and Nando's by Mary St."
   }, {
     "Username" : "CommunicationIll5583",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:27:52",
     "Body" : "one at the top of stephens green shopping centre?"
   }, {
     "Username" : "MummysSpecialBoy",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:14:25",
     "Body" : "Any buffet would do me, although I do really like a Chinese. What's the best in your opinion?"
   }, {
     "Username" : "MummysSpecialBoy",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:42:20",
     "Body" : "Dyk what kind of buffet it is?"
   }, {
     "Username" : "JoulSauron",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:18:17",
     "Body" : "I actually don't know any, it's been a long time since I last went to one. I heard good things about Wing's, they have a bit of every cuisine.\n\nFortune Terrace is a Chinese buffet in O'Connell St.\n\nThe Mongolian Barbeque in Temple bar is another classic that does all you can eat, a classic!"
   }, {
     "Username" : "rocker_bunny",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:43:59",
     "Body" : "Chinese"
   }, {
     "Username" : "MummysSpecialBoy",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:24:42",
     "Body" : "Thank you!"
   }, {
     "Username" : "MummysSpecialBoy",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:47:39",
     "Body" : "Legend thank u"
   } ]

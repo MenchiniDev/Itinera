@@ -1,39 +1,39 @@
 {
-  "Id" : 50286,
+  "Id" : 50267,
   "Community_name" : "Cologne",
   "Username" : "Tri_fester",
   "Post_body" : "1946: Margret Zimmermann balancing on a tightrope over the ruins of Cologne in which was then in the British occupation zone in Germany [1600x1178]",
   "Timestamp" : "2024-12-23 00:18:25",
   "Num_comment" : 6,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "A-sop-D",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 06:35:17",
     "Body" : "1946: Margret Zimmermann balancing on a tightrope over the ruins of Cologne in which was then in the British occupation zone in Germany [1600x1178]"
   }, {
     "Username" : "genwawi",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:23:06",
     "Body" : "Y tho?"
   }, {
     "Username" : "Blaueveilchen",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 00:18:25",
     "Body" : "This must be a fake picture...the tightrope is going nowhere. The tightrope is not attached to anything in one direction."
   }, {
     "Username" : "A7Xdoneright",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:52:40",
     "Body" : "1946: Margret Zimmermann balancing on a tightrope over the ruins of Cologne in which was then in the British occupation zone in Germany [1600x1178]"
   }, {
     "Username" : "Tri_fester",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 00:22:15",
     "Body" : "https://www.ksta.de/koeln/historisches-koeln-1946-wer-war-die-seiltaenzerin-vom-heumarkt-194536"
   }, {
     "Username" : "A7Xdoneright",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:54:07",
     "Body" : "It is a very thin line which makes it very light so I assume it simply floats in the air. Case closed."
   } ]

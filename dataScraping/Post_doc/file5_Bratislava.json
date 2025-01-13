@@ -1,69 +1,69 @@
 {
-  "Id" : 50093,
+  "Id" : 50087,
   "Community_name" : "Bratislava",
   "Username" : "Nikosmp88",
   "Post_body" : "Central bus station nivy",
   "Timestamp" : "2024-12-20 21:12:50",
   "Num_comment" : 12,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "xaxa9551",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-20 21:12:50",
     "Body" : "Search for “nivy centrum bratislava”. Bus station is part of shopping passage. It should be easy to find once you get inside shopping centre."
   }, {
     "Username" : "LovelehInnit",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-20 21:16:49",
     "Body" : "At -1. floor of Nivy centrum.\n\n[Nivy Bus Station – arrivals and departures](https://nivy.com/en/buses)"
   }, {
     "Username" : "sendvo",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-20 22:49:44",
     "Body" : "do you know how to use Google maps?"
   }, {
     "Username" : "Nikosmp88",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 12:20:11",
     "Body" : "Any suggestions for a 24h mini market??"
   }, {
     "Username" : "Nikosmp88",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-20 23:35:42",
     "Body" : "Its in the eurovea or close to zara?"
   }, {
     "Username" : "Nikosmp88",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-20 23:36:06",
     "Body" : "Yeah bro, Its in the eurovea or close to zara?"
   }, {
     "Username" : "LovelehInnit",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 15:41:27",
     "Body" : "[Prevádzky - Potraviny Malina](https://www.malina.sk/)"
   }, {
     "Username" : "PizzaWarlock",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-20 23:44:30",
     "Body" : "Eurovea is another shopping mall about 5 min away, and zara is a shop..."
   }, {
     "Username" : "miskosvk80",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-21 11:16:56",
     "Body" : "You must be:\n\na) joking\n\nb) trolling\n\nc) just plain stupid\n\nsorry :)"
   }, {
     "Username" : "Nikosmp88",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-20 23:51:15",
     "Body" : "Yeah bro i mean the station is there where there is an area with zara, mc donalds, kfc, lidl? In the mlynske nivy?"
   }, {
     "Username" : "SevereSpot7969",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-21 17:03:51",
     "Body" : "d) born yesterday"
   }, {
     "Username" : "PizzaWarlock",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-20 23:54:31",
     "Body" : "Yes, that's why it's called bus station Nivy"
   } ]

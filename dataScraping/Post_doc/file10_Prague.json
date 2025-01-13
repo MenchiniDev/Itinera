@@ -1,39 +1,39 @@
 {
-  "Id" : 50377,
+  "Id" : 50353,
   "Community_name" : "Prague",
   "Username" : "Vegetable-Ad-8900",
   "Post_body" : "Passport issue",
   "Timestamp" : "2024-12-23 08:33:41",
   "Num_comment" : 6,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "No_Historian_But",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 08:33:41",
     "Body" : "You need to contact your embassy/consulate immediately.\n\nAddress:\n\nVaclavske namesti 1306/55\n\n110 00 Prague 1\n\nCzech Republic\n\nTelephone:\n\n+420 224 313 176\n\n+420 224 315 064\n\nE-mail: embachile@embachile.cz\n\npraga@consulado.gob.cl\n\nWeb:\nhttps://chile.gob.cl/republica-checa/\n\nOpening hours:\nMo-Fri: 09:00-14:00"
   }, {
     "Username" : "Super_Novice56",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 08:44:19",
     "Body" : "How would people on the internet be able to help you?\n\nYou probably need to report it as stolen to the police and maybe phone Flixbus or see if you can find an office of theirs to see if they can ask the driver if it's been handed in."
   }, {
     "Username" : "ciceroprague",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:05:51",
     "Body" : "[https://help.flixbus.com/s/contact-us?language=en\\_IE](https://help.flixbus.com/s/contact-us?language=en_IE)  \nFlix bus has lost and found form. If you think you just left it behind."
   }, {
     "Username" : "Vegetable-Ad-8900",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 08:40:07",
     "Body" : "Yep, I already did, but I was hoping to find my lost passport."
   }, {
     "Username" : "RewindRobin",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 08:47:10",
     "Body" : "For the stolen stuff all you can do is file a police report and then just get an emergency passport from the embassy"
   }, {
     "Username" : "vikentii_krapka",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:09:55",
     "Body" : "This is the answer. Finding your passport probably not gonna happen but your embassy should provide you with a temporary identification"
   } ]

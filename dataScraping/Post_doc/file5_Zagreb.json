@@ -1,54 +1,54 @@
 {
-  "Id" : 50098,
+  "Id" : 50092,
   "Community_name" : "Zagreb",
   "Username" : "Mysticgal132",
   "Post_body" : "DRUŽENJA ZAGREB",
   "Timestamp" : "2024-12-22 23:37:44",
   "Num_comment" : 9,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "IOnlyReadTitlesBro",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-22 23:37:44",
     "Body" : "Ima, ali nitko ne želi ići van s drugim redditovcima"
   }, {
     "Username" : "ItsBitly",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 07:39:25",
     "Body" : "Ima. Par outa sam i htio neku ekipu s reddita pozvat jer su trazili ekipu isto tak al se nikad ne sjetim, a i sad ce to bit malo pauza do iza nove godine."
   }, {
     "Username" : "BlackCherry6",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:03:08",
     "Body" : "Ima, javi se :)"
   }, {
     "Username" : "The_Mecena",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:33:08",
     "Body" : "Evo ja sam ljud u ranim 30ima koji je skoro uvijek za izlaske\n\nVećinom izlazim na 80s,house,techno pa se javi ako izlaziš na takvu muziku 😁"
   }, {
     "Username" : "Fair-Branch6135",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:24:49",
     "Body" : "to ti je navek bilo tak. U grupi ljudi imaš lidere koji organiziraju druženja i izlaske i imaš ovce koje se nikad neće pokrenuti same od sebe."
   }, {
     "Username" : "The_Mecena",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:34:48",
     "Body" : "Ja želim i uvijek sam izašao van s ljudima s Reddita koji su pristali na susret uživo 😅"
   }, {
     "Username" : "IOnlyReadTitlesBro",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 11:46:41",
     "Body" : "S kim god sam se uživo našao s Reddita, bondali smo se tako da smo pričali koliko su ascoijalni ljudi s Reddita."
   }, {
     "Username" : "The_Mecena",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:22:31",
     "Body" : "Super za tebe 😅\n\nJa sam više pričao o klasičnim temama o kojima sam znao kaj reći 😅"
   }, {
     "Username" : "IOnlyReadTitlesBro",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:52:23",
     "Body" : "Kaj kažeš na Dinamo jučer, a?\n\nBuš išel na prosvjed?\n\nDi ćeš za Novu?"
   } ]

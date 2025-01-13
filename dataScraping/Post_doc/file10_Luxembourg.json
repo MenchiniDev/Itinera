@@ -1,44 +1,44 @@
 {
-  "Id" : 50452,
+  "Id" : 50423,
   "Community_name" : "Luxembourg",
   "Username" : "Queasy_Engineering_2",
   "Post_body" : "Luxair Flight 9642 will be featured in Season 25",
   "Timestamp" : "2024-12-23 06:29:49",
   "Num_comment" : 7,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "pa79",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 06:29:49",
     "Body" : "Season 25 of what?"
   }, {
     "Username" : "MizmoDLX",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:39:24",
     "Body" : "Wish mentor pilot would make an episode about it. Anyways like his content. \n\n\nDon't know this show"
   }, {
     "Username" : "anonymustaccio",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 07:26:44",
     "Body" : "Air crash investigation, a Canadian show apparently."
   }, {
     "Username" : "Landaro",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 06:53:20",
     "Body" : "The Twilight Zone ?"
   }, {
     "Username" : "NetInfused",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 12:57:52",
     "Body" : "Came here late to say the same thing :) Mentour Pilot is one of my favorites. He dives technically into what caused the accident and he's also very respectful."
   }, {
     "Username" : "Cautious_Use_7442",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 08:11:31",
     "Body" : "Some airline even had a few episode on their entertainment system. A bit weird to offer that to passengers while they hurdle through the air at +900 kph "
   }, {
     "Username" : "dick_for_rent",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:30:36",
     "Body" : "This is my go-to series to watch while waiting for my boarding to start."
   } ]

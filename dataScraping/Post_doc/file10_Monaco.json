@@ -1,29 +1,29 @@
 {
-  "Id" : 50418,
+  "Id" : 50391,
   "Community_name" : "Monaco",
   "Username" : "Weird_Ad_6445",
   "Post_body" : "Do most hotels close during the winter months?",
   "Timestamp" : "2024-12-23 09:53:02",
   "Num_comment" : 4,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "issoequeerabom",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 09:53:02",
     "Body" : "There are indeed some seasonal hotel, but there are plenty of options open. Depending on your budget."
   }, {
     "Username" : "Vast_Decision3680",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 10:49:30",
     "Body" : "Maybourne Riviera is open all year round and so is Cap d'Estel. Hotels that close for the winter (like MC Beach Hotel) will already be closed by now, usually they close in October/November. \n\nI suggest Ceto (the Maybourne Riviera restaurant) for a good restaurant with a view, and I suggest to go for lunch because it's much nicer. You can also go to Mirazur which is owned by the same chef. \n\nThere is also the classic Chevre d'Or, food is kind of classic French and not my favourite for that kind of place, but the views are stunning too.\n\nThe Grill in Hotel de Paris has a beautiful view too, especially form the side terrace where you have the private dining room."
   }, {
     "Username" : "Weird_Ad_6445",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 13:48:53",
     "Body" : "It says the Maybourne Riviera is closed January 20 until June on its website. Also no booking availability for dining or rooms on Cap Estel. Thank you for the alternative suggestions! "
   }, {
     "Username" : "Vast_Decision3680",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-12-23 14:17:14",
     "Body" : "Well, I heard they have some issues with the municipality because they built stuff not according to regulations so maybe they are closing for some renovation. Otherwise there's the risk of permanent closure."
   } ]

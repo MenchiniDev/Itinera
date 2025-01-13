@@ -1,14 +1,14 @@
 {
-  "Id" : 50367,
+  "Id" : 50343,
   "Community_name" : "Tallinn",
   "Username" : "Nor_Cal_Native",
   "Post_body" : "Visiting for New Years!",
   "Timestamp" : "2021-12-23 01:21:03",
   "Num_comment" : 1,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "aregularhumanperson",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2021-12-23 01:21:03",
     "Body" : "Subs dead try r/eesti"
   } ]

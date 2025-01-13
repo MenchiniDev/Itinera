@@ -26,18 +26,17 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 
 public class PostsCleaning {
 
-    // Mappa per tenere traccia dei contatori per ciascuna community
     private static final Map<String, Integer> communityFileCounter = new HashMap<>();
-    private static final Set<String> uniqueUsernames = new HashSet<>(); // Set per gli username univoci
-    private static final AtomicInteger globalIdCounter = new AtomicInteger(50000); // Contatore globale per ID
+    private static final Set<String> uniqueUsernames = new HashSet<>(); 
+    private static final AtomicInteger globalIdCounter = new AtomicInteger(50000); 
+
+    private static final Set<String> ignoredPatterns = Set.of("england", "FCInterMilan", "lombardia");
 
     public static void main(String[] args) {
-        // Percorso assoluto della cartella con i file JSON originali
-        String sourceFolderPath = "/Users/rossana/LargeScale/itinera/dataScraping/posts2";
+        String sourceFolderPath = "itinera/dataScraping/posts2";
         String outputFolderPath = sourceFolderPath + File.separator + "../Post_doc";
         String usernamesFilePath = outputFolderPath + File.separator + "../usernames.txt";
 
-        // Creare la cartella di output se non esiste
         File outputFolder = new File(outputFolderPath);
         if (!outputFolder.exists()) {
             outputFolder.mkdirs();
@@ -60,34 +59,35 @@ public class PostsCleaning {
             System.out.println("La cartella specificata non contiene file JSON.");
         }
 
-        // Scrivere gli username univoci nel file usernames.txt
         saveUsernamesToFile(usernamesFilePath);
 
-        // Stampare l'ultimo ID utilizzato
         System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
     }
 
     private static void transformJsonFile(File jsonFile, String outputFolderPath) {
+        String fileName = jsonFile.getName();
+
+        if (ignoredPatterns.stream().anyMatch(fileName::contains)) {
+            System.out.println("File ignorato: " + fileName);
+            return;
+        }
+
         try {
             JSONParser parser = new JSONParser();
             FileReader reader = new FileReader(jsonFile);
             JSONObject originalJson = (JSONObject) parser.parse(reader);
             reader.close();
-    
-            // Usare LinkedHashMap per mantenere l'ordine degli attributi
+
             LinkedHashMap<String, Object> transformedJson = new LinkedHashMap<>();
-    
-            // 📝 Estrazione dei campi principali
-            String communityName = extractCommunityNameFromFileName(jsonFile.getName()); // Estratto dal nome file
+
+            String communityName = extractCommunityNameFromFileName(fileName);
             String user = (String) originalJson.get("post_author");
-            String postBody = (String) originalJson.get("post_title"); // Rinominato post_title in post_body
-    
-            // Aggiungere username del post al set
+            String postBody = (String) originalJson.get("post_title");
+
             if (user != null) {
                 uniqueUsernames.add(user);
             }
-    
-            // 🕒 Gestione timestamp
+
             long timestamp = ((JSONArray) originalJson.get("comments")).stream()
                     .filter(comment -> comment instanceof JSONObject)
                     .mapToLong(comment -> {
@@ -100,63 +100,59 @@ public class PostsCleaning {
                     })
                     .min()
                     .orElse(System.currentTimeMillis());
-    
-            String formattedTimestamp = convertTimestamp(timestamp);
+
+            String formattedTimestamp = convertAndCorrectTimestamp(timestamp);
             int numComments = ((JSONArray) originalJson.get("comments")).size();
-    
-            // 📝 Aggiunta dei campi principali nell'ordine desiderato
-            transformedJson.put("Id", globalIdCounter.getAndIncrement()); // Aggiunta ID univoco
+
+            transformedJson.put("Id", globalIdCounter.getAndIncrement());
             transformedJson.put("Community_name", communityName);
             transformedJson.put("Username", user);
-            transformedJson.put("Post_body", postBody); // Rinominato
+            transformedJson.put("Post_body", postBody);
             transformedJson.put("Timestamp", formattedTimestamp);
             transformedJson.put("Num_comment", numComments);
-            transformedJson.put("reported", false);
-    
-            // 📝 Trasformazione dei commenti
+            transformedJson.put("reported_post", false);
+
             JSONArray transformedComments = new JSONArray();
             JSONArray originalComments = (JSONArray) originalJson.get("comments");
-    
+
             for (Object obj : originalComments) {
                 if (obj instanceof JSONObject) {
                     JSONObject originalComment = (JSONObject) obj;
                     JSONObject transformedComment = new JSONObject();
-    
+
                     Object commentTime = originalComment.get("created_utc");
                     long commentTimestamp = (commentTime instanceof Number) ? ((Number) commentTime).longValue() : System.currentTimeMillis();
-    
+
                     String commentUser = (String) originalComment.get("author");
                     if (commentUser != null) {
-                        uniqueUsernames.add(commentUser); // Aggiungere username del commento
+                        uniqueUsernames.add(commentUser);
                     }
-    
+
                     transformedComment.put("Username", commentUser);
-                    transformedComment.put("Timestamp", convertTimestamp(commentTimestamp));
+                    transformedComment.put("Timestamp", convertAndCorrectTimestamp(commentTimestamp));
                     transformedComment.put("Body", originalComment.get("body"));
-                    transformedComment.put("reported", false);
-    
+                    transformedComment.put("reported_comment", false);
+
                     transformedComments.add(transformedComment);
                 }
             }
-    
-            // 📝 Aggiunta dei commenti come ultimo attributo
+
             transformedJson.put("Commenti", transformedComments);
-    
-            // 📁 Naming dei file di output
+
             int counter = communityFileCounter.getOrDefault(communityName, 0) + 1;
             communityFileCounter.put(communityName, counter);
-    
+
             String outputFileName = String.format("file%d_%s.json", counter, communityName);
             ObjectMapper objectMapper = new ObjectMapper();
             objectMapper.enable(SerializationFeature.INDENT_OUTPUT);
-    
+
             String outputFilePath = outputFolderPath + File.separator + outputFileName;
             FileWriter writer = new FileWriter(outputFilePath);
             objectMapper.writeValue(writer, transformedJson);
             writer.close();
-    
-            System.out.println("File trasformato con successo: " + jsonFile.getName() + " → " + outputFilePath);
-    
+
+            System.out.println("File trasformato con successo: " + fileName + " → " + outputFilePath);
+
         } catch (IOException | ParseException e) {
             System.err.println("Errore durante la modifica del file: " + jsonFile.getName());
             e.printStackTrace();
@@ -167,7 +163,7 @@ public class PostsCleaning {
         File usernamesFile = new File(filePath);
         if (usernamesFile.exists()) {
             System.out.println("Il file usernames.txt esiste già. Non verrà sovrascritto.");
-            return; // Evita di sovrascrivere il file
+            return;
         }
 
         try (FileWriter writer = new FileWriter(usernamesFile)) {
@@ -190,25 +186,30 @@ public class PostsCleaning {
 
     private static String extractCommunityNameFromFileName(String fileName) {
         try {
-            // Dividi il nome del file con "_" e prendi il secondo elemento (indice 1)
             String[] parts = fileName.split("_");
             if (parts.length > 2) {
-                return capitalizeFirstLetter(parts[2]); // Nome della community con la prima lettera maiuscola
+                return capitalizeFirstLetter(parts[2]);
             }
         } catch (Exception e) {
             System.err.println("Errore durante l'estrazione della community dal nome file: " + fileName);
         }
-        return "Unknown"; // Restituisci "Unknown" come fallback
+        return "Unknown";
     }
 
-    private static String convertTimestamp(long timestamp) {
+    private static String convertAndCorrectTimestamp(long timestamp) {
         try {
             Instant instant = Instant.ofEpochSecond(timestamp);
             LocalDateTime dateTime = LocalDateTime.ofInstant(instant, ZoneId.systemDefault());
+
+            // Correggi l'anno se è errato
+            if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
+                dateTime = dateTime.withYear(2024);
+            }
+
             return dateTime.format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
         } catch (Exception e) {
             System.err.println("Errore durante la conversione del timestamp: " + timestamp);
-            return "Invalid Timestamp";
+            return "2024-01-01 00:00:00"; // Valore di fallback
         }
     }
 }

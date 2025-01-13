@@ -1,44 +1,44 @@
 {
-  "Id" : 50338,
+  "Id" : 50316,
   "Community_name" : "Helsinki",
   "Username" : "apinanaivot",
   "Post_body" : "/r/Helsinki is going private on 12th of June as protest against reddit API becoming inaccessible to third party app developers",
   "Timestamp" : "2023-06-04 20:00:38",
   "Num_comment" : 7,
-  "reported" : false,
+  "reported_post" : false,
   "Commenti" : [ {
     "Username" : "StuntCockofGilead",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2023-06-04 20:00:38",
     "Body" : "I support the blackout.✊"
   }, {
     "Username" : "RayneYoruka",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2023-06-04 20:03:46",
     "Body" : "Going all in!"
   }, {
     "Username" : "tushkeissi_bro",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2023-07-09 00:48:59",
     "Body" : "Why Helsinki, r/Suomi if fine, but do not make Helsinki private again!"
   }, {
     "Username" : "pelle_hermanni",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2023-08-27 12:39:47",
     "Body" : "There's always r/Finland , besides this country is so small that all the stuff can be fit into one subreddit. :-D"
   }, {
     "Username" : "SmthRoskaa2",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2024-06-13 12:10:25",
     "Body" : "eilen?"
   }, {
     "Username" : "EduardoSpiritToes",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2023-08-17 06:12:23",
     "Body" : "Omg wtf dudes..."
   }, {
     "Username" : "None",
-    "reported" : false,
+    "reported_comment" : false,
     "Timestamp" : "2023-09-15 14:39:46",
     "Body" : "aiheeseen liittyy: https://www.reddit.com/r/Suomi/comments/16j7qpg/rarkisuomi_on_n%C3%A4ht%C3%A4v%C3%A4sti_k%C3%A4yt%C3%A4nn%C3%B6ss%C3%A4_suljettu/"
   } ]
