@@ -201,7 +201,7 @@ public class PostsCleaning {
             Instant instant = Instant.ofEpochSecond(timestamp);
             LocalDateTime dateTime = LocalDateTime.ofInstant(instant, ZoneId.systemDefault());
 
-            // Correggi l'anno se è errato
+            // Corregge l'anno se è errato
             if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
                 dateTime = dateTime.withYear(2024);
             }
