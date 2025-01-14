@@ -24,7 +24,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 
 public class CommunityBuilder {
 
-    private static final AtomicInteger globalIdCounter = new AtomicInteger(50436); // Contatore globale per ID
+    private static final AtomicInteger globalIdCounter = new AtomicInteger(200436); // Contatore globale per ID
     private static final DateTimeFormatter TIMESTAMP_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
     public static void main(String[] args) {
