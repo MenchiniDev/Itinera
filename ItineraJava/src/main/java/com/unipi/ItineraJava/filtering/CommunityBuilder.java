@@ -24,7 +24,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 
 public class CommunityBuilder {
 
-    private static final AtomicInteger globalIdCounter = new AtomicInteger(50436); // Contatore globale per ID
+    private static final AtomicInteger globalIdCounter = new AtomicInteger(200436); // Contatore globale per ID
     private static final DateTimeFormatter TIMESTAMP_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
     public static void main(String[] args) {
@@ -40,7 +40,7 @@ public class CommunityBuilder {
             return;
         }
 
-        // Creare la cartella di output se non esiste
+        // Crea la cartella di output se non esiste
         File outputFolder = new File(outputFolderPath);
         if (!outputFolder.exists()) {
             outputFolder.mkdirs();
@@ -57,7 +57,7 @@ public class CommunityBuilder {
                 JSONObject postJson = (JSONObject) parser.parse(reader);
                 reader.close();
 
-                // Estrai il nome della città e della community dal nome del file
+                // Estrae il nome della città e della community dal nome del file
                 String fileName = file.getName();
                 String communityName = extractCommunityNameFromFileName(fileName);
                 String cityName = getCityNameFromCommunityName(communityName);
@@ -65,10 +65,10 @@ public class CommunityBuilder {
                 // Inizializza la lista di post per la community se non esiste
                 communityPostsMap.putIfAbsent(communityName, new ArrayList<>());
 
-                // Correggi il timestamp del post
+                // Corregge il timestamp del post
                 postJson.put("Timestamp", correctTimestamp((String) postJson.get("Timestamp")));
 
-                // Aggiungi il post alla lista della community
+                // Aggiunge il post alla lista della community
                 communityPostsMap.get(communityName).add(postJson);
 
             } catch (IOException | ParseException e) {
@@ -91,7 +91,7 @@ public class CommunityBuilder {
             String cityName = getCityNameFromCommunityName(communityName);
             JSONObject community = createCommunityDocument(cityName, communityName);
 
-            // Aggiungi i due post più vecchi alla community
+            // Aggiunge i due post più vecchi alla community
             JSONArray postsArray = (JSONArray) community.get("Post");
             for (int i = 0; i < Math.min(2, posts.size()); i++) {
                 JSONObject post = createPostDocument(posts.get(i));
@@ -112,14 +112,14 @@ public class CommunityBuilder {
         // Salva ogni community in un file separato
         saveCommunityDocuments(communityMap, outputFolderPath);
 
-        // Stampare l'ultimo ID generato
+        // Stampa l'ultimo ID generato
         System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
     }
 
     private static String subtractOneHour(String timestamp) {
         try {
             LocalDateTime dateTime = LocalDateTime.parse(timestamp, TIMESTAMP_FORMATTER);
-            // Sottrai un'ora
+            // Sottrae un'ora
             dateTime = dateTime.minusHours(1);
             return dateTime.format(TIMESTAMP_FORMATTER);
         } catch (Exception e) {
@@ -140,9 +140,6 @@ public class CommunityBuilder {
     }
 
     private static String getCityNameFromCommunityName(String communityName) {
-        if (communityName.equals("FCInterMilan")) {
-            return "Milan";
-        }
         return communityName;
     }
 
@@ -168,7 +165,7 @@ public class CommunityBuilder {
         try {
             LocalDateTime dateTime = LocalDateTime.parse(timestamp, TIMESTAMP_FORMATTER);
 
-            // Correggi l'anno se fuori dal range accettabile
+            // Corregge l'anno se fuori dal range accettabile
             if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
                 dateTime = dateTime.withYear(2024);
             }

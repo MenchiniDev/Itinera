@@ -28,7 +28,7 @@ public class PostsCleaning {
 
     private static final Map<String, Integer> communityFileCounter = new HashMap<>();
     private static final Set<String> uniqueUsernames = new HashSet<>(); 
-    private static final AtomicInteger globalIdCounter = new AtomicInteger(50000); 
+    private static final AtomicInteger globalIdCounter = new AtomicInteger(200000); 
 
     private static final Set<String> ignoredPatterns = Set.of("england", "FCInterMilan", "lombardia");
 
@@ -201,8 +201,10 @@ public class PostsCleaning {
             Instant instant = Instant.ofEpochSecond(timestamp);
             LocalDateTime dateTime = LocalDateTime.ofInstant(instant, ZoneId.systemDefault());
 
-            // Correggi l'anno se è errato
-            if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
+            // Corregge l'anno se è errato
+            if (dateTime.getYear() < 2018) {
+                dateTime = dateTime.withYear(2022); // Anni sotto il 2018 vengono corretti al 2022
+            } else if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
                 dateTime = dateTime.withYear(2024);
             }
 

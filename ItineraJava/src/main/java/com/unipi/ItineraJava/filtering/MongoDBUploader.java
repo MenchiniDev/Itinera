@@ -17,10 +17,10 @@ public class MongoDBUploader {
         // Configurazione MongoDB
         String mongoUri = "mongodb://myUserAdmin:root@localhost:27017"; // URI di connessione
         String databaseName = "itineraDB";            // Nome del database
-        String collectionName = "Posts";             // Nome della collezione
+        String collectionName = "Community";             // Nome della collezione
 
         // Cartella contenente i file JSON
-        String jsonFolderPath = "itinera/dataScraping/Post_doc"; // Percorso reale
+        String jsonFolderPath = "itinera/dataScraping/Community_doc"; // Percorso reale
 
         // Connessione a MongoDB
         try (MongoClient mongoClient = MongoClients.create(mongoUri)) {
