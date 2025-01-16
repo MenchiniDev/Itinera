@@ -10,8 +10,8 @@ public class creationReviewCollection {
     public static void main(String[] args) {
         // Percorsi dei file
         String inputJsonFile = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\reviewsCopiaPerPulizia\\reviews_NY_restaurants\\rist_NY_revFinalFormDue.json";
-        String usernamesFile = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\users_data\\usernames.txt"; // File di testo con gli usernames
-        String outputJsonFile = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\reviewsCopiaPerPulizia\\reviews_NY_restaurants\\reviewsForMongo.json"; // File di output con oggetti JSON su righe separate
+        String usernamesFile = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\users_data\\usernames.txt";
+        String outputJsonFile = "C:\\Users\\nicol\\OneDrive\\Desktop\\AIDE\\Large Scale\\project\\progetto_attuale\\itinera\\dataScraping\\reviewsCopiaPerPulizia\\reviews_NY_restaurants\\reviewsForMongo.json";
 
         try {
             writeReviewsWithUsernames(inputJsonFile, usernamesFile, outputJsonFile);
