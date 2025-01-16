@@ -25,6 +25,11 @@ public class CreateGraphDatabase {
     private static final String NEO4J_USERNAME = "neo4j"; // Modifica se necessario
     private static final String NEO4J_PASSWORD = "root1234"; // Modifica se necessario
 
+    public static Session getNeo4jSession() {
+        Driver driver = GraphDatabase.driver(NEO4J_URI, AuthTokens.basic(NEO4J_USERNAME, NEO4J_PASSWORD));
+        return driver.session();
+    }
+
     public static void main(String[] args) {
         // Path della cartella contenente i JSON dei post
         String postsFolderPath = "itinera/dataScraping/Post_doc";
