@@ -1,4 +1,4 @@
-package com.unipi.ItineraJava.filtering;
+package com.unipi.ItineraJava.documentDb;
 
 import java.io.File;
 import java.nio.file.Files;
@@ -13,6 +13,11 @@ import com.mongodb.client.MongoDatabase;
 
 public class MongoDBUploader {
 
+    // Metodo per ottenere una connessione a MongoDB
+    private static MongoClient getMongoConnection(String uri) {
+        return MongoClients.create(uri);
+    }
+
     public static void main(String[] args) {
         // Configurazione MongoDB
         String mongoUri = "mongodb://myUserAdmin:root@localhost:27017"; // URI di connessione
@@ -23,7 +28,7 @@ public class MongoDBUploader {
         String jsonFolderPath = "itinera/dataScraping/Community_doc"; // Percorso reale
 
         // Connessione a MongoDB
-        try (MongoClient mongoClient = MongoClients.create(mongoUri)) {
+        try (MongoClient mongoClient = getMongoConnection(mongoUri)) {
             MongoDatabase database = mongoClient.getDatabase(databaseName);
             MongoCollection<Document> collection = database.getCollection(collectionName);
 
