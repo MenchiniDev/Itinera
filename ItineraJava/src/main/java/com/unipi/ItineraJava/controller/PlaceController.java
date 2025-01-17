@@ -16,11 +16,6 @@ public class PlaceController {
     @Autowired
     private PlaceService placeService;
 
-    @GetMapping //forse metodo ridondante
-    public List<Place> getPlacesByCity(@RequestParam String city) {
-        return placeService.getBestPlacesByCity(city);
-    }
-
     @GetMapping("/city")
     public List<Place> getTopPlaces(@RequestParam String city) {
         return placeService.getBestPlacesByCity(city);
@@ -33,6 +28,7 @@ public class PlaceController {
         return placeService.getPlacesByCityAndCategory(city, category);
     }
 
+    // http://localhost:8080/places/reviews?city=roma&&category=hotel&&name=x
     @GetMapping("/reviews")
     public List<Review> getReviews(
             @RequestParam String city,
@@ -41,6 +37,7 @@ public class PlaceController {
         return placeService.getReviewsByCityCategoryAndName(city, category, name);
     }
 
+    // http://localhost:8080/places?city=Rome&category=Restaurant&minRating=4.5
     @GetMapping
     public ResponseEntity<List<Place>> getPlacesByRating(
             @RequestParam String city,

@@ -25,12 +25,12 @@ public class PlaceService {
     }
 
     public List<Place> getPlacesByCityAndCategory(String city, String category) {
-        return placeRepository.findByCityAndCategoryOrdered(city, category);
+        return placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
     }
 
     public List<Place> findPlacesByRating(String city, String category, double minRating) {
         // Recupera i luoghi in base alla città e alla categoria
-        List<Place> places = placeRepository.findByCityAndCategoryOrdered(city, category);
+        List<Place> places = placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
 
         // Filtra in base al rateo medio
         return places.stream()

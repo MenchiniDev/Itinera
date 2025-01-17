@@ -14,21 +14,21 @@ import com.mongodb.client.MongoDatabase;
 public class MongoDBUploader {
 
     // Metodo per ottenere una connessione a MongoDB
-    private static MongoClient getMongoConnection(String uri) {
-        return MongoClients.create(uri);
+    public static MongoClient getMongoConnection(String uri, String dbName) {
+        return MongoClients.create(uri + "/" + dbName);
     }
 
     public static void main(String[] args) {
-        // Configurazione MongoDB
-        String mongoUri = "mongodb://myUserAdmin:root@localhost:27017"; // URI di connessione
+
+        String mongoUri = "mongodb://myUserAdmin:root@localhost:27017"; // URI corretto
         String databaseName = "itineraDB";            // Nome del database
-        String collectionName = "Community";             // Nome della collezione
+        String collectionName = "Community";         // Nome della collezione
 
         // Cartella contenente i file JSON
-        String jsonFolderPath = "itinera/dataScraping/Community_doc"; // Percorso reale
+        String jsonFolderPath = "../dataScraping/Community_doc"; // Percorso reale
 
         // Connessione a MongoDB
-        try (MongoClient mongoClient = getMongoConnection(mongoUri)) {
+        try (MongoClient mongoClient = getMongoConnection(mongoUri, "itineraDB")) {
             MongoDatabase database = mongoClient.getDatabase(databaseName);
             MongoCollection<Document> collection = database.getCollection(collectionName);
 
