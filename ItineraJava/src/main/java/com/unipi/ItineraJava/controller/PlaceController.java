@@ -2,6 +2,7 @@ package com.unipi.ItineraJava.controller;
 
 import com.unipi.ItineraJava.model.Review;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import com.unipi.ItineraJava.model.Place;
 import com.unipi.ItineraJava.service.PlaceService;
@@ -38,6 +39,20 @@ public class PlaceController {
             @RequestParam String category,
             @RequestParam String name) {
         return placeService.getReviewsByCityCategoryAndName(city, category, name);
+    }
+
+    @GetMapping
+    public ResponseEntity<List<Place>> getPlacesByRating(
+            @RequestParam String city,
+            @RequestParam String category,
+            @RequestParam double minRating) {
+        List<Place> places = placeService.findPlacesByRating(city, category, minRating);
+
+        if (places.isEmpty()) {
+            return ResponseEntity.noContent().build();
+        }
+
+        return ResponseEntity.ok(places);
     }
 
     @PostMapping("/review")

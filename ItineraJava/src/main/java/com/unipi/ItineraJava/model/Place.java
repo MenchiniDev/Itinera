@@ -77,5 +77,23 @@ public class Place {
     public String getCity() {
         return city;
     }
+
+    public Double getAverageRating() {
+        int ratings = 0;
+
+        //find value for each review
+        for (Review r : reviews) {
+            int rStars = r.getStars();
+            ratings += rStars;
+        }
+
+        // limit case
+        if (ratings == 0) {
+            return 0.0;
+        }
+
+        //return the average
+        return (double) ratings /(double) reviews.size();
+    }
 }
 

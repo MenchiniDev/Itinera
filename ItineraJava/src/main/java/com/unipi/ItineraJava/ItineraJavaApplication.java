@@ -3,6 +3,7 @@ package com.unipi.ItineraJava;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoDatabase;
+import com.unipi.ItineraJava.graphdb.CreateGraphDatabase;
 import org.neo4j.driver.AuthTokens;
 import org.neo4j.driver.Driver;
 import org.neo4j.driver.GraphDatabase;
@@ -25,43 +26,12 @@ public class ItineraJavaApplication {
 		}
 
 		// Connessione a Neo4j
-
-		try (Driver driver = createNodeConnection("bolt://localhost:7687", "neo4j", "12345678");
-			 Session session = driver.session()) {
-			String query = "RETURN 'Connessione a Neo4j riuscita'";
-			String result = session.run(query).single().get(0).asString();
-			System.out.println(result);
+		try(var connection = CreateGraphDatabase.getNeo4jSession()) {
+			System.out.println("Connessione a Neo4j riuscita");
 		} catch (Exception e) {
 			System.err.println("Errore nella connessione a Neo4j: " + e.getMessage());
-			//e.printStackTrace();
+			e.printStackTrace();
 		}
-	}
 
-	/**
-	 * connessione a MongoDB.
-	 *
-	 * @param mongoUri URI di connessione a MongoDB
-	 * @param databaseName Nome del database
-	 * @return un oggetto MongoClient
-	 */
-
-	public static MongoClient createMongoConnection(String mongoUri, String databaseName) {
-		MongoClient mongoClient = MongoClients.create(mongoUri);
-		MongoDatabase database = mongoClient.getDatabase(databaseName);
-		return mongoClient;
-	}
-
-	/**
-	 * connessione a Neo4j.
-	 *
-	 * @param uri      URI di connessione a Neo4j
-	 * @param username Username di autenticazione
-	 * @param password Password di autenticazione
-	 * @return un oggetto Driver per Neo4j
-	 */
-	public static Driver createNodeConnection(String uri, String username, String password) {
-		Driver driver = GraphDatabase.driver(uri, AuthTokens.basic(username, password));
-		System.out.println("Connessione a Neo4j creata con successo");
-		return driver;
 	}
 }

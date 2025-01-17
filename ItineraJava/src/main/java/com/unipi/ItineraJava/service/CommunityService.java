@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.service;
 
 
+import com.unipi.ItineraJava.exception.ResourceNotFoundException;
 import com.unipi.ItineraJava.model.Community;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.CommunityRepository;

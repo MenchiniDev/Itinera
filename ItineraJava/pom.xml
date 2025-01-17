@@ -12,7 +12,7 @@
 	<artifactId>ItineraJava</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ItineraJava</name>
-	<description>itinera java project for large scale course AA 2024 2025 </description>
+	<description>itinera java project for large scale course AA 2024 2025</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -79,7 +79,6 @@
 			<artifactId>spring-boot-starter-data-neo4j</artifactId>
 		</dependency>
 
-
 	</dependencies>
 
 	<repositories>
@@ -98,5 +97,9 @@
 			</plugin>
 		</plugins>
 	</build>
+
+
+
+
 
 </project>

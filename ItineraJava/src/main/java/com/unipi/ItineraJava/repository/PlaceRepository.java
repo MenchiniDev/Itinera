@@ -8,8 +8,7 @@ import java.util.List;
 public interface PlaceRepository extends MongoRepository<Place, String> {
     List<Place> findByCityOrderByOverallRatingDesc(String city);
 
-    List<Place> findByCityAndCategoryOrderByOverallRatingDesc(String city, String category);
-
+    List<Place> findByCityAndCategoryOrdered(String city, String category);
 
 }
 
