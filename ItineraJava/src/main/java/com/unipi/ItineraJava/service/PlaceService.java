@@ -9,6 +9,7 @@ import com.unipi.ItineraJava.repository.PlaceCustomRepositoryImpl;
 
 import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Service
 public class PlaceService {
@@ -24,7 +25,17 @@ public class PlaceService {
     }
 
     public List<Place> getPlacesByCityAndCategory(String city, String category) {
-        return placeRepository.findByCityAndCategoryOrderByOverallRatingDesc(city, category);
+        return placeRepository.findByCityAndCategoryOrdered(city, category);
+    }
+
+    public List<Place> findPlacesByRating(String city, String category, double minRating) {
+        // Recupera i luoghi in base alla città e alla categoria
+        List<Place> places = placeRepository.findByCityAndCategoryOrdered(city, category);
+
+        // Filtra in base al rateo medio
+        return places.stream()
+                .filter(place -> place.getAverageRating() >= minRating)
+                .collect(Collectors.toList());
     }
 
     public List<Review> getReviewsByCityCategoryAndName(String city, String category, String name) {
