@@ -5,7 +5,6 @@ import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.unipi.ItineraJava.repository.PlaceCustomRepositoryImpl;
 
 import java.util.Comparator;
 import java.util.List;
@@ -17,8 +16,6 @@ public class PlaceService {
     @Autowired
     private PlaceRepository placeRepository;
 
-    @Autowired
-    private PlaceCustomRepositoryImpl placeCustomRepository;
 
     public List<MongoPlace> getBestPlacesByCity(String city) {
         return placeRepository.findByCityOrderByOverallRatingDesc(city);
@@ -33,14 +30,15 @@ public class PlaceService {
         List<MongoPlace> mongoPlaces = placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
 
         // Filtra in base al rateo medio
-        return mongoPlaces.stream()
+        /*return mongoPlaces.stream()
                 .filter(place -> place.getAverageRating() >= minRating)
                 .collect(Collectors.toList());
+    */ return null;
     }
 
     public List<Review> getReviewsByCityCategoryAndName(String city, String category, String name) {
         try {
-            List<Review> reviews = placeCustomRepository.getReviewsByCityCategoryAndName(city, category, name);
+            List<Review> reviews = placeRepository.getReviewsByCityCategoryAndName(city, category, name);
             return reviews.stream()
                     .sorted(Comparator.comparingInt(Review::getStars).reversed())
                     .toList();
