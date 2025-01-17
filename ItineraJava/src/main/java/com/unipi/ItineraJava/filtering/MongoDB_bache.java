@@ -21,13 +21,15 @@ public class MongoDB_bache {
         List<String> collection1Files = List.of(
                 "../dataScraping/reviews/hotel_rev/Hotels.json",
                 "../dataScraping/reviews/monuments_rev/monuments.json",
-                "../dataScraping/reviews/restaurants_rev/restaurants.json"
+                "../dataScraping/reviews/restaurants_rev/restaurants.json",
+                "../dataScraping/reviews/museums_rev/museums.json" //aggiunto
         );
 
         List<String> collection2Files = List.of(
                 "../dataScraping/reviews/hotel_rev/ReviewsHotels.json",
                 "../dataScraping/reviews/monuments_rev/reviews_monuments.json",
-                "../dataScraping/reviews/restaurants_rev/reviews_restaurants.json"
+                "../dataScraping/reviews/restaurants_rev/reviews_restaurants.json",
+                "../dataScraping/reviews/museums_rev/museums_reviews.json" //aggiunto
         );
 
         List<String> collection3Files = List.of(
@@ -35,8 +37,8 @@ public class MongoDB_bache {
         );
 
         // Nome delle collezioni MongoDB
-        String collection2Name = "Reviews";
         String collection1Name = "Places";
+        String collection2Name = "Reviews";
         String collection3Name = "Users";
 
         // Connessione a MongoDB

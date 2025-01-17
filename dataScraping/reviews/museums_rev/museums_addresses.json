@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Pergamon Museum",
+        "city": "Berlin",
+        "address": "Pergamonmuseum, 5, Am Kupfergraben, Friedrichswerder, Mitte, Berlin, 10117, Deutschland"
+    },
+    {
+        "name": "Museo del Prado",
+        "city": "Madrid",
+        "address": "Museo del Prado, Paseo del Prado, Jerónimos, Retiro, Madrid, Comunidad de Madrid, 28014, España"
+    },
+    {
+        "name": "Kunsthistorisches Museum",
+        "city": "Vienna",
+        "address": "Kunsthistorisches Museum, 5, Burgring, Regierungsviertel, Innere Stadt, Wien, 1010, Österreich"
+    },
+    {
+        "name": "National Museum of Art of Romania",
+        "city": "Bucharest",
+        "address": "Muzeul Național de Artă al României, 49-53, Calea Victoriei, Teatrului, Cișmigiu, Sector 1, București, 010063, România"
+    },
+    {
+        "name": "Hungarian National Gallery",
+        "city": "Budapest",
+        "address": "Magyar Nemzeti Galéria, 2, Szent György tér, Vár, I. kerület, Budapest, Közép-Magyarország, 1014, Magyarország"
+    },
+    {
+        "name": "Pinacoteca di Brera",
+        "city": "Milan",
+        "address": "Pinacoteca di Brera, 28, Via Brera, Cerchia dei Navigli, Municipio 1, Milano, Lombardia, 20121, Italia"
+    },
+    {
+        "name": "National Museum (Národní muzeum)",
+        "city": "Prague",
+        "address": "Národní muzeum, 68, Václavské náměstí, Nové Město, Praha 1, Praha, obvod Praha 1, Hlavní město Praha, Praha, 110 00, Česko"
+    },
+    {
+        "name": "Royal Museums of Fine Arts of Belgium",
+        "city": "Brussels",
+        "address": "Musées royaux des Beaux-Arts de Belgique - Koninklijke Musea voor Schone Kunsten van België, Rue de la Régence - Regentschapsstraat, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien"
+    },
+    {
+        "name": "Birmingham Museum and Art Gallery",
+        "city": "Birmingham",
+        "address": "Birmingham Museum and Art Gallery, Eden Place, Chinese Quarter, Ladywood, Park Central, Birmingham, West Midlands, England, B3 3SD, United Kingdom"
+    },
+    {
+        "name": "Egyptian Museum",
+        "city": "Turin",
+        "address": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia"
+    },
+    {
+        "name": "British Museum",
+        "city": "London",
+        "address": "British Museum, Great Russell Street, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, England, WC1B 3DG, United Kingdom"
+    }
+]
