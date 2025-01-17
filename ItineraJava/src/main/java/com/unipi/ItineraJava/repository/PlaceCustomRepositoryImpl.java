@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.aggregation.Aggregation;
 import org.springframework.data.mongodb.core.aggregation.AggregationResults;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.stereotype.Repository;
-import com.unipi.ItineraJava.model.Place;
+import com.unipi.ItineraJava.model.MongoPlace;
 
 import java.util.List;
 
@@ -22,7 +22,7 @@ public class PlaceCustomRepositoryImpl implements PlaceCustomRepository {
     private MongoTemplate mongoTemplate;
 
     @Override
-    public List<Place> findTopPlacesByCity(String city) {
+    public List<MongoPlace> findTopPlacesByCity(String city) {
         Aggregation aggregation = newAggregation(
                 match(where("city").is(city)), // Filtra per città
                 group("category")              // Raggruppa per categoria
@@ -35,7 +35,7 @@ public class PlaceCustomRepositoryImpl implements PlaceCustomRepository {
                         .and("top_places").slice(2).as("top_places")
         );
 
-        AggregationResults<Place> results = mongoTemplate.aggregate(aggregation, "places", Place.class);
+        AggregationResults<MongoPlace> results = mongoTemplate.aggregate(aggregation, "places", MongoPlace.class);
         return results.getMappedResults();
     }
 

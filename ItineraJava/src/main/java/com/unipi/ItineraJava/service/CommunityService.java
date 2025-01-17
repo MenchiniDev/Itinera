@@ -2,7 +2,7 @@ package com.unipi.ItineraJava.service;
 
 
 import com.unipi.ItineraJava.exception.ResourceNotFoundException;
-import com.unipi.ItineraJava.model.Community;
+import com.unipi.ItineraJava.model.MongoCommunity;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,16 +17,16 @@ public class CommunityService {
     @Autowired
     private CommunityRepository communityRepository;
 
-    public List<Community> findAll() {
+    public List<MongoCommunity> findAll() {
         return communityRepository.findAll();
     }
 
-    public Optional<Community> findById(String id) {
+    public Optional<MongoCommunity> findById(String id) {
         return communityRepository.findById(id);
     }
 
-    public Community save(Community community) {
-        return communityRepository.save(community);
+    public MongoCommunity save(MongoCommunity mongoCommunity) {
+        return communityRepository.save(mongoCommunity);
     }
 
     public void deleteById(String id) {
@@ -34,15 +34,15 @@ public class CommunityService {
     }
 
     public List<Post> getAllPostsAndComments(String communityId) {
-        Community community = communityRepository.findById(communityId)
+        MongoCommunity mongoCommunity = communityRepository.findById(communityId)
                 .orElseThrow(() -> new ResourceNotFoundException("Community not found"));
-        return community.getPosts(); // Include automaticamente i commenti nei post
+        return mongoCommunity.getPosts(); // Include automaticamente i commenti nei post
     }
 
     public Post getLastPostPreview(String communityId) {
-        Community community = communityRepository.findById(communityId)
+        MongoCommunity mongoCommunity = communityRepository.findById(communityId)
                 .orElseThrow(() -> new ResourceNotFoundException("Community not found"));
-        return community.getPosts()
+        return mongoCommunity.getPosts()
                 .stream()
                 .max(Comparator.comparing(Post::getTimestamp))
                 .orElse(null); // Ritorna l'ultimo post o null se non esistono post

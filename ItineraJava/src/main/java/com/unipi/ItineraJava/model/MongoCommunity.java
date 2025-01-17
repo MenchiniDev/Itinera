@@ -8,12 +8,11 @@ import java.util.List;
 
 // COMMUNITY
 @Document(collection = "communities")
-public class Community {
+public class MongoCommunity {
     @Id
     private String id;
     private String city;
     private String name;
-    private int numFollower;
     private List<Post> post;
 
     public List<Post> getPosts() {

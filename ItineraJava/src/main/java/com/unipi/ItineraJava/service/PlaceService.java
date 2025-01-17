@@ -1,6 +1,6 @@
 package com.unipi.ItineraJava.service;
 
-import com.unipi.ItineraJava.model.Place;
+import com.unipi.ItineraJava.model.MongoPlace;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,20 +20,20 @@ public class PlaceService {
     @Autowired
     private PlaceCustomRepositoryImpl placeCustomRepository;
 
-    public List<Place> getBestPlacesByCity(String city) {
+    public List<MongoPlace> getBestPlacesByCity(String city) {
         return placeRepository.findByCityOrderByOverallRatingDesc(city);
     }
 
-    public List<Place> getPlacesByCityAndCategory(String city, String category) {
+    public List<MongoPlace> getPlacesByCityAndCategory(String city, String category) {
         return placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
     }
 
-    public List<Place> findPlacesByRating(String city, String category, double minRating) {
+    public List<MongoPlace> findPlacesByRating(String city, String category, double minRating) {
         // Recupera i luoghi in base alla città e alla categoria
-        List<Place> places = placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
+        List<MongoPlace> mongoPlaces = placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
 
         // Filtra in base al rateo medio
-        return places.stream()
+        return mongoPlaces.stream()
                 .filter(place -> place.getAverageRating() >= minRating)
                 .collect(Collectors.toList());
     }

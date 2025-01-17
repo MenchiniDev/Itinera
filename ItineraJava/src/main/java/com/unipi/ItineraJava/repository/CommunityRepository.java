@@ -1,6 +1,11 @@
 package com.unipi.ItineraJava.repository;
 
-import com.unipi.ItineraJava.model.Community;
+import com.unipi.ItineraJava.model.MongoCommunity;
 import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.data.mongodb.repository.Query;
 
-public interface CommunityRepository extends MongoRepository<Community, String> {}
+import java.util.List;
+
+public interface CommunityRepository extends MongoRepository<MongoCommunity, String> {
+
+}

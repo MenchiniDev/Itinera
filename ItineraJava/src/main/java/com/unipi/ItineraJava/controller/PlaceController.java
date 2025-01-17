@@ -4,7 +4,7 @@ import com.unipi.ItineraJava.model.Review;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.unipi.ItineraJava.model.Place;
+import com.unipi.ItineraJava.model.MongoPlace;
 import com.unipi.ItineraJava.service.PlaceService;
 
 import java.util.List;
@@ -17,12 +17,12 @@ public class PlaceController {
     private PlaceService placeService;
 
     @GetMapping("/city")
-    public List<Place> getTopPlaces(@RequestParam String city) {
+    public List<MongoPlace> getTopPlaces(@RequestParam String city) {
         return placeService.getBestPlacesByCity(city);
     }
 
     @GetMapping("/search")
-    public List<Place> getPlacesByCityAndCategory(
+    public List<MongoPlace> getPlacesByCityAndCategory(
             @RequestParam String city,
             @RequestParam String category) {
         return placeService.getPlacesByCityAndCategory(city, category);
@@ -39,17 +39,17 @@ public class PlaceController {
 
     // http://localhost:8080/places?city=Rome&category=Restaurant&minRating=4.5
     @GetMapping
-    public ResponseEntity<List<Place>> getPlacesByRating(
+    public ResponseEntity<List<MongoPlace>> getPlacesByRating(
             @RequestParam String city,
             @RequestParam String category,
             @RequestParam double minRating) {
-        List<Place> places = placeService.findPlacesByRating(city, category, minRating);
+        List<MongoPlace> mongoPlaces = placeService.findPlacesByRating(city, category, minRating);
 
-        if (places.isEmpty()) {
+        if (mongoPlaces.isEmpty()) {
             return ResponseEntity.noContent().build();
         }
 
-        return ResponseEntity.ok(places);
+        return ResponseEntity.ok(mongoPlaces);
     }
 
     @PostMapping("/review")

@@ -6,7 +6,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import java.util.List;
 
 @Document(collection = "Places")
-public class Place {
+public class MongoPlace {
 
     @Id
     private String id;
@@ -14,9 +14,7 @@ public class Place {
     private String category; // hotel, restaurant, interest
     private String name;
     private String address;
-    private double overallRating;
-    private int totalReviewNum;
-    private List<Review> reviews; // embedded reviews
+    private List<PreReview> reviews; // embedded reviews
 
     public void setId(String id) {
         this.id = id;
@@ -32,30 +30,6 @@ public class Place {
 
     public void setAddress(String address) {
         this.address = address;
-    }
-
-    public void setOverallRating(double overallRating) {
-        this.overallRating = overallRating;
-    }
-
-    public void setTotalReviewNum(int totalReviewNum) {
-        this.totalReviewNum = totalReviewNum;
-    }
-
-    public void setReviews(List<Review> reviews) {
-        this.reviews = reviews;
-    }
-
-    public double getOverallRating() {
-        return overallRating;
-    }
-
-    public List<Review> getReviews() {
-        return reviews;
-    }
-
-    public int getTotalReviewNum() {
-        return totalReviewNum;
     }
 
     public String getAddress() {
@@ -79,21 +53,28 @@ public class Place {
     }
 
     public Double getAverageRating() {
-        int ratings = 0;
 
-        //find value for each review
-        for (Review r : reviews) {
-            int rStars = r.getStars();
-            ratings += rStars;
-        }
-
-        // limit case
-        if (ratings == 0) {
-            return 0.0;
-        }
-
-        //return the average
-        return (double) ratings /(double) reviews.size();
+        return (double) PreReview.getOverall_rating() /(double) reviews.size();
     }
 }
 
+class PreReview{
+    private static double overall_rating;
+    private int tot_rev_number;
+
+    public static double getOverall_rating() {
+        return overall_rating;
+    }
+
+    public void setOverall_rating(double overall_rating) {
+        PreReview.overall_rating = overall_rating;
+    }
+
+    public void setTot_rev_number(int tot_rev_number) {
+        this.tot_rev_number = tot_rev_number;
+    }
+
+    public int getTot_rev_number() {
+        return tot_rev_number;
+    }
+}
