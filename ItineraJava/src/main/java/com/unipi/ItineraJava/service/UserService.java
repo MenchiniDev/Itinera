@@ -29,4 +29,19 @@ public class UserService{
     public void deleteById(String id) {
         userRepository.deleteById(id);
     }
+
+    //modifiche bache
+    // Trova un utente per username
+    public Optional<User> findByUsername(String username) {
+        return userRepository.findByUsername(username);
+    }
+
+    // Aggiorna il campo "reported" per uno specifico username
+    public void updateReportedByUsername(String username, boolean reported) {
+        userRepository.updateReportedByUsername(username, reported);
+    }
+
+    public Object loadUserByUsername(String username) {
+        return userRepository.findByUsername(username);
+    }
 }

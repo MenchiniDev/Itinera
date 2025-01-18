@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49974694-11fb-4066-b2cf-f59daf7c1787" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/filtering/creationReviewCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/filtering/creationReviewCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataScraping/users_data/usernames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataScraping/users_data/usernames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/controller/CommunityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/controller/CommunityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/controller/PlaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/controller/PlaceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/documentDb/MongoDBUploader.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/documentDb/MongoDBUploader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/graphdb/CreateGraphDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/graphdb/CreateGraphDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/model/Community.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/model/MongoCommunity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/model/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/model/MongoPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/repository/CommunityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/repository/CommunityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/repository/PlaceCustomRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/repository/PlaceCustomRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/repository/PlaceCustomRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/repository/PlaceCustomRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/repository/PlaceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/repository/PlaceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/service/CommunityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/service/CommunityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/service/GraphDbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/service/GraphDbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/service/PlaceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/java/com/unipi/ItineraJava/service/PlaceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItineraJava/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ItineraJava/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +36,12 @@
     &quot;assignee&quot;: &quot;NicoBache&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MenchiniDev/itinera.git&quot;,
-    &quot;accountId&quot;: &quot;eec5816d-27e8-4a7d-a875-7be416c6c9a9&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MenchiniDev/Itinera.git",
+    "accountId": "14e6c873-428e-4ecc-bb93-4a424305e215"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -38,26 +51,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ItineraJavaApplication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Bache&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nicol/OneDrive/Desktop/AIDE/Large Scale/project/progetto_attuale/itinera&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ItineraJavaApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "queries",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/loren/Desktop/Unipi/esami_in_preparazione/largeScaleAndMultiStructuredDatabases/project/Itinera/ItineraJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nicol\OneDrive\Desktop\AIDE\Large Scale\project\progetto_attuale\itinera\ItineraJava\src\main\java\com\unipi\ItineraJava" />
@@ -66,8 +79,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +99,7 @@
       <workItem from="1734720197570" duration="2410000" />
       <workItem from="1736793380249" duration="485000" />
       <workItem from="1736971235423" duration="2000" />
+      <workItem from="1737126667267" duration="146000" />
     </task>
     <servers />
   </component>

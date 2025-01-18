@@ -35,13 +35,13 @@ def process_json_and_create_first_file(input_json_file, username_file, output_js
         username = usernames[id_counter % len(usernames)]
 
         processed_review = {
-            "place_name": review.get("restaurant_name"),
-            "text": review.get("review_full"),
-            "timestamp": formatted_date,
-            "rev_id": id_counter,
-            "user": username,
-            "stars": int(review.get("rating_review")),  # converto a intero 
-            "reported": False
+            "Place_name": review.get("restaurant_name"),
+            "Text": review.get("review_full"),
+            "Timestamp": formatted_date,
+            "Rev_id": id_counter,
+            "User": username,
+            "Stars": int(review.get("rating_review")),  # converto a intero 
+            "Reported": False
         }
 
         # Aggiungi il nuovo oggetto alla lista
@@ -76,7 +76,7 @@ def create_second_file(input_json_reviews, input_json_addresses, output_json_fil
     # Raggruppa le recensioni per ristorante
     grouped_reviews = {}
     for review in reviews_data:
-        place_name = review.get("place_name")
+        place_name = review.get("Place_name")
         if place_name not in grouped_reviews:
             grouped_reviews[place_name] = []
         grouped_reviews[place_name].append(review)
@@ -86,28 +86,33 @@ def create_second_file(input_json_reviews, input_json_addresses, output_json_fil
 
         # Calcola la media delle valutazioni e il totale delle recensioni
         total_reviews = len(restaurant_reviews)
-        average_rating = round(sum(float(review["stars"]) for review in restaurant_reviews) / total_reviews, 2)
+        average_rating = round(sum(float(review["Stars"]) for review in restaurant_reviews) / total_reviews, 2)
 
         # Assegna un indirizzo e una città dal file addresses.json
-        address_data = addresses_data[address_counter % len(addresses_data)]  # Ciclo sugli indirizzi
+        if address_counter < len(addresses_data):
+             address_data = addresses_data[address_counter]
+        else:
+            raise ValueError("Il numero di indirizzi nel file è insufficiente per i ristoranti.")
+        
+        
         address = address_data.get("address", "Unknown Address")
         city = address_data.get("city", "Unknown City")
         address_counter += 1
 
         # Costruisci l'oggetto embedded reviews_info
         reviews_info = {
-            "overall_rating": average_rating,
-            "tot_rev_number": total_reviews,
+            "Overall_rating": average_rating,
+            "Tot_rev_number": total_reviews,
         }
 
         # Crea l'oggetto del ristorante
         restaurant_entry = {
-            "id": id_counter,
-            "name": restaurant_name,
-            "address": address,
-            "city": city,
-            "category": "restaurant", 
-            "reviews_info": reviews_info
+            "Id": id_counter,
+            "Name": restaurant_name,
+            "Address": address,
+            "City": city,
+            "Category": "Restaurant", 
+            "Reviews_info": reviews_info
         }
 
         processed_data.append(restaurant_entry)
