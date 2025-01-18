@@ -22,7 +22,7 @@ public class MongoDBUploader {
 
         String mongoUri = "mongodb://myUserAdmin:root@localhost:27017"; // URI corretto
         String databaseName = "itineraDB";            // Nome del database
-        String collectionName = "Community";         // Nome della collezione
+        String collectionName = "Community";         // per allocare le altre collezioni modifica qui e il path
 
         // Cartella contenente i file JSON
         String jsonFolderPath = "../dataScraping/Community_doc"; // Percorso reale

@@ -9,7 +9,8 @@ import java.util.Map;
 @Service
 public class GraphDbService {
 
-    //ritorna true se l'user è gia in una community, altrimenti false
+    /*
+    //ritorna true se l'user è gia in una mongoCommunity, altrimenti false
     public boolean isUserJoinedCommunity(String username, String communityId) {
         try (Session session = CreateGraphDatabase.getNeo4jSession()) {
             String query = """
@@ -29,13 +30,13 @@ public class GraphDbService {
             e.printStackTrace();
         }
         return false;
-    }
-
+    }*/
+    /*
     public boolean JoinCommunity(String username, String communityId) {
         try (Session session = CreateGraphDatabase.getNeo4jSession()) {
 
             if(isUserJoinedCommunity(username, communityId)) {
-                return false; //ritorniamo false, l'utente è gia nella community
+                return false; //ritorniamo false, l'utente è gia nella mongoCommunity
             }
 
             String query = """
@@ -56,5 +57,5 @@ public class GraphDbService {
             e.printStackTrace();
         }
         return false;
-    }
+    }*/
 }

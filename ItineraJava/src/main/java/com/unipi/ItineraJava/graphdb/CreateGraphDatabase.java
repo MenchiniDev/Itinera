@@ -32,7 +32,7 @@ public class CreateGraphDatabase {
 
     public static void main(String[] args) {
         // Path della cartella contenente i JSON dei post
-        String postsFolderPath = "itinera/dataScraping/Post_doc";
+        String postsFolderPath = "../dataScraping/Post_doc";
 
         try (Driver driver = GraphDatabase.driver(NEO4J_URI, AuthTokens.basic(NEO4J_USERNAME, NEO4J_PASSWORD));
              Session session = driver.session()) {

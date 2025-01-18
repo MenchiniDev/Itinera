@@ -12,11 +12,11 @@ import java.util.List;
 public class Post {
     @Id
     private String id;
-    private String communityId;
+    private String Community_name;
     private String user;
     private LocalDateTime timestamp;
     private int numComment;
-    private boolean reported;
+    private boolean reported; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
     private List<Comment> commenti;
 
     // request GET /communities?id=roma&username=john_doe

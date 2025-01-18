@@ -1,54 +1,69 @@
 package com.unipi.ItineraJava.controller;
 
 
-import com.unipi.ItineraJava.model.Community;
+import com.mongodb.client.MongoClient;
+import com.unipi.ItineraJava.model.MongoCommunity;
+import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
+import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import com.unipi.ItineraJava.service.GraphDbService;
 
+import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
+import static com.unipi.ItineraJava.documentDb.MongoDBUploader.getMongoConnection;
+
 @RestController
-@RequestMapping("/communities")
+@RequestMapping("/Community")
 class CommunityController {
+
     @Autowired
     private CommunityService communityService;
     @Autowired
     private GraphDbService graphDbService;
+    @Autowired
+    private CommunityRepository mongoCommunityRepository;
+
 
     @GetMapping
-    public List<Community> getAllCommunities() {
-        return communityService.findAll();
+    public ResponseEntity<List<MongoCommunity>> getAllCommunityNames() {
+        List<MongoCommunity> communities = mongoCommunityRepository.findAll();
+        System.out.println(communities);
+        return ResponseEntity.ok(communities);
     }
 
+
     @GetMapping("/{id}")
-    public Optional<Community> getCommunityById(@PathVariable String id) {
+    public Optional<MongoCommunity> getCommunityById(@PathVariable String id) {
         return communityService.findById(id);
     }
 
-    @GetMapping("/communities")
+    @GetMapping("/details")
     public ResponseEntity<?> getCommunityDetails(
             @RequestParam String id,
             @RequestParam String username) {
-        boolean isJoined = graphDbService.isUserJoinedCommunity(username, id);
+        /*boolean isJoined = graphDbService.isUserJoinedCommunity(username, id);
         if (isJoined) {
             return ResponseEntity.ok(communityService.getAllPostsAndComments(id));
         } else {
             return ResponseEntity.ok(communityService.getLastPostPreview(id));
-        }
+        }*/
+        return null;
     }
 
 
     @PostMapping
-    public Community createCommunity(@RequestBody Community community) {
-        return communityService.save(community);
+    public MongoCommunity createCommunity(@RequestBody MongoCommunity mongoCommunity) {
+        return communityService.save(mongoCommunity);
     }
 
     @PutMapping("/id")
-    public Community updateCommunity(@RequestBody Community community) {
+    public MongoCommunity updateCommunity(@RequestBody MongoCommunity mongoCommunity) {
         return null; //TODO: implementare, va aggiunto l'user
     }
 
