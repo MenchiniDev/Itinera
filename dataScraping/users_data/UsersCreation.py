@@ -57,7 +57,7 @@ def generate_fake_data(input_file, output_file, posts_folder):
             "Email": email,
             "Password": password,
             "Created": formatted_date,
-            "Active": False,
+            "Active": True,
             "Reported": False,
             "Role": "User"
         }
