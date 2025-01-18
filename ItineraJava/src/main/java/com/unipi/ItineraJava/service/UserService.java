@@ -41,4 +41,7 @@ public class UserService{
         userRepository.updateReportedByUsername(username, reported);
     }
 
+    public Object loadUserByUsername(String username) {
+        return userRepository.findByUsername(username);
+    }
 }
