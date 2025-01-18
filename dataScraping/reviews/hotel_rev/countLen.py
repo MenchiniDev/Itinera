@@ -10,7 +10,7 @@ def count_cities_reviews_and_hotels(input_file):
 
     for review in reviews:
         city = review.get("city", "Unknown")  # Ottieni il campo "city", usa "Unknown" come fallback
-        hotel_name = review.get("name", "Unknown")  # Ottieni il nome dell'hotel
+        hotel_name = review.get("name", "Unknown") 
         
         # Aggiorna i dati per la città
         city_data[city]["review_count"] += 1
@@ -26,7 +26,6 @@ def count_cities_reviews_and_hotels(input_file):
 
     return city_data
 
-#input_file = "Hotel_Reviews_postPrimaPulizia.json"
 input_file = "filePerDocumenti.json"
 
 # Esegui la funzione
