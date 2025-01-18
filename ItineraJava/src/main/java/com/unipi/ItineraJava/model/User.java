@@ -1,8 +1,12 @@
 package com.unipi.ItineraJava.model;
 
 // Necessary imports
+import org.apache.el.parser.Token;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.security.core.GrantedAuthority;
+
+import java.util.ArrayList;
 import java.util.List;
 
 
@@ -13,13 +17,15 @@ public class User {
     @Id
     private String Id;
     private String username;
-    private String Email;
-    private String Password;
-    private String Role; // "User" or "Admin"
-    private String Created;
-    private boolean Active;
-    private boolean Reported;
-    private List<String> LastPost;
+    private String email;
+    private String password;
+    private String role; // "User" or "Admin"
+    private String created;
+    private boolean active;
+    private boolean reported;
+    private List<String> lastPost;
+
+
 
     public String getUsername() {
         return username;
@@ -30,50 +36,50 @@ public class User {
     }
 
     public String getPassword() {
-        return Password;
+        return password;
     }
 
     public void setPassword(String password) {
-        this.Password = password;
+        this.password = password;
     }
 
     public String getRole() {
-        return Role;
+        return role;
     }
 
     public void setRole(String role) {
-        this.Role = role;
+        this.role = role;
     }
 
     public void setEmail(String email) {
-        this.Email = email;
+        this.email = email;
     }
     public String getEmail() {
-        return Email;
+        return email;
     }
     public void setCreated(String created) {
-        this.Created = created;
+        this.created = created;
     }
     public String getCreated() {
-        return Created;
+        return created;
     }
     public void setActive(boolean active) {
-        this.Active = active;
+        this.active = active;
     }
     public boolean isActive() {
-        return Active;
+        return active;
     }
     public void setReported(boolean reported) {
-        this.Reported = reported;
+        this.reported = reported;
     }
     public boolean isReported() {
-        return Reported;
+        return reported;
     }
     public void setLastPost(List<String> lastPost) {
-        this.LastPost = lastPost;
+        this.lastPost = lastPost;
     }
     public List<String> getLastPost() {
-        return LastPost;
+        return lastPost;
     }
     public String getId() {
         return Id;
