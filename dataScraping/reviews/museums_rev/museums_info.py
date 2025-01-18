@@ -26,7 +26,7 @@ def generate_addresses(museums):
 
     return updated_museums
 
-# Dati di input
+# Dati di input scelti da noi
 museums = [
     {"name": "Pergamon Museum", "city": "Berlin"},
     {"name": "Museo del Prado", "city": "Madrid"},
