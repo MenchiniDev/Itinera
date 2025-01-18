@@ -108,6 +108,7 @@ european_cities = [
     "Dublin", "Lisbon", "Helsinki", "Riga", "Tallinn", "Vilnius", "Luxembourg", "Ljubljana", "Bratislava", "Sarajevo",
     "Skopje", "Tirana", "Podgorica", "Reykjavik", "Valletta", "Florence", "Monaco", "San Marino", "Vaduz", "Pristina"
 ]
+# Array scritto dopo aver visto le città presenti nel file tramite il codice in countLen.py
 selected_cities = {'Vienna', 'Barcelona', 'Milan', 'Amsterdam', 'London', 'Paris'}
 
 # Esegui le funzioni in sequenza

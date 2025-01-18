@@ -1,123 +1,123 @@
 [
     {
-        "id": 1600,
-        "name": "Pergamon Museum",
-        "address": "Pergamonmuseum, 5, Am Kupfergraben, Friedrichswerder, Mitte, Berlin, 10117, Deutschland",
-        "city": "Berlin",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.62,
-            "tot_rev_number": 226
+        "Id": 1600,
+        "Name": "Pergamon Museum",
+        "Address": "Pergamonmuseum, 5, Am Kupfergraben, Friedrichswerder, Mitte, Berlin, 10117, Deutschland",
+        "City": "Berlin",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.62,
+            "Tot_rev_number": 226
         }
     },
     {
-        "id": 1601,
-        "name": "Museo del Prado",
-        "address": "Museo del Prado, Paseo del Prado, Jerónimos, Retiro, Madrid, Comunidad de Madrid, 28014, España",
-        "city": "Madrid",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.66,
-            "tot_rev_number": 226
+        "Id": 1601,
+        "Name": "Museo del Prado",
+        "Address": "Museo del Prado, Paseo del Prado, Jerónimos, Retiro, Madrid, Comunidad de Madrid, 28014, España",
+        "City": "Madrid",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.66,
+            "Tot_rev_number": 226
         }
     },
     {
-        "id": 1602,
-        "name": "Kunsthistorisches Museum",
-        "address": "Kunsthistorisches Museum, 5, Burgring, Regierungsviertel, Innere Stadt, Wien, 1010, Österreich",
-        "city": "Vienna",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.48,
-            "tot_rev_number": 226
+        "Id": 1602,
+        "Name": "Kunsthistorisches Museum",
+        "Address": "Kunsthistorisches Museum, 5, Burgring, Regierungsviertel, Innere Stadt, Wien, 1010, Österreich",
+        "City": "Vienna",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.48,
+            "Tot_rev_number": 226
         }
     },
     {
-        "id": 1603,
-        "name": "National Museum of Art of Romania",
-        "address": "Muzeul Național de Artă al României, 49-53, Calea Victoriei, Teatrului, Cișmigiu, Sector 1, București, 010063, România",
-        "city": "Bucharest",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.65,
-            "tot_rev_number": 226
+        "Id": 1603,
+        "Name": "National Museum of Art of Romania",
+        "Address": "Muzeul Național de Artă al României, 49-53, Calea Victoriei, Teatrului, Cișmigiu, Sector 1, București, 010063, România",
+        "City": "Bucharest",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.65,
+            "Tot_rev_number": 226
         }
     },
     {
-        "id": 1604,
-        "name": "Hungarian National Gallery",
-        "address": "Magyar Nemzeti Galéria, 2, Szent György tér, Vár, I. kerület, Budapest, Közép-Magyarország, 1014, Magyarország",
-        "city": "Budapest",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.59,
-            "tot_rev_number": 227
+        "Id": 1604,
+        "Name": "Hungarian National Gallery",
+        "Address": "Magyar Nemzeti Galéria, 2, Szent György tér, Vár, I. kerület, Budapest, Közép-Magyarország, 1014, Magyarország",
+        "City": "Budapest",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.59,
+            "Tot_rev_number": 227
         }
     },
     {
-        "id": 1605,
-        "name": "Pinacoteca di Brera",
-        "address": "Pinacoteca di Brera, 28, Via Brera, Cerchia dei Navigli, Municipio 1, Milano, Lombardia, 20121, Italia",
-        "city": "Milan",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.57,
-            "tot_rev_number": 227
+        "Id": 1605,
+        "Name": "Pinacoteca di Brera",
+        "Address": "Pinacoteca di Brera, 28, Via Brera, Cerchia dei Navigli, Municipio 1, Milano, Lombardia, 20121, Italia",
+        "City": "Milan",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.57,
+            "Tot_rev_number": 227
         }
     },
     {
-        "id": 1606,
-        "name": "National Museum (Národní muzeum)",
-        "address": "Národní muzeum, 68, Václavské náměstí, Nové Město, Praha 1, Praha, obvod Praha 1, Hlavní město Praha, Praha, 110 00, Česko",
-        "city": "Prague",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.58,
-            "tot_rev_number": 227
+        "Id": 1606,
+        "Name": "National Museum (Národní muzeum)",
+        "Address": "Národní muzeum, 68, Václavské náměstí, Nové Město, Praha 1, Praha, obvod Praha 1, Hlavní město Praha, Praha, 110 00, Česko",
+        "City": "Prague",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.58,
+            "Tot_rev_number": 227
         }
     },
     {
-        "id": 1607,
-        "name": "Royal Museums of Fine Arts of Belgium",
-        "address": "Musées royaux des Beaux-Arts de Belgique - Koninklijke Musea voor Schone Kunsten van België, Rue de la Régence - Regentschapsstraat, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
-        "city": "Brussels",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.55,
-            "tot_rev_number": 227
+        "Id": 1607,
+        "Name": "Royal Museums of Fine Arts of Belgium",
+        "Address": "Musées royaux des Beaux-Arts de Belgique - Koninklijke Musea voor Schone Kunsten van België, Rue de la Régence - Regentschapsstraat, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
+        "City": "Brussels",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.55,
+            "Tot_rev_number": 227
         }
     },
     {
-        "id": 1608,
-        "name": "Birmingham Museum and Art Gallery",
-        "address": "Birmingham Museum and Art Gallery, Eden Place, Chinese Quarter, Ladywood, Park Central, Birmingham, West Midlands, England, B3 3SD, United Kingdom",
-        "city": "Birmingham",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.6,
-            "tot_rev_number": 226
+        "Id": 1608,
+        "Name": "Birmingham Museum and Art Gallery",
+        "Address": "Birmingham Museum and Art Gallery, Eden Place, Chinese Quarter, Ladywood, Park Central, Birmingham, West Midlands, England, B3 3SD, United Kingdom",
+        "City": "Birmingham",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.6,
+            "Tot_rev_number": 226
         }
     },
     {
-        "id": 1609,
-        "name": "Egyptian Museum",
-        "address": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
-        "city": "Turin",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.64,
-            "tot_rev_number": 226
+        "Id": 1609,
+        "Name": "Egyptian Museum",
+        "Address": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+        "City": "Turin",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.64,
+            "Tot_rev_number": 226
         }
     },
     {
-        "id": 1610,
-        "name": "British Museum",
-        "address": "British Museum, Great Russell Street, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, England, WC1B 3DG, United Kingdom",
-        "city": "London",
-        "category": "museum",
-        "reviews_info": {
-            "overall_rating": 4.58,
-            "tot_rev_number": 226
+        "Id": 1610,
+        "Name": "British Museum",
+        "Address": "British Museum, Great Russell Street, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, England, WC1B 3DG, United Kingdom",
+        "City": "London",
+        "Category": "Museum",
+        "Reviews_info": {
+            "Overall_rating": 4.58,
+            "Tot_rev_number": 226
         }
     }
 ]

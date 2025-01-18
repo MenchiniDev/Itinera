@@ -99,4 +99,21 @@ class UserController {
     public void deleteUser(@PathVariable String id) {
         userService.deleteById(id);
     }
+
+    ///////////////////////////////////modifiche Bache/////////////////////////////////////////////////////////
+
+
+    // Endpoint per trovare un utente per username
+    @GetMapping("/find/{username}")
+    public Optional<User> getUserByUsername(@PathVariable String username) {
+        return userService.findByUsername(username);
+    }
+
+    // Endpoint per aggiornare il campo "reported" per uno specifico username
+    @PutMapping("/report/{username}")
+    public void reportUser(@PathVariable String username, @RequestParam boolean reported) {
+        userService.updateReportedByUsername(username, reported);
+    }
+
+
 }
