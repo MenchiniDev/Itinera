@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.service;
 
 
+import com.mongodb.client.MongoClient;
 import com.unipi.ItineraJava.exception.ResourceNotFoundException;
 import com.unipi.ItineraJava.model.MongoCommunity;
 import com.unipi.ItineraJava.model.Post;
@@ -16,10 +17,6 @@ import java.util.Optional;
 public class CommunityService {
     @Autowired
     private CommunityRepository communityRepository;
-
-    public List<MongoCommunity> findAll() {
-        return communityRepository.findAll();
-    }
 
     public Optional<MongoCommunity> findById(String id) {
         return communityRepository.findById(id);

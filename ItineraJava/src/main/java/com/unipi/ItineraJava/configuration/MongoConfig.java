@@ -11,7 +11,7 @@ public class MongoConfig extends AbstractMongoClientConfiguration {
 
     @Override
     protected String getDatabaseName() {
-        return "itineraDb";
+        return "itineraDB";
     }
 
     @Bean

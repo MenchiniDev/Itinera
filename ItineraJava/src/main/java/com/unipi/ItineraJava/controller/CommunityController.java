@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.controller;
 
 
+import com.mongodb.client.MongoClient;
 import com.unipi.ItineraJava.model.MongoCommunity;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
@@ -15,8 +16,10 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
+import static com.unipi.ItineraJava.documentDb.MongoDBUploader.getMongoConnection;
+
 @RestController
-@RequestMapping("/Communities")
+@RequestMapping("/Community")
 class CommunityController {
 
     @Autowired

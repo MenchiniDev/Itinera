@@ -10,6 +10,6 @@ import java.util.List;
 
 public interface CommunityRepository extends MongoRepository<MongoCommunity, String> {
 
-        List<MongoCommunity> findAll(); // Questa query restituirà l'oggetto completo
+        List<MongoCommunity> findAll();
 
 }
