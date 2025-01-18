@@ -6,6 +6,7 @@ import com.unipi.ItineraJava.repository.PlaceRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -29,12 +30,18 @@ public class PlaceService {
         // Recupera i luoghi in base alla città e alla categoria
         List<MongoPlace> mongoPlaces = placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
 
-        // Filtra in base al rateo medio
-        /*return mongoPlaces.stream()
-                .filter(place -> place.getAverageRating() >= minRating)
-                .collect(Collectors.toList());
-    */ return null;
+        // Controlla se la lista è null o vuota
+        if (mongoPlaces == null || mongoPlaces.isEmpty()) {
+            return Collections.emptyList();
+        }
+
+        // Filtra i luoghi basandoti sul rating medio calcolato
+        return mongoPlaces.stream()
+                .filter(place -> place.calculateAverageRating() >= minRating)
+                .toList();
     }
+
+
 
     public List<Review> getReviewsByCityCategoryAndName(String city, String category, String name) {
         try {
