@@ -1,22 +1,19 @@
 package com.unipi.ItineraJava.controller;
 
 
-import com.mongodb.client.MongoClient;
 import com.unipi.ItineraJava.model.MongoCommunity;
+import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
-import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import com.unipi.ItineraJava.service.GraphDbService;
 
-import java.util.Collections;
+
+import java.util.Date;
 import java.util.List;
 import java.util.Optional;
-
-import static com.unipi.ItineraJava.documentDb.MongoDBUploader.getMongoConnection;
 
 @RestController
 @RequestMapping("/Community")
@@ -56,17 +53,26 @@ class CommunityController {
         return null;
     }
 
-
+    // http://localhost:8080/Community with body
     @PostMapping
-    public MongoCommunity createCommunity(@RequestBody MongoCommunity mongoCommunity) {
-        return communityService.save(mongoCommunity);
+    public ResponseEntity<String> createCommunity(
+            @RequestHeader("Authorization") String token,
+            @RequestBody MongoCommunity mongoCommunity) {
+        try {
+            if(User.isAdmin(token)) {
+                if (mongoCommunityRepository.findByCityAndName(mongoCommunity.getCity(), mongoCommunity.getName()).isPresent()) {
+                    return ResponseEntity.status(400).body("A community with the same City and Name already exists.");
+                }
+                mongoCommunity.setCreated(new Date().toString());
+                mongoCommunityRepository.save(mongoCommunity);
+                return ResponseEntity.ok("Community created successfully with ID: " + mongoCommunity.getId());
+            }else {
+                return ResponseEntity.status(400).body("User not authenticated as Admin");
+            }
+            } catch (Exception e) {
+            return ResponseEntity.status(500).body("Error creating community: " + e.getMessage());
+        }
     }
-
-    @PutMapping("/id")
-    public MongoCommunity updateCommunity(@RequestBody MongoCommunity mongoCommunity) {
-        return null; //TODO: implementare, va aggiunto l'user
-    }
-
     /*
     @DeleteMapping("/{id}")
     public void deleteCommunity(@PathVariable String id) {

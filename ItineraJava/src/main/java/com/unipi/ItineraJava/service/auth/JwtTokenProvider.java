@@ -4,7 +4,6 @@ import com.unipi.ItineraJava.model.User;
 import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
-import org.springframework.context.annotation.Bean;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.authority.AuthorityUtils;
@@ -71,7 +70,7 @@ public class JwtTokenProvider {
     }
 
 
-    public String getUsernameFromToken(String token) {
+    public static String getUsernameFromToken(String token) {
         try {
             return Jwts.parser()
                     .setSigningKey(secretKey)
@@ -81,5 +80,9 @@ public class JwtTokenProvider {
         } catch (JwtException | IllegalArgumentException e) {
             throw new IllegalArgumentException("Token non valido o scaduto");
         }
+    }
+
+    public String getSecretKey(){
+        return secretKey;
     }
 }

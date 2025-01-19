@@ -12,7 +12,12 @@ import java.util.Optional;
 @Service
 public class UserService{
     @Autowired
-    private UserRepository userRepository;
+    private static UserRepository userRepository;
+
+    @Autowired // necessario altrimenti non consente autenticazione ruolo con funzione User.isAdmin()
+    public UserService(UserRepository userRepository) {
+        this.userRepository = userRepository;
+    }
 
     public List<com.unipi.ItineraJava.model.User> findAll() {
         return userRepository.findAll();
@@ -32,7 +37,7 @@ public class UserService{
 
     //modifiche bache
     // Trova un utente per username
-    public Optional<User> findByUsername(String username) {
+    public static Optional<User> findByUsername(String username) {
         return userRepository.findByUsername(username);
     }
 

@@ -11,10 +11,10 @@ import java.util.List;
 public class MongoCommunity {
     @Id
     private String id; // String per l'ID
-    private String City;
-    private String Name;
-    private String Created;  // Usa Date al posto di Timestamp
-    private List<PostSummary> Post;
+    private String city;
+    private String name;
+    private String created;  // Usa Date al posto di Timestamp
+    private List<PostSummary> post;
 
     // Getters and Setters
     public String getId() {
@@ -26,35 +26,35 @@ public class MongoCommunity {
     }
 
     public String getCity() {
-        return City;
+        return city;
     }
 
     public void setCity(String city) {
-        this.City = city;
+        this.city = city;
     }
 
     public String getName() {
-        return Name;
+        return name;
     }
 
     public void setName(String name) {
-        this.Name = name;
+        this.name = name;
     }
 
     public String getCreated() {
-        return Created;
+        return created;
     }
 
-    public void setCreated(Date created) {
-        this.Created = String.valueOf(created);
+    public void setCreated(String created) {
+        this.created = String.valueOf(created);
     }
 
     public List<PostSummary> getPost() {
-        return Post;
+        return post;
     }
 
     public void setPost(List<PostSummary> post) {
-        this.Post = post;
+        this.post = post;
     }
 
     public List<Post> getPosts() {
