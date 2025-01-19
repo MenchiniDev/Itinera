@@ -1,7 +1,5 @@
 package com.unipi.ItineraJava.configuration;
 
-import com.unipi.ItineraJava.service.auth.JwtAuthenticationFilter;
-import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.Bean;
@@ -11,6 +9,9 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
+
+import com.unipi.ItineraJava.service.auth.JwtAuthenticationFilter;
+import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 
 @Configuration
 public class SecurityConfig {
@@ -37,6 +38,7 @@ public class SecurityConfig {
         http.authorizeHttpRequests(auth -> {
             log.info("Configuring authorization rules...");
             auth
+                    .requestMatchers("/v3/api-docs/**", "/swagger-ui/**", "/swagger-ui.html").permitAll()
                     .requestMatchers("/users/login", "/users/signup", "/users/signup/admin", "/users/login/admin")
                     .permitAll() // Consentire accesso libero a questi endpoint
                     .anyRequest()

@@ -1,19 +1,31 @@
 package com.unipi.ItineraJava.controller;
 
 
+import java.util.Date;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.prepost.PreAuthorize;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestHeader;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
 import com.unipi.ItineraJava.model.MongoCommunity;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
 import com.unipi.ItineraJava.service.GraphDbService;
-
-
-import java.util.Date;
-import java.util.List;
-import java.util.Optional;
 
 @RestController
 @RequestMapping("/Community")
@@ -79,4 +91,62 @@ class CommunityController {
         communityService.deleteById(id);
     }
      */
+
+
+    //join ad una community da parte dello user loggato 
+    //http://localhost:8080/Community/joinCommunity/{city}
+    @PutMapping("/joinCommunity/{city}")
+    @PreAuthorize("hasRole('User')")
+    public ResponseEntity<String> joinCommunity(@PathVariable String city) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+
+        if (authentication != null && authentication.isAuthenticated()) {
+            String username = authentication.getName();
+
+        try {
+            // Chiama il servizio per unire l'utente alla community
+            communityService.joinCommunity(username, city);
+
+            // Restituisci il messaggio di successo
+            return ResponseEntity.ok("User " + username + " successfully joined community: " + city);
+
+        } catch (IllegalArgumentException | IllegalStateException ex) {
+            // Restituisci un messaggio di errore al chiamante
+            return ResponseEntity.badRequest().body(ex.getMessage());
+        }
+    }
+
+    // Gestione del caso in cui l'utente non è autenticato
+    return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
+}
+
+
+     //lasciare una community da parte dello user loggato 
+    //http://localhost:8080/Community/joinCommunity/city
+    @PutMapping("/leaveCommunity/{city}")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<String> leaveCommunity(@PathVariable String city) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+    
+        if (authentication != null && authentication.isAuthenticated()) {
+            String username = authentication.getName();
+    
+            try {
+                // Chiama il servizio per rimuovere l'utente dalla community
+                communityService.leaveCommunity(username, city);
+    
+                // Restituisce il messaggio di successo
+                return ResponseEntity.ok("Community successfully left");
+    
+            } catch (IllegalArgumentException | IllegalStateException ex) {
+                // Restituisce il messaggio di errore in caso di eccezione
+                return ResponseEntity.badRequest().body(ex.getMessage());
+            }
+        }
+    
+        // Se l'utente non è autenticato, restituisce un errore di accesso negato
+        return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
+    }
+    
+
 }
