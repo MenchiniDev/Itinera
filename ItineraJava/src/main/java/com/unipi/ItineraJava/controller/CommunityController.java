@@ -73,10 +73,9 @@ class CommunityController {
             return ResponseEntity.status(500).body("Error creating community: " + e.getMessage());
         }
     }
-    /*
-    @DeleteMapping("/{id}")
-    public void deleteCommunity(@PathVariable String id) {
-        communityService.deleteById(id);
+
+    @DeleteMapping("/{name}")
+    public void deleteCommunity(@PathVariable String name) {
+        communityService.deleteByName(name);
     }
-     */
 }

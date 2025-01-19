@@ -44,4 +44,8 @@ public class CommunityService {
                 .max(Comparator.comparing(Post::getTimestamp))
                 .orElse(null); // Ritorna l'ultimo post o null se non esistono post
     }
+
+    public void deleteByName(String name) {
+        communityRepository.deleteByCity(name);
+    }
 }
