@@ -53,7 +53,7 @@ class CommunityController {
         return null;
     }
 
-    // http://localhost:8080/Community
+    // http://localhost:8080/Community with body
     @PostMapping
     public ResponseEntity<String> createCommunity(
             @RequestHeader("Authorization") String token,
