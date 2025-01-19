@@ -1,18 +1,30 @@
 package com.unipi.ItineraJava.model;
 
 // Necessary imports
-import org.apache.el.parser.Token;
+import com.unipi.ItineraJava.service.UserService;
+import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
+import io.jsonwebtoken.Claims;
+import io.jsonwebtoken.Jwts;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
-import org.springframework.security.core.GrantedAuthority;
+import org.springframework.stereotype.Component;
 
-import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 
 // USERS
 @Document(collection = "Users")
+@Component
 public class User {
+
+    private static JwtTokenProvider jwtTokenProvider;
+
+    @Autowired
+    public void setJwtTokenProvider(JwtTokenProvider provider) {
+        jwtTokenProvider = provider;
+    }
 
     @Id
     private String Id;
@@ -86,6 +98,37 @@ public class User {
     }
     public void setId(String id) {
         this.Id = id;
+    }
+
+    public static boolean isAdmin(String token) {
+        try {
+            String jwt = token.replace("Bearer ", "").trim();
+
+            // Decodifica il token e ottieni lo username
+            String username = JwtTokenProvider.getUsernameFromToken(jwt);
+            System.out.println("Username: " + username);
+
+            // Recupera l'utente dalla UserService, o lancia un'eccezione se non trovato
+            User user = UserService.findByUsername(username)
+                    .orElseThrow(() -> new IllegalArgumentException("User not found: " + username));
+
+            // Stampa il ruolo dell'utente per debug
+            System.out.println("Role: " + user.getRole());
+
+            // Controlla se l'utente è ADMIN
+            if ("ADMIN".equals(user.getRole().toString())) {
+                System.out.println("L'utente è ADMIN");
+                return true;
+            } else {
+                System.out.println("L'utente NON è ADMIN");
+                return false;
+            }
+
+        } catch (Exception e) {
+            System.out.println("L'user NON è ADMIN");
+            e.printStackTrace();
+            return false;
+        }
     }
 
 }
