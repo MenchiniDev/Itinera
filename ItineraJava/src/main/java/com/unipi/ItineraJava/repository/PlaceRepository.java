@@ -4,7 +4,6 @@ import com.unipi.ItineraJava.model.Review;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import com.unipi.ItineraJava.model.*;
-import org.springframework.data.mongodb.repository.Query;
 
 import java.util.List;
 
@@ -41,19 +40,13 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     })
     List<MongoPlace> findByCityAndCategoryOrderByOverallRating(String city, String category);
 
-    /*
     @Aggregation(pipeline = {
             "{ '$unwind': '$reviews' }",
             "{ '$group': { '_id': '$name', 'averageRating': { '$avg': '$reviews.overall_rating' }, 'totalReviews': { '$sum': 1 } } }",
             "{ '$project': { '_id': 0, 'name': '$_id', 'averageRating': 1, 'totalReviews': 1 } }"
     })
-    List<ReviewSummary> calculateReviewSummary();
-    */
-    /*
-    @Query(value = {"{ 'name': ?0 }", update = "{ '$push': { 'reviews': ?1 } }"})
-    @Modifying
-    void addReview(String placeName, Review newReview);
-    */
+    void calculateReviewSummary();
+
 
 }
 

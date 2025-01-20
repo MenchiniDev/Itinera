@@ -19,13 +19,13 @@ def generate_first_file(input_file, username_file, output_file):
 
         for entry in data:
             transformed_entry = {
-                "Place_name": entry.get("name", ""),
-                "Text": entry.get("text", ""),
-                "Timestamp": entry.get("timestamp", ""),
-                "Rev_id": rev_id, 
-                "User": usernames[username_index],  # Assegna username in modo ciclico
-                "Stars": entry.get("rating", 0),
-                "Reported": False 
+                "place_name": entry.get("name", ""),
+                "text": entry.get("text", ""),
+                "timestamp": entry.get("timestamp", ""),
+                "rev_id": rev_id, 
+                "user": usernames[username_index],  # Assegna username in modo ciclico
+                "stars": entry.get("rating", 0),
+                "reported": False 
             }
             transformed_data.append(transformed_entry)
             rev_id += 1  # Incrementa l'ID per ogni recensione
@@ -99,18 +99,18 @@ def generate_second_file(input_file, address_file, output_file):
             average_rating = total_rating / review_count if review_count > 0 else 0
 
             transformed_entry = {
-                "Id": id_counter,
-                "Name": name,  # Usa il nome originale dalla prima recensione
-                "Address": find_address(name, address_map),  # Cerca l'indirizzo
-                "City": cities_by_name.get(name, ""),  # Ottieni la città associata
-                "Category": "Museum" if name == "Musee du Louvre" else "Monument", # I monumenti su kaggle contengono anche Louvre, che noi consideriamo come museo
-                "Reviews_info": {
-                    "Overall_rating": round(average_rating, 2),
-                    "Tot_rev_number": review_count
+                "id": id_counter,
+                "name": name,  
+                "address": find_address(name, address_map),  
+                "city": cities_by_name.get(name, ""),  # Ottieni la città associata
+                "category": "Museum" if name == "Musee du Louvre" else "Monument", # I monumenti su kaggle contengono anche Louvre, che noi consideriamo come museo
+                "reviews_info": {
+                    "overall_rating": round(average_rating, 2),
+                    "tot_rev_number": review_count
                 }
             }
             transformed_data.append(transformed_entry)
-            id_counter += 1  # Incrementa l'ID per ogni monumento
+            id_counter += 1  # Incrementa id
 
         # Salva i dati trasformati nel file di output
         with open(output_file, 'w', encoding='utf-8') as output:

@@ -13,20 +13,14 @@ import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import com.unipi.ItineraJava.DTO.CommunityDTO;
 import com.unipi.ItineraJava.DTO.SignupRequest;
+
 import com.unipi.ItineraJava.DTO.UserDTO;
 import com.unipi.ItineraJava.model.CommunityGraph;
+
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.model.UserGraph;
 import com.unipi.ItineraJava.repository.UserNeo4jRepository;
@@ -47,8 +41,10 @@ class UserController {
 
     @Autowired
     private PasswordEncoder passwordEncoder;
+    @Autowired
+    private User user;
 
-    // http://localhost:8080/users/signup WORKING
+    // http://localhost:8080/users/signup
     //@Transactional // Transactional per evitare che il metodo venga eseguito in caso di errore
     @PostMapping("/signup")
     public ResponseEntity<String> signup(@RequestBody SignupRequest signupRequest) {
@@ -94,7 +90,7 @@ class UserController {
         return ResponseEntity.ok("User registered successfully");
     }
 
-    // http://localhost:8080/users/login WORKING
+    // http://localhost:8080/users/login
     @PostMapping("/login")
     public ResponseEntity<String> login(@RequestBody User user) {
         Optional<User> existingUser = userRepository.findByUsername(user.getUsername());
@@ -117,14 +113,63 @@ class UserController {
         return userService.findById(id);
     }
 
-    @PostMapping
-    public User createUser(@RequestBody User user) {
-        return userService.save(user);
-    }
 
     @DeleteMapping("/{id}")
-    public void deleteUser(@PathVariable String id) {
-        userService.deleteById(id);
+    public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
+                                             @PathVariable String id) {
+        try {
+            if(User.isAdmin(token)) {
+                userService.deleteById(id);
+                return ResponseEntity.ok("user deleted");
+            }else{
+                return ResponseEntity.status(400).body("User not authenticated as Admin");
+            }
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    // PROFILE QUERIES
+    @GetMapping("/profile/numpost")
+    public long getPostCount(@RequestHeader("Authorization") String token)
+    {
+        try {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            if (username == null)
+                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
+            return ResponseEntity.ok(UserService.getPostCount(username)).getBody();
+        }catch (Exception e)
+        {
+            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
+        }
+    }
+
+    @GetMapping("/profile/numcom")
+    public long getCommentCount(@RequestHeader("Authorization") String token)
+    {
+        try {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            if (username == null)
+                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
+            return ResponseEntity.ok(UserService.getCommentCount(username)).getBody();
+        }catch (Exception e)
+        {
+            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
+        }
+    }
+
+    @GetMapping("/profile/numreview")
+    public long getReviewCount(@RequestHeader("Authorization") String token)
+    {
+        try {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            if (username == null)
+                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
+            return ResponseEntity.ok(UserService.getNumReview(username)).getBody();
+        }catch (Exception e)
+        {
+            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
+        }
     }
 
     ///////////////////////////////////modifiche Bache/////////////////////////////////////////////////////////

@@ -13,7 +13,7 @@ public class MongoCommunity {
     private String id; // String per l'ID
     private String city;
     private String name;
-    private String created;  // Usa Date al posto di Timestamp
+    private String created;
     private List<PostSummary> post;
 
     // Getters and Setters
