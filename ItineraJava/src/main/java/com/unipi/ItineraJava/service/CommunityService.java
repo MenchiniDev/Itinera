@@ -103,7 +103,7 @@ public class CommunityService {
         // (opzionale) Log per debug
         System.out.println("User " + username + " successfully joined community: " + city);
     }
-/* 
+
     public ResponseEntity<String> updateCommunity(String username, String text, String name) {
         try {
             Post post = new Post();
@@ -128,7 +128,7 @@ public class CommunityService {
         }
 
     }
-*/
+
     public boolean existsCommunity(String name) {
         return communityRepository.findByCity(name);
     }

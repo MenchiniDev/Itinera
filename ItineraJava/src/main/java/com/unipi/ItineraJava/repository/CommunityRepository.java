@@ -22,5 +22,5 @@ public interface CommunityRepository extends MongoRepository<MongoCommunity, Str
         @Query("{ 'city': { $regex: '^?0$', $options: 'i' } }")
         Boolean findByCity(String city);
 
-        ///Boolean updateMongoCommunityByPost();
+        Boolean updateMongoCommunityByPost();
 }

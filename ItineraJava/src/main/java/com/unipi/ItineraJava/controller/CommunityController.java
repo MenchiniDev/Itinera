@@ -65,7 +65,7 @@ class CommunityController {
         }*/
         return null;
     }
-/* 
+
     // adds a post inside a community
     @PutMapping("community/{name}")
     public ResponseEntity<String> updateCommunity(@RequestHeader("Authorization") String token,
@@ -88,7 +88,7 @@ class CommunityController {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(e.getMessage());
         }
     }
-*/
+
 
     // http://localhost:8080/Community
     //creates a community checking if the admin is sending the request
