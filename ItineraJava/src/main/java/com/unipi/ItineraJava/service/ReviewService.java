@@ -1,12 +1,21 @@
 package com.unipi.ItineraJava.service;
 
+import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import com.unipi.ItineraJava.repository.ReviewRepository;
+import com.unipi.ItineraJava.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.data.mongodb.core.query.Update;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import java.security.PrivilegedAction;
 import java.time.Instant;
+import java.util.List;
 
 @Service
 public class ReviewService {
@@ -16,6 +25,9 @@ public class ReviewService {
 
     @Autowired
     private PlaceRepository placeRepository;
+
+    @Autowired
+    private MongoTemplate mongoTemplate;
 
     public Review addReview(String username, String placeId, int stars, String text) {
         // Validazione dei parametri
@@ -36,5 +48,29 @@ public class ReviewService {
 
         // Salvataggio
         return reviewRepository.save(review);
+    }
+
+    public String reportReview(String placeId, String username, String timestamp) {
+        // Crea una query per cercare la recensione in base ai parametri
+        try {
+            Query query = new Query();
+            query.addCriteria(Criteria.where("placeId").is(placeId)
+                    .and("user").is(username)
+                    .and("timestamp").is(timestamp));
+
+            // Crea l'operazione di aggiornamento per impostare reported su true
+            Update update = new Update();
+            update.set("reported", true);
+
+            // Esegui l'operazione di aggiornamento
+            mongoTemplate.updateFirst(query, update, Review.class);
+            return "review reported";
+        }catch (Exception e){
+            return "error occurred";
+        }
+    }
+
+    public List<Review> showReviewReported() {
+        return reviewRepository.findReportedComments();
     }
 }

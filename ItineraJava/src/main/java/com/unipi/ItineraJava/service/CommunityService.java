@@ -33,8 +33,6 @@ public class CommunityService {
     @Autowired
     private UserService userService;
     @Autowired
-    private User user;
-    @Autowired
     private MongoTemplate mongoTemplate;
     @Autowired
     private PostRepository postRepository;
