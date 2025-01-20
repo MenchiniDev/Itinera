@@ -6,7 +6,7 @@
   "timestamp" : "2024-12-22 09:17:51",
   "num_comment" : 5,
   "reported_post" : false,
-  "commenti" : [ {
+  "comment" : [ {
     "reported_comment" : false,
     "body" : "The [Kaisantunneli bike parking space](https://kaupunkiliikenne.fi/liikennointi/pyoralla/pyoratalli/) reportedly has a charging facility, free to use until they figure out how to set up payments.\n\nTo enter the facility, you need an [HSL card](https://www.hsl.fi/liput-ja-hinnat/hsl-kortti). Yes, even though HSL tells you to use their app, the only way to enter is with the card. It costs 5 euros and you don't need to buy tickets with it or top it up, you just need the card to open the door.",
     "username" : "jks",

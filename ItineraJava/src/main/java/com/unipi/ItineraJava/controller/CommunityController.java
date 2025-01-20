@@ -166,14 +166,14 @@ class CommunityController {
             String username = authentication.getName();
 
         try {
-            // Chiama il servizio per unire l'utente alla community
+            // Chiamo il servizio per unire l'utente alla community
             communityService.joinCommunity(username, city);
 
-            // Restituisci il messaggio di successo
+            // Restituisco il messaggio di successo
             return ResponseEntity.ok("User " + username + " successfully joined community: " + city);
 
         } catch (IllegalArgumentException | IllegalStateException ex) {
-            // Restituisci un messaggio di errore al chiamante
+            // Restituisco un messaggio di errore al chiamante
             return ResponseEntity.badRequest().body(ex.getMessage());
         }
     }
@@ -183,7 +183,7 @@ class CommunityController {
 }
 
 
-     //lasciare una community da parte dello user loggato 
+     //lasciare una community  
     //http://localhost:8080/Community/joinCommunity/city
     @PutMapping("/leaveCommunity/{city}")
     @PreAuthorize("hasRole('USER')")
@@ -194,14 +194,14 @@ class CommunityController {
             String username = authentication.getName();
     
             try {
-                // Chiama il servizio per rimuovere l'utente dalla community
+                // Chiamo il servizio per rimuovere l'utente dalla community
                 communityService.leaveCommunity(username, city);
     
-                // Restituisce il messaggio di successo
+                // Restituisco il messaggio di successo
                 return ResponseEntity.ok("Community successfully left");
     
             } catch (IllegalArgumentException | IllegalStateException ex) {
-                // Restituisce il messaggio di errore in caso di eccezione
+                // Restituisco il messaggio di errore in caso di eccezione
                 return ResponseEntity.badRequest().body(ex.getMessage());
             }
         }
