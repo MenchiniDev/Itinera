@@ -1,22 +1,32 @@
 package com.unipi.ItineraJava.controller;
 
 
-import com.unipi.ItineraJava.repository.UserRepository;
-import com.unipi.ItineraJava.service.UserService;
-import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
+import java.time.LocalDateTime;
+import java.util.List;
+import java.util.Optional;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.web.bind.annotation.*;
-import com.unipi.ItineraJava.model.User;
-import com.unipi.ItineraJava.DTO.SignupRequest;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
-import java.time.LocalDateTime;
-import java.util.List;
-import java.util.Optional;
+import com.unipi.ItineraJava.DTO.SignupRequest;
+import com.unipi.ItineraJava.model.User;
+import com.unipi.ItineraJava.repository.UserNeo4jRepository;
+import com.unipi.ItineraJava.repository.UserRepository;
+import com.unipi.ItineraJava.service.UserService;
+import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 
 @RestController
 @RequestMapping("/users")
@@ -27,15 +37,19 @@ class UserController {
     @Autowired
     private UserRepository userRepository;
 
+    @Autowired UserNeo4jRepository userNeo4jRepository;
+
     @Autowired
     private PasswordEncoder passwordEncoder;
 
     // http://localhost:8080/users/signup WORKING
+    //@Transactional // Transactional per evitare che il metodo venga eseguito in caso di errore
     @PostMapping("/signup")
     public ResponseEntity<String> signup(@RequestBody SignupRequest signupRequest) {
         if (userRepository.findByUsername(signupRequest.getUsername()).isPresent()) {
             return ResponseEntity.badRequest().body("Username already exists");
         }
+        System.out.println("Received signup request: " + signupRequest);
         System.out.println(signupRequest.getUsername());
         User user = new User();
         user.setUsername(signupRequest.getUsername());
@@ -46,7 +60,10 @@ class UserController {
         user.setActive(true);
         user.setReported(false);
         System.out.println(user.getUsername());
+        System.out.println("Saving user: " + user);
         userRepository.save(user);
+
+        //userNeo4jRepository.createUserNode(user.getUsername());
 
         return ResponseEntity.ok("User registered successfully");
     }
@@ -124,4 +141,8 @@ class UserController {
     public void reportUser(@PathVariable String username, @RequestParam boolean reported) {
         userService.updateReportedByUsername(username, reported);
     }
+
+
+    
+    
 }
