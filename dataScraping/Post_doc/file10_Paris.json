@@ -1,10 +1,10 @@
 {
-  "Id" : 200414,
-  "Community_name" : "Paris",
-  "Username" : "jusou_44",
-  "Post_body" : "Parigo#255 - Ticket unique : la révolution billettique",
-  "Timestamp" : "2024-04-15 20:28:09",
-  "Num_comment" : 0,
+  "id" : 200414,
+  "community_name" : "Paris",
+  "username" : "jusou_44",
+  "post_body" : "Parigo#255 - Ticket unique : la révolution billettique",
+  "timestamp" : "2024-01-10 21:05:30",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

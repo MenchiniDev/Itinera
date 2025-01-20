@@ -1,15 +1,15 @@
 {
-  "Id" : 200468,
-  "City" : "Milano",
-  "Name" : "Milano",
-  "Created" : "2024-04-15 19:14:20",
-  "Post" : [ {
-    "User" : "AutoModerator",
-    "Text" : "[Week n.51] PLEASE ASK YOUR QUESTIONS ABOUT MILAN HERE",
-    "Timestamp" : "2024-04-15 20:14:20"
+  "id" : 200468,
+  "city" : "Milano",
+  "name" : "Milano",
+  "created" : "2024-01-10 19:56:43",
+  "post" : [ {
+    "text" : "[Week n.51] PLEASE ASK YOUR QUESTIONS ABOUT MILAN HERE",
+    "user" : "AutoModerator",
+    "timestamp" : "2024-01-10 20:56:43"
   }, {
-    "User" : "xEchDaniel",
-    "Text" : "Nuova App ATM con abbonamento digitale e redesign",
-    "Timestamp" : "2024-12-16 16:53:36"
+    "text" : "Nuova App ATM con abbonamento digitale e redesign",
+    "user" : "xEchDaniel",
+    "timestamp" : "2024-12-16 16:53:36"
   } ]
 }

@@ -1,25 +1,25 @@
 {
-  "Id" : 200121,
-  "Community_name" : "Reykjavik",
-  "Username" : "Bumblepanding",
-  "Post_body" : "Looking for specific ule Lads decorations ",
-  "Timestamp" : "2024-12-22 22:00:37",
-  "Num_comment" : 3,
+  "id" : 200121,
+  "community_name" : "Reykjavik",
+  "username" : "Bumblepanding",
+  "post_body" : "Looking for specific ule Lads decorations ",
+  "timestamp" : "2024-12-22 22:00:37",
+  "num_comment" : 3,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "treehugger312",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:00:37",
-    "Body" : "We saw these at the Christmas store on Laugavegur. May have also been at some of the bigger Icewear stores as well."
+    "body" : "We saw these at the Christmas store on Laugavegur. May have also been at some of the bigger Icewear stores as well.",
+    "username" : "treehugger312",
+    "timestamp" : "2024-12-22 22:00:37"
   }, {
-    "Username" : "CharacterNo8585",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:38:49",
-    "Body" : "You could try to contact the Christmas store on Laugavegur. Maybe they could help.\n\nhttps://jolabudin.is"
+    "body" : "You could try to contact the Christmas store on Laugavegur. Maybe they could help.\n\nhttps://jolabudin.is",
+    "username" : "CharacterNo8585",
+    "timestamp" : "2024-12-22 23:38:49"
   }, {
-    "Username" : "Chinaski_on_the_ice",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:05:47",
-    "Body" : "These are widely available downtown. \nIcewear, Viking, Islandia.."
+    "body" : "These are widely available downtown. \nIcewear, Viking, Islandia..",
+    "username" : "Chinaski_on_the_ice",
+    "timestamp" : "2024-12-23 11:05:47"
   } ]
 }

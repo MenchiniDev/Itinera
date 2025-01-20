@@ -1,125 +1,125 @@
 {
-  "Id" : 200317,
-  "Community_name" : "Bratislava",
-  "Username" : "Equivalent-Print2027",
-  "Post_body" : "Budova trnavská cesta",
-  "Timestamp" : "2024-12-22 10:35:40",
-  "Num_comment" : 23,
+  "id" : 200317,
+  "community_name" : "Bratislava",
+  "username" : "Equivalent-Print2027",
+  "post_body" : "Budova trnavská cesta",
+  "timestamp" : "2024-12-22 10:35:40",
+  "num_comment" : 23,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "balki_123",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 10:35:40",
-    "Body" : "TL;DR\n\nTováreň Danubius. Vyrábala sa tam bavlnená priadza. Je to zanedbané, lebo u nás si radi ničíme technické pamiatky. \n\n[https://www.aktuality.sk/clanok/740515/bratislavu-vtedy-volali-uhorsky-manchester-zeny-snivali-o-praci-v-danubiuse/](https://www.aktuality.sk/clanok/740515/bratislavu-vtedy-volali-uhorsky-manchester-zeny-snivali-o-praci-v-danubiuse/)"
+    "body" : "TL;DR\n\nTováreň Danubius. Vyrábala sa tam bavlnená priadza. Je to zanedbané, lebo u nás si radi ničíme technické pamiatky. \n\n[https://www.aktuality.sk/clanok/740515/bratislavu-vtedy-volali-uhorsky-manchester-zeny-snivali-o-praci-v-danubiuse/](https://www.aktuality.sk/clanok/740515/bratislavu-vtedy-volali-uhorsky-manchester-zeny-snivali-o-praci-v-danubiuse/)",
+    "username" : "balki_123",
+    "timestamp" : "2024-12-22 10:35:40"
   }, {
-    "Username" : "Notrius01",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:07:07",
-    "Body" : "je to technicka pamiatka, inak by to finep uz davno zbural."
+    "body" : "je to technicka pamiatka, inak by to finep uz davno zbural.",
+    "username" : "Notrius01",
+    "timestamp" : "2024-12-22 12:07:07"
   }, {
-    "Username" : "popixis",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:31:38",
-    "Body" : "Doplnim ku komentaru vyssie, ze po roku 2003 kedy ju zavreli sa tam konali akcie primarne hudobneho charakteru, a v roku tam horelo pocas Uprisingu. Odvtedy budova chátra, neskor to odkupil Finep a planuju tam urobit lofty."
+    "body" : "Doplnim ku komentaru vyssie, ze po roku 2003 kedy ju zavreli sa tam konali akcie primarne hudobneho charakteru, a v roku tam horelo pocas Uprisingu. Odvtedy budova chátra, neskor to odkupil Finep a planuju tam urobit lofty.",
+    "username" : "popixis",
+    "timestamp" : "2024-12-22 12:31:38"
   }, {
-    "Username" : "iancarry",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:30:01",
-    "Body" : "finep z tej stvrte urobil uplne peklo.. tato im budova tam len zavadzia"
+    "body" : "finep z tej stvrte urobil uplne peklo.. tato im budova tam len zavadzia",
+    "username" : "iancarry",
+    "timestamp" : "2024-12-22 12:30:01"
   }, {
-    "Username" : "nikto123",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:59:02",
-    "Body" : "velmi pekna budova, nikdy som nevedel co to bolo zac, mali by to opravit"
+    "body" : "velmi pekna budova, nikdy som nevedel co to bolo zac, mali by to opravit",
+    "username" : "nikto123",
+    "timestamp" : "2024-12-22 16:59:02"
   }, {
-    "Username" : "Daniel_D225",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:54:03",
-    "Body" : "Cvernovka. Na festivale Uprising v roku 2010  zhorela a teraz sa stane súčasťou konplexu Danubius One."
+    "body" : "Cvernovka. Na festivale Uprising v roku 2010  zhorela a teraz sa stane súčasťou konplexu Danubius One.",
+    "username" : "Daniel_D225",
+    "timestamp" : "2024-12-22 18:54:03"
   }, {
-    "Username" : "Lukas_F_B",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:06:25",
-    "Body" : "Ružový hrad"
+    "body" : "Ružový hrad",
+    "username" : "Lukas_F_B",
+    "timestamp" : "2024-12-22 13:06:25"
   }, {
-    "Username" : "krem666",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:19:33",
-    "Body" : "Da sa tam dostat?"
+    "body" : "Da sa tam dostat?",
+    "username" : "krem666",
+    "timestamp" : "2024-12-22 21:19:33"
   }, {
-    "Username" : "atelierT",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:24:36",
-    "Body" : "https://www.register-architektury.sk/objekt/430-danubius"
+    "body" : "https://www.register-architektury.sk/objekt/430-danubius",
+    "username" : "atelierT",
+    "timestamp" : "2024-12-23 09:24:36"
   }, {
-    "Username" : "EuAdventrures",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:01:02",
-    "Body" : "Sak krásna je čo. Bože ale taká škoda… keby ju opravili tá dobre by bolo no len tým Slovákom sa nechce."
+    "body" : "Sak krásna je čo. Bože ale taká škoda… keby ju opravili tá dobre by bolo no len tým Slovákom sa nechce.",
+    "username" : "EuAdventrures",
+    "timestamp" : "2024-12-23 11:01:02"
   }, {
-    "Username" : "Equivalent-Print2027",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 11:21:01",
-    "Body" : "Je to skoda velka skoda"
+    "body" : "Je to skoda velka skoda",
+    "username" : "Equivalent-Print2027",
+    "timestamp" : "2024-12-22 11:21:01"
   }, {
-    "Username" : "i_would_say_so",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:13:13",
-    "Body" : "A nebylo by to lepsi? Nikdy jsem v Bratislave nebyl a dost mozna nikdy nebudu. Ale i kdybych skrz to mesto nekdy jel, rozhodne by me nemotivovalo k zastaveni to, ze tam pred 100 lety vyrabeli zastaralym zpusobem nejakou beznou komoditu. \n\nMnohem edukativnejsi by bylo podivat se na jedno ze 100 video o tom, jak ta vyroba probihala. Proc bych si mel honit pero nad tim, ze to muzu videt v realu?"
+    "body" : "A nebylo by to lepsi? Nikdy jsem v Bratislave nebyl a dost mozna nikdy nebudu. Ale i kdybych skrz to mesto nekdy jel, rozhodne by me nemotivovalo k zastaveni to, ze tam pred 100 lety vyrabeli zastaralym zpusobem nejakou beznou komoditu. \n\nMnohem edukativnejsi by bylo podivat se na jedno ze 100 video o tom, jak ta vyroba probihala. Proc bych si mel honit pero nad tim, ze to muzu videt v realu?",
+    "username" : "i_would_say_so",
+    "timestamp" : "2024-12-22 19:13:13"
   }, {
-    "Username" : "Conscious-Glove-4846",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:27:39",
-    "Body" : "Ja sa cudujem, ze Uprising vobec este funguje po vsetkych tych pruseroch, co sposobili."
+    "body" : "Ja sa cudujem, ze Uprising vobec este funguje po vsetkych tych pruseroch, co sposobili.",
+    "username" : "Conscious-Glove-4846",
+    "timestamp" : "2024-12-22 19:27:39"
   }, {
-    "Username" : "Equivalent-Print2027",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:02:05",
-    "Body" : "Ved krasna je ale je v zalostnom stave co je hanba a este ked je to technicka pamiatka ako tu pisu."
+    "body" : "Ved krasna je ale je v zalostnom stave co je hanba a este ked je to technicka pamiatka ako tu pisu.",
+    "username" : "Equivalent-Print2027",
+    "timestamp" : "2024-12-23 11:02:05"
   }, {
-    "Username" : "Old_Bank1288",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:49:34",
-    "Body" : "rovnaky mindset mali komunisti, co davali dole historicke centra, budovy a nahradili to brutalistickymi vygrcmi. Dnes tie nove budovy tiez nie su nejake esteticky zaujimave a je dokazane ze ked byvas v okoli hnusnych, sterilnych budov a architektury tak to ma negativny dopad na tvoje mentalne zdravie.\n\nTakze prosim, zachovajme tieto pamiatky, lebo tato histicka budova je 100krat krajsia ako hocico co sa v bratislave postavilo za poslednu dobu."
+    "body" : "rovnaky mindset mali komunisti, co davali dole historicke centra, budovy a nahradili to brutalistickymi vygrcmi. Dnes tie nove budovy tiez nie su nejake esteticky zaujimave a je dokazane ze ked byvas v okoli hnusnych, sterilnych budov a architektury tak to ma negativny dopad na tvoje mentalne zdravie.\n\nTakze prosim, zachovajme tieto pamiatky, lebo tato histicka budova je 100krat krajsia ako hocico co sa v bratislave postavilo za poslednu dobu.",
+    "username" : "Old_Bank1288",
+    "timestamp" : "2024-12-22 22:49:34"
   }, {
-    "Username" : "EuAdventrures",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:02:59",
-    "Body" : "Hej som editol komentár."
+    "body" : "Hej som editol komentár.",
+    "username" : "EuAdventrures",
+    "timestamp" : "2024-12-23 11:02:59"
   }, {
-    "Username" : "i_would_say_so",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:16:22",
-    "Body" : "Nejen komunisti. Delo se to mnohem casteji. Protoze je to velmi casto dobry napad."
+    "body" : "Nejen komunisti. Delo se to mnohem casteji. Protoze je to velmi casto dobry napad.",
+    "username" : "i_would_say_so",
+    "timestamp" : "2024-12-22 23:16:22"
   }, {
-    "Username" : "pakachi2048",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:59:34",
-    "Body" : "prazsky hrad je uz tiez ukazka zastaraneho sposobu byvania, mal by byt zburany?"
+    "body" : "prazsky hrad je uz tiez ukazka zastaraneho sposobu byvania, mal by byt zburany?",
+    "username" : "pakachi2048",
+    "timestamp" : "2024-12-23 00:59:34"
   }, {
-    "Username" : "Old_Bank1288",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:37:52",
-    "Body" : "velmo casto je dobry napad burat pamiatky?\nTie budovy robia mesta unikatne a zapametatelne. Predstav si nahodne europske mesto a skus si v hlave spomenut ako vyzera. Predstavujes si historicke centrum/buduvy alebo si predstavujes random bytovky na okraji mesta? Teraz to skus s americkym mestom, kde vacsina z nich je genericka a nevedel by si rozoznat austin od bostonu."
+    "body" : "velmo casto je dobry napad burat pamiatky?\nTie budovy robia mesta unikatne a zapametatelne. Predstav si nahodne europske mesto a skus si v hlave spomenut ako vyzera. Predstavujes si historicke centrum/buduvy alebo si predstavujes random bytovky na okraji mesta? Teraz to skus s americkym mestom, kde vacsina z nich je genericka a nevedel by si rozoznat austin od bostonu.",
+    "username" : "Old_Bank1288",
+    "timestamp" : "2024-12-23 09:37:52"
   }, {
-    "Username" : "i_would_say_so",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:12:53",
-    "Body" : "jestli nevidis rozdil mezi prazskym hradem a barabiznou co nikoho nezajima, pak ti neni pomoci"
+    "body" : "jestli nevidis rozdil mezi prazskym hradem a barabiznou co nikoho nezajima, pak ti neni pomoci",
+    "username" : "i_would_say_so",
+    "timestamp" : "2024-12-23 12:12:53"
   }, {
-    "Username" : "i_would_say_so",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:11:07",
-    "Body" : "je to pamatka asi takova jako zadek tvoji mamy\n\n>kde vacsina z nich je genericka\n\nja teda v NYC poznam, ze jsem v NYC; i mrakodrap se da postavit vizualne zajimavy"
+    "body" : "je to pamatka asi takova jako zadek tvoji mamy\n\n>kde vacsina z nich je genericka\n\nja teda v NYC poznam, ze jsem v NYC; i mrakodrap se da postavit vizualne zajimavy",
+    "username" : "i_would_say_so",
+    "timestamp" : "2024-12-23 12:11:07"
   }, {
-    "Username" : "Old_Bank1288",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:23:58",
-    "Body" : "joj ty chudacik. Kto ti tak ublizil ze si vyrastol v takehoto primitiva."
+    "body" : "joj ty chudacik. Kto ti tak ublizil ze si vyrastol v takehoto primitiva.",
+    "username" : "Old_Bank1288",
+    "timestamp" : "2024-12-23 15:23:58"
   }, {
-    "Username" : "i_would_say_so",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:24:51",
-    "Body" : "ja se ti omlouvam, jestli tvoji indiginous dusi zranuje to, ze si pred tou vasi slovenskou pamatkou nesednu na zadek"
+    "body" : "ja se ti omlouvam, jestli tvoji indiginous dusi zranuje to, ze si pred tou vasi slovenskou pamatkou nesednu na zadek",
+    "username" : "i_would_say_so",
+    "timestamp" : "2024-12-23 15:24:51"
   } ]
 }

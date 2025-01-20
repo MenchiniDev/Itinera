@@ -1,15 +1,15 @@
 {
-  "Id" : 200467,
-  "City" : "Birmingham",
-  "Name" : "Birmingham",
-  "Created" : "2024-12-16 15:22:02",
-  "Post" : [ {
-    "User" : "AutoModerator",
-    "Text" : "What's Happening In Birmingham This Week? December 16, 2024",
-    "Timestamp" : "2024-12-16 16:22:02"
+  "id" : 200467,
+  "city" : "Birmingham",
+  "name" : "Birmingham",
+  "created" : "2024-12-16 15:22:02",
+  "post" : [ {
+    "text" : "What's Happening In Birmingham This Week? December 16, 2024",
+    "user" : "AutoModerator",
+    "timestamp" : "2024-12-16 16:22:02"
   }, {
-    "User" : "AutoModerator",
-    "Text" : "Find a friend this week!",
-    "Timestamp" : "2024-12-17 12:35:23"
+    "text" : "Find a friend this week!",
+    "user" : "AutoModerator",
+    "timestamp" : "2024-12-17 12:35:23"
   } ]
 }

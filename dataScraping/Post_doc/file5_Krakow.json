@@ -1,20 +1,20 @@
 {
-  "Id" : 200173,
-  "Community_name" : "Krakow",
-  "Username" : "Terrible-Business-67",
-  "Post_body" : "Student ID Auschwitz",
-  "Timestamp" : "2024-12-23 07:13:36",
-  "Num_comment" : 2,
+  "id" : 200173,
+  "community_name" : "Krakow",
+  "username" : "Terrible-Business-67",
+  "post_body" : "Student ID Auschwitz",
+  "timestamp" : "2024-12-23 07:13:36",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Koordian",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:13:36",
-    "Body" : "Student visa is not valid student ID. Maybe it'll work, but be prepared to pay difference in price of normal and student ticket."
+    "body" : "Student visa is not valid student ID. Maybe it'll work, but be prepared to pay difference in price of normal and student ticket.",
+    "username" : "Koordian",
+    "timestamp" : "2024-12-23 07:13:36"
   }, {
-    "Username" : "v1rotatev2",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:04:46",
-    "Body" : "Worth to give a try"
+    "body" : "Worth to give a try",
+    "username" : "v1rotatev2",
+    "timestamp" : "2024-12-23 10:04:46"
   } ]
 }

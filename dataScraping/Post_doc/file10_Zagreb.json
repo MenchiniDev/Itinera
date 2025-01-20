@@ -1,35 +1,35 @@
 {
-  "Id" : 200409,
-  "Community_name" : "Zagreb",
-  "Username" : "Naive_Platypus290",
-  "Post_body" : "Najbolji kebab u zapadnom dijelu grada?",
-  "Timestamp" : "2024-12-23 01:58:44",
-  "Num_comment" : 5,
+  "id" : 200409,
+  "community_name" : "Zagreb",
+  "username" : "Naive_Platypus290",
+  "post_body" : "Najbolji kebab u zapadnom dijelu grada?",
+  "timestamp" : "2024-12-23 01:58:44",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Prudent-Print-8675",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:58:44",
-    "Body" : "Lezzet na Jarunskom placu"
+    "body" : "Lezzet na Jarunskom placu",
+    "username" : "Prudent-Print-8675",
+    "timestamp" : "2024-12-23 01:58:44"
   }, {
-    "Username" : "BexMaster",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 04:57:06",
-    "Body" : "Fali nam najbolji kebab post i da connosieuri kebaba daju malo pregled situacije! Lajkam post.\n\nNisam ziher koji je najbolji na zapadu grada, ali ću izvaliti jedan blast from the past - na Savici na placu prije 15-20 godina kebab na ćošku gdje je sad (jebena) kladionica. To je bio show program.\n\nA od trenutnih meni Adria uzima titulu."
+    "body" : "Fali nam najbolji kebab post i da connosieuri kebaba daju malo pregled situacije! Lajkam post.\n\nNisam ziher koji je najbolji na zapadu grada, ali ću izvaliti jedan blast from the past - na Savici na placu prije 15-20 godina kebab na ćošku gdje je sad (jebena) kladionica. To je bio show program.\n\nA od trenutnih meni Adria uzima titulu.",
+    "username" : "BexMaster",
+    "timestamp" : "2024-12-23 04:57:06"
   }, {
-    "Username" : "Simple-Television-61",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:16:23",
-    "Body" : "Kebab Aga na tržnici Špansko, probaj cheese kebab... unholy unija cheesburgera i kebaba - TOP"
+    "body" : "Kebab Aga na tržnici Špansko, probaj cheese kebab... unholy unija cheesburgera i kebaba - TOP",
+    "username" : "Simple-Television-61",
+    "timestamp" : "2024-12-23 13:16:23"
   }, {
-    "Username" : "Moonlora45",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:26:21",
-    "Body" : "Adria je najbolji u zgu"
+    "body" : "Adria je najbolji u zgu",
+    "username" : "Moonlora45",
+    "timestamp" : "2024-12-23 12:26:21"
   }, {
-    "Username" : "MrExpecto",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:55:07",
-    "Body" : "Ne znam spada li pod zapadni dio grada ali onaj drive in kebab pored Ritz kluba mi je super."
+    "body" : "Ne znam spada li pod zapadni dio grada ali onaj drive in kebab pored Ritz kluba mi je super.",
+    "username" : "MrExpecto",
+    "timestamp" : "2024-12-23 11:55:07"
   } ]
 }

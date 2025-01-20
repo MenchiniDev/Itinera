@@ -9,6 +9,9 @@ import com.unipi.ItineraJava.model.CommunityGraph;
 @Repository
 public interface CommunityNeo4jRepository extends Neo4jRepository<CommunityGraph, Long> {
 
+    @Query("CREATE (c:Community {city: $city}) RETURN c")
+    void createCommunityNode(String city);
+
     // Metodo per verificare se una community esiste
     @Query("MATCH (c:Community {city: $city}) RETURN COUNT(c) > 0")
     boolean existsByCity(String city);
@@ -19,14 +22,16 @@ public interface CommunityNeo4jRepository extends Neo4jRepository<CommunityGraph
     boolean isAlreadyJoined(String username, String city);
 
 
-    // Metodo per creare la relazione JOINED tra utente e community
+    // Metodo per creare la relazione CONNECTED tra utente e community
     @Query("MATCH (u:User {username: $username}), (c:Community {city: $city}) " +
            "MERGE (u)-[:CONNECTED]->(c)")
     void createJoinToCommunity(String username, String city);
 
-
-
+    
     @Query("MATCH (u:User {username: $username})-[r:CONNECTED]->(c:Community {city: $city})\n" +
                 "DELETE r")
     void deleteJoinToCommunity(String username, String city); 
+
+
+
 }

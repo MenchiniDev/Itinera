@@ -1,55 +1,55 @@
 {
-  "Id" : 200068,
-  "Community_name" : "Birmingham",
-  "Username" : "Randomuslessadvice",
-  "Post_body" : "Birmingham, AL | Dec, 2024. ",
-  "Timestamp" : "2024-12-22 21:04:34",
-  "Num_comment" : 9,
+  "id" : 200068,
+  "community_name" : "Birmingham",
+  "username" : "Randomuslessadvice",
+  "post_body" : "Birmingham, AL | Dec, 2024. ",
+  "timestamp" : "2024-12-22 21:04:34",
+  "num_comment" : 9,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "jlamperk",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:04:34",
-    "Body" : "I like seeing the buildings lit up for Christmas, thanks for sharing."
+    "body" : "I like seeing the buildings lit up for Christmas, thanks for sharing.",
+    "username" : "jlamperk",
+    "timestamp" : "2024-12-22 21:04:34"
   }, {
-    "Username" : "the_neverdoctor",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:08:32",
-    "Body" : "I hate I'm not gonna see the Christmas building lit up in person, but this is just as good.\n\nThanks for sharing!"
+    "body" : "I hate I'm not gonna see the Christmas building lit up in person, but this is just as good.\n\nThanks for sharing!",
+    "username" : "the_neverdoctor",
+    "timestamp" : "2024-12-22 23:08:32"
   }, {
-    "Username" : "neurad1",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:33:39",
-    "Body" : "Moved away in 2019 and I have to say, I miss Birmingham."
+    "body" : "Moved away in 2019 and I have to say, I miss Birmingham.",
+    "username" : "neurad1",
+    "timestamp" : "2024-12-23 05:33:39"
   }, {
-    "Username" : "simonthecat33",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:18:43",
-    "Body" : "I really like how they’ve done the lights on the children’s Hospital. Off-topic but I just found out that in many children’s hospitals across the country the window washers dress up like superheroes while they’re cleaning the windows. Go check it out on YouTube."
+    "body" : "I really like how they’ve done the lights on the children’s Hospital. Off-topic but I just found out that in many children’s hospitals across the country the window washers dress up like superheroes while they’re cleaning the windows. Go check it out on YouTube.",
+    "username" : "simonthecat33",
+    "timestamp" : "2024-12-23 05:18:43"
   }, {
-    "Username" : "Epsilonop",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 03:02:34",
-    "Body" : "Lmao I think I know exactly what parking deck you’re at"
+    "body" : "Lmao I think I know exactly what parking deck you’re at",
+    "username" : "Epsilonop",
+    "timestamp" : "2024-12-23 03:02:34"
   }, {
-    "Username" : "johnsmith98989",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:02:55",
-    "Body" : "Where is this, 2nd floor of Terrace appts?"
+    "body" : "Where is this, 2nd floor of Terrace appts?",
+    "username" : "johnsmith98989",
+    "timestamp" : "2024-12-23 10:02:55"
   }, {
-    "Username" : "Specialist_Stay4986",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:15:56",
-    "Body" : "Luv ❤️ my city around this tyme of year"
+    "body" : "Luv ❤️ my city around this tyme of year",
+    "username" : "Specialist_Stay4986",
+    "timestamp" : "2024-12-23 12:15:56"
   }, {
-    "Username" : "SLE3PR",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 03:26:13",
-    "Body" : "UAB is a pretty city"
+    "body" : "UAB is a pretty city",
+    "username" : "SLE3PR",
+    "timestamp" : "2024-12-23 03:26:13"
   }, {
-    "Username" : "External-Difficult",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:15:28",
-    "Body" : "Ours do too!"
+    "body" : "Ours do too!",
+    "username" : "External-Difficult",
+    "timestamp" : "2024-12-23 11:15:28"
   } ]
 }

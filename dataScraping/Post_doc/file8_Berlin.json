@@ -1,110 +1,110 @@
 {
-  "Id" : 200332,
-  "Community_name" : "Berlin",
-  "Username" : "Ross_On_A_Break",
-  "Post_body" : "Have I missed any English bookstore?",
-  "Timestamp" : "2024-12-22 17:56:17",
-  "Num_comment" : 20,
+  "id" : 200332,
+  "community_name" : "Berlin",
+  "username" : "Ross_On_A_Break",
+  "post_body" : "Have I missed any English bookstore?",
+  "timestamp" : "2024-12-22 17:56:17",
+  "num_comment" : 20,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "DebbieHarryPotter",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:56:17",
-    "Body" : "Shakespeare & Sons"
+    "body" : "Shakespeare & Sons",
+    "username" : "DebbieHarryPotter",
+    "timestamp" : "2024-12-22 17:56:17"
   }, {
-    "Username" : "BlooWarrior53",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:57:06",
-    "Body" : "Mall of Berlin have an English book shop."
+    "body" : "Mall of Berlin have an English book shop.",
+    "username" : "BlooWarrior53",
+    "timestamp" : "2024-12-22 17:57:06"
   }, {
-    "Username" : "Positive-Celery8334",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:52:49",
-    "Body" : "As far as I know bookstores don't really sell textbooks, no matter what language. I think you should be looking for school supply stores but I guess those will rarely have material for English natives."
+    "body" : "As far as I know bookstores don't really sell textbooks, no matter what language. I think you should be looking for school supply stores but I guess those will rarely have material for English natives.",
+    "username" : "Positive-Celery8334",
+    "timestamp" : "2024-12-22 22:52:49"
   }, {
-    "Username" : "pyrokiss6891",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:15:48",
-    "Body" : "Berlin Book Nook near U Schönleinstr. is a fantastic used book store"
+    "body" : "Berlin Book Nook near U Schönleinstr. is a fantastic used book store",
+    "username" : "pyrokiss6891",
+    "timestamp" : "2024-12-22 18:15:48"
   }, {
-    "Username" : "Alternative_Suit_902",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:50:02",
-    "Body" : "You can try the American history library in Hallesches Tor, sign up for free  and you can find all kinds of books there, I think you might find what u want as well"
+    "body" : "You can try the American history library in Hallesches Tor, sign up for free  and you can find all kinds of books there, I think you might find what u want as well",
+    "username" : "Alternative_Suit_902",
+    "timestamp" : "2024-12-22 20:50:02"
   }, {
-    "Username" : "Trippseatsalot",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:02:19",
-    "Body" : "Shakespeares and sons"
+    "body" : "Shakespeares and sons",
+    "username" : "Trippseatsalot",
+    "timestamp" : "2024-12-22 22:02:19"
   }, {
-    "Username" : "kaput",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:37:51",
-    "Body" : "Otherland has a large section of English fantasy and science fiction books."
+    "body" : "Otherland has a large section of English fantasy and science fiction books.",
+    "username" : "kaput",
+    "timestamp" : "2024-12-22 23:37:51"
   }, {
-    "Username" : "sderfo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:02:57",
-    "Body" : "You seem to have missed the english bookstore range at Dussmann, it's separate and has a ton of fiction on two storeys. Find the sphinx, then he\nad to the right."
+    "body" : "You seem to have missed the english bookstore range at Dussmann, it's separate and has a ton of fiction on two storeys. Find the sphinx, then he\nad to the right.",
+    "username" : "sderfo",
+    "timestamp" : "2024-12-22 20:02:57"
   }, {
-    "Username" : "snorkelding85",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:20:25",
-    "Body" : "If you want to buy English childrens books: Mouse & Bear Books in Boxhagener Straße"
+    "body" : "If you want to buy English childrens books: Mouse & Bear Books in Boxhagener Straße",
+    "username" : "snorkelding85",
+    "timestamp" : "2024-12-22 18:20:25"
   }, {
-    "Username" : "zozobad",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:12:29",
-    "Body" : "\"she says\"? also plenty of art books & magazine stores, mostly in english, like \"do you read me?\""
+    "body" : "\"she says\"? also plenty of art books & magazine stores, mostly in english, like \"do you read me?\"",
+    "username" : "zozobad",
+    "timestamp" : "2024-12-23 01:12:29"
   }, {
-    "Username" : "falafelhalloumibitte",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:00:52",
-    "Body" : "Have you tried Lehmanns near charite? I think it specifies in textbooks so could imagine it has english titles :) Otherwise try kleinanzeigen, but you’d have to be specific and search subjects or disciplines? Also I would recommend Cafe Tasso near frankfurter tor, they have a great english book section downstairs on the shelves on the left, and all the books are something like 2/2,50€ each. I’ve found some great ones there!"
+    "body" : "Have you tried Lehmanns near charite? I think it specifies in textbooks so could imagine it has english titles :) Otherwise try kleinanzeigen, but you’d have to be specific and search subjects or disciplines? Also I would recommend Cafe Tasso near frankfurter tor, they have a great english book section downstairs on the shelves on the left, and all the books are something like 2/2,50€ each. I’ve found some great ones there!",
+    "username" : "falafelhalloumibitte",
+    "timestamp" : "2024-12-23 05:00:52"
   }, {
-    "Username" : "LifesGrip",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:37:12",
-    "Body" : "Amazon.de ??"
+    "body" : "Amazon.de ??",
+    "username" : "LifesGrip",
+    "timestamp" : "2024-12-22 18:37:12"
   }, {
-    "Username" : "Ross_On_A_Break",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:58:25",
-    "Body" : "Really? I was there the other day. I don't know how I missed that."
+    "body" : "Really? I was there the other day. I don't know how I missed that.",
+    "username" : "Ross_On_A_Break",
+    "timestamp" : "2024-12-22 17:58:25"
   }, {
-    "Username" : "Ross_On_A_Break",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:20:28",
-    "Body" : "Thanks, will definitely check it out."
+    "body" : "Thanks, will definitely check it out.",
+    "username" : "Ross_On_A_Break",
+    "timestamp" : "2024-12-22 18:20:28"
   }, {
-    "Username" : "Ross_On_A_Break",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:02:08",
-    "Body" : "This sounds great, but I don't live in Berlin. The library membership wouldn't be of any help to me."
+    "body" : "This sounds great, but I don't live in Berlin. The library membership wouldn't be of any help to me.",
+    "username" : "Ross_On_A_Break",
+    "timestamp" : "2024-12-22 21:02:08"
   }, {
-    "Username" : "Ross_On_A_Break",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:13:01",
-    "Body" : "Is it at a different address? The main Dussmann store had an international section where English books were stored. I thought this was it."
+    "body" : "Is it at a different address? The main Dussmann store had an international section where English books were stored. I thought this was it.",
+    "username" : "Ross_On_A_Break",
+    "timestamp" : "2024-12-22 20:13:01"
   }, {
-    "Username" : "gynnee",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:51:52",
-    "Body" : "Thanks! I live in Fhain and didn't know about it."
+    "body" : "Thanks! I live in Fhain and didn't know about it.",
+    "username" : "gynnee",
+    "timestamp" : "2024-12-22 19:51:52"
   }, {
-    "Username" : "BlooWarrior53",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:01:52",
-    "Body" : "It's by the food area."
+    "body" : "It's by the food area.",
+    "username" : "BlooWarrior53",
+    "timestamp" : "2024-12-22 18:01:52"
   }, {
-    "Username" : "Alternative_Suit_902",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:03:36",
-    "Body" : "Bummer, I'm not sure if you can buy books but you might be able to, gl"
+    "body" : "Bummer, I'm not sure if you can buy books but you might be able to, gl",
+    "username" : "Alternative_Suit_902",
+    "timestamp" : "2024-12-22 21:03:36"
   }, {
-    "Username" : "neiaafc",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:23:53",
-    "Body" : "English bookshop by Thalia"
+    "body" : "English bookshop by Thalia",
+    "username" : "neiaafc",
+    "timestamp" : "2024-12-22 18:23:53"
   } ]
 }

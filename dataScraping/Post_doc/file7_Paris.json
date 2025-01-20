@@ -1,15 +1,15 @@
 {
-  "Id" : 200347,
-  "Community_name" : "Paris",
-  "Username" : "lunetown",
-  "Post_body" : "alternative hair salons?",
-  "Timestamp" : "2024-12-23 14:58:34",
-  "Num_comment" : 1,
+  "id" : 200347,
+  "community_name" : "Paris",
+  "username" : "lunetown",
+  "post_body" : "alternative hair salons?",
+  "timestamp" : "2024-12-23 14:58:34",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "succubus-witch",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:58:34",
-    "Body" : "Bubble Factory seem like they’d do the style you have in mind, never been there though"
+    "body" : "Bubble Factory seem like they’d do the style you have in mind, never been there though",
+    "username" : "succubus-witch",
+    "timestamp" : "2024-12-23 14:58:34"
   } ]
 }

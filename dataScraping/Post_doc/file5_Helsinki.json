@@ -1,40 +1,40 @@
 {
-  "Id" : 200138,
-  "Community_name" : "Helsinki",
-  "Username" : "YogurtclosetLocal778",
-  "Post_body" : "Eläinlääkäri laskulle",
-  "Timestamp" : "2024-12-23 13:29:19",
-  "Num_comment" : 6,
+  "id" : 200138,
+  "community_name" : "Helsinki",
+  "username" : "YogurtclosetLocal778",
+  "post_body" : "Eläinlääkäri laskulle",
+  "timestamp" : "2024-12-23 13:29:19",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Tulpukka",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:29:19",
-    "Body" : "Evidensialta ainakin saa. Edellyttää toki myönteisen luottopäätöksen heidän rahoituskumppaniltaan."
+    "body" : "Evidensialta ainakin saa. Edellyttää toki myönteisen luottopäätöksen heidän rahoituskumppaniltaan.",
+    "username" : "Tulpukka",
+    "timestamp" : "2024-12-23 13:29:19"
   }, {
-    "Username" : "YogurtclosetLocal778",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:53:18",
-    "Body" : "Löysin ell joska saa laskulle ja tälle pöivälle ajan!☺️"
+    "body" : "Löysin ell joska saa laskulle ja tälle pöivälle ajan!☺️",
+    "username" : "YogurtclosetLocal778",
+    "timestamp" : "2024-12-23 13:53:18"
   }, {
-    "Username" : "Melodic-Order-5621",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:44:30",
-    "Body" : "Yleensä kannattaa hakea luotto/laina käyntiä varten muualta kuin eläinlääkäriltä. Eläinlääkäriasemilla ei yleensä ole omia rahoituspalveluita, ja jos on niin korot ja ehdot eivät todellakaan ole sieltä parhaasta päästä"
+    "body" : "Yleensä kannattaa hakea luotto/laina käyntiä varten muualta kuin eläinlääkäriltä. Eläinlääkäriasemilla ei yleensä ole omia rahoituspalveluita, ja jos on niin korot ja ehdot eivät todellakaan ole sieltä parhaasta päästä",
+    "username" : "Melodic-Order-5621",
+    "timestamp" : "2024-12-23 13:44:30"
   }, {
-    "Username" : "hupaisasurku",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:51:40",
-    "Body" : "Viikki"
+    "body" : "Viikki",
+    "username" : "hupaisasurku",
+    "timestamp" : "2024-12-23 13:51:40"
   }, {
-    "Username" : "whatisitmooncake",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:53:35",
-    "Body" : "Suurimmalla osalla eläinlääkäriasemista on olemassa laskutus-/luottosopimuksia kolmansien osapuolien kautta (Klarnat, Sveat jne)."
+    "body" : "Suurimmalla osalla eläinlääkäriasemista on olemassa laskutus-/luottosopimuksia kolmansien osapuolien kautta (Klarnat, Sveat jne).",
+    "username" : "whatisitmooncake",
+    "timestamp" : "2024-12-23 13:53:35"
   }, {
-    "Username" : "ndrjjhmn",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:42:38",
-    "Body" : "Ei taida sellaista eläinlääkäriä olla joka laskulla hoitaa. "
+    "body" : "Ei taida sellaista eläinlääkäriä olla joka laskulla hoitaa. ",
+    "username" : "ndrjjhmn",
+    "timestamp" : "2024-12-23 13:42:38"
   } ]
 }

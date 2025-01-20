@@ -1,15 +1,15 @@
 {
-  "Id" : 200175,
-  "Community_name" : "Valencia",
-  "Username" : "Neither-Walrus2806",
-  "Post_body" : "What is the most convenient type of vehicle for family with 2 children in VLC?",
-  "Timestamp" : "2024-12-23 15:27:48",
-  "Num_comment" : 1,
+  "id" : 200175,
+  "community_name" : "Valencia",
+  "username" : "Neither-Walrus2806",
+  "post_body" : "What is the most convenient type of vehicle for family with 2 children in VLC?",
+  "timestamp" : "2024-12-23 15:27:48",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "extinctpolarbear",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:27:48",
-    "Body" : "Bicicleta"
+    "body" : "Bicicleta",
+    "username" : "extinctpolarbear",
+    "timestamp" : "2024-12-23 15:27:48"
   } ]
 }

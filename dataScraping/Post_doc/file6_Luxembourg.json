@@ -1,100 +1,100 @@
 {
-  "Id" : 200280,
-  "Community_name" : "Luxembourg",
-  "Username" : "whogivesafuckwhoiam",
-  "Post_body" : "RTL is starting a war on eggnog",
-  "Timestamp" : "2024-12-23 09:29:06",
-  "Num_comment" : 18,
+  "id" : 200280,
+  "community_name" : "Luxembourg",
+  "username" : "whogivesafuckwhoiam",
+  "post_body" : "RTL is starting a war on eggnog",
+  "timestamp" : "2024-12-23 09:29:06",
+  "num_comment" : 18,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "BeanOfKnowledge",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:44:07",
-    "Body" : "\"We paid an Intern 5€ to say a thing you like is bad\""
+    "body" : "\"We paid an Intern 5€ to say a thing you like is bad\"",
+    "username" : "BeanOfKnowledge",
+    "timestamp" : "2024-12-23 09:44:07"
   }, {
-    "Username" : "F34rthebat",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:41:00",
-    "Body" : "Yo...RTL...Know your place and shut your mouth."
+    "body" : "Yo...RTL...Know your place and shut your mouth.",
+    "username" : "F34rthebat",
+    "timestamp" : "2024-12-23 09:41:00"
   }, {
-    "Username" : "dreya888",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:45:39",
-    "Body" : "RTL is done"
+    "body" : "RTL is done",
+    "username" : "dreya888",
+    "timestamp" : "2024-12-23 09:45:39"
   }, {
-    "Username" : "Fun-Ad9804",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:23:14",
-    "Body" : "Hey RTL journalist who wrote this piece. In my part of Luxembourg it’s actually sunny! But I wish you “none” ;) You could have just said unpleasant or unappealing but gross???"
+    "body" : "Hey RTL journalist who wrote this piece. In my part of Luxembourg it’s actually sunny! But I wish you “none” ;) You could have just said unpleasant or unappealing but gross???",
+    "username" : "Fun-Ad9804",
+    "timestamp" : "2024-12-23 13:23:14"
   }, {
-    "Username" : "Root_the_Truth",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:37:36",
-    "Body" : "Can we petition to ban the word eggnog from r/Luxembourg?\n\nI commend the innovative approach to this marketing campaign from Luxlait (I'm one of your biggest fans except for the cheese) but this is going too far and is spamming the Sub."
+    "body" : "Can we petition to ban the word eggnog from r/Luxembourg?\n\nI commend the innovative approach to this marketing campaign from Luxlait (I'm one of your biggest fans except for the cheese) but this is going too far and is spamming the Sub.",
+    "username" : "Root_the_Truth",
+    "timestamp" : "2024-12-23 14:37:36"
   }, {
-    "Username" : "Glittering_Space5018",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:39:03",
-    "Body" : "I tried it and what takes me aback is the fake alcohol taste."
+    "body" : "I tried it and what takes me aback is the fake alcohol taste.",
+    "username" : "Glittering_Space5018",
+    "timestamp" : "2024-12-23 09:39:03"
   }, {
-    "Username" : "Vengarth",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:29:06",
-    "Body" : "For the longest time, I also thought it was gross, but I had a taste again this year and liked it.\n\nI wouldn't drink it constantly, but once in a while, it's good."
+    "body" : "For the longest time, I also thought it was gross, but I had a taste again this year and liked it.\n\nI wouldn't drink it constantly, but once in a while, it's good.",
+    "username" : "Vengarth",
+    "timestamp" : "2024-12-23 09:29:06"
   }, {
-    "Username" : "zarzarbinksthe4th",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:31:28",
-    "Body" : "Harnessing the power of click bait 🤣"
+    "body" : "Harnessing the power of click bait 🤣",
+    "username" : "zarzarbinksthe4th",
+    "timestamp" : "2024-12-23 09:31:28"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:45:13",
-    "Body" : "[removed]"
+    "body" : "[removed]",
+    "username" : "None",
+    "timestamp" : "2024-12-23 13:45:13"
   }, {
-    "Username" : "Die4Gesichter",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:17:38",
-    "Body" : "![gif](giphy|3o6Mbsv3wXbIS3dpNS)"
+    "body" : "![gif](giphy|3o6Mbsv3wXbIS3dpNS)",
+    "username" : "Die4Gesichter",
+    "timestamp" : "2024-12-23 14:17:38"
   }, {
-    "Username" : "notcomplainingmuch",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:53:11",
-    "Body" : "'Ur mom is what?', is the standard retort."
+    "body" : "'Ur mom is what?', is the standard retort.",
+    "username" : "notcomplainingmuch",
+    "timestamp" : "2024-12-23 14:53:11"
   }, {
-    "Username" : "Rally_Sport",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:56:52",
-    "Body" : "RTL, you sly devil you 😂. Biting the hand that gives you articles 😂."
+    "body" : "RTL, you sly devil you 😂. Biting the hand that gives you articles 😂.",
+    "username" : "Rally_Sport",
+    "timestamp" : "2024-12-23 14:56:52"
   }, {
-    "Username" : "Rally_Sport",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:58:39",
-    "Body" : "Apologies but banning the word is not the way to go. Going out and buying all the EGGNOG IS !"
+    "body" : "Apologies but banning the word is not the way to go. Going out and buying all the EGGNOG IS !",
+    "username" : "Rally_Sport",
+    "timestamp" : "2024-12-23 14:58:39"
   }, {
-    "Username" : "attilio_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:23:46",
-    "Body" : "Yeah it's literally cream with chemicals, don't know why people on here are crazy about it.. not even real eggs inside"
+    "body" : "Yeah it's literally cream with chemicals, don't know why people on here are crazy about it.. not even real eggs inside",
+    "username" : "attilio_",
+    "timestamp" : "2024-12-23 11:23:46"
   }, {
-    "Username" : "zarzarbinksthe4th",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:31:49",
-    "Body" : "Add bourbon or baileys. ;)"
+    "body" : "Add bourbon or baileys. ;)",
+    "username" : "zarzarbinksthe4th",
+    "timestamp" : "2024-12-23 09:31:49"
   }, {
-    "Username" : "AutoModerator",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:45:13",
-    "Body" : "Hi, your Reddit account is not allowed to comment in our community. Low comment karma is not trusted. You are only allowed to post. Until you have a trusted account with enough postive karma to satisfy our Automoderator, please accept the answers you are given.  If you have a support-related inquiry, please search the community for similar posts, including the weekly *Megathreads* which are pinned to the top of our home page. Take the time to learn about being a good Redditor. Consult these resources ( r/NewToReddit | https://www.reddit.com/r/help/| https://support.reddithelp.com/hc/en-us/p/redditor_help_center ) \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Luxembourg) if you have any questions or concerns.*"
+    "body" : "Hi, your Reddit account is not allowed to comment in our community. Low comment karma is not trusted. You are only allowed to post. Until you have a trusted account with enough postive karma to satisfy our Automoderator, please accept the answers you are given.  If you have a support-related inquiry, please search the community for similar posts, including the weekly *Megathreads* which are pinned to the top of our home page. Take the time to learn about being a good Redditor. Consult these resources ( r/NewToReddit | https://www.reddit.com/r/help/| https://support.reddithelp.com/hc/en-us/p/redditor_help_center ) \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Luxembourg) if you have any questions or concerns.*",
+    "username" : "AutoModerator",
+    "timestamp" : "2024-12-23 13:45:13"
   }, {
-    "Username" : "Root_the_Truth",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:01:41",
-    "Body" : "The eggnog isn't great though. If it had real alcohol in it I'd be in but the artificial flavour takes away from it. Loving the vanilla however!"
+    "body" : "The eggnog isn't great though. If it had real alcohol in it I'd be in but the artificial flavour takes away from it. Loving the vanilla however!",
+    "username" : "Root_the_Truth",
+    "timestamp" : "2024-12-23 15:01:41"
   }, {
-    "Username" : "dreya888",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:32:43",
-    "Body" : "Get outta my digital lawn"
+    "body" : "Get outta my digital lawn",
+    "username" : "dreya888",
+    "timestamp" : "2024-12-23 14:32:43"
   } ]
 }

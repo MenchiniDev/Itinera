@@ -1,10 +1,10 @@
 {
-  "Id" : 200390,
-  "Community_name" : "Marseille",
-  "Username" : "guilalune",
-  "Post_body" : "Programme de la nuit des musées, samedi 16 mai",
-  "Timestamp" : "2024-04-15 20:26:26",
-  "Num_comment" : 0,
+  "id" : 200390,
+  "community_name" : "Marseille",
+  "username" : "guilalune",
+  "post_body" : "Programme de la nuit des musées, samedi 16 mai",
+  "timestamp" : "2024-01-10 21:04:33",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

@@ -15,8 +15,10 @@ import org.springframework.web.bind.annotation.*;
 
 import com.unipi.ItineraJava.model.MongoCommunity;
 import com.unipi.ItineraJava.model.User;
+import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
+
 
 @RestController
 @RequestMapping("/Community")
@@ -25,6 +27,10 @@ class CommunityController {
     @Autowired
     private CommunityService communityService;
     @Autowired
+
+    private CommunityNeo4jRepository communityNeo4jRepository;
+    @Autowired
+
     private CommunityRepository mongoCommunityRepository;
 
 
@@ -69,6 +75,7 @@ class CommunityController {
                 }
                 mongoCommunity.setCreated(new Date().toString());
                 mongoCommunityRepository.save(mongoCommunity);
+                communityNeo4jRepository.createCommunityNode(mongoCommunity.getCity());
                 return ResponseEntity.ok("Community created successfully with ID: " + mongoCommunity.getId());
             }else {
                 return ResponseEntity.status(400).body("User not authenticated as Admin");

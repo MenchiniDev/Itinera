@@ -1,255 +1,255 @@
 {
-  "Id" : 200282,
-  "Community_name" : "Ljubljana",
-  "Username" : "Sea-Ebb7795",
-  "Post_body" : "Topla malica v LJ",
-  "Timestamp" : "2024-12-22 15:08:05",
-  "Num_comment" : 49,
+  "id" : 200282,
+  "community_name" : "Ljubljana",
+  "username" : "Sea-Ebb7795",
+  "post_body" : "Topla malica v LJ",
+  "timestamp" : "2024-12-22 15:08:05",
+  "num_comment" : 49,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "DaSecretSlovene",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:14:23",
-    "Body" : ">Sprašujem ker se nam obeta dosti terenskega dela po celi LJ in da vem kam poslat fante, da se najejo in niso ob pol plače mesečno za malico.\n\nDober šef, če tako misli."
+    "body" : ">Sprašujem ker se nam obeta dosti terenskega dela po celi LJ in da vem kam poslat fante, da se najejo in niso ob pol plače mesečno za malico.\n\nDober šef, če tako misli.",
+    "username" : "DaSecretSlovene",
+    "timestamp" : "2024-12-22 15:14:23"
   }, {
-    "Username" : "Jelly_Round",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:13:54",
-    "Body" : "Klopčič, (Litostroj, Ljubljana). Velike porcije, hrana je od 5-10eur  dobr se najes"
+    "body" : "Klopčič, (Litostroj, Ljubljana). Velike porcije, hrana je od 5-10eur  dobr se najes",
+    "username" : "Jelly_Round",
+    "timestamp" : "2024-12-22 15:13:54"
   }, {
-    "Username" : "Key_Information9619",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:13:48",
-    "Body" : "Absolutno marjetica tobačna, ni predrago pa res dobr. Taka fajn domaca hrana."
+    "body" : "Absolutno marjetica tobačna, ni predrago pa res dobr. Taka fajn domaca hrana.",
+    "username" : "Key_Information9619",
+    "timestamp" : "2024-12-22 15:13:48"
   }, {
-    "Username" : "Professional-Bat712",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:45:15",
-    "Body" : "Samo ne v Mozarta, Stegne. Naj vas ne premamijo nizke cene."
+    "body" : "Samo ne v Mozarta, Stegne. Naj vas ne premamijo nizke cene.",
+    "username" : "Professional-Bat712",
+    "timestamp" : "2024-12-22 17:45:15"
   }, {
-    "Username" : "PapuaNovaGvineja",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:22:53",
-    "Body" : "Pri Micki v Dobrunjah, če vam ni predaleč. Velike porcije, dnevno sveža hrana, okusno pripravljeno. Hodi veliko takih in drugačnih delavcev tja. Edina slabost je, da se meniji tedensko precej ponavljajo 🤪."
+    "body" : "Pri Micki v Dobrunjah, če vam ni predaleč. Velike porcije, dnevno sveža hrana, okusno pripravljeno. Hodi veliko takih in drugačnih delavcev tja. Edina slabost je, da se meniji tedensko precej ponavljajo 🤪.",
+    "username" : "PapuaNovaGvineja",
+    "timestamp" : "2024-12-22 16:22:53"
   }, {
-    "Username" : "Ordinary-Blueberry25",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:16:54",
-    "Body" : "Marjetica (Tobačna). Odlična domača hrana za zmerno ceno!"
+    "body" : "Marjetica (Tobačna). Odlična domača hrana za zmerno ceno!",
+    "username" : "Ordinary-Blueberry25",
+    "timestamp" : "2024-12-22 20:16:54"
   }, {
-    "Username" : "TheStol",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:46:23",
-    "Body" : "Orient expres - klasična menza\n\nDrugače pa lahko komot greš v študentsko menzo v Rožni"
+    "body" : "Orient expres - klasična menza\n\nDrugače pa lahko komot greš v študentsko menzo v Rožni",
+    "username" : "TheStol",
+    "timestamp" : "2024-12-22 17:46:23"
   }, {
-    "Username" : "anzezaf",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:50:59",
-    "Body" : "Na šihtu redno (vsak dan) hodimo v restavracijo Interspar na viču.. Zmeraj najdeš neki dobrega za jest in ugodno.\n\nOpcija je tudi \"pri dveh cesarjih\".. taka proper delavska menza"
+    "body" : "Na šihtu redno (vsak dan) hodimo v restavracijo Interspar na viču.. Zmeraj najdeš neki dobrega za jest in ugodno.\n\nOpcija je tudi \"pri dveh cesarjih\".. taka proper delavska menza",
+    "username" : "anzezaf",
+    "timestamp" : "2024-12-22 17:50:59"
   }, {
-    "Username" : "Flimsy-Plane8724",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:24:42",
-    "Body" : "Restavracija Orient express (: super porcije, fajn meni pa res okusna hrana, pa ni predrago."
+    "body" : "Restavracija Orient express (: super porcije, fajn meni pa res okusna hrana, pa ni predrago.",
+    "username" : "Flimsy-Plane8724",
+    "timestamp" : "2024-12-22 15:24:42"
   }, {
-    "Username" : "BreadfruitIcy3727",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:45:12",
-    "Body" : "Stari Tišler, Slovenska hiša, Malice.si v dopoldanskem času"
+    "body" : "Stari Tišler, Slovenska hiša, Malice.si v dopoldanskem času",
+    "username" : "BreadfruitIcy3727",
+    "timestamp" : "2024-12-22 15:45:12"
   }, {
-    "Username" : "Consistent-Range-959",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:23:35",
-    "Body" : "Skriti kot."
+    "body" : "Skriti kot.",
+    "username" : "Consistent-Range-959",
+    "timestamp" : "2024-12-22 16:23:35"
   }, {
-    "Username" : "zihaaa",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:58:34",
-    "Body" : "https://gostilnamicka.si/"
+    "body" : "https://gostilnamicka.si/",
+    "username" : "zihaaa",
+    "timestamp" : "2024-12-22 17:58:34"
   }, {
-    "Username" : "Own-Tour8134",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:27:23",
-    "Body" : "Pa v Murgle centru je ena gostilna z malicami, mislim da za 6.5€"
+    "body" : "Pa v Murgle centru je ena gostilna z malicami, mislim da za 6.5€",
+    "username" : "Own-Tour8134",
+    "timestamp" : "2024-12-22 18:27:23"
   }, {
-    "Username" : "Enough-Entrance980",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:46:47",
-    "Body" : "Marjetica na Tobačni.\nRaznoliko, zelo okusno, solidne porcije in poštena cena."
+    "body" : "Marjetica na Tobačni.\nRaznoliko, zelo okusno, solidne porcije in poštena cena.",
+    "username" : "Enough-Entrance980",
+    "timestamp" : "2024-12-22 22:46:47"
   }, {
-    "Username" : "RibezSI",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:08:05",
-    "Body" : "Dobra hiša v Stegnah"
+    "body" : "Dobra hiša v Stegnah",
+    "username" : "RibezSI",
+    "timestamp" : "2024-12-22 15:08:05"
   }, {
-    "Username" : "NoEstablishment1867",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:47:56",
-    "Body" : "Rogovilc v Črnučah, kratochwill v btc"
+    "body" : "Rogovilc v Črnučah, kratochwill v btc",
+    "username" : "NoEstablishment1867",
+    "timestamp" : "2024-12-22 15:47:56"
   }, {
-    "Username" : "Sea-Ebb7795",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:51:33",
-    "Body" : "Včasih je veljajo da ima Kurji tat na Viču vrhunska pražena jetrca. To še velja? Ker ta podatek je star pomoje že 10+ let."
+    "body" : "Včasih je veljajo da ima Kurji tat na Viču vrhunska pražena jetrca. To še velja? Ker ta podatek je star pomoje že 10+ let.",
+    "username" : "Sea-Ebb7795",
+    "timestamp" : "2024-12-22 15:51:33"
   }, {
-    "Username" : "zabavogrinjalu",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:16:52",
-    "Body" : "Mojca pri Belinki. Malice 6,80eur, solidne porcije"
+    "body" : "Mojca pri Belinki. Malice 6,80eur, solidne porcije",
+    "username" : "zabavogrinjalu",
+    "timestamp" : "2024-12-22 16:16:52"
   }, {
-    "Username" : "Ok-Duty-3148",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:25:24",
-    "Body" : "Hiša jerin"
+    "body" : "Hiša jerin",
+    "username" : "Ok-Duty-3148",
+    "timestamp" : "2024-12-22 17:25:24"
   }, {
-    "Username" : "Uporabik",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:09:02",
-    "Body" : "Klopčič"
+    "body" : "Klopčič",
+    "username" : "Uporabik",
+    "timestamp" : "2024-12-22 18:09:02"
   }, {
-    "Username" : "Own-Tour8134",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:26:53",
-    "Body" : "Spar restavracija pa Kuhna na Kotnikovi, sam imajo samo zunaj za sedet"
+    "body" : "Spar restavracija pa Kuhna na Kotnikovi, sam imajo samo zunaj za sedet",
+    "username" : "Own-Tour8134",
+    "timestamp" : "2024-12-22 18:26:53"
   }, {
-    "Username" : "Great-Badger-4160",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:42:22",
-    "Body" : "Jaz kar v Spar restoracijah dostikrat jem."
+    "body" : "Jaz kar v Spar restoracijah dostikrat jem.",
+    "username" : "Great-Badger-4160",
+    "timestamp" : "2024-12-22 18:42:22"
   }, {
-    "Username" : "BagOutrageous2136",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:25:10",
-    "Body" : "Gostilnica in pivnica vič"
+    "body" : "Gostilnica in pivnica vič",
+    "username" : "BagOutrageous2136",
+    "timestamp" : "2024-12-22 19:25:10"
   }, {
-    "Username" : "kalubasukdeod",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:16:43",
-    "Body" : "Jarh Šentvid, lesnina brdo"
+    "body" : "Jarh Šentvid, lesnina brdo",
+    "username" : "kalubasukdeod",
+    "timestamp" : "2024-12-22 20:16:43"
   }, {
-    "Username" : "goldenisdaylight",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:18:59",
-    "Body" : "Gostilnica Gogi (LJ stegne pomojem, mi narocamo preko wolta pri njih pa majo velike porcije + dobro)"
+    "body" : "Gostilnica Gogi (LJ stegne pomojem, mi narocamo preko wolta pri njih pa majo velike porcije + dobro)",
+    "username" : "goldenisdaylight",
+    "timestamp" : "2024-12-22 20:18:59"
   }, {
-    "Username" : "Key_Sheepherder8994",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:45:26",
-    "Body" : "Čorbica vse na žlico v Šiški"
+    "body" : "Čorbica vse na žlico v Šiški",
+    "username" : "Key_Sheepherder8994",
+    "timestamp" : "2024-12-22 20:45:26"
   }, {
-    "Username" : "friderik",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:35:34",
-    "Body" : "- marjetica (Tobačna)\n- Interspar Vič\n- Gostilna Micka\n- Jurman"
+    "body" : "- marjetica (Tobačna)\n- Interspar Vič\n- Gostilna Micka\n- Jurman",
+    "username" : "friderik",
+    "timestamp" : "2024-12-22 21:35:34"
   }, {
-    "Username" : "keops112",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:29:26",
-    "Body" : "Pri Mostu, Zalog"
+    "body" : "Pri Mostu, Zalog",
+    "username" : "keops112",
+    "timestamp" : "2024-12-22 22:29:26"
   }, {
-    "Username" : "rep0rt_bug",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 02:48:30",
-    "Body" : "Gogi, šiška."
+    "body" : "Gogi, šiška.",
+    "username" : "rep0rt_bug",
+    "timestamp" : "2024-12-23 02:48:30"
   }, {
-    "Username" : "gitarslo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:33:40",
-    "Body" : "V intersparu si lahko vzameš tudi v toploteki. Na petke je še -10% če zapravite nad 30e"
+    "body" : "V intersparu si lahko vzameš tudi v toploteki. Na petke je še -10% če zapravite nad 30e",
+    "username" : "gitarslo",
+    "timestamp" : "2024-12-23 09:33:40"
   }, {
-    "Username" : "alejandrojovan",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:47:49",
-    "Body" : "Sicer je malo bolj težavno iz vidika parkinga, ampak Pravna fakulteta ima spodobno menzo za normalen keš. Mislim, da je glavna jed cca 6,80€, s tem da če vzameš kakšno zadevo na žlico (golaž, bograč itd) se naješ ko blesav."
+    "body" : "Sicer je malo bolj težavno iz vidika parkinga, ampak Pravna fakulteta ima spodobno menzo za normalen keš. Mislim, da je glavna jed cca 6,80€, s tem da če vzameš kakšno zadevo na žlico (golaž, bograč itd) se naješ ko blesav.",
+    "username" : "alejandrojovan",
+    "timestamp" : "2024-12-23 11:47:49"
   }, {
-    "Username" : "GoDvpEr",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:39:04",
-    "Body" : "Restavracija Orient Express blizu železniške postaje"
+    "body" : "Restavracija Orient Express blizu železniške postaje",
+    "username" : "GoDvpEr",
+    "timestamp" : "2024-12-23 13:39:04"
   }, {
-    "Username" : "Indigoscience",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:01:33",
-    "Body" : "Skriti kot"
+    "body" : "Skriti kot",
+    "username" : "Indigoscience",
+    "timestamp" : "2024-12-22 16:01:33"
   }, {
-    "Username" : "DanimilFX",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:04:10",
-    "Body" : "Odvisno kje delajo. Če v okolici BTC, imaš malo morje takšnih in drugačnih ponudb pa nobenega jajcanja s parkirišči."
+    "body" : "Odvisno kje delajo. Če v okolici BTC, imaš malo morje takšnih in drugačnih ponudb pa nobenega jajcanja s parkirišči.",
+    "username" : "DanimilFX",
+    "timestamp" : "2024-12-22 17:04:10"
   }, {
-    "Username" : "Sea-Ebb7795",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:16:36",
-    "Body" : "Dobro se z dobrim vrača. Smo manjši kolektiv, večina delavcev je na firmi 10+ (nekateri tudi 25+) let in naj odnosi ostanejo dobri, fantje pa siti."
+    "body" : "Dobro se z dobrim vrača. Smo manjši kolektiv, večina delavcev je na firmi 10+ (nekateri tudi 25+) let in naj odnosi ostanejo dobri, fantje pa siti.",
+    "username" : "Sea-Ebb7795",
+    "timestamp" : "2024-12-22 15:16:36"
   }, {
-    "Username" : "Safe_Painting5480",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:47:04",
-    "Body" : "Nisem vedel da Klopčič še obstaja, nazadnje sem tam malcal cca 10 let nazaj pa so nam kuharce vedno natrpale krožnik s hrano tako da lačen nisem šel ven. Smo pa takrat tudi redno zahajali v Slamco na Šmartinski."
+    "body" : "Nisem vedel da Klopčič še obstaja, nazadnje sem tam malcal cca 10 let nazaj pa so nam kuharce vedno natrpale krožnik s hrano tako da lačen nisem šel ven. Smo pa takrat tudi redno zahajali v Slamco na Šmartinski.",
+    "username" : "Safe_Painting5480",
+    "timestamp" : "2024-12-22 22:47:04"
   }, {
-    "Username" : "jero325",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:19:58",
-    "Body" : "Cash only je edina slabost Klopčiča 😐"
+    "body" : "Cash only je edina slabost Klopčiča 😐",
+    "username" : "jero325",
+    "timestamp" : "2024-12-22 15:19:58"
   }, {
-    "Username" : "zlatinejc",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:26:40",
-    "Body" : "Samo te parking drazje pride kot sam obrok…"
+    "body" : "Samo te parking drazje pride kot sam obrok…",
+    "username" : "zlatinejc",
+    "timestamp" : "2024-12-22 21:26:40"
   }, {
-    "Username" : "Frosty_Bet_9641",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:37:21",
-    "Body" : "Sta celo dve vendar pa pod 8e ni malice... kosilo (torej z juho) pa 10e. Malice so sicer v večini dobre in okusne tudi količinsko je zadovoljivo s kruhom je pa bolj tako tako..."
+    "body" : "Sta celo dve vendar pa pod 8e ni malice... kosilo (torej z juho) pa 10e. Malice so sicer v večini dobre in okusne tudi količinsko je zadovoljivo s kruhom je pa bolj tako tako...",
+    "username" : "Frosty_Bet_9641",
+    "timestamp" : "2024-12-23 01:37:21"
   }, {
-    "Username" : "curious_fir",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:49:13",
-    "Body" : "Ali pa Dobra hiša v Supernovi na Rudniku. Solidna ponudba malo bolj \"domače\" hrane, razmeroma ugodno če primerjam s cenami drugod in še dost hitro se da pojest."
+    "body" : "Ali pa Dobra hiša v Supernovi na Rudniku. Solidna ponudba malo bolj \"domače\" hrane, razmeroma ugodno če primerjam s cenami drugod in še dost hitro se da pojest.",
+    "username" : "curious_fir",
+    "timestamp" : "2024-12-22 16:49:13"
   }, {
-    "Username" : "TwoMindless3579",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:34:48",
-    "Body" : "Kratochwill ni šans da prideš pod 12e pa se dobr ni"
+    "body" : "Kratochwill ni šans da prideš pod 12e pa se dobr ni",
+    "username" : "TwoMindless3579",
+    "timestamp" : "2024-12-22 20:34:48"
   }, {
-    "Username" : "zlatinejc",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:25:35",
-    "Body" : "Samo kratohvil ni pocen …"
+    "body" : "Samo kratohvil ni pocen …",
+    "username" : "zlatinejc",
+    "timestamp" : "2024-12-22 21:25:35"
   }, {
-    "Username" : "maxipin",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 02:52:20",
-    "Body" : "Kje je to?"
+    "body" : "Kje je to?",
+    "username" : "maxipin",
+    "timestamp" : "2024-12-23 02:52:20"
   }, {
-    "Username" : "DaSecretSlovene",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:04:44",
-    "Body" : "Ayye 🫡"
+    "body" : "Ayye 🫡",
+    "username" : "DaSecretSlovene",
+    "timestamp" : "2024-12-22 17:04:44"
   }, {
-    "Username" : "Jelly_Round",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:21:09",
-    "Body" : "Pač dvigneš gotovino. Za tolk ugodno, se težko kje naješ. Je pa res, da ni to obrok 5 zvezdic"
+    "body" : "Pač dvigneš gotovino. Za tolk ugodno, se težko kje naješ. Je pa res, da ni to obrok 5 zvezdic",
+    "username" : "Jelly_Round",
+    "timestamp" : "2024-12-22 15:21:09"
   }, {
-    "Username" : "Own-Tour8134",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:37:45",
-    "Body" : "Aha potem pa so nedavno podrazili, ne hodim tja, samo pred kratkim so mi hvalili"
+    "body" : "Aha potem pa so nedavno podrazili, ne hodim tja, samo pred kratkim so mi hvalili",
+    "username" : "Own-Tour8134",
+    "timestamp" : "2024-12-23 07:37:45"
   }, {
-    "Username" : "Mikic00",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:44:09",
-    "Body" : "Ta je bil drag še preden je bilo vse drago..."
+    "body" : "Ta je bil drag še preden je bilo vse drago...",
+    "username" : "Mikic00",
+    "timestamp" : "2024-12-22 22:44:09"
   }, {
-    "Username" : "NoEstablishment1867",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 06:44:59",
-    "Body" : "Poceni glih ni, je pa dobr. Drugega v btc niti ni, razen kaksne spar menze kjer so porcije velike, to je pa to."
+    "body" : "Poceni glih ni, je pa dobr. Drugega v btc niti ni, razen kaksne spar menze kjer so porcije velike, to je pa to.",
+    "username" : "NoEstablishment1867",
+    "timestamp" : "2024-12-23 06:44:59"
   }, {
-    "Username" : "nycawrt",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:04:34",
-    "Body" : "Najbrz una pri cirkusu"
+    "body" : "Najbrz una pri cirkusu",
+    "username" : "nycawrt",
+    "timestamp" : "2024-12-23 11:04:34"
   } ]
 }

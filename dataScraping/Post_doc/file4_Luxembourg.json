@@ -1,65 +1,65 @@
 {
-  "Id" : 200180,
-  "Community_name" : "Luxembourg",
-  "Username" : "mulberrybushes",
-  "Post_body" : "The sirens: They happen every First Monday. It's just a test. No need to panic.",
-  "Timestamp" : "2024-11-04 12:12:06",
-  "Num_comment" : 11,
+  "id" : 200180,
+  "community_name" : "Luxembourg",
+  "username" : "mulberrybushes",
+  "post_body" : "The sirens: They happen every First Monday. It's just a test. No need to panic.",
+  "timestamp" : "2024-11-04 12:12:06",
+  "num_comment" : 11,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "J0keful",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 13:20:39",
-    "Body" : "First monday of the month or??"
+    "body" : "First monday of the month or??",
+    "username" : "J0keful",
+    "timestamp" : "2024-11-04 13:20:39"
   }, {
-    "Username" : "fonzzzzz",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 12:22:18",
-    "Body" : "So you need to invade Luxembourg on the first Monday of any month and no one would know?"
+    "body" : "So you need to invade Luxembourg on the first Monday of any month and no one would know?",
+    "username" : "fonzzzzz",
+    "timestamp" : "2024-11-04 12:22:18"
   }, {
-    "Username" : "Ok-Plankton-5941",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-08 20:29:39",
-    "Body" : "it announces the beginning of the purge"
+    "body" : "it announces the beginning of the purge",
+    "username" : "Ok-Plankton-5941",
+    "timestamp" : "2024-11-08 20:29:39"
   }, {
-    "Username" : "galaxnordist",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 12:12:06",
-    "Body" : "That's what a traitor, supporting the Mars invasion, would say ;-)"
+    "body" : "That's what a traitor, supporting the Mars invasion, would say ;-)",
+    "username" : "galaxnordist",
+    "timestamp" : "2024-11-04 12:12:06"
   }, {
-    "Username" : "catmandot",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 12:23:59",
-    "Body" : "Also today at 11AM, the loud \"Ding Ding Ding\" of the Gouvalert app announcing that it will no longer be used for alerts (replaced by the LU-Alert app).\n\nHowever, they don't seem to bother removing it from the Google Play store.\n\n[https://gouvernement.lu/en/actualites/toutes\\_actualites/communiques/2024/10-octobre/17-gloden-lancement-lu-alert.html](https://gouvernement.lu/en/actualites/toutes_actualites/communiques/2024/10-octobre/17-gloden-lancement-lu-alert.html)"
+    "body" : "Also today at 11AM, the loud \"Ding Ding Ding\" of the Gouvalert app announcing that it will no longer be used for alerts (replaced by the LU-Alert app).\n\nHowever, they don't seem to bother removing it from the Google Play store.\n\n[https://gouvernement.lu/en/actualites/toutes\\_actualites/communiques/2024/10-octobre/17-gloden-lancement-lu-alert.html](https://gouvernement.lu/en/actualites/toutes_actualites/communiques/2024/10-octobre/17-gloden-lancement-lu-alert.html)",
+    "username" : "catmandot",
+    "timestamp" : "2024-11-04 12:23:59"
   }, {
-    "Username" : "TheSova",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 20:51:32",
-    "Body" : "My hero!"
+    "body" : "My hero!",
+    "username" : "TheSova",
+    "timestamp" : "2024-11-04 20:51:32"
   }, {
-    "Username" : "mulberrybushes",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 13:31:03",
-    "Body" : "Correct."
+    "body" : "Correct.",
+    "username" : "mulberrybushes",
+    "timestamp" : "2024-11-04 13:31:03"
   }, {
-    "Username" : "DufferDelux",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 12:32:44",
-    "Body" : "At midday"
+    "body" : "At midday",
+    "username" : "DufferDelux",
+    "timestamp" : "2024-11-04 12:32:44"
   }, {
-    "Username" : "mulberrybushes",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 13:25:20",
-    "Body" : "No that’s the Duchy of Grand Fenwick, silly. \n\nhttps://en.m.wikipedia.org/wiki/The_Mouse_That_Roared_(film)"
+    "body" : "No that’s the Duchy of Grand Fenwick, silly. \n\nhttps://en.m.wikipedia.org/wiki/The_Mouse_That_Roared_(film)",
+    "username" : "mulberrybushes",
+    "timestamp" : "2024-11-04 13:25:20"
   }, {
-    "Username" : "carbonide11",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-05 10:02:55",
-    "Body" : "The sound patterns are different."
+    "body" : "The sound patterns are different.",
+    "username" : "carbonide11",
+    "timestamp" : "2024-11-05 10:02:55"
   }, {
-    "Username" : "Cautious_Use_7442",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-04 15:27:58",
-    "Body" : "And assume that nobody knows the danger alert. Test are done with the “all clear” alert"
+    "body" : "And assume that nobody knows the danger alert. Test are done with the “all clear” alert",
+    "username" : "Cautious_Use_7442",
+    "timestamp" : "2024-11-04 15:27:58"
   } ]
 }

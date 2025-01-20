@@ -1,15 +1,15 @@
 {
-  "Id" : 200454,
-  "City" : "Helsinki",
-  "Name" : "Helsinki",
-  "Created" : "2023-06-04 19:00:38",
-  "Post" : [ {
-    "User" : "apinanaivot",
-    "Text" : "/r/Helsinki is going private on 12th of June as protest against reddit API becoming inaccessible to third party app developers",
-    "Timestamp" : "2023-06-04 20:00:38"
+  "id" : 200454,
+  "city" : "Helsinki",
+  "name" : "Helsinki",
+  "created" : "2023-06-04 19:00:38",
+  "post" : [ {
+    "text" : "/r/Helsinki is going private on 12th of June as protest against reddit API becoming inaccessible to third party app developers",
+    "user" : "apinanaivot",
+    "timestamp" : "2023-06-04 20:00:38"
   }, {
-    "User" : "takepityontheloser",
-    "Text" : "Where to buy adobo and culantro in Helsinki ?",
-    "Timestamp" : "2024-12-21 12:45:07"
+    "text" : "Where to buy adobo and culantro in Helsinki ?",
+    "user" : "takepityontheloser",
+    "timestamp" : "2024-12-21 12:45:07"
   } ]
 }

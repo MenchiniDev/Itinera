@@ -1,15 +1,15 @@
 {
-  "Id" : 200436,
-  "City" : "Frankfurt",
-  "Name" : "Frankfurt",
-  "Created" : "2024-04-15 19:03:23",
-  "Post" : [ {
-    "User" : "captainlix",
-    "Text" : "Wie das FOUR Frankfurt die Skyline verändert",
-    "Timestamp" : "2024-04-15 20:03:23"
+  "id" : 200436,
+  "city" : "Frankfurt",
+  "name" : "Frankfurt",
+  "created" : "2024-01-10 19:43:28",
+  "post" : [ {
+    "text" : "Wie das FOUR Frankfurt die Skyline verändert",
+    "user" : "captainlix",
+    "timestamp" : "2024-01-10 20:43:28"
   }, {
-    "User" : "Lorenorsara",
-    "Text" : "Starting a book club in Frankfurt 📚",
-    "Timestamp" : "2024-12-22 10:17:58"
+    "text" : "Starting a book club in Frankfurt 📚",
+    "user" : "Lorenorsara",
+    "timestamp" : "2024-12-22 10:17:58"
   } ]
 }

@@ -1,45 +1,45 @@
 {
-  "Id" : 200434,
-  "Community_name" : "Kosovo",
-  "Username" : "Responsible-Box-1449",
-  "Post_body" : "Kosova esports",
-  "Timestamp" : "2024-12-23 11:15:05",
-  "Num_comment" : 7,
+  "id" : 200434,
+  "community_name" : "Kosovo",
+  "username" : "Responsible-Box-1449",
+  "post_body" : "Kosova esports",
+  "timestamp" : "2024-12-23 11:15:05",
+  "num_comment" : 7,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Significant_Score111",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:37:58",
-    "Body" : "Kishe po shkrune Escorts vllaqko, shpejte jom hi"
+    "body" : "Kishe po shkrune Escorts vllaqko, shpejte jom hi",
+    "username" : "Significant_Score111",
+    "timestamp" : "2024-12-23 12:37:58"
   }, {
-    "Username" : "Zhidezoe",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:15:05",
-    "Body" : "Xprotali edhe ipko organizojne cdo vjet"
+    "body" : "Xprotali edhe ipko organizojne cdo vjet",
+    "username" : "Zhidezoe",
+    "timestamp" : "2024-12-23 11:15:05"
   }, {
-    "Username" : "CapitanRainbow",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:57:40",
-    "Body" : "Shumica e turnirave per esports organizohen prej Xportal Esports te na lyp ne discord e ki serverin \nhttps://discord.gg/xportal-esports-945292050339872768"
+    "body" : "Shumica e turnirave per esports organizohen prej Xportal Esports te na lyp ne discord e ki serverin \nhttps://discord.gg/xportal-esports-945292050339872768",
+    "username" : "CapitanRainbow",
+    "timestamp" : "2024-12-23 11:57:40"
   }, {
-    "Username" : "topnde",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:56:19",
-    "Body" : "Fastest finger in Kosove"
+    "body" : "Fastest finger in Kosove",
+    "username" : "topnde",
+    "timestamp" : "2024-12-23 12:56:19"
   }, {
-    "Username" : "Responsible-Box-1449",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:13:23",
-    "Body" : "Veq skom award"
+    "body" : "Veq skom award",
+    "username" : "Responsible-Box-1449",
+    "timestamp" : "2024-12-23 13:13:23"
   }, {
-    "Username" : "Responsible-Box-1449",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:13:42",
-    "Body" : "Faleminderit"
+    "body" : "Faleminderit",
+    "username" : "Responsible-Box-1449",
+    "timestamp" : "2024-12-23 13:13:42"
   }, {
-    "Username" : "Responsible-Box-1449",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:09:49",
-    "Body" : "Faleminderit"
+    "body" : "Faleminderit",
+    "username" : "Responsible-Box-1449",
+    "timestamp" : "2024-12-23 12:09:49"
   } ]
 }

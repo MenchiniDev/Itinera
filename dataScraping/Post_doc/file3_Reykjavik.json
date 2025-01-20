@@ -1,20 +1,20 @@
 {
-  "Id" : 200078,
-  "Community_name" : "Reykjavik",
-  "Username" : "Designer_Activity976",
-  "Post_body" : "A random day in July in Reykjavik 🫶🏽",
-  "Timestamp" : "2024-12-13 16:43:51",
-  "Num_comment" : 2,
+  "id" : 200078,
+  "community_name" : "Reykjavik",
+  "username" : "Designer_Activity976",
+  "post_body" : "A random day in July in Reykjavik 🫶🏽",
+  "timestamp" : "2024-12-13 16:43:51",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Glaesilegur",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-13 16:43:51",
-    "Body" : "I don't believe you, I can see the sky."
+    "body" : "I don't believe you, I can see the sky.",
+    "username" : "Glaesilegur",
+    "timestamp" : "2024-12-13 16:43:51"
   }, {
-    "Username" : "Designer_Activity976",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-13 17:05:04",
-    "Body" : "Hahahaha, it was a very sunny day though"
+    "body" : "Hahahaha, it was a very sunny day though",
+    "username" : "Designer_Activity976",
+    "timestamp" : "2024-12-13 17:05:04"
   } ]
 }

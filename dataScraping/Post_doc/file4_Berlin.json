@@ -1,75 +1,75 @@
 {
-  "Id" : 200241,
-  "Community_name" : "Berlin",
-  "Username" : "PassionNo9822",
-  "Post_body" : "Antisemitischer Angriff im laufenden Betrieb: Scheibe von Neuköllner Kneipe „Bajszel“ mit Pflasterstein attackiert",
-  "Timestamp" : "2024-12-23 13:17:31",
-  "Num_comment" : 13,
+  "id" : 200241,
+  "community_name" : "Berlin",
+  "username" : "PassionNo9822",
+  "post_body" : "Antisemitischer Angriff im laufenden Betrieb: Scheibe von Neuköllner Kneipe „Bajszel“ mit Pflasterstein attackiert",
+  "timestamp" : "2024-12-23 13:17:31",
+  "num_comment" : 13,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "BlackCaesarNT",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:05:39",
-    "Body" : "Again? Damn...\n\nhttps://old.reddit.com/r/antisemitism/comments/1fs24dj/arson_attack_on_the_bar_bajszel_in_berlin/"
+    "body" : "Again? Damn...\n\nhttps://old.reddit.com/r/antisemitism/comments/1fs24dj/arson_attack_on_the_bar_bajszel_in_berlin/",
+    "username" : "BlackCaesarNT",
+    "timestamp" : "2024-12-23 14:05:39"
   }, {
-    "Username" : "schtzn_grmm",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:17:31",
-    "Body" : "Es nimmt einfach kein Ende. :("
+    "body" : "Es nimmt einfach kein Ende. :(",
+    "username" : "schtzn_grmm",
+    "timestamp" : "2024-12-23 13:17:31"
   }, {
-    "Username" : "user9ec19",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:07:49",
-    "Body" : "Ich kenne diese Kneipe gar nicht, werde aber ab jetzt aus Solidarität vermehrt dort hingehen. Das sollten wir alle tun."
+    "body" : "Ich kenne diese Kneipe gar nicht, werde aber ab jetzt aus Solidarität vermehrt dort hingehen. Das sollten wir alle tun.",
+    "username" : "user9ec19",
+    "timestamp" : "2024-12-23 14:07:49"
   }, {
-    "Username" : "burnerburner030",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:27:51",
-    "Body" : "Ah yes, another anti-Semitic attack against a - *checks notes* - German establishment. \n\nLove how German politicians, media and a good chunk of society have collectively redefined what anti-semitism is. This is a very good way to not fight anti-semitism and empty the term of all its meaning in the same go. \n\n*You’re doing great sweetie!*"
+    "body" : "Ah yes, another anti-Semitic attack against a - *checks notes* - German establishment. \n\nLove how German politicians, media and a good chunk of society have collectively redefined what anti-semitism is. This is a very good way to not fight anti-semitism and empty the term of all its meaning in the same go. \n\n*You’re doing great sweetie!*",
+    "username" : "burnerburner030",
+    "timestamp" : "2024-12-23 13:27:51"
   }, {
-    "Username" : "Competitive-Code1455",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:37:41",
-    "Body" : "So in your eyes the bar was attacked because it was German? No other reason, just a normal German bar that gets regularly attacked. I don’t know, I feel like this doesn’t really paint the whole picture."
+    "body" : "So in your eyes the bar was attacked because it was German? No other reason, just a normal German bar that gets regularly attacked. I don’t know, I feel like this doesn’t really paint the whole picture.",
+    "username" : "Competitive-Code1455",
+    "timestamp" : "2024-12-23 13:37:41"
   }, {
-    "Username" : "user9ec19",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:13:23",
-    "Body" : "Fuck off! Did you know that you can be Jewish and German at the same time?"
+    "body" : "Fuck off! Did you know that you can be Jewish and German at the same time?",
+    "username" : "user9ec19",
+    "timestamp" : "2024-12-23 14:13:23"
   }, {
-    "Username" : "itmustbeluv_luv_luv",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:30:25",
-    "Body" : "Ah yes, and helping Palestine means attacking some random antideutschen-Bar with no influence anywhere."
+    "body" : "Ah yes, and helping Palestine means attacking some random antideutschen-Bar with no influence anywhere.",
+    "username" : "itmustbeluv_luv_luv",
+    "timestamp" : "2024-12-23 14:30:25"
   }, {
-    "Username" : "burnerburner030",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:44:34",
-    "Body" : "Na ja - these people opened a bar in a predominantly migrant neighbourhood to cosplay being leftists while simultaneously, and aggressively, excluding people, including Jewish people, with an actual leftist world view and analysis. In the end, this is a space solely for anti-deutsch kartoffeln who wanted to be provocative and they're getting served accordingly. They are not the victim."
+    "body" : "Na ja - these people opened a bar in a predominantly migrant neighbourhood to cosplay being leftists while simultaneously, and aggressively, excluding people, including Jewish people, with an actual leftist world view and analysis. In the end, this is a space solely for anti-deutsch kartoffeln who wanted to be provocative and they're getting served accordingly. They are not the victim.",
+    "username" : "burnerburner030",
+    "timestamp" : "2024-12-23 14:44:34"
   }, {
-    "Username" : "burnerburner030",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:48:23",
-    "Body" : "The reasons you're looking for can be found in the bar owners' ideology, the type of lives they value and don't value, the opinions they do and don't listen to, the morals they pretend to have, the type of space they claim to be, and work up from there :)"
+    "body" : "The reasons you're looking for can be found in the bar owners' ideology, the type of lives they value and don't value, the opinions they do and don't listen to, the morals they pretend to have, the type of space they claim to be, and work up from there :)",
+    "username" : "burnerburner030",
+    "timestamp" : "2024-12-23 13:48:23"
   }, {
-    "Username" : "schtzn_grmm",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:56:40",
-    "Body" : ">They are not the victim.\n\nAh, I see. Another supporter of violence under the guise of anti-Israel activism. At least it’s clear now that there’s no pretense of standing for peace, as the support for violence is openly displayed. Noted. Nice victim-blaming btw."
+    "body" : ">They are not the victim.\n\nAh, I see. Another supporter of violence under the guise of anti-Israel activism. At least it’s clear now that there’s no pretense of standing for peace, as the support for violence is openly displayed. Noted. Nice victim-blaming btw.",
+    "username" : "schtzn_grmm",
+    "timestamp" : "2024-12-23 14:56:40"
   }, {
-    "Username" : "QueerEcho",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:53:29",
-    "Body" : "Antideutsche ideology may be questionable, but yes, of course they are victims in this act. It's ridiculous to claim otherwise. \nWho is being helped by this attack? I can't think of anyone."
+    "body" : "Antideutsche ideology may be questionable, but yes, of course they are victims in this act. It's ridiculous to claim otherwise. \nWho is being helped by this attack? I can't think of anyone.",
+    "username" : "QueerEcho",
+    "timestamp" : "2024-12-23 14:53:29"
   }, {
-    "Username" : "Competitive-Code1455",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:56:24",
-    "Body" : "Well, just spit it out, why do the people in that bar deserve to get stones thrown at them, or the doors glued shut after lighting a fire? Sounds like a bunch of lovely opinions."
+    "body" : "Well, just spit it out, why do the people in that bar deserve to get stones thrown at them, or the doors glued shut after lighting a fire? Sounds like a bunch of lovely opinions.",
+    "username" : "Competitive-Code1455",
+    "timestamp" : "2024-12-23 13:56:24"
   }, {
-    "Username" : "LOUDPACK_MASTERCHEF",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:15:29",
-    "Body" : "Come on. It's obvious their issue was with calling this an antisemitic attack when the targets were German, not Jewish. You are putting words in their mouth."
+    "body" : "Come on. It's obvious their issue was with calling this an antisemitic attack when the targets were German, not Jewish. You are putting words in their mouth.",
+    "username" : "LOUDPACK_MASTERCHEF",
+    "timestamp" : "2024-12-23 14:15:29"
   } ]
 }

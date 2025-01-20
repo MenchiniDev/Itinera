@@ -1,10 +1,10 @@
 {
-  "Id" : 200154,
-  "Community_name" : "Legends",
-  "Username" : "yeetusmcfetus9",
-  "Post_body" : "Guys we found it!",
-  "Timestamp" : "2024-04-15 20:07:51",
-  "Num_comment" : 0,
+  "id" : 200154,
+  "community_name" : "Legends",
+  "username" : "yeetusmcfetus9",
+  "post_body" : "Guys we found it!",
+  "timestamp" : "2024-01-10 20:46:12",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

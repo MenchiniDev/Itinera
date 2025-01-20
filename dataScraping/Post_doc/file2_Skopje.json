@@ -1,15 +1,15 @@
 {
-  "Id" : 200056,
-  "Community_name" : "Skopje",
-  "Username" : "Minimum_Pace_6918",
-  "Post_body" : "Tuxedo in skopje?",
-  "Timestamp" : "2024-11-29 15:26:29",
-  "Num_comment" : 1,
+  "id" : 200056,
+  "community_name" : "Skopje",
+  "username" : "Minimum_Pace_6918",
+  "post_body" : "Tuxedo in skopje?",
+  "timestamp" : "2024-11-29 15:26:29",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "No_Blackberry5142",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-11-29 15:26:29",
-    "Body" : "I like this shop,\n\nTIVES Italian Style\n075 300 066\n\n https://g.co/kgs/AhpktE9\n\nHub's tux for our wedding is super nice."
+    "body" : "I like this shop,\n\nTIVES Italian Style\n075 300 066\n\n https://g.co/kgs/AhpktE9\n\nHub's tux for our wedding is super nice.",
+    "username" : "No_Blackberry5142",
+    "timestamp" : "2024-11-29 15:26:29"
   } ]
 }

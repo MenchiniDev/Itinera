@@ -1,10 +1,10 @@
 {
-  "Id" : 200284,
-  "Community_name" : "Valencia",
-  "Username" : "allnamesaretakenwow",
-  "Post_body" : "Gym/fitness club with sauna and cold plunge",
-  "Timestamp" : "2024-04-15 20:17:49",
-  "Num_comment" : 0,
+  "id" : 200284,
+  "community_name" : "Valencia",
+  "username" : "allnamesaretakenwow",
+  "post_body" : "Gym/fitness club with sauna and cold plunge",
+  "timestamp" : "2024-01-10 20:58:03",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

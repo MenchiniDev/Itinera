@@ -1,215 +1,215 @@
 {
-  "Id" : 200394,
-  "Community_name" : "Oslo",
-  "Username" : "None",
-  "Post_body" : "Bryter du loven?",
-  "Timestamp" : "2022-10-18 09:23:29",
-  "Num_comment" : 41,
+  "id" : 200394,
+  "community_name" : "Oslo",
+  "username" : "None",
+  "post_body" : "Bryter du loven?",
+  "timestamp" : "2022-10-18 09:23:29",
+  "num_comment" : 41,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "DoYouWantCokeOrPepsi",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 09:48:52",
-    "Body" : "Hva er det her💀💀💀 ser ut som en billig scam epost"
+    "body" : "Hva er det her💀💀💀 ser ut som en billig scam epost",
+    "username" : "DoYouWantCokeOrPepsi",
+    "timestamp" : "2022-10-18 09:48:52"
   }, {
-    "Username" : "madsvhg",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 11:59:04",
-    "Body" : "Samme vibber som den gamle «you wouldn’t steal a car, you wouldn’t steal a handbag” anti piracy reklamen"
+    "body" : "Samme vibber som den gamle «you wouldn’t steal a car, you wouldn’t steal a handbag” anti piracy reklamen",
+    "username" : "madsvhg",
+    "timestamp" : "2022-10-18 11:59:04"
   }, {
-    "Username" : "Daniel_SJ",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 10:32:21",
-    "Body" : "Til neste gang så er et bedre format for dette å skrive en tekst og poste som en tekst-post. Det vil føles mer hjemme på reddit."
+    "body" : "Til neste gang så er et bedre format for dette å skrive en tekst og poste som en tekst-post. Det vil føles mer hjemme på reddit.",
+    "username" : "Daniel_SJ",
+    "timestamp" : "2022-10-18 10:32:21"
   }, {
-    "Username" : "Krisbre",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 10:36:57",
-    "Body" : "Gamer moves fra politiet her nå\n\nForeslår å ansette en under 60 som faktisk bruker dette forumet hvis dere vil nå inn til brukerne her."
+    "body" : "Gamer moves fra politiet her nå\n\nForeslår å ansette en under 60 som faktisk bruker dette forumet hvis dere vil nå inn til brukerne her.",
+    "username" : "Krisbre",
+    "timestamp" : "2022-10-18 10:36:57"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 10:07:29",
-    "Body" : "Graphic design is my passion"
+    "body" : "Graphic design is my passion",
+    "username" : "None",
+    "timestamp" : "2022-10-18 10:07:29"
   }, {
-    "Username" : "Lukaaa__",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 00:28:12",
-    "Body" : "Bedre om dere bare skriver tekst i stedet for dette her, vil føles mindre som om man blir snakket ned til og man tar det mer seriøst enn hva dette skulle være. Bare så det er sagt så er jeg positiv til politistyrken her i Norge, men dette var teit."
+    "body" : "Bedre om dere bare skriver tekst i stedet for dette her, vil føles mindre som om man blir snakket ned til og man tar det mer seriøst enn hva dette skulle være. Bare så det er sagt så er jeg positiv til politistyrken her i Norge, men dette var teit.",
+    "username" : "Lukaaa__",
+    "timestamp" : "2022-10-19 00:28:12"
   }, {
-    "Username" : "Lakus",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 01:15:50",
-    "Body" : "Jeg spilte også Nordic Mafia på 2000-tallet. Veldig kult, Politiet."
+    "body" : "Jeg spilte også Nordic Mafia på 2000-tallet. Veldig kult, Politiet.",
+    "username" : "Lakus",
+    "timestamp" : "2022-10-19 01:15:50"
   }, {
-    "Username" : "kyabe2",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 14:06:52",
-    "Body" : "Rule 1 for reaching people on social media is understanding 1a) the social media platform and 1b) its users\n\nFeel like you really missed the mark with this Intro-to-Graphic-Design-ass poster."
+    "body" : "Rule 1 for reaching people on social media is understanding 1a) the social media platform and 1b) its users\n\nFeel like you really missed the mark with this Intro-to-Graphic-Design-ass poster.",
+    "username" : "kyabe2",
+    "timestamp" : "2022-10-18 14:06:52"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 09:23:29",
-    "Body" : "Dette kan da umulig være riktig subreddit for det budskapet der, og ikke er jeg interessert i vite hvor den skiten foregår heller."
+    "body" : "Dette kan da umulig være riktig subreddit for det budskapet der, og ikke er jeg interessert i vite hvor den skiten foregår heller.",
+    "username" : "None",
+    "timestamp" : "2022-10-18 09:23:29"
   }, {
-    "Username" : "Accomplished-Newt385",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 15:20:48",
-    "Body" : "Needs more clipart and minions"
+    "body" : "Needs more clipart and minions",
+    "username" : "Accomplished-Newt385",
+    "timestamp" : "2022-10-18 15:20:48"
   }, {
-    "Username" : "Sigg3net",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 12:36:33",
-    "Body" : "Fra et praktisk perspektiv er det nok lettere å be folk om å huske på at alle bilder deles, _så ikke ta bilder du ikke vil at andre skal se._\n\n(E.g. har du lagring i skyen? Tok du bildet i en app? Da kan det godt være lastet opp et sted allerede.)"
+    "body" : "Fra et praktisk perspektiv er det nok lettere å be folk om å huske på at alle bilder deles, _så ikke ta bilder du ikke vil at andre skal se._\n\n(E.g. har du lagring i skyen? Tok du bildet i en app? Da kan det godt være lastet opp et sted allerede.)",
+    "username" : "Sigg3net",
+    "timestamp" : "2022-10-18 12:36:33"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 09:55:43",
-    "Body" : "Dra tilbake til insta mr politi"
+    "body" : "Dra tilbake til insta mr politi",
+    "username" : "None",
+    "timestamp" : "2022-10-18 09:55:43"
   }, {
-    "Username" : "Appropriate-Sea6896",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 09:56:58",
-    "Body" : "Ja jeg bryter loven"
+    "body" : "Ja jeg bryter loven",
+    "username" : "Appropriate-Sea6896",
+    "timestamp" : "2022-10-18 09:56:58"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 04:49:24",
-    "Body" : "Hvorfor tror politiet at det er en pedofil ring på norske reddit sider? Det er nix nada. De kunne heller ha brukt penger på helt andre mer verdifulle ting."
+    "body" : "Hvorfor tror politiet at det er en pedofil ring på norske reddit sider? Det er nix nada. De kunne heller ha brukt penger på helt andre mer verdifulle ting.",
+    "username" : "None",
+    "timestamp" : "2022-10-19 04:49:24"
   }, {
-    "Username" : "Pacman_Bones",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 15:34:25",
-    "Body" : "Sug pikken min"
+    "body" : "Sug pikken min",
+    "username" : "Pacman_Bones",
+    "timestamp" : "2022-10-18 15:34:25"
   }, {
-    "Username" : "Responsible_Big_5490",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 22:33:19",
-    "Body" : "Nei"
+    "body" : "Nei",
+    "username" : "Responsible_Big_5490",
+    "timestamp" : "2022-10-18 22:33:19"
   }, {
-    "Username" : "Mrgoodietwoshoes",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 09:00:21",
-    "Body" : "Som at jeg noen gang hadde turt å screenshote deling av nakenbilder. Nice try politiet"
+    "body" : "Som at jeg noen gang hadde turt å screenshote deling av nakenbilder. Nice try politiet",
+    "username" : "Mrgoodietwoshoes",
+    "timestamp" : "2022-10-19 09:00:21"
   }, {
-    "Username" : "TaroComprehensive138",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 10:33:42",
-    "Body" : "De gjør som alle andre høyrefolk, enten så har de underbetalt grafikeren eller regelrett begått lønnstyveri."
+    "body" : "De gjør som alle andre høyrefolk, enten så har de underbetalt grafikeren eller regelrett begått lønnstyveri.",
+    "username" : "TaroComprehensive138",
+    "timestamp" : "2022-10-18 10:33:42"
   }, {
-    "Username" : "kyabe2",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 14:04:19",
-    "Body" : "you wouldn’t dele nakenbilde uten samtykke on reddit"
+    "body" : "you wouldn’t dele nakenbilde uten samtykke on reddit",
+    "username" : "kyabe2",
+    "timestamp" : "2022-10-18 14:04:19"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 22:18:06",
-    "Body" : "[deleted]"
+    "body" : "[deleted]",
+    "username" : "None",
+    "timestamp" : "2022-10-18 22:18:06"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 09:58:03",
-    "Body" : "Takk for din ærlige tilbakemelding, vi tar med oss tipset videre."
+    "body" : "Takk for din ærlige tilbakemelding, vi tar med oss tipset videre.",
+    "username" : "None",
+    "timestamp" : "2022-10-19 09:58:03"
   }, {
-    "Username" : "MuttleyTheCannonball",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 00:19:57",
-    "Body" : "du må ikke snakke med politiet"
+    "body" : "du må ikke snakke med politiet",
+    "username" : "MuttleyTheCannonball",
+    "timestamp" : "2022-10-19 00:19:57"
   }, {
-    "Username" : "CeeJaycs",
     "reported_comment" : false,
-    "Timestamp" : "2023-01-19 11:23:51",
-    "Body" : "Gratulerer med kake-dag!"
+    "body" : "Gratulerer med kake-dag!",
+    "username" : "CeeJaycs",
+    "timestamp" : "2023-01-19 11:23:51"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 10:06:10",
-    "Body" : "Takk for din ærlige tilbakemelding Lukaaa\\_\\_. Vi tar det med oss på veien videre."
+    "body" : "Takk for din ærlige tilbakemelding Lukaaa\\_\\_. Vi tar det med oss på veien videre.",
+    "username" : "None",
+    "timestamp" : "2022-10-19 10:06:10"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-07 23:06:23",
-    "Body" : "Omg savner NM! Hadde helt glemt det. Good times!"
+    "body" : "Omg savner NM! Hadde helt glemt det. Good times!",
+    "username" : "None",
+    "timestamp" : "2022-12-07 23:06:23"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 10:21:05",
-    "Body" : "Hei! Vi delte innholdet her for å nå ut med budskapet til så mange som mulig på Reddit. For oss er det viktig at folk selv forstår problematikken og at det er ulovlig."
+    "body" : "Hei! Vi delte innholdet her for å nå ut med budskapet til så mange som mulig på Reddit. For oss er det viktig at folk selv forstår problematikken og at det er ulovlig.",
+    "username" : "None",
+    "timestamp" : "2022-10-19 10:21:05"
   }, {
-    "Username" : "brutalbombs",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 13:41:36",
-    "Body" : "Dette er det beste tipset."
+    "body" : "Dette er det beste tipset.",
+    "username" : "brutalbombs",
+    "timestamp" : "2022-10-18 13:41:36"
   }, {
-    "Username" : "DexterKD",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 04:57:51",
-    "Body" : "Klart det er.\nDet som er skummelt med narko/pedo/ol.-ringer er at de skjuler seg der du ikke skulle tro det.\n\nEn pedoring ble funnet gjennom Youtube-kommentarer på Youtube Kids.\nPoliti har blitt tatt for narkotika."
+    "body" : "Klart det er.\nDet som er skummelt med narko/pedo/ol.-ringer er at de skjuler seg der du ikke skulle tro det.\n\nEn pedoring ble funnet gjennom Youtube-kommentarer på Youtube Kids.\nPoliti har blitt tatt for narkotika.",
+    "username" : "DexterKD",
+    "timestamp" : "2022-10-19 04:57:51"
   }, {
-    "Username" : "Lakus",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 01:17:39",
-    "Body" : "Det er ikke knulletorsdag i dag. Prøve igjen senere."
+    "body" : "Det er ikke knulletorsdag i dag. Prøve igjen senere.",
+    "username" : "Lakus",
+    "timestamp" : "2022-10-19 01:17:39"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 10:29:14",
-    "Body" : "Screenshot gjerne url, subredditen, navn, kommentarer eller annet som kan dokumentere delingen og hjelpe politiet."
+    "body" : "Screenshot gjerne url, subredditen, navn, kommentarer eller annet som kan dokumentere delingen og hjelpe politiet.",
+    "username" : "None",
+    "timestamp" : "2022-10-19 10:29:14"
   }, {
-    "Username" : "DoYouWantCokeOrPepsi",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 10:34:51",
-    "Body" : "Det er ingen grafisk designer som har laget det her🤣bryter alle regler innenfor visuell kommuniksjon"
+    "body" : "Det er ingen grafisk designer som har laget det her🤣bryter alle regler innenfor visuell kommuniksjon",
+    "username" : "DoYouWantCokeOrPepsi",
+    "timestamp" : "2022-10-18 10:34:51"
   }, {
-    "Username" : "NorthernSalt",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 16:27:52",
-    "Body" : "Reddit moment"
+    "body" : "Reddit moment",
+    "username" : "NorthernSalt",
+    "timestamp" : "2022-10-18 16:27:52"
   }, {
-    "Username" : "Tall_Fortune",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 22:18:13",
-    "Body" : "You wouldn't sende nakenbilde uten å tenke over konsekvensene on reddit"
+    "body" : "You wouldn't sende nakenbilde uten å tenke over konsekvensene on reddit",
+    "username" : "Tall_Fortune",
+    "timestamp" : "2022-10-18 22:18:13"
   }, {
-    "Username" : "justabruker",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 03:11:37",
-    "Body" : "Alle trenger å lære. Gjelder både de gamle og unge. Tips som det her kan hjelpe politiet til å gjøre en bedre jobb og spare staten for penger som kan også føre til bedre fordeling av penger i landet."
+    "body" : "Alle trenger å lære. Gjelder både de gamle og unge. Tips som det her kan hjelpe politiet til å gjøre en bedre jobb og spare staten for penger som kan også føre til bedre fordeling av penger i landet.",
+    "username" : "justabruker",
+    "timestamp" : "2022-10-19 03:11:37"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 10:23:29",
-    "Body" : "Hei! Hvis ikke budskapet traff dere så kom gjerne med tilbakemeldinger på hvordan vi kan gjøre det bedre i fremtiden. Vi ønsker dere begge ellers en fin dag videre."
+    "body" : "Hei! Hvis ikke budskapet traff dere så kom gjerne med tilbakemeldinger på hvordan vi kan gjøre det bedre i fremtiden. Vi ønsker dere begge ellers en fin dag videre.",
+    "username" : "None",
+    "timestamp" : "2022-10-19 10:23:29"
   }, {
-    "Username" : "TaroComprehensive138",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 16:25:35",
-    "Body" : "De som jobber i politiet vet med andre veldig godt at regler er for underklassen."
+    "body" : "De som jobber i politiet vet med andre veldig godt at regler er for underklassen.",
+    "username" : "TaroComprehensive138",
+    "timestamp" : "2022-10-18 16:25:35"
   }, {
-    "Username" : "poolnoodlz",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-18 23:14:44",
-    "Body" : "You wouldn’t bruke teite graphics uten å vurdere hvor dumt denne kampanjen er on reddit"
+    "body" : "You wouldn’t bruke teite graphics uten å vurdere hvor dumt denne kampanjen er on reddit",
+    "username" : "poolnoodlz",
+    "timestamp" : "2022-10-18 23:14:44"
   }, {
-    "Username" : "kyabe2",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 06:52:31",
-    "Body" : "Det er ikke det å ta nakenbilde som er problemet. Det er det at folk deler de videre uten samtykke. Og det hjelper ikke at kulturen blant mannfolk (spesielt yngre) bare oppfordrer slik oppførsel. En burde kunne ta og sende nakenbilde like trygt som å kle av seg foran noen - kun den/de du ønsker burde se det."
+    "body" : "Det er ikke det å ta nakenbilde som er problemet. Det er det at folk deler de videre uten samtykke. Og det hjelper ikke at kulturen blant mannfolk (spesielt yngre) bare oppfordrer slik oppførsel. En burde kunne ta og sende nakenbilde like trygt som å kle av seg foran noen - kun den/de du ønsker burde se det.",
+    "username" : "kyabe2",
+    "timestamp" : "2022-10-19 06:52:31"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-11-25 13:13:16",
-    "Body" : "Og å bruke penger flittig og smart har de også bevist at de ikke får til så bra, ganske utrolig når de skulle få sin egen splitter nye nettside for noen år siden. For ikke å nevne overbetjenter som blir lurt av basic scams 😂"
+    "body" : "Og å bruke penger flittig og smart har de også bevist at de ikke får til så bra, ganske utrolig når de skulle få sin egen splitter nye nettside for noen år siden. For ikke å nevne overbetjenter som blir lurt av basic scams 😂",
+    "username" : "None",
+    "timestamp" : "2022-11-25 13:13:16"
   }, {
-    "Username" : "Tall_Fortune",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 00:08:20",
-    "Body" : "Polti bare reposter det på alle norske subs, bergen, oslo, drammen osv. Og det popper opp for hver post. Som om jeg gir faen, jeg bruker reddit for memes osv. Min alt account for porn poster jeg ikke på. Dumbass post"
+    "body" : "Polti bare reposter det på alle norske subs, bergen, oslo, drammen osv. Og det popper opp for hver post. Som om jeg gir faen, jeg bruker reddit for memes osv. Min alt account for porn poster jeg ikke på. Dumbass post",
+    "username" : "Tall_Fortune",
+    "timestamp" : "2022-10-19 00:08:20"
   }, {
-    "Username" : "Tall_Fortune",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-19 07:44:20",
-    "Body" : "Agree to disagree"
+    "body" : "Agree to disagree",
+    "username" : "Tall_Fortune",
+    "timestamp" : "2022-10-19 07:44:20"
   } ]
 }

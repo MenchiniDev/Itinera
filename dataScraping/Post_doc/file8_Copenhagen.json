@@ -1,80 +1,80 @@
 {
-  "Id" : 200313,
-  "Community_name" : "Copenhagen",
-  "Username" : "NonBinaryAssHere",
-  "Post_body" : "Mandatory medical treatment in Copenhagen",
-  "Timestamp" : "2024-12-22 14:47:20",
-  "Num_comment" : 14,
+  "id" : 200313,
+  "community_name" : "Copenhagen",
+  "username" : "NonBinaryAssHere",
+  "post_body" : "Mandatory medical treatment in Copenhagen",
+  "timestamp" : "2024-12-22 14:47:20",
+  "num_comment" : 14,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Qzy",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 14:47:20",
-    "Body" : "Nothing wrong with calling the non-emergency number for the police and asking for a welfare check. I had a neighbor who (apparently?) was into murder-kinks. I called the police and they came by asking them questions, made it stop from that day."
+    "body" : "Nothing wrong with calling the non-emergency number for the police and asking for a welfare check. I had a neighbor who (apparently?) was into murder-kinks. I called the police and they came by asking them questions, made it stop from that day.",
+    "username" : "Qzy",
+    "timestamp" : "2024-12-22 14:47:20"
   }, {
-    "Username" : "ChickEnergy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 14:48:30",
-    "Body" : "It's called tvangsindlæggelse, if they dont want to go but need to: [https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/psykiatri/tilstande-og-sygdomme/tvangspsykiatri/tvangsindlaeggelse/](https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/psykiatri/tilstande-og-sygdomme/tvangspsykiatri/tvangsindlaeggelse/)\n\nYou can call 112 if a person is in danger to themself or someone else. the psychiatric emergency units are open 24 hours/day"
+    "body" : "It's called tvangsindlæggelse, if they dont want to go but need to: [https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/psykiatri/tilstande-og-sygdomme/tvangspsykiatri/tvangsindlaeggelse/](https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/psykiatri/tilstande-og-sygdomme/tvangspsykiatri/tvangsindlaeggelse/)\n\nYou can call 112 if a person is in danger to themself or someone else. the psychiatric emergency units are open 24 hours/day",
+    "username" : "ChickEnergy",
+    "timestamp" : "2024-12-22 14:48:30"
   }, {
-    "Username" : "AmiraLaursen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:15:52",
-    "Body" : "My downstairs neighbour is the same. Yelling, banging in the cabinets, throwing furniture, babbling about god. Only in her apartment though, when you meet her she acts fine. Throughout the years other neighbors have shared concerns to her, but she always says she doesn’t have any idea what they’re talking about.\n\nWe have a small child and are quite scared for her, and if she’ll escalate because kids are noisy. We’ve called the police multiple times, they’ve refused to even do a mental health check. We’ve contacted the building management who didn’t do anything. \n\nSo now we’re still writing every instance down and will contact kommunen next AND continue to call the police if it sounds like she might be banging her head against things or hurting herself"
+    "body" : "My downstairs neighbour is the same. Yelling, banging in the cabinets, throwing furniture, babbling about god. Only in her apartment though, when you meet her she acts fine. Throughout the years other neighbors have shared concerns to her, but she always says she doesn’t have any idea what they’re talking about.\n\nWe have a small child and are quite scared for her, and if she’ll escalate because kids are noisy. We’ve called the police multiple times, they’ve refused to even do a mental health check. We’ve contacted the building management who didn’t do anything. \n\nSo now we’re still writing every instance down and will contact kommunen next AND continue to call the police if it sounds like she might be banging her head against things or hurting herself",
+    "username" : "AmiraLaursen",
+    "timestamp" : "2024-12-22 19:15:52"
   }, {
-    "Username" : "Head_Illustrator5510",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 14:49:29",
-    "Body" : "Start by documenting the disturbances (times, dates, etc.) & push your building management again with evidence. If they still do nothing, contact your Kommune about mental health concerns. They can send help if needed (I think). If it escalates or feels unsafe, call the police, they can involve psychiatric services."
+    "body" : "Start by documenting the disturbances (times, dates, etc.) & push your building management again with evidence. If they still do nothing, contact your Kommune about mental health concerns. They can send help if needed (I think). If it escalates or feels unsafe, call the police, they can involve psychiatric services.",
+    "username" : "Head_Illustrator5510",
+    "timestamp" : "2024-12-22 14:49:29"
   }, {
-    "Username" : "Lazybones_17",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:01:33",
-    "Body" : "Maybe he’s a streaming games."
+    "body" : "Maybe he’s a streaming games.",
+    "username" : "Lazybones_17",
+    "timestamp" : "2024-12-22 19:01:33"
   }, {
-    "Username" : "saltylicorice",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:54:07",
-    "Body" : "He could have severe PTSD, or going through some bad situation in his life, maybe you could consult with the landlord to see what's the best course of action, I know when I was going through a death in my family I was screaming/crying for a week before it happened"
+    "body" : "He could have severe PTSD, or going through some bad situation in his life, maybe you could consult with the landlord to see what's the best course of action, I know when I was going through a death in my family I was screaming/crying for a week before it happened",
+    "username" : "saltylicorice",
+    "timestamp" : "2024-12-22 17:54:07"
   }, {
-    "Username" : "JohnGalt1133",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:22:48",
-    "Body" : "I really hope its not me, cuz i do sometimes scream while gaming. Though I rarely scream at nights since usually I am aware about the time"
+    "body" : "I really hope its not me, cuz i do sometimes scream while gaming. Though I rarely scream at nights since usually I am aware about the time",
+    "username" : "JohnGalt1133",
+    "timestamp" : "2024-12-22 20:22:48"
   }, {
-    "Username" : "Hot-Preference-7239",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:29:43",
-    "Body" : "Contact either the police or kommunen - maybe they have a social case on him. Police might also contact kommunen if you call them - either way this sounds like a man in pain who needs help, and might be incapable of asking for help himself."
+    "body" : "Contact either the police or kommunen - maybe they have a social case on him. Police might also contact kommunen if you call them - either way this sounds like a man in pain who needs help, and might be incapable of asking for help himself.",
+    "username" : "Hot-Preference-7239",
+    "timestamp" : "2024-12-22 20:29:43"
   }, {
-    "Username" : "alicethrough",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:24:07",
-    "Body" : "Maybe this is something for Copenhagen's 'social ambulance'? I can't remember what it's called, but it might just be something like socialbulancen. (?\nAFAIK, they're there for these types of cases when you don't want to call the police on people who might be going through something."
+    "body" : "Maybe this is something for Copenhagen's 'social ambulance'? I can't remember what it's called, but it might just be something like socialbulancen. (?\nAFAIK, they're there for these types of cases when you don't want to call the police on people who might be going through something.",
+    "username" : "alicethrough",
+    "timestamp" : "2024-12-23 10:24:07"
   }, {
-    "Username" : "NonBinaryAssHere",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:46:36",
-    "Body" : "Fucking hell, that might be worse than mine 😦"
+    "body" : "Fucking hell, that might be worse than mine 😦",
+    "username" : "NonBinaryAssHere",
+    "timestamp" : "2024-12-22 15:46:36"
   }, {
-    "Username" : "iSUhr",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:08:38",
-    "Body" : "Agree. This person might be in danger from themselves due to psychosis/delirium. Call 114, they can send police, ambulance (who can call a doctor if necessary) or if in Copenhagen the Sociolance (social ambulance). \nIf this is your concern, I would always recommend calling first then they can take the next steps to help the (possible) patient. \nIf they decide the person is not clinically insane, then you can always document disturbances to your landlord afterwards - as it's annoying for you but not a medical emergency issue. \nHoping for the best for both of you! 🤞"
+    "body" : "Agree. This person might be in danger from themselves due to psychosis/delirium. Call 114, they can send police, ambulance (who can call a doctor if necessary) or if in Copenhagen the Sociolance (social ambulance). \nIf this is your concern, I would always recommend calling first then they can take the next steps to help the (possible) patient. \nIf they decide the person is not clinically insane, then you can always document disturbances to your landlord afterwards - as it's annoying for you but not a medical emergency issue. \nHoping for the best for both of you! 🤞",
+    "username" : "iSUhr",
+    "timestamp" : "2024-12-22 17:08:38"
   }, {
-    "Username" : "NonBinaryAssHere",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:46:56",
-    "Body" : "Thank you!!"
+    "body" : "Thank you!!",
+    "username" : "NonBinaryAssHere",
+    "timestamp" : "2024-12-22 15:46:56"
   }, {
-    "Username" : "NonBinaryAssHere",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:48:51",
-    "Body" : "Thank you!! I'll do as you suggested. I've been documenting with audio recordings and videos (not of him, but just to show that I have all windows closed and yet I can still hear him very clearly)."
+    "body" : "Thank you!! I'll do as you suggested. I've been documenting with audio recordings and videos (not of him, but just to show that I have all windows closed and yet I can still hear him very clearly).",
+    "username" : "NonBinaryAssHere",
+    "timestamp" : "2024-12-22 15:48:51"
   }, {
-    "Username" : "NonBinaryAssHere",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:50:03",
-    "Body" : "I don't think so, but if that's how he sounds when he's playing games, he needs to be in a psych ward"
+    "body" : "I don't think so, but if that's how he sounds when he's playing games, he needs to be in a psych ward",
+    "username" : "NonBinaryAssHere",
+    "timestamp" : "2024-12-22 19:50:03"
   } ]
 }

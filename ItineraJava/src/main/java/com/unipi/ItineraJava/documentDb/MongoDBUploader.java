@@ -14,21 +14,19 @@ import com.mongodb.client.MongoDatabase;
 public class MongoDBUploader {
 
     // Metodo per ottenere una connessione a MongoDB
-    public static MongoClient getMongoConnection(String uri, String dbName) {
-        return MongoClients.create(uri + "/" + dbName);
+    public static MongoClient getMongoConnection(String uri) {
+        return MongoClients.create(uri);
     }
 
     public static void main(String[] args) {
 
-        String mongoUri = "mongodb://myUserAdmin:root@localhost:27017"; // URI corretto
-        String databaseName = "itineraDB";            // Nome del database
-        String collectionName = "Post";         // per allocare le altre collezioni modifica qui e il path
-
-        // Cartella contenente i file JSON
-        String jsonFolderPath = "../dataScraping/Post_doc"; // Percorso reale
+        String mongoUri = "mongodb://myUserAdmin:root@localhost:27017/itineraDB?authSource=admin&authMechanism=SCRAM-SHA-1";
+        String databaseName = "itineraDB"; // Nome del database
+        String collectionName = "Community";   // Nome della collezione
+        String jsonFolderPath = "itinera/dataScraping/Community_doc"; // Percorso reale dei file JSON
 
         // Connessione a MongoDB
-        try (MongoClient mongoClient = getMongoConnection(mongoUri, "itineraDB")) {
+        try (MongoClient mongoClient = getMongoConnection(mongoUri)) {
             MongoDatabase database = mongoClient.getDatabase(databaseName);
             MongoCollection<Document> collection = database.getCollection(collectionName);
 
@@ -44,13 +42,8 @@ public class MongoDBUploader {
             // Caricamento dei file JSON nella collezione
             for (File file : jsonFiles) {
                 try {
-                    // Leggi il contenuto del file
                     String content = new String(Files.readAllBytes(Paths.get(file.getAbsolutePath())));
-
-                    // Converti il contenuto in un documento BSON
                     Document document = Document.parse(content);
-
-                    // Inserisci il documento nella collezione
                     collection.insertOne(document);
 
                     System.out.println("Documento caricato: " + file.getName());
@@ -62,7 +55,7 @@ public class MongoDBUploader {
 
             System.out.println("Tutti i file JSON sono stati caricati nella collezione MongoDB.");
         } catch (Exception e) {
-            System.err.println("Errore durante la connessione a MongoDB.");
+            System.err.println("Errore durante la connessione a MongoDB con l'URI: " + mongoUri);
             e.printStackTrace();
         }
     }

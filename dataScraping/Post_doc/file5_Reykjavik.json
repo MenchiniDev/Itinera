@@ -1,10 +1,10 @@
 {
-  "Id" : 200212,
-  "Community_name" : "Reykjavik",
-  "Username" : "treehugger312",
-  "Post_body" : "Where to get the metal Christmas stars in everyone’s windows?",
-  "Timestamp" : "2024-04-15 20:11:05",
-  "Num_comment" : 0,
+  "id" : 200212,
+  "community_name" : "Reykjavik",
+  "username" : "treehugger312",
+  "post_body" : "Where to get the metal Christmas stars in everyone’s windows?",
+  "timestamp" : "2024-01-10 20:50:40",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

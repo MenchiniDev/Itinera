@@ -1,45 +1,45 @@
 {
-  "Id" : 200316,
-  "Community_name" : "Helsinki",
-  "Username" : "apinanaivot",
-  "Post_body" : "/r/Helsinki is going private on 12th of June as protest against reddit API becoming inaccessible to third party app developers",
-  "Timestamp" : "2023-06-04 20:00:38",
-  "Num_comment" : 7,
+  "id" : 200316,
+  "community_name" : "Helsinki",
+  "username" : "apinanaivot",
+  "post_body" : "/r/Helsinki is going private on 12th of June as protest against reddit API becoming inaccessible to third party app developers",
+  "timestamp" : "2023-06-04 20:00:38",
+  "num_comment" : 7,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "StuntCockofGilead",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2023-06-04 20:00:38",
-    "Body" : "I support the blackout.✊"
+    "body" : "I support the blackout.✊",
+    "username" : "StuntCockofGilead",
+    "timestamp" : "2023-06-04 20:00:38"
   }, {
-    "Username" : "RayneYoruka",
     "reported_comment" : false,
-    "Timestamp" : "2023-06-04 20:03:46",
-    "Body" : "Going all in!"
+    "body" : "Going all in!",
+    "username" : "RayneYoruka",
+    "timestamp" : "2023-06-04 20:03:46"
   }, {
-    "Username" : "tushkeissi_bro",
     "reported_comment" : false,
-    "Timestamp" : "2023-07-09 00:48:59",
-    "Body" : "Why Helsinki, r/Suomi if fine, but do not make Helsinki private again!"
+    "body" : "Why Helsinki, r/Suomi if fine, but do not make Helsinki private again!",
+    "username" : "tushkeissi_bro",
+    "timestamp" : "2023-07-09 00:48:59"
   }, {
-    "Username" : "pelle_hermanni",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-27 12:39:47",
-    "Body" : "There's always r/Finland , besides this country is so small that all the stuff can be fit into one subreddit. :-D"
+    "body" : "There's always r/Finland , besides this country is so small that all the stuff can be fit into one subreddit. :-D",
+    "username" : "pelle_hermanni",
+    "timestamp" : "2023-08-27 12:39:47"
   }, {
-    "Username" : "SmthRoskaa2",
     "reported_comment" : false,
-    "Timestamp" : "2024-06-13 12:10:25",
-    "Body" : "eilen?"
+    "body" : "eilen?",
+    "username" : "SmthRoskaa2",
+    "timestamp" : "2024-06-13 12:10:25"
   }, {
-    "Username" : "EduardoSpiritToes",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-17 06:12:23",
-    "Body" : "Omg wtf dudes..."
+    "body" : "Omg wtf dudes...",
+    "username" : "EduardoSpiritToes",
+    "timestamp" : "2023-08-17 06:12:23"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2023-09-15 14:39:46",
-    "Body" : "aiheeseen liittyy: https://www.reddit.com/r/Suomi/comments/16j7qpg/rarkisuomi_on_n%C3%A4ht%C3%A4v%C3%A4sti_k%C3%A4yt%C3%A4nn%C3%B6ss%C3%A4_suljettu/"
+    "body" : "aiheeseen liittyy: https://www.reddit.com/r/Suomi/comments/16j7qpg/rarkisuomi_on_n%C3%A4ht%C3%A4v%C3%A4sti_k%C3%A4yt%C3%A4nn%C3%B6ss%C3%A4_suljettu/",
+    "username" : "None",
+    "timestamp" : "2023-09-15 14:39:46"
   } ]
 }

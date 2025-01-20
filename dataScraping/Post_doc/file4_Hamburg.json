@@ -1,40 +1,40 @@
 {
-  "Id" : 200264,
-  "Community_name" : "Hamburg",
-  "Username" : "santiagodelariva",
-  "Post_body" : "Wo lernen am 26.12?",
-  "Timestamp" : "2024-12-23 11:29:28",
-  "Num_comment" : 6,
+  "id" : 200264,
+  "community_name" : "Hamburg",
+  "username" : "santiagodelariva",
+  "post_body" : "Wo lernen am 26.12?",
+  "timestamp" : "2024-12-23 11:29:28",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "LivingBreadGirl_",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:38:12",
-    "Body" : "Schau mal auf der Seite der Bücherhallen welche davon einen Flexibib Zugang haben der über die Feiertage zur Verfügung steht. Da kannst du dich dann mit dem Bücherhallen Ausweis selbst reinlassen obwohl kein Personal vor Ort ist. \n\nhttps://www.buecherhallen.de/oeffnungszeiten.html"
+    "body" : "Schau mal auf der Seite der Bücherhallen welche davon einen Flexibib Zugang haben der über die Feiertage zur Verfügung steht. Da kannst du dich dann mit dem Bücherhallen Ausweis selbst reinlassen obwohl kein Personal vor Ort ist. \n\nhttps://www.buecherhallen.de/oeffnungszeiten.html",
+    "username" : "LivingBreadGirl_",
+    "timestamp" : "2024-12-23 12:38:12"
   }, {
-    "Username" : "sleepingmaffy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:29:28",
-    "Body" : "Moin, vielleicht hat die ZBW auf an der Alster."
+    "body" : "Moin, vielleicht hat die ZBW auf an der Alster.",
+    "username" : "sleepingmaffy",
+    "timestamp" : "2024-12-23 11:29:28"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:54:53",
-    "Body" : "[deleted]"
+    "body" : "[deleted]",
+    "username" : "None",
+    "timestamp" : "2024-12-23 11:54:53"
   }, {
-    "Username" : "MelMey",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:01:18",
-    "Body" : "Ich denke das wird schwierig, die Bibliotheken habe alle zu, zum Teil auch zwischen den Feiertagen."
+    "body" : "Ich denke das wird schwierig, die Bibliotheken habe alle zu, zum Teil auch zwischen den Feiertagen.",
+    "username" : "MelMey",
+    "timestamp" : "2024-12-23 12:01:18"
   }, {
-    "Username" : "hcilbretsnu_eppireg",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:18:18",
-    "Body" : "der freiraum im museum für kunst und gewerbe ist prima zum arbeiten und lernen und hat am 26.12. von 12 - 18 uhr geöffnet!"
+    "body" : "der freiraum im museum für kunst und gewerbe ist prima zum arbeiten und lernen und hat am 26.12. von 12 - 18 uhr geöffnet!",
+    "username" : "hcilbretsnu_eppireg",
+    "timestamp" : "2024-12-23 15:18:18"
   }, {
-    "Username" : "MelMey",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:59:17",
-    "Body" : "Die ist an den Feiertagen auch zu."
+    "body" : "Die ist an den Feiertagen auch zu.",
+    "username" : "MelMey",
+    "timestamp" : "2024-12-23 11:59:17"
   } ]
 }

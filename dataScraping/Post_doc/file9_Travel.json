@@ -1,35 +1,35 @@
 {
-  "Id" : 200381,
-  "Community_name" : "Travel",
-  "Username" : "Taka_Finance",
-  "Post_body" : "[OC] Lago di Braies (Dolomites, Italy)",
-  "Timestamp" : "2024-12-22 21:59:36",
-  "Num_comment" : 5,
+  "id" : 200381,
+  "community_name" : "Travel",
+  "username" : "Taka_Finance",
+  "post_body" : "[OC] Lago di Braies (Dolomites, Italy)",
+  "timestamp" : "2024-12-22 21:59:36",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "No_Swimming_6789",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:33:46",
-    "Body" : "Still can’t believe they left this and chose to settle in New Jersey 🤢"
+    "body" : "Still can’t believe they left this and chose to settle in New Jersey 🤢",
+    "username" : "No_Swimming_6789",
+    "timestamp" : "2024-12-23 01:33:46"
   }, {
-    "Username" : "lucapal1",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:59:36",
-    "Body" : "Nice pictures, thanks for posting...a beautiful area!"
+    "body" : "Nice pictures, thanks for posting...a beautiful area!",
+    "username" : "lucapal1",
+    "timestamp" : "2024-12-22 21:59:36"
   }, {
-    "Username" : "annaamused",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:44:14",
-    "Body" : "Stunning"
+    "body" : "Stunning",
+    "username" : "annaamused",
+    "timestamp" : "2024-12-22 22:44:14"
   }, {
-    "Username" : "holidayoffools",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 04:19:19",
-    "Body" : "Looks like heaven (I hope)."
+    "body" : "Looks like heaven (I hope).",
+    "username" : "holidayoffools",
+    "timestamp" : "2024-12-23 04:19:19"
   }, {
-    "Username" : "Connect_Design780",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:49:25",
-    "Body" : "Wow so beautiful 💕"
+    "body" : "Wow so beautiful 💕",
+    "username" : "Connect_Design780",
+    "timestamp" : "2024-12-23 08:49:25"
   } ]
 }

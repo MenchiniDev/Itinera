@@ -1,15 +1,15 @@
 {
-  "Id" : 200071,
-  "Community_name" : "Tallinn",
-  "Username" : "Comfortable-Boss3541",
-  "Post_body" : "Tattoo prices",
-  "Timestamp" : "2022-01-25 18:05:58",
-  "Num_comment" : 1,
+  "id" : 200071,
+  "community_name" : "Tallinn",
+  "username" : "Comfortable-Boss3541",
+  "post_body" : "Tattoo prices",
+  "timestamp" : "2022-01-25 18:05:58",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "nugetky",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2022-01-25 18:05:58",
-    "Body" : "For more detailed answer ask this in r/eesti\nMy 3x3 tattoo was 60€ (minimum price of the artist). Maybe that will give you an estimate"
+    "body" : "For more detailed answer ask this in r/eesti\nMy 3x3 tattoo was 60€ (minimum price of the artist). Maybe that will give you an estimate",
+    "username" : "nugetky",
+    "timestamp" : "2022-01-25 18:05:58"
   } ]
 }

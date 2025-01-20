@@ -1,35 +1,35 @@
 {
-  "Id" : 200314,
-  "Community_name" : "Munich",
-  "Username" : "ermwhatsmyname",
-  "Post_body" : "‘München Modell’ property renting advice needed!",
-  "Timestamp" : "2024-12-23 09:27:39",
-  "Num_comment" : 5,
+  "id" : 200314,
+  "community_name" : "Munich",
+  "username" : "ermwhatsmyname",
+  "post_body" : "‘München Modell’ property renting advice needed!",
+  "timestamp" : "2024-12-23 09:27:39",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "crashblue81",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:27:39",
-    "Body" : "Just to keep in mind on average there are 350 people with a permit applying for each München Modell apartment that is vacant."
+    "body" : "Just to keep in mind on average there are 350 people with a permit applying for each München Modell apartment that is vacant.",
+    "username" : "crashblue81",
+    "timestamp" : "2024-12-23 09:27:39"
   }, {
-    "Username" : "Altruistic-Local9329",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:34:25",
-    "Body" : "Pretty sure you have to re-register for sowon six Months before your current registration ends. Otherwise, you will be locked ist of the system for months."
+    "body" : "Pretty sure you have to re-register for sowon six Months before your current registration ends. Otherwise, you will be locked ist of the system for months.",
+    "username" : "Altruistic-Local9329",
+    "timestamp" : "2024-12-23 09:34:25"
   }, {
-    "Username" : "fhandschuch",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:31:11",
-    "Body" : "I don‘t know how immowelt works, but on Immobilienscout24 you can check the „Wohnberechtigungsschein erforderlich“ option in the additional filters. Münchner Wohnen (formerly GEWOFAG and GWG) used that option for the München Modell apartments in their portfolio. I had a scraper with that filter running when I was looking with my family - although we never got one, got something else from GEWOFAG at the time."
+    "body" : "I don‘t know how immowelt works, but on Immobilienscout24 you can check the „Wohnberechtigungsschein erforderlich“ option in the additional filters. Münchner Wohnen (formerly GEWOFAG and GWG) used that option for the München Modell apartments in their portfolio. I had a scraper with that filter running when I was looking with my family - although we never got one, got something else from GEWOFAG at the time.",
+    "username" : "fhandschuch",
+    "timestamp" : "2024-12-23 10:31:11"
   }, {
-    "Username" : "tofudoener",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:40:01",
-    "Body" : "Where's that number from? Is it the same for families with kids? Just asking because literally all families I know that searched for one (did sometimes take a few years, of course), eventually got into a Genossenschaft/München Modell."
+    "body" : "Where's that number from? Is it the same for families with kids? Just asking because literally all families I know that searched for one (did sometimes take a few years, of course), eventually got into a Genossenschaft/München Modell.",
+    "username" : "tofudoener",
+    "timestamp" : "2024-12-23 12:40:01"
   }, {
-    "Username" : "crashblue81",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:40:47",
-    "Body" : "That was on average from a SZ article I read."
+    "body" : "That was on average from a SZ article I read.",
+    "username" : "crashblue81",
+    "timestamp" : "2024-12-23 12:40:47"
   } ]
 }

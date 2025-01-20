@@ -1,15 +1,15 @@
 {
-  "Id" : 200425,
-  "Community_name" : "Podgorica",
-  "Username" : "edgalimov",
-  "Post_body" : "Anyone up for playing chess offline?",
-  "Timestamp" : "2024-11-23 11:29:18",
-  "Num_comment" : 1,
+  "id" : 200425,
+  "community_name" : "Podgorica",
+  "username" : "edgalimov",
+  "post_body" : "Anyone up for playing chess offline?",
+  "timestamp" : "2024-11-23 11:29:18",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "crazzywak",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-11-23 11:29:18",
-    "Body" : "I sent you a PM :)"
+    "body" : "I sent you a PM :)",
+    "username" : "crazzywak",
+    "timestamp" : "2024-11-23 11:29:18"
   } ]
 }

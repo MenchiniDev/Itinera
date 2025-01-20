@@ -1,20 +1,20 @@
 {
-  "Id" : 200162,
-  "Community_name" : "Krakow",
-  "Username" : "Top-Cartographer7433",
-  "Post_body" : "New Work Permit Rules: For Foreign Students?",
-  "Timestamp" : "2024-12-22 23:31:12",
-  "Num_comment" : 2,
+  "id" : 200162,
+  "community_name" : "Krakow",
+  "username" : "Top-Cartographer7433",
+  "post_body" : "New Work Permit Rules: For Foreign Students?",
+  "timestamp" : "2024-12-22 23:31:12",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Eastern_Fix7541",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:31:12",
-    "Body" : "It will depend on nationality and status, but there should be an international relations department in your university who can best advise.."
+    "body" : "It will depend on nationality and status, but there should be an international relations department in your university who can best advise..",
+    "username" : "Eastern_Fix7541",
+    "timestamp" : "2024-12-22 23:31:12"
   }, {
-    "Username" : "Top-Cartographer7433",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:56:00",
-    "Body" : "I've emailed them and i hope they provide me with more informations , thank you so much"
+    "body" : "I've emailed them and i hope they provide me with more informations , thank you so much",
+    "username" : "Top-Cartographer7433",
+    "timestamp" : "2024-12-22 23:56:00"
   } ]
 }

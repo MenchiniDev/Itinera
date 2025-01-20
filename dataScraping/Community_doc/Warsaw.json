@@ -1,15 +1,15 @@
 {
-  "Id" : 200460,
-  "City" : "Warsaw",
-  "Name" : "Warsaw",
-  "Created" : "2024-04-15 18:57:09",
-  "Post" : [ {
-    "User" : "fijifig",
-    "Text" : "A portable stove",
-    "Timestamp" : "2024-04-15 19:57:09"
+  "id" : 200460,
+  "city" : "Warsaw",
+  "name" : "Warsaw",
+  "created" : "2024-01-10 19:35:41",
+  "post" : [ {
+    "text" : "A portable stove",
+    "user" : "fijifig",
+    "timestamp" : "2024-01-10 20:35:41"
   }, {
-    "User" : "Snoo_90160",
-    "Text" : "Nowe Miasto at night.",
-    "Timestamp" : "2024-12-21 14:26:57"
+    "text" : "Nowe Miasto at night.",
+    "user" : "Snoo_90160",
+    "timestamp" : "2024-12-21 14:26:57"
   } ]
 }

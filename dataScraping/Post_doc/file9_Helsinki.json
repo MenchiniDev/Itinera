@@ -1,35 +1,35 @@
 {
-  "Id" : 200358,
-  "Community_name" : "Helsinki",
-  "Username" : "unknownfoldr",
-  "Post_body" : "Snow Anywhere?",
-  "Timestamp" : "2024-12-23 12:35:37",
-  "Num_comment" : 5,
+  "id" : 200358,
+  "community_name" : "Helsinki",
+  "username" : "unknownfoldr",
+  "post_body" : "Snow Anywhere?",
+  "timestamp" : "2024-12-23 12:35:37",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "RingedSeal33",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:55:51",
-    "Body" : "Having a snowy yule in Helsinki is a bit of a gamble and according to FMI between 2006-2023 the probability is just 44% and the minimum definition White Christmas is quite a stretch from the full blown Winter Wonderland. \n\nCome back in late January or go north. Or go back in time 50 years or so."
+    "body" : "Having a snowy yule in Helsinki is a bit of a gamble and according to FMI between 2006-2023 the probability is just 44% and the minimum definition White Christmas is quite a stretch from the full blown Winter Wonderland. \n\nCome back in late January or go north. Or go back in time 50 years or so.",
+    "username" : "RingedSeal33",
+    "timestamp" : "2024-12-23 12:55:51"
   }, {
-    "Username" : "jansmanss",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:35:37",
-    "Body" : "That's called climate change. Try Lapland."
+    "body" : "That's called climate change. Try Lapland.",
+    "username" : "jansmanss",
+    "timestamp" : "2024-12-23 12:35:37"
   }, {
-    "Username" : "tsvk",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:52:59",
-    "Body" : "For snow and freezing temperatures you'll have to move some hundred kilometers inland to the north.\n\nSee https://en.ilmatieteenlaitos.fi/ for the weather situation. As the \"Snow depth\" section shows, there is snow by just going some 50-100 km inland, but as the \"Max temperature\" section shows, you'll have to travel half-way up to Lapland through Finland in order to get out of melting temperatures (the yellow area)."
+    "body" : "For snow and freezing temperatures you'll have to move some hundred kilometers inland to the north.\n\nSee https://en.ilmatieteenlaitos.fi/ for the weather situation. As the \"Snow depth\" section shows, there is snow by just going some 50-100 km inland, but as the \"Max temperature\" section shows, you'll have to travel half-way up to Lapland through Finland in order to get out of melting temperatures (the yellow area).",
+    "username" : "tsvk",
+    "timestamp" : "2024-12-23 13:52:59"
   }, {
-    "Username" : "Patralgan",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:59:26",
-    "Body" : "It's a daily gamble"
+    "body" : "It's a daily gamble",
+    "username" : "Patralgan",
+    "timestamp" : "2024-12-23 13:59:26"
   }, {
-    "Username" : "leela_martell",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:39:57",
-    "Body" : "There's not a lot of snow even in Lapland right now.\n\nActually looking at the Ilmatieteen laitos map (don't know how precise it is) there's more snow in Tampere than Rovaniemi."
+    "body" : "There's not a lot of snow even in Lapland right now.\n\nActually looking at the Ilmatieteen laitos map (don't know how precise it is) there's more snow in Tampere than Rovaniemi.",
+    "username" : "leela_martell",
+    "timestamp" : "2024-12-23 12:39:57"
   } ]
 }

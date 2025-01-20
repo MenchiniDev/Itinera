@@ -1,240 +1,240 @@
 {
-  "Id" : 200014,
-  "Community_name" : "Birmingham",
-  "Username" : "Clementine21",
-  "Post_body" : "Anybody recognize this gentleman?",
-  "Timestamp" : "2024-12-22 17:26:11",
-  "Num_comment" : 46,
+  "id" : 200014,
+  "community_name" : "Birmingham",
+  "username" : "Clementine21",
+  "post_body" : "Anybody recognize this gentleman?",
+  "timestamp" : "2024-12-22 17:26:11",
+  "num_comment" : 46,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Franchise1109",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:42:11",
-    "Body" : "I don’t but you will tell him he’s a good boi"
+    "body" : "I don’t but you will tell him he’s a good boi",
+    "username" : "Franchise1109",
+    "timestamp" : "2024-12-22 17:42:11"
   }, {
-    "Username" : "wontonsan",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:17:31",
-    "Body" : "I believe that dog belongs to a gentleman who seems to live in the woods by the bridge over 31."
+    "body" : "I believe that dog belongs to a gentleman who seems to live in the woods by the bridge over 31.",
+    "username" : "wontonsan",
+    "timestamp" : "2024-12-22 18:17:31"
   }, {
-    "Username" : "Gloomy_Side_5099",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:57:56",
-    "Body" : "My dog looks just like that but he’s right here next to me lmao you scared the bejebeus outta me\n\nhttps://preview.redd.it/lk8g9wrkrg8e1.jpeg?width=1512&format=pjpg&auto=webp&s=722878081115e60ce9ceb92c9cea846e37d961d4"
+    "body" : "My dog looks just like that but he’s right here next to me lmao you scared the bejebeus outta me\n\nhttps://preview.redd.it/lk8g9wrkrg8e1.jpeg?width=1512&format=pjpg&auto=webp&s=722878081115e60ce9ceb92c9cea846e37d961d4",
+    "username" : "Gloomy_Side_5099",
+    "timestamp" : "2024-12-22 21:57:56"
   }, {
-    "Username" : "Narrow_Tradition_756",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:34:19",
-    "Body" : "Hell! I’m In Alabama! I’ll Take Him!"
+    "body" : "Hell! I’m In Alabama! I’ll Take Him!",
+    "username" : "Narrow_Tradition_756",
+    "timestamp" : "2024-12-22 20:34:19"
   }, {
-    "Username" : "Awkward_Yesterday_36",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:14:41",
-    "Body" : "Keep him and return him to the area you found him. That’s someone’s dog regardless of them being housing insecure"
+    "body" : "Keep him and return him to the area you found him. That’s someone’s dog regardless of them being housing insecure",
+    "username" : "Awkward_Yesterday_36",
+    "timestamp" : "2024-12-22 23:14:41"
   }, {
-    "Username" : "Fun-Repeat7322",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:53:30",
-    "Body" : "Whatever you may accuse him of, he didn’t do it. I’m his alibi."
+    "body" : "Whatever you may accuse him of, he didn’t do it. I’m his alibi.",
+    "username" : "Fun-Repeat7322",
+    "timestamp" : "2024-12-22 22:53:30"
   }, {
-    "Username" : "SadRefrigerator2463",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:38:48",
-    "Body" : "Keep him if you can 🥲"
+    "body" : "Keep him if you can 🥲",
+    "username" : "SadRefrigerator2463",
+    "timestamp" : "2024-12-22 19:38:48"
   }, {
-    "Username" : "Bambam41786",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:56:57",
-    "Body" : "That’s a pretty boy!!"
+    "body" : "That’s a pretty boy!!",
+    "username" : "Bambam41786",
+    "timestamp" : "2024-12-22 19:56:57"
   }, {
-    "Username" : "RealCapybaras4Rill",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:37:27",
-    "Body" : "He a fine boi. Keep him warm and give scritches."
+    "body" : "He a fine boi. Keep him warm and give scritches.",
+    "username" : "RealCapybaras4Rill",
+    "timestamp" : "2024-12-22 23:37:27"
   }, {
-    "Username" : "Promotion_Technical",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 02:48:36",
-    "Body" : "Try reaching out to Dixie Girl Dog Rescue! I know a lot of people that foster for them. I'm at capacity with two cattle dogs, but he's a cute guy!"
+    "body" : "Try reaching out to Dixie Girl Dog Rescue! I know a lot of people that foster for them. I'm at capacity with two cattle dogs, but he's a cute guy!",
+    "username" : "Promotion_Technical",
+    "timestamp" : "2024-12-23 02:48:36"
   }, {
-    "Username" : "Dream_Treat",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:59:49",
-    "Body" : "A fine gentleman"
+    "body" : "A fine gentleman",
+    "username" : "Dream_Treat",
+    "timestamp" : "2024-12-22 17:59:49"
   }, {
-    "Username" : "kiwibobbyb",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:26:11",
-    "Body" : "He sure is a cutie!"
+    "body" : "He sure is a cutie!",
+    "username" : "kiwibobbyb",
+    "timestamp" : "2024-12-22 17:26:11"
   }, {
-    "Username" : "FriedrichAufSaarland",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 02:48:38",
-    "Body" : "Where did you find him? I know people that lost a dog exactly like him two days ago."
+    "body" : "Where did you find him? I know people that lost a dog exactly like him two days ago.",
+    "username" : "FriedrichAufSaarland",
+    "timestamp" : "2024-12-23 02:48:38"
   }, {
-    "Username" : "Substantial-Play5201",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:29:34",
-    "Body" : "Call Shelby Humane to see if they have room for him. They are a great organization. I’ve adopted from there."
+    "body" : "Call Shelby Humane to see if they have room for him. They are a great organization. I’ve adopted from there.",
+    "username" : "Substantial-Play5201",
+    "timestamp" : "2024-12-23 14:29:34"
   }, {
-    "Username" : "moon_haven777",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:31:15",
-    "Body" : "what a handsome distinguished gentleman🥹"
+    "body" : "what a handsome distinguished gentleman🥹",
+    "username" : "moon_haven777",
+    "timestamp" : "2024-12-22 23:31:15"
   }, {
-    "Username" : "thefabulousnip",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:16:31",
-    "Body" : "Looks like my brothers old dog Balloo, but it can't be him because he passed away"
+    "body" : "Looks like my brothers old dog Balloo, but it can't be him because he passed away",
+    "username" : "thefabulousnip",
+    "timestamp" : "2024-12-22 20:16:31"
   }, {
-    "Username" : "MassiveEngineering59",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:38:16",
-    "Body" : "did you find a place for him??"
+    "body" : "did you find a place for him??",
+    "username" : "MassiveEngineering59",
+    "timestamp" : "2024-12-22 20:38:16"
   }, {
-    "Username" : "smokeAfag_25",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:17:10",
-    "Body" : "That’s the goodest boy ever"
+    "body" : "That’s the goodest boy ever",
+    "username" : "smokeAfag_25",
+    "timestamp" : "2024-12-22 20:17:10"
   }, {
-    "Username" : "Automatic-Goat-9680",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:02:30",
-    "Body" : "Such a precious boy!!!"
+    "body" : "Such a precious boy!!!",
+    "username" : "Automatic-Goat-9680",
+    "timestamp" : "2024-12-22 23:02:30"
   }, {
-    "Username" : "Clementine21",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:18:49",
-    "Body" : "I figured, he doesn’t seem house trained, and it got so cold last night I imagine whoever owns him went to a warming station and couldn’t bring him in. I’m not sure what to do with the guy"
+    "body" : "I figured, he doesn’t seem house trained, and it got so cold last night I imagine whoever owns him went to a warming station and couldn’t bring him in. I’m not sure what to do with the guy",
+    "username" : "Clementine21",
+    "timestamp" : "2024-12-22 18:18:49"
   }, {
-    "Username" : "Clementine21",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:40:05",
-    "Body" : "I can’t sadly, I wish I could. If I knew someone who I knew would take care of him I’d bring him to them, but I think my best bet is to bring him to GBHS tomorrow when they open up"
+    "body" : "I can’t sadly, I wish I could. If I knew someone who I knew would take care of him I’d bring him to them, but I think my best bet is to bring him to GBHS tomorrow when they open up",
+    "username" : "Clementine21",
+    "timestamp" : "2024-12-22 19:40:05"
   }, {
-    "Username" : "Flexmove",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:17:31",
-    "Body" : "They actually mention in the post under the picture where they found him."
+    "body" : "They actually mention in the post under the picture where they found him.",
+    "username" : "Flexmove",
+    "timestamp" : "2024-12-23 05:17:31"
   }, {
-    "Username" : "Clementine21",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:42:14",
-    "Body" : "I haven’t, he exhibits a lot of behaviors that people might consider aggressive, and I’m worried finding a person that wants to keep him may end up putting him back in the same spot. I’m weighing my options currently"
+    "body" : "I haven’t, he exhibits a lot of behaviors that people might consider aggressive, and I’m worried finding a person that wants to keep him may end up putting him back in the same spot. I’m weighing my options currently",
+    "username" : "Clementine21",
+    "timestamp" : "2024-12-22 20:42:14"
   }, {
-    "Username" : "wontonsan",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:22:02",
-    "Body" : "I’ve seen him and his dog several times heading into the woods there (across the street from Freddy’s), and also behind the old derelict pool at Underwood Park. I’m also not sure what to do with him, except maybe call the Humane Society or other dog rescues in town?"
+    "body" : "I’ve seen him and his dog several times heading into the woods there (across the street from Freddy’s), and also behind the old derelict pool at Underwood Park. I’m also not sure what to do with him, except maybe call the Humane Society or other dog rescues in town?",
+    "username" : "wontonsan",
+    "timestamp" : "2024-12-22 18:22:02"
   }, {
-    "Username" : "acoupleoficecubes",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:30:00",
-    "Body" : "i think gbhs posted that they’re at max capacity, so i’d try another rescue if possible. maybe two by two?"
+    "body" : "i think gbhs posted that they’re at max capacity, so i’d try another rescue if possible. maybe two by two?",
+    "username" : "acoupleoficecubes",
+    "timestamp" : "2024-12-22 20:30:00"
   }, {
-    "Username" : "learntosw1m",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:46:57",
-    "Body" : "What kind of behavior? Reactiveness towards other dogs? And is he acting scared of you at all?"
+    "body" : "What kind of behavior? Reactiveness towards other dogs? And is he acting scared of you at all?",
+    "username" : "learntosw1m",
+    "timestamp" : "2024-12-22 20:46:57"
   }, {
-    "Username" : "MassiveEngineering59",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:08:14",
-    "Body" : "are you going to keep him!?"
+    "body" : "are you going to keep him!?",
+    "username" : "MassiveEngineering59",
+    "timestamp" : "2024-12-22 21:08:14"
   }, {
-    "Username" : "doughcar",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:11:21",
-    "Body" : "Not 2x2 please anywhere but them"
+    "body" : "Not 2x2 please anywhere but them",
+    "username" : "doughcar",
+    "timestamp" : "2024-12-22 22:11:21"
   }, {
-    "Username" : "Comfortable-Story-95",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:31:53",
-    "Body" : "Two By Two is a great rescue!"
+    "body" : "Two By Two is a great rescue!",
+    "username" : "Comfortable-Story-95",
+    "timestamp" : "2024-12-23 05:31:53"
   }, {
-    "Username" : "Clementine21",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:48:25",
-    "Body" : "He’s not scared of me a bit, and he was very standoffish early on especially when he met my other dog. He plays very rough, and seems like he has some extreme attachment issues, like he can’t be left alone for more than a second. I know some people aren’t really fans of that, and just handing him off wouldn’t feel right"
+    "body" : "He’s not scared of me a bit, and he was very standoffish early on especially when he met my other dog. He plays very rough, and seems like he has some extreme attachment issues, like he can’t be left alone for more than a second. I know some people aren’t really fans of that, and just handing him off wouldn’t feel right",
+    "username" : "Clementine21",
+    "timestamp" : "2024-12-22 20:48:25"
   }, {
-    "Username" : "Clementine21",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:10:59",
-    "Body" : "If it were up to me I would, but sadly it’s not, so I can’t. I’m just trying to find a home for him, or at least a chance at a home"
+    "body" : "If it were up to me I would, but sadly it’s not, so I can’t. I’m just trying to find a home for him, or at least a chance at a home",
+    "username" : "Clementine21",
+    "timestamp" : "2024-12-22 21:10:59"
   }, {
-    "Username" : "war_damn_dudrow",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:58:27",
-    "Body" : "Out of curiosity why not 2x2?"
+    "body" : "Out of curiosity why not 2x2?",
+    "username" : "war_damn_dudrow",
+    "timestamp" : "2024-12-22 23:58:27"
   }, {
-    "Username" : "learntosw1m",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:22:49",
-    "Body" : "At least he’s not super reactive. That would be much more hopeless. No expert by any means, but it sounds like a consistent routine and some basic behavioral training/socializing would do him wonders"
+    "body" : "At least he’s not super reactive. That would be much more hopeless. No expert by any means, but it sounds like a consistent routine and some basic behavioral training/socializing would do him wonders",
+    "username" : "learntosw1m",
+    "timestamp" : "2024-12-22 21:22:49"
   }, {
-    "Username" : "RedVelvet2397",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:39:37",
-    "Body" : "Do you think hes ok with cats?"
+    "body" : "Do you think hes ok with cats?",
+    "username" : "RedVelvet2397",
+    "timestamp" : "2024-12-22 21:39:37"
   }, {
-    "Username" : "doughcar",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:01:22",
-    "Body" : "They are overcrowded, underfunded and understaffed and the staff they do have is untrained. I worked there and saw alot of good dogs linger and turn into complete wrecks behavioral wise and health wise, the whole places is worm central.."
+    "body" : "They are overcrowded, underfunded and understaffed and the staff they do have is untrained. I worked there and saw alot of good dogs linger and turn into complete wrecks behavioral wise and health wise, the whole places is worm central..",
+    "username" : "doughcar",
+    "timestamp" : "2024-12-23 00:01:22"
   }, {
-    "Username" : "Clementine21",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:40:28",
-    "Body" : "To be honest I wouldn’t even attempt to put him around a cat. He’s very sweet but I doubt he’s been around many cats, if any at all."
+    "body" : "To be honest I wouldn’t even attempt to put him around a cat. He’s very sweet but I doubt he’s been around many cats, if any at all.",
+    "username" : "Clementine21",
+    "timestamp" : "2024-12-22 21:40:28"
   }, {
-    "Username" : "PrettyPibbles",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:37:02",
-    "Body" : "My pit acted just like this and she likes cats more than dogs (she was attacked about a year ago so that also adds to it). You'd be surprised at how many dogs actually do quite well with cats, but I totally understand the hesitation as you don't know this guy's history."
+    "body" : "My pit acted just like this and she likes cats more than dogs (she was attacked about a year ago so that also adds to it). You'd be surprised at how many dogs actually do quite well with cats, but I totally understand the hesitation as you don't know this guy's history.",
+    "username" : "PrettyPibbles",
+    "timestamp" : "2024-12-23 05:37:02"
   }, {
-    "Username" : "war_damn_dudrow",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:04:22",
-    "Body" : "Thank you! I had no idea."
+    "body" : "Thank you! I had no idea.",
+    "username" : "war_damn_dudrow",
+    "timestamp" : "2024-12-23 00:04:22"
   }, {
-    "Username" : "RedVelvet2397",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:41:29",
-    "Body" : "Damn, i want him but we got cats"
+    "body" : "Damn, i want him but we got cats",
+    "username" : "RedVelvet2397",
+    "timestamp" : "2024-12-22 21:41:29"
   }, {
-    "Username" : "dapopeah",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:21:06",
-    "Body" : "I got cats once when I was in college, found out my significant other was getting to the pound with other people I didn't know about. Got a shot, cleared it up. Safety first! Cat free ever since."
+    "body" : "I got cats once when I was in college, found out my significant other was getting to the pound with other people I didn't know about. Got a shot, cleared it up. Safety first! Cat free ever since.",
+    "username" : "dapopeah",
+    "timestamp" : "2024-12-23 00:21:06"
   }, {
-    "Username" : "MassiveEngineering59",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:13:05",
-    "Body" : "you will have to teach him that cats are not bad"
+    "body" : "you will have to teach him that cats are not bad",
+    "username" : "MassiveEngineering59",
+    "timestamp" : "2024-12-22 23:13:05"
   }, {
-    "Username" : "RedVelvet2397",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:40:48",
-    "Body" : "I like letting other people make contact with my cats, it makes me excited for them because they get to expirience the cats too"
+    "body" : "I like letting other people make contact with my cats, it makes me excited for them because they get to expirience the cats too",
+    "username" : "RedVelvet2397",
+    "timestamp" : "2024-12-23 00:40:48"
   }, {
-    "Username" : "RedVelvet2397",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:14:56",
-    "Body" : "Feels like too much work"
+    "body" : "Feels like too much work",
+    "username" : "RedVelvet2397",
+    "timestamp" : "2024-12-22 23:14:56"
   }, {
-    "Username" : "MassiveEngineering59",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:20:09",
-    "Body" : "not really dogs watch how humans act"
+    "body" : "not really dogs watch how humans act",
+    "username" : "MassiveEngineering59",
+    "timestamp" : "2024-12-22 23:20:09"
   }, {
-    "Username" : "RedVelvet2397",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:51:41",
-    "Body" : "My other one used to try to eat my cat while i was coddleing it"
+    "body" : "My other one used to try to eat my cat while i was coddleing it",
+    "username" : "RedVelvet2397",
+    "timestamp" : "2024-12-22 23:51:41"
   }, {
-    "Username" : "PrettyPibbles",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:38:32",
-    "Body" : "https://preview.redd.it/01201itq1j8e1.jpeg?width=2316&format=pjpg&auto=webp&s=bc1c9c7733bfdd1ccd6f16a76ba04a6dac1678f8\n\nMaybe difficult on a case-by-case basis, but definitely not impossible!"
+    "body" : "https://preview.redd.it/01201itq1j8e1.jpeg?width=2316&format=pjpg&auto=webp&s=bc1c9c7733bfdd1ccd6f16a76ba04a6dac1678f8\n\nMaybe difficult on a case-by-case basis, but definitely not impossible!",
+    "username" : "PrettyPibbles",
+    "timestamp" : "2024-12-23 05:38:32"
   } ]
 }

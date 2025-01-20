@@ -1,20 +1,20 @@
 {
-  "Id" : 200296,
-  "Community_name" : "Riga",
-  "Username" : "Stockton_Steroids",
-  "Post_body" : "Solo travelling",
-  "Timestamp" : "2024-12-22 08:37:10",
-  "Num_comment" : 2,
+  "id" : 200296,
+  "community_name" : "Riga",
+  "username" : "Stockton_Steroids",
+  "post_body" : "Solo travelling",
+  "timestamp" : "2024-12-22 08:37:10",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Gravelayer",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 08:37:10",
-    "Body" : "Doing it right now I would say Christmas market"
+    "body" : "Doing it right now I would say Christmas market",
+    "username" : "Gravelayer",
+    "timestamp" : "2024-12-22 08:37:10"
   }, {
-    "Username" : "ContributionPlane863",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:01:59",
-    "Body" : "Christmas market got spot, skunu iela street bars, karaoke bars at Hard Rock Cafe"
+    "body" : "Christmas market got spot, skunu iela street bars, karaoke bars at Hard Rock Cafe",
+    "username" : "ContributionPlane863",
+    "timestamp" : "2024-12-22 18:01:59"
   } ]
 }

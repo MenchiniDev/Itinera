@@ -1,45 +1,45 @@
 {
-  "Id" : 200084,
-  "Community_name" : "Zagreb",
-  "Username" : "Environmental-Key405",
-  "Post_body" : "New years eve in Zagreb",
-  "Timestamp" : "2024-12-22 18:18:55",
-  "Num_comment" : 7,
+  "id" : 200084,
+  "community_name" : "Zagreb",
+  "username" : "Environmental-Key405",
+  "post_body" : "New years eve in Zagreb",
+  "timestamp" : "2024-12-22 18:18:55",
+  "num_comment" : 7,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Party-Cake5173",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:18:55",
-    "Body" : "Well, on the main square there will be a New Year programme with local artists and now internationally famous Baby Lasagna so there's that..."
+    "body" : "Well, on the main square there will be a New Year programme with local artists and now internationally famous Baby Lasagna so there's that...",
+    "username" : "Party-Cake5173",
+    "timestamp" : "2024-12-22 18:18:55"
   }, {
-    "Username" : "Ashamed_Car_4545",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:10:49",
-    "Body" : "Checkout biggest hotels for dinner and party, might be worth"
+    "body" : "Checkout biggest hotels for dinner and party, might be worth",
+    "username" : "Ashamed_Car_4545",
+    "timestamp" : "2024-12-22 19:10:49"
   }, {
-    "Username" : "TradicionalniAteist",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:24:20",
-    "Body" : "Old Oharmacy Pub\nBuzz"
+    "body" : "Old Oharmacy Pub\nBuzz",
+    "username" : "TradicionalniAteist",
+    "timestamp" : "2024-12-22 19:24:20"
   }, {
-    "Username" : "zzzvvvvv",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:48:56",
-    "Body" : "I 5000 nepalaca"
+    "body" : "I 5000 nepalaca",
+    "username" : "zzzvvvvv",
+    "timestamp" : "2024-12-22 21:48:56"
   }, {
-    "Username" : "quantumdotnode",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:17:46",
-    "Body" : "You invited them. I don’t like the passive aggressive racism in Croatia. These people go to your country, work their asses off for shitty low wages, they’re generally polite and law abiding, yet they get looked down on by 99% of Croatians. Also it’s the season of goodwill. Study that 🎄"
+    "body" : "You invited them. I don’t like the passive aggressive racism in Croatia. These people go to your country, work their asses off for shitty low wages, they’re generally polite and law abiding, yet they get looked down on by 99% of Croatians. Also it’s the season of goodwill. Study that 🎄",
+    "username" : "quantumdotnode",
+    "timestamp" : "2024-12-22 22:17:46"
   }, {
-    "Username" : "zzzvvvvv",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:22:35",
-    "Body" : "Pricajmo malo o tome sto se dogodilo prosle godine, pipkali su curice na koncertu na trgu. Policija je intervenirala, njih nekoliko je okruzilo djevojcice i pipkala ih iako su im roditelji bili nekoliko metara dalje, uspjele su se maknuti i reci roditeljima koji su obavijestili policiju. \n\nPricajmo malo o tome kako je zenama kad prolaze po trgu kad na svakom stupu sjedi njih petnajstak i ne skidaju pogled i sline. O maloljetnicama da ne pricam.\n\nPricajmo malo o tome kako se ponasaju kad prodes u mraku pored njih sama. \n\nPricajmo malo o njihovoj kulturi i higijeni i sto bi mogli poci po krivu sto se toga tice.\n\nPricajmo malo o njihovim zdravstvenim kartonima, cjepljenju, bolestima i slicno.\n\nJebe mi se za goodwill jer se o nekim stvarima ne smije prestati pricati. \nI ne nismo ih mi pozvali vec nasa vlada. \nPa vidimo se veceras u 18 kod hnk"
+    "body" : "Pricajmo malo o tome sto se dogodilo prosle godine, pipkali su curice na koncertu na trgu. Policija je intervenirala, njih nekoliko je okruzilo djevojcice i pipkala ih iako su im roditelji bili nekoliko metara dalje, uspjele su se maknuti i reci roditeljima koji su obavijestili policiju. \n\nPricajmo malo o tome kako je zenama kad prolaze po trgu kad na svakom stupu sjedi njih petnajstak i ne skidaju pogled i sline. O maloljetnicama da ne pricam.\n\nPricajmo malo o tome kako se ponasaju kad prodes u mraku pored njih sama. \n\nPricajmo malo o njihovoj kulturi i higijeni i sto bi mogli poci po krivu sto se toga tice.\n\nPricajmo malo o njihovim zdravstvenim kartonima, cjepljenju, bolestima i slicno.\n\nJebe mi se za goodwill jer se o nekim stvarima ne smije prestati pricati. \nI ne nismo ih mi pozvali vec nasa vlada. \nPa vidimo se veceras u 18 kod hnk",
+    "username" : "zzzvvvvv",
+    "timestamp" : "2024-12-23 12:22:35"
   }, {
-    "Username" : "MonsterAzr",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:21:49",
-    "Body" : "I opet nisu oni krivi za to nego ljudi koji su ih doveli( HDZ usrani)"
+    "body" : "I opet nisu oni krivi za to nego ljudi koji su ih doveli( HDZ usrani)",
+    "username" : "MonsterAzr",
+    "timestamp" : "2024-12-23 14:21:49"
   } ]
 }

@@ -1,20 +1,20 @@
 {
-  "Id" : 200142,
-  "Community_name" : "Bratislava",
-  "Username" : "Ibn___batuta",
-  "Post_body" : "Heading: Day Trip to Bratislava from Budapest on Sunday (29th) – What Should I Do?",
-  "Timestamp" : "2024-12-23 01:02:09",
-  "Num_comment" : 2,
+  "id" : 200142,
+  "community_name" : "Bratislava",
+  "username" : "Ibn___batuta",
+  "post_body" : "Heading: Day Trip to Bratislava from Budapest on Sunday (29th) – What Should I Do?",
+  "timestamp" : "2024-12-23 01:02:09",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "pakachi2048",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:02:09",
-    "Body" : "[https://www.reddit.com/r/Slovakia/wiki/bratislava/](https://www.reddit.com/r/Slovakia/wiki/bratislava/)"
+    "body" : "[https://www.reddit.com/r/Slovakia/wiki/bratislava/](https://www.reddit.com/r/Slovakia/wiki/bratislava/)",
+    "username" : "pakachi2048",
+    "timestamp" : "2024-12-23 01:02:09"
   }, {
-    "Username" : "Ibn___batuta",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:45:55",
-    "Body" : "Thank you"
+    "body" : "Thank you",
+    "username" : "Ibn___batuta",
+    "timestamp" : "2024-12-23 12:45:55"
   } ]
 }

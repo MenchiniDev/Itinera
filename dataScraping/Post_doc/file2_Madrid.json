@@ -1,10 +1,10 @@
 {
-  "Id" : 200095,
-  "Community_name" : "Madrid",
-  "Username" : "juliocfebres",
-  "Post_body" : "Mi ruta de churros en Arganzuela",
-  "Timestamp" : "2024-04-15 20:01:33",
-  "Num_comment" : 0,
+  "id" : 200095,
+  "community_name" : "Madrid",
+  "username" : "juliocfebres",
+  "post_body" : "Mi ruta de churros en Arganzuela",
+  "timestamp" : "2024-01-10 20:41:01",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

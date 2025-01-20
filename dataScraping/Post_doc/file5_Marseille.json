@@ -1,10 +1,10 @@
 {
-  "Id" : 200254,
-  "Community_name" : "Marseille",
-  "Username" : "guilalune",
-  "Post_body" : "Subreddit en doublon - pour plus d'audience postez sur /r/aixmarseille",
-  "Timestamp" : "2024-04-15 20:14:19",
-  "Num_comment" : 0,
+  "id" : 200254,
+  "community_name" : "Marseille",
+  "username" : "guilalune",
+  "post_body" : "Subreddit en doublon - pour plus d'audience postez sur /r/aixmarseille",
+  "timestamp" : "2024-01-10 20:56:41",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

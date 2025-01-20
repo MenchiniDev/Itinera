@@ -1,15 +1,15 @@
 {
-  "Id" : 200455,
-  "City" : "Sarajevo",
-  "Name" : "Sarajevo",
-  "Created" : "2024-04-15 18:48:53",
-  "Post" : [ {
-    "User" : "ComprehensiveFan9176",
-    "Text" : "Pitanje za fax?",
-    "Timestamp" : "2024-04-15 19:48:53"
+  "id" : 200455,
+  "city" : "Sarajevo",
+  "name" : "Sarajevo",
+  "created" : "2024-01-10 19:27:20",
+  "post" : [ {
+    "text" : "Pitanje za fax?",
+    "user" : "ComprehensiveFan9176",
+    "timestamp" : "2024-01-10 20:27:20"
   }, {
-    "User" : "Relevant-Space1618",
-    "Text" : "spiritualno ",
-    "Timestamp" : "2024-04-15 20:03:01"
+    "text" : "spiritualno ",
+    "user" : "Relevant-Space1618",
+    "timestamp" : "2024-01-10 20:43:08"
   } ]
 }

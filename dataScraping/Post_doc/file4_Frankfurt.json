@@ -1,10 +1,10 @@
 {
-  "Id" : 200114,
-  "Community_name" : "Frankfurt",
-  "Username" : "captainlix",
-  "Post_body" : "Wie das FOUR Frankfurt die Skyline verändert",
-  "Timestamp" : "2024-04-15 20:03:23",
-  "Num_comment" : 0,
+  "id" : 200114,
+  "community_name" : "Frankfurt",
+  "username" : "captainlix",
+  "post_body" : "Wie das FOUR Frankfurt die Skyline verändert",
+  "timestamp" : "2024-01-10 20:43:28",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

@@ -1,55 +1,55 @@
 {
-  "Id" : 200203,
-  "Community_name" : "Frankfurt",
-  "Username" : "Timon_von_Phleius",
-  "Post_body" : "Gute Alternative Friseure",
-  "Timestamp" : "2024-12-22 21:45:46",
-  "Num_comment" : 9,
+  "id" : 200203,
+  "community_name" : "Frankfurt",
+  "username" : "Timon_von_Phleius",
+  "post_body" : "Gute Alternative Friseure",
+  "timestamp" : "2024-12-22 21:45:46",
+  "num_comment" : 9,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "JeanPierre-Blueberry",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:49:59",
-    "Body" : "Du müsstest \"untypisch\" ein bisschen konkretisieren"
+    "body" : "Du müsstest \"untypisch\" ein bisschen konkretisieren",
+    "username" : "JeanPierre-Blueberry",
+    "timestamp" : "2024-12-22 21:49:59"
   }, {
-    "Username" : "Competitive-Art",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:27:26",
-    "Body" : "Mr. Leons Scherenhände"
+    "body" : "Mr. Leons Scherenhände",
+    "username" : "Competitive-Art",
+    "timestamp" : "2024-12-22 22:27:26"
   }, {
-    "Username" : "AutoModerator",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:45:46",
-    "Body" : "Hello /u/Timon_von_Phleius, thank you for posting a question. Have you checked [our wiki](/r/frankfurt/wiki/index)  or the [stickied FAQ thread at the top of our subreddit](https://www.reddit.com/r/frankfurt/comments/otfb7a/visitors_and_newcomers_to_frankfurt_please_post/?utm_source=share&utm_medium=web2x&context=3)?\nWhen you have a satisfactory answer, please change the flair to \"Solved\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*"
+    "body" : "Hello /u/Timon_von_Phleius, thank you for posting a question. Have you checked [our wiki](/r/frankfurt/wiki/index)  or the [stickied FAQ thread at the top of our subreddit](https://www.reddit.com/r/frankfurt/comments/otfb7a/visitors_and_newcomers_to_frankfurt_please_post/?utm_source=share&utm_medium=web2x&context=3)?\nWhen you have a satisfactory answer, please change the flair to \"Solved\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*",
+    "username" : "AutoModerator",
+    "timestamp" : "2024-12-22 21:45:46"
   }, {
-    "Username" : "hombre74",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:18:41",
-    "Body" : "Barbershops dürfen keine Scheeren benutzen (dann Friseur und Meister Pflicht). "
+    "body" : "Barbershops dürfen keine Scheeren benutzen (dann Friseur und Meister Pflicht). ",
+    "username" : "hombre74",
+    "timestamp" : "2024-12-23 00:18:41"
   }, {
-    "Username" : "Timon_von_Phleius",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:53:09",
-    "Body" : "Schon eher Punkige Sachen. Iros, Mullets, Chelsea Cuts und auch Haarschnitte aus 70er bis 90ern\nIch weiß das sind eigentlich alles eher do it yourself Schnitte aber ich brauche erstmal wieder eine gute Grundstruktur um die dann zurecht zu schnibbeln xD"
+    "body" : "Schon eher Punkige Sachen. Iros, Mullets, Chelsea Cuts und auch Haarschnitte aus 70er bis 90ern\nIch weiß das sind eigentlich alles eher do it yourself Schnitte aber ich brauche erstmal wieder eine gute Grundstruktur um die dann zurecht zu schnibbeln xD",
+    "username" : "Timon_von_Phleius",
+    "timestamp" : "2024-12-22 21:53:09"
   }, {
-    "Username" : "Timon_von_Phleius",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:33:58",
-    "Body" : "Danke für die Empfehlung :D"
+    "body" : "Danke für die Empfehlung :D",
+    "username" : "Timon_von_Phleius",
+    "timestamp" : "2024-12-22 22:33:58"
   }, {
-    "Username" : "suspicious_racoon",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:58:53",
-    "Body" : "Du hast Recht, aber davon wissen die Barbieren aber scheinbar nix"
+    "body" : "Du hast Recht, aber davon wissen die Barbieren aber scheinbar nix",
+    "username" : "suspicious_racoon",
+    "timestamp" : "2024-12-23 00:58:53"
   }, {
-    "Username" : "thuglifesoul",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:04:16",
-    "Body" : "Bei Cowboys and Angels wirst du so was finden können :)"
+    "body" : "Bei Cowboys and Angels wirst du so was finden können :)",
+    "username" : "thuglifesoul",
+    "timestamp" : "2024-12-23 09:04:16"
   }, {
-    "Username" : "hombre74",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:34:25",
-    "Body" : "Wissen schon aber hoffen wohl das sie nicht erwischt werden? Ist auch gefühlt ein anderes Klientel...."
+    "body" : "Wissen schon aber hoffen wohl das sie nicht erwischt werden? Ist auch gefühlt ein anderes Klientel....",
+    "username" : "hombre74",
+    "timestamp" : "2024-12-23 07:34:25"
   } ]
 }

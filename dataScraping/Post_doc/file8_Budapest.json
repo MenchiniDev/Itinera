@@ -1,55 +1,55 @@
 {
-  "Id" : 200327,
-  "Community_name" : "Budapest",
-  "Username" : "electro-cortex",
-  "Post_body" : " ModLog #2 (2024-12): Kellemes Ünnepek | Happy Holidays",
-  "Timestamp" : "2024-12-11 07:43:08",
-  "Num_comment" : 9,
+  "id" : 200327,
+  "community_name" : "Budapest",
+  "username" : "electro-cortex",
+  "post_body" : " ModLog #2 (2024-12): Kellemes Ünnepek | Happy Holidays",
+  "timestamp" : "2024-12-11 07:43:08",
+  "num_comment" : 9,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "viobre",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 07:43:08",
-    "Body" : "Tudom, eleve paradox, de szerintem hasznos lenne egy kisebb gyűjés a Budapest-ajánlóba konkrétan \"hidden gems\" címszóval, mert az gyors válasz tud lenni a gyakran feltett unalmas kérdésre. Ez állhat a subon korábban ajánlott gemekből, de benne vagyok, hogy most egy workshop jellegű posztban összeszedjük a subtagokkal, ha van erre igény és hajlandóság.\n\nköszi az önkéntes munkátokért!"
+    "body" : "Tudom, eleve paradox, de szerintem hasznos lenne egy kisebb gyűjés a Budapest-ajánlóba konkrétan \"hidden gems\" címszóval, mert az gyors válasz tud lenni a gyakran feltett unalmas kérdésre. Ez állhat a subon korábban ajánlott gemekből, de benne vagyok, hogy most egy workshop jellegű posztban összeszedjük a subtagokkal, ha van erre igény és hajlandóság.\n\nköszi az önkéntes munkátokért!",
+    "username" : "viobre",
+    "timestamp" : "2024-12-11 07:43:08"
   }, {
-    "Username" : "ExcitingFinger4533",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 08:18:49",
-    "Body" : "Jók vagytok, csak így tovább! :)"
+    "body" : "Jók vagytok, csak így tovább! :)",
+    "username" : "ExcitingFinger4533",
+    "timestamp" : "2024-12-11 08:18:49"
   }, {
-    "Username" : "Kobaljov",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 09:55:21",
-    "Body" : "Köszönjük, amire esetleg még szükség lenne az a sub leírásának ennek a részének részletezése (vagy eltávolítása) a 7-es szabályal összefüggésben: *\"Kérdések és válaszok, hírek,* ***események****, történelem, minden, ami Budapesthez kapcsolódik.\"* (vagyis lehet-e úgy eseményről (előre) hírt adni hogy ne legyen spam, elsőre arra tippeltem, hogy ingyenes és ritka eseményt talán még lehet reklámozni, de az is törlésre került)"
+    "body" : "Köszönjük, amire esetleg még szükség lenne az a sub leírásának ennek a részének részletezése (vagy eltávolítása) a 7-es szabályal összefüggésben: *\"Kérdések és válaszok, hírek,* ***események****, történelem, minden, ami Budapesthez kapcsolódik.\"* (vagyis lehet-e úgy eseményről (előre) hírt adni hogy ne legyen spam, elsőre arra tippeltem, hogy ingyenes és ritka eseményt talán még lehet reklámozni, de az is törlésre került)",
+    "username" : "Kobaljov",
+    "timestamp" : "2024-12-11 09:55:21"
   }, {
-    "Username" : "adv0catus",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 08:59:30",
-    "Body" : "Köszönöm"
+    "body" : "Köszönöm",
+    "username" : "adv0catus",
+    "timestamp" : "2024-12-11 08:59:30"
   }, {
-    "Username" : "adsnsu",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 11:29:58",
-    "Body" : "Really appreciate the updated guide for tourists. \nIt would be helpful if you write a guide (or club some threads) for Expats/Long-term stay, thank you!"
+    "body" : "Really appreciate the updated guide for tourists. \nIt would be helpful if you write a guide (or club some threads) for Expats/Long-term stay, thank you!",
+    "username" : "adsnsu",
+    "timestamp" : "2024-12-11 11:29:58"
   }, {
-    "Username" : "electro-cortex",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 08:23:25",
-    "Body" : "Köszönjük szépen!  \n  \nVan még tervben több tematikus/szezonális ajánló. Az lenne a koncepció, hogy kiírunk egy posztot contest mode-ban (nem látszik az upvote-ok száma, amíg megy a dolog, így elvileg függetlenül ki lehet fejezni az egyetértést/egyet nem értést), és abból összerakunk egy wiki oldalt. Az lenne a cél, hogy olyan hely legyen ez a wiki, amit fel tudsz csapni, ha csak képbe kerülnél, hogy mik vannak a városban, ha csak nem valami speciálisról van szó persze. Decemberre már így is sikerült kicsit sok moderátori akciót időzíteni, de szerintem jövőre elindítjuk ezeket."
+    "body" : "Köszönjük szépen!  \n  \nVan még tervben több tematikus/szezonális ajánló. Az lenne a koncepció, hogy kiírunk egy posztot contest mode-ban (nem látszik az upvote-ok száma, amíg megy a dolog, így elvileg függetlenül ki lehet fejezni az egyetértést/egyet nem értést), és abból összerakunk egy wiki oldalt. Az lenne a cél, hogy olyan hely legyen ez a wiki, amit fel tudsz csapni, ha csak képbe kerülnél, hogy mik vannak a városban, ha csak nem valami speciálisról van szó persze. Decemberre már így is sikerült kicsit sok moderátori akciót időzíteni, de szerintem jövőre elindítjuk ezeket.",
+    "username" : "electro-cortex",
+    "timestamp" : "2024-12-11 08:23:25"
   }, {
-    "Username" : "electro-cortex",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 11:40:17",
-    "Body" : "Alapvetően az lenne a szabály, hogy profitorientált eseményekkel ne legyen szétspammelve a sub. Múltkor egy ELTE-s programot engedtünk: [https://www.reddit.com/r/budapest/comments/1gny9nn/eltes\\_program\\_70\\_%C3%A9ves\\_a\\_cern\\_a\\_vil%C3%A1g\\_legnagyobb/](https://www.reddit.com/r/budapest/comments/1gny9nn/eltes_program_70_%C3%A9ves_a_cern_a_vil%C3%A1g_legnagyobb/)\n\nDe persze, én most elviszem akkor, hogy ezt hogy csináljuk következetesebben és igyekszünk megszülni valami élhető megoldást. Addig is, ha nem értesz egyet egy törléssel, lezárással vagy egyéb moderátori döntéssel, írj nyugodtan modmailt és átbeszéljük!"
+    "body" : "Alapvetően az lenne a szabály, hogy profitorientált eseményekkel ne legyen szétspammelve a sub. Múltkor egy ELTE-s programot engedtünk: [https://www.reddit.com/r/budapest/comments/1gny9nn/eltes\\_program\\_70\\_%C3%A9ves\\_a\\_cern\\_a\\_vil%C3%A1g\\_legnagyobb/](https://www.reddit.com/r/budapest/comments/1gny9nn/eltes_program_70_%C3%A9ves_a_cern_a_vil%C3%A1g_legnagyobb/)\n\nDe persze, én most elviszem akkor, hogy ezt hogy csináljuk következetesebben és igyekszünk megszülni valami élhető megoldást. Addig is, ha nem értesz egyet egy törléssel, lezárással vagy egyéb moderátori döntéssel, írj nyugodtan modmailt és átbeszéljük!",
+    "username" : "electro-cortex",
+    "timestamp" : "2024-12-11 11:40:17"
   }, {
-    "Username" : "electro-cortex",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 11:57:02",
-    "Body" : "We do have plans for more thematic/seasonal recommendation lists. Probably early next year."
+    "body" : "We do have plans for more thematic/seasonal recommendation lists. Probably early next year.",
+    "username" : "electro-cortex",
+    "timestamp" : "2024-12-11 11:57:02"
   }, {
-    "Username" : "adsnsu",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 16:51:30",
-    "Body" : "Great!"
+    "body" : "Great!",
+    "username" : "adsnsu",
+    "timestamp" : "2024-12-11 16:51:30"
   } ]
 }

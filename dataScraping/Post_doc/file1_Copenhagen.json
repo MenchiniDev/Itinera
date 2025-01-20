@@ -1,500 +1,500 @@
 {
-  "Id" : 200038,
-  "Community_name" : "Copenhagen",
-  "Username" : "AutoModerator",
-  "Post_body" : "Monthly thread for advice and recommendations, December 2024 – ask your questions here!",
-  "Timestamp" : "2024-12-01 07:58:09",
-  "Num_comment" : 98,
+  "id" : 200038,
+  "community_name" : "Copenhagen",
+  "username" : "AutoModerator",
+  "post_body" : "Monthly thread for advice and recommendations, December 2024 – ask your questions here!",
+  "timestamp" : "2024-12-01 07:58:09",
+  "num_comment" : 98,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "trixter21992251",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-01 11:23:01",
-    "Body" : "Hi guys. Moved to Valby from Aarhus, and would like to purchase a christmas tree from a local source in Valby, for example local scouts.\n\nAny good ideas? On my own, I found gronnehjem.dk, a local Valby business. Preferably, I would like to purchase from something like scouts :D"
+    "body" : "Hi guys. Moved to Valby from Aarhus, and would like to purchase a christmas tree from a local source in Valby, for example local scouts.\n\nAny good ideas? On my own, I found gronnehjem.dk, a local Valby business. Preferably, I would like to purchase from something like scouts :D",
+    "username" : "trixter21992251",
+    "timestamp" : "2024-12-01 11:23:01"
   }, {
-    "Username" : "Capital-Ad3941",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-01 11:56:52",
-    "Body" : "Any busy bars or clubs in Copenhagen on Christmas Eve?\n\nHey everyone, I’ll be in Copenhagen from December 24th, 9 AM to December 25th, 9 AM (basically Christmas Eve and early Christmas Day). On that day I have a flight from Copenhagen so I would like to do Something before the flight, also I know it’s a big family holiday there, but I’m wondering if there are any bars or clubs that are still open and likely to have a crowd? Or is the city going to be completely quiet? Let me know if you’ve got any recommendations or tips. Thanks!"
+    "body" : "Any busy bars or clubs in Copenhagen on Christmas Eve?\n\nHey everyone, I’ll be in Copenhagen from December 24th, 9 AM to December 25th, 9 AM (basically Christmas Eve and early Christmas Day). On that day I have a flight from Copenhagen so I would like to do Something before the flight, also I know it’s a big family holiday there, but I’m wondering if there are any bars or clubs that are still open and likely to have a crowd? Or is the city going to be completely quiet? Let me know if you’ve got any recommendations or tips. Thanks!",
+    "username" : "Capital-Ad3941",
+    "timestamp" : "2024-12-01 11:56:52"
   }, {
-    "Username" : "MadlyInvolved",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-01 12:19:50",
-    "Body" : "Anyone know if the Frederiksberg Runddel stake rink is open already today?"
+    "body" : "Anyone know if the Frederiksberg Runddel stake rink is open already today?",
+    "username" : "MadlyInvolved",
+    "timestamp" : "2024-12-01 12:19:50"
   }, {
-    "Username" : "AvocadoIsTheName",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-02 21:42:15",
-    "Body" : "Hi there - I'm visiting Copenhagen for a week with my husband and 8-month old baby. I'm not really looking for things to do \"for\" my 8-month old, but rather places my husband and I can visit and bring her along where it wouldn't be frowned upon to have a baby in tow. Seeing as we are coming from the US, we do not have all the gear required to allow her to nap outside in the winter. Outside of the typical tourist attractions, are there particular neighborhoods or restaurants anyone could recommend where a baby this age will be welcome, or rather places we should definitely avoid? \n\n  \nAdditionally, if you know of a good way to borrow outdoor napping gear, I'm all ears!"
+    "body" : "Hi there - I'm visiting Copenhagen for a week with my husband and 8-month old baby. I'm not really looking for things to do \"for\" my 8-month old, but rather places my husband and I can visit and bring her along where it wouldn't be frowned upon to have a baby in tow. Seeing as we are coming from the US, we do not have all the gear required to allow her to nap outside in the winter. Outside of the typical tourist attractions, are there particular neighborhoods or restaurants anyone could recommend where a baby this age will be welcome, or rather places we should definitely avoid? \n\n  \nAdditionally, if you know of a good way to borrow outdoor napping gear, I'm all ears!",
+    "username" : "AvocadoIsTheName",
+    "timestamp" : "2024-12-02 21:42:15"
   }, {
-    "Username" : "en--dash",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-02 21:59:42",
-    "Body" : "A question about the DOT Billeter app: I'll be visiting Copenhagen in a few days. I have already downloaded the DOT Billeter app to pay for transit fare. When you set up a new account, it requires validation via SMS, which I was able to do as I am still in my home country. However, I was planning to buy a Danish data only eSIM during my travel. So, my question is: once I have validated my account once via SMS, will I later be able to purchase tickets over a data-only connection... or are there further SMS authentication steps that might occur? Thanks for any tips... I have genuinely looked all over the Internet for documentation on this and I can't find any (at least in English)."
+    "body" : "A question about the DOT Billeter app: I'll be visiting Copenhagen in a few days. I have already downloaded the DOT Billeter app to pay for transit fare. When you set up a new account, it requires validation via SMS, which I was able to do as I am still in my home country. However, I was planning to buy a Danish data only eSIM during my travel. So, my question is: once I have validated my account once via SMS, will I later be able to purchase tickets over a data-only connection... or are there further SMS authentication steps that might occur? Thanks for any tips... I have genuinely looked all over the Internet for documentation on this and I can't find any (at least in English).",
+    "username" : "en--dash",
+    "timestamp" : "2024-12-02 21:59:42"
   }, {
-    "Username" : "fimusman",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-02 23:00:38",
-    "Body" : "Help with mailing out parcel: I am visiting Copenhagen from Toronto and I need to send out a parcel to the UK. Can anyone point me to the best option within downtown Copenhagen? It seems like there's no offices for føtex or postnord in downtown?"
+    "body" : "Help with mailing out parcel: I am visiting Copenhagen from Toronto and I need to send out a parcel to the UK. Can anyone point me to the best option within downtown Copenhagen? It seems like there's no offices for føtex or postnord in downtown?",
+    "username" : "fimusman",
+    "timestamp" : "2024-12-02 23:00:38"
   }, {
-    "Username" : "maia131",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-03 12:22:53",
-    "Body" : "Hi!\n\nI am 21 and I am moving to Copenhagen in January. I am still a university student, but since I am in my last year, I can take my courses online and finish everything through distance studies. I am looking for a job probably at a coffee shop or a reception at a hotel or an office building or in retail but so far have not gotten many responses from employers or if I did, they rejected me. I would like to find a job before I relocate so that I can pay my rent haha. Do you have any advice how to get a job the easiest way in Copenhagen? Or any sort of advice regarding this?\n\n  \nPS. I already went around CPH asking for jobs at coffee shops and they all mostly said they are either not hiring or that I should go their website and wait. \n\nThank you so much in advance for your responses!"
+    "body" : "Hi!\n\nI am 21 and I am moving to Copenhagen in January. I am still a university student, but since I am in my last year, I can take my courses online and finish everything through distance studies. I am looking for a job probably at a coffee shop or a reception at a hotel or an office building or in retail but so far have not gotten many responses from employers or if I did, they rejected me. I would like to find a job before I relocate so that I can pay my rent haha. Do you have any advice how to get a job the easiest way in Copenhagen? Or any sort of advice regarding this?\n\n  \nPS. I already went around CPH asking for jobs at coffee shops and they all mostly said they are either not hiring or that I should go their website and wait. \n\nThank you so much in advance for your responses!",
+    "username" : "maia131",
+    "timestamp" : "2024-12-03 12:22:53"
   }, {
-    "Username" : "CuddlyCactus13",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-04 10:50:03",
-    "Body" : "Hey all -\n\n\n\nI´m looking to change my electricity provider and natural have come to reddit to seek out advice from the people and their experiences so I would greatly appreciate any tips you may have.\n\nI currently have velkommen and am unhappy af. reasons being terrible CS, impossible to understand and communicate overcharged, and a terrible non danish speaker ui/ux experience on the dashboard.\n\nSo I am hoping to switch from the next year and I have a 2 month notice and am curious if anyone has any recommendations (not like it needs to be fancy, I honestly feel like I am looking for the bare minimum).\n\nAppreciate any help there might be."
+    "body" : "Hey all -\n\n\n\nI´m looking to change my electricity provider and natural have come to reddit to seek out advice from the people and their experiences so I would greatly appreciate any tips you may have.\n\nI currently have velkommen and am unhappy af. reasons being terrible CS, impossible to understand and communicate overcharged, and a terrible non danish speaker ui/ux experience on the dashboard.\n\nSo I am hoping to switch from the next year and I have a 2 month notice and am curious if anyone has any recommendations (not like it needs to be fancy, I honestly feel like I am looking for the bare minimum).\n\nAppreciate any help there might be.",
+    "username" : "CuddlyCactus13",
+    "timestamp" : "2024-12-04 10:50:03"
   }, {
-    "Username" : "LuxSentimental",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-04 23:00:24",
-    "Body" : "Hi! Visiting Copenhagen for Xmas. Looking for recommendations for cools shops (fashion, design, books, art, etc). Also interested in recs for restaurants and places to visit. THANKS! Gracias <3"
+    "body" : "Hi! Visiting Copenhagen for Xmas. Looking for recommendations for cools shops (fashion, design, books, art, etc). Also interested in recs for restaurants and places to visit. THANKS! Gracias <3",
+    "username" : "LuxSentimental",
+    "timestamp" : "2024-12-04 23:00:24"
   }, {
-    "Username" : "Excellent_Movie_6882",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-05 01:26:14",
-    "Body" : "stolen bike insurance issue\n\nHey! \nI got my beloved principia racer stolen a month ago, and finally the insurance company got back to me - i need a frame number, or i won’t get reimbursed for the bike. \nThe problem is, i bought the bike second hand on fb marketplace and i don’t have a frame number, a receipt (paid in cash) or anything else. I contacted the seller, and they no longer have any info on the bike (got it over two years ago, so understandable)\nI the bike has some damages that i can describe, and i have lots of pictures, also of myself with the bike. \nIs there a chance i will get any money back?:( \nthanks for any help"
+    "body" : "stolen bike insurance issue\n\nHey! \nI got my beloved principia racer stolen a month ago, and finally the insurance company got back to me - i need a frame number, or i won’t get reimbursed for the bike. \nThe problem is, i bought the bike second hand on fb marketplace and i don’t have a frame number, a receipt (paid in cash) or anything else. I contacted the seller, and they no longer have any info on the bike (got it over two years ago, so understandable)\nI the bike has some damages that i can describe, and i have lots of pictures, also of myself with the bike. \nIs there a chance i will get any money back?:( \nthanks for any help",
+    "username" : "Excellent_Movie_6882",
+    "timestamp" : "2024-12-05 01:26:14"
   }, {
-    "Username" : "Piccolaa",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-05 15:41:29",
-    "Body" : "Hey everyone \n\nMe and my bf are visiting Denmark and got quite ill. \n\nWe talked to our insurance doctor and he prescribed us some medicine (brufen and some anti inflammatory), and he said it was fine to pick it up in any aphotek since he is allowed to issue prescriptions troughout Europe.\n\nWe printed the prescriptions but now we went to a pharmacy and they said to us this needs to be sent by fax? Is this true?\n\nI didn’t know that faxes were still used, but this is going to be very tricky to get done.\n\nLittle help here?\n\nThanks"
+    "body" : "Hey everyone \n\nMe and my bf are visiting Denmark and got quite ill. \n\nWe talked to our insurance doctor and he prescribed us some medicine (brufen and some anti inflammatory), and he said it was fine to pick it up in any aphotek since he is allowed to issue prescriptions troughout Europe.\n\nWe printed the prescriptions but now we went to a pharmacy and they said to us this needs to be sent by fax? Is this true?\n\nI didn’t know that faxes were still used, but this is going to be very tricky to get done.\n\nLittle help here?\n\nThanks",
+    "username" : "Piccolaa",
+    "timestamp" : "2024-12-05 15:41:29"
   }, {
-    "Username" : "filofil",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-06 09:37:46",
-    "Body" : "Hey guys, I recently booked a cheap ticket for my first-ever trip to Europe and chose Denmark as my destination (hoping to get a Schengen Visa). This will be a solo trip, and I know it’ll be quite cold and all but I am used to that kind of weather, anyways, I’m planning to explore the city during the day and work remotely in the evenings. I’m also considering a day trip to Malmö. What would you recommend, any good cafes or places to work after my daytime explorations? Things to eat, museums/places to see etc.?"
+    "body" : "Hey guys, I recently booked a cheap ticket for my first-ever trip to Europe and chose Denmark as my destination (hoping to get a Schengen Visa). This will be a solo trip, and I know it’ll be quite cold and all but I am used to that kind of weather, anyways, I’m planning to explore the city during the day and work remotely in the evenings. I’m also considering a day trip to Malmö. What would you recommend, any good cafes or places to work after my daytime explorations? Things to eat, museums/places to see etc.?",
+    "username" : "filofil",
+    "timestamp" : "2024-12-06 09:37:46"
   }, {
-    "Username" : "_-_MrG_-_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-06 18:37:54",
-    "Body" : "Hello everyone! \n\nAny suggestions for something nice to do on Friday and Saturday night? I’m now going to Reffen since I read about it but any further help would be greatly appreciated.\n\nTak :)"
+    "body" : "Hello everyone! \n\nAny suggestions for something nice to do on Friday and Saturday night? I’m now going to Reffen since I read about it but any further help would be greatly appreciated.\n\nTak :)",
+    "username" : "_-_MrG_-_",
+    "timestamp" : "2024-12-06 18:37:54"
   }, {
-    "Username" : "modelotimef0o",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-06 20:48:06",
-    "Body" : "Hello, I recently moved to Copenhagen and I am wondering if there are any dj communities here that you can join without too much experience, or if anyone else is in the same situation and would be down to get together and play. Any other tips on places that do open decks or anything would be much appreciated.  \nThanks!"
+    "body" : "Hello, I recently moved to Copenhagen and I am wondering if there are any dj communities here that you can join without too much experience, or if anyone else is in the same situation and would be down to get together and play. Any other tips on places that do open decks or anything would be much appreciated.  \nThanks!",
+    "username" : "modelotimef0o",
+    "timestamp" : "2024-12-06 20:48:06"
   }, {
-    "Username" : "pdm58ph",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-07 05:08:25",
-    "Body" : "Hi! Where can I get some morning hot dogs?\n\nI was looking at John's Hot Dog Deli and DØP for hot dogs, but I'm leaning towards having my final meal be hot dogs, as I have a Sunday 12:25 pm flight home, so I'd like to grab breakfast around 9/9:30 so i can be at the airport by 10:30. This takes away all the options on my list, which all open around 11:30.\n\nI also want to do Mirabelle, who could get me out that quickly. Should I go with Mirabelle final meal as brunch, and hit hot dogs another day for lunch, or is there a good place i can get some quick dogs in the AM before a flight? Out of everything else on my list, these are the only options I have for Sunday AM.\n\nThank you!"
+    "body" : "Hi! Where can I get some morning hot dogs?\n\nI was looking at John's Hot Dog Deli and DØP for hot dogs, but I'm leaning towards having my final meal be hot dogs, as I have a Sunday 12:25 pm flight home, so I'd like to grab breakfast around 9/9:30 so i can be at the airport by 10:30. This takes away all the options on my list, which all open around 11:30.\n\nI also want to do Mirabelle, who could get me out that quickly. Should I go with Mirabelle final meal as brunch, and hit hot dogs another day for lunch, or is there a good place i can get some quick dogs in the AM before a flight? Out of everything else on my list, these are the only options I have for Sunday AM.\n\nThank you!",
+    "username" : "pdm58ph",
+    "timestamp" : "2024-12-07 05:08:25"
   }, {
-    "Username" : "No_Spell_7846",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 21:42:14",
-    "Body" : "Anyone know of companies that hire people as wedding witnesses?"
+    "body" : "Anyone know of companies that hire people as wedding witnesses?",
+    "username" : "No_Spell_7846",
+    "timestamp" : "2024-12-11 21:42:14"
   }, {
-    "Username" : "Virtual_Agency_1342",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-12 10:06:37",
-    "Body" : "Does anyone know which banks has English support.   \nI am normally using Lunar, but planning to switch a traditional bank since I need a loan / mortgage, and I want to switch to bank with an English support , apart from the other criteria."
+    "body" : "Does anyone know which banks has English support.   \nI am normally using Lunar, but planning to switch a traditional bank since I need a loan / mortgage, and I want to switch to bank with an English support , apart from the other criteria.",
+    "username" : "Virtual_Agency_1342",
+    "timestamp" : "2024-12-12 10:06:37"
   }, {
-    "Username" : "wishicouldbeginagain",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-12 19:02:02",
-    "Body" : "Could anyone recommend a travel guidebook for Copenhagen? My 33 year old daughter is visiting in Feb and wanted one different from Lonely Planet. Ideas?"
+    "body" : "Could anyone recommend a travel guidebook for Copenhagen? My 33 year old daughter is visiting in Feb and wanted one different from Lonely Planet. Ideas?",
+    "username" : "wishicouldbeginagain",
+    "timestamp" : "2024-12-12 19:02:02"
   }, {
-    "Username" : "Godxya",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-13 22:37:36",
-    "Body" : "Is the Christmas tree at Rådhuspladsen real (fresh-cut) or artificial? After a short visit to the lovely city, we found ourselves reminiscing about the memories, which led to a discussion about whether the tree was fresh-cut or artificial. Can any locals help us satisfy our curiosity?"
+    "body" : "Is the Christmas tree at Rådhuspladsen real (fresh-cut) or artificial? After a short visit to the lovely city, we found ourselves reminiscing about the memories, which led to a discussion about whether the tree was fresh-cut or artificial. Can any locals help us satisfy our curiosity?",
+    "username" : "Godxya",
+    "timestamp" : "2024-12-13 22:37:36"
   }, {
-    "Username" : "Formal_Contract8040",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-14 22:39:37",
-    "Body" : "Hi everyone. Just wondering if anyone here has a membership at søpavillonen in Copenhagen? My friend said she applied over 6 months ago but still hasn't gotten in. Does it really take that long"
+    "body" : "Hi everyone. Just wondering if anyone here has a membership at søpavillonen in Copenhagen? My friend said she applied over 6 months ago but still hasn't gotten in. Does it really take that long",
+    "username" : "Formal_Contract8040",
+    "timestamp" : "2024-12-14 22:39:37"
   }, {
-    "Username" : "willowsmart99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-15 06:34:22",
-    "Body" : "Hej, does anyone have any advice on moving to Copenhagen from Australia or about the current job market situation? We have read that it is preferable to have learnt Danish before moving across. We are also trying to find more information about the work visa process as it’s not very clear on the Danish embassy website. Thank you"
+    "body" : "Hej, does anyone have any advice on moving to Copenhagen from Australia or about the current job market situation? We have read that it is preferable to have learnt Danish before moving across. We are also trying to find more information about the work visa process as it’s not very clear on the Danish embassy website. Thank you",
+    "username" : "willowsmart99",
+    "timestamp" : "2024-12-15 06:34:22"
   }, {
-    "Username" : "PartPleasant2800",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 15:19:07",
-    "Body" : "Hi all, \ncould someone point out a store close to downtown which still sells the Sistema plastic bottles? Føtex used to have them but it seems to mostly out of stock there. Sorry for bothering you here, the info is surprisingly hard to find online."
+    "body" : "Hi all, \ncould someone point out a store close to downtown which still sells the Sistema plastic bottles? Føtex used to have them but it seems to mostly out of stock there. Sorry for bothering you here, the info is surprisingly hard to find online.",
+    "username" : "PartPleasant2800",
+    "timestamp" : "2024-12-17 15:19:07"
   }, {
-    "Username" : "Available-Tree-1598",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 10:26:00",
-    "Body" : "Maybe it will be interesting to some. :)  \n  \nI made an app to find restaurants around you and get deals (cheaper food!) [https://apps.apple.com/app/apple-store/id6670250617?pt=127288428&ct=reddit&mt=8](https://apps.apple.com/app/apple-store/id6670250617?pt=127288428&ct=reddit&mt=8)"
+    "body" : "Maybe it will be interesting to some. :)  \n  \nI made an app to find restaurants around you and get deals (cheaper food!) [https://apps.apple.com/app/apple-store/id6670250617?pt=127288428&ct=reddit&mt=8](https://apps.apple.com/app/apple-store/id6670250617?pt=127288428&ct=reddit&mt=8)",
+    "username" : "Available-Tree-1598",
+    "timestamp" : "2024-12-18 10:26:00"
   }, {
-    "Username" : "ButterscotchFresh687",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 23:24:23",
-    "Body" : "Hi, my husband and I are traveling (ages 24 and 25) via train through Copenhagen for Christmas. We're from the United States. We're really excited to see the city at a time that's calm but curious if there would be anyone who might be open to hosting us for a dinner on 24.12? We're not sure we will find any open restaurants. Alternatively, if you have suggestions for restaurants that will be open, please share. Thank you!"
+    "body" : "Hi, my husband and I are traveling (ages 24 and 25) via train through Copenhagen for Christmas. We're from the United States. We're really excited to see the city at a time that's calm but curious if there would be anyone who might be open to hosting us for a dinner on 24.12? We're not sure we will find any open restaurants. Alternatively, if you have suggestions for restaurants that will be open, please share. Thank you!",
+    "username" : "ButterscotchFresh687",
+    "timestamp" : "2024-12-18 23:24:23"
   }, {
-    "Username" : "PineappleUnhappy2870",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 20:21:56",
-    "Body" : "Freelance film work\n\n\nHej!\nOver the last few months l’ve been considering making a move from Canada to Copenhagen.\nNumerous reasons as to why that I won’t bore you with.\nCurious if anyone here works in the tv/film industry in Copenhagen, and how the industry is?\nI’ve worked freelance for roughly 10 years in (primarily) commercials in Canada. Mostly in Set Dec/Props/SPFX. With my earlier years being in Production.\nWhat would be the best way to go about breaking in or making contacts in CPH? l’ve seen a couple production companies and have emailed a few people. But more options the merrier, right?"
+    "body" : "Freelance film work\n\n\nHej!\nOver the last few months l’ve been considering making a move from Canada to Copenhagen.\nNumerous reasons as to why that I won’t bore you with.\nCurious if anyone here works in the tv/film industry in Copenhagen, and how the industry is?\nI’ve worked freelance for roughly 10 years in (primarily) commercials in Canada. Mostly in Set Dec/Props/SPFX. With my earlier years being in Production.\nWhat would be the best way to go about breaking in or making contacts in CPH? l’ve seen a couple production companies and have emailed a few people. But more options the merrier, right?",
+    "username" : "PineappleUnhappy2870",
+    "timestamp" : "2024-12-19 20:21:56"
   }, {
-    "Username" : "Able_Variation_332",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 03:23:34",
-    "Body" : "Hi everyone, I moved to cph this year and live in a 1907 building. One of the rooms has holes from the removal of the previous owners wardrobe. I’m worried they might have asbest0s because the filling under the paint and above the cement looks like it has fibres in it. There’s photos on my profile, do I need to be concerned?"
+    "body" : "Hi everyone, I moved to cph this year and live in a 1907 building. One of the rooms has holes from the removal of the previous owners wardrobe. I’m worried they might have asbest0s because the filling under the paint and above the cement looks like it has fibres in it. There’s photos on my profile, do I need to be concerned?",
+    "username" : "Able_Variation_332",
+    "timestamp" : "2024-12-20 03:23:34"
   }, {
-    "Username" : "cab1120",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 03:32:49",
-    "Body" : "Are there any record or music stores where my husband can find paleface swiss albums? They're very difficult to find in the US and we are hoping to find some when we visit!"
+    "body" : "Are there any record or music stores where my husband can find paleface swiss albums? They're very difficult to find in the US and we are hoping to find some when we visit!",
+    "username" : "cab1120",
+    "timestamp" : "2024-12-20 03:32:49"
   }, {
-    "Username" : "borers11",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 17:36:35",
-    "Body" : "Hey guys, I will be spending some days alone in Copenhagen including the 24 and 25, any idea what to do on those days, especially for Christmas dinner or something on the 24? I am 26 and a brazillian international studying in Sweden and looking for some suggestions on what to do on these days :) Thank you for any ideas!"
+    "body" : "Hey guys, I will be spending some days alone in Copenhagen including the 24 and 25, any idea what to do on those days, especially for Christmas dinner or something on the 24? I am 26 and a brazillian international studying in Sweden and looking for some suggestions on what to do on these days :) Thank you for any ideas!",
+    "username" : "borers11",
+    "timestamp" : "2024-12-21 17:36:35"
   }, {
-    "Username" : "Pl4nt-n00b",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-01 07:58:09",
-    "Body" : "What are the best neighborhoods to live in as an international? Looking for central but quiet neighborhood. Love access to parks, the water or anything nature.\nSingle Female in early 30’s\nBudget 10-14K"
+    "body" : "What are the best neighborhoods to live in as an international? Looking for central but quiet neighborhood. Love access to parks, the water or anything nature.\nSingle Female in early 30’s\nBudget 10-14K",
+    "username" : "Pl4nt-n00b",
+    "timestamp" : "2024-12-01 07:58:09"
   }, {
-    "Username" : "cevator",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-09 14:48:07",
-    "Body" : "Hi guys! I will be visiting Copenhagen Wednesday and Thursday. I have just bought a ticket for Van Gogh Experience. Do you have any other suggestion?\n\nAlso I really like to visit museums and visual stuff with a joint, is it legal to buy weed in Denmark? If yes, where to find a decent CBD or weed? If no, I will just hope to meet some local guys then.\n\nLast question, which night club is the best for techno? If there are techo people among you, please do not hesitate to send me a DM. It will be much appreciated."
+    "body" : "Hi guys! I will be visiting Copenhagen Wednesday and Thursday. I have just bought a ticket for Van Gogh Experience. Do you have any other suggestion?\n\nAlso I really like to visit museums and visual stuff with a joint, is it legal to buy weed in Denmark? If yes, where to find a decent CBD or weed? If no, I will just hope to meet some local guys then.\n\nLast question, which night club is the best for techno? If there are techo people among you, please do not hesitate to send me a DM. It will be much appreciated.",
+    "username" : "cevator",
+    "timestamp" : "2024-12-09 14:48:07"
   }, {
-    "Username" : "DaysnLines",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 14:14:16",
-    "Body" : "Hey everyone,\nI’m going the visit Copenhagen in a view days.\nMy question is about best ways to come around outer the city (like a 2-3h drive).\nIs there some kind of car-sharing possibility for visitors (more „local“, not like EuropeCar or else)\nI definitely don’t want to drive inner city. I want to visit some friends in the north, and stop at a museum. Just looking for a car so it is possible to make a stop when I like the area on the way and don’t have to rush to the catch the train in „nowhere“. We would be 4 persons in the car. Inner city I think the best way for me is by foot and public transportation. \n\nOr would you recommend using public transportation? \nSo i was not sure if there is like a easy to go ticket, where I don’t have to check boundaries if my ticket is accepted for certain areas.\n\nSorry for the dumb questions. I’m used to German public transportation snd it’s not very good an was complicated as f till they brought up a German wide ticket."
+    "body" : "Hey everyone,\nI’m going the visit Copenhagen in a view days.\nMy question is about best ways to come around outer the city (like a 2-3h drive).\nIs there some kind of car-sharing possibility for visitors (more „local“, not like EuropeCar or else)\nI definitely don’t want to drive inner city. I want to visit some friends in the north, and stop at a museum. Just looking for a car so it is possible to make a stop when I like the area on the way and don’t have to rush to the catch the train in „nowhere“. We would be 4 persons in the car. Inner city I think the best way for me is by foot and public transportation. \n\nOr would you recommend using public transportation? \nSo i was not sure if there is like a easy to go ticket, where I don’t have to check boundaries if my ticket is accepted for certain areas.\n\nSorry for the dumb questions. I’m used to German public transportation snd it’s not very good an was complicated as f till they brought up a German wide ticket.",
+    "username" : "DaysnLines",
+    "timestamp" : "2024-12-11 14:14:16"
   }, {
-    "Username" : "Longjumping-List9672",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-14 00:14:38",
-    "Body" : "(I couldn't post it in general because I don't have enough Karma)  \nHej,\n\nI recently had the opportunity to visit Copenhagen and I was amazed by the cleanliness, attitude, and overall standard of life, which gave me idea to try to move there, as I am currently in a gap year. I speak English perfectly, as well as a couple of other languages, however no Danish.\n\nI am looking into applying for a Master's degree in Copenhagen (most likely CBS). Even though I finished the Bachelor's in Slovenia (EU), I am from Macedonia (Balkan), and therefore not an EU citizen. So, considering the high standard of life, I am looking to enroll into a part - time program, where I would be working a minimum of 25h/week.\n\n1. Is part - time work considered a student job? What salary should I expect/aim for?\n2. How difficult is it to find work in the field of studies? Does it matter to the employer that I am not from the EU?\n\nI do have previous working experiences, 2 internships, one of 2 months and one of 6 months, both within my field of studies.\n\n3. Which channel would you recommend for finding a job? - Linkedin/JobTeaser and such; sending emails to recruiters; going in person with a CV in my hand; or going to job fairs??? Or something else?\n\n4. What is the general opinion on the school? Is it worth it to go there? (CBS)\n\nI am asking this because I have an EU passport in the process of making, but if the school doesn't recognize that, then I would be required to pay the tuition fee, hence, the part - time studies.\n\n5. If there is any, what opinion do Danes hold for Balkan people? Be honest, I've travelled a lot, I am used to it.\n\n6. Finally, I've visited all Nordic countries, and I do have an A2 in Norwegian, so just being curious, is it transferable into Danish?\n\nThank you in advance to anyone that replies, I value the opinion and information of the public more than school websites. I appreciate any additional info, and I just want to say - Copenhagen in the summer is the best place on Earth!!!\n\nTak for hjælpen!"
+    "body" : "(I couldn't post it in general because I don't have enough Karma)  \nHej,\n\nI recently had the opportunity to visit Copenhagen and I was amazed by the cleanliness, attitude, and overall standard of life, which gave me idea to try to move there, as I am currently in a gap year. I speak English perfectly, as well as a couple of other languages, however no Danish.\n\nI am looking into applying for a Master's degree in Copenhagen (most likely CBS). Even though I finished the Bachelor's in Slovenia (EU), I am from Macedonia (Balkan), and therefore not an EU citizen. So, considering the high standard of life, I am looking to enroll into a part - time program, where I would be working a minimum of 25h/week.\n\n1. Is part - time work considered a student job? What salary should I expect/aim for?\n2. How difficult is it to find work in the field of studies? Does it matter to the employer that I am not from the EU?\n\nI do have previous working experiences, 2 internships, one of 2 months and one of 6 months, both within my field of studies.\n\n3. Which channel would you recommend for finding a job? - Linkedin/JobTeaser and such; sending emails to recruiters; going in person with a CV in my hand; or going to job fairs??? Or something else?\n\n4. What is the general opinion on the school? Is it worth it to go there? (CBS)\n\nI am asking this because I have an EU passport in the process of making, but if the school doesn't recognize that, then I would be required to pay the tuition fee, hence, the part - time studies.\n\n5. If there is any, what opinion do Danes hold for Balkan people? Be honest, I've travelled a lot, I am used to it.\n\n6. Finally, I've visited all Nordic countries, and I do have an A2 in Norwegian, so just being curious, is it transferable into Danish?\n\nThank you in advance to anyone that replies, I value the opinion and information of the public more than school websites. I appreciate any additional info, and I just want to say - Copenhagen in the summer is the best place on Earth!!!\n\nTak for hjælpen!",
+    "username" : "Longjumping-List9672",
+    "timestamp" : "2024-12-14 00:14:38"
   }, {
-    "Username" : "Aromatic_Mammoth2116",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 01:22:11",
-    "Body" : "Hi guys! I read a lot of negative stuff about New Year's Eve. Can you tell me if there is anything fun to do on New Year's Eve in Copenhagen? Are there any shops open (to casually eat out / get groceries)? Thanks in advance!"
+    "body" : "Hi guys! I read a lot of negative stuff about New Year's Eve. Can you tell me if there is anything fun to do on New Year's Eve in Copenhagen? Are there any shops open (to casually eat out / get groceries)? Thanks in advance!",
+    "username" : "Aromatic_Mammoth2116",
+    "timestamp" : "2024-12-16 01:22:11"
   }, {
-    "Username" : "NoLocal7138",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 07:00:11",
-    "Body" : "please help. I just signed a lease to rent a room in a flat from January 2025. one week later My future landlord sent me a termination before the Start of the lease (this coming January). Is he allowed to do something like that ?"
+    "body" : "please help. I just signed a lease to rent a room in a flat from January 2025. one week later My future landlord sent me a termination before the Start of the lease (this coming January). Is he allowed to do something like that ?",
+    "username" : "NoLocal7138",
+    "timestamp" : "2024-12-20 07:00:11"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 15:44:52",
-    "Body" : "Hey guys! I’m from Sydney, flew into Copenhagen yesterday. I’m fancying a drink or two tonight, any recommendations for a guy in his late 20’s that are fun and social? I’m staying around Vesterbro but don’t mind traveling. Thanks in advance!!!"
+    "body" : "Hey guys! I’m from Sydney, flew into Copenhagen yesterday. I’m fancying a drink or two tonight, any recommendations for a guy in his late 20’s that are fun and social? I’m staying around Vesterbro but don’t mind traveling. Thanks in advance!!!",
+    "username" : "None",
+    "timestamp" : "2024-12-20 15:44:52"
   }, {
-    "Username" : "Laitpie",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 18:32:24",
-    "Body" : "Hi, I am currently in Copenhagen and will leave soon - I am looking for Andreas odbjerg's homage but it was sold out in Sound (and apparently all their stores based on cashier's comment). Any ideas for where I can try my odds? Tak !"
+    "body" : "Hi, I am currently in Copenhagen and will leave soon - I am looking for Andreas odbjerg's homage but it was sold out in Sound (and apparently all their stores based on cashier's comment). Any ideas for where I can try my odds? Tak !",
+    "username" : "Laitpie",
+    "timestamp" : "2024-12-20 18:32:24"
   }, {
-    "Username" : "Former-Brick8927",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-08 10:05:34",
-    "Body" : "Hey, if anyone needs a code for SWAPFIETS to receive 100dkk discount on the bicycle membership text me privately, I’ll send my code so I’ll receive the same discount :)"
+    "body" : "Hey, if anyone needs a code for SWAPFIETS to receive 100dkk discount on the bicycle membership text me privately, I’ll send my code so I’ll receive the same discount :)",
+    "username" : "Former-Brick8927",
+    "timestamp" : "2024-12-08 10:05:34"
   }, {
-    "Username" : "bulgakovML",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-13 18:01:17",
-    "Body" : "Which one is better(financially and QOL) between Utrecht with 3250€ salary or Copenhagen with 3100€ salary(salaries are for a month after taxes/NETTO)?"
+    "body" : "Which one is better(financially and QOL) between Utrecht with 3250€ salary or Copenhagen with 3100€ salary(salaries are for a month after taxes/NETTO)?",
+    "username" : "bulgakovML",
+    "timestamp" : "2024-12-13 18:01:17"
   }, {
-    "Username" : "axolotlroadkill",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-01 19:15:02",
-    "Body" : "Some smaller bars yes, but in general the city feels very, very quiet and empty on the 24th."
+    "body" : "Some smaller bars yes, but in general the city feels very, very quiet and empty on the 24th.",
+    "username" : "axolotlroadkill",
+    "timestamp" : "2024-12-01 19:15:02"
   }, {
-    "Username" : "TheSportsPanda",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-04 10:36:59",
-    "Body" : "LA Bar is always open. I've gone out on the 24th many years. There are options for sure."
+    "body" : "LA Bar is always open. I've gone out on the 24th many years. There are options for sure.",
+    "username" : "TheSportsPanda",
+    "timestamp" : "2024-12-04 10:36:59"
   }, {
-    "Username" : "mtdk28",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-01 14:24:36",
-    "Body" : "Yes, it opened yesterday."
+    "body" : "Yes, it opened yesterday.",
+    "username" : "mtdk28",
+    "timestamp" : "2024-12-01 14:24:36"
   }, {
-    "Username" : "SimonGray",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-04 09:51:36",
-    "Body" : ">Outside of the typical tourist attractions, are there particular neighborhoods or restaurants anyone could recommend where a baby this age will be welcome, or rather places we should definitely avoid?\n\nAnywhere that isn't fine dining should be fine to bring a baby. Many bigger places will have chairs available for babies too.\n\nI don't see how the neighbourhood matters for an 8-month old.\n\n> Additionally, if you know of a good way to borrow outdoor napping gear, I'm all ears!\n\nIf you really need it you should buy it ahead of time in the US and resell it back home too. We don't have napping-specific gear and the gear we do have is not something you can rent AFAIK.\n\nFor keeping babies warm we use either a sleeping bag-like implement that attaches to the pram and/or a \"[flyverdragt](https://livingthedanishgene.com/2020/12/04/danish-outdoor-clothing-for-children/)\" which is a warm, full-body jacket. Basically all small kids wear these when the temperature goes below 10 celsius, it's not just for babies and not just for sleeping.\n\nThey should also wear an \"elefanthue\" which is a beanie that covers all parts of the head except for the face."
+    "body" : ">Outside of the typical tourist attractions, are there particular neighborhoods or restaurants anyone could recommend where a baby this age will be welcome, or rather places we should definitely avoid?\n\nAnywhere that isn't fine dining should be fine to bring a baby. Many bigger places will have chairs available for babies too.\n\nI don't see how the neighbourhood matters for an 8-month old.\n\n> Additionally, if you know of a good way to borrow outdoor napping gear, I'm all ears!\n\nIf you really need it you should buy it ahead of time in the US and resell it back home too. We don't have napping-specific gear and the gear we do have is not something you can rent AFAIK.\n\nFor keeping babies warm we use either a sleeping bag-like implement that attaches to the pram and/or a \"[flyverdragt](https://livingthedanishgene.com/2020/12/04/danish-outdoor-clothing-for-children/)\" which is a warm, full-body jacket. Basically all small kids wear these when the temperature goes below 10 celsius, it's not just for babies and not just for sleeping.\n\nThey should also wear an \"elefanthue\" which is a beanie that covers all parts of the head except for the face.",
+    "username" : "SimonGray",
+    "timestamp" : "2024-12-04 09:51:36"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-03 09:57:03",
-    "Body" : "Honestly at this point I'd probably prefer to use the DSB app and their Rejsekort functionality. It's also cheaper, matching Rejsekort prices.\n\nBut I don't know why on earth we have 3 different apps to buy tickets."
+    "body" : "Honestly at this point I'd probably prefer to use the DSB app and their Rejsekort functionality. It's also cheaper, matching Rejsekort prices.\n\nBut I don't know why on earth we have 3 different apps to buy tickets.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-03 09:57:03"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-03 10:01:36",
-    "Body" : "[There are a ton of places](https://www.postnord.dk/varktojer/find-os/#13.29/55.68157/12.58477) where you can drop off your packages (click \"Posthus\", the other places are places where you can buy stamps etc). Traditional, stand-alone post offices have not existed here for years."
+    "body" : "[There are a ton of places](https://www.postnord.dk/varktojer/find-os/#13.29/55.68157/12.58477) where you can drop off your packages (click \"Posthus\", the other places are places where you can buy stamps etc). Traditional, stand-alone post offices have not existed here for years.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-03 10:01:36"
   }, {
-    "Username" : "Spondophoroi",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-03 13:44:13",
-    "Body" : "Many unskilled places won't hire you until you have a CPR number, and you can't get one of those until you have an address in Denmark"
+    "body" : "Many unskilled places won't hire you until you have a CPR number, and you can't get one of those until you have an address in Denmark",
+    "username" : "Spondophoroi",
+    "timestamp" : "2024-12-03 13:44:13"
   }, {
-    "Username" : "Puzzleheaded_Grab572",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-03 21:50:45",
-    "Body" : "Office jobs : LinkedIn / Student jobs or Hospitality: Facebook groups"
+    "body" : "Office jobs : LinkedIn / Student jobs or Hospitality: Facebook groups",
+    "username" : "Puzzleheaded_Grab572",
+    "timestamp" : "2024-12-03 21:50:45"
   }, {
-    "Username" : "SimonGray",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-04 11:56:19",
-    "Body" : "Altid Energi is pretty nice. They don't overcharge you with random fees, it's just the regular 18 DKK/month + the network fees and taxes that everyone pays. The monthly bill is simple to understand. We switched earlier this year from Andel Energi.\n\nI don't really need any UI other than the hourly prices, though (which they of course provide)."
+    "body" : "Altid Energi is pretty nice. They don't overcharge you with random fees, it's just the regular 18 DKK/month + the network fees and taxes that everyone pays. The monthly bill is simple to understand. We switched earlier this year from Andel Energi.\n\nI don't really need any UI other than the hourly prices, though (which they of course provide).",
+    "username" : "SimonGray",
+    "timestamp" : "2024-12-04 11:56:19"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-04 14:48:29",
-    "Body" : "I had a similar issue with an energy company before, they would not send bills, they would take ages to respond and be unclear in their responses. I think they closed down since. What I am doing these days is I check [elpris.dk](https://elpris.dk/) for candidates and now check what people on TrustPilot write about the respective company.\n\nI am currently customer at EnergiDrift and their customer service is significantly better (and good ratings on TrustPilot), however they've been [criticized by consumer associations](https://nyheder.tv2.dk/business/2024-10-21-forbrugerraad-dumper-hvert-tredje-elselskab) (Velkommen is on the list as well), so not sure if I would recommend them."
+    "body" : "I had a similar issue with an energy company before, they would not send bills, they would take ages to respond and be unclear in their responses. I think they closed down since. What I am doing these days is I check [elpris.dk](https://elpris.dk/) for candidates and now check what people on TrustPilot write about the respective company.\n\nI am currently customer at EnergiDrift and their customer service is significantly better (and good ratings on TrustPilot), however they've been [criticized by consumer associations](https://nyheder.tv2.dk/business/2024-10-21-forbrugerraad-dumper-hvert-tredje-elselskab) (Velkommen is on the list as well), so not sure if I would recommend them.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-04 14:48:29"
   }, {
-    "Username" : "SimonGray",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-05 08:56:25",
-    "Body" : "No, sorry, you're shit out of luck. Next time you get a bike, note down the frame number (it's on the frame).\n\nYou need the frame number to report your bike as stolen to the police which is usually the first step before you can be reimbursed by your insurance company."
+    "body" : "No, sorry, you're shit out of luck. Next time you get a bike, note down the frame number (it's on the frame).\n\nYou need the frame number to report your bike as stolen to the police which is usually the first step before you can be reimbursed by your insurance company.",
+    "username" : "SimonGray",
+    "timestamp" : "2024-12-05 08:56:25"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-05 23:21:58",
-    "Body" : "So we don't usually use faxes, we get the prescriptions filed into a general system by the doctor online and then the pharmacy can check online which removes also any potential for tampering.\n\nI could imagine that the pharmacy wants some proof that the prescription is valid and thus asks the doctor to send the prescription via fax? Idk, maybe try a different pharmacy and see if they have the same policy.\n\nBut Ibuprofen can just be bought over the counter at pretty much any supermarket."
+    "body" : "So we don't usually use faxes, we get the prescriptions filed into a general system by the doctor online and then the pharmacy can check online which removes also any potential for tampering.\n\nI could imagine that the pharmacy wants some proof that the prescription is valid and thus asks the doctor to send the prescription via fax? Idk, maybe try a different pharmacy and see if they have the same policy.\n\nBut Ibuprofen can just be bought over the counter at pretty much any supermarket.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-05 23:21:58"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-06 11:32:03",
-    "Body" : "It's honestly not the best time to visit the city, it's extremely different in summer time. Anyway this question comes up a lot, take a look at WikiVoyage, linked in the description of this thread.\n\nDepending on how long you're staying I would skip Malmö and make sure to see more of Copenhagen, not just Indre By."
+    "body" : "It's honestly not the best time to visit the city, it's extremely different in summer time. Anyway this question comes up a lot, take a look at WikiVoyage, linked in the description of this thread.\n\nDepending on how long you're staying I would skip Malmö and make sure to see more of Copenhagen, not just Indre By.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-06 11:32:03"
   }, {
-    "Username" : "sixstringedmenace",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-07 01:19:29",
-    "Body" : "Reffen isn't open until March. There's another food market near Papirøen, but I'm not sure if it's open during this season."
+    "body" : "Reffen isn't open until March. There's another food market near Papirøen, but I'm not sure if it's open during this season.",
+    "username" : "sixstringedmenace",
+    "timestamp" : "2024-12-07 01:19:29"
   }, {
-    "Username" : "sixstringedmenace",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-07 14:05:55",
-    "Body" : "What about the hot dog stand in the airport? Stef Houlberg. Not sure what their times are."
+    "body" : "What about the hot dog stand in the airport? Stef Houlberg. Not sure what their times are.",
+    "username" : "sixstringedmenace",
+    "timestamp" : "2024-12-07 14:05:55"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-12 11:02:13",
-    "Body" : "Isn't the city hall providing witnesses if you don't have any yourself?"
+    "body" : "Isn't the city hall providing witnesses if you don't have any yourself?",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-12 11:02:13"
   }, {
-    "Username" : "sixstringedmenace",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 22:30:23",
-    "Body" : "1500kr down, plus expenses, and an hourly rate. When do you need me?"
+    "body" : "1500kr down, plus expenses, and an hourly rate. When do you need me?",
+    "username" : "sixstringedmenace",
+    "timestamp" : "2024-12-11 22:30:23"
   }, {
-    "Username" : "Virtual_Agency_1342",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-12 10:56:39",
-    "Body" : "Is that a potential side gig ?  I am available as well for any wedding :)"
+    "body" : "Is that a potential side gig ?  I am available as well for any wedding :)",
+    "username" : "Virtual_Agency_1342",
+    "timestamp" : "2024-12-12 10:56:39"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-12 10:45:36",
-    "Body" : "I think most banks have advisors which can speak English just fine. I was looking at loans and Danske Bank, Nykredit, Arbejdernes Landsbank was all fine, but it often depends on the advisor (which in my experience has more impact on the loan than the bank itself).\n\nBut the support of any of those banks were better than what I have experienced at Lunar which was mostly slow, unhelpful and trying to make up for it in sheer amount of Emoji."
+    "body" : "I think most banks have advisors which can speak English just fine. I was looking at loans and Danske Bank, Nykredit, Arbejdernes Landsbank was all fine, but it often depends on the advisor (which in my experience has more impact on the loan than the bank itself).\n\nBut the support of any of those banks were better than what I have experienced at Lunar which was mostly slow, unhelpful and trying to make up for it in sheer amount of Emoji.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-12 10:45:36"
   }, {
-    "Username" : "SimonGray",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-13 10:19:17",
-    "Body" : "Maybe it's a better idea to ask on a travel subreddit? The people living in a city are pretty unlikely to buy guide books about it."
+    "body" : "Maybe it's a better idea to ask on a travel subreddit? The people living in a city are pretty unlikely to buy guide books about it.",
+    "username" : "SimonGray",
+    "timestamp" : "2024-12-13 10:19:17"
   }, {
-    "Username" : "Symbiote",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-15 13:27:42",
-    "Body" : "Personally I would go to a local bookshop and look through what they have. Guidebooks have more or fewer pictures, colour or not, suggested itineraries or just listings.\n\nI have a mixture of Lonely Planet, Rough Guides, Bradt and others."
+    "body" : "Personally I would go to a local bookshop and look through what they have. Guidebooks have more or fewer pictures, colour or not, suggested itineraries or just listings.\n\nI have a mixture of Lonely Planet, Rough Guides, Bradt and others.",
+    "username" : "Symbiote",
+    "timestamp" : "2024-12-15 13:27:42"
   }, {
-    "Username" : "Snaebel",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-14 09:12:14",
-    "Body" : "It is a real tree"
+    "body" : "It is a real tree",
+    "username" : "Snaebel",
+    "timestamp" : "2024-12-14 09:12:14"
   }, {
-    "Username" : "TheSportsPanda",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 11:00:15",
-    "Body" : "Try r/NewToDenmark. \n\nBut I think it's important to read through [https://nyidanmark.dk/da/](https://nyidanmark.dk/da/)\n\nWork Visa process will be a lot easier, if you have a professional background that Denmark desires."
+    "body" : "Try r/NewToDenmark. \n\nBut I think it's important to read through [https://nyidanmark.dk/da/](https://nyidanmark.dk/da/)\n\nWork Visa process will be a lot easier, if you have a professional background that Denmark desires.",
+    "username" : "TheSportsPanda",
+    "timestamp" : "2024-12-17 11:00:15"
   }, {
-    "Username" : "sixstringedmenace",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 00:49:15",
-    "Body" : "Imerco, bilka, and Proshop have them after a quick search."
+    "body" : "Imerco, bilka, and Proshop have them after a quick search.",
+    "username" : "sixstringedmenace",
+    "timestamp" : "2024-12-18 00:49:15"
   }, {
-    "Username" : "FullPoet",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 20:48:51",
-    "Body" : "A fair few of my friends are working in the tv industry and a lot have become freelancers (or were before the pandemic).\n\nIts not looking good they say, a lot are jobless. A lot of things moving to Poland.\n\nAll(or most)  of the hiring is done via personal networking. Dont know how a foreigner or non danish speaker would survive free lancing.\n\nWould suggest moving here if you find a job first otherwise not."
+    "body" : "A fair few of my friends are working in the tv industry and a lot have become freelancers (or were before the pandemic).\n\nIts not looking good they say, a lot are jobless. A lot of things moving to Poland.\n\nAll(or most)  of the hiring is done via personal networking. Dont know how a foreigner or non danish speaker would survive free lancing.\n\nWould suggest moving here if you find a job first otherwise not.",
+    "username" : "FullPoet",
+    "timestamp" : "2024-12-20 20:48:51"
   }, {
-    "Username" : "XenonXcraft",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 09:23:01",
-    "Body" : "I don’t think you need to be concerned, but for a more knowledgable answer try posting in r/selvgjortvelgjort \n\nAsbestos weren’t in use here before 1920 afaik. But there’s of course a possibility it has been added later.\n\nRegardless, you should cover up the holes with with filler and paint, which would also serve to eliminate any immediate risk."
+    "body" : "I don’t think you need to be concerned, but for a more knowledgable answer try posting in r/selvgjortvelgjort \n\nAsbestos weren’t in use here before 1920 afaik. But there’s of course a possibility it has been added later.\n\nRegardless, you should cover up the holes with with filler and paint, which would also serve to eliminate any immediate risk.",
+    "username" : "XenonXcraft",
+    "timestamp" : "2024-12-20 09:23:01"
   }, {
-    "Username" : "XenonXcraft",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 09:07:48",
-    "Body" : "I don’t know, but these shops are probably your best bet:\n\n[https://mephistoshop.dk](https://mephistoshop.dk)\n\n[https://www.sexbeatrecords.dk](https://www.sexbeatrecords.dk)"
+    "body" : "I don’t know, but these shops are probably your best bet:\n\n[https://mephistoshop.dk](https://mephistoshop.dk)\n\n[https://www.sexbeatrecords.dk](https://www.sexbeatrecords.dk)",
+    "username" : "XenonXcraft",
+    "timestamp" : "2024-12-20 09:07:48"
   }, {
-    "Username" : "sixstringedmenace",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 15:14:06",
-    "Body" : "Extremely Rotten maybe."
+    "body" : "Extremely Rotten maybe.",
+    "username" : "sixstringedmenace",
+    "timestamp" : "2024-12-20 15:14:06"
   }, {
-    "Username" : "SimonGray",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-01 11:33:06",
-    "Body" : "Use the search function. Your question gets asked all the time.\n\nIn general, the best area is where you can find something within your budget. And central but quiet is a bit of an oxymoron, but maybe Frederiksberg fits the bill."
+    "body" : "Use the search function. Your question gets asked all the time.\n\nIn general, the best area is where you can find something within your budget. And central but quiet is a bit of an oxymoron, but maybe Frederiksberg fits the bill.",
+    "username" : "SimonGray",
+    "timestamp" : "2024-12-01 11:33:06"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-02 12:09:28",
-    "Body" : "Quiet and central is probably Østerbro (mostly families, close to Nordhavn for water, Fælledparken is in Østerbro).\n\nNow can you find an apartment there? For 10k probably not, 14k possibly if you get lucky."
+    "body" : "Quiet and central is probably Østerbro (mostly families, close to Nordhavn for water, Fælledparken is in Østerbro).\n\nNow can you find an apartment there? For 10k probably not, 14k possibly if you get lucky.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-02 12:09:28"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-09 16:03:23",
-    "Body" : "> is it legal to buy weed in Denmark\n\nNo. And even if it were (like cigarettes), it would still not be ok to smoke indoors."
+    "body" : "> is it legal to buy weed in Denmark\n\nNo. And even if it were (like cigarettes), it would still not be ok to smoke indoors.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-09 16:03:23"
   }, {
-    "Username" : "XenonXcraft",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-12 09:33:30",
-    "Body" : "While regular weed is illegal, CBD is legal and sold in several shops in town. Fx this one in the vente: [https://generalenshampa.com](https://generalenshampa.com)"
+    "body" : "While regular weed is illegal, CBD is legal and sold in several shops in town. Fx this one in the vente: [https://generalenshampa.com](https://generalenshampa.com)",
+    "username" : "XenonXcraft",
+    "timestamp" : "2024-12-12 09:33:30"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 16:26:07",
-    "Body" : "I think it would be easier to answer if you said where you plan to go. A lot of museums even outside of Copenhagen can be visited via public transport pretty decently (Louisiana is ok, Helsingør is great, Roskilde is easy, Hillerød is great, Arken is passable).\n\nAnyway, public transportation isn't that difficult. You can get the [City Pass large](https://www.publictransport.dk/tickets/citypass) which covers the entirety of the north and don't think about it or use the DSB app to pay per ride (and unlike the German system of zones you don't need a degree in law to understand how many zones you need because the app will do all the pointless bookkeeping for you and it works in the entire mainland Denmark). Also, trains usually run relatively late and you're less likely to get stuck at night (looking at you, Munich!).\n\nHonestly, I would just take public transport because I wouldn't wanna deal with potential car sharing issues and differences between traffic customs in Germany vs Denmark, but admittedly that with 4 people that might be overall more expensive because public transport does not offer any group tickets."
+    "body" : "I think it would be easier to answer if you said where you plan to go. A lot of museums even outside of Copenhagen can be visited via public transport pretty decently (Louisiana is ok, Helsingør is great, Roskilde is easy, Hillerød is great, Arken is passable).\n\nAnyway, public transportation isn't that difficult. You can get the [City Pass large](https://www.publictransport.dk/tickets/citypass) which covers the entirety of the north and don't think about it or use the DSB app to pay per ride (and unlike the German system of zones you don't need a degree in law to understand how many zones you need because the app will do all the pointless bookkeeping for you and it works in the entire mainland Denmark). Also, trains usually run relatively late and you're less likely to get stuck at night (looking at you, Munich!).\n\nHonestly, I would just take public transport because I wouldn't wanna deal with potential car sharing issues and differences between traffic customs in Germany vs Denmark, but admittedly that with 4 people that might be overall more expensive because public transport does not offer any group tickets.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-11 16:26:07"
   }, {
-    "Username" : "Symbiote",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 22:08:13",
-    "Body" : "Google Maps should tell you how long public transport will take.  https://www.journeyplanner.dk if you want something official without downloading an app.\n\nhttps://www.greenmobility.com/ and https://www.hyre.dk/ have cars in the city for hire with an app.  https://gomore.dk/ is for hiring cars from private people.  In all cases, check you can verify you licence etc as a foreigner.\n\nSome of the big rental companies (Sixt? Hertz?) have a central location near Vesterport station, but it's probably too much hassle for a day trip."
+    "body" : "Google Maps should tell you how long public transport will take.  https://www.journeyplanner.dk if you want something official without downloading an app.\n\nhttps://www.greenmobility.com/ and https://www.hyre.dk/ have cars in the city for hire with an app.  https://gomore.dk/ is for hiring cars from private people.  In all cases, check you can verify you licence etc as a foreigner.\n\nSome of the big rental companies (Sixt? Hertz?) have a central location near Vesterport station, but it's probably too much hassle for a day trip.",
+    "username" : "Symbiote",
+    "timestamp" : "2024-12-11 22:08:13"
   }, {
-    "Username" : "Folketinget",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-14 18:49:18",
-    "Body" : ">So, considering the high standard of life, I am looking to enroll into a part - time program, where I would be working a minimum of 25h/week.\n\nBe aware that a student visa only allows you to work 90 hours per month during the school year.\n\n>Is part - time work considered a student job?\n\nAccording to whom? If you're a student and working part time most people would consider that a student job.\n\n>What salary should I expect/aim for?\n\nProbably around 120-130 kr/hour for non-skilled work (restaurants, bars etc) or 160-170 for office jobs relevant to your degree. It likely won't be enough to cover tuition and living costs.\n\n>How difficult is it to find work in the field of studies? Does it matter to the employer that I am not from the EU?\n\nPretty easy for a typical Danish CBS student but in my experience Eastern European students are more likely to end up doing service jobs or Wolt deliveries. As long as you're allowed to work I doubt your EU status will matter.\n\n>Which channel would you recommend for finding a job? - Linkedin/JobTeaser and such; sending emails to recruiters; going in person with a CV in my hand; or going to job fairs??? Or something else?\n\nLinkedIn, CBS job fairs, CBS online job board, JobIndex etc for professional jobs. I don't really know about service work – probably Instagram and talking to people.\n\n>What is the general opinion on the school? Is it worth it to go there? (CBS)\n\nIt's pretty well regarded but some degrees seem a bit easy, especially when people can work almost full-time and complete their degrees at the same time.\n\n>If there is any, what opinion do Danes hold for Balkan people? Be honest, I've travelled a lot, I am used to it.\n\nI don't think people have strong opinions about Balkan people. We took a lot of refugees in the 90s and they seem to have turned out fine.\n\nMost Eastern European students I've met in Copenhagen have been studying at non-university programs like \"business academies\", working service jobs and smoking lots of weed. So that's my stereotype :)\n\n>Finally, I've visited all Nordic countries, and I do have an A2 in Norwegian, so just being curious, is it transferable into Danish?\n\nYeah it's pretty much the same. Only pronunciation is really different."
+    "body" : ">So, considering the high standard of life, I am looking to enroll into a part - time program, where I would be working a minimum of 25h/week.\n\nBe aware that a student visa only allows you to work 90 hours per month during the school year.\n\n>Is part - time work considered a student job?\n\nAccording to whom? If you're a student and working part time most people would consider that a student job.\n\n>What salary should I expect/aim for?\n\nProbably around 120-130 kr/hour for non-skilled work (restaurants, bars etc) or 160-170 for office jobs relevant to your degree. It likely won't be enough to cover tuition and living costs.\n\n>How difficult is it to find work in the field of studies? Does it matter to the employer that I am not from the EU?\n\nPretty easy for a typical Danish CBS student but in my experience Eastern European students are more likely to end up doing service jobs or Wolt deliveries. As long as you're allowed to work I doubt your EU status will matter.\n\n>Which channel would you recommend for finding a job? - Linkedin/JobTeaser and such; sending emails to recruiters; going in person with a CV in my hand; or going to job fairs??? Or something else?\n\nLinkedIn, CBS job fairs, CBS online job board, JobIndex etc for professional jobs. I don't really know about service work – probably Instagram and talking to people.\n\n>What is the general opinion on the school? Is it worth it to go there? (CBS)\n\nIt's pretty well regarded but some degrees seem a bit easy, especially when people can work almost full-time and complete their degrees at the same time.\n\n>If there is any, what opinion do Danes hold for Balkan people? Be honest, I've travelled a lot, I am used to it.\n\nI don't think people have strong opinions about Balkan people. We took a lot of refugees in the 90s and they seem to have turned out fine.\n\nMost Eastern European students I've met in Copenhagen have been studying at non-university programs like \"business academies\", working service jobs and smoking lots of weed. So that's my stereotype :)\n\n>Finally, I've visited all Nordic countries, and I do have an A2 in Norwegian, so just being curious, is it transferable into Danish?\n\nYeah it's pretty much the same. Only pronunciation is really different.",
+    "username" : "Folketinget",
+    "timestamp" : "2024-12-14 18:49:18"
   }, {
-    "Username" : "TheSportsPanda",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 10:57:27",
-    "Body" : "Groceries close early. Like around 3PM or something. I am not so sure if places will be open, because alcohol + fireworks = disaster."
+    "body" : "Groceries close early. Like around 3PM or something. I am not so sure if places will be open, because alcohol + fireworks = disaster.",
+    "username" : "TheSportsPanda",
+    "timestamp" : "2024-12-17 10:57:27"
   }, {
-    "Username" : "FullPoet",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 20:47:09",
-    "Body" : "llo.dk"
+    "body" : "llo.dk",
+    "username" : "FullPoet",
+    "timestamp" : "2024-12-20 20:47:09"
   }, {
-    "Username" : "Jandors_Saddlebags",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 18:09:11",
-    "Body" : "Utrecht. Beautiful city, more affordable, higher salary, easy to get to other NL cities."
+    "body" : "Utrecht. Beautiful city, more affordable, higher salary, easy to get to other NL cities.",
+    "username" : "Jandors_Saddlebags",
+    "timestamp" : "2024-12-18 18:09:11"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-02 12:07:29",
-    "Body" : "Excellent, the amount of vampires recently have been quite bothersome."
+    "body" : "Excellent, the amount of vampires recently have been quite bothersome.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-02 12:07:29"
   }, {
-    "Username" : "SimonGray",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-04 09:41:59",
-    "Body" : ">But I don't know why on earth we have 3 different apps to buy tickets.\n\nIt complements the 3 different apps to check your digital post!"
+    "body" : ">But I don't know why on earth we have 3 different apps to buy tickets.\n\nIt complements the 3 different apps to check your digital post!",
+    "username" : "SimonGray",
+    "timestamp" : "2024-12-04 09:41:59"
   }, {
-    "Username" : "Piccolaa",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-07 07:54:09",
-    "Body" : "Thank you! ☺️"
+    "body" : "Thank you! ☺️",
+    "username" : "Piccolaa",
+    "timestamp" : "2024-12-07 07:54:09"
   }, {
-    "Username" : "filofil",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-06 15:04:32",
-    "Body" : "Thanks will look for guides as well. Not the best time as in meaning the weather will be bad? Yeah, I absolutely didn't think about that while I was purchasing the ticket lmao the prices of the hotel and plane were very affordable. But I am also fairly living in a city where it's usually between 0 to 10 degrees in winter (currently 7), I think I'll manage it fine. \n\nWhich places will you recommend in Copenhagen?  I thought about going to Malmo in the morning and come back at the evening, so was not planning to stay there. I'll skip it for sure if it's meaningless."
+    "body" : "Thanks will look for guides as well. Not the best time as in meaning the weather will be bad? Yeah, I absolutely didn't think about that while I was purchasing the ticket lmao the prices of the hotel and plane were very affordable. But I am also fairly living in a city where it's usually between 0 to 10 degrees in winter (currently 7), I think I'll manage it fine. \n\nWhich places will you recommend in Copenhagen?  I thought about going to Malmo in the morning and come back at the evening, so was not planning to stay there. I'll skip it for sure if it's meaningless.",
+    "username" : "filofil",
+    "timestamp" : "2024-12-06 15:04:32"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-09 00:16:18",
-    "Body" : "I was thinking the same, but turns out there is a skate rink and some (actually surprisingly many) stalls are open. And there were more people than expected."
+    "body" : "I was thinking the same, but turns out there is a skate rink and some (actually surprisingly many) stalls are open. And there were more people than expected.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-09 00:16:18"
   }, {
-    "Username" : "No_Spell_7846",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 23:14:57",
-    "Body" : "Haha no I’m looking to be a witness myself"
+    "body" : "Haha no I’m looking to be a witness myself",
+    "username" : "No_Spell_7846",
+    "timestamp" : "2024-12-11 23:14:57"
   }, {
-    "Username" : "PineappleUnhappy2870",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 22:34:30",
-    "Body" : "Appreciate you taking the time to respond! Tak!"
+    "body" : "Appreciate you taking the time to respond! Tak!",
+    "username" : "PineappleUnhappy2870",
+    "timestamp" : "2024-12-20 22:34:30"
   }, {
-    "Username" : "cab1120",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 15:11:43",
-    "Body" : "Whether they have them or not, he will still love visiting these! Thank you so much!"
+    "body" : "Whether they have them or not, he will still love visiting these! Thank you so much!",
+    "username" : "cab1120",
+    "timestamp" : "2024-12-20 15:11:43"
   }, {
-    "Username" : "cab1120",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 15:17:45",
-    "Body" : "Added to my list! Thank you :)"
+    "body" : "Added to my list! Thank you :)",
+    "username" : "cab1120",
+    "timestamp" : "2024-12-20 15:17:45"
   }, {
-    "Username" : "Pl4nt-n00b",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-03 11:16:32",
-    "Body" : "Thanks! Are there normally options for furnished places? I reckon these would be upwards of 14K 😅 What are the best resources/websites to look for an apartment?"
+    "body" : "Thanks! Are there normally options for furnished places? I reckon these would be upwards of 14K 😅 What are the best resources/websites to look for an apartment?",
+    "username" : "Pl4nt-n00b",
+    "timestamp" : "2024-12-03 11:16:32"
   }, {
-    "Username" : "cevator",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-09 18:25:01",
-    "Body" : "Thanks"
+    "body" : "Thanks",
+    "username" : "cevator",
+    "timestamp" : "2024-12-09 18:25:01"
   }, {
-    "Username" : "DaysnLines",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-11 18:36:15",
-    "Body" : "Thanks a lot\nThat was very helpful \nI’ll give the app a look and pair it witch my „want to see locations“"
+    "body" : "Thanks a lot\nThat was very helpful \nI’ll give the app a look and pair it witch my „want to see locations“",
+    "username" : "DaysnLines",
+    "timestamp" : "2024-12-11 18:36:15"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-06 17:17:25",
-    "Body" : "> Thanks will look for guides as well. Not the best time as in meaning the weather will be bad?\n\nI mean also that, but my main point is that the whole vibe is different. From the kind of dolce vita enjoying the life in summer, by sitting outside by the harbor and swimming to a place which is only goes from light grey to dark and feels like the zombie apocalypse happened and the city is dead (because everyone is either at home or on vacation in the south).\n\nWhat place I recommend? Uhm, my [Google Maps looks like this](https://imgur.com/a/S4fDYMd), so basically just about anything in Indre By, Vesterbro or Nørrebro is worth checking out. Incidentally that's exactly what I would recommend. The city is quite walkable and overall also quite pretty so walking around at random and exploring is actually a great way to experience Copenhagen.\n\nIt depends what you're interested in. I could tell you my favorite places but if you're not a total hipster they might or might not be of any interest to you."
+    "body" : "> Thanks will look for guides as well. Not the best time as in meaning the weather will be bad?\n\nI mean also that, but my main point is that the whole vibe is different. From the kind of dolce vita enjoying the life in summer, by sitting outside by the harbor and swimming to a place which is only goes from light grey to dark and feels like the zombie apocalypse happened and the city is dead (because everyone is either at home or on vacation in the south).\n\nWhat place I recommend? Uhm, my [Google Maps looks like this](https://imgur.com/a/S4fDYMd), so basically just about anything in Indre By, Vesterbro or Nørrebro is worth checking out. Incidentally that's exactly what I would recommend. The city is quite walkable and overall also quite pretty so walking around at random and exploring is actually a great way to experience Copenhagen.\n\nIt depends what you're interested in. I could tell you my favorite places but if you're not a total hipster they might or might not be of any interest to you.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-06 17:17:25"
   }, {
-    "Username" : "FullPoet",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 22:38:08",
-    "Body" : "Its quite rough right now but a lot seem to expect the economy to turn around.\n\nIts also quite tough for a lot of other professions tbh, so not sure if its unique."
+    "body" : "Its quite rough right now but a lot seem to expect the economy to turn around.\n\nIts also quite tough for a lot of other professions tbh, so not sure if its unique.",
+    "username" : "FullPoet",
+    "timestamp" : "2024-12-20 22:38:08"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-03 12:11:21",
-    "Body" : "There are, but bar for \"student living\" kind of expensive dorms furnished apartments are very rare. But they always come with a kitchen, unlike in Germany and sometimes also with a washing machine and dryer.\n\nThe best resources are the classic apartment websites like Boligportal and the like as well as websites of big corpo landlords like Balder and DEAS as well as project-websites of newly-built areas. They're all not great, because finding apartments is a pain to start with and if you're set on some district but don't have a place to live in the meantime it's rather tough, since you're pressed for time."
+    "body" : "There are, but bar for \"student living\" kind of expensive dorms furnished apartments are very rare. But they always come with a kitchen, unlike in Germany and sometimes also with a washing machine and dryer.\n\nThe best resources are the classic apartment websites like Boligportal and the like as well as websites of big corpo landlords like Balder and DEAS as well as project-websites of newly-built areas. They're all not great, because finding apartments is a pain to start with and if you're set on some district but don't have a place to live in the meantime it's rather tough, since you're pressed for time.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-03 12:11:21"
   }, {
-    "Username" : "filofil",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-07 15:07:05",
-    "Body" : "I’m open to everything and won’t hold myself back from experiencing great recommendations. So, please feel free to suggest anything you think I shouldn’t miss in Copenhagen! :)\n\nMy plan is to wake up early, attend necessary work meetings around 9:30, and then spend the day walking and exploring as much as I can until 20:00-21:00, after which I’ll head back to the hotel to work until bedtime. If I end up too tired to work, I’ll take some time off and spent the whole trip to explore. \n\nI’d love to visit pubs to drink and try some local beer, some street food, burgers, pizzas, breakfast spots and cafes to get a nice coffee while working a bit or relax. Majority of the day will be spent to visit museums, palaces etc."
+    "body" : "I’m open to everything and won’t hold myself back from experiencing great recommendations. So, please feel free to suggest anything you think I shouldn’t miss in Copenhagen! :)\n\nMy plan is to wake up early, attend necessary work meetings around 9:30, and then spend the day walking and exploring as much as I can until 20:00-21:00, after which I’ll head back to the hotel to work until bedtime. If I end up too tired to work, I’ll take some time off and spent the whole trip to explore. \n\nI’d love to visit pubs to drink and try some local beer, some street food, burgers, pizzas, breakfast spots and cafes to get a nice coffee while working a bit or relax. Majority of the day will be spent to visit museums, palaces etc.",
+    "username" : "filofil",
+    "timestamp" : "2024-12-07 15:07:05"
   }, {
-    "Username" : "PineappleUnhappy2870",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 02:36:36",
-    "Body" : "Fair! Is there a film union out there that is more prominent to perhaps look into? (Ie: IATSE in North America)"
+    "body" : "Fair! Is there a film union out there that is more prominent to perhaps look into? (Ie: IATSE in North America)",
+    "username" : "PineappleUnhappy2870",
+    "timestamp" : "2024-12-21 02:36:36"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-09 00:27:55",
-    "Body" : "For beer I'd recommend Taphouse which has by far the biggest selection, if you want it more local you can head to BRUS, Åben and Warpigs where the beers are brewed on-site. There's [tons of really lovely bars](https://www.reddit.com/r/copenhagen/comments/wmftcu/does_anyone_have_recommendations_for_the_best/ijz0q5a/) (however some of them have closed and there's a bunch of new ones).\n\nStreet food at this point of time might be tough, I think only Reffen is (partly) open, Broens Gadekøkken is converted to a skating rink, but maybe some stalls are open.\n\nPizza.. well, the best one is Bæst. I also like Itzi Pitzi and Pico Pizza. There's a number of semi-fancy pizza chains but their pizzas are well, passable.\n\nBurgers I'd say POPL. Lot's of people hype Gasoline but I never got the hype (however they are also on the airport if you have some time after security).\n\nThere's also a ton of cafés. Andersen & Meillard is nice, though I am a bit sad that they don't have pour-over; Coffee Collective is excellent, Darcy's is a local favorite of mine."
+    "body" : "For beer I'd recommend Taphouse which has by far the biggest selection, if you want it more local you can head to BRUS, Åben and Warpigs where the beers are brewed on-site. There's [tons of really lovely bars](https://www.reddit.com/r/copenhagen/comments/wmftcu/does_anyone_have_recommendations_for_the_best/ijz0q5a/) (however some of them have closed and there's a bunch of new ones).\n\nStreet food at this point of time might be tough, I think only Reffen is (partly) open, Broens Gadekøkken is converted to a skating rink, but maybe some stalls are open.\n\nPizza.. well, the best one is Bæst. I also like Itzi Pitzi and Pico Pizza. There's a number of semi-fancy pizza chains but their pizzas are well, passable.\n\nBurgers I'd say POPL. Lot's of people hype Gasoline but I never got the hype (however they are also on the airport if you have some time after security).\n\nThere's also a ton of cafés. Andersen & Meillard is nice, though I am a bit sad that they don't have pour-over; Coffee Collective is excellent, Darcy's is a local favorite of mine.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-09 00:27:55"
   }, {
-    "Username" : "FullPoet",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 09:30:14",
-    "Body" : "No idea"
+    "body" : "No idea",
+    "username" : "FullPoet",
+    "timestamp" : "2024-12-21 09:30:14"
   }, {
-    "Username" : "filofil",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-10 12:49:08",
-    "Body" : "Thank you so much, all saved up :"
+    "body" : "Thank you so much, all saved up :",
+    "username" : "filofil",
+    "timestamp" : "2024-12-10 12:49:08"
   }, {
-    "Username" : "filofil",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-10 15:05:43",
-    "Body" : "Oh, BTW, would you recommend the Copenhagen Card, I plan on walking mostly though."
+    "body" : "Oh, BTW, would you recommend the Copenhagen Card, I plan on walking mostly though.",
+    "username" : "filofil",
+    "timestamp" : "2024-12-10 15:05:43"
   }, {
-    "Username" : "Leonidas_from_XIV",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-10 16:14:27",
-    "Body" : "Personally I don't, since public transport is fairly cheap and you'd need to see a lot of museums to make it worth it (and I agree, walking is definitely a good option). But you don't have to get it for your whole duration, you can consider if you want to squeeze a day of museums in. For 24h that would be about 5 museums (card is 500 DKK and museums are slightly north of 100 DKK). I don't think I could do that but I also don't like rushing through museums so YMMV."
+    "body" : "Personally I don't, since public transport is fairly cheap and you'd need to see a lot of museums to make it worth it (and I agree, walking is definitely a good option). But you don't have to get it for your whole duration, you can consider if you want to squeeze a day of museums in. For 24h that would be about 5 museums (card is 500 DKK and museums are slightly north of 100 DKK). I don't think I could do that but I also don't like rushing through museums so YMMV.",
+    "username" : "Leonidas_from_XIV",
+    "timestamp" : "2024-12-10 16:14:27"
   } ]
 }

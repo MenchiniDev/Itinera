@@ -1,10 +1,10 @@
 {
-  "Id" : 200102,
-  "Community_name" : "Legends",
-  "Username" : "kendyzhu1",
-  "Post_body" : "Mobile Legends demo on GPD XP",
-  "Timestamp" : "2024-04-15 20:02:00",
-  "Num_comment" : 0,
+  "id" : 200102,
+  "community_name" : "Legends",
+  "username" : "kendyzhu1",
+  "post_body" : "Mobile Legends demo on GPD XP",
+  "timestamp" : "2024-01-10 20:41:31",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

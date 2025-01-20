@@ -1,15 +1,15 @@
 {
-  "Id" : 200462,
-  "City" : "Berlin",
-  "Name" : "Berlin",
-  "Created" : "2024-11-03 22:32:23",
-  "Post" : [ {
-    "User" : "SomeoneSomewhere1984",
-    "Text" : "Permeant New Rules for Israel Palestine Discussions",
-    "Timestamp" : "2024-11-03 23:32:23"
+  "id" : 200462,
+  "city" : "Berlin",
+  "name" : "Berlin",
+  "created" : "2024-11-03 22:32:23",
+  "post" : [ {
+    "text" : "Permeant New Rules for Israel Palestine Discussions",
+    "user" : "SomeoneSomewhere1984",
+    "timestamp" : "2024-11-03 23:32:23"
   }, {
-    "User" : "wet-dreaming",
-    "Text" : "Visiting Berlin? Moving here incl. Apartment questions? Going clubbing? Have a quick question? Ask here, don't create a new thread.",
-    "Timestamp" : "2024-11-19 09:27:08"
+    "text" : "Visiting Berlin? Moving here incl. Apartment questions? Going clubbing? Have a quick question? Ask here, don't create a new thread.",
+    "user" : "wet-dreaming",
+    "timestamp" : "2024-11-19 09:27:08"
   } ]
 }

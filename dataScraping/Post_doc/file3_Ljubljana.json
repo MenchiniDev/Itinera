@@ -1,80 +1,80 @@
 {
-  "Id" : 200098,
-  "Community_name" : "Ljubljana",
-  "Username" : "Mysterious_Prior_150",
-  "Post_body" : "Need job",
-  "Timestamp" : "2024-12-22 09:25:11",
-  "Num_comment" : 14,
+  "id" : 200098,
+  "community_name" : "Ljubljana",
+  "username" : "Mysterious_Prior_150",
+  "post_body" : "Need job",
+  "timestamp" : "2024-12-22 09:25:11",
+  "num_comment" : 14,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "lowkeyhotshot",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:25:11",
-    "Body" : "Incredible post man, you are hired 🫵🏻"
+    "body" : "Incredible post man, you are hired 🫵🏻",
+    "username" : "lowkeyhotshot",
+    "timestamp" : "2024-12-22 09:25:11"
   }, {
-    "Username" : "hackinghippie",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:52:41",
-    "Body" : "Coincidentally, we are severly lacking in english labor hotal workers."
+    "body" : "Coincidentally, we are severly lacking in english labor hotal workers.",
+    "username" : "hackinghippie",
+    "timestamp" : "2024-12-22 12:52:41"
   }, {
-    "Username" : "slavicwhiskers",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 10:03:13",
-    "Body" : "Doctors and engineers."
+    "body" : "Doctors and engineers.",
+    "username" : "slavicwhiskers",
+    "timestamp" : "2024-12-22 10:03:13"
   }, {
-    "Username" : "citizenwithrandomint",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:15:44",
-    "Body" : "Could you teach english?"
+    "body" : "Could you teach english?",
+    "username" : "citizenwithrandomint",
+    "timestamp" : "2024-12-22 13:15:44"
   }, {
-    "Username" : "pol-reddit",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:17:45",
-    "Body" : "hotal?"
+    "body" : "hotal?",
+    "username" : "pol-reddit",
+    "timestamp" : "2024-12-22 13:17:45"
   }, {
-    "Username" : "Vnc_arn",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 11:13:47",
-    "Body" : "# metoo"
+    "body" : "# metoo",
+    "username" : "Vnc_arn",
+    "timestamp" : "2024-12-22 11:13:47"
   }, {
-    "Username" : "TradicionalniAteist",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:27:40",
-    "Body" : "I will double what this guy is offering!"
+    "body" : "I will double what this guy is offering!",
+    "username" : "TradicionalniAteist",
+    "timestamp" : "2024-12-22 09:27:40"
   }, {
-    "Username" : "Mysterious_Prior_150",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:27:40",
-    "Body" : "For which work"
+    "body" : "For which work",
+    "username" : "Mysterious_Prior_150",
+    "timestamp" : "2024-12-22 09:27:40"
   }, {
-    "Username" : "lowkeyhotshot",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:32:55",
-    "Body" : "I will triple it, plus bonus, plus paid vacation 2month / year."
+    "body" : "I will triple it, plus bonus, plus paid vacation 2month / year.",
+    "username" : "lowkeyhotshot",
+    "timestamp" : "2024-12-22 09:32:55"
   }, {
-    "Username" : "lowkeyhotshot",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:32:25",
-    "Body" : "For all of it, all the work, you are hired!"
+    "body" : "For all of it, all the work, you are hired!",
+    "username" : "lowkeyhotshot",
+    "timestamp" : "2024-12-22 09:32:25"
   }, {
-    "Username" : "Mysterious_Prior_150",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:33:35",
-    "Body" : "Come me in a personal chat"
+    "body" : "Come me in a personal chat",
+    "username" : "Mysterious_Prior_150",
+    "timestamp" : "2024-12-22 09:33:35"
   }, {
-    "Username" : "DanimilFX",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:17:14",
-    "Body" : "😂"
+    "body" : "😂",
+    "username" : "DanimilFX",
+    "timestamp" : "2024-12-22 13:17:14"
   }, {
-    "Username" : "Complex_Race9966",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:21:48",
-    "Body" : "I did, but you were never there"
+    "body" : "I did, but you were never there",
+    "username" : "Complex_Race9966",
+    "timestamp" : "2024-12-22 13:21:48"
   }, {
-    "Username" : "citizenwithrandomint",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:32:24",
-    "Body" : "I guess someone already hired him 🤷‍♂️"
+    "body" : "I guess someone already hired him 🤷‍♂️",
+    "username" : "citizenwithrandomint",
+    "timestamp" : "2024-12-22 13:32:24"
   } ]
 }

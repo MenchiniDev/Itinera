@@ -1,25 +1,25 @@
 {
-  "Id" : 200135,
-  "Community_name" : "Valencia",
-  "Username" : "CyberNidal",
-  "Post_body" : "LDR gift",
-  "Timestamp" : "2024-12-22 13:28:07",
-  "Num_comment" : 3,
+  "id" : 200135,
+  "community_name" : "Valencia",
+  "username" : "CyberNidal",
+  "post_body" : "LDR gift",
+  "timestamp" : "2024-12-22 13:28:07",
+  "num_comment" : 3,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "MerakDubhe",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:28:07",
-    "Body" : "Many. What does he like? What did you have in mind?"
+    "body" : "Many. What does he like? What did you have in mind?",
+    "username" : "MerakDubhe",
+    "timestamp" : "2024-12-22 13:28:07"
   }, {
-    "Username" : "SouthAcanthaceae3567",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:29:52",
-    "Body" : "Amazon, ali express, media markt, el corte ingles. It would cover pretty much all categories"
+    "body" : "Amazon, ali express, media markt, el corte ingles. It would cover pretty much all categories",
+    "username" : "SouthAcanthaceae3567",
+    "timestamp" : "2024-12-22 22:29:52"
   }, {
-    "Username" : "BOBWORKS_SQ",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:45:51",
-    "Body" : "Amazon.es you can sign in with your country Amazon credentials, and just add his address."
+    "body" : "Amazon.es you can sign in with your country Amazon credentials, and just add his address.",
+    "username" : "BOBWORKS_SQ",
+    "timestamp" : "2024-12-23 14:45:51"
   } ]
 }

@@ -1,25 +1,25 @@
 {
-  "Id" : 200133,
-  "Community_name" : "Skopje",
-  "Username" : "bigchoppa762",
-  "Post_body" : "Techno clubs Skopje",
-  "Timestamp" : "2024-11-30 01:37:15",
-  "Num_comment" : 3,
+  "id" : 200133,
+  "community_name" : "Skopje",
+  "username" : "bigchoppa762",
+  "post_body" : "Techno clubs Skopje",
+  "timestamp" : "2024-11-30 01:37:15",
+  "num_comment" : 3,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "unrelated89",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-11-30 01:37:15",
-    "Body" : "Epicentar and minus 1. \nClub1212 is sometimes good as well"
+    "body" : "Epicentar and minus 1. \nClub1212 is sometimes good as well",
+    "username" : "unrelated89",
+    "timestamp" : "2024-11-30 01:37:15"
   }, {
-    "Username" : "claw1919",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-15 00:47:57",
-    "Body" : "Wasnt there some drama with club1212 recently,like the bouncer beating random people?"
+    "body" : "Wasnt there some drama with club1212 recently,like the bouncer beating random people?",
+    "username" : "claw1919",
+    "timestamp" : "2024-12-15 00:47:57"
   }, {
-    "Username" : "unrelated89",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-15 01:15:37",
-    "Body" : "No idea tbh"
+    "body" : "No idea tbh",
+    "username" : "unrelated89",
+    "timestamp" : "2024-12-15 01:15:37"
   } ]
 }

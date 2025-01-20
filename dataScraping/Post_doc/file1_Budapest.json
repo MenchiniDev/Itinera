@@ -1,10 +1,10 @@
 {
-  "Id" : 200088,
-  "Community_name" : "Budapest",
-  "Username" : "electro-cortex",
-  "Post_body" : "r/Budapest Borítókép/Logó Verseny | r/Budapest Banner/Logo Contest",
-  "Timestamp" : "2024-04-15 20:01:04",
-  "Num_comment" : 0,
+  "id" : 200088,
+  "community_name" : "Budapest",
+  "username" : "electro-cortex",
+  "post_body" : "r/Budapest Borítókép/Logó Verseny | r/Budapest Banner/Logo Contest",
+  "timestamp" : "2024-01-10 20:40:09",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

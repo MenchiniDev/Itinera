@@ -1,35 +1,35 @@
 {
-  "Id" : 200137,
-  "Community_name" : "Munich",
-  "Username" : "mcqueenvh",
-  "Post_body" : "Best of EGYM Wellpass in Munich?",
-  "Timestamp" : "2024-12-23 13:27:19",
-  "Num_comment" : 5,
+  "id" : 200137,
+  "community_name" : "Munich",
+  "username" : "mcqueenvh",
+  "post_body" : "Best of EGYM Wellpass in Munich?",
+  "timestamp" : "2024-12-23 13:27:19",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "CottonSlayerDIY",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:41:04",
-    "Body" : "Body and Soul offers saunas and pools, they have several locations in the south"
+    "body" : "Body and Soul offers saunas and pools, they have several locations in the south",
+    "username" : "CottonSlayerDIY",
+    "timestamp" : "2024-12-23 13:41:04"
   }, {
-    "Username" : "OkEstablishment8149",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:27:19",
-    "Body" : "IsarSpa, there‘s a pool, sauna and steam bath beside the gym. Go there for a Spa Day!! 🧖‍♀️"
+    "body" : "IsarSpa, there‘s a pool, sauna and steam bath beside the gym. Go there for a Spa Day!! 🧖‍♀️",
+    "username" : "OkEstablishment8149",
+    "timestamp" : "2024-12-23 13:27:19"
   }, {
-    "Username" : "CottonSlayerDIY",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:41:21",
-    "Body" : "Oh and Elements I think"
+    "body" : "Oh and Elements I think",
+    "username" : "CottonSlayerDIY",
+    "timestamp" : "2024-12-23 13:41:21"
   }, {
-    "Username" : "ritornelli",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:20:09",
-    "Body" : "read the comments on google about body and soul Sendling"
+    "body" : "read the comments on google about body and soul Sendling",
+    "username" : "ritornelli",
+    "timestamp" : "2024-12-23 14:20:09"
   }, {
-    "Username" : "Necessary-Low-5226",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:50:14",
-    "Body" : "which ones do you mean in particular?"
+    "body" : "which ones do you mean in particular?",
+    "username" : "Necessary-Low-5226",
+    "timestamp" : "2024-12-23 14:50:14"
   } ]
 }

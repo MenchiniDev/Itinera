@@ -1,35 +1,35 @@
 {
-  "Id" : 200225,
-  "Community_name" : "Helsinki",
-  "Username" : "takepityontheloser",
-  "Post_body" : "Where to buy adobo and culantro in Helsinki ?",
-  "Timestamp" : "2024-12-21 12:45:07",
-  "Num_comment" : 5,
+  "id" : 200225,
+  "community_name" : "Helsinki",
+  "username" : "takepityontheloser",
+  "post_body" : "Where to buy adobo and culantro in Helsinki ?",
+  "timestamp" : "2024-12-21 12:45:07",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "lampimatkivekset",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 12:45:07",
-    "Body" : "Your best bet is Dos Tecolotes in Kallio."
+    "body" : "Your best bet is Dos Tecolotes in Kallio.",
+    "username" : "lampimatkivekset",
+    "timestamp" : "2024-12-21 12:45:07"
   }, {
-    "Username" : "efflund",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 12:55:58",
-    "Body" : "Adobo you can get at many asian shops, just search adobo mauste and check which one is closest to you. It's not hard to make yourself either. Culantro might be harder, but try Dos Tecolotes, they have a small shop in Hakaniemi."
+    "body" : "Adobo you can get at many asian shops, just search adobo mauste and check which one is closest to you. It's not hard to make yourself either. Culantro might be harder, but try Dos Tecolotes, they have a small shop in Hakaniemi.",
+    "username" : "efflund",
+    "timestamp" : "2024-12-21 12:55:58"
   }, {
-    "Username" : "sharkinwolvesclothin",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 14:39:22",
-    "Body" : "You can definitely get Mexican chiles in adobo there, but I think OP is looking for a Filipino product, which is a different dish despite the same name. If so, best bet for that is an Asian grocer, maybe across the street from Tecolotes. I doubt culantro will be available anywhere, but for that Tecolotes is worth a try."
+    "body" : "You can definitely get Mexican chiles in adobo there, but I think OP is looking for a Filipino product, which is a different dish despite the same name. If so, best bet for that is an Asian grocer, maybe across the street from Tecolotes. I doubt culantro will be available anywhere, but for that Tecolotes is worth a try.",
+    "username" : "sharkinwolvesclothin",
+    "timestamp" : "2024-12-21 14:39:22"
   }, {
-    "Username" : "Seeteuf3l",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 12:56:02",
-    "Body" : "Adobo doesn't seem to be too difficult to do at home either"
+    "body" : "Adobo doesn't seem to be too difficult to do at home either",
+    "username" : "Seeteuf3l",
+    "timestamp" : "2024-12-21 12:56:02"
   }, {
-    "Username" : "simblanco",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 13:42:01",
-    "Body" : "Yes I bought adobo there"
+    "body" : "Yes I bought adobo there",
+    "username" : "simblanco",
+    "timestamp" : "2024-12-21 13:42:01"
   } ]
 }

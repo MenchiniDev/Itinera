@@ -1,35 +1,35 @@
 {
-  "Id" : 200081,
-  "Community_name" : "Riga",
-  "Username" : "CornelisGerard",
-  "Post_body" : "Does Riga know how to rock?",
-  "Timestamp" : "2024-12-16 13:58:15",
-  "Num_comment" : 5,
+  "id" : 200081,
+  "community_name" : "Riga",
+  "username" : "CornelisGerard",
+  "post_body" : "Does Riga know how to rock?",
+  "timestamp" : "2024-12-16 13:58:15",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "CornelisGerard",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 13:58:15",
-    "Body" : "OP: I'm a London based musician that likes to explore the local music scene in other countries. This is a short vlog in which I explore the city and check out some live music."
+    "body" : "OP: I'm a London based musician that likes to explore the local music scene in other countries. This is a short vlog in which I explore the city and check out some live music.",
+    "username" : "CornelisGerard",
+    "timestamp" : "2024-12-16 13:58:15"
   }, {
-    "Username" : "Loopbloc",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 09:58:10",
-    "Body" : "Sweet video. Did you try to gig down the corner ? The music scene in Riga is pretty nice."
+    "body" : "Sweet video. Did you try to gig down the corner ? The music scene in Riga is pretty nice.",
+    "username" : "Loopbloc",
+    "timestamp" : "2024-12-17 09:58:10"
   }, {
-    "Username" : "IvanTheHobbit",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 15:08:32",
-    "Body" : "Did you check out DJ Krankenwagen? Despite the name it’s a Riga based Band 😅"
+    "body" : "Did you check out DJ Krankenwagen? Despite the name it’s a Riga based Band 😅",
+    "username" : "IvanTheHobbit",
+    "timestamp" : "2024-12-16 15:08:32"
   }, {
-    "Username" : "CornelisGerard",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 13:47:04",
-    "Body" : "No, but I will be back again in the future because I found a venue that said I could perform there."
+    "body" : "No, but I will be back again in the future because I found a venue that said I could perform there.",
+    "username" : "CornelisGerard",
+    "timestamp" : "2024-12-17 13:47:04"
   }, {
-    "Username" : "CornelisGerard",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 15:09:10",
-    "Body" : "No, but thanks for the recommendation!"
+    "body" : "No, but thanks for the recommendation!",
+    "username" : "CornelisGerard",
+    "timestamp" : "2024-12-16 15:09:10"
   } ]
 }

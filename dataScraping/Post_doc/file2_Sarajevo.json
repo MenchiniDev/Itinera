@@ -1,15 +1,15 @@
 {
-  "Id" : 200037,
-  "Community_name" : "Sarajevo",
-  "Username" : "Due-Screen-7395",
-  "Post_body" : "Jahorina bus",
-  "Timestamp" : "2024-12-23 12:56:22",
-  "Num_comment" : 1,
+  "id" : 200037,
+  "community_name" : "Sarajevo",
+  "username" : "Due-Screen-7395",
+  "post_body" : "Jahorina bus",
+  "timestamp" : "2024-12-23 12:56:22",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "only_4kids",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:56:22",
-    "Body" : "None from Sarajevo. Try Lukavica or East Sarajevo."
+    "body" : "None from Sarajevo. Try Lukavica or East Sarajevo.",
+    "username" : "only_4kids",
+    "timestamp" : "2024-12-23 12:56:22"
   } ]
 }

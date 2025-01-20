@@ -1,35 +1,35 @@
 {
-  "Id" : 200410,
-  "Community_name" : "Dublin",
-  "Username" : "Amazing-Yak-5415",
-  "Post_body" : "Dublin’s Little-Known, Fast-Growing Transit Network",
-  "Timestamp" : "2024-12-23 07:07:48",
-  "Num_comment" : 5,
+  "id" : 200410,
+  "community_name" : "Dublin",
+  "username" : "Amazing-Yak-5415",
+  "post_body" : "Dublin’s Little-Known, Fast-Growing Transit Network",
+  "timestamp" : "2024-12-23 07:07:48",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "artifexlife",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:16:58",
-    "Body" : "Fast growing?"
+    "body" : "Fast growing?",
+    "username" : "artifexlife",
+    "timestamp" : "2024-12-23 13:16:58"
   }, {
-    "Username" : "Mother-Dick",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:51:57",
-    "Body" : "On paper, Dublin's transport plans are good. It's just a matter of actually getting it done."
+    "body" : "On paper, Dublin's transport plans are good. It's just a matter of actually getting it done.",
+    "username" : "Mother-Dick",
+    "timestamp" : "2024-12-23 13:51:57"
   }, {
-    "Username" : "Pzurpo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:07:48",
-    "Body" : "The title was so silly. \"Little-known\"?"
+    "body" : "The title was so silly. \"Little-known\"?",
+    "username" : "Pzurpo",
+    "timestamp" : "2024-12-23 07:07:48"
   }, {
-    "Username" : "munkijunk",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:52:19",
-    "Body" : "It's for a global audience of train nerds. It's perfectly fine."
+    "body" : "It's for a global audience of train nerds. It's perfectly fine.",
+    "username" : "munkijunk",
+    "timestamp" : "2024-12-23 09:52:19"
   }, {
-    "Username" : "r_Yellow01",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:02:19",
-    "Body" : "Irrelevant, but I am impressed by the management of IÉ. This, in contrast to the rest of Irish infrastructure."
+    "body" : "Irrelevant, but I am impressed by the management of IÉ. This, in contrast to the rest of Irish infrastructure.",
+    "username" : "r_Yellow01",
+    "timestamp" : "2024-12-23 12:02:19"
   } ]
 }

@@ -1,70 +1,70 @@
 {
-  "Id" : 200023,
-  "Community_name" : "Vilnius",
-  "Username" : "kaboomcik",
-  "Post_body" : "Tortas per kalėdas Vilniuje",
-  "Timestamp" : "2024-12-19 12:43:32",
-  "Num_comment" : 12,
+  "id" : 200023,
+  "community_name" : "Vilnius",
+  "username" : "kaboomcik",
+  "post_body" : "Tortas per kalėdas Vilniuje",
+  "timestamp" : "2024-12-19 12:43:32",
+  "num_comment" : 12,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Miserable_Ad7246",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 13:23:20",
-    "Body" : "Gal galima uzsakyti kad i sita idetu ir pasiimtum kai butum 25 diena.\n\n[https://www.sharefreeze.lt/](https://www.sharefreeze.lt/)"
+    "body" : "Gal galima uzsakyti kad i sita idetu ir pasiimtum kai butum 25 diena.\n\n[https://www.sharefreeze.lt/](https://www.sharefreeze.lt/)",
+    "username" : "Miserable_Ad7246",
+    "timestamp" : "2024-12-19 13:23:20"
   }, {
-    "Username" : "vxndel",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 12:43:32",
-    "Body" : "gal ne tortai, bet kmyninėj yra tekę pirkt skanių pyragų paskutinėm minutėm kūčių ar kalėdų dieną"
+    "body" : "gal ne tortai, bet kmyninėj yra tekę pirkt skanių pyragų paskutinėm minutėm kūčių ar kalėdų dieną",
+    "username" : "vxndel",
+    "timestamp" : "2024-12-19 12:43:32"
   }, {
-    "Username" : "Competitive-Love1696",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 13:09:11",
-    "Body" : "Gal turi kokį draugą kuris galėtų pasaugoti iki grįši?"
+    "body" : "Gal turi kokį draugą kuris galėtų pasaugoti iki grįši?",
+    "username" : "Competitive-Love1696",
+    "timestamp" : "2024-12-19 13:09:11"
   }, {
-    "Username" : "romienas",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 17:13:28",
-    "Body" : "Yra daug konditerių kurie gamina namuose (su licenzija) pagooglinus ar paieškojus facebooke tikrai rasi ne vieną. Jie gali tau viską pagaminti ir tikrai gali sutarti kad per kalėdas atiduotų (jie iš to gyvena)"
+    "body" : "Yra daug konditerių kurie gamina namuose (su licenzija) pagooglinus ar paieškojus facebooke tikrai rasi ne vieną. Jie gali tau viską pagaminti ir tikrai gali sutarti kad per kalėdas atiduotų (jie iš to gyvena)",
+    "username" : "romienas",
+    "timestamp" : "2024-12-19 17:13:28"
   }, {
-    "Username" : "Fabulous_Wolf_4999",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 19:25:13",
-    "Body" : "Jeigu dar neradai ir reikia pagalbos, tai paieškok aplink Lazdynus kas kepa ir galiu nupirkti 23 d. ir pasaugoti iki 25d. Yra Lazdynuose Clafuti, bet iki vakar tik priėmė rezervacijas, nors visada galima bandyti kreiptis gal padarys."
+    "body" : "Jeigu dar neradai ir reikia pagalbos, tai paieškok aplink Lazdynus kas kepa ir galiu nupirkti 23 d. ir pasaugoti iki 25d. Yra Lazdynuose Clafuti, bet iki vakar tik priėmė rezervacijas, nors visada galima bandyti kreiptis gal padarys.",
+    "username" : "Fabulous_Wolf_4999",
+    "timestamp" : "2024-12-20 19:25:13"
   }, {
-    "Username" : "kaboomcik",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 14:25:25",
-    "Body" : "Oho kokia įdomi paslauga. Ačiū, pasidomėsiu!"
+    "body" : "Oho kokia įdomi paslauga. Ačiū, pasidomėsiu!",
+    "username" : "kaboomcik",
+    "timestamp" : "2024-12-19 14:25:25"
   }, {
-    "Username" : "chronosculptor777",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 12:48:30",
-    "Body" : "nedirbs 25d."
+    "body" : "nedirbs 25d.",
+    "username" : "chronosculptor777",
+    "timestamp" : "2024-12-19 12:48:30"
   }, {
-    "Username" : "kaboomcik",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 14:26:03",
-    "Body" : "Deja ne :("
+    "body" : "Deja ne :(",
+    "username" : "kaboomcik",
+    "timestamp" : "2024-12-19 14:26:03"
   }, {
-    "Username" : "kaboomcik",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 19:41:55",
-    "Body" : "Ačiū labai už tokį pasiūlymą! Jau susiradau su tais \"paštomatais/šaldytuvais\" variantą ;)"
+    "body" : "Ačiū labai už tokį pasiūlymą! Jau susiradau su tais \"paštomatais/šaldytuvais\" variantą ;)",
+    "username" : "kaboomcik",
+    "timestamp" : "2024-12-20 19:41:55"
   }, {
-    "Username" : "hundreds_of_others",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 05:35:06",
-    "Body" : "O šiaip ir paprastas paštomatas veiktų, dabar iki Kalėdų kieme šadytuvo temperatūra, ar truputį žemiau."
+    "body" : "O šiaip ir paprastas paštomatas veiktų, dabar iki Kalėdų kieme šadytuvo temperatūra, ar truputį žemiau.",
+    "username" : "hundreds_of_others",
+    "timestamp" : "2024-12-21 05:35:06"
   }, {
-    "Username" : "Competitive-Love1696",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 14:28:33",
-    "Body" : "Dar variantas paieškoti kas privačiai kepa, FB grupese, pažiurek Tartaledi. Gal sutartum, kad pasiimti 25"
+    "body" : "Dar variantas paieškoti kas privačiai kepa, FB grupese, pažiurek Tartaledi. Gal sutartum, kad pasiimti 25",
+    "username" : "Competitive-Love1696",
+    "timestamp" : "2024-12-19 14:28:33"
   }, {
-    "Username" : "GrynaiTaip",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 19:46:11",
-    "Body" : "Rajono FB grupes patikrink, daugumoje yra moteriškių, kurios kepa tortus. Pas mane net kelios yra, kaimynai atsiliepimus teigiamus rašo, tai iškart žinau, kad ne šūdą parduoda. Kadangi dirba iš namų, tadangi ir 25-ą dieną atsiimti nebūtų bėda."
+    "body" : "Rajono FB grupes patikrink, daugumoje yra moteriškių, kurios kepa tortus. Pas mane net kelios yra, kaimynai atsiliepimus teigiamus rašo, tai iškart žinau, kad ne šūdą parduoda. Kadangi dirba iš namų, tadangi ir 25-ą dieną atsiimti nebūtų bėda.",
+    "username" : "GrynaiTaip",
+    "timestamp" : "2024-12-20 19:46:11"
   } ]
 }

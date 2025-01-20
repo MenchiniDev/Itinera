@@ -1,15 +1,15 @@
 {
-  "Id" : 200177,
-  "Community_name" : "Tallinn",
-  "Username" : "ForeverFrog",
-  "Post_body" : "Working in Tallinn",
-  "Timestamp" : "2022-03-31 22:29:02",
-  "Num_comment" : 1,
+  "id" : 200177,
+  "community_name" : "Tallinn",
+  "username" : "ForeverFrog",
+  "post_body" : "Working in Tallinn",
+  "timestamp" : "2022-03-31 22:29:02",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "elagukalevostakulda",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2022-03-31 22:29:02",
-    "Body" : "Try r/eesti this sub is dead"
+    "body" : "Try r/eesti this sub is dead",
+    "username" : "elagukalevostakulda",
+    "timestamp" : "2022-03-31 22:29:02"
   } ]
 }

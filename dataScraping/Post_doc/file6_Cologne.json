@@ -1,15 +1,15 @@
 {
-  "Id" : 200268,
-  "Community_name" : "Cologne",
-  "Username" : "bobbalm",
-  "Post_body" : "Tom Schneider ich suche dich",
-  "Timestamp" : "2024-12-23 15:31:03",
-  "Num_comment" : 1,
+  "id" : 200268,
+  "community_name" : "Cologne",
+  "username" : "bobbalm",
+  "post_body" : "Tom Schneider ich suche dich",
+  "timestamp" : "2024-12-23 15:31:03",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "sundayinitalian",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:31:03",
-    "Body" : "Schau mal bei LinkedIn"
+    "body" : "Schau mal bei LinkedIn",
+    "username" : "sundayinitalian",
+    "timestamp" : "2024-12-23 15:31:03"
   } ]
 }

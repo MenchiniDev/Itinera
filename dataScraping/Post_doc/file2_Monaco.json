@@ -1,10 +1,10 @@
 {
-  "Id" : 200126,
-  "Community_name" : "Monaco",
-  "Username" : "gashead1976",
-  "Post_body" : "Taking a stroll last night, this picture was just perfect ",
-  "Timestamp" : "2024-04-15 20:05:00",
-  "Num_comment" : 0,
+  "id" : 200126,
+  "community_name" : "Monaco",
+  "username" : "gashead1976",
+  "post_body" : "Taking a stroll last night, this picture was just perfect ",
+  "timestamp" : "2024-01-10 20:44:25",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

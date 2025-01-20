@@ -1,15 +1,15 @@
 {
-  "Id" : 200442,
-  "City" : "Tallinn",
-  "Name" : "Tallinn",
-  "Created" : "2021-12-23 00:21:03",
-  "Post" : [ {
-    "User" : "Nor_Cal_Native",
-    "Text" : "Visiting for New Years!",
-    "Timestamp" : "2021-12-23 01:21:03"
+  "id" : 200442,
+  "city" : "Tallinn",
+  "name" : "Tallinn",
+  "created" : "2021-12-23 00:21:03",
+  "post" : [ {
+    "text" : "Visiting for New Years!",
+    "user" : "Nor_Cal_Native",
+    "timestamp" : "2021-12-23 01:21:03"
   }, {
-    "User" : "InternationalPin6177",
-    "Text" : "I have an extra ticket to the Opera -giving it away for free",
-    "Timestamp" : "2022-01-15 14:50:08"
+    "text" : "I have an extra ticket to the Opera -giving it away for free",
+    "user" : "InternationalPin6177",
+    "timestamp" : "2022-01-15 14:50:08"
   } ]
 }
