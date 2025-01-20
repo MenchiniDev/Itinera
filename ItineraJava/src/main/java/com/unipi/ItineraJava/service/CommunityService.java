@@ -3,19 +3,24 @@ package com.unipi.ItineraJava.service;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 
-import com.unipi.ItineraJava.model.User;
+import com.mongodb.client.result.UpdateResult;
+import com.unipi.ItineraJava.model.*;
+import com.unipi.ItineraJava.repository.PostRepository;
 import jdk.jfr.Timestamp;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import com.unipi.ItineraJava.exception.ResourceNotFoundException;
-import com.unipi.ItineraJava.model.MongoCommunity;
-import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 
@@ -29,6 +34,10 @@ public class CommunityService {
     private UserService userService;
     @Autowired
     private User user;
+    @Autowired
+    private MongoTemplate mongoTemplate;
+    @Autowired
+    private PostRepository postRepository;
 
     public Optional<MongoCommunity> findById(String id) {
         return communityRepository.findById(id);
@@ -119,7 +128,12 @@ public class CommunityService {
             post.setReported_post(false);
             post.setComment(null);
             userService.updateLastPost(username,post.getPost_body());
-            if (communityRepository.updateMongoCommunityByPost())
+
+            PostSummary postSummary = new PostSummary();
+            postSummary.setUser(username);
+            postSummary.setText(text);
+            postSummary.setTimestamp(currentTimestamp);
+            if (updateByPost(name,postSummary))
                 return ResponseEntity.ok("post created");
             else
                 return ResponseEntity.internalServerError().body("error creating post");
@@ -128,8 +142,37 @@ public class CommunityService {
         }
 
     }
+    public boolean updateByPost(String name, PostSummary postSummary) {
+            Query query = new Query(Criteria.where("name").is(name));
+            Update update = new Update().push("posts", postSummary);
+
+            UpdateResult result = mongoTemplate.updateFirst(query, update, MongoCommunity.class);
+
+            return result.getModifiedCount() > 0;
+    }
 
     public boolean existsCommunity(String name) {
         return communityRepository.findByCity(name);
+    }
+
+    public Post addCommentToPost(String postUsername, String postTimestamp, String commenterUsername, Comment comment) {
+
+        Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
+
+        if (post != null) {
+            comment.setUser(commenterUsername);
+            comment.setTimestamp(LocalDateTime.parse(LocalDateTime.now()
+                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"))));
+
+
+            if (post.getComment() == null) {
+                post.setComment(new ArrayList<>());
+            }
+            post.getComment().add(comment);
+            post.setNum_comment(post.getNum_comment() + 1);
+            return communityRepository.save(post);
+        }
+
+        throw new IllegalArgumentException("Post not found for username: " + postUsername + " and timestamp: " + postTimestamp);
     }
 }
