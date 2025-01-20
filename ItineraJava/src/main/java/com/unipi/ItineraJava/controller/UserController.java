@@ -27,6 +27,9 @@ import com.unipi.ItineraJava.repository.UserNeo4jRepository;
 import com.unipi.ItineraJava.repository.UserRepository;
 import com.unipi.ItineraJava.service.UserService;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
 
 @RestController
 @RequestMapping("/users")
@@ -201,7 +204,7 @@ class UserController {
     @GetMapping("/profile/communityJoined")
     public ResponseEntity<?> getCommunityJoined() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-    // Verifica se l'utente è autenticato
+    // Verifico se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN)
                 .body("User not authenticated. Please log in to access this endpoint.");
@@ -210,13 +213,13 @@ class UserController {
         String username = authentication.getName();
 
         try {
-        // Recupera le community a cui l'utente è connesso
+        // Recupero le community a cui l'utente è connesso
             List<CommunityDTO> communities = userService.getCommunityJoined(username);
-        // Se non ci sono community, restituisce un messaggio specifico
+        // Se non ci sono community, restituisco un messaggio specifico
             if (communities.isEmpty()) {
                 return ResponseEntity.ok("No communities joined by the user.");
             }
-        // Restituisce le community con un messaggio di successo
+        // Restituisco le community con un messaggio di successo
             return ResponseEntity.ok(communities);
 
         } catch (Exception ex) {
@@ -225,6 +228,29 @@ class UserController {
                 .body("An error occurred while retrieving the communities: " + ex.getMessage());
         }
     }
+
+    //endpoint per vedere le community che l'utente cercato ha joinato
+
+    @GetMapping("/profile/communityJoined/{username}")
+    public ResponseEntity<?> getCommunityJoined(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+            if (authentication == null || !authentication.isAuthenticated()) {
+                return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                    .body("User not authenticated. Please log in to access this endpoint.");
+            }
+        try {
+            List<CommunityDTO> communities = userService.getCommunityJoined(username);
+            if (communities.isEmpty()) {
+                return ResponseEntity.ok("No communities joined by the user.");
+            }
+            return ResponseEntity.ok(communities);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the communities: " + ex.getMessage());
+        }
+    }
+    
+    
 
     ///endpoint per seguire un utente
     ///http://localhost:8080/users/follow/{username}
@@ -285,6 +311,25 @@ class UserController {
         }
     }
 
+    //endpoint per mostrare tutta la gente che l'user cercato segue
+    @GetMapping("/showFollowing/{username}")
+    public ResponseEntity<?> getFollowing(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+        try {
+            List<UserDTO> following = userService.getFollowing(username);
+            if (following.isEmpty()) {
+                return ResponseEntity.ok("No users followed by the user.");
+            }
+            return ResponseEntity.ok(following);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the followed users: " + ex.getMessage());
+        }
+    }
     
     
 }

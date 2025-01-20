@@ -1,5 +1,3 @@
-
-
 package com.unipi.ItineraJava.graphdb;
 
 import java.io.File;
@@ -22,8 +20,8 @@ import org.neo4j.driver.Session;
 public class CreateGraphDatabase {
 
     private static final String NEO4J_URI = "bolt://localhost:7687";
-    private static final String NEO4J_USERNAME = "neo4j"; // Modifica se necessario
-    private static final String NEO4J_PASSWORD = "root1234"; // Modifica se necessario
+    private static final String NEO4J_USERNAME = "neo4j"; //default
+    private static final String NEO4J_PASSWORD = "root1234"; 
 
     public static Session getNeo4jSession() {
         Driver driver = GraphDatabase.driver(NEO4J_URI, AuthTokens.basic(NEO4J_USERNAME, NEO4J_PASSWORD));
@@ -32,7 +30,7 @@ public class CreateGraphDatabase {
 
     public static void main(String[] args) {
         // Path della cartella contenente i JSON dei post
-        String postsFolderPath = "../dataScraping/Post_doc";
+        String postsFolderPath = "itinera/dataScraping/Post_doc";
 
         try (Driver driver = GraphDatabase.driver(NEO4J_URI, AuthTokens.basic(NEO4J_USERNAME, NEO4J_PASSWORD));
              Session session = driver.session()) {
@@ -54,22 +52,23 @@ public class CreateGraphDatabase {
                 try {
                     System.out.println("Elaborazione file: " + file.getName());
 
-                    // Leggi il contenuto del file JSON
+                    // Leggo il contenuto del file JSON
                     String content = new String(Files.readAllBytes(Paths.get(file.getAbsolutePath())));
                     JSONParser parser = new JSONParser();
                     JSONObject post = (JSONObject) parser.parse(content);
 
-                    // Estrai dati dal post
-                    String communityName = (String) post.get("Community_name");
-                    String username = (String) post.get("Username");
-                    String preview = getPostPreview((String) post.get("Post_body"));
-                    String timestamp = (String) post.get("Timestamp");
+                    // Estraggo dati dal post
+                    String postId = (String) post.get("post_id");
+                    String communityName = (String) post.get("community_name");
+                    String username = (String) post.get("username");
+                    String preview = getPostPreview((String) post.get("post_body"));
+                    String timestamp = (String) post.get("timestamp");
 
-                    // Aggiungi l'utente al set di utenti
+                    // Aggiungo l'utente al set di utenti
                     users.add(username);
                     System.out.println("Trovato utente: " + username + " e community: " + communityName);
 
-                    // Assicurati che esistano i nodi Community e User
+                    // Assicuro che esistano i nodi Community e User
                     session.executeWrite(tx -> {
                         tx.run("MERGE (c:Community {city: $city})",
                                 org.neo4j.driver.Values.parameters("city", communityName));
@@ -79,36 +78,37 @@ public class CreateGraphDatabase {
                     });
                     System.out.println("Creati nodi Community e User per " + communityName + " e " + username);
 
-                    // Crea il post e le relazioni con l'autore e la community
+                    // Creo il post e le relazioni con l'autore e la community
                     session.executeWrite(tx -> {
-                        tx.run("CREATE (p:Post {preview: $preview, timestamp: $timestamp}) " +
+                        tx.run("CREATE (p:Post {id: $postId, preview: $preview, timestamp: $timestamp}) " +
                                 "WITH p " +
                                 "MATCH (u:User {username: $username}), (c:Community {city: $city}) " +
                                 "MERGE (u)-[:ASSOCIATED]->(p) " +
                                 "MERGE (p)-[:ASSOCIATED]->(c)" +
                                 "MERGE (u)-[:CONNECTED]->(c)",
                                 org.neo4j.driver.Values.parameters(
+                                        "postId", postId,
                                         "preview", preview,
                                         "timestamp", timestamp,
                                         "username", username,
                                         "city", communityName));
                         return null;
                     });
-                    System.out.println("Creato nodo Post con preview e timestamp associato a User e Community.");
+                    System.out.println("Creato nodo Post con id: " + postId + ", preview e timestamp associato a User e Community.");
 
-                    // Estrai i commenti e crea relazioni come archi
-                    JSONArray comments = (JSONArray) post.get("Commenti");
+                    // Estraggo i commenti e creo relazioni come archi
+                    JSONArray comments = (JSONArray) post.get("commenti");
                     System.out.println("Trovati " + comments.size() + " commenti nel file " + file.getName());
 
                     for (Object commentObj : comments) {
                         JSONObject comment = (JSONObject) commentObj;
-                        String commentUsername = (String) comment.get("Username");
-                        String commentTimestamp = (String) comment.get("Timestamp");
+                        String commentUsername = (String) comment.get("username");
+                        String commentTimestamp = (String) comment.get("timestamp");
 
-                        // Aggiungi l'utente del commento al set di utenti
+                        // Aggiungo l'utente del commento al set di utenti
                         users.add(commentUsername);
 
-                        // Assicurati che esista il nodo User per il commento
+                        // Assicuro che esista il nodo User per il commento
                         session.executeWrite(tx -> {
                             tx.run("MERGE (u:User {username: $username})",
                                     org.neo4j.driver.Values.parameters("username", commentUsername));
@@ -116,7 +116,7 @@ public class CreateGraphDatabase {
                         });
                         System.out.println("Creato nodo User per commento di: " + commentUsername);
 
-                        // Crea un arco COMMENT tra l'utente e il post
+                        // Creo un arco COMMENT tra l'utente e il post
                         session.executeWrite(tx -> {
                             tx.run("MATCH (u:User {username: $username}), (p:Post {preview: $preview}) " +
                                     "MERGE (u)-[:COMMENT {timestamp: $timestamp}]->(p)",
@@ -128,8 +128,7 @@ public class CreateGraphDatabase {
                         });
                         System.out.println("Creato arco COMMENT tra " + commentUsername + " e il Post.");
 
-
-                        // Connetti il commentatore alla community del post
+                        // Connetto il commentatore alla community del post
                         session.executeWrite(tx -> {
                             tx.run("MATCH (u:User {username: $username}), (c:Community {city: $city}) " +
                                     "MERGE (u)-[:CONNECTED]->(c)",
@@ -168,27 +167,27 @@ public class CreateGraphDatabase {
     }
 
     /**
-     * Crea relazioni FOLLOWING tra utenti in modo casuale.
+     * Creo relazioni FOLLOWING tra utenti in modo casuale.
      */
     private static void createRandomFollows(Session session, Set<String> users) {
         System.out.println("Inizio creazione relazioni FOLLOWING...");
-    
+
         List<String> userList = new ArrayList<>(users);
-    
-        // Utilizzare un seed fisso per ottenere risultati consistenti tra esecuzioni
-        Random random = new Random(42); // Cambia il seed per modificare i risultati
-    
+
+        // Utilizzo un seed fisso per ottenere risultati consistenti tra esecuzioni
+        Random random = new Random(42); 
+
         int totalFollowsCreated = 0;
-    
+
         for (String user : userList) {
             // Numero casuale di utenti da seguire
             int numFollows = random.nextInt(25) + 1; // Tra 1 e 25 utenti seguiti
-    
+
             System.out.println("Utente: " + user + " seguirà " + numFollows + " utenti.");
-    
-            for (int i = 0; i < numFollows; i++) {
+
+            for (int i = 0; numFollows > i; i++) {
                 String targetUser = userList.get(random.nextInt(userList.size()));
-    
+
                 // Evita che un utente segua se stesso
                 if (!user.equals(targetUser)) {
                     session.executeWrite(tx -> {
@@ -198,14 +197,13 @@ public class CreateGraphDatabase {
                         return null;
                     });
                     totalFollowsCreated++;
-    
+
                     // Stampa di controllo per ogni relazione creata
                     System.out.println("Creata relazione FOLLOWING: " + user + " → " + targetUser);
                 }
             }
         }
-    
+
         System.out.println("Relazioni FOLLOWING completate. Totale relazioni create: " + totalFollowsCreated);
     }
-    
 }
