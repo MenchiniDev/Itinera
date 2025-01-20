@@ -27,22 +27,27 @@ class CommunityController {
     @Autowired
     private CommunityService communityService;
     @Autowired
+
     private CommunityNeo4jRepository communityNeo4jRepository;
     @Autowired
+
     private CommunityRepository mongoCommunityRepository;
 
 
+    // http://localhost:8080/Community
+    // returns all communities with details
     @GetMapping
-    public ResponseEntity<List<MongoCommunity>> getAllCommunityNames() {
+    public ResponseEntity<List<MongoCommunity>> getAllCommunity() {
         List<MongoCommunity> communities = mongoCommunityRepository.findAll();
         System.out.println(communities);
         return ResponseEntity.ok(communities);
     }
 
-
+    // http://localhost:8080/Community/678cf46cfa846e41b24ca5bc
+    // returns the {id} community with all his data
     @GetMapping("/{id}")
     public Optional<MongoCommunity> getCommunityById(@PathVariable String id) {
-        return communityService.findById(id);
+        return ResponseEntity.ok(communityService.findById(id)).getBody();
     }
 
     @GetMapping("/details")

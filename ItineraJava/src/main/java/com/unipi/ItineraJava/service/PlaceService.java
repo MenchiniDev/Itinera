@@ -2,14 +2,16 @@ package com.unipi.ItineraJava.service;
 
 import com.unipi.ItineraJava.model.MongoPlace;
 import com.unipi.ItineraJava.model.Review;
+import com.unipi.ItineraJava.model.ReviewSummary;
+import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.repository.PlaceRepository;
+import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Service
 public class PlaceService {
@@ -17,13 +19,42 @@ public class PlaceService {
     @Autowired
     private PlaceRepository placeRepository;
 
+    @Autowired
+    private CommunityRepository communityRepository;
+
+    private JwtTokenProvider jwtTokenProvider;
+
+
 
     public List<MongoPlace> getBestPlacesByCity(String city) {
-        return placeRepository.findByCityOrderByOverallRatingDesc(city);
+        if(Boolean.TRUE.equals(findCity(city))) {
+            System.out.println("la città" + city + "esiste");
+            return placeRepository.findByCityOrderByOverallRatingDesc(city);
+        }
+        else return Collections.emptyList();
     }
 
+
+
     public List<MongoPlace> getPlacesByCityAndCategory(String city, String category) {
-        return placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
+        if(Boolean.TRUE.equals(findCity(city)) && Boolean.TRUE.equals(existsCategory(category))) {
+            System.out.println("la città" + city + "esiste");
+            return placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
+        }
+        else return Collections.emptyList();
+    }
+
+    private Boolean findCity(String city) {
+        try {
+            return communityRepository.findByCity(city);
+        } catch (Exception e)
+        {
+            return null;
+        }
+    }
+
+    private Boolean existsCategory(String category) {
+        return category.equals("Hotel") || category.equals("Restaurant") || category.equals("Monuments");
     }
 
     public List<MongoPlace> findPlacesByRating(String city, String category, double minRating) {
@@ -55,6 +86,4 @@ public class PlaceService {
             return List.of();
         }
     }
-
-
 }

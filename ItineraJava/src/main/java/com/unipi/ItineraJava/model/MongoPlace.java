@@ -5,44 +5,18 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.List;
 
-class ReviewSummary {
-    private double averageRating;
-    private int totalReviews;
-
-    public ReviewSummary(double averageRating, int totalReviews) {
-        this.averageRating = averageRating;
-        this.totalReviews = totalReviews;
-    }
-
-    public double getAverageRating() {
-        return averageRating;
-    }
-
-    public void setAverageRating(double averageRating) {
-        this.averageRating = averageRating;
-    }
-
-    public int getTotalReviews() {
-        return totalReviews;
-    }
-
-    public void setTotalReviews(int totalReviews) {
-        this.totalReviews = totalReviews;
-    }
-}
-
 @Document(collection = "Places")
 public class MongoPlace {
 
     @Id
     private String id;
-    private String city;
-    private String category; // hotel, restaurant, interest
     private String name;
     private String address;
-    private List<ReviewSummary> reviews; // Elenco delle informazioni aggregate sulle recensioni
+    private String city;
+    private String category; // Hotel, Restaurant, Monument
+    private List<ReviewSummary> reviews_info;
 
-    // Getter e setter
+
     public String getId() {
         return id;
     }
@@ -84,18 +58,18 @@ public class MongoPlace {
     }
 
     public List<ReviewSummary> getReviews() {
-        return reviews;
+        return reviews_info;
     }
 
     public void setReviews(List<ReviewSummary> reviews) {
-        this.reviews = reviews;
+        this.reviews_info = reviews;
     }
 
     public Double calculateAverageRating() {
-        if (reviews == null || reviews.isEmpty()) {
+        if (reviews_info == null || reviews_info.isEmpty()) {
             return 0.0;
         }
-        return reviews.stream()
+        return reviews_info.stream()
                 .mapToDouble(ReviewSummary::getAverageRating)
                 .average()
                 .orElse(0.0);

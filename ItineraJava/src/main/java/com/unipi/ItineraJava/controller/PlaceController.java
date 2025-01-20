@@ -10,22 +10,22 @@ import com.unipi.ItineraJava.service.PlaceService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/places")
+@RequestMapping("/place")
 public class PlaceController {
 
     @Autowired
     private PlaceService placeService;
 
-    @GetMapping("/city")
-    public List<MongoPlace> getTopPlaces(@RequestParam String city) {
-        return placeService.getBestPlacesByCity(city);
+    @GetMapping("{city}")
+    public List<MongoPlace> getTopPlaces(@PathVariable String city) {
+        return ResponseEntity.ok(placeService.getBestPlacesByCity(city)).getBody();
     }
 
     @GetMapping("/search")
     public List<MongoPlace> getPlacesByCityAndCategory(
             @RequestParam String city,
             @RequestParam String category) {
-        return placeService.getPlacesByCityAndCategory(city, category);
+        return ResponseEntity.ok(placeService.getPlacesByCityAndCategory(city, category)).getBody();
     }
 
     // http://localhost:8080/places/reviews?city=roma&&category=hotel&&name=x
@@ -34,7 +34,7 @@ public class PlaceController {
             @RequestParam String city,
             @RequestParam String category,
             @RequestParam String name) {
-        return placeService.getReviewsByCityCategoryAndName(city, category, name);
+        return ResponseEntity.ok(placeService.getReviewsByCityCategoryAndName(city, category, name)).getBody();
     }
 
     // http://localhost:8080/places?city=Rome&category=Restaurant&minRating=4.5
@@ -50,11 +50,6 @@ public class PlaceController {
         }
 
         return ResponseEntity.ok(mongoPlaces);
-    }
-
-    @PostMapping("/review")
-    public Review addReview(@RequestBody Review review) {
-        return null; //TODO: implementare
     }
 }
 
