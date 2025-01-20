@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.AccessDeniedException;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -16,7 +17,12 @@ import org.springframework.web.bind.annotation.*;
 
 import com.unipi.ItineraJava.DTO.CommunityDTO;
 import com.unipi.ItineraJava.DTO.SignupRequest;
+
+import com.unipi.ItineraJava.DTO.UserDTO;
+import com.unipi.ItineraJava.model.CommunityGraph;
+
 import com.unipi.ItineraJava.model.User;
+import com.unipi.ItineraJava.model.UserGraph;
 import com.unipi.ItineraJava.repository.UserNeo4jRepository;
 import com.unipi.ItineraJava.repository.UserRepository;
 import com.unipi.ItineraJava.service.UserService;
@@ -217,6 +223,65 @@ class UserController {
             // Gestione di errori imprevisti
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                 .body("An error occurred while retrieving the communities: " + ex.getMessage());
+        }
+    }
+
+    ///endpoint per seguire un utente
+    ///http://localhost:8080/users/follow/{username}
+    @PostMapping("/follow/{username}")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<String> followUser(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication != null && authentication.isAuthenticated()) {
+            String follower = authentication.getName();
+            try {
+                userService.followUser(follower, username);
+                return ResponseEntity.ok("User " + follower + " successfully followed user: " + username);
+            } catch (IllegalArgumentException | IllegalStateException ex) {
+                return ResponseEntity.badRequest().body(ex.getMessage());
+            }
+        }
+        return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
+    }
+    
+    //endpoint per smettere di seguire un utente
+    //http://localhost:8080/users/unfollow/{username}
+    @DeleteMapping("/unfollow/{username}")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<String> unfollowUser(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication != null && authentication.isAuthenticated()) {
+            String follower = authentication.getName();
+            try {
+                userService.unfollowUser(follower, username);
+                return ResponseEntity.ok("User " + follower + " successfully unfollowed user: " + username);
+            } catch (IllegalArgumentException | IllegalStateException ex) {
+                return ResponseEntity.badRequest().body(ex.getMessage());
+            }
+        }
+        return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
+    }
+
+
+    //endpoint per mostrare tutta la gente che l'user segue
+    @GetMapping("/showFollowing")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<?> getFollowing() {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+        String username = authentication.getName();
+        try {
+            List<UserDTO> following = userService.getFollowing(username);
+            if (following.isEmpty()) {
+                return ResponseEntity.ok("No users followed by the user.");
+            }
+            return ResponseEntity.ok(following);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the followed users: " + ex.getMessage());
         }
     }
 

@@ -8,8 +8,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.unipi.ItineraJava.DTO.CommunityDTO;
+import com.unipi.ItineraJava.DTO.UserDTO;
 import com.unipi.ItineraJava.model.CommunityGraph;
 import com.unipi.ItineraJava.model.User;
+import com.unipi.ItineraJava.model.UserGraph;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -98,5 +100,39 @@ public class UserService{
         });
         return communities;
     }
-        
+
+    
+    public void followUser(String user, String userToFollow){
+        //controllo se esiste l'utente
+        if(!userNeo4jRepository.existsByUsername(userToFollow)){
+            throw new IllegalArgumentException("User not found: " + userToFollow);
+        }
+
+        //controllo se esiste già la relazione
+        if(userNeo4jRepository.existsFollowRelationship(user, userToFollow)){
+            throw new IllegalArgumentException("User already followed: " + userToFollow);
+        }
+
+        userNeo4jRepository.followUser(user, userToFollow);
+    }
+     
+
+    public void unfollowUser(String user, String userToUnfollow){
+
+        if(!userNeo4jRepository.existsByUsername(userToUnfollow)){
+            throw new IllegalArgumentException("User not found: " + userToUnfollow);
+        }
+
+        if(!userNeo4jRepository.existsFollowRelationship(user, userToUnfollow)){
+            throw new IllegalArgumentException("User not followed: " + userToUnfollow);
+        }
+    
+        userNeo4jRepository.unfollowUser(user, userToUnfollow);
+    }
+
+
+    public List<UserDTO> getFollowing(String username) {
+        return userNeo4jRepository.getFollowing(username);
+    }
+
 }
