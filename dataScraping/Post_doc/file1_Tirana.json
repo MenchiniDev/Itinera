@@ -1,40 +1,40 @@
 {
-  "Id" : 200039,
-  "Community_name" : "Tirana",
-  "Username" : "ChelseaGirls66",
-  "Post_body" : "Restaurant recommendations ",
-  "Timestamp" : "2024-12-21 18:58:11",
-  "Num_comment" : 6,
+  "id" : 200039,
+  "community_name" : "Tirana",
+  "username" : "ChelseaGirls66",
+  "post_body" : "Restaurant recommendations ",
+  "timestamp" : "2024-12-21 18:58:11",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Big-Eggplant-924",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 18:58:11",
-    "Body" : "Gurra e Perrise-Mali Dajtit\nLe’Gabriel Restourant - Prane kulla e binjake , Tirane\nArka Rooftop- Kodra e Diellit,Tirane\nSky Tower - Tirana\nDon’t ask me for prices😂😂😂\n⚠️Dont forget to reserve"
+    "body" : "Gurra e Perrise-Mali Dajtit\nLe’Gabriel Restourant - Prane kulla e binjake , Tirane\nArka Rooftop- Kodra e Diellit,Tirane\nSky Tower - Tirana\nDon’t ask me for prices😂😂😂\n⚠️Dont forget to reserve",
+    "username" : "Big-Eggplant-924",
+    "timestamp" : "2024-12-21 18:58:11"
   }, {
-    "Username" : "_bjori",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 00:33:25",
-    "Body" : "I personally like ulliri"
+    "body" : "I personally like ulliri",
+    "username" : "_bjori",
+    "timestamp" : "2024-12-22 00:33:25"
   }, {
-    "Username" : "Western_Heart6966",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 07:35:39",
-    "Body" : "Salt is a nice restaurant, if you want traditional food Lakror-Anne is good as well."
+    "body" : "Salt is a nice restaurant, if you want traditional food Lakror-Anne is good as well.",
+    "username" : "Western_Heart6966",
+    "timestamp" : "2024-12-22 07:35:39"
   }, {
-    "Username" : "ChelseaGirls66",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 19:32:06",
-    "Body" : "Thank you 😀"
+    "body" : "Thank you 😀",
+    "username" : "ChelseaGirls66",
+    "timestamp" : "2024-12-21 19:32:06"
   }, {
-    "Username" : "ChelseaGirls66",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 01:10:32",
-    "Body" : "Thank you"
+    "body" : "Thank you",
+    "username" : "ChelseaGirls66",
+    "timestamp" : "2024-12-22 01:10:32"
   }, {
-    "Username" : "ChelseaGirls66",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:51:52",
-    "Body" : "Thank you - Lakror Anne looks amazing"
+    "body" : "Thank you - Lakror Anne looks amazing",
+    "username" : "ChelseaGirls66",
+    "timestamp" : "2024-12-22 09:51:52"
   } ]
 }

@@ -1,15 +1,15 @@
 {
-  "Id" : 200398,
-  "Community_name" : "Podgorica",
-  "Username" : "nina-art",
-  "Post_body" : "prizren",
-  "Timestamp" : "2024-08-15 10:09:27",
-  "Num_comment" : 1,
+  "id" : 200398,
+  "community_name" : "Podgorica",
+  "username" : "nina-art",
+  "post_body" : "prizren",
+  "timestamp" : "2024-08-15 10:09:27",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "mrbrightside-987",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-08-15 10:09:27",
-    "Body" : "pogledaj na sajtu bus4me"
+    "body" : "pogledaj na sajtu bus4me",
+    "username" : "mrbrightside-987",
+    "timestamp" : "2024-08-15 10:09:27"
   } ]
 }

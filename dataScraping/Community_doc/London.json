@@ -1,15 +1,15 @@
 {
-  "Id" : 200477,
-  "City" : "London",
-  "Name" : "London",
-  "Created" : "2024-12-17 12:52:46",
-  "Post" : [ {
-    "User" : "polkadotska",
-    "Text" : "London info",
-    "Timestamp" : "2024-12-17 13:52:46"
+  "id" : 200477,
+  "city" : "London",
+  "name" : "London",
+  "created" : "2024-12-17 12:52:46",
+  "post" : [ {
+    "text" : "London info",
+    "user" : "polkadotska",
+    "timestamp" : "2024-12-17 13:52:46"
   }, {
-    "User" : "deadlykillerpanda",
-    "Text" : "When is it appropriate to call for a welfare check?",
-    "Timestamp" : "2024-12-23 00:31:32"
+    "text" : "When is it appropriate to call for a welfare check?",
+    "user" : "deadlykillerpanda",
+    "timestamp" : "2024-12-23 00:31:32"
   } ]
 }

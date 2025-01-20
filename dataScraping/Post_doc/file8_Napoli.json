@@ -1,35 +1,35 @@
 {
-  "Id" : 200361,
-  "Community_name" : "Napoli",
-  "Username" : "NationalMind6400",
-  "Post_body" : "La municipale a Napoli non esiste",
-  "Timestamp" : "2024-12-22 20:09:48",
-  "Num_comment" : 5,
+  "id" : 200361,
+  "community_name" : "Napoli",
+  "username" : "NationalMind6400",
+  "post_body" : "La municipale a Napoli non esiste",
+  "timestamp" : "2024-12-22 20:09:48",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "sebspi",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:09:48",
-    "Body" : "Stamattina un figlio di puttana è salito su un marciapiede con la moto e per poco non mi investiva mentre uscivo dal cancello di casa mia. Mi si è fermato davanti per un pelo e quando ho avuto da ridire in realtà ho scoperto che la colpa fosse mia perché non avevo guardato. A napoli ci sono i napoletani e le scimmie. Il problema è che le scimmie si riproducono più di noi e ci atterreranno tutti prima o poi\n\nEdit: typo"
+    "body" : "Stamattina un figlio di puttana è salito su un marciapiede con la moto e per poco non mi investiva mentre uscivo dal cancello di casa mia. Mi si è fermato davanti per un pelo e quando ho avuto da ridire in realtà ho scoperto che la colpa fosse mia perché non avevo guardato. A napoli ci sono i napoletani e le scimmie. Il problema è che le scimmie si riproducono più di noi e ci atterreranno tutti prima o poi\n\nEdit: typo",
+    "username" : "sebspi",
+    "timestamp" : "2024-12-22 20:09:48"
   }, {
-    "Username" : "Terrible_Wonder9080",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:47:29",
-    "Body" : "Non si rispetta nemmeno più la segnaletica stradale e i semafori, stavo per essere investita diverse volte nei pressi di piazza borsa e via Medina..."
+    "body" : "Non si rispetta nemmeno più la segnaletica stradale e i semafori, stavo per essere investita diverse volte nei pressi di piazza borsa e via Medina...",
+    "username" : "Terrible_Wonder9080",
+    "timestamp" : "2024-12-22 20:47:29"
   }, {
-    "Username" : "andxj",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:47:17",
-    "Body" : "Una volta ho visto un agente della municipale lavorare. Purtroppo ha smesso prima che riuscissi a tirare fuori il telefono per fare il video."
+    "body" : "Una volta ho visto un agente della municipale lavorare. Purtroppo ha smesso prima che riuscissi a tirare fuori il telefono per fare il video.",
+    "username" : "andxj",
+    "timestamp" : "2024-12-22 20:47:17"
   }, {
-    "Username" : "subnet27",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:27:38",
-    "Body" : "Vengo spesso a Napoli..secondo me adesso saranno proprio latitanti con il nuovo cds..o no"
+    "body" : "Vengo spesso a Napoli..secondo me adesso saranno proprio latitanti con il nuovo cds..o no",
+    "username" : "subnet27",
+    "timestamp" : "2024-12-23 13:27:38"
   }, {
-    "Username" : "Alex-Man",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:11:32",
-    "Body" : "La municipale a Napoli è una metastasi purulenta"
+    "body" : "La municipale a Napoli è una metastasi purulenta",
+    "username" : "Alex-Man",
+    "timestamp" : "2024-12-22 23:11:32"
   } ]
 }

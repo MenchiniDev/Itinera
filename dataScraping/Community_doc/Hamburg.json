@@ -1,15 +1,15 @@
 {
-  "Id" : 200441,
-  "City" : "Hamburg",
-  "Name" : "Hamburg",
-  "Created" : "2024-11-13 18:28:04",
-  "Post" : [ {
-    "User" : "paulihunter",
-    "Text" : "Weihnachtsmarkt / Christmas market Megathread!",
-    "Timestamp" : "2024-11-13 19:28:04"
+  "id" : 200441,
+  "city" : "Hamburg",
+  "name" : "Hamburg",
+  "created" : "2024-11-13 18:28:04",
+  "post" : [ {
+    "text" : "Weihnachtsmarkt / Christmas market Megathread!",
+    "user" : "paulihunter",
+    "timestamp" : "2024-11-13 19:28:04"
   }, {
-    "User" : "paulihunter",
-    "Text" : "Was geht ab im Dezember 2024?",
-    "Timestamp" : "2024-12-01 03:22:57"
+    "text" : "Was geht ab im Dezember 2024?",
+    "user" : "paulihunter",
+    "timestamp" : "2024-12-01 03:22:57"
   } ]
 }

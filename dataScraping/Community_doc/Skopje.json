@@ -1,15 +1,15 @@
 {
-  "Id" : 200471,
-  "City" : "Skopje",
-  "Name" : "Skopje",
-  "Created" : "2024-04-15 19:01:22",
-  "Post" : [ {
-    "User" : "Clean_Patient_5010",
-    "Text" : "New year celebration ",
-    "Timestamp" : "2024-04-15 20:01:22"
+  "id" : 200471,
+  "city" : "Skopje",
+  "name" : "Skopje",
+  "created" : "2024-01-10 19:40:55",
+  "post" : [ {
+    "text" : "New year celebration ",
+    "user" : "Clean_Patient_5010",
+    "timestamp" : "2024-01-10 20:40:55"
   }, {
-    "User" : "paceeex3",
-    "Text" : "Активен Македонски Discord сервер \"Macedonian Mingle\"\n",
-    "Timestamp" : "2024-04-15 20:10:15"
+    "text" : "Активен Македонски Discord сервер \"Macedonian Mingle\"\n",
+    "user" : "paceeex3",
+    "timestamp" : "2024-01-10 20:49:17"
   } ]
 }

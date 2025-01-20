@@ -1,20 +1,20 @@
 {
-  "Id" : 200040,
-  "Community_name" : "Tallinn",
-  "Username" : "InternationalPin6177",
-  "Post_body" : "I have an extra ticket to the Opera -giving it away for free",
-  "Timestamp" : "2022-01-15 14:50:08",
-  "Num_comment" : 2,
+  "id" : 200040,
+  "community_name" : "Tallinn",
+  "username" : "InternationalPin6177",
+  "post_body" : "I have an extra ticket to the Opera -giving it away for free",
+  "timestamp" : "2022-01-15 14:50:08",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "r1243",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2022-01-15 14:50:08",
-    "Body" : "/r/eesti, this subreddit is inactive"
+    "body" : "/r/eesti, this subreddit is inactive",
+    "username" : "r1243",
+    "timestamp" : "2022-01-15 14:50:08"
   }, {
-    "Username" : "InternationalPin6177",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-15 14:57:31",
-    "Body" : "Thanks"
+    "body" : "Thanks",
+    "username" : "InternationalPin6177",
+    "timestamp" : "2022-01-15 14:57:31"
   } ]
 }

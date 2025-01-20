@@ -1,10 +1,10 @@
 {
-  "Id" : 200364,
-  "Community_name" : "Podgorica",
-  "Username" : "Used-Combination-130",
-  "Post_body" : "Pozar oblast budva",
-  "Timestamp" : "2024-04-15 20:24:44",
-  "Num_comment" : 0,
+  "id" : 200364,
+  "community_name" : "Podgorica",
+  "username" : "Used-Combination-130",
+  "post_body" : "Pozar oblast budva",
+  "timestamp" : "2024-01-10 21:03:09",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

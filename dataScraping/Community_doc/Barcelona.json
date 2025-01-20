@@ -1,15 +1,15 @@
 {
-  "Id" : 200461,
-  "City" : "Barcelona",
-  "Name" : "Barcelona",
-  "Created" : "2024-04-15 19:03:05",
-  "Post" : [ {
-    "User" : "un_redditor",
-    "Text" : "Got a question about Barcelona? Post in /r/AskBarcelona!",
-    "Timestamp" : "2024-04-15 20:03:05"
+  "id" : 200461,
+  "city" : "Barcelona",
+  "name" : "Barcelona",
+  "created" : "2024-01-10 19:43:11",
+  "post" : [ {
+    "text" : "Got a question about Barcelona? Post in /r/AskBarcelona!",
+    "user" : "un_redditor",
+    "timestamp" : "2024-01-10 20:43:11"
   }, {
-    "User" : "aniol",
-    "Text" : "Un policia desenfunda la seva pistola en el desnonament de Verdum",
-    "Timestamp" : "2024-12-20 10:37:50"
+    "text" : "Un policia desenfunda la seva pistola en el desnonament de Verdum",
+    "user" : "aniol",
+    "timestamp" : "2024-12-20 10:37:50"
   } ]
 }

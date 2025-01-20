@@ -1,10 +1,10 @@
 {
-  "Id" : 200209,
-  "Community_name" : "Sarajevo",
-  "Username" : "acidbahia",
-  "Post_body" : "Sarajevo today ",
-  "Timestamp" : "2024-04-15 20:10:41",
-  "Num_comment" : 0,
+  "id" : 200209,
+  "community_name" : "Sarajevo",
+  "username" : "acidbahia",
+  "post_body" : "Sarajevo today ",
+  "timestamp" : "2024-01-10 20:50:07",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

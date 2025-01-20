@@ -1,30 +1,30 @@
 {
-  "Id" : 200393,
-  "Community_name" : "Vilnius",
-  "Username" : "Individual_Ball9053",
-  "Post_body" : "Learning Lithuanian",
-  "Timestamp" : "2024-12-22 14:27:27",
-  "Num_comment" : 4,
+  "id" : 200393,
+  "community_name" : "Vilnius",
+  "username" : "Individual_Ball9053",
+  "post_body" : "Learning Lithuanian",
+  "timestamp" : "2024-12-22 14:27:27",
+  "num_comment" : 4,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "ApprehensiveTruck655",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 14:27:27",
-    "Body" : "I do not think Reddit is the place for that :) If you want my advise look for language exchange on FB, there plenty. Good luck"
+    "body" : "I do not think Reddit is the place for that :) If you want my advise look for language exchange on FB, there plenty. Good luck",
+    "username" : "ApprehensiveTruck655",
+    "timestamp" : "2024-12-22 14:27:27"
   }, {
-    "Username" : "BurnLifeLtu",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 03:52:25",
-    "Body" : "Let s go to a pub youll hear all lithuanian you possibly can"
+    "body" : "Let s go to a pub youll hear all lithuanian you possibly can",
+    "username" : "BurnLifeLtu",
+    "timestamp" : "2024-12-23 03:52:25"
   }, {
-    "Username" : "Beneficial-Mark-2248",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:13:12",
-    "Body" : "I would be interested in a tandem parter. ☺️ I’m a Lithuanian living in Paris and want to practice my French too. DM me if interested"
+    "body" : "I would be interested in a tandem parter. ☺️ I’m a Lithuanian living in Paris and want to practice my French too. DM me if interested",
+    "username" : "Beneficial-Mark-2248",
+    "timestamp" : "2024-12-22 15:13:12"
   }, {
-    "Username" : "Mindaugas88",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 14:35:10",
-    "Body" : "Google translate can help you with pronounciation - it works quite well for Lithuanian."
+    "body" : "Google translate can help you with pronounciation - it works quite well for Lithuanian.",
+    "username" : "Mindaugas88",
+    "timestamp" : "2024-12-22 14:35:10"
   } ]
 }

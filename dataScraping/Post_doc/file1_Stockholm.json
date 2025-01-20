@@ -1,55 +1,55 @@
 {
-  "Id" : 200034,
-  "Community_name" : "Stockholm",
-  "Username" : "Isthisanonymus",
-  "Post_body" : "Adopt me for Chirstmas",
-  "Timestamp" : "2024-12-23 00:45:05",
-  "Num_comment" : 9,
+  "id" : 200034,
+  "community_name" : "Stockholm",
+  "username" : "Isthisanonymus",
+  "post_body" : "Adopt me for Chirstmas",
+  "timestamp" : "2024-12-23 00:45:05",
+  "num_comment" : 9,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Tankarpavift",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:45:05",
-    "Body" : "Good luck bro! But I think the best idea is to have a nice slow Christmas eve by yourself and then try to get out to meet some people at international pubs at like the 25/26."
+    "body" : "Good luck bro! But I think the best idea is to have a nice slow Christmas eve by yourself and then try to get out to meet some people at international pubs at like the 25/26.",
+    "username" : "Tankarpavift",
+    "timestamp" : "2024-12-23 00:45:05"
   }, {
-    "Username" : "pettdan",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:48:46",
-    "Body" : "Also check with r/Stockholmsocialclub who may be up to something."
+    "body" : "Also check with r/Stockholmsocialclub who may be up to something.",
+    "username" : "pettdan",
+    "timestamp" : "2024-12-23 10:48:46"
   }, {
-    "Username" : "heatheraudrey",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:05:58",
-    "Body" : "What part of Stockholm are you staying in? Sorry about the lack of snow. If you take the train for the day just a little north to Uppsala, there might still be a little snow there. There was on Saturday at least. They have a nice river through town and huge church you can tour for free."
+    "body" : "What part of Stockholm are you staying in? Sorry about the lack of snow. If you take the train for the day just a little north to Uppsala, there might still be a little snow there. There was on Saturday at least. They have a nice river through town and huge church you can tour for free.",
+    "username" : "heatheraudrey",
+    "timestamp" : "2024-12-23 10:05:58"
   }, {
-    "Username" : "NeoGoober",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:32:28",
-    "Body" : "Christmas is family only in Sweden, even inviting friends is considered absurd.\nIf you happen to find someone who will invite a stranger to their Christmas celebration, they most likely have some ulterior motive (like recruiting you into a religious cult)."
+    "body" : "Christmas is family only in Sweden, even inviting friends is considered absurd.\nIf you happen to find someone who will invite a stranger to their Christmas celebration, they most likely have some ulterior motive (like recruiting you into a religious cult).",
+    "username" : "NeoGoober",
+    "timestamp" : "2024-12-23 01:32:28"
   }, {
-    "Username" : "Isthisanonymus",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:32:31",
-    "Body" : "Thanks - lines up with what I read online, might resort to that :)"
+    "body" : "Thanks - lines up with what I read online, might resort to that :)",
+    "username" : "Isthisanonymus",
+    "timestamp" : "2024-12-23 05:32:31"
   }, {
-    "Username" : "Isthisanonymus",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:24:31",
-    "Body" : "In Nacka - but that is a good tip, will keep that in mind! Thanks"
+    "body" : "In Nacka - but that is a good tip, will keep that in mind! Thanks",
+    "username" : "Isthisanonymus",
+    "timestamp" : "2024-12-23 12:24:31"
   }, {
-    "Username" : "spoonbendingmonkey",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 02:40:17",
-    "Body" : "This is definitely not how it is.\n\n\nBut as a complete stranger to be invited yeah that is rare.\nI suggest posting in local fb groups or perhaps check out Stadsmissionen, know that they have something going in every day"
+    "body" : "This is definitely not how it is.\n\n\nBut as a complete stranger to be invited yeah that is rare.\nI suggest posting in local fb groups or perhaps check out Stadsmissionen, know that they have something going in every day",
+    "username" : "spoonbendingmonkey",
+    "timestamp" : "2024-12-23 02:40:17"
   }, {
-    "Username" : "Dardrol7",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:18:44",
-    "Body" : "Nah, my family has always (until the last 2 years) taken in lonely people for the holidays. And none of us belongs to any churches or the likes."
+    "body" : "Nah, my family has always (until the last 2 years) taken in lonely people for the holidays. And none of us belongs to any churches or the likes.",
+    "username" : "Dardrol7",
+    "timestamp" : "2024-12-23 08:18:44"
   }, {
-    "Username" : "Isthisanonymus",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 05:33:49",
-    "Body" : "Thanks! I have seen some events here and there - might go there (lets see how far this here goes)"
+    "body" : "Thanks! I have seen some events here and there - might go there (lets see how far this here goes)",
+    "username" : "Isthisanonymus",
+    "timestamp" : "2024-12-23 05:33:49"
   } ]
 }

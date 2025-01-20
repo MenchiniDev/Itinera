@@ -1,15 +1,15 @@
 {
-  "Id" : 200309,
-  "Community_name" : "Oslo",
-  "Username" : "totorania",
-  "Post_body" : "Mangler du vinyl?",
-  "Timestamp" : "2024-12-23 14:23:19",
-  "Num_comment" : 1,
+  "id" : 200309,
+  "community_name" : "Oslo",
+  "username" : "totorania",
+  "post_body" : "Mangler du vinyl?",
+  "timestamp" : "2024-12-23 14:23:19",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "UsernameFor2016",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:23:19",
-    "Body" : "Har parkett"
+    "body" : "Har parkett",
+    "username" : "UsernameFor2016",
+    "timestamp" : "2024-12-23 14:23:19"
   } ]
 }

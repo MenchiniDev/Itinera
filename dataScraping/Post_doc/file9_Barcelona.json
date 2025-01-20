@@ -1,20 +1,20 @@
 {
-  "Id" : 200341,
-  "Community_name" : "Barcelona",
-  "Username" : "Excellent_Meet9410",
-  "Post_body" : "La Rambla Artista",
-  "Timestamp" : "2024-12-23 10:58:25",
-  "Num_comment" : 2,
+  "id" : 200341,
+  "community_name" : "Barcelona",
+  "username" : "Excellent_Meet9410",
+  "post_body" : "La Rambla Artista",
+  "timestamp" : "2024-12-23 10:58:25",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "dGonzo",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:58:25",
-    "Body" : "Don't go to that area at all these days but if I do for xmas will keep an eye out for a kiwi. Cheers"
+    "body" : "Don't go to that area at all these days but if I do for xmas will keep an eye out for a kiwi. Cheers",
+    "username" : "dGonzo",
+    "timestamp" : "2024-12-23 10:58:25"
   }, {
-    "Username" : "nychearts812",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:25:55",
-    "Body" : "![gif](giphy|6y6fyAD9OIE6NvhJEu)"
+    "body" : "![gif](giphy|6y6fyAD9OIE6NvhJEu)",
+    "username" : "nychearts812",
+    "timestamp" : "2024-12-23 11:25:55"
   } ]
 }

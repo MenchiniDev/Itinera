@@ -1,35 +1,35 @@
 {
-  "Id" : 200168,
-  "Community_name" : "Berlin",
-  "Username" : "sonderbarermensch",
-  "Post_body" : "Wo kann man in Berlin ehrenamtlich aushelfen?",
-  "Timestamp" : "2024-12-23 12:19:15",
-  "Num_comment" : 5,
+  "id" : 200168,
+  "community_name" : "Berlin",
+  "username" : "sonderbarermensch",
+  "post_body" : "Wo kann man in Berlin ehrenamtlich aushelfen?",
+  "timestamp" : "2024-12-23 12:19:15",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "benjaminbluemchen",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:19:15",
-    "Body" : "Die Tafel freut sich immer, vor allem über Leute die bereit sind zu fahren"
+    "body" : "Die Tafel freut sich immer, vor allem über Leute die bereit sind zu fahren",
+    "username" : "benjaminbluemchen",
+    "timestamp" : "2024-12-23 12:19:15"
   }, {
-    "Username" : "Icy_Restaurant1212",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:10:59",
-    "Body" : "Dieser Mensch hier macht das richtig.\nDanke!"
+    "body" : "Dieser Mensch hier macht das richtig.\nDanke!",
+    "username" : "Icy_Restaurant1212",
+    "timestamp" : "2024-12-23 13:10:59"
   }, {
-    "Username" : "Great-Heron1098",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:56:43",
-    "Body" : "Über Maltesar wird immer gesucht. Schön dass du es machen willst :)"
+    "body" : "Über Maltesar wird immer gesucht. Schön dass du es machen willst :)",
+    "username" : "Great-Heron1098",
+    "timestamp" : "2024-12-23 13:56:43"
   }, {
-    "Username" : "itmustbeluv_luv_luv",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:32:55",
-    "Body" : "Falls jemand was längerfristiges sucht, plug ich hier mal wieder [Schülerpaten Berlin!](https://schuelerpaten-berlin.de/) Uns gibt es übrigens u.A. auch in Hamburg, Dortmund, Frankfurt und München."
+    "body" : "Falls jemand was längerfristiges sucht, plug ich hier mal wieder [Schülerpaten Berlin!](https://schuelerpaten-berlin.de/) Uns gibt es übrigens u.A. auch in Hamburg, Dortmund, Frankfurt und München.",
+    "username" : "itmustbeluv_luv_luv",
+    "timestamp" : "2024-12-23 14:32:55"
   }, {
-    "Username" : "InjusticeMan_25",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:01:02",
-    "Body" : "Guck mal auf nebenan.de, ist ne App für Nachbarschaftshilfe. Die Leute dort freuen sich immer sehr über Hilfe"
+    "body" : "Guck mal auf nebenan.de, ist ne App für Nachbarschaftshilfe. Die Leute dort freuen sich immer sehr über Hilfe",
+    "username" : "InjusticeMan_25",
+    "timestamp" : "2024-12-23 15:01:02"
   } ]
 }

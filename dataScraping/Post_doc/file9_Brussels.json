@@ -1,10 +1,10 @@
 {
-  "Id" : 200378,
-  "Community_name" : "Brussels",
-  "Username" : "Active-Ad9649",
-  "Post_body" : "Another dead in the Brussels drug war",
-  "Timestamp" : "2024-04-15 20:25:48",
-  "Num_comment" : 0,
+  "id" : 200378,
+  "community_name" : "Brussels",
+  "username" : "Active-Ad9649",
+  "post_body" : "Another dead in the Brussels drug war",
+  "timestamp" : "2024-01-10 21:03:47",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

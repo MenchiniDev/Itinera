@@ -1,15 +1,15 @@
 {
-  "Id" : 200470,
-  "City" : "Stockholm",
-  "Name" : "Stockholm",
-  "Created" : "2024-12-22 10:06:34",
-  "Post" : [ {
-    "User" : "swedish_tcd",
-    "Text" : "Moderaternas krav: Tvångsförvalta problemskolor",
-    "Timestamp" : "2024-12-22 11:06:34"
+  "id" : 200470,
+  "city" : "Stockholm",
+  "name" : "Stockholm",
+  "created" : "2024-12-22 10:06:34",
+  "post" : [ {
+    "text" : "Moderaternas krav: Tvångsförvalta problemskolor",
+    "user" : "swedish_tcd",
+    "timestamp" : "2024-12-22 11:06:34"
   }, {
-    "User" : "jocke75",
-    "Text" : "Bild jag aldrig sett tidigare... SLUSSEN. Bilden är hittad av Christer Fjellman",
-    "Timestamp" : "2024-12-22 16:41:41"
+    "text" : "Bild jag aldrig sett tidigare... SLUSSEN. Bilden är hittad av Christer Fjellman",
+    "user" : "jocke75",
+    "timestamp" : "2024-12-22 16:41:41"
   } ]
 }

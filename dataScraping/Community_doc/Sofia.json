@@ -1,15 +1,15 @@
 {
-  "Id" : 200438,
-  "City" : "Sofia",
-  "Name" : "Sofia",
-  "Created" : "2024-12-20 14:03:09",
-  "Post" : [ {
-    "User" : "AlbatrossHummingbird",
-    "Text" : "Why are there always so many people? paying taxes? ",
-    "Timestamp" : "2024-12-20 15:03:09"
+  "id" : 200438,
+  "city" : "Sofia",
+  "name" : "Sofia",
+  "created" : "2024-12-20 14:03:09",
+  "post" : [ {
+    "text" : "Why are there always so many people? paying taxes? ",
+    "user" : "AlbatrossHummingbird",
+    "timestamp" : "2024-12-20 15:03:09"
   }, {
-    "User" : "GreenHero681",
-    "Text" : "Редовна липса на топла вода",
-    "Timestamp" : "2024-12-21 12:51:15"
+    "text" : "Редовна липса на топла вода",
+    "user" : "GreenHero681",
+    "timestamp" : "2024-12-21 12:51:15"
   } ]
 }

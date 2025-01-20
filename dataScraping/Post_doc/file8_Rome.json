@@ -1,45 +1,45 @@
 {
-  "Id" : 200328,
-  "Community_name" : "Rome",
-  "Username" : "thesadsalmonn",
-  "Post_body" : "Where is this located?",
-  "Timestamp" : "2024-12-23 09:26:04",
-  "Num_comment" : 7,
+  "id" : 200328,
+  "community_name" : "Rome",
+  "username" : "thesadsalmonn",
+  "post_body" : "Where is this located?",
+  "timestamp" : "2024-12-23 09:26:04",
+  "num_comment" : 7,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "kriszszszz",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:26:04",
-    "Body" : "it’s the Piazza del Campidoglio, you find the Capitoline Museums next to it"
+    "body" : "it’s the Piazza del Campidoglio, you find the Capitoline Museums next to it",
+    "username" : "kriszszszz",
+    "timestamp" : "2024-12-23 09:26:04"
   }, {
-    "Username" : "RomeVacationTips",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:28:05",
-    "Body" : "[Here](https://maps.app.goo.gl/GcDt8wrH8ebK7tRd6). Designed by Michelangelo. \n\n(I got married there.)"
+    "body" : "[Here](https://maps.app.goo.gl/GcDt8wrH8ebK7tRd6). Designed by Michelangelo. \n\n(I got married there.)",
+    "username" : "RomeVacationTips",
+    "timestamp" : "2024-12-23 09:28:05"
   }, {
-    "Username" : "giokey58",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:31:47",
-    "Body" : "https://maps.app.goo.gl/aAAksdoFSJmDv6Zn8"
+    "body" : "https://maps.app.goo.gl/aAAksdoFSJmDv6Zn8",
+    "username" : "giokey58",
+    "timestamp" : "2024-12-23 09:31:47"
   }, {
-    "Username" : "Gabriele0819",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:30:10",
-    "Body" : "In Rome 😃👍❤️❤️"
+    "body" : "In Rome 😃👍❤️❤️",
+    "username" : "Gabriele0819",
+    "timestamp" : "2024-12-23 13:30:10"
   }, {
-    "Username" : "Gabriele0819",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:30:47",
-    "Body" : "Well done Kriszszszz 👍"
+    "body" : "Well done Kriszszszz 👍",
+    "username" : "Gabriele0819",
+    "timestamp" : "2024-12-23 13:30:47"
   }, {
-    "Username" : "rHereLetsGo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:25:56",
-    "Body" : "Wow. That’s a pretty spectacular wedding venue. Curious what made you choose it. I (non Italian, American) also got married in Italy based solely on my first trip there and nothing more than a single visit before the big event."
+    "body" : "Wow. That’s a pretty spectacular wedding venue. Curious what made you choose it. I (non Italian, American) also got married in Italy based solely on my first trip there and nothing more than a single visit before the big event.",
+    "username" : "rHereLetsGo",
+    "timestamp" : "2024-12-23 10:25:56"
   }, {
-    "Username" : "MissYoshiBaggins",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:02:53",
-    "Body" : "it's pretty common to get married there if you are only doing a civil ceremony."
+    "body" : "it's pretty common to get married there if you are only doing a civil ceremony.",
+    "username" : "MissYoshiBaggins",
+    "timestamp" : "2024-12-23 12:02:53"
   } ]
 }

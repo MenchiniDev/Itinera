@@ -1,110 +1,110 @@
 {
-  "Id" : 200336,
-  "Community_name" : "Milano",
-  "Username" : "maddiahane",
-  "Post_body" : "aumento posti di blocco in giro per milano e hinterland?",
-  "Timestamp" : "2024-12-19 19:05:45",
-  "Num_comment" : 20,
+  "id" : 200336,
+  "community_name" : "Milano",
+  "username" : "maddiahane",
+  "post_body" : "aumento posti di blocco in giro per milano e hinterland?",
+  "timestamp" : "2024-12-19 19:05:45",
+  "num_comment" : 20,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Pepps88",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 19:25:57",
-    "Body" : "Non so se fosse un caso, ma ieri ho notato parecchie volanti in giro, più del normale. In giro in senso a controllare eh, ho visto che stavano facendo controlli fermando automobilisti, quindi ocio"
+    "body" : "Non so se fosse un caso, ma ieri ho notato parecchie volanti in giro, più del normale. In giro in senso a controllare eh, ho visto che stavano facendo controlli fermando automobilisti, quindi ocio",
+    "username" : "Pepps88",
+    "timestamp" : "2024-12-19 19:25:57"
   }, {
-    "Username" : "__deep__",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 22:36:27",
-    "Body" : "Sì, ho notato più polizia urbana in giro, ma stazionari a certi incroci. Impossibile dire cosa facciano"
+    "body" : "Sì, ho notato più polizia urbana in giro, ma stazionari a certi incroci. Impossibile dire cosa facciano",
+    "username" : "__deep__",
+    "timestamp" : "2024-12-19 22:36:27"
   }, {
-    "Username" : "mikkysixx",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 08:22:31",
-    "Body" : "Si anche io l'ho notato girando martedì. Something something pesca a strasco per giustificare il nuovo codice della strada. Tra un mese tutti di nuovo in caserma. [Sabato flexavano](https://tg24.sky.it/cronaca/2024/12/16/codice-strada-violazioni) 19000 pattuglie per fare 5000 verbali (!) e trovare 14 (!!!) persone positive al test droga."
+    "body" : "Si anche io l'ho notato girando martedì. Something something pesca a strasco per giustificare il nuovo codice della strada. Tra un mese tutti di nuovo in caserma. [Sabato flexavano](https://tg24.sky.it/cronaca/2024/12/16/codice-strada-violazioni) 19000 pattuglie per fare 5000 verbali (!) e trovare 14 (!!!) persone positive al test droga.",
+    "username" : "mikkysixx",
+    "timestamp" : "2024-12-20 08:22:31"
   }, {
-    "Username" : "Bubablu1",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 19:05:45",
-    "Body" : "Zero."
+    "body" : "Zero.",
+    "username" : "Bubablu1",
+    "timestamp" : "2024-12-19 19:05:45"
   }, {
-    "Username" : "mangiapizzaa",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 21:22:15",
-    "Body" : "Io si esattamente dal giorno di inizio."
+    "body" : "Io si esattamente dal giorno di inizio.",
+    "username" : "mangiapizzaa",
+    "timestamp" : "2024-12-19 21:22:15"
   }, {
-    "Username" : "SpecialistTrash233",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 09:55:06",
-    "Body" : "Di giorno non ci sono quasi mai ( tranne che nel caso di manifestazioni) . Di notte fossi in te eviterei guidare. "
+    "body" : "Di giorno non ci sono quasi mai ( tranne che nel caso di manifestazioni) . Di notte fossi in te eviterei guidare. ",
+    "username" : "SpecialistTrash233",
+    "timestamp" : "2024-12-20 09:55:06"
   }, {
-    "Username" : "Ipatovo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 14:33:38",
-    "Body" : "Di giorno stai tranquillo, la sera ti direi anche perché i test (tranne quelli dei carabinieri) non sono così precisi da rilevare quantità minime di fumo passivo. Se proprio vuoi stare tranquillo inventati una scusa la sera e fai guidare qualcun altro"
+    "body" : "Di giorno stai tranquillo, la sera ti direi anche perché i test (tranne quelli dei carabinieri) non sono così precisi da rilevare quantità minime di fumo passivo. Se proprio vuoi stare tranquillo inventati una scusa la sera e fai guidare qualcun altro",
+    "username" : "Ipatovo",
+    "timestamp" : "2024-12-20 14:33:38"
   }, {
-    "Username" : "dodgeunhappiness",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 08:52:15",
-    "Body" : "Dicembre è il mese più violento dell'anno, soprattutto la vigilia di capodanno dove tra alcol ed adulteri ci scappa sempre la scazzottata."
+    "body" : "Dicembre è il mese più violento dell'anno, soprattutto la vigilia di capodanno dove tra alcol ed adulteri ci scappa sempre la scazzottata.",
+    "username" : "dodgeunhappiness",
+    "timestamp" : "2024-12-20 08:52:15"
   }, {
-    "Username" : "ObviousResource5702",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 10:56:24",
-    "Body" : "Di giorno non si nota differenza, non c'è un aumento dei controlli, la sera non saprei dirtelo perchè evito di andarci per non correre rischi di nessun tipo."
+    "body" : "Di giorno non si nota differenza, non c'è un aumento dei controlli, la sera non saprei dirtelo perchè evito di andarci per non correre rischi di nessun tipo.",
+    "username" : "ObviousResource5702",
+    "timestamp" : "2024-12-20 10:56:24"
   }, {
-    "Username" : "guidocarosella",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 13:22:49",
-    "Body" : "Si, succede ogni volta che cambia il codice della strada, niente di nuovo..."
+    "body" : "Si, succede ogni volta che cambia il codice della strada, niente di nuovo...",
+    "username" : "guidocarosella",
+    "timestamp" : "2024-12-20 13:22:49"
   }, {
-    "Username" : "Justalbypt",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 22:53:12",
-    "Body" : "con il nuovo codice della strada, si stanno divertendo 👀"
+    "body" : "con il nuovo codice della strada, si stanno divertendo 👀",
+    "username" : "Justalbypt",
+    "timestamp" : "2024-12-21 22:53:12"
   }, {
-    "Username" : "interstellartopmovie",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 20:55:15",
-    "Body" : "Ti prendi uber e ciao"
+    "body" : "Ti prendi uber e ciao",
+    "username" : "interstellartopmovie",
+    "timestamp" : "2024-12-19 20:55:15"
   }, {
-    "Username" : "lukkemela",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 19:42:38",
-    "Body" : "Meno male. La certezza della pena è ciò che serviva, non questo inasprimento delle pene populista e inutile"
+    "body" : "Meno male. La certezza della pena è ciò che serviva, non questo inasprimento delle pene populista e inutile",
+    "username" : "lukkemela",
+    "timestamp" : "2024-12-19 19:42:38"
   }, {
-    "Username" : "nozni",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 21:21:10",
-    "Body" : "Sì perché in Italia grazie ai cialtroni al governo i prezzi degli ncc sono accessibili a tutti"
+    "body" : "Sì perché in Italia grazie ai cialtroni al governo i prezzi degli ncc sono accessibili a tutti",
+    "username" : "nozni",
+    "timestamp" : "2024-12-19 21:21:10"
   }, {
-    "Username" : "RammRras",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 23:28:11",
-    "Body" : "Bisogna spezzare le gambe a tutti questi criminali. Invece di fare indagini serie e impegnate non ne abbiamo voglia."
+    "body" : "Bisogna spezzare le gambe a tutti questi criminali. Invece di fare indagini serie e impegnate non ne abbiamo voglia.",
+    "username" : "RammRras",
+    "timestamp" : "2024-12-19 23:28:11"
   }, {
-    "Username" : "interstellartopmovie",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 23:00:35",
-    "Body" : "esattamente, a Milano costa praticamente uguale al taxi, non molto di più - probabilmente non l’hai mai provato"
+    "body" : "esattamente, a Milano costa praticamente uguale al taxi, non molto di più - probabilmente non l’hai mai provato",
+    "username" : "interstellartopmovie",
+    "timestamp" : "2024-12-19 23:00:35"
   }, {
-    "Username" : "nozni",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 23:01:20",
-    "Body" : "Ti sfugge che sono proprio i prezzi il problema"
+    "body" : "Ti sfugge che sono proprio i prezzi il problema",
+    "username" : "nozni",
+    "timestamp" : "2024-12-19 23:01:20"
   }, {
-    "Username" : "interstellartopmovie",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 23:02:30",
-    "Body" : "Prezzi di mercato, tratta media 20/30 euro - anzi, a Roma e Napoli ho speso pure di più e in Europa costa certamente di più"
+    "body" : "Prezzi di mercato, tratta media 20/30 euro - anzi, a Roma e Napoli ho speso pure di più e in Europa costa certamente di più",
+    "username" : "interstellartopmovie",
+    "timestamp" : "2024-12-19 23:02:30"
   }, {
-    "Username" : "nozni",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 23:04:09",
-    "Body" : "In Europa costa di più? La concorrenza schiaccia i prezzi verso il basso, bolt, Uber pop, lyft tutto illegale in Italia"
+    "body" : "In Europa costa di più? La concorrenza schiaccia i prezzi verso il basso, bolt, Uber pop, lyft tutto illegale in Italia",
+    "username" : "nozni",
+    "timestamp" : "2024-12-19 23:04:09"
   }, {
-    "Username" : "interstellartopmovie",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 23:26:28",
-    "Body" : "Ovviamente parliamo degli stessi servizi, ovvero di Uber Black.  Mentre i classici taxi costano uguale se non di più in Europa"
+    "body" : "Ovviamente parliamo degli stessi servizi, ovvero di Uber Black.  Mentre i classici taxi costano uguale se non di più in Europa",
+    "username" : "interstellartopmovie",
+    "timestamp" : "2024-12-19 23:26:28"
   } ]
 }

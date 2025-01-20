@@ -1,40 +1,40 @@
 {
-  "Id" : 200412,
-  "Community_name" : "Sofia",
-  "Username" : "alabs2001",
-  "Post_body" : "Skiing in Sofia",
-  "Timestamp" : "2024-12-22 11:15:26",
-  "Num_comment" : 6,
+  "id" : 200412,
+  "community_name" : "Sofia",
+  "username" : "alabs2001",
+  "post_body" : "Skiing in Sofia",
+  "timestamp" : "2024-12-22 11:15:26",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "dwartbg9",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 11:15:26",
-    "Body" : "You can go skiing without leaving the city  - Vitosha has ski tracks.   It's just a 20 minute drive to the pistes.    Of course you can rent a car with non-EU licence.   Or you can just take bus 66 and to with the public transport, the main ski track is located at \"Aleko Hut\".\nYou can take bus 66 from Paradise Mall.   You can rent equipment directly from the tracks.   Don't know about prices though.     \nUntil last year you could even just take the cabin lift directly from the city and go there, but sadly that's been closed for now. \nSofia almost became the winter olympics host back in 1992 because of that reason, the mountain is part of the city proper and there are ski pistes and all of that.\nYou can also just take a taxi to get there, this is another option.  \nThere's also Spark - an app that has electric vehicles that are found all around the city, you unlock one through the app and pay for the duration that ylu want.  You can also rent it for 24 hours or longer.   Similar to how the electric scooters work.    The thing is I'm not sure if they accept non-EU licences but you can try to see if you can register with the app."
+    "body" : "You can go skiing without leaving the city  - Vitosha has ski tracks.   It's just a 20 minute drive to the pistes.    Of course you can rent a car with non-EU licence.   Or you can just take bus 66 and to with the public transport, the main ski track is located at \"Aleko Hut\".\nYou can take bus 66 from Paradise Mall.   You can rent equipment directly from the tracks.   Don't know about prices though.     \nUntil last year you could even just take the cabin lift directly from the city and go there, but sadly that's been closed for now. \nSofia almost became the winter olympics host back in 1992 because of that reason, the mountain is part of the city proper and there are ski pistes and all of that.\nYou can also just take a taxi to get there, this is another option.  \nThere's also Spark - an app that has electric vehicles that are found all around the city, you unlock one through the app and pay for the duration that ylu want.  You can also rent it for 24 hours or longer.   Similar to how the electric scooters work.    The thing is I'm not sure if they accept non-EU licences but you can try to see if you can register with the app.",
+    "username" : "dwartbg9",
+    "timestamp" : "2024-12-22 11:15:26"
   }, {
-    "Username" : "exasolar",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:10:07",
-    "Body" : "You may need an international driving license. You should check with the car rental company. For example, here are terms of one of the popular companies:\n\n[https://toprentacar.bg/en/terms-and-conditions](https://toprentacar.bg/en/terms-and-conditions)"
+    "body" : "You may need an international driving license. You should check with the car rental company. For example, here are terms of one of the popular companies:\n\n[https://toprentacar.bg/en/terms-and-conditions](https://toprentacar.bg/en/terms-and-conditions)",
+    "username" : "exasolar",
+    "timestamp" : "2024-12-22 23:10:07"
   }, {
-    "Username" : "Primary-Tap4496",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:25:45",
-    "Body" : "Rent a car from Toprentacar and go to Seven Rila Lakes. (70 km from Sofia)\nThere is wonderful conditions for skiing and there are not many people."
+    "body" : "Rent a car from Toprentacar and go to Seven Rila Lakes. (70 km from Sofia)\nThere is wonderful conditions for skiing and there are not many people.",
+    "username" : "Primary-Tap4496",
+    "timestamp" : "2024-12-23 10:25:45"
   }, {
-    "Username" : "Reasonable-Total7327",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:29:24",
-    "Body" : "As of now, Vitosha has one open track, which is rather short and the lift is slow. Especially during the weekends - it’s not worthy. If you want a “proper” resort - go to Borovets. Rilski Ezera is another option if you are more advanced."
+    "body" : "As of now, Vitosha has one open track, which is rather short and the lift is slow. Especially during the weekends - it’s not worthy. If you want a “proper” resort - go to Borovets. Rilski Ezera is another option if you are more advanced.",
+    "username" : "Reasonable-Total7327",
+    "timestamp" : "2024-12-22 20:29:24"
   }, {
-    "Username" : "alabs2001",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:22:06",
-    "Body" : "Thank you"
+    "body" : "Thank you",
+    "username" : "alabs2001",
+    "timestamp" : "2024-12-22 12:22:06"
   }, {
-    "Username" : "CautiousRice",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:46:15",
-    "Body" : "Bus 66 stops working at 5pm and the slope is illuminated and works after that, don't get stranded there.\n\nMaybe go to Borovetz, that would be a better experience."
+    "body" : "Bus 66 stops working at 5pm and the slope is illuminated and works after that, don't get stranded there.\n\nMaybe go to Borovetz, that would be a better experience.",
+    "username" : "CautiousRice",
+    "timestamp" : "2024-12-22 15:46:15"
   } ]
 }

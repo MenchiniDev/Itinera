@@ -1,65 +1,65 @@
 {
-  "Id" : 200108,
-  "Community_name" : "Amsterdam",
-  "Username" : "HetGewildeWesten",
-  "Post_body" : "Zeeburgerdijk",
-  "Timestamp" : "2024-12-23 09:27:41",
-  "Num_comment" : 11,
+  "id" : 200108,
+  "community_name" : "Amsterdam",
+  "username" : "HetGewildeWesten",
+  "post_body" : "Zeeburgerdijk",
+  "timestamp" : "2024-12-23 09:27:41",
+  "num_comment" : 11,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "DistractedByCookies",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:32:59",
-    "Body" : "Die zie ik altijd als ik thuiskom van werk met de trein. Weet iemand van wie het is? Vind het een leuke stijl."
+    "body" : "Die zie ik altijd als ik thuiskom van werk met de trein. Weet iemand van wie het is? Vind het een leuke stijl.",
+    "username" : "DistractedByCookies",
+    "timestamp" : "2024-12-23 09:32:59"
   }, {
-    "Username" : "HetGewildeWesten",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:27:41",
-    "Body" : "[Zeeburgerdijk](https://maps.app.goo.gl/9LSFFJE3NMmY9c6h6)"
+    "body" : "[Zeeburgerdijk](https://maps.app.goo.gl/9LSFFJE3NMmY9c6h6)",
+    "username" : "HetGewildeWesten",
+    "timestamp" : "2024-12-23 09:27:41"
   }, {
-    "Username" : "Jose_Zueco",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:36:18",
-    "Body" : "Die blijft toch geweldig..."
+    "body" : "Die blijft toch geweldig...",
+    "username" : "Jose_Zueco",
+    "timestamp" : "2024-12-23 09:36:18"
   }, {
-    "Username" : "wurMyKeyz",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:59:29",
-    "Body" : "Ja, die is leuk."
+    "body" : "Ja, die is leuk.",
+    "username" : "wurMyKeyz",
+    "timestamp" : "2024-12-23 10:59:29"
   }, {
-    "Username" : "IndelibleEdible",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:11:05",
-    "Body" : "My favorite mural in the city!"
+    "body" : "My favorite mural in the city!",
+    "username" : "IndelibleEdible",
+    "timestamp" : "2024-12-23 11:11:05"
   }, {
-    "Username" : "exq1mc",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:39:23",
-    "Body" : "Wide homie ! extra wide !"
+    "body" : "Wide homie ! extra wide !",
+    "username" : "exq1mc",
+    "timestamp" : "2024-12-23 10:39:23"
   }, {
-    "Username" : "MENEERDEGREEF",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:01:15",
-    "Body" : "London Police zijn koningen. ♥️❌❌❌"
+    "body" : "London Police zijn koningen. ♥️❌❌❌",
+    "username" : "MENEERDEGREEF",
+    "timestamp" : "2024-12-23 11:01:15"
   }, {
-    "Username" : "R0b0yt0",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:22:25",
-    "Body" : "If you haven't been to Straat to see other work from London Police, and other mind-blowing street art...highly recommend!"
+    "body" : "If you haven't been to Straat to see other work from London Police, and other mind-blowing street art...highly recommend!",
+    "username" : "R0b0yt0",
+    "timestamp" : "2024-12-23 13:22:25"
   }, {
-    "Username" : "Das_ja",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:35:55",
-    "Body" : "The London Police"
+    "body" : "The London Police",
+    "username" : "Das_ja",
+    "timestamp" : "2024-12-23 09:35:55"
   }, {
-    "Username" : "thasush",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:37:01",
-    "Body" : "Van \"the London police\" https://www.thelondonpolice.com"
+    "body" : "Van \"the London police\" https://www.thelondonpolice.com",
+    "username" : "thasush",
+    "timestamp" : "2024-12-23 09:37:01"
   }, {
-    "Username" : "DistractedByCookies",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:00:48",
-    "Body" : "Thanks...oooo, zelfs een winkel in Amsterdam. Daar ga ik eens snuffelen."
+    "body" : "Thanks...oooo, zelfs een winkel in Amsterdam. Daar ga ik eens snuffelen.",
+    "username" : "DistractedByCookies",
+    "timestamp" : "2024-12-23 10:00:48"
   } ]
 }

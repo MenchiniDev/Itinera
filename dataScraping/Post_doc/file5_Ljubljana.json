@@ -1,75 +1,75 @@
 {
-  "Id" : 200250,
-  "Community_name" : "Ljubljana",
-  "Username" : "keops112",
-  "Post_body" : "Dobro meso",
-  "Timestamp" : "2024-12-22 18:29:04",
-  "Num_comment" : 13,
+  "id" : 200250,
+  "community_name" : "Ljubljana",
+  "username" : "keops112",
+  "post_body" : "Dobro meso",
+  "timestamp" : "2024-12-22 18:29:04",
+  "num_comment" : 13,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "TheDragon991",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:58:04",
-    "Body" : "Argentino"
+    "body" : "Argentino",
+    "username" : "TheDragon991",
+    "timestamp" : "2024-12-22 19:58:04"
   }, {
-    "Username" : "TheStol",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:54:13",
-    "Body" : "coolhouse?"
+    "body" : "coolhouse?",
+    "username" : "TheStol",
+    "timestamp" : "2024-12-22 19:54:13"
   }, {
-    "Username" : "BrotherKaramazov",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:41:09",
-    "Body" : "Krušič, Striček"
+    "body" : "Krušič, Striček",
+    "username" : "BrotherKaramazov",
+    "timestamp" : "2024-12-22 23:41:09"
   }, {
-    "Username" : "bublca",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:32:24",
-    "Body" : "Špajza ali pa gostilna Pečnikar (super piščanc)"
+    "body" : "Špajza ali pa gostilna Pečnikar (super piščanc)",
+    "username" : "bublca",
+    "timestamp" : "2024-12-23 00:32:24"
   }, {
-    "Username" : "mfWeeWee",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:29:04",
-    "Body" : "A je kdo realno bil ze v meatpointu? Mene ful mika. Nikol me ne zanese pot tja. Kako to da so ocene tok slabe?"
+    "body" : "A je kdo realno bil ze v meatpointu? Mene ful mika. Nikol me ne zanese pot tja. Kako to da so ocene tok slabe?",
+    "username" : "mfWeeWee",
+    "timestamp" : "2024-12-22 18:29:04"
   }, {
-    "Username" : "AdLast3306",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:48:34",
-    "Body" : "Sorbara steak house, skaručna gostilna...."
+    "body" : "Sorbara steak house, skaručna gostilna....",
+    "username" : "AdLast3306",
+    "timestamp" : "2024-12-22 18:48:34"
   }, {
-    "Username" : "Extreme-Tradition503",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:56:12",
-    "Body" : "Čad"
+    "body" : "Čad",
+    "username" : "Extreme-Tradition503",
+    "timestamp" : "2024-12-22 20:56:12"
   }, {
-    "Username" : "keops112",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:19:44",
-    "Body" : "To!  Hvala. Jaoo, nisem se spomnil na Argentino."
+    "body" : "To!  Hvala. Jaoo, nisem se spomnil na Argentino.",
+    "username" : "keops112",
+    "timestamp" : "2024-12-22 20:19:44"
   }, {
-    "Username" : "keops112",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:58:37",
-    "Body" : "Coolhouse je le še bleda senca tistega, kar so bili."
+    "body" : "Coolhouse je le še bleda senca tistega, kar so bili.",
+    "username" : "keops112",
+    "timestamp" : "2024-12-22 19:58:37"
   }, {
-    "Username" : "Uporabik",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:48:58",
-    "Body" : "Jaz sem bil zadnjič in se mi je zdelo kar solidno. Jedel sem pa goveja lička"
+    "body" : "Jaz sem bil zadnjič in se mi je zdelo kar solidno. Jedel sem pa goveja lička",
+    "username" : "Uporabik",
+    "timestamp" : "2024-12-22 21:48:58"
   }, {
-    "Username" : "AnduinTheHealer",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 20:21:34",
-    "Body" : "Tourist trap. Ni misljeno za domacine"
+    "body" : "Tourist trap. Ni misljeno za domacine",
+    "username" : "AnduinTheHealer",
+    "timestamp" : "2024-12-22 20:21:34"
   }, {
-    "Username" : "keops112",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:00:38",
-    "Body" : "Skaručna je odličen predlog,  ampak tako kot Orle, žal jutri zaprto."
+    "body" : "Skaručna je odličen predlog,  ampak tako kot Orle, žal jutri zaprto.",
+    "username" : "keops112",
+    "timestamp" : "2024-12-22 19:00:38"
   }, {
-    "Username" : "potocnik512",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:48:52",
-    "Body" : "Od kdaj pa to? Je res da že nek časa (beri pol leta-leto) nisem bil tam, ampak je blo vedno super."
+    "body" : "Od kdaj pa to? Je res da že nek časa (beri pol leta-leto) nisem bil tam, ampak je blo vedno super.",
+    "username" : "potocnik512",
+    "timestamp" : "2024-12-23 14:48:52"
   } ]
 }

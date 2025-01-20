@@ -1,15 +1,15 @@
 {
-  "Id" : 200136,
-  "Community_name" : "Seville",
-  "Username" : "9kSs",
-  "Post_body" : "Is it safe to park a rental car on the street on Isla de la Cartuja",
-  "Timestamp" : "2024-12-22 18:59:50",
-  "Num_comment" : 1,
+  "id" : 200136,
+  "community_name" : "Seville",
+  "username" : "9kSs",
+  "post_body" : "Is it safe to park a rental car on the street on Isla de la Cartuja",
+  "timestamp" : "2024-12-22 18:59:50",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "elcarritoblanco",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:59:50",
-    "Body" : "No problema at all. It is a good place to park near old town."
+    "body" : "No problema at all. It is a good place to park near old town.",
+    "username" : "elcarritoblanco",
+    "timestamp" : "2024-12-22 18:59:50"
   } ]
 }

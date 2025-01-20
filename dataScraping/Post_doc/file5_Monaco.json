@@ -1,25 +1,25 @@
 {
-  "Id" : 200227,
-  "Community_name" : "Monaco",
-  "Username" : "Salty-Cartoonist-155",
-  "Post_body" : "Titre restaurant ",
-  "Timestamp" : "2024-12-19 21:03:21",
-  "Num_comment" : 3,
+  "id" : 200227,
+  "community_name" : "Monaco",
+  "username" : "Salty-Cartoonist-155",
+  "post_body" : "Titre restaurant ",
+  "timestamp" : "2024-12-19 21:03:21",
+  "num_comment" : 3,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "vilo236",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 21:03:21",
-    "Body" : "Oui ;) les tickets restaurants papiers comme la carte edenred !"
+    "body" : "Oui ;) les tickets restaurants papiers comme la carte edenred !",
+    "username" : "vilo236",
+    "timestamp" : "2024-12-19 21:03:21"
   }, {
-    "Username" : "StoreWeak5292",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 22:33:03",
-    "Body" : "Ça marche dans l’autre sens aussi? Les tickets restaurant FR pour payer à Monaco? Pour payer ma baguette de pain ? 🥖"
+    "body" : "Ça marche dans l’autre sens aussi? Les tickets restaurant FR pour payer à Monaco? Pour payer ma baguette de pain ? 🥖",
+    "username" : "StoreWeak5292",
+    "timestamp" : "2024-12-19 22:33:03"
   }, {
-    "Username" : "vilo236",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 06:13:25",
-    "Body" : "C'est étrangement spécifique mais oui aussi !"
+    "body" : "C'est étrangement spécifique mais oui aussi !",
+    "username" : "vilo236",
+    "timestamp" : "2024-12-20 06:13:25"
   } ]
 }

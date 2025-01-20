@@ -1,105 +1,105 @@
 {
-  "Id" : 200263,
-  "Community_name" : "Brussels",
-  "Username" : "operatingcyst",
-  "Post_body" : "\"helicopter\" hovering over one spot of anderlecht for the past 15 minutes",
-  "Timestamp" : "2024-12-22 21:33:55",
-  "Num_comment" : 19,
+  "id" : 200263,
+  "community_name" : "Brussels",
+  "username" : "operatingcyst",
+  "post_body" : "\"helicopter\" hovering over one spot of anderlecht for the past 15 minutes",
+  "timestamp" : "2024-12-22 21:33:55",
+  "num_comment" : 19,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "NatNC",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:33:55",
-    "Body" : "Also wondering what's up. My son thinks it's Santa."
+    "body" : "Also wondering what's up. My son thinks it's Santa.",
+    "username" : "NatNC",
+    "timestamp" : "2024-12-22 21:33:55"
   }, {
-    "Username" : "MiniHopper",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:36:21",
-    "Body" : "Schietpartij in Anderlecht: 1 dode, gewapende verdachte op de vlucht\nhttps://www.vrt.be/vrtnws/nl/2024/12/22/schietpartij-in-anderlecht-2-gewonden-gewapende-verdachte-op-d/"
+    "body" : "Schietpartij in Anderlecht: 1 dode, gewapende verdachte op de vlucht\nhttps://www.vrt.be/vrtnws/nl/2024/12/22/schietpartij-in-anderlecht-2-gewonden-gewapende-verdachte-op-d/",
+    "username" : "MiniHopper",
+    "timestamp" : "2024-12-22 22:36:21"
   }, {
-    "Username" : "Angevil_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:42:23",
-    "Body" : "There has been heavy police deployment at Aumale.  \nThe helicopter has been hovering the same area since a few minutes after the police arrived, so probably related, but I do not know what happened at Aumale per se."
+    "body" : "There has been heavy police deployment at Aumale.  \nThe helicopter has been hovering the same area since a few minutes after the police arrived, so probably related, but I do not know what happened at Aumale per se.",
+    "username" : "Angevil_",
+    "timestamp" : "2024-12-22 21:42:23"
   }, {
-    "Username" : "Accurate-Mechanic151",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:09:53",
-    "Body" : "I have also seen it! Seems to be gone now"
+    "body" : "I have also seen it! Seems to be gone now",
+    "username" : "Accurate-Mechanic151",
+    "timestamp" : "2024-12-22 22:09:53"
   }, {
-    "Username" : "Thecatstoppedateboli",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:34:56",
-    "Body" : "you live behind the old atlas brewery?"
+    "body" : "you live behind the old atlas brewery?",
+    "username" : "Thecatstoppedateboli",
+    "timestamp" : "2024-12-22 21:34:56"
   }, {
-    "Username" : "Top-Sky-9422",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:08:45",
-    "Body" : "I heard it too. Was wondering what it was."
+    "body" : "I heard it too. Was wondering what it was.",
+    "username" : "Top-Sky-9422",
+    "timestamp" : "2024-12-22 23:08:45"
   }, {
-    "Username" : "VECMaico",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:34:39",
-    "Body" : "Like you guys never seen a drone in-flight before??"
+    "body" : "Like you guys never seen a drone in-flight before??",
+    "username" : "VECMaico",
+    "timestamp" : "2024-12-22 21:34:39"
   }, {
-    "Username" : "Latter_Nectarine_671",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:24:23",
-    "Body" : "Santa ?"
+    "body" : "Santa ?",
+    "username" : "Latter_Nectarine_671",
+    "timestamp" : "2024-12-22 23:24:23"
   }, {
-    "Username" : "SharkyTendencies",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:37:46",
-    "Body" : "Sushi thief capture efforts have been ramped up!"
+    "body" : "Sushi thief capture efforts have been ramped up!",
+    "username" : "SharkyTendencies",
+    "timestamp" : "2024-12-22 23:37:46"
   }, {
-    "Username" : "SmolTovarishch",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:37:48",
-    "Body" : "It makes helicopter sounds... What is it? \n\nA helicopter! \n\nThose aliens/secret UFO's thoughts spread like a disease. People don't think or something?"
+    "body" : "It makes helicopter sounds... What is it? \n\nA helicopter! \n\nThose aliens/secret UFO's thoughts spread like a disease. People don't think or something?",
+    "username" : "SmolTovarishch",
+    "timestamp" : "2024-12-22 21:37:48"
   }, {
-    "Username" : "Cobbdouglas55",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:59:38",
-    "Body" : "It's bugged"
+    "body" : "It's bugged",
+    "username" : "Cobbdouglas55",
+    "timestamp" : "2024-12-22 22:59:38"
   }, {
-    "Username" : "operatingcyst",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:39:57",
-    "Body" : "thank you"
+    "body" : "thank you",
+    "username" : "operatingcyst",
+    "timestamp" : "2024-12-22 22:39:57"
   }, {
-    "Username" : "operatingcyst",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:45:58",
-    "Body" : "thank you for the information 🙌"
+    "body" : "thank you for the information 🙌",
+    "username" : "operatingcyst",
+    "timestamp" : "2024-12-22 21:45:58"
   }, {
-    "Username" : "Curious_Spite_5729",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:51:23",
-    "Body" : "I came here for a drone comment ahahah thx"
+    "body" : "I came here for a drone comment ahahah thx",
+    "username" : "Curious_Spite_5729",
+    "timestamp" : "2024-12-23 13:51:23"
   }, {
-    "Username" : "operatingcyst",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:44:41",
-    "Body" : "theres always a slimy little redditor like yours in the comments of posts like this either answer with a neutral tone or dont answer at all, when did i mention ufo in my post? as long as the post doesn't violate any rules and isnt spam you just look like u got a stick up yours"
+    "body" : "theres always a slimy little redditor like yours in the comments of posts like this either answer with a neutral tone or dont answer at all, when did i mention ufo in my post? as long as the post doesn't violate any rules and isnt spam you just look like u got a stick up yours",
+    "username" : "operatingcyst",
+    "timestamp" : "2024-12-22 21:44:41"
   }, {
-    "Username" : "uninspiredpotential",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:10:18",
-    "Body" : "Honestly, your use of \" \" made me also think you were doubting this to be a helicopter."
+    "body" : "Honestly, your use of \" \" made me also think you were doubting this to be a helicopter.",
+    "username" : "uninspiredpotential",
+    "timestamp" : "2024-12-23 10:10:18"
   }, {
-    "Username" : "Shabz_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 06:36:15",
-    "Body" : "comon be honest you were hinting this might be a drone"
+    "body" : "comon be honest you were hinting this might be a drone",
+    "username" : "Shabz_",
+    "timestamp" : "2024-12-23 06:36:15"
   }, {
-    "Username" : "SmolTovarishch",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:49:20",
-    "Body" : "My apologies then, I've just seen so much people questioning the sky for a minute. It looked like this was just one of them.\n\nTo answer your question: most likely a police helicopter, this happened a while back in October where a helicopter was also hoovering over the muntplein."
+    "body" : "My apologies then, I've just seen so much people questioning the sky for a minute. It looked like this was just one of them.\n\nTo answer your question: most likely a police helicopter, this happened a while back in October where a helicopter was also hoovering over the muntplein.",
+    "username" : "SmolTovarishch",
+    "timestamp" : "2024-12-22 21:49:20"
   }, {
-    "Username" : "hoovegong",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:03:56",
-    "Body" : "\"helicopter\". \"retarded\"."
+    "body" : "\"helicopter\". \"retarded\".",
+    "username" : "hoovegong",
+    "timestamp" : "2024-12-22 22:03:56"
   } ]
 }

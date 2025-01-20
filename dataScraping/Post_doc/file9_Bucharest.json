@@ -1,15 +1,15 @@
 {
-  "Id" : 200405,
-  "Community_name" : "Bucharest",
-  "Username" : "huffmac",
-  "Post_body" : "My Dog's Original Owner",
-  "Timestamp" : "2024-05-14 08:47:34",
-  "Num_comment" : 1,
+  "id" : 200405,
+  "community_name" : "Bucharest",
+  "username" : "huffmac",
+  "post_body" : "My Dog's Original Owner",
+  "timestamp" : "2024-05-14 08:47:34",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "pantsnsocks",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-05-14 08:47:34",
-    "Body" : "Looks like it s a block of flats with 50+ units.  You can go to the address and ask around. Many ppl speak english"
+    "body" : "Looks like it s a block of flats with 50+ units.  You can go to the address and ask around. Many ppl speak english",
+    "username" : "pantsnsocks",
+    "timestamp" : "2024-05-14 08:47:34"
   } ]
 }

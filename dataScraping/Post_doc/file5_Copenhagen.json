@@ -1,30 +1,30 @@
 {
-  "Id" : 200261,
-  "Community_name" : "Copenhagen",
-  "Username" : "gaargoyle",
-  "Post_body" : "Fedtkager i København?",
-  "Timestamp" : "2024-12-23 08:02:33",
-  "Num_comment" : 4,
+  "id" : 200261,
+  "community_name" : "Copenhagen",
+  "username" : "gaargoyle",
+  "post_body" : "Fedtkager i København?",
+  "timestamp" : "2024-12-23 08:02:33",
+  "num_comment" : 4,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Acidolph",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:02:33",
-    "Body" : "Jeg tabte hårdt til brunsvigeren og chips på tallerkenen til jul. \nJeg vil også tage kampen op mod endnu en jysk eller fynsk importvare, men taber nok igen. \n2025 bliver fedtkagens år."
+    "body" : "Jeg tabte hårdt til brunsvigeren og chips på tallerkenen til jul. \nJeg vil også tage kampen op mod endnu en jysk eller fynsk importvare, men taber nok igen. \n2025 bliver fedtkagens år.",
+    "username" : "Acidolph",
+    "timestamp" : "2024-12-23 08:02:33"
   }, {
-    "Username" : "Mynsare",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:57:01",
-    "Body" : "Fedtebrød er udbredt og kan endda købes i supermarkeder, men jeg må indrømme at jeg har aldrig hørt om fedtkager før nu."
+    "body" : "Fedtebrød er udbredt og kan endda købes i supermarkeder, men jeg må indrømme at jeg har aldrig hørt om fedtkager før nu.",
+    "username" : "Mynsare",
+    "timestamp" : "2024-12-23 09:57:01"
   }, {
-    "Username" : "Danish_sea_captian",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:57:23",
-    "Body" : "Mener at de har dem i Mad&Vin i Magasin på Kongens Nytorv."
+    "body" : "Mener at de har dem i Mad&Vin i Magasin på Kongens Nytorv.",
+    "username" : "Danish_sea_captian",
+    "timestamp" : "2024-12-23 09:57:23"
   }, {
-    "Username" : "Own-Split7353",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:10:04",
-    "Body" : "Jeg har boet i kbh i over 25 år, og aldrig stødt på dem. Har fedtkage craving hvert eneste fucking år. Et år var jeg drevet så langt ud, at jeg forsøgte at bage dem selv. Noget med palmin, og lejligheden stank af svinesti i en måned. Krydser fingre for dig!"
+    "body" : "Jeg har boet i kbh i over 25 år, og aldrig stødt på dem. Har fedtkage craving hvert eneste fucking år. Et år var jeg drevet så langt ud, at jeg forsøgte at bage dem selv. Noget med palmin, og lejligheden stank af svinesti i en måned. Krydser fingre for dig!",
+    "username" : "Own-Split7353",
+    "timestamp" : "2024-12-23 11:10:04"
   } ]
 }

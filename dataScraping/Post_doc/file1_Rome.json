@@ -1,180 +1,180 @@
 {
-  "Id" : 200022,
-  "Community_name" : "Rome",
-  "Username" : "RomeVacationTips",
-  "Post_body" : "[Megathread] Construction in Rome prior to the Jubilee",
-  "Timestamp" : "2024-11-07 12:01:56",
-  "Num_comment" : 34,
+  "id" : 200022,
+  "community_name" : "Rome",
+  "username" : "RomeVacationTips",
+  "post_body" : "[Megathread] Construction in Rome prior to the Jubilee",
+  "timestamp" : "2024-11-07 12:01:56",
+  "num_comment" : 34,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Odd-Internet-7372",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 12:01:56",
-    "Body" : "Great post! I'll arrive Rome on December 18th and these webcams will help me with the anxiety I'm feeling about the construction"
+    "body" : "Great post! I'll arrive Rome on December 18th and these webcams will help me with the anxiety I'm feeling about the construction",
+    "username" : "Odd-Internet-7372",
+    "timestamp" : "2024-11-07 12:01:56"
   }, {
-    "Username" : "thesofakillers",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 15:02:53",
-    "Body" : "For timelines, you can check https://www.romasitrasforma.it/ which shows _all_ the ongoing worksites in the city"
+    "body" : "For timelines, you can check https://www.romasitrasforma.it/ which shows _all_ the ongoing worksites in the city",
+    "username" : "thesofakillers",
+    "timestamp" : "2024-11-07 15:02:53"
   }, {
-    "Username" : "dawtcalm",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 14:20:18",
-    "Body" : "The arch of Constantine viewed from the colosseum still looks good though, currently the scaffolding is covering  the south side"
+    "body" : "The arch of Constantine viewed from the colosseum still looks good though, currently the scaffolding is covering  the south side",
+    "username" : "dawtcalm",
+    "timestamp" : "2024-11-07 14:20:18"
   }, {
-    "Username" : "LeechSeed222",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 12:34:41",
-    "Body" : "Do we know around when this work will be finished? I booked a trip in Early December before knowing that this was going on and am considering rescheduling"
+    "body" : "Do we know around when this work will be finished? I booked a trip in Early December before knowing that this was going on and am considering rescheduling",
+    "username" : "LeechSeed222",
+    "timestamp" : "2024-11-07 12:34:41"
   }, {
-    "Username" : "Schumack1",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 12:50:37",
-    "Body" : "Do you know timeliness to complete ? For folks coming in feb/march 2025 - should all be done by then? Great Post."
+    "body" : "Do you know timeliness to complete ? For folks coming in feb/march 2025 - should all be done by then? Great Post.",
+    "username" : "Schumack1",
+    "timestamp" : "2024-11-07 12:50:37"
   }, {
-    "Username" : "StunningAtmosphere12",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-27 11:10:45",
-    "Body" : "Looks like the Pantheon fountain is now uncovered, and the fountains in Piazza Navona."
+    "body" : "Looks like the Pantheon fountain is now uncovered, and the fountains in Piazza Navona.",
+    "username" : "StunningAtmosphere12",
+    "timestamp" : "2024-11-27 11:10:45"
   }, {
-    "Username" : "lzcaIIi",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 12:55:39",
-    "Body" : "Aggiungerei alla lista San Luigi dei Francesi, settimana scorsa ci sono stato ma le parti laterali sono completamente chiuse da impalcature in legno, quindi i dipinti del Caravaggio sono visibili solo in riproduzioni fotografiche (grandi, per carità, ma sempre foto sono)"
+    "body" : "Aggiungerei alla lista San Luigi dei Francesi, settimana scorsa ci sono stato ma le parti laterali sono completamente chiuse da impalcature in legno, quindi i dipinti del Caravaggio sono visibili solo in riproduzioni fotografiche (grandi, per carità, ma sempre foto sono)",
+    "username" : "lzcaIIi",
+    "timestamp" : "2024-11-07 12:55:39"
   }, {
-    "Username" : "Magdalena_Regina",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-08 09:42:46",
-    "Body" : "All Caravaggios works in San Luigi dei Francesi are covered up and Santa Maria della Maddalena is closed. All statues on Ponte S. Angelo from Berninis sculpture programme are covered too. "
+    "body" : "All Caravaggios works in San Luigi dei Francesi are covered up and Santa Maria della Maddalena is closed. All statues on Ponte S. Angelo from Berninis sculpture programme are covered too. ",
+    "username" : "Magdalena_Regina",
+    "timestamp" : "2024-11-08 09:42:46"
   }, {
-    "Username" : "thaiusmle",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-09 19:04:43",
-    "Body" : "Looks like Trevi Fountain walk way is opened now. Any information on need for reservation? Will be in Rome in 2 weeks, can't wait.\n\n[Trevi Fountain Walkway](https://www.euronews.com/2024/11/09/walkway-opened-in-rome-to-keep-tourists-away-from-trevi-fountain)"
+    "body" : "Looks like Trevi Fountain walk way is opened now. Any information on need for reservation? Will be in Rome in 2 weeks, can't wait.\n\n[Trevi Fountain Walkway](https://www.euronews.com/2024/11/09/walkway-opened-in-rome-to-keep-tourists-away-from-trevi-fountain)",
+    "username" : "thaiusmle",
+    "timestamp" : "2024-11-09 19:04:43"
   }, {
-    "Username" : "GlcNAcMurNAc",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 16:34:43",
-    "Body" : "Also covered is the Bernini altar of the chair in the back of St. Peter’s and the Pieta of Michelangelo."
+    "body" : "Also covered is the Bernini altar of the chair in the back of St. Peter’s and the Pieta of Michelangelo.",
+    "username" : "GlcNAcMurNAc",
+    "timestamp" : "2024-11-07 16:34:43"
   }, {
-    "Username" : "Royal_Garage9666",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 22:14:27",
-    "Body" : "Thanks! Can someone please provide me with a few nice sights that are not under construction? :) "
+    "body" : "Thanks! Can someone please provide me with a few nice sights that are not under construction? :) ",
+    "username" : "Royal_Garage9666",
+    "timestamp" : "2024-11-07 22:14:27"
   }, {
-    "Username" : "AtlanticPortal",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 23:37:43",
-    "Body" : "OP 3 and 4 are not totally correct. The works in front of the Coliseum will be finished soon, projected to be done before the end of next year. That's because even if the Venezia station is being built now the tunnels are complete and the only works that need to be done at the Colosseo station are residual cosmetic works but the big structural parts are completed."
+    "body" : "OP 3 and 4 are not totally correct. The works in front of the Coliseum will be finished soon, projected to be done before the end of next year. That's because even if the Venezia station is being built now the tunnels are complete and the only works that need to be done at the Colosseo station are residual cosmetic works but the big structural parts are completed.",
+    "username" : "AtlanticPortal",
+    "timestamp" : "2024-11-07 23:37:43"
   }, {
-    "Username" : "BOSSBROO",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-08 23:49:47",
-    "Body" : "Hi! I am going to Rome on January 10, 2025. Will the construction be finished by then?"
+    "body" : "Hi! I am going to Rome on January 10, 2025. Will the construction be finished by then?",
+    "username" : "BOSSBROO",
+    "timestamp" : "2024-11-08 23:49:47"
   }, {
-    "Username" : "ElectricSNAFU2",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-10 15:51:32",
-    "Body" : "Wrapping up my third week, this week, and having been here every year for the past ten years, I can honestly say, IN MY OPINION (and I don't care how upset this makes anyone) that there is an extraordinary amount of restoration going on all over the city.  Thanks for the list - it hits  the main attractions that many first timers would like to see.  I wont be coming to Rome in 2025 due to the jubliee.\n\nBTW, the wonderful turtle fountain in the Jewish quarter is also being cleaned.  There are a bunch more things that I can't ever recall, but c'est la vie. I didn't keep notes.  We have seen our friends here and had a wonderful time and it's not all gloom and doom if you're coming....  but if you're planning a FIRST trip you might want to take all this into consideration.\n\nCiao."
+    "body" : "Wrapping up my third week, this week, and having been here every year for the past ten years, I can honestly say, IN MY OPINION (and I don't care how upset this makes anyone) that there is an extraordinary amount of restoration going on all over the city.  Thanks for the list - it hits  the main attractions that many first timers would like to see.  I wont be coming to Rome in 2025 due to the jubliee.\n\nBTW, the wonderful turtle fountain in the Jewish quarter is also being cleaned.  There are a bunch more things that I can't ever recall, but c'est la vie. I didn't keep notes.  We have seen our friends here and had a wonderful time and it's not all gloom and doom if you're coming....  but if you're planning a FIRST trip you might want to take all this into consideration.\n\nCiao.",
+    "username" : "ElectricSNAFU2",
+    "timestamp" : "2024-11-10 15:51:32"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-12 07:19:41",
-    "Body" : "🧐"
+    "body" : "🧐",
+    "username" : "None",
+    "timestamp" : "2024-12-12 07:19:41"
   }, {
-    "Username" : "diobrando89",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 18:48:35",
-    "Body" : "Direi da mettere nel post."
+    "body" : "Direi da mettere nel post.",
+    "username" : "diobrando89",
+    "timestamp" : "2024-11-07 18:48:35"
   }, {
-    "Username" : "RomeVacationTips",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-10 09:20:42",
-    "Body" : "Done - but given that there are nearly 1000 listings on that site, I curated the list down to the \"big ones\" that people are freaking out about."
+    "body" : "Done - but given that there are nearly 1000 listings on that site, I curated the list down to the \"big ones\" that people are freaking out about.",
+    "username" : "RomeVacationTips",
+    "timestamp" : "2024-11-10 09:20:42"
   }, {
-    "Username" : "RomeVacationTips",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-10 09:15:31",
-    "Body" : "Added estimated completion dates from the website here: [https://www.romasitrasforma.it/en/](https://www.romasitrasforma.it/en/)"
+    "body" : "Added estimated completion dates from the website here: [https://www.romasitrasforma.it/en/](https://www.romasitrasforma.it/en/)",
+    "username" : "RomeVacationTips",
+    "timestamp" : "2024-11-10 09:15:31"
   }, {
-    "Username" : "RomeVacationTips",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-10 09:15:27",
-    "Body" : "Added estimated completion dates from the website here: [https://www.romasitrasforma.it/en/](https://www.romasitrasforma.it/en/)"
+    "body" : "Added estimated completion dates from the website here: [https://www.romasitrasforma.it/en/](https://www.romasitrasforma.it/en/)",
+    "username" : "RomeVacationTips",
+    "timestamp" : "2024-11-10 09:15:27"
   }, {
-    "Username" : "Useful_Broccoli7219",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-01 03:44:12",
-    "Body" : "Thanks for the update.  This whole post is great, all the updates are greatly appreciated!"
+    "body" : "Thanks for the update.  This whole post is great, all the updates are greatly appreciated!",
+    "username" : "Useful_Broccoli7219",
+    "timestamp" : "2024-12-01 03:44:12"
   }, {
-    "Username" : "Odd-Internet-7372",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-08 13:55:06",
-    "Body" : ":( is there any report of the Caravaggio's restoration? I added San Luigi dei Francesi to my to do list just to see these artworks since Caravaggio is my favorite painter"
+    "body" : ":( is there any report of the Caravaggio's restoration? I added San Luigi dei Francesi to my to do list just to see these artworks since Caravaggio is my favorite painter",
+    "username" : "Odd-Internet-7372",
+    "timestamp" : "2024-11-08 13:55:06"
   }, {
-    "Username" : "RomeVacationTips",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-10 09:19:43",
-    "Body" : "Can't find any info on the Caravaggios. Not sure if it's just regular cleaning or Jubilee stuff."
+    "body" : "Can't find any info on the Caravaggios. Not sure if it's just regular cleaning or Jubilee stuff.",
+    "username" : "RomeVacationTips",
+    "timestamp" : "2024-11-10 09:19:43"
   }, {
-    "Username" : "HMSariel",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-24 22:50:47",
-    "Body" : "Curious to see if the booking site/ 2 euro plan is started up yet. Heading there this week!"
+    "body" : "Curious to see if the booking site/ 2 euro plan is started up yet. Heading there this week!",
+    "username" : "HMSariel",
+    "timestamp" : "2024-11-24 22:50:47"
   }, {
-    "Username" : "Extension-War-4844",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 17:15:03",
-    "Body" : "The Bernini Alter was  restoration was  completed a few days ago for viewing"
+    "body" : "The Bernini Alter was  restoration was  completed a few days ago for viewing",
+    "username" : "Extension-War-4844",
+    "timestamp" : "2024-11-07 17:15:03"
   }, {
-    "Username" : "Extension-War-4844",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 17:16:43",
-    "Body" : "The Pieta is also on display, just not in its niche"
+    "body" : "The Pieta is also on display, just not in its niche",
+    "username" : "Extension-War-4844",
+    "timestamp" : "2024-11-07 17:16:43"
   }, {
-    "Username" : "PatriciaDC",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 17:09:54",
-    "Body" : "The Bernini Baldachin in St. Peter’s was to have been uncovered on October 27th…the Vatican reported that it was. \n\nDo you know, for a fact, that it is still covered?\n\nThe Vatican News…\n\n”During the Mass for the conclusion of the 16th Ordinary General Assembly of the Synod of Bishops, the Baldacchino above the tomb of St. Peter will be inaugurated after nine months of restoration. From October 27 to December 8, the ancient Chair of St. Peter will be displayed at the foot of the High Altar before being reinstalled in Bernini's bronze throne.\n\nVatican City, Oct 9, 2024 / 14:35 pm\n\nThe Vatican has announced that the completed restorations on the soaring baldacchino over the central altar of St. Peter’s Basilica designed by Gian Lorenzo Bernini will be unveiled on Oct. 27.  \nThe public will be able to see the 400-year-old twisting bronze columns of the large canopy for the first time since the restoration when Pope Francis presides over the closing Mass for the Synod on Synodality on Oct. 27."
+    "body" : "The Bernini Baldachin in St. Peter’s was to have been uncovered on October 27th…the Vatican reported that it was. \n\nDo you know, for a fact, that it is still covered?\n\nThe Vatican News…\n\n”During the Mass for the conclusion of the 16th Ordinary General Assembly of the Synod of Bishops, the Baldacchino above the tomb of St. Peter will be inaugurated after nine months of restoration. From October 27 to December 8, the ancient Chair of St. Peter will be displayed at the foot of the High Altar before being reinstalled in Bernini's bronze throne.\n\nVatican City, Oct 9, 2024 / 14:35 pm\n\nThe Vatican has announced that the completed restorations on the soaring baldacchino over the central altar of St. Peter’s Basilica designed by Gian Lorenzo Bernini will be unveiled on Oct. 27.  \nThe public will be able to see the 400-year-old twisting bronze columns of the large canopy for the first time since the restoration when Pope Francis presides over the closing Mass for the Synod on Synodality on Oct. 27.",
+    "username" : "PatriciaDC",
+    "timestamp" : "2024-11-07 17:09:54"
   }, {
-    "Username" : "RomeVacationTips",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-10 09:16:26",
-    "Body" : "OK thanks, added estimated completion time from the \"Roma Si Trasforma\" website."
+    "body" : "OK thanks, added estimated completion time from the \"Roma Si Trasforma\" website.",
+    "username" : "RomeVacationTips",
+    "timestamp" : "2024-11-10 09:16:26"
   }, {
-    "Username" : "RomeVacationTips",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-10 09:16:36",
-    "Body" : "Added estimated completion dates from the website here: [https://www.romasitrasforma.it/en/](https://www.romasitrasforma.it/en/)"
+    "body" : "Added estimated completion dates from the website here: [https://www.romasitrasforma.it/en/](https://www.romasitrasforma.it/en/)",
+    "username" : "RomeVacationTips",
+    "timestamp" : "2024-11-10 09:16:36"
   }, {
-    "Username" : "RomeVacationTips",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-10 09:19:56",
-    "Body" : "Fatto."
+    "body" : "Fatto.",
+    "username" : "RomeVacationTips",
+    "timestamp" : "2024-11-10 09:19:56"
   }, {
-    "Username" : "thaiusmle",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-27 07:14:54",
-    "Body" : "No, just need to queue up. The line is typically moving fast."
+    "body" : "No, just need to queue up. The line is typically moving fast.",
+    "username" : "thaiusmle",
+    "timestamp" : "2024-11-27 07:14:54"
   }, {
-    "Username" : "GlcNAcMurNAc",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 17:24:32",
-    "Body" : "I was there on Tuesday, it was all covered up? Did we time our visit badly?"
+    "body" : "I was there on Tuesday, it was all covered up? Did we time our visit badly?",
+    "username" : "GlcNAcMurNAc",
+    "timestamp" : "2024-11-07 17:24:32"
   }, {
-    "Username" : "GlcNAcMurNAc",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 17:24:03",
-    "Body" : "I was under the impression that was a copy near the door?"
+    "body" : "I was under the impression that was a copy near the door?",
+    "username" : "GlcNAcMurNAc",
+    "timestamp" : "2024-11-07 17:24:03"
   }, {
-    "Username" : "GlcNAcMurNAc",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 17:25:51",
-    "Body" : "We are talking about different things.  Not the bronze canopy, the altar of the chair."
+    "body" : "We are talking about different things.  Not the bronze canopy, the altar of the chair.",
+    "username" : "GlcNAcMurNAc",
+    "timestamp" : "2024-11-07 17:25:51"
   }, {
-    "Username" : "GlcNAcMurNAc",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-07 17:25:04",
-    "Body" : "I don’t mean the canopy. I mean the altar piece around the window."
+    "body" : "I don’t mean the canopy. I mean the altar piece around the window.",
+    "username" : "GlcNAcMurNAc",
+    "timestamp" : "2024-11-07 17:25:04"
   } ]
 }

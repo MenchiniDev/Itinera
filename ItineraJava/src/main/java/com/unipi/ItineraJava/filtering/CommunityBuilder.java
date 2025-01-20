@@ -66,7 +66,7 @@ public class CommunityBuilder {
                 communityPostsMap.putIfAbsent(communityName, new ArrayList<>());
 
                 // Corregge il timestamp del post
-                postJson.put("Timestamp", correctTimestamp((String) postJson.get("Timestamp")));
+                postJson.put("timestamp", correctTimestamp((String) postJson.get("timestamp")));
 
                 // Aggiunge il post alla lista della community
                 communityPostsMap.get(communityName).add(postJson);
@@ -85,14 +85,14 @@ public class CommunityBuilder {
             List<JSONObject> posts = entry.getValue();
 
             // Ordina i post per timestamp
-            posts.sort(Comparator.comparing(post -> LocalDateTime.parse((String) post.get("Timestamp"), TIMESTAMP_FORMATTER)));
+            posts.sort(Comparator.comparing(post -> LocalDateTime.parse((String) post.get("timestamp"), TIMESTAMP_FORMATTER)));
 
             // Crea il documento della community
             String cityName = getCityNameFromCommunityName(communityName);
             JSONObject community = createCommunityDocument(cityName, communityName);
 
             // Aggiunge i due post più vecchi alla community
-            JSONArray postsArray = (JSONArray) community.get("Post");
+            JSONArray postsArray = (JSONArray) community.get("post");
             for (int i = 0; i < Math.min(2, posts.size()); i++) {
                 JSONObject post = createPostDocument(posts.get(i));
                 postsArray.add(post);
@@ -100,9 +100,9 @@ public class CommunityBuilder {
 
             // Aggiorna il timestamp "Created" con il timestamp del post più vecchio meno un'ora
             if (!posts.isEmpty()) {
-                String oldestTimestamp = (String) posts.get(0).get("Timestamp");
+                String oldestTimestamp = (String) posts.get(0).get("timestamp");
                 String adjustedTimestamp = subtractOneHour(oldestTimestamp);
-                community.put("Created", adjustedTimestamp);
+                community.put("created", adjustedTimestamp);
             }
 
 
@@ -145,19 +145,19 @@ public class CommunityBuilder {
 
     private static JSONObject createCommunityDocument(String cityName, String communityName) {
         JSONObject community = new JSONObject();
-        community.put("Id", globalIdCounter.getAndIncrement());
-        community.put("City", cityName);
-        community.put("Name", communityName);
-        community.put("Created", "9999-12-31 23:59:59");
-        community.put("Post", new JSONArray());
+        community.put("id", globalIdCounter.getAndIncrement());
+        community.put("city", cityName);
+        community.put("name", communityName);
+        community.put("created", "9999-12-31 23:59:59");
+        community.put("post", new JSONArray());
         return community;
     }
 
     private static JSONObject createPostDocument(JSONObject postJson) {
         JSONObject post = new JSONObject();
-        post.put("User", postJson.get("Username"));
-        post.put("Text", postJson.get("Post_body"));
-        post.put("Timestamp", postJson.get("Timestamp"));
+        post.put("user", postJson.get("username"));
+        post.put("text", postJson.get("post_body"));
+        post.put("timestamp", postJson.get("timestamp"));
         return post;
     }
 
@@ -184,11 +184,11 @@ public class CommunityBuilder {
 
             // Riposiziona l'attributo "Post" come ultimo elemento
             LinkedHashMap<String, Object> orderedCommunity = new LinkedHashMap<>();
-            orderedCommunity.put("Id", communityDocument.get("Id"));
-            orderedCommunity.put("City", communityDocument.get("City"));
-            orderedCommunity.put("Name", communityDocument.get("Name"));
-            orderedCommunity.put("Created", communityDocument.get("Created"));
-            orderedCommunity.put("Post", communityDocument.get("Post"));
+            orderedCommunity.put("id", communityDocument.get("id"));
+            orderedCommunity.put("city", communityDocument.get("city"));
+            orderedCommunity.put("name", communityDocument.get("name"));
+            orderedCommunity.put("created", communityDocument.get("created"));
+            orderedCommunity.put("post", communityDocument.get("post"));
 
             String outputFilePath = outputFolderPath + File.separator + communityName + ".json";
             try (FileWriter writer = new FileWriter(outputFilePath)) {

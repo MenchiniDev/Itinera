@@ -1,15 +1,15 @@
 {
-  "Id" : 200447,
-  "City" : "Kosovo",
-  "Name" : "Kosovo",
-  "Created" : "2024-04-15 19:08:41",
-  "Post" : [ {
-    "User" : "AutoModerator",
-    "Text" : "r/Kosovo’s Weekly Monday Free-for-All, Casual Conversations & Introductions",
-    "Timestamp" : "2024-04-15 20:08:41"
+  "id" : 200447,
+  "city" : "Kosovo",
+  "name" : "Kosovo",
+  "created" : "2024-01-10 19:47:09",
+  "post" : [ {
+    "text" : "r/Kosovo’s Weekly Monday Free-for-All, Casual Conversations & Introductions",
+    "user" : "AutoModerator",
+    "timestamp" : "2024-01-10 20:47:09"
   }, {
-    "User" : "HakunaMatataSimba",
-    "Text" : "The Starlink announcement post…",
-    "Timestamp" : "2024-12-22 11:27:25"
+    "text" : "The Starlink announcement post…",
+    "user" : "HakunaMatataSimba",
+    "timestamp" : "2024-12-22 11:27:25"
   } ]
 }

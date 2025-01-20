@@ -1,15 +1,15 @@
 {
-  "Id" : 200189,
-  "Community_name" : "Zagreb",
-  "Username" : "AutoModerator",
-  "Post_body" : "Doček Nove godine!",
-  "Timestamp" : "2024-12-22 09:58:58",
-  "Num_comment" : 1,
+  "id" : 200189,
+  "community_name" : "Zagreb",
+  "username" : "AutoModerator",
+  "post_body" : "Doček Nove godine!",
+  "timestamp" : "2024-12-22 09:58:58",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Ok-Plankton-2605",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:58:58",
-    "Body" : "Mene zanimaju klubovi u Zg za doček ali gdje nema narodnjaka. Prijedlozi?"
+    "body" : "Mene zanimaju klubovi u Zg za doček ali gdje nema narodnjaka. Prijedlozi?",
+    "username" : "Ok-Plankton-2605",
+    "timestamp" : "2024-12-22 09:58:58"
   } ]
 }

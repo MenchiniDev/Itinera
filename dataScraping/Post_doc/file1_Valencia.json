@@ -1,15 +1,15 @@
 {
-  "Id" : 200017,
-  "Community_name" : "Valencia",
-  "Username" : "Veganosaurio",
-  "Post_body" : "Suplemento gimnasio gratis Beta Alanina",
-  "Timestamp" : "2024-12-23 15:31:20",
-  "Num_comment" : 1,
+  "id" : 200017,
+  "community_name" : "Valencia",
+  "username" : "Veganosaurio",
+  "post_body" : "Suplemento gimnasio gratis Beta Alanina",
+  "timestamp" : "2024-12-23 15:31:20",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Alternative_Net1432",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:31:20",
-    "Body" : "Hola, a mí me interesa no sé si ya te ha escrito alguien"
+    "body" : "Hola, a mí me interesa no sé si ya te ha escrito alguien",
+    "username" : "Alternative_Net1432",
+    "timestamp" : "2024-12-23 15:31:20"
   } ]
 }

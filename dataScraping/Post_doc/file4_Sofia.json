@@ -1,15 +1,15 @@
 {
-  "Id" : 200198,
-  "Community_name" : "Sofia",
-  "Username" : "Skuchubra",
-  "Post_body" : "Търся бижутерия Ge Oro",
-  "Timestamp" : "2024-12-21 15:07:14",
-  "Num_comment" : 1,
+  "id" : 200198,
+  "community_name" : "Sofia",
+  "username" : "Skuchubra",
+  "post_body" : "Търся бижутерия Ge Oro",
+  "timestamp" : "2024-12-21 15:07:14",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Going-Bananas-here",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 15:07:14",
-    "Body" : "В Парадайс мол има"
+    "body" : "В Парадайс мол има",
+    "username" : "Going-Bananas-here",
+    "timestamp" : "2024-12-21 15:07:14"
   } ]
 }

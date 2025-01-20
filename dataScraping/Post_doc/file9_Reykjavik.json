@@ -1,10 +1,10 @@
 {
-  "Id" : 200386,
-  "Community_name" : "Reykjavik",
-  "Username" : "yes_that-is-correct",
-  "Post_body" : "Extra ticket for Sigur Rós on Tuesday the 10th",
-  "Timestamp" : "2024-04-15 20:26:17",
-  "Num_comment" : 0,
+  "id" : 200386,
+  "community_name" : "Reykjavik",
+  "username" : "yes_that-is-correct",
+  "post_body" : "Extra ticket for Sigur Rós on Tuesday the 10th",
+  "timestamp" : "2024-01-10 21:04:14",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

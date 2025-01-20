@@ -1,10 +1,10 @@
 {
-  "Id" : 200356,
-  "Community_name" : "Zagreb",
-  "Username" : "Fit_Camera3710",
-  "Post_body" : "All you can eat",
-  "Timestamp" : "2024-04-15 20:24:08",
-  "Num_comment" : 0,
+  "id" : 200356,
+  "community_name" : "Zagreb",
+  "username" : "Fit_Camera3710",
+  "post_body" : "All you can eat",
+  "timestamp" : "2024-01-10 21:02:48",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

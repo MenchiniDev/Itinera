@@ -1,10 +1,10 @@
 {
-  "Id" : 200153,
-  "Community_name" : "Tallinn",
-  "Username" : "Jazzlike_End_480",
-  "Post_body" : "English stand up comedy in Tallinn. this weekend",
-  "Timestamp" : "2024-04-15 20:07:48",
-  "Num_comment" : 0,
+  "id" : 200153,
+  "community_name" : "Tallinn",
+  "username" : "Jazzlike_End_480",
+  "post_body" : "English stand up comedy in Tallinn. this weekend",
+  "timestamp" : "2024-01-10 20:46:10",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

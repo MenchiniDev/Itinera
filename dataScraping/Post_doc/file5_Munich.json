@@ -1,50 +1,50 @@
 {
-  "Id" : 200165,
-  "Community_name" : "Munich",
-  "Username" : "Prudent-Lock-8359",
-  "Post_body" : "Place to celebrate birthday with 20-25 people ",
-  "Timestamp" : "2024-12-23 09:05:21",
-  "Num_comment" : 8,
+  "id" : 200165,
+  "community_name" : "Munich",
+  "username" : "Prudent-Lock-8359",
+  "post_body" : "Place to celebrate birthday with 20-25 people ",
+  "timestamp" : "2024-12-23 09:05:21",
+  "num_comment" : 8,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Eyes-drop",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:05:21",
-    "Body" : "Go to bowling in Unterföhring and afterwards upstairs to the restaurant"
+    "body" : "Go to bowling in Unterföhring and afterwards upstairs to the restaurant",
+    "username" : "Eyes-drop",
+    "timestamp" : "2024-12-23 09:05:21"
   }, {
-    "Username" : "stip754",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:27:35",
-    "Body" : "Le hygge Is great!! Much more affordable than other bars and so cozy"
+    "body" : "Le hygge Is great!! Much more affordable than other bars and so cozy",
+    "username" : "stip754",
+    "timestamp" : "2024-12-23 12:27:35"
   }, {
-    "Username" : "Temporary_Celery5667",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:06:53",
-    "Body" : "The Holzkranich Bar has a room in the basement that you can rent. Otherwise, there are also cultural centers that rent out rooms cheaply."
+    "body" : "The Holzkranich Bar has a room in the basement that you can rent. Otherwise, there are also cultural centers that rent out rooms cheaply.",
+    "username" : "Temporary_Celery5667",
+    "timestamp" : "2024-12-23 11:06:53"
   }, {
-    "Username" : "Prudent-Lock-8359",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:58:38",
-    "Body" : "Boiling??🥹"
+    "body" : "Boiling??🥹",
+    "username" : "Prudent-Lock-8359",
+    "timestamp" : "2024-12-23 09:58:38"
   }, {
-    "Username" : "Prudent-Lock-8359",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:18:36",
-    "Body" : "I just checked and it looks perfect! When you say renting it means there is something to pay unlike a normal reservation right?"
+    "body" : "I just checked and it looks perfect! When you say renting it means there is something to pay unlike a normal reservation right?",
+    "username" : "Prudent-Lock-8359",
+    "timestamp" : "2024-12-23 12:18:36"
   }, {
-    "Username" : "Eyes-drop",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:02:38",
-    "Body" : "I mean bowling 🙈"
+    "body" : "I mean bowling 🙈",
+    "username" : "Eyes-drop",
+    "timestamp" : "2024-12-23 10:02:38"
   }, {
-    "Username" : "Temporary_Celery5667",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:18:11",
-    "Body" : "You can do both: make a reservation as well as rent the cellar room :) The best thing to do is just give them a call or send them an e-mail. Ja"
+    "body" : "You can do both: make a reservation as well as rent the cellar room :) The best thing to do is just give them a call or send them an e-mail. Ja",
+    "username" : "Temporary_Celery5667",
+    "timestamp" : "2024-12-23 14:18:11"
   }, {
-    "Username" : "Prudent-Lock-8359",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:18:50",
-    "Body" : "Hahah"
+    "body" : "Hahah",
+    "username" : "Prudent-Lock-8359",
+    "timestamp" : "2024-12-23 12:18:50"
   } ]
 }

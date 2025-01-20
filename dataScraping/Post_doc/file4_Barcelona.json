@@ -1,40 +1,40 @@
 {
-  "Id" : 200182,
-  "Community_name" : "Barcelona",
-  "Username" : "Mowgli_78",
-  "Post_body" : "Missatges d'odi als carrers de BCN",
-  "Timestamp" : "2024-12-21 20:38:43",
-  "Num_comment" : 6,
+  "id" : 200182,
+  "community_name" : "Barcelona",
+  "username" : "Mowgli_78",
+  "post_body" : "Missatges d'odi als carrers de BCN",
+  "timestamp" : "2024-12-21 20:38:43",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "atzucach",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 20:38:43",
-    "Body" : "Hi ha pintades lletges i merdes de gos a tot arreu a Bcn, però mai no he vist ningú pintant o deixant que el seu gos cagui sense recollir la merda 🤔 "
+    "body" : "Hi ha pintades lletges i merdes de gos a tot arreu a Bcn, però mai no he vist ningú pintant o deixant que el seu gos cagui sense recollir la merda 🤔 ",
+    "username" : "atzucach",
+    "timestamp" : "2024-12-21 20:38:43"
   }, {
-    "Username" : "blackburn42",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 22:38:21",
-    "Body" : "La poli no ha ensumat aquest barri ni de lluny"
+    "body" : "La poli no ha ensumat aquest barri ni de lluny",
+    "username" : "blackburn42",
+    "timestamp" : "2024-12-21 22:38:21"
   }, {
-    "Username" : "chabacanito",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 21:21:07",
-    "Body" : "Multa per castellanot, merescudíssima"
+    "body" : "Multa per castellanot, merescudíssima",
+    "username" : "chabacanito",
+    "timestamp" : "2024-12-21 21:21:07"
   }, {
-    "Username" : "Dimsum852",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:25:55",
-    "Body" : "Multar per embrutar els carrers es normal, sí"
+    "body" : "Multar per embrutar els carrers es normal, sí",
+    "username" : "Dimsum852",
+    "timestamp" : "2024-12-22 13:25:55"
   }, {
-    "Username" : "kayama57",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:52:31",
-    "Body" : "Millor que les signatures de carrer"
+    "body" : "Millor que les signatures de carrer",
+    "username" : "kayama57",
+    "timestamp" : "2024-12-22 16:52:31"
   }, {
-    "Username" : "bioscire",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 23:00:00",
-    "Body" : "Vaya, que majo."
+    "body" : "Vaya, que majo.",
+    "username" : "bioscire",
+    "timestamp" : "2024-12-21 23:00:00"
   } ]
 }

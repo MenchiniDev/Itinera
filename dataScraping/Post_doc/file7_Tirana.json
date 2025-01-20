@@ -1,140 +1,140 @@
 {
-  "Id" : 200232,
-  "Community_name" : "Tirana",
-  "Username" : "Alternative_Area8199",
-  "Post_body" : "Tirana ",
-  "Timestamp" : "2024-12-18 22:26:48",
-  "Num_comment" : 26,
+  "id" : 200232,
+  "community_name" : "Tirana",
+  "username" : "Alternative_Area8199",
+  "post_body" : "Tirana ",
+  "timestamp" : "2024-12-18 22:26:48",
+  "num_comment" : 26,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "ZealousidealLaw9653",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 22:26:48",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "ZealousidealLaw9653",
+    "timestamp" : "2024-12-18 22:26:48"
   }, {
-    "Username" : "electronics_peasant",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 22:28:06",
-    "Body" : "thinking of going there for a week early next year. anyone knows what’s the current stray dog situation there?"
+    "body" : "thinking of going there for a week early next year. anyone knows what’s the current stray dog situation there?",
+    "username" : "electronics_peasant",
+    "timestamp" : "2024-12-18 22:28:06"
   }, {
-    "Username" : "smile_or_not",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 23:04:21",
-    "Body" : "Was there 2 weeks ago, Albanian nature is beautiful."
+    "body" : "Was there 2 weeks ago, Albanian nature is beautiful.",
+    "username" : "smile_or_not",
+    "timestamp" : "2024-12-18 23:04:21"
   }, {
-    "Username" : "hydroxynitril",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 01:31:08",
-    "Body" : "Where did you have the sushi?"
+    "body" : "Where did you have the sushi?",
+    "username" : "hydroxynitril",
+    "timestamp" : "2024-12-19 01:31:08"
   }, {
-    "Username" : "Bossi-Nagfieri",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:27:31",
-    "Body" : "🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱"
+    "body" : "🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱🇦🇱",
+    "username" : "Bossi-Nagfieri",
+    "timestamp" : "2024-12-22 18:27:31"
   }, {
-    "Username" : "simka-AL",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 22:44:02",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "simka-AL",
+    "timestamp" : "2024-12-18 22:44:02"
   }, {
-    "Username" : "ZealousidealLaw9653",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 23:04:09",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "ZealousidealLaw9653",
+    "timestamp" : "2024-12-18 23:04:09"
   }, {
-    "Username" : "Even-Tangerine-5672",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 22:40:28",
-    "Body" : "I was there a month ago and stray dogs did not seem like a problem. Other cities some of the surrounding countries was a different matter."
+    "body" : "I was there a month ago and stray dogs did not seem like a problem. Other cities some of the surrounding countries was a different matter.",
+    "username" : "Even-Tangerine-5672",
+    "timestamp" : "2024-12-18 22:40:28"
   }, {
-    "Username" : "Alternative_Area8199",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 18:18:54",
-    "Body" : "Triple D restaurant and bar. Was brilliant would highly recommend- great view of the city from the rooftop terrace and quiet during the day"
+    "body" : "Triple D restaurant and bar. Was brilliant would highly recommend- great view of the city from the rooftop terrace and quiet during the day",
+    "username" : "Alternative_Area8199",
+    "timestamp" : "2024-12-20 18:18:54"
   }, {
-    "Username" : "Specialist-Dirt-137",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 09:46:08",
-    "Body" : "Life lesson. Never eat sushi in 2nd and 3rd world countries. It doesnt matter the cheff quality, its the low quality fish that comes in that is a problem"
+    "body" : "Life lesson. Never eat sushi in 2nd and 3rd world countries. It doesnt matter the cheff quality, its the low quality fish that comes in that is a problem",
+    "username" : "Specialist-Dirt-137",
+    "timestamp" : "2024-12-19 09:46:08"
   }, {
-    "Username" : "Same_Estimate8383",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 23:36:18",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "Same_Estimate8383",
+    "timestamp" : "2024-12-18 23:36:18"
   }, {
-    "Username" : "Nestfirex",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:53:37",
-    "Body" : "It depends on what part of Tirana you are in, because the more adavanced parts have less compares to rurals or just smaller towns"
+    "body" : "It depends on what part of Tirana you are in, because the more adavanced parts have less compares to rurals or just smaller towns",
+    "username" : "Nestfirex",
+    "timestamp" : "2024-12-22 09:53:37"
   }, {
-    "Username" : "Adagio-Lumpy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 10:18:28",
-    "Body" : "In Tirana you have some of the best sushi...What are you talking about! Ok its very expensive but if there is something Albanians dont joke around is food quality!"
+    "body" : "In Tirana you have some of the best sushi...What are you talking about! Ok its very expensive but if there is something Albanians dont joke around is food quality!",
+    "username" : "Adagio-Lumpy",
+    "timestamp" : "2024-12-19 10:18:28"
   }, {
-    "Username" : "Corgiman69420",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 23:46:08",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "Corgiman69420",
+    "timestamp" : "2024-12-18 23:46:08"
   }, {
-    "Username" : "This-Highlight-3237",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 18:52:05",
-    "Body" : "Lmao you have no clue what you're saying, altogether with the morons hurt by the truth and who downvoted it.\n\nDo NOT eat sushi in Tirana. You might not be poisoned, sure, but that shit is NOT good 😂😂\nThere's great italian food in the city, and other types of cuisine that is really delicious and well-made: but the Japanese one is definitely NOT one of them 😂"
+    "body" : "Lmao you have no clue what you're saying, altogether with the morons hurt by the truth and who downvoted it.\n\nDo NOT eat sushi in Tirana. You might not be poisoned, sure, but that shit is NOT good 😂😂\nThere's great italian food in the city, and other types of cuisine that is really delicious and well-made: but the Japanese one is definitely NOT one of them 😂",
+    "username" : "This-Highlight-3237",
+    "timestamp" : "2024-12-21 18:52:05"
   }, {
-    "Username" : "Specialist-Dirt-137",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 21:25:02",
-    "Body" : "You got no idea what you are talking about. Albania literally got exposed for selling brazilian imported meat and labeling it as albanian grown cattle, chicken etc."
+    "body" : "You got no idea what you are talking about. Albania literally got exposed for selling brazilian imported meat and labeling it as albanian grown cattle, chicken etc.",
+    "username" : "Specialist-Dirt-137",
+    "timestamp" : "2024-12-19 21:25:02"
   }, {
-    "Username" : "Electrical-Draft3997",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 00:05:42",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "Electrical-Draft3997",
+    "timestamp" : "2024-12-19 00:05:42"
   }, {
-    "Username" : "Playful-Falcon-6243",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 00:22:49",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "Playful-Falcon-6243",
+    "timestamp" : "2024-12-19 00:22:49"
   }, {
-    "Username" : "Adagio-Lumpy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 10:17:09",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "Adagio-Lumpy",
+    "timestamp" : "2024-12-19 10:17:09"
   }, {
-    "Username" : "muzzichuzzi",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 12:51:23",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "muzzichuzzi",
+    "timestamp" : "2024-12-19 12:51:23"
   }, {
-    "Username" : "Temporary-Concert528",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 14:22:09",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "Temporary-Concert528",
+    "timestamp" : "2024-12-19 14:22:09"
   }, {
-    "Username" : "Questionable_Android",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 15:25:58",
-    "Body" : "Where is this picture taken?"
+    "body" : "Where is this picture taken?",
+    "username" : "Questionable_Android",
+    "timestamp" : "2024-12-19 15:25:58"
   }, {
-    "Username" : "TheRandomGamer18real",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 07:59:27",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "TheRandomGamer18real",
+    "timestamp" : "2024-12-20 07:59:27"
   }, {
-    "Username" : "TheRandomGamer18real",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 07:59:40",
-    "Body" : "In elbasan"
+    "body" : "In elbasan",
+    "username" : "TheRandomGamer18real",
+    "timestamp" : "2024-12-20 07:59:40"
   }, {
-    "Username" : "Nestfirex",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:51:37",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "Nestfirex",
+    "timestamp" : "2024-12-22 09:51:37"
   }, {
-    "Username" : "TheRandomGamer18real",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:52:15",
-    "Body" : "Tirana"
+    "body" : "Tirana",
+    "username" : "TheRandomGamer18real",
+    "timestamp" : "2024-12-22 09:52:15"
   } ]
 }

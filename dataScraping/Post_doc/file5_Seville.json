@@ -1,45 +1,45 @@
 {
-  "Id" : 200223,
-  "Community_name" : "Seville",
-  "Username" : "9kSs",
-  "Post_body" : "Still possible to get last minutes tickets to a nativity scene today? ",
-  "Timestamp" : "2024-12-23 07:36:50",
-  "Num_comment" : 7,
+  "id" : 200223,
+  "community_name" : "Seville",
+  "username" : "9kSs",
+  "post_body" : "Still possible to get last minutes tickets to a nativity scene today? ",
+  "timestamp" : "2024-12-23 07:36:50",
+  "num_comment" : 7,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Little_Paramedic_451",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:36:50",
-    "Body" : "There are many where you just stay on a queue. Try with Fundacion Cajasol, in Chicarreroa Street, pretty centric and they have a website"
+    "body" : "There are many where you just stay on a queue. Try with Fundacion Cajasol, in Chicarreroa Street, pretty centric and they have a website",
+    "username" : "Little_Paramedic_451",
+    "timestamp" : "2024-12-23 07:36:50"
   }, {
-    "Username" : "9kSs",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:10:01",
-    "Body" : "Do you know when is the show today? I don’t see it in the website"
+    "body" : "Do you know when is the show today? I don’t see it in the website",
+    "username" : "9kSs",
+    "timestamp" : "2024-12-23 08:10:01"
   }, {
-    "Username" : "Little_Paramedic_451",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:44:06",
-    "Body" : "It's not a show, it's a display... you can get more info on their website... it runs all day non-stop, and it's quite popular. I remember visiting it as a child. Some towns in the outskirts"
+    "body" : "It's not a show, it's a display... you can get more info on their website... it runs all day non-stop, and it's quite popular. I remember visiting it as a child. Some towns in the outskirts",
+    "username" : "Little_Paramedic_451",
+    "timestamp" : "2024-12-23 08:44:06"
   }, {
-    "Username" : "Zealousideal_West_16",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:00:22",
-    "Body" : "It's just a scene. Like a set up of miniatures. Nothing moves, there's no music, it's not theatre. So you can go any time and look at it. Just that there will be queues."
+    "body" : "It's just a scene. Like a set up of miniatures. Nothing moves, there's no music, it's not theatre. So you can go any time and look at it. Just that there will be queues.",
+    "username" : "Zealousideal_West_16",
+    "timestamp" : "2024-12-23 09:00:22"
   }, {
-    "Username" : "theairscout",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:50:02",
-    "Body" : "That'd be something, a show. Can you imagine the had shows on about Christmas?"
+    "body" : "That'd be something, a show. Can you imagine the had shows on about Christmas?",
+    "username" : "theairscout",
+    "timestamp" : "2024-12-23 09:50:02"
   }, {
-    "Username" : "9kSs",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:27:16",
-    "Body" : "Thanks"
+    "body" : "Thanks",
+    "username" : "9kSs",
+    "timestamp" : "2024-12-23 09:27:16"
   }, {
-    "Username" : "Little_Paramedic_451",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:59:36",
-    "Body" : "There are some towns that have recreations on a schedule (imagine how painful can it be to redo from start every time a car parks in town... come on, boys, take the angel back to the top of the church! Star ready! On your marks! Where the hell is baby Jesús?)"
+    "body" : "There are some towns that have recreations on a schedule (imagine how painful can it be to redo from start every time a car parks in town... come on, boys, take the angel back to the top of the church! Star ready! On your marks! Where the hell is baby Jesús?)",
+    "username" : "Little_Paramedic_451",
+    "timestamp" : "2024-12-23 10:59:36"
   } ]
 }

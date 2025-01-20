@@ -1,55 +1,55 @@
 {
-  "Id" : 200219,
-  "Community_name" : "Budapest",
-  "Username" : "Environmental-Doubt3",
-  "Post_body" : "[ Removed by Reddit ]",
-  "Timestamp" : "2024-12-23 07:32:26",
-  "Num_comment" : 9,
+  "id" : 200219,
+  "community_name" : "Budapest",
+  "username" : "Environmental-Doubt3",
+  "post_body" : "[ Removed by Reddit ]",
+  "timestamp" : "2024-12-23 07:32:26",
+  "num_comment" : 9,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "igenigen",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:59:56",
-    "Body" : "You can buy CBD hash in Hungary, but keep in mind in, that in the EU THC is max 0.20% under the current legislation otherwise it comes illegal.\n\nAlso, I wouldn’t recommend smoking it in public. The Hungarian police have a quite strict stance on the topic. A few years ago, they raided a CBD shop before they even opened on Kertesz utca. So, unless you want to spend a few hours explaining that it’s CBD, just don’t do it.\n\nEdit: Adding link: [https://www.origo.hu/itthon/2020/09/bezartak-egy-kabitoszert-arusito-uzletet-a-vii-keruletben](https://www.origo.hu/itthon/2020/09/bezartak-egy-kabitoszert-arusito-uzletet-a-vii-keruletben)"
+    "body" : "You can buy CBD hash in Hungary, but keep in mind in, that in the EU THC is max 0.20% under the current legislation otherwise it comes illegal.\n\nAlso, I wouldn’t recommend smoking it in public. The Hungarian police have a quite strict stance on the topic. A few years ago, they raided a CBD shop before they even opened on Kertesz utca. So, unless you want to spend a few hours explaining that it’s CBD, just don’t do it.\n\nEdit: Adding link: [https://www.origo.hu/itthon/2020/09/bezartak-egy-kabitoszert-arusito-uzletet-a-vii-keruletben](https://www.origo.hu/itthon/2020/09/bezartak-egy-kabitoszert-arusito-uzletet-a-vii-keruletben)",
+    "username" : "igenigen",
+    "timestamp" : "2024-12-23 08:59:56"
   }, {
-    "Username" : "zsirhaver",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:32:26",
-    "Body" : "Short answer,no.\nYou can still buy oils and edibles tho."
+    "body" : "Short answer,no.\nYou can still buy oils and edibles tho.",
+    "username" : "zsirhaver",
+    "timestamp" : "2024-12-23 07:32:26"
   }, {
-    "Username" : "Environmental-Doubt3",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:07:17",
-    "Body" : "yeah I m planning to smoke on a remote zone outside the city but thanks for the heads up!"
+    "body" : "yeah I m planning to smoke on a remote zone outside the city but thanks for the heads up!",
+    "username" : "Environmental-Doubt3",
+    "timestamp" : "2024-12-23 10:07:17"
   }, {
-    "Username" : "zsember",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:59:40",
-    "Body" : "nope, you can actually buy cbd flowers. There is a store on Móricz Zsigmond Körtér that I know of and have recently bought weed from, its on Bartók Béla út next to the Spar. But there’s another store called Hollyweed Cannabistro where you can also buy flowers."
+    "body" : "nope, you can actually buy cbd flowers. There is a store on Móricz Zsigmond Körtér that I know of and have recently bought weed from, its on Bartók Béla út next to the Spar. But there’s another store called Hollyweed Cannabistro where you can also buy flowers.",
+    "username" : "zsember",
+    "timestamp" : "2024-12-23 07:59:40"
   }, {
-    "Username" : "Environmental-Doubt3",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:36:11",
-    "Body" : "Thanks"
+    "body" : "Thanks",
+    "username" : "Environmental-Doubt3",
+    "timestamp" : "2024-12-23 08:36:11"
   }, {
-    "Username" : "Environmental-Doubt3",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:35:53",
-    "Body" : "so yes or no? someone said no and you said I can lol"
+    "body" : "so yes or no? someone said no and you said I can lol",
+    "username" : "Environmental-Doubt3",
+    "timestamp" : "2024-12-23 08:35:53"
   }, {
-    "Username" : "Environmental-Doubt3",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:36:15",
-    "Body" : "thanks"
+    "body" : "thanks",
+    "username" : "Environmental-Doubt3",
+    "timestamp" : "2024-12-23 08:36:15"
   }, {
-    "Username" : "Environmental-Doubt3",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:39:46",
-    "Body" : "I am actually like 5 mins away from the Spar on Bartók Béla"
+    "body" : "I am actually like 5 mins away from the Spar on Bartók Béla",
+    "username" : "Environmental-Doubt3",
+    "timestamp" : "2024-12-23 08:39:46"
   }, {
-    "Username" : "zsember",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:40:03",
-    "Body" : "I’m sure you can. I just did like a month ago, they might be still open today"
+    "body" : "I’m sure you can. I just did like a month ago, they might be still open today",
+    "username" : "zsember",
+    "timestamp" : "2024-12-23 08:40:03"
   } ]
 }

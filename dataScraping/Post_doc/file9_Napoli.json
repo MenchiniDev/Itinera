@@ -1,20 +1,20 @@
 {
-  "Id" : 200401,
-  "Community_name" : "Napoli",
-  "Username" : "Slow_Cardiologist365",
-  "Post_body" : "How to Get from Naples to Sorrento: Travel Options Explained",
-  "Timestamp" : "2024-12-23 11:15:27",
-  "Num_comment" : 2,
+  "id" : 200401,
+  "community_name" : "Napoli",
+  "username" : "Slow_Cardiologist365",
+  "post_body" : "How to Get from Naples to Sorrento: Travel Options Explained",
+  "timestamp" : "2024-12-23 11:15:27",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "No_Cat_9638",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:15:27",
-    "Body" : "With Circumvesuviana ( type of metro)\nhttps://www.sorrentoinsider.com/it/orari-vesuviana-napoli-sorrento"
+    "body" : "With Circumvesuviana ( type of metro)\nhttps://www.sorrentoinsider.com/it/orari-vesuviana-napoli-sorrento",
+    "username" : "No_Cat_9638",
+    "timestamp" : "2024-12-23 11:15:27"
   }, {
-    "Username" : "Tipo_Dell_Abisso",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:01:32",
-    "Body" : "Don't, thanks!"
+    "body" : "Don't, thanks!",
+    "username" : "Tipo_Dell_Abisso",
+    "timestamp" : "2024-12-23 14:01:32"
   } ]
 }

@@ -1,10 +1,10 @@
 {
-  "Id" : 200066,
-  "Community_name" : "Napoli",
-  "Username" : "dnosr",
-  "Post_body" : "Dati accesso luoghi d'interesse",
-  "Timestamp" : "2024-04-15 19:57:50",
-  "Num_comment" : 0,
+  "id" : 200066,
+  "community_name" : "Napoli",
+  "username" : "dnosr",
+  "post_body" : "Dati accesso luoghi d'interesse",
+  "timestamp" : "2024-01-10 20:36:31",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

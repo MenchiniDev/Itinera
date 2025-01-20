@@ -1,20 +1,20 @@
 {
-  "Id" : 200047,
-  "Community_name" : "Napoli",
-  "Username" : "Ok-Excitement4831",
-  "Post_body" : "aperitivo del 24",
-  "Timestamp" : "2024-12-23 13:40:39",
-  "Num_comment" : 2,
+  "id" : 200047,
+  "community_name" : "Napoli",
+  "username" : "Ok-Excitement4831",
+  "post_body" : "aperitivo del 24",
+  "timestamp" : "2024-12-23 13:40:39",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Charlz__",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:40:39",
-    "Body" : "Io domani pomeriggio vado a Pozzuoli, credo il classico luogo dietro al Gozzetto\nÈ il mio primo aperitivo del 24 dopo 7 anni di schiavitù a lavoro"
+    "body" : "Io domani pomeriggio vado a Pozzuoli, credo il classico luogo dietro al Gozzetto\nÈ il mio primo aperitivo del 24 dopo 7 anni di schiavitù a lavoro",
+    "username" : "Charlz__",
+    "timestamp" : "2024-12-23 13:40:39"
   }, {
-    "Username" : "No-Permission-5613",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:46:45",
-    "Body" : "Ubriacati alla faccia loro!"
+    "body" : "Ubriacati alla faccia loro!",
+    "username" : "No-Permission-5613",
+    "timestamp" : "2024-12-23 13:46:45"
   } ]
 }

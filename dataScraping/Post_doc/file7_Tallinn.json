@@ -1,10 +1,10 @@
 {
-  "Id" : 200256,
-  "Community_name" : "Tallinn",
-  "Username" : "None",
-  "Post_body" : "This subreddit is inactive. Please go to r/eesti",
-  "Timestamp" : "2024-04-15 20:14:23",
-  "Num_comment" : 0,
+  "id" : 200256,
+  "community_name" : "Tallinn",
+  "username" : "None",
+  "post_body" : "This subreddit is inactive. Please go to r/eesti",
+  "timestamp" : "2024-01-10 20:56:45",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

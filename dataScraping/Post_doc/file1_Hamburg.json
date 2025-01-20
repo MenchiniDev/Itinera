@@ -1,15 +1,15 @@
 {
-  "Id" : 200005,
-  "Community_name" : "Hamburg",
-  "Username" : "ConnectionSenior5738",
-  "Post_body" : "How Long could a master student apply to stay in University dorms if the student is considering a PhD afterwards",
-  "Timestamp" : "2024-12-23 11:19:42",
-  "Num_comment" : 1,
+  "id" : 200005,
+  "community_name" : "Hamburg",
+  "username" : "ConnectionSenior5738",
+  "post_body" : "How Long could a master student apply to stay in University dorms if the student is considering a PhD afterwards",
+  "timestamp" : "2024-12-23 11:19:42",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "drunk_by_mojito",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:19:42",
-    "Body" : "You can do stuff like Barteam and such in most dorms in Hamburg to get more time"
+    "body" : "You can do stuff like Barteam and such in most dorms in Hamburg to get more time",
+    "username" : "drunk_by_mojito",
+    "timestamp" : "2024-12-23 11:19:42"
   } ]
 }

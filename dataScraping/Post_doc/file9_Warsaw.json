@@ -1,25 +1,25 @@
 {
-  "Id" : 200411,
-  "Community_name" : "Warsaw",
-  "Username" : "drparzival_",
-  "Post_body" : "places open on holiday",
-  "Timestamp" : "2024-12-22 19:39:48",
-  "Num_comment" : 3,
+  "id" : 200411,
+  "community_name" : "Warsaw",
+  "username" : "drparzival_",
+  "post_body" : "places open on holiday",
+  "timestamp" : "2024-12-22 19:39:48",
+  "num_comment" : 3,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "StateDeparmentAgent",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:43:44",
-    "Body" : "Most if not all cafes and restaurants will be open"
+    "body" : "Most if not all cafes and restaurants will be open",
+    "username" : "StateDeparmentAgent",
+    "timestamp" : "2024-12-22 19:43:44"
   }, {
-    "Username" : "No-Strawberry7",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:39:48",
-    "Body" : "probably not"
+    "body" : "probably not",
+    "username" : "No-Strawberry7",
+    "timestamp" : "2024-12-22 19:39:48"
   }, {
-    "Username" : "eckowy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:54:43",
-    "Body" : "Monday 23th is a regular working day for most places, dafuq is this question."
+    "body" : "Monday 23th is a regular working day for most places, dafuq is this question.",
+    "username" : "eckowy",
+    "timestamp" : "2024-12-22 19:54:43"
   } ]
 }
