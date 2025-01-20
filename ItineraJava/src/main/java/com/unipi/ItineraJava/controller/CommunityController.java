@@ -85,12 +85,12 @@ class CommunityController {
             return ResponseEntity.status(500).body("Error creating community: " + e.getMessage());
         }
     }
-    /*
-    @DeleteMapping("/{id}")
-    public void deleteCommunity(@PathVariable String id) {
-        communityService.deleteById(id);
+
+    @DeleteMapping("/{name}")
+    public void deleteCommunity(@PathVariable String name) {
+        communityService.deleteByName(name);
     }
-     */
+
 
 
     //join ad una community da parte dello user loggato 
@@ -147,6 +147,4 @@ class CommunityController {
         // Se l'utente non è autenticato, restituisce un errore di accesso negato
         return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
     }
-    
-
 }

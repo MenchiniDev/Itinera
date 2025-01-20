@@ -48,6 +48,9 @@ public class CommunityService {
                 .orElse(null); // Ritorna l'ultimo post o null se non esistono post
     }
 
+    public void deleteByName(String name) {
+        communityRepository.deleteByCity(name);
+    }
 
 
 
@@ -91,6 +94,4 @@ public class CommunityService {
         // (opzionale) Log per debug
         System.out.println("User " + username + " successfully joined community: " + city);
     }
-
-
 }
