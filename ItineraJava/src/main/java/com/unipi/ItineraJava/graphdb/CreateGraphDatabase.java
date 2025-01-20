@@ -58,7 +58,7 @@ public class CreateGraphDatabase {
                     JSONObject post = (JSONObject) parser.parse(content);
 
                     // Estraggo dati dal post
-                    String postId = (String) post.get("post_id");
+                    String postId = String.valueOf(post.get("id"));
                     String communityName = (String) post.get("community_name");
                     String username = (String) post.get("username");
                     String preview = getPostPreview((String) post.get("post_body"));
@@ -97,7 +97,7 @@ public class CreateGraphDatabase {
                     System.out.println("Creato nodo Post con id: " + postId + ", preview e timestamp associato a User e Community.");
 
                     // Estraggo i commenti e creo relazioni come archi
-                    JSONArray comments = (JSONArray) post.get("commenti");
+                    JSONArray comments = (JSONArray) post.get("comment");
                     System.out.println("Trovati " + comments.size() + " commenti nel file " + file.getName());
 
                     for (Object commentObj : comments) {
