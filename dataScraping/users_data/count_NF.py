@@ -11,7 +11,7 @@ def count_objects_with_and_without_last_post(input_file):
 
     # Conta gli oggetti
     for obj in data:
-        if 'Last_post' in obj:
+        if 'last_post' in obj:
             with_last_post += 1
         else:
             without_last_post += 1

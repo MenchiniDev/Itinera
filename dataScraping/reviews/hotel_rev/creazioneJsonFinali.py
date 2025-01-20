@@ -27,13 +27,13 @@ def create_json_files(input_file, usernames_file, reviews_output_file, hotels_ou
     for review in reviews:
         # Creazione del JSON per le recensioni
         review_entry = {
-            "Place_name": review.get("name", ""),
-            "Text": review.get("text", ""),
-            "Timestamp": review.get("timestamp", ""),
-            "Rev_id": review_id,
-            "User": usernames[username_index],
-            "Stars": review.get("stars", 0),
-            "Reported": False
+            "place_name": review.get("name", ""),
+            "text": review.get("text", ""),
+            "timestamp": review.get("timestamp", ""),
+            "rev_id": review_id,
+            "user": usernames[username_index],
+            "stars": review.get("stars", 0),
+            "reported": False
         }
         reviews_output.append(review_entry)
         review_id += 1
@@ -46,16 +46,16 @@ def create_json_files(input_file, usernames_file, reviews_output_file, hotels_ou
     # Elaborazione degli hotel
     for (name, address, city), stars in hotel_reviews.items():
         review_info = {
-            "Overall_rating": round(sum(stars) / len(stars), 2),
-            "Tot_rev_number": len(stars)
+            "overall_rating": round(sum(stars) / len(stars), 2),
+            "tot_rev_number": len(stars)
         }
         hotel_entry = {
-            "Id": hotel_id,
-            "Name": name,
-            "Address": address,
-            "City": city,
-            "Category": "Hotel",
-            "Reviews_info": review_info
+            "id": hotel_id,
+            "name": name,
+            "address": address,
+            "city": city,
+            "category": "Hotel",
+            "reviews_info": review_info
         }
         hotels_output.append(hotel_entry)
         hotel_id += 1

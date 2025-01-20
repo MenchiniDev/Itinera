@@ -30,13 +30,13 @@ def process_reviews(reviews, addresses, usernames):
 
         # Creazione della recensione processata
         processed_review = {
-            "Place_name": place_name,
-            "Text": comment,
-            "Timestamp": timestamp,
-            "Rev_id": id_counter,
-            "User": user,
-            "Stars": int(review.get("rating", 0)),
-            "Reported": False
+            "place_name": place_name,
+            "text": comment,
+            "timestamp": timestamp,
+            "rev_id": id_counter,
+            "user": user,
+            "stars": int(review.get("rating", 0)),
+            "reported": False
         }
         processed_reviews.append(processed_review)
         id_counter += 1
@@ -51,26 +51,26 @@ def generate_review_info(processed_reviews, addresses):
     for address in addresses:
         # Filtra le recensioni per il museo corrente prendendo Place_name dall'array prodotto nella funzione precedente 
         # e name dal file json contenente gli indirizzi dei musei
-        museum_reviews = [review for review in processed_reviews if review["Place_name"] == address["name"]]
+        museum_reviews = [review for review in processed_reviews if review["place_name"] == address["name"]]
 
         # Calcola il numero di recensioni e la media dei rating
         total_reviews = len(museum_reviews)
-        average_rating = round(sum(review["Stars"] for review in museum_reviews) / total_reviews, 2) if total_reviews > 0 else 0
+        average_rating = round(sum(review["stars"] for review in museum_reviews) / total_reviews, 2) if total_reviews > 0 else 0
 
         # Crea l'oggetto embedded reviews_info
         reviews_info = {
-            "Overall_rating": average_rating,
-            "Tot_rev_number": total_reviews
+            "overall_rating": average_rating,
+            "tot_rev_number": total_reviews
         }
 
         # Crea l'oggetto per il secondo file
         processed_address = {
-            "Id": id_counter,
-            "Name": address["name"],
-            "Address": address["address"],
-            "City": address["city"],
-            "Category": "Museum",
-            "Reviews_info": reviews_info
+            "id": id_counter,
+            "name": address["name"],
+            "address": address["address"],
+            "city": address["city"],
+            "category": "Museum",
+            "reviews_info": reviews_info
         }
 
         processed_addresses.append(processed_address)

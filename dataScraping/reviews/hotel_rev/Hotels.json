@@ -1,1652 +1,1652 @@
 [
     {
-        "Id": 1250,
-        "Name": "Hotel Arena",
-        "Address": " s Gravesandestraat 55 Oost 1092 AA Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.96,
-            "Tot_rev_number": 405
+        "id": 1250,
+        "name": "Hotel Arena",
+        "address": " s Gravesandestraat 55 Oost 1092 AA Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.96,
+            "tot_rev_number": 405
         }
     },
     {
-        "Id": 1251,
-        "Name": "K K Hotel George",
-        "Address": "1 15 Templeton Place Earl s Court Kensington and Chelsea London SW5 9NB United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.36,
-            "Tot_rev_number": 566
+        "id": 1251,
+        "name": "K K Hotel George",
+        "address": "1 15 Templeton Place Earl s Court Kensington and Chelsea London SW5 9NB United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.36,
+            "tot_rev_number": 566
         }
     },
     {
-        "Id": 1252,
-        "Name": "Apex Temple Court Hotel",
-        "Address": "1 2 Serjeant s Inn Fleet Street City of London London EC4Y 1LL United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.73,
-            "Tot_rev_number": 1037
+        "id": 1252,
+        "name": "Apex Temple Court Hotel",
+        "address": "1 2 Serjeant s Inn Fleet Street City of London London EC4Y 1LL United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.73,
+            "tot_rev_number": 1037
         }
     },
     {
-        "Id": 1253,
-        "Name": "The Park Grand London Paddington",
-        "Address": "1 3 Queens Garden Westminster Borough London W2 3BA United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.87,
-            "Tot_rev_number": 1770
+        "id": 1253,
+        "name": "The Park Grand London Paddington",
+        "address": "1 3 Queens Garden Westminster Borough London W2 3BA United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.87,
+            "tot_rev_number": 1770
         }
     },
     {
-        "Id": 1254,
-        "Name": "Monhotel Lounge SPA",
-        "Address": "1 3 Rue d Argentine 16th arr 75116 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.46,
-            "Tot_rev_number": 35
+        "id": 1254,
+        "name": "Monhotel Lounge SPA",
+        "address": "1 3 Rue d Argentine 16th arr 75116 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.46,
+            "tot_rev_number": 35
         }
     },
     {
-        "Id": 1255,
-        "Name": "Kube Hotel Ice Bar",
-        "Address": "1 5 Passage Ruelle 18th arr 75018 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 2.89,
-            "Tot_rev_number": 19
+        "id": 1255,
+        "name": "Kube Hotel Ice Bar",
+        "address": "1 5 Passage Ruelle 18th arr 75018 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 2.89,
+            "tot_rev_number": 19
         }
     },
     {
-        "Id": 1256,
-        "Name": "The Principal London",
-        "Address": "1 8 Russell Square Camden London WC1B 5BE United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.03,
-            "Tot_rev_number": 1425
+        "id": 1256,
+        "name": "The Principal London",
+        "address": "1 8 Russell Square Camden London WC1B 5BE United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.03,
+            "tot_rev_number": 1425
         }
     },
     {
-        "Id": 1257,
-        "Name": "Park Plaza County Hall London",
-        "Address": "1 Addington Street Lambeth London SE1 7RY United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.23,
-            "Tot_rev_number": 2223
+        "id": 1257,
+        "name": "Park Plaza County Hall London",
+        "address": "1 Addington Street Lambeth London SE1 7RY United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.23,
+            "tot_rev_number": 2223
         }
     },
     {
-        "Id": 1258,
-        "Name": "One Aldwych",
-        "Address": "1 Aldwych Westminster Borough London WC2B 4BZ United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.61,
-            "Tot_rev_number": 136
+        "id": 1258,
+        "name": "One Aldwych",
+        "address": "1 Aldwych Westminster Borough London WC2B 4BZ United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.61,
+            "tot_rev_number": 136
         }
     },
     {
-        "Id": 1259,
-        "Name": "Splendid Etoile",
-        "Address": "1 Avenue Carnot 17th arr 75017 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.65,
-            "Tot_rev_number": 127
+        "id": 1259,
+        "name": "Splendid Etoile",
+        "address": "1 Avenue Carnot 17th arr 75017 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.65,
+            "tot_rev_number": 127
         }
     },
     {
-        "Id": 1260,
-        "Name": "Hotel Trianon Rive Gauche",
-        "Address": "1 Bis Rue De Vaugirard 6th arr 75006 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.18,
-            "Tot_rev_number": 218
+        "id": 1260,
+        "name": "Hotel Trianon Rive Gauche",
+        "address": "1 Bis Rue De Vaugirard 6th arr 75006 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.18,
+            "tot_rev_number": 218
         }
     },
     {
-        "Id": 1261,
-        "Name": "InterContinental London Park Lane",
-        "Address": "1 Hamilton Place Park Lane Westminster Borough London W1J 7QY United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.21,
-            "Tot_rev_number": 160
+        "id": 1261,
+        "name": "InterContinental London Park Lane",
+        "address": "1 Hamilton Place Park Lane Westminster Borough London W1J 7QY United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.21,
+            "tot_rev_number": 160
         }
     },
     {
-        "Id": 1262,
-        "Name": "Novotel Suites Paris Nord 18 me",
-        "Address": "1 Impasse Marteau 18th arr 75018 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.51,
-            "Tot_rev_number": 180
+        "id": 1262,
+        "name": "Novotel Suites Paris Nord 18 me",
+        "address": "1 Impasse Marteau 18th arr 75018 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.51,
+            "tot_rev_number": 180
         }
     },
     {
-        "Id": 1263,
-        "Name": "Grand Royale London Hyde Park",
-        "Address": "1 Inverness Terrace Westminster Borough London W2 3JP United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.83,
-            "Tot_rev_number": 2958
+        "id": 1263,
+        "name": "Grand Royale London Hyde Park",
+        "address": "1 Inverness Terrace Westminster Borough London W2 3JP United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.83,
+            "tot_rev_number": 2958
         }
     },
     {
-        "Id": 1264,
-        "Name": "Milestone Hotel Kensington",
-        "Address": "1 Kensington Court Kensington and Chelsea London W8 5DL United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.86,
-            "Tot_rev_number": 86
+        "id": 1264,
+        "name": "Milestone Hotel Kensington",
+        "address": "1 Kensington Court Kensington and Chelsea London W8 5DL United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.86,
+            "tot_rev_number": 86
         }
     },
     {
-        "Id": 1265,
-        "Name": "Crowne Plaza London Kings Cross",
-        "Address": "1 Kings Cross Road Islington London WC1X 9HX United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.02,
-            "Tot_rev_number": 1007
+        "id": 1265,
+        "name": "Crowne Plaza London Kings Cross",
+        "address": "1 Kings Cross Road Islington London WC1X 9HX United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.02,
+            "tot_rev_number": 1007
         }
     },
     {
-        "Id": 1266,
-        "Name": "Select Hotel",
-        "Address": "1 Place De La Sorbonne 5th arr 75005 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.55,
-            "Tot_rev_number": 256
+        "id": 1266,
+        "name": "Select Hotel",
+        "address": "1 Place De La Sorbonne 5th arr 75005 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.55,
+            "tot_rev_number": 256
         }
     },
     {
-        "Id": 1267,
-        "Name": "H tel De Vend me",
-        "Address": "1 Place Vend me 1st arr 75001 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.19,
-            "Tot_rev_number": 89
+        "id": 1267,
+        "name": "H tel De Vend me",
+        "address": "1 Place Vend me 1st arr 75001 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.19,
+            "tot_rev_number": 89
         }
     },
     {
-        "Id": 1268,
-        "Name": "Pullman Paris Centre Bercy",
-        "Address": "1 Rue De Libourne 12th arr 75012 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.42,
-            "Tot_rev_number": 224
+        "id": 1268,
+        "name": "Pullman Paris Centre Bercy",
+        "address": "1 Rue De Libourne 12th arr 75012 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.42,
+            "tot_rev_number": 224
         }
     },
     {
-        "Id": 1269,
-        "Name": "Gardette Park Hotel",
-        "Address": "1 Rue Du G n ral Blaise 11th arr 75011 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.09,
-            "Tot_rev_number": 179
+        "id": 1269,
+        "name": "Gardette Park Hotel",
+        "address": "1 Rue Du G n ral Blaise 11th arr 75011 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.09,
+            "tot_rev_number": 179
         }
     },
     {
-        "Id": 1270,
-        "Name": "Hotel Panache",
-        "Address": "1 rue Geoffroy Marie 9th arr 75009 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.24,
-            "Tot_rev_number": 82
+        "id": 1270,
+        "name": "Hotel Panache",
+        "address": "1 rue Geoffroy Marie 9th arr 75009 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.24,
+            "tot_rev_number": 82
         }
     },
     {
-        "Id": 1271,
-        "Name": "H tel des Ducs D Anjou",
-        "Address": "1 Rue Sainte Opportune 1st arr 75001 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.92,
-            "Tot_rev_number": 108
+        "id": 1271,
+        "name": "H tel des Ducs D Anjou",
+        "address": "1 Rue Sainte Opportune 1st arr 75001 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.92,
+            "tot_rev_number": 108
         }
     },
     {
-        "Id": 1272,
-        "Name": "Hotel Scribe Paris Opera by Sofitel",
-        "Address": "1 Rue Scribe 9th arr 75009 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.46,
-            "Tot_rev_number": 135
+        "id": 1272,
+        "name": "Hotel Scribe Paris Opera by Sofitel",
+        "address": "1 Rue Scribe 9th arr 75009 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.46,
+            "tot_rev_number": 135
         }
     },
     {
-        "Id": 1273,
-        "Name": "Novotel London West",
-        "Address": "1 Shortlands Hammersmith and Fulham London W6 8DR United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.17,
-            "Tot_rev_number": 1283
+        "id": 1273,
+        "name": "Novotel London West",
+        "address": "1 Shortlands Hammersmith and Fulham London W6 8DR United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.17,
+            "tot_rev_number": 1283
         }
     },
     {
-        "Id": 1274,
-        "Name": "Haymarket Hotel",
-        "Address": "1 Suffolk Place Westminster Borough London SW1Y 4HX United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.88,
-            "Tot_rev_number": 121
+        "id": 1274,
+        "name": "Haymarket Hotel",
+        "address": "1 Suffolk Place Westminster Borough London SW1Y 4HX United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.88,
+            "tot_rev_number": 121
         }
     },
     {
-        "Id": 1275,
-        "Name": "Intercontinental London The O2",
-        "Address": "1 Waterview Drive Greenwich London SE10 0TW United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.81,
-            "Tot_rev_number": 2551
+        "id": 1275,
+        "name": "Intercontinental London The O2",
+        "address": "1 Waterview Drive Greenwich London SE10 0TW United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.81,
+            "tot_rev_number": 2551
         }
     },
     {
-        "Id": 1276,
-        "Name": "H tel Juliana Paris",
-        "Address": "10 12 rue Cognacq Jay 7th arr 75007 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.35,
-            "Tot_rev_number": 169
+        "id": 1276,
+        "name": "H tel Juliana Paris",
+        "address": "10 12 rue Cognacq Jay 7th arr 75007 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.35,
+            "tot_rev_number": 169
         }
     },
     {
-        "Id": 1277,
-        "Name": "Hotel L Antoine",
-        "Address": "10 12 rue de Charonne 11th arr 75011 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.65,
-            "Tot_rev_number": 171
+        "id": 1277,
+        "name": "Hotel L Antoine",
+        "address": "10 12 rue de Charonne 11th arr 75011 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.65,
+            "tot_rev_number": 171
         }
     },
     {
-        "Id": 1278,
-        "Name": "Belfast",
-        "Address": "10 avenue Carnot 17th arr 75017 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.88,
-            "Tot_rev_number": 86
+        "id": 1278,
+        "name": "Belfast",
+        "address": "10 avenue Carnot 17th arr 75017 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.88,
+            "tot_rev_number": 86
         }
     },
     {
-        "Id": 1279,
-        "Name": "Shangri La Hotel Paris",
-        "Address": "10 Avenue D I na 16th arr 75016 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.65,
-            "Tot_rev_number": 46
+        "id": 1279,
+        "name": "Shangri La Hotel Paris",
+        "address": "10 Avenue D I na 16th arr 75016 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.65,
+            "tot_rev_number": 46
         }
     },
     {
-        "Id": 1280,
-        "Name": "Mercure Paris Tour Eiffel Pont Mirabeau",
-        "Address": "10 Avenue Emile Zola 15th arr 75015 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.73,
-            "Tot_rev_number": 70
+        "id": 1280,
+        "name": "Mercure Paris Tour Eiffel Pont Mirabeau",
+        "address": "10 Avenue Emile Zola 15th arr 75015 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.73,
+            "tot_rev_number": 70
         }
     },
     {
-        "Id": 1281,
-        "Name": "Knightsbridge Hotel",
-        "Address": "10 Beaufort Gardens Kensington and Chelsea London SW3 1PT United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.6,
-            "Tot_rev_number": 173
+        "id": 1281,
+        "name": "Knightsbridge Hotel",
+        "address": "10 Beaufort Gardens Kensington and Chelsea London SW3 1PT United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.6,
+            "tot_rev_number": 173
         }
     },
     {
-        "Id": 1282,
-        "Name": "The London EDITION",
-        "Address": "10 Berners Street Westminster Borough London W1T 3NP United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.62,
-            "Tot_rev_number": 141
+        "id": 1282,
+        "name": "The London EDITION",
+        "address": "10 Berners Street Westminster Borough London W1T 3NP United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.62,
+            "tot_rev_number": 141
         }
     },
     {
-        "Id": 1283,
-        "Name": "The Cranley Hotel",
-        "Address": "10 Bina Gardens South Kensington Kensington and Chelsea London SW5 0LA United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.88,
-            "Tot_rev_number": 160
+        "id": 1283,
+        "name": "The Cranley Hotel",
+        "address": "10 Bina Gardens South Kensington Kensington and Chelsea London SW5 0LA United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.88,
+            "tot_rev_number": 160
         }
     },
     {
-        "Id": 1284,
-        "Name": "Hotel Le 10 BIS",
-        "Address": "10 Bis rue du D barcad re 17th arr 75017 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.76,
-            "Tot_rev_number": 49
+        "id": 1284,
+        "name": "Hotel Le 10 BIS",
+        "address": "10 Bis rue du D barcad re 17th arr 75017 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.76,
+            "tot_rev_number": 49
         }
     },
     {
-        "Id": 1285,
-        "Name": "The Nadler Soho",
-        "Address": "10 Carlisle Street Westminster Borough London W1D 3BR United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.68,
-            "Tot_rev_number": 491
+        "id": 1285,
+        "name": "The Nadler Soho",
+        "address": "10 Carlisle Street Westminster Borough London W1D 3BR United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.68,
+            "tot_rev_number": 491
         }
     },
     {
-        "Id": 1286,
-        "Name": "Grange St Paul s Hotel",
-        "Address": "10 Godliman Street City of London London EC4V 5AJ United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.3,
-            "Tot_rev_number": 1154
+        "id": 1286,
+        "name": "Grange St Paul s Hotel",
+        "address": "10 Godliman Street City of London London EC4V 5AJ United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.3,
+            "tot_rev_number": 1154
         }
     },
     {
-        "Id": 1287,
-        "Name": "The Ampersand Hotel",
-        "Address": "10 Harrington Road Kensington and Chelsea London SW7 3ER United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.67,
-            "Tot_rev_number": 382
+        "id": 1287,
+        "name": "The Ampersand Hotel",
+        "address": "10 Harrington Road Kensington and Chelsea London SW7 3ER United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.67,
+            "tot_rev_number": 382
         }
     },
     {
-        "Id": 1288,
-        "Name": "Covent Garden Hotel",
-        "Address": "10 Monmouth Street Camden London WC2H 9HB United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.89,
-            "Tot_rev_number": 74
+        "id": 1288,
+        "name": "Covent Garden Hotel",
+        "address": "10 Monmouth Street Camden London WC2H 9HB United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.89,
+            "tot_rev_number": 74
         }
     },
     {
-        "Id": 1289,
-        "Name": "The Nadler Victoria",
-        "Address": "10 Palace Place Westminster Borough London SW1E 5BW United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.74,
-            "Tot_rev_number": 601
+        "id": 1289,
+        "name": "The Nadler Victoria",
+        "address": "10 Palace Place Westminster Borough London SW1E 5BW United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.74,
+            "tot_rev_number": 601
         }
     },
     {
-        "Id": 1290,
-        "Name": "Novotel London Tower Bridge",
-        "Address": "10 Pepys Street City of London London EC3N 2NR United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.44,
-            "Tot_rev_number": 389
+        "id": 1290,
+        "name": "Novotel London Tower Bridge",
+        "address": "10 Pepys Street City of London London EC3N 2NR United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.44,
+            "tot_rev_number": 389
         }
     },
     {
-        "Id": 1291,
-        "Name": "Crowne Plaza Paris R publique",
-        "Address": "10 Place De La R publique 11th arr 75011 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.07,
-            "Tot_rev_number": 212
+        "id": 1291,
+        "name": "Crowne Plaza Paris R publique",
+        "address": "10 Place De La R publique 11th arr 75011 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.07,
+            "tot_rev_number": 212
         }
     },
     {
-        "Id": 1292,
-        "Name": "Le Metropolitan a Tribute Portfolio Hotel",
-        "Address": "10 Place De Mexico 16th arr 75016 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.23,
-            "Tot_rev_number": 66
+        "id": 1292,
+        "name": "Le Metropolitan a Tribute Portfolio Hotel",
+        "address": "10 Place De Mexico 16th arr 75016 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.23,
+            "tot_rev_number": 66
         }
     },
     {
-        "Id": 1293,
-        "Name": "Atala Champs Elys es",
-        "Address": "10 rue Chateaubriand 8th arr 75008 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.97,
-            "Tot_rev_number": 29
+        "id": 1293,
+        "name": "Atala Champs Elys es",
+        "address": "10 rue Chateaubriand 8th arr 75008 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.97,
+            "tot_rev_number": 29
         }
     },
     {
-        "Id": 1294,
-        "Name": "H tel de Jos phine BONAPARTE",
-        "Address": "10 rue d Ormesson 4th arr 75004 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.64,
-            "Tot_rev_number": 76
+        "id": 1294,
+        "name": "H tel de Jos phine BONAPARTE",
+        "address": "10 rue d Ormesson 4th arr 75004 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.64,
+            "tot_rev_number": 76
         }
     },
     {
-        "Id": 1295,
-        "Name": "Maison Souquet",
-        "Address": "10 rue de Bruxelles 9th arr 75009 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.75,
-            "Tot_rev_number": 91
+        "id": 1295,
+        "name": "Maison Souquet",
+        "address": "10 rue de Bruxelles 9th arr 75009 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.75,
+            "tot_rev_number": 91
         }
     },
     {
-        "Id": 1296,
-        "Name": "Hotel Tour d Auvergne Opera",
-        "Address": "10 Rue de la Tour d Auvergne 9th arr 75009 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.32,
-            "Tot_rev_number": 25
+        "id": 1296,
+        "name": "Hotel Tour d Auvergne Opera",
+        "address": "10 Rue de la Tour d Auvergne 9th arr 75009 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.32,
+            "tot_rev_number": 25
         }
     },
     {
-        "Id": 1297,
-        "Name": "Le Senat",
-        "Address": "10 rue de Vaugirard 6th arr 75006 Paris France",
-        "City": "Paris",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.18,
-            "Tot_rev_number": 120
+        "id": 1297,
+        "name": "Le Senat",
+        "address": "10 rue de Vaugirard 6th arr 75006 Paris France",
+        "city": "Paris",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.18,
+            "tot_rev_number": 120
         }
     },
     {
-        "Id": 1298,
-        "Name": "W London Leicester Square",
-        "Address": "10 Wardour Street Leicester Square Westminster Borough London W1D 6QF United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.2,
-            "Tot_rev_number": 267
+        "id": 1298,
+        "name": "W London Leicester Square",
+        "address": "10 Wardour Street Leicester Square Westminster Borough London W1D 6QF United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.2,
+            "tot_rev_number": 267
         }
     },
     {
-        "Id": 1299,
-        "Name": "The Victoria",
-        "Address": "10 West Temple Sheen London SW14 7RT United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.16,
-            "Tot_rev_number": 162
+        "id": 1299,
+        "name": "The Victoria",
+        "address": "10 West Temple Sheen London SW14 7RT United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.16,
+            "tot_rev_number": 162
         }
     },
     {
-        "Id": 1300,
-        "Name": "Pullman London St Pancras",
-        "Address": "100 110 Euston Road Camden London NW1 2AJ United Kingdom",
-        "City": "London",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.53,
-            "Tot_rev_number": 1242
+        "id": 1300,
+        "name": "Pullman London St Pancras",
+        "address": "100 110 Euston Road Camden London NW1 2AJ United Kingdom",
+        "city": "London",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.53,
+            "tot_rev_number": 1242
         }
     },
     {
-        "Id": 1301,
-        "Name": "Sansi Diputacio",
-        "Address": "234 Diputacio Eixample 08007 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.91,
-            "Tot_rev_number": 57
+        "id": 1301,
+        "name": "Sansi Diputacio",
+        "address": "234 Diputacio Eixample 08007 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.91,
+            "tot_rev_number": 57
         }
     },
     {
-        "Id": 1302,
-        "Name": "The One Barcelona GL",
-        "Address": "277 Carrer de Proven a Eixample 08037 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.81,
-            "Tot_rev_number": 85
+        "id": 1302,
+        "name": "The One Barcelona GL",
+        "address": "277 Carrer de Proven a Eixample 08037 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.81,
+            "tot_rev_number": 85
         }
     },
     {
-        "Id": 1303,
-        "Name": "Morgan Mees",
-        "Address": "2e Hugo de Grootstraat 2 6 Westerpark 1052 LC Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.5,
-            "Tot_rev_number": 149
+        "id": 1303,
+        "name": "Morgan Mees",
+        "address": "2e Hugo de Grootstraat 2 6 Westerpark 1052 LC Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.5,
+            "tot_rev_number": 149
         }
     },
     {
-        "Id": 1304,
-        "Name": "Hotel VIU Milan",
-        "Address": "6 Via Aristotile Fioravanti Garibaldi Station 20154 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.48,
-            "Tot_rev_number": 58
+        "id": 1304,
+        "name": "Hotel VIU Milan",
+        "address": "6 Via Aristotile Fioravanti Garibaldi Station 20154 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.48,
+            "tot_rev_number": 58
         }
     },
     {
-        "Id": 1305,
-        "Name": "Sir Albert Hotel",
-        "Address": "Albert Cuypstraat 2 6 Oud Zuid 1072 CT Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.5,
-            "Tot_rev_number": 335
+        "id": 1305,
+        "name": "Sir Albert Hotel",
+        "address": "Albert Cuypstraat 2 6 Oud Zuid 1072 CT Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.5,
+            "tot_rev_number": 335
         }
     },
     {
-        "Id": 1306,
-        "Name": "Corendon Vitality Hotel Amsterdam",
-        "Address": "Aletta Jacobslaan 7 Slotervaart 1066 BP Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.33,
-            "Tot_rev_number": 941
+        "id": 1306,
+        "name": "Corendon Vitality Hotel Amsterdam",
+        "address": "Aletta Jacobslaan 7 Slotervaart 1066 BP Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.33,
+            "tot_rev_number": 941
         }
     },
     {
-        "Id": 1307,
-        "Name": "Hotel Bellevue Wien",
-        "Address": "Althanstra e 5 09 Alsergrund 1090 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.93,
-            "Tot_rev_number": 45
+        "id": 1307,
+        "name": "Hotel Bellevue Wien",
+        "address": "Althanstra e 5 09 Alsergrund 1090 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.93,
+            "tot_rev_number": 45
         }
     },
     {
-        "Id": 1308,
-        "Name": "Maison Borella",
-        "Address": "Alzaia Naviglio Grande 8 Navigli 20144 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.76,
-            "Tot_rev_number": 130
+        "id": 1308,
+        "name": "Maison Borella",
+        "address": "Alzaia Naviglio Grande 8 Navigli 20144 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.76,
+            "tot_rev_number": 130
         }
     },
     {
-        "Id": 1309,
-        "Name": "Hotel Am Konzerthaus Vienna MGallery by Sofitel",
-        "Address": "Am Heumarkt 35 37 03 Landstra e 1030 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.43,
-            "Tot_rev_number": 230
+        "id": 1309,
+        "name": "Hotel Am Konzerthaus Vienna MGallery by Sofitel",
+        "address": "Am Heumarkt 35 37 03 Landstra e 1030 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.43,
+            "tot_rev_number": 230
         }
     },
     {
-        "Id": 1310,
-        "Name": "Park Hyatt Vienna",
-        "Address": "Am Hof 2 01 Innere Stadt 1010 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.67,
-            "Tot_rev_number": 92
+        "id": 1310,
+        "name": "Park Hyatt Vienna",
+        "address": "Am Hof 2 01 Innere Stadt 1010 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.67,
+            "tot_rev_number": 92
         }
     },
     {
-        "Id": 1311,
-        "Name": "Hilton Vienna",
-        "Address": "Am Stadtpark 1 03 Landstra e 1030 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.94,
-            "Tot_rev_number": 561
+        "id": 1311,
+        "name": "Hilton Vienna",
+        "address": "Am Stadtpark 1 03 Landstra e 1030 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.94,
+            "tot_rev_number": 561
         }
     },
     {
-        "Id": 1312,
-        "Name": "Catalonia Port",
-        "Address": "Ample 1 Pla a Duc de Medinaceli Ciutat Vella 08002 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.62,
-            "Tot_rev_number": 178
+        "id": 1312,
+        "name": "Catalonia Port",
+        "address": "Ample 1 Pla a Duc de Medinaceli Ciutat Vella 08002 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.62,
+            "tot_rev_number": 178
         }
     },
     {
-        "Id": 1313,
-        "Name": "Hampshire Hotel Rembrandt Square Amsterdam",
-        "Address": "Amstelstraat 17 Amsterdam City Center 1017 DA Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.86,
-            "Tot_rev_number": 748
+        "id": 1313,
+        "name": "Hampshire Hotel Rembrandt Square Amsterdam",
+        "address": "Amstelstraat 17 Amsterdam City Center 1017 DA Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.86,
+            "tot_rev_number": 748
         }
     },
     {
-        "Id": 1314,
-        "Name": "Eurostars Angli",
-        "Address": "Angli 60 Sarri St Gervasi 08017 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.16,
-            "Tot_rev_number": 77
+        "id": 1314,
+        "name": "Eurostars Angli",
+        "address": "Angli 60 Sarri St Gervasi 08017 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.16,
+            "tot_rev_number": 77
         }
     },
     {
-        "Id": 1315,
-        "Name": "Pillows Anna van den Vondel Amsterdam",
-        "Address": "Anna van den Vondelstraat 6 Oud West 1054 GZ Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.75,
-            "Tot_rev_number": 56
+        "id": 1315,
+        "name": "Pillows Anna van den Vondel Amsterdam",
+        "address": "Anna van den Vondelstraat 6 Oud West 1054 GZ Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.75,
+            "tot_rev_number": 56
         }
     },
     {
-        "Id": 1316,
-        "Name": "Schlosshotel R mischer Kaiser",
-        "Address": "Annagasse 16 01 Innere Stadt 1010 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.61,
-            "Tot_rev_number": 301
+        "id": 1316,
+        "name": "Schlosshotel R mischer Kaiser",
+        "address": "Annagasse 16 01 Innere Stadt 1010 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.61,
+            "tot_rev_number": 301
         }
     },
     {
-        "Id": 1317,
-        "Name": "Hotel Mailberger Hof",
-        "Address": "Annagasse 7 01 Innere Stadt 1010 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.33,
-            "Tot_rev_number": 338
+        "id": 1317,
+        "name": "Hotel Mailberger Hof",
+        "address": "Annagasse 7 01 Innere Stadt 1010 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.33,
+            "tot_rev_number": 338
         }
     },
     {
-        "Id": 1318,
-        "Name": "Best Western Delphi Hotel",
-        "Address": "Apollolaan 101 105 Oud Zuid 1077 AN Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.86,
-            "Tot_rev_number": 80
+        "id": 1318,
+        "name": "Best Western Delphi Hotel",
+        "address": "Apollolaan 101 105 Oud Zuid 1077 AN Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.86,
+            "tot_rev_number": 80
         }
     },
     {
-        "Id": 1319,
-        "Name": "Apollofirst Boutique Hotel",
-        "Address": "Apollolaan 123 125 Oud Zuid 1077 AP Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.38,
-            "Tot_rev_number": 372
+        "id": 1319,
+        "name": "Apollofirst Boutique Hotel",
+        "address": "Apollolaan 123 125 Oud Zuid 1077 AP Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.38,
+            "tot_rev_number": 372
         }
     },
     {
-        "Id": 1320,
-        "Name": "Hilton Amsterdam",
-        "Address": "Apollolaan 138 Oud Zuid 1077 BG Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.13,
-            "Tot_rev_number": 279
+        "id": 1320,
+        "name": "Hilton Amsterdam",
+        "address": "Apollolaan 138 Oud Zuid 1077 BG Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.13,
+            "tot_rev_number": 279
         }
     },
     {
-        "Id": 1321,
-        "Name": "Apollo Hotel Amsterdam",
-        "Address": "Apollolaan 2 Oud Zuid 1077 BA Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.2,
-            "Tot_rev_number": 803
+        "id": 1321,
+        "name": "Apollo Hotel Amsterdam",
+        "address": "Apollolaan 2 Oud Zuid 1077 BA Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.2,
+            "tot_rev_number": 803
         }
     },
     {
-        "Id": 1322,
-        "Name": "Catalonia Catedral",
-        "Address": "Arcs 10 Ciutat Vella 08002 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.68,
-            "Tot_rev_number": 488
+        "id": 1322,
+        "name": "Catalonia Catedral",
+        "address": "Arcs 10 Ciutat Vella 08002 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.68,
+            "tot_rev_number": 488
         }
     },
     {
-        "Id": 1323,
-        "Name": "Element Amsterdam",
-        "Address": "Arend Janszoon Ernststraat 577 Zuideramstel 1082 LD Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.49,
-            "Tot_rev_number": 298
+        "id": 1323,
+        "name": "Element Amsterdam",
+        "address": "Arend Janszoon Ernststraat 577 Zuideramstel 1082 LD Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.49,
+            "tot_rev_number": 298
         }
     },
     {
-        "Id": 1324,
-        "Name": "Axel Hotel Barcelona Urban Spa Adults Only",
-        "Address": "Aribau 33 Eixample 08011 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.07,
-            "Tot_rev_number": 602
+        "id": 1324,
+        "name": "Axel Hotel Barcelona Urban Spa Adults Only",
+        "address": "Aribau 33 Eixample 08011 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.07,
+            "tot_rev_number": 602
         }
     },
     {
-        "Id": 1325,
-        "Name": "Cram",
-        "Address": "Aribau 54 Eixample 08011 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.42,
-            "Tot_rev_number": 159
+        "id": 1325,
+        "name": "Cram",
+        "address": "Aribau 54 Eixample 08011 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.42,
+            "tot_rev_number": 159
         }
     },
     {
-        "Id": 1326,
-        "Name": "Urban Lodge Hotel",
-        "Address": "Arlandaweg 10 Westpoort 1043 EW Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.54,
-            "Tot_rev_number": 1071
+        "id": 1326,
+        "name": "Urban Lodge Hotel",
+        "address": "Arlandaweg 10 Westpoort 1043 EW Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.54,
+            "tot_rev_number": 1071
         }
     },
     {
-        "Id": 1327,
-        "Name": "Novotel Wien City",
-        "Address": "Aspernbr ckengasse 1 02 Leopoldstadt 1020 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.06,
-            "Tot_rev_number": 270
+        "id": 1327,
+        "name": "Novotel Wien City",
+        "address": "Aspernbr ckengasse 1 02 Leopoldstadt 1020 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.06,
+            "tot_rev_number": 270
         }
     },
     {
-        "Id": 1328,
-        "Name": "The Levante Parliament A Design Hotel",
-        "Address": "Auerspergstra e 9 08 Josefstadt 1080 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.22,
-            "Tot_rev_number": 355
+        "id": 1328,
+        "name": "The Levante Parliament A Design Hotel",
+        "address": "Auerspergstra e 9 08 Josefstadt 1080 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.22,
+            "tot_rev_number": 355
         }
     },
     {
-        "Id": 1329,
-        "Name": "Room Mate Gerard",
-        "Address": "Ausi s Marc 34 Eixample 08010 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.5,
-            "Tot_rev_number": 14
+        "id": 1329,
+        "name": "Room Mate Gerard",
+        "address": "Ausi s Marc 34 Eixample 08010 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.5,
+            "tot_rev_number": 14
         }
     },
     {
-        "Id": 1330,
-        "Name": "H10 Marina Barcelona",
-        "Address": "Avenida Bogatell 64 68 Sant Mart 08005 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.13,
-            "Tot_rev_number": 318
+        "id": 1330,
+        "name": "H10 Marina Barcelona",
+        "address": "Avenida Bogatell 64 68 Sant Mart 08005 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.13,
+            "tot_rev_number": 318
         }
     },
     {
-        "Id": 1331,
-        "Name": "Barcelona Princess",
-        "Address": "Avenida Diagonal 1 Sant Mart 08019 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.15,
-            "Tot_rev_number": 897
+        "id": 1331,
+        "name": "Barcelona Princess",
+        "address": "Avenida Diagonal 1 Sant Mart 08019 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.15,
+            "tot_rev_number": 897
         }
     },
     {
-        "Id": 1332,
-        "Name": "Novotel Barcelona City",
-        "Address": "Avenida Diagonal 201 Sant Mart 08018 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.19,
-            "Tot_rev_number": 274
+        "id": 1332,
+        "name": "Novotel Barcelona City",
+        "address": "Avenida Diagonal 201 Sant Mart 08018 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.19,
+            "tot_rev_number": 274
         }
     },
     {
-        "Id": 1333,
-        "Name": "The Gates Diagonal Barcelona",
-        "Address": "Avenida Diagonal 205 Sant Mart 08018 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.08,
-            "Tot_rev_number": 287
+        "id": 1333,
+        "name": "The Gates Diagonal Barcelona",
+        "address": "Avenida Diagonal 205 Sant Mart 08018 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.08,
+            "tot_rev_number": 287
         }
     },
     {
-        "Id": 1334,
-        "Name": "AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel",
-        "Address": "Avenida Diagonal 555 Les Corts 08029 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.27,
-            "Tot_rev_number": 56
+        "id": 1334,
+        "name": "AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel",
+        "address": "Avenida Diagonal 555 Les Corts 08029 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.27,
+            "tot_rev_number": 56
         }
     },
     {
-        "Id": 1335,
-        "Name": "Wilson Boutique Hotel",
-        "Address": "Avenida Diagonal 568 Sarri St Gervasi 08021 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.46,
-            "Tot_rev_number": 145
+        "id": 1335,
+        "name": "Wilson Boutique Hotel",
+        "address": "Avenida Diagonal 568 Sarri St Gervasi 08021 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.46,
+            "tot_rev_number": 145
         }
     },
     {
-        "Id": 1336,
-        "Name": "NH Hesperia Barcelona Presidente",
-        "Address": "Avenida Diagonal 570 Sarri St Gervasi 08021 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.24,
-            "Tot_rev_number": 120
+        "id": 1336,
+        "name": "NH Hesperia Barcelona Presidente",
+        "address": "Avenida Diagonal 570 Sarri St Gervasi 08021 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.24,
+            "tot_rev_number": 120
         }
     },
     {
-        "Id": 1337,
-        "Name": "Hilton Barcelona",
-        "Address": "Avenida Diagonal 589 591 Les Corts 08014 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.22,
-            "Tot_rev_number": 45
+        "id": 1337,
+        "name": "Hilton Barcelona",
+        "address": "Avenida Diagonal 589 591 Les Corts 08014 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.22,
+            "tot_rev_number": 45
         }
     },
     {
-        "Id": 1338,
-        "Name": "Vincci Mae",
-        "Address": "Avenida Diagonal 596 Sarri St Gervasi 08021 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.58,
-            "Tot_rev_number": 106
+        "id": 1338,
+        "name": "Vincci Mae",
+        "address": "Avenida Diagonal 596 Sarri St Gervasi 08021 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.58,
+            "tot_rev_number": 106
         }
     },
     {
-        "Id": 1339,
-        "Name": "Fairmont Rey Juan Carlos I",
-        "Address": "Avenida Diagonal 661 671 Les Corts 08028 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.16,
-            "Tot_rev_number": 197
+        "id": 1339,
+        "name": "Fairmont Rey Juan Carlos I",
+        "address": "Avenida Diagonal 661 671 Les Corts 08028 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.16,
+            "tot_rev_number": 197
         }
     },
     {
-        "Id": 1340,
-        "Name": "Pullman Barcelona Skipper",
-        "Address": "Avenida Litoral 10 Ciutat Vella 08005 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.33,
-            "Tot_rev_number": 278
+        "id": 1340,
+        "name": "Pullman Barcelona Skipper",
+        "address": "Avenida Litoral 10 Ciutat Vella 08005 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.33,
+            "tot_rev_number": 278
         }
     },
     {
-        "Id": 1341,
-        "Name": "Hotel Ciutadella Barcelona",
-        "Address": "Avenida Marqu s de l Argentera 4 Ciutat Vella 08003 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.23,
-            "Tot_rev_number": 93
+        "id": 1341,
+        "name": "Hotel Ciutadella Barcelona",
+        "address": "Avenida Marqu s de l Argentera 4 Ciutat Vella 08003 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.23,
+            "tot_rev_number": 93
         }
     },
     {
-        "Id": 1342,
-        "Name": "Catalonia Atenas",
-        "Address": "Avenida Meridiana 151 Sant Mart 08026 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.08,
-            "Tot_rev_number": 1061
+        "id": 1342,
+        "name": "Catalonia Atenas",
+        "address": "Avenida Meridiana 151 Sant Mart 08026 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.08,
+            "tot_rev_number": 1061
         }
     },
     {
-        "Id": 1343,
-        "Name": "Tryp Barcelona Apolo Hotel",
-        "Address": "Avenida Paralelo 57 59 Sants Montju c 08004 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.74,
-            "Tot_rev_number": 179
+        "id": 1343,
+        "name": "Tryp Barcelona Apolo Hotel",
+        "address": "Avenida Paralelo 57 59 Sants Montju c 08004 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.74,
+            "tot_rev_number": 179
         }
     },
     {
-        "Id": 1344,
-        "Name": "Sansi Pedralbes",
-        "Address": "Avenida Pearson 1 3 Les Corts 08034 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.17,
-            "Tot_rev_number": 30
+        "id": 1344,
+        "name": "Sansi Pedralbes",
+        "address": "Avenida Pearson 1 3 Les Corts 08034 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.17,
+            "tot_rev_number": 30
         }
     },
     {
-        "Id": 1345,
-        "Name": "Crowne Plaza Barcelona Fira Center",
-        "Address": "Avenida Rius y Taulet 1 3 Sants Montju c 08004 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.6,
-            "Tot_rev_number": 120
+        "id": 1345,
+        "name": "Crowne Plaza Barcelona Fira Center",
+        "address": "Avenida Rius y Taulet 1 3 Sants Montju c 08004 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.6,
+            "tot_rev_number": 120
         }
     },
     {
-        "Id": 1346,
-        "Name": "Gran Hotel Torre Catalunya",
-        "Address": "Avenida Roma 2 4 Sants Montju c 08014 Barcelona Spain",
-        "City": "Barcelona",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.37,
-            "Tot_rev_number": 382
+        "id": 1346,
+        "name": "Gran Hotel Torre Catalunya",
+        "address": "Avenida Roma 2 4 Sants Montju c 08014 Barcelona Spain",
+        "city": "Barcelona",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.37,
+            "tot_rev_number": 382
         }
     },
     {
-        "Id": 1347,
-        "Name": "Vienna Sporthotel",
-        "Address": "Baumgasse 83 03 Landstra e 1030 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.25,
-            "Tot_rev_number": 63
+        "id": 1347,
+        "name": "Vienna Sporthotel",
+        "address": "Baumgasse 83 03 Landstra e 1030 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.25,
+            "tot_rev_number": 63
         }
     },
     {
-        "Id": 1348,
-        "Name": "Hotel De Hallen",
-        "Address": "Bellamyplein 47 Oud West 1053 AT Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.49,
-            "Tot_rev_number": 355
+        "id": 1348,
+        "name": "Hotel De Hallen",
+        "address": "Bellamyplein 47 Oud West 1053 AT Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.49,
+            "tot_rev_number": 355
         }
     },
     {
-        "Id": 1349,
-        "Name": "Hotel Boltzmann",
-        "Address": "Boltzmanngasse 8 09 Alsergrund 1090 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.01,
-            "Tot_rev_number": 70
+        "id": 1349,
+        "name": "Hotel Boltzmann",
+        "address": "Boltzmanngasse 8 09 Alsergrund 1090 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.01,
+            "tot_rev_number": 70
         }
     },
     {
-        "Id": 1350,
-        "Name": "Hotel ViennArt am Museumsquartier",
-        "Address": "Breite Gasse 9 07 Neubau 1070 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.15,
-            "Tot_rev_number": 458
+        "id": 1350,
+        "name": "Hotel ViennArt am Museumsquartier",
+        "address": "Breite Gasse 9 07 Neubau 1070 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.15,
+            "tot_rev_number": 458
         }
     },
     {
-        "Id": 1351,
-        "Name": "Hotel Sans Souci Wien",
-        "Address": "Burggasse 2 07 Neubau 1070 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.83,
-            "Tot_rev_number": 235
+        "id": 1351,
+        "name": "Hotel Sans Souci Wien",
+        "address": "Burggasse 2 07 Neubau 1070 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.83,
+            "tot_rev_number": 235
         }
     },
     {
-        "Id": 1352,
-        "Name": "Chasse Hotel",
-        "Address": "Chassestraat 62 64 De Baarsjes 1057 JJ Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.58,
-            "Tot_rev_number": 139
+        "id": 1352,
+        "name": "Chasse Hotel",
+        "address": "Chassestraat 62 64 De Baarsjes 1057 JJ Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.58,
+            "tot_rev_number": 139
         }
     },
     {
-        "Id": 1353,
-        "Name": "Palais Coburg Residenz",
-        "Address": "Coburgbastei 4 01 Innere Stadt 1010 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.81,
-            "Tot_rev_number": 16
+        "id": 1353,
+        "name": "Palais Coburg Residenz",
+        "address": "Coburgbastei 4 01 Innere Stadt 1010 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.81,
+            "tot_rev_number": 16
         }
     },
     {
-        "Id": 1354,
-        "Name": "Worldhotel Cristoforo Colombo",
-        "Address": "Corso Buenos Aires 3 Milan City Center 20124 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.32,
-            "Tot_rev_number": 512
+        "id": 1354,
+        "name": "Worldhotel Cristoforo Colombo",
+        "address": "Corso Buenos Aires 3 Milan City Center 20124 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.32,
+            "tot_rev_number": 512
         }
     },
     {
-        "Id": 1355,
-        "Name": "IH Hotels Milano Puccini",
-        "Address": "Corso Buenos Aires 33 Central Station 20124 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.83,
-            "Tot_rev_number": 175
+        "id": 1355,
+        "name": "IH Hotels Milano Puccini",
+        "address": "Corso Buenos Aires 33 Central Station 20124 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.83,
+            "tot_rev_number": 175
         }
     },
     {
-        "Id": 1356,
-        "Name": "Best Western Hotel City",
-        "Address": "Corso Buenos Aires 42 5 Central Station 20124 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.29,
-            "Tot_rev_number": 173
+        "id": 1356,
+        "name": "Best Western Hotel City",
+        "address": "Corso Buenos Aires 42 5 Central Station 20124 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.29,
+            "tot_rev_number": 173
         }
     },
     {
-        "Id": 1357,
-        "Name": "Ch teau Monfort Relais Ch teaux",
-        "Address": "Corso Concordia 1 Milan City Center 20129 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.57,
-            "Tot_rev_number": 227
+        "id": 1357,
+        "name": "Ch teau Monfort Relais Ch teaux",
+        "address": "Corso Concordia 1 Milan City Center 20129 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.57,
+            "tot_rev_number": 227
         }
     },
     {
-        "Id": 1358,
-        "Name": "Palazzo Parigi Hotel Grand Spa Milano",
-        "Address": "Corso Di Porta Nuova 1 Milan City Center 20121 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.8,
-            "Tot_rev_number": 122
+        "id": 1358,
+        "name": "Palazzo Parigi Hotel Grand Spa Milano",
+        "address": "Corso Di Porta Nuova 1 Milan City Center 20121 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.8,
+            "tot_rev_number": 122
         }
     },
     {
-        "Id": 1359,
-        "Name": "Hotel Lloyd",
-        "Address": "Corso di Porta Romana 48 Milan City Center 20122 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.66,
-            "Tot_rev_number": 211
+        "id": 1359,
+        "name": "Hotel Lloyd",
+        "address": "Corso di Porta Romana 48 Milan City Center 20122 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.66,
+            "tot_rev_number": 211
         }
     },
     {
-        "Id": 1360,
-        "Name": "Hotel Romana Residence",
-        "Address": "Corso di Porta Romana 64 Milan City Center 20122 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.84,
-            "Tot_rev_number": 334
+        "id": 1360,
+        "name": "Hotel Romana Residence",
+        "address": "Corso di Porta Romana 64 Milan City Center 20122 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.84,
+            "tot_rev_number": 334
         }
     },
     {
-        "Id": 1361,
-        "Name": "Hotel Crivi s",
-        "Address": "Corso di Porta Vigentina 46 Milan City Center 20122 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.82,
-            "Tot_rev_number": 74
+        "id": 1361,
+        "name": "Hotel Crivi s",
+        "address": "Corso di Porta Vigentina 46 Milan City Center 20122 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.82,
+            "tot_rev_number": 74
         }
     },
     {
-        "Id": 1362,
-        "Name": "Hotel Galileo",
-        "Address": "Corso Europa 9 Milan City Center 20122 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.84,
-            "Tot_rev_number": 222
+        "id": 1362,
+        "name": "Hotel Galileo",
+        "address": "Corso Europa 9 Milan City Center 20122 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.84,
+            "tot_rev_number": 222
         }
     },
     {
-        "Id": 1363,
-        "Name": "Carlyle Brera Hotel",
-        "Address": "Corso Garibaldi 84 Milan City Center 20121 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.14,
-            "Tot_rev_number": 233
+        "id": 1363,
+        "name": "Carlyle Brera Hotel",
+        "address": "Corso Garibaldi 84 Milan City Center 20121 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.14,
+            "tot_rev_number": 233
         }
     },
     {
-        "Id": 1364,
-        "Name": "Boscolo Milano Autograph Collection",
-        "Address": "Corso Giacomo Matteotti 4 6 Milan City Center 20121 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.87,
-            "Tot_rev_number": 195
+        "id": 1364,
+        "name": "Boscolo Milano Autograph Collection",
+        "address": "Corso Giacomo Matteotti 4 6 Milan City Center 20121 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.87,
+            "tot_rev_number": 195
         }
     },
     {
-        "Id": 1365,
-        "Name": "Mokinba Hotels King",
-        "Address": "Corso Magenta 19 Milan City Center 20123 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.52,
-            "Tot_rev_number": 152
+        "id": 1365,
+        "name": "Mokinba Hotels King",
+        "address": "Corso Magenta 19 Milan City Center 20123 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.52,
+            "tot_rev_number": 152
         }
     },
     {
-        "Id": 1366,
-        "Name": "Qualys Hotel Nasco",
-        "Address": "Corso Sempione 69 Fiera Milano City 20149 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.16,
-            "Tot_rev_number": 206
+        "id": 1366,
+        "name": "Qualys Hotel Nasco",
+        "address": "Corso Sempione 69 Fiera Milano City 20149 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.16,
+            "tot_rev_number": 206
         }
     },
     {
-        "Id": 1367,
-        "Name": "Enterprise Hotel Design Boutique",
-        "Address": "Corso Sempione 91 Fiera Milano City 20149 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.43,
-            "Tot_rev_number": 236
+        "id": 1367,
+        "name": "Enterprise Hotel Design Boutique",
+        "address": "Corso Sempione 91 Fiera Milano City 20149 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.43,
+            "tot_rev_number": 236
         }
     },
     {
-        "Id": 1368,
-        "Name": "NH Collection Amsterdam Grand Hotel Krasnapolsky",
-        "Address": "Dam 9 Amsterdam City Center 1012 JS Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.19,
-            "Tot_rev_number": 1243
+        "id": 1368,
+        "name": "NH Collection Amsterdam Grand Hotel Krasnapolsky",
+        "address": "Dam 9 Amsterdam City Center 1012 JS Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.19,
+            "tot_rev_number": 1243
         }
     },
     {
-        "Id": 1369,
-        "Name": "Park Plaza Victoria Amsterdam",
-        "Address": "Damrak 1 5 Amsterdam City Center 1012 LG Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.11,
-            "Tot_rev_number": 1595
+        "id": 1369,
+        "name": "Park Plaza Victoria Amsterdam",
+        "address": "Damrak 1 5 Amsterdam City Center 1012 LG Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.11,
+            "tot_rev_number": 1595
         }
     },
     {
-        "Id": 1370,
-        "Name": "Hotel Amsterdam De Roode Leeuw",
-        "Address": "Damrak 93 94 Amsterdam City Center 1012 LP Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.89,
-            "Tot_rev_number": 170
+        "id": 1370,
+        "name": "Hotel Amsterdam De Roode Leeuw",
+        "address": "Damrak 93 94 Amsterdam City Center 1012 LP Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.89,
+            "tot_rev_number": 170
         }
     },
     {
-        "Id": 1371,
-        "Name": "Swiss tel Amsterdam",
-        "Address": "Damrak 96 Amsterdam City Center 1012 LP Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.37,
-            "Tot_rev_number": 830
+        "id": 1371,
+        "name": "Swiss tel Amsterdam",
+        "address": "Damrak 96 Amsterdam City Center 1012 LP Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.37,
+            "tot_rev_number": 830
         }
     },
     {
-        "Id": 1372,
-        "Name": "City Rooms",
-        "Address": "Daungasse 1 6 7 08 Josefstadt 1080 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.89,
-            "Tot_rev_number": 44
+        "id": 1372,
+        "name": "City Rooms",
+        "address": "Daungasse 1 6 7 08 Josefstadt 1080 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.89,
+            "tot_rev_number": 44
         }
     },
     {
-        "Id": 1373,
-        "Name": "Holiday Inn Amsterdam",
-        "Address": "De Boelelaan 2 Zuideramstel 1083 HJ Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.02,
-            "Tot_rev_number": 286
+        "id": 1373,
+        "name": "Holiday Inn Amsterdam",
+        "address": "De Boelelaan 2 Zuideramstel 1083 HJ Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.02,
+            "tot_rev_number": 286
         }
     },
     {
-        "Id": 1374,
-        "Name": "Jaz Amsterdam",
-        "Address": "De Passage 90 Noord Holland Zuidoost 1101 AX Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.58,
-            "Tot_rev_number": 1157
+        "id": 1374,
+        "name": "Jaz Amsterdam",
+        "address": "De Passage 90 Noord Holland Zuidoost 1101 AX Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.58,
+            "tot_rev_number": 1157
         }
     },
     {
-        "Id": 1375,
-        "Name": "Best Western Premier Hotel Couture",
-        "Address": "Delflandlaan 15 Slotervaart 1062 EA Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.43,
-            "Tot_rev_number": 1809
+        "id": 1375,
+        "name": "Best Western Premier Hotel Couture",
+        "address": "Delflandlaan 15 Slotervaart 1062 EA Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.43,
+            "tot_rev_number": 1809
         }
     },
     {
-        "Id": 1376,
-        "Name": "Mercure Vienna First",
-        "Address": "Desider Friedmann Platz 2 01 Innere Stadt 1010 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.53,
-            "Tot_rev_number": 79
+        "id": 1376,
+        "name": "Mercure Vienna First",
+        "address": "Desider Friedmann Platz 2 01 Innere Stadt 1010 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.53,
+            "tot_rev_number": 79
         }
     },
     {
-        "Id": 1377,
-        "Name": "Bilderberg Garden Hotel",
-        "Address": "Dijsselhofplantsoen 7 Oud Zuid 1077 BJ Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.03,
-            "Tot_rev_number": 567
+        "id": 1377,
+        "name": "Bilderberg Garden Hotel",
+        "address": "Dijsselhofplantsoen 7 Oud Zuid 1077 BJ Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.03,
+            "tot_rev_number": 567
         }
     },
     {
-        "Id": 1378,
-        "Name": "NH Amsterdam Noord",
-        "Address": "Distelkade 21 Amsterdam Noord 1031 XP Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.2,
-            "Tot_rev_number": 143
+        "id": 1378,
+        "name": "NH Amsterdam Noord",
+        "address": "Distelkade 21 Amsterdam Noord 1031 XP Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.2,
+            "tot_rev_number": 143
         }
     },
     {
-        "Id": 1379,
-        "Name": "Melia Vienna",
-        "Address": "Donau City Stra e 7 22 Donaustadt 1220 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.2,
-            "Tot_rev_number": 501
+        "id": 1379,
+        "name": "Melia Vienna",
+        "address": "Donau City Stra e 7 22 Donaustadt 1220 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.2,
+            "tot_rev_number": 501
         }
     },
     {
-        "Id": 1380,
-        "Name": "Graben Hotel",
-        "Address": "Dorotheergasse 3 01 Innere Stadt 1010 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.45,
-            "Tot_rev_number": 114
+        "id": 1380,
+        "name": "Graben Hotel",
+        "address": "Dorotheergasse 3 01 Innere Stadt 1010 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.45,
+            "tot_rev_number": 114
         }
     },
     {
-        "Id": 1381,
-        "Name": "Grand Hotel Downtown",
-        "Address": "Eerste Constantijn Huygensstraat 10A Oud West 1054 BR Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.83,
-            "Tot_rev_number": 415
+        "id": 1381,
+        "name": "Grand Hotel Downtown",
+        "address": "Eerste Constantijn Huygensstraat 10A Oud West 1054 BR Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.83,
+            "tot_rev_number": 415
         }
     },
     {
-        "Id": 1382,
-        "Name": "Amadi Park Hotel",
-        "Address": "Eerste Constantijn huygensstraat 26G Oud West 1054 BR Amsterdam Netherlands",
-        "City": "Amsterdam",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.13,
-            "Tot_rev_number": 396
+        "id": 1382,
+        "name": "Amadi Park Hotel",
+        "address": "Eerste Constantijn huygensstraat 26G Oud West 1054 BR Amsterdam Netherlands",
+        "city": "Amsterdam",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.13,
+            "tot_rev_number": 396
         }
     },
     {
-        "Id": 1383,
-        "Name": "Austria Trend Hotel Lassalle Wien",
-        "Address": "Engerthstra e 173 175 02 Leopoldstadt 1020 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.01,
-            "Tot_rev_number": 148
+        "id": 1383,
+        "name": "Austria Trend Hotel Lassalle Wien",
+        "address": "Engerthstra e 173 175 02 Leopoldstadt 1020 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.01,
+            "tot_rev_number": 148
         }
     },
     {
-        "Id": 1384,
-        "Name": "The Guesthouse Vienna",
-        "Address": "F hrichgasse 10 01 Innere Stadt 1010 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.82,
-            "Tot_rev_number": 292
+        "id": 1384,
+        "name": "The Guesthouse Vienna",
+        "address": "F hrichgasse 10 01 Innere Stadt 1010 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.82,
+            "tot_rev_number": 292
         }
     },
     {
-        "Id": 1385,
-        "Name": "Hotel Johann Strauss",
-        "Address": "Favoritenstra e 12 04 Wieden 1040 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.32,
-            "Tot_rev_number": 110
+        "id": 1385,
+        "name": "Hotel Johann Strauss",
+        "address": "Favoritenstra e 12 04 Wieden 1040 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.32,
+            "tot_rev_number": 110
         }
     },
     {
-        "Id": 1386,
-        "Name": "Hotel Mercure Wien Westbahnhof",
-        "Address": "Felberstra e 4 15 Rudolfsheim F nfhaus 1150 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.84,
-            "Tot_rev_number": 87
+        "id": 1386,
+        "name": "Hotel Mercure Wien Westbahnhof",
+        "address": "Felberstra e 4 15 Rudolfsheim F nfhaus 1150 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.84,
+            "tot_rev_number": 87
         }
     },
     {
-        "Id": 1387,
-        "Name": "Hotel Eitlj rg",
-        "Address": "Filmteichstra e 5 10 Favoriten 1100 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.92,
-            "Tot_rev_number": 12
+        "id": 1387,
+        "name": "Hotel Eitlj rg",
+        "address": "Filmteichstra e 5 10 Favoriten 1100 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.92,
+            "tot_rev_number": 12
         }
     },
     {
-        "Id": 1388,
-        "Name": "Mercure Wien Zentrum",
-        "Address": "Fleischmarkt 1a 01 Innere Stadt 1010 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.16,
-            "Tot_rev_number": 152
+        "id": 1388,
+        "name": "Mercure Wien Zentrum",
+        "address": "Fleischmarkt 1a 01 Innere Stadt 1010 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.16,
+            "tot_rev_number": 152
         }
     },
     {
-        "Id": 1389,
-        "Name": "Best Western Premier Kaiserhof Wien",
-        "Address": "Frankenberggasse 10 04 Wieden 1040 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.82,
-            "Tot_rev_number": 334
+        "id": 1389,
+        "name": "Best Western Premier Kaiserhof Wien",
+        "address": "Frankenberggasse 10 04 Wieden 1040 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.82,
+            "tot_rev_number": 334
         }
     },
     {
-        "Id": 1390,
-        "Name": "FourSide Hotel Suites Vienna",
-        "Address": "Freytaggasse 25 27 21 Floridsdorf 1210 Vienna Austria",
-        "City": "Vienna",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.29,
-            "Tot_rev_number": 110
+        "id": 1390,
+        "name": "FourSide Hotel Suites Vienna",
+        "address": "Freytaggasse 25 27 21 Floridsdorf 1210 Vienna Austria",
+        "city": "Vienna",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.29,
+            "tot_rev_number": 110
         }
     },
     {
-        "Id": 1391,
-        "Name": "IH Hotels Milano Ambasciatori",
-        "Address": "Galleria Del Corso 3 Milan City Center 20122 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.75,
-            "Tot_rev_number": 318
+        "id": 1391,
+        "name": "IH Hotels Milano Ambasciatori",
+        "address": "Galleria Del Corso 3 Milan City Center 20122 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.75,
+            "tot_rev_number": 318
         }
     },
     {
-        "Id": 1392,
-        "Name": "NH Collection Milano President",
-        "Address": "Largo Augusto 10 Milan City Center 20122 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.37,
-            "Tot_rev_number": 673
+        "id": 1392,
+        "name": "NH Collection Milano President",
+        "address": "Largo Augusto 10 Milan City Center 20122 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.37,
+            "tot_rev_number": 673
         }
     },
     {
-        "Id": 1393,
-        "Name": "Hotel Dieci",
-        "Address": "Largo Rio de Janeiro 12 Citt Studi 20133 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 3.9,
-            "Tot_rev_number": 50
+        "id": 1393,
+        "name": "Hotel Dieci",
+        "address": "Largo Rio de Janeiro 12 Citt Studi 20133 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 3.9,
+            "tot_rev_number": 50
         }
     },
     {
-        "Id": 1394,
-        "Name": "ME Milan Il Duca",
-        "Address": "Piazza della Repubblica 13 Central Station 20124 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.66,
-            "Tot_rev_number": 142
+        "id": 1394,
+        "name": "ME Milan Il Duca",
+        "address": "Piazza della Repubblica 13 Central Station 20124 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.66,
+            "tot_rev_number": 142
         }
     },
     {
-        "Id": 1395,
-        "Name": "Hotel Principe Di Savoia",
-        "Address": "Piazza Della Repubblica 17 Central Station 20124 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.64,
-            "Tot_rev_number": 280
+        "id": 1395,
+        "name": "Hotel Principe Di Savoia",
+        "address": "Piazza Della Repubblica 17 Central Station 20124 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.64,
+            "tot_rev_number": 280
         }
     },
     {
-        "Id": 1396,
-        "Name": "The Westin Palace",
-        "Address": "Piazza della Repubblica 20 Central Station 20124 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.19,
-            "Tot_rev_number": 178
+        "id": 1396,
+        "name": "The Westin Palace",
+        "address": "Piazza della Repubblica 20 Central Station 20124 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.19,
+            "tot_rev_number": 178
         }
     },
     {
-        "Id": 1397,
-        "Name": "Glam Milano",
-        "Address": "Piazza Duca D Aosta 4 6 Central Station 20124 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.41,
-            "Tot_rev_number": 1335
+        "id": 1397,
+        "name": "Glam Milano",
+        "address": "Piazza Duca D Aosta 4 6 Central Station 20124 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.41,
+            "tot_rev_number": 1335
         }
     },
     {
-        "Id": 1398,
-        "Name": "Excelsior Hotel Gallia Luxury Collection Hotel",
-        "Address": "Piazza Duca D Aosta 9 Central Station 20124 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.8,
-            "Tot_rev_number": 310
+        "id": 1398,
+        "name": "Excelsior Hotel Gallia Luxury Collection Hotel",
+        "address": "Piazza Duca D Aosta 9 Central Station 20124 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.8,
+            "tot_rev_number": 310
         }
     },
     {
-        "Id": 1399,
-        "Name": "Rosa Grand Milano Starhotels Collezione",
-        "Address": "Piazza Fontana 3 Milan City Center 20122 Milan Italy",
-        "City": "Milan",
-        "Category": "Hotel",
-        "Reviews_info": {
-            "Overall_rating": 4.26,
-            "Tot_rev_number": 736
+        "id": 1399,
+        "name": "Rosa Grand Milano Starhotels Collezione",
+        "address": "Piazza Fontana 3 Milan City Center 20122 Milan Italy",
+        "city": "Milan",
+        "category": "Hotel",
+        "reviews_info": {
+            "overall_rating": 4.26,
+            "tot_rev_number": 736
         }
     }
 ]
