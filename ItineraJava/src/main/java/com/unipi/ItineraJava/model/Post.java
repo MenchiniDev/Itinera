@@ -73,12 +73,3 @@ public class Post {
 
 }
 
-// COMMENT
-class Comment {
-    private String user;
-    private LocalDateTime timestamp;
-    private String text;
-    private boolean reported;
-
-    // Getters and Setters
-}
