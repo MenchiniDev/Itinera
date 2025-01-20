@@ -11,15 +11,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestHeader;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import com.unipi.ItineraJava.model.MongoCommunity;
 import com.unipi.ItineraJava.model.User;
@@ -87,12 +79,12 @@ class CommunityController {
             return ResponseEntity.status(500).body("Error creating community: " + e.getMessage());
         }
     }
-    /*
-    @DeleteMapping("/{id}")
-    public void deleteCommunity(@PathVariable String id) {
-        communityService.deleteById(id);
+
+    @DeleteMapping("/{name}")
+    public void deleteCommunity(@PathVariable String name) {
+        communityService.deleteByName(name);
     }
-     */
+
 
 
     //join ad una community da parte dello user loggato 
@@ -149,6 +141,4 @@ class CommunityController {
         // Se l'utente non è autenticato, restituisce un errore di accesso negato
         return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
     }
-    
-
 }
