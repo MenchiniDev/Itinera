@@ -5,6 +5,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
+import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -32,6 +33,8 @@ class CommunityController {
     @Autowired
 
     private CommunityRepository mongoCommunityRepository;
+    @Autowired
+    private User user;
 
 
     // http://localhost:8080/Community
@@ -62,6 +65,30 @@ class CommunityController {
         }*/
         return null;
     }
+
+    // adds a post inside a community
+    @PutMapping("community/{name}")
+    public ResponseEntity<String> updateCommunity(@RequestHeader("Authorization") String token,
+                                                  @RequestBody String text,
+                                                  @RequestParam String name)
+    {
+        try{
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            if (username == null)
+                return ResponseEntity.status(400).body("Invalid token");
+            if (text == null)
+                return ResponseEntity.status(400).body("Invalid text");
+            if(communityService.existsCommunity(name)) {
+                return communityService.updateCommunity(username, text, name);
+            }else
+            {
+                return ResponseEntity.status(400).body("Invalid Community name");
+            }
+        }catch (Exception e) {
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(e.getMessage());
+        }
+    }
+
 
     // http://localhost:8080/Community
     //creates a community checking if the admin is sending the request
