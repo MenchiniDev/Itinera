@@ -1,20 +1,20 @@
 {
-  "Id" : 200230,
-  "Community_name" : "Marseille",
-  "Username" : "TheBlackPajama",
-  "Post_body" : "Lost Teddy Bear, Marseille Airport",
-  "Timestamp" : "2022-05-06 01:57:15",
-  "Num_comment" : 2,
+  "id" : 200230,
+  "community_name" : "Marseille",
+  "username" : "TheBlackPajama",
+  "post_body" : "Lost Teddy Bear, Marseille Airport",
+  "timestamp" : "2022-05-06 01:57:15",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "ulliver",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2022-05-06 01:57:15",
-    "Body" : "You might want to contact their lost+found desk at the airport. Tel : +33 8 20 14 24 10 (Open from 6am to 12pm). Good luck!"
+    "body" : "You might want to contact their lost+found desk at the airport. Tel : +33 8 20 14 24 10 (Open from 6am to 12pm). Good luck!",
+    "username" : "ulliver",
+    "timestamp" : "2022-05-06 01:57:15"
   }, {
-    "Username" : "TheBlackPajama",
     "reported_comment" : false,
-    "Timestamp" : "2022-05-06 18:24:25",
-    "Body" : "Thanks, that's the first thing I did,but told her I would do everything possible! It was a loooong night last night :("
+    "body" : "Thanks, that's the first thing I did,but told her I would do everything possible! It was a loooong night last night :(",
+    "username" : "TheBlackPajama",
+    "timestamp" : "2022-05-06 18:24:25"
   } ]
 }

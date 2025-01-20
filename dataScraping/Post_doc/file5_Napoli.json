@@ -1,20 +1,20 @@
 {
-  "Id" : 200134,
-  "Community_name" : "Napoli",
-  "Username" : "lemon-jus",
-  "Post_body" : "Gruppi Trekking da Napoli? ",
-  "Timestamp" : "2024-12-23 10:34:44",
-  "Num_comment" : 2,
+  "id" : 200134,
+  "community_name" : "Napoli",
+  "username" : "lemon-jus",
+  "post_body" : "Gruppi Trekking da Napoli? ",
+  "timestamp" : "2024-12-23 10:34:44",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "MenIntendo",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:34:44",
-    "Body" : "Su facebook ne trovi un botto, cerca il gruppo \"Trekking in Campania\" https://facebook.com/groups/45200629086/"
+    "body" : "Su facebook ne trovi un botto, cerca il gruppo \"Trekking in Campania\" https://facebook.com/groups/45200629086/",
+    "username" : "MenIntendo",
+    "timestamp" : "2024-12-23 10:34:44"
   }, {
-    "Username" : "Netta00",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:28:45",
-    "Body" : "C'è la sezione del CAI di Napoli https://www.cainapoli.it/"
+    "body" : "C'è la sezione del CAI di Napoli https://www.cainapoli.it/",
+    "username" : "Netta00",
+    "timestamp" : "2024-12-23 13:28:45"
   } ]
 }

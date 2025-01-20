@@ -1,40 +1,40 @@
 {
-  "Id" : 200045,
-  "Community_name" : "Monaco",
-  "Username" : "mvmisha",
-  "Post_body" : "Monaco from above ",
-  "Timestamp" : "2024-12-22 17:20:54",
-  "Num_comment" : 6,
+  "id" : 200045,
+  "community_name" : "Monaco",
+  "username" : "mvmisha",
+  "post_body" : "Monaco from above ",
+  "timestamp" : "2024-12-22 17:20:54",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Ruvik_666",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:20:54",
-    "Body" : "Damn. Its superbeb, but where's the lambos, Bugattis and Ferraris at? 😂"
+    "body" : "Damn. Its superbeb, but where's the lambos, Bugattis and Ferraris at? 😂",
+    "username" : "Ruvik_666",
+    "timestamp" : "2024-12-22 17:20:54"
   }, {
-    "Username" : "Maxomans",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:17:15",
-    "Body" : "That zoom is incredible, what phone or camera did you use?"
+    "body" : "That zoom is incredible, what phone or camera did you use?",
+    "username" : "Maxomans",
+    "timestamp" : "2024-12-23 13:17:15"
   }, {
-    "Username" : "mvmisha",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:27:51",
-    "Body" : "Hahah, you can see an 812 Competizione A in the second photo"
+    "body" : "Hahah, you can see an 812 Competizione A in the second photo",
+    "username" : "mvmisha",
+    "timestamp" : "2024-12-22 17:27:51"
   }, {
-    "Username" : "mvmisha",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:58:00",
-    "Body" : "iPhone 16PM, and yeah the 5x does wonders when the camera app decides to use it instead of doing a digital zoom"
+    "body" : "iPhone 16PM, and yeah the 5x does wonders when the camera app decides to use it instead of doing a digital zoom",
+    "username" : "mvmisha",
+    "timestamp" : "2024-12-23 14:58:00"
   }, {
-    "Username" : "Badboynerd999",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:33:54",
-    "Body" : "Damn, good eye"
+    "body" : "Damn, good eye",
+    "username" : "Badboynerd999",
+    "timestamp" : "2024-12-23 12:33:54"
   }, {
-    "Username" : "mvmisha",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:35:04",
-    "Body" : "Naaaah, I wish\n\nI was there short before taking the picture here, https://www.reddit.com/r/Ferrari/s/ta4GxparcC"
+    "body" : "Naaaah, I wish\n\nI was there short before taking the picture here, https://www.reddit.com/r/Ferrari/s/ta4GxparcC",
+    "username" : "mvmisha",
+    "timestamp" : "2024-12-23 12:35:04"
   } ]
 }

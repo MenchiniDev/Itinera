@@ -1,15 +1,15 @@
 {
-  "Id" : 200469,
-  "City" : "Ljubljana",
-  "Name" : "Ljubljana",
-  "Created" : "2024-04-15 18:49:55",
-  "Post" : [ {
-    "User" : "Ok_Aide7125",
-    "Text" : "NYE ",
-    "Timestamp" : "2024-04-15 19:49:55"
+  "id" : 200469,
+  "city" : "Ljubljana",
+  "name" : "Ljubljana",
+  "created" : "2024-01-10 19:27:58",
+  "post" : [ {
+    "text" : "NYE ",
+    "user" : "Ok_Aide7125",
+    "timestamp" : "2024-01-10 20:27:58"
   }, {
-    "User" : "Gregor988",
-    "Text" : "Podaljšani kroji M",
-    "Timestamp" : "2024-12-20 20:29:20"
+    "text" : "Podaljšani kroji M",
+    "user" : "Gregor988",
+    "timestamp" : "2024-12-20 20:29:20"
   } ]
 }

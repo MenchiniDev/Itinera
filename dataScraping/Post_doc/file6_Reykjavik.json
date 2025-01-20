@@ -1,910 +1,910 @@
 {
-  "Id" : 200302,
-  "Community_name" : "Reykjavik",
-  "Username" : "11MHz",
-  "Post_body" : "Tourists, visitors, people with quick questions. This is your thread - post your questions here",
-  "Timestamp" : "2021-07-28 04:48:57",
-  "Num_comment" : 180,
+  "id" : 200302,
+  "community_name" : "Reykjavik",
+  "username" : "11MHz",
+  "post_body" : "Tourists, visitors, people with quick questions. This is your thread - post your questions here",
+  "timestamp" : "2021-07-28 04:48:57",
+  "num_comment" : 180,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "No-Plastic-9926",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2021-07-28 04:48:57",
-    "Body" : "Is anyone awake here now?"
+    "body" : "Is anyone awake here now?",
+    "username" : "No-Plastic-9926",
+    "timestamp" : "2021-07-28 04:48:57"
   }, {
-    "Username" : "Sharp_Sherbert6678",
     "reported_comment" : false,
-    "Timestamp" : "2022-03-24 22:22:20",
-    "Body" : "Hey everyone! Me and my bf are moving to Iceland, are there any really good sites or groups to find apartments for rent in Reykjavik?"
+    "body" : "Hey everyone! Me and my bf are moving to Iceland, are there any really good sites or groups to find apartments for rent in Reykjavik?",
+    "username" : "Sharp_Sherbert6678",
+    "timestamp" : "2022-03-24 22:22:20"
   }, {
-    "Username" : "Muralshoe4416",
     "reported_comment" : false,
-    "Timestamp" : "2021-07-28 22:26:20",
-    "Body" : "Hey yall, do you know any fishing guides/tours for a reasonable price? Or maybe even a place to rent poles. I hear fishing is a must especially this time of year."
+    "body" : "Hey yall, do you know any fishing guides/tours for a reasonable price? Or maybe even a place to rent poles. I hear fishing is a must especially this time of year.",
+    "username" : "Muralshoe4416",
+    "timestamp" : "2021-07-28 22:26:20"
   }, {
-    "Username" : "ilowrideforfun",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-03 20:58:49",
-    "Body" : "Where is the best place to purchase a cell phone SIM card? TYIA"
+    "body" : "Where is the best place to purchase a cell phone SIM card? TYIA",
+    "username" : "ilowrideforfun",
+    "timestamp" : "2021-08-03 20:58:49"
   }, {
-    "Username" : "thefringthing",
     "reported_comment" : false,
-    "Timestamp" : "2022-04-26 21:03:42",
-    "Body" : "Is there any reason to prefer one of the Icelandic Handknitting Association's locations over the other?"
+    "body" : "Is there any reason to prefer one of the Icelandic Handknitting Association's locations over the other?",
+    "username" : "thefringthing",
+    "timestamp" : "2022-04-26 21:03:42"
   }, {
-    "Username" : "SeriousShane",
     "reported_comment" : false,
-    "Timestamp" : "2023-05-01 20:44:03",
-    "Body" : "Is there a place that serves tomato beer/coffee in the city? I'm curious, but I don't have time to visit Friðheimar."
+    "body" : "Is there a place that serves tomato beer/coffee in the city? I'm curious, but I don't have time to visit Friðheimar.",
+    "username" : "SeriousShane",
+    "timestamp" : "2023-05-01 20:44:03"
   }, {
-    "Username" : "Self_proclaimed_wall",
     "reported_comment" : false,
-    "Timestamp" : "2024-06-11 11:01:36",
-    "Body" : "We have a competition of who can find the funniest logo or sign. Where is a funny sign or logo in reykjavik?"
+    "body" : "We have a competition of who can find the funniest logo or sign. Where is a funny sign or logo in reykjavik?",
+    "username" : "Self_proclaimed_wall",
+    "timestamp" : "2024-06-11 11:01:36"
   }, {
-    "Username" : "NeetyThor",
     "reported_comment" : false,
-    "Timestamp" : "2024-06-13 12:38:42",
-    "Body" : "We are going to a friend’s wedding in Calgary in September and our flight from Budapest goes via Reykjavik; but we only have one night there. 😫  So annoying, we’ve always wanted to go to Iceland and this is such a stupidly short stopover but we couldn’t extend it. Anyway, is there anything to see on a Monday night in Reykjavik….. you know, before we have to go to bed and have a quick nap before we have to catch our flight the next morning? Thanks."
+    "body" : "We are going to a friend’s wedding in Calgary in September and our flight from Budapest goes via Reykjavik; but we only have one night there. 😫  So annoying, we’ve always wanted to go to Iceland and this is such a stupidly short stopover but we couldn’t extend it. Anyway, is there anything to see on a Monday night in Reykjavik….. you know, before we have to go to bed and have a quick nap before we have to catch our flight the next morning? Thanks.",
+    "username" : "NeetyThor",
+    "timestamp" : "2024-06-13 12:38:42"
   }, {
-    "Username" : "Sure-Credit-8137",
     "reported_comment" : false,
-    "Timestamp" : "2024-06-14 02:11:48",
-    "Body" : "Hi all, I need to do a blood pregnancy test while in Reykjavik.\nIs there any walk in laboratory to do it? Do I need an appointment?\n\nThank you"
+    "body" : "Hi all, I need to do a blood pregnancy test while in Reykjavik.\nIs there any walk in laboratory to do it? Do I need an appointment?\n\nThank you",
+    "username" : "Sure-Credit-8137",
+    "timestamp" : "2024-06-14 02:11:48"
   }, {
-    "Username" : "InMooseWeTrust",
     "reported_comment" : false,
-    "Timestamp" : "2024-06-15 12:13:34",
-    "Body" : "Do I need to use cash? I will be bringing a credit and debit card in US dollars that accept foreign transactions. I also have cryptocurrency.\n\nDo I need a visa with my US passport?"
+    "body" : "Do I need to use cash? I will be bringing a credit and debit card in US dollars that accept foreign transactions. I also have cryptocurrency.\n\nDo I need a visa with my US passport?",
+    "username" : "InMooseWeTrust",
+    "timestamp" : "2024-06-15 12:13:34"
   }, {
-    "Username" : "Vegetable_Divide_770",
     "reported_comment" : false,
-    "Timestamp" : "2024-06-20 21:54:01",
-    "Body" : "Hi! Where can I buy earmuffs in Reykjavik?"
+    "body" : "Hi! Where can I buy earmuffs in Reykjavik?",
+    "username" : "Vegetable_Divide_770",
+    "timestamp" : "2024-06-20 21:54:01"
   }, {
-    "Username" : "guyonabuffalo",
     "reported_comment" : false,
-    "Timestamp" : "2024-07-22 16:29:33",
-    "Body" : "Hi Reykjavik! I’m here with three friends on a bicycle tour of your lovely country and we are in need of a place to store our empty cardboard bike boxes for the next two and a half weeks. Anyone have or know of some storage space? Happy to pay some $$ if need be"
+    "body" : "Hi Reykjavik! I’m here with three friends on a bicycle tour of your lovely country and we are in need of a place to store our empty cardboard bike boxes for the next two and a half weeks. Anyone have or know of some storage space? Happy to pay some $$ if need be",
+    "username" : "guyonabuffalo",
+    "timestamp" : "2024-07-22 16:29:33"
   }, {
-    "Username" : "mulberrybushes",
     "reported_comment" : false,
-    "Timestamp" : "2024-08-17 13:53:56",
-    "Body" : "Trying to find out more about culture night, the website that the English part of the website asks if you want to participate, but it seems to be for people who want to exhibit or host. Do you have to buy tickets to participate as a tourist?"
+    "body" : "Trying to find out more about culture night, the website that the English part of the website asks if you want to participate, but it seems to be for people who want to exhibit or host. Do you have to buy tickets to participate as a tourist?",
+    "username" : "mulberrybushes",
+    "timestamp" : "2024-08-17 13:53:56"
   }, {
-    "Username" : "lilladyx",
     "reported_comment" : false,
-    "Timestamp" : "2024-08-28 09:50:19",
-    "Body" : "Anyone going travelling to Reykjavik from England at some point before January 2025 and fancy grabbing a jar of jam from a shop in the city centre to bring back for me? Super grateful to anyone who could help, please dm me <3"
+    "body" : "Anyone going travelling to Reykjavik from England at some point before January 2025 and fancy grabbing a jar of jam from a shop in the city centre to bring back for me? Super grateful to anyone who could help, please dm me <3",
+    "username" : "lilladyx",
+    "timestamp" : "2024-08-28 09:50:19"
   }, {
-    "Username" : "_blacknails",
     "reported_comment" : false,
-    "Timestamp" : "2024-09-02 22:40:17",
-    "Body" : "Any Reykjavik local able to offer a ride to the volcano? Really want to fly my drone above it."
+    "body" : "Any Reykjavik local able to offer a ride to the volcano? Really want to fly my drone above it.",
+    "username" : "_blacknails",
+    "timestamp" : "2024-09-02 22:40:17"
   }, {
-    "Username" : "NormalFriendship5167",
     "reported_comment" : false,
-    "Timestamp" : "2024-09-03 09:54:48",
-    "Body" : "Is it possible to do the Ring Road on Feb (using a 4x4 car)?"
+    "body" : "Is it possible to do the Ring Road on Feb (using a 4x4 car)?",
+    "username" : "NormalFriendship5167",
+    "timestamp" : "2024-09-03 09:54:48"
   }, {
-    "Username" : "EaterofLaw",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-27 22:40:45",
-    "Body" : "Who handles English immigrants? :s"
+    "body" : "Who handles English immigrants? :s",
+    "username" : "EaterofLaw",
+    "timestamp" : "2024-10-27 22:40:45"
   }, {
-    "Username" : "thundo_god",
     "reported_comment" : false,
-    "Timestamp" : "2024-11-30 22:05:58",
-    "Body" : "Adventurous activities to do in reykjavik"
+    "body" : "Adventurous activities to do in reykjavik",
+    "username" : "thundo_god",
+    "timestamp" : "2024-11-30 22:05:58"
   }, {
-    "Username" : "Natural-Way2388",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-05 17:35:22",
-    "Body" : "Best evening entertainment and a good place for some dinner? (All the food has been brilliant)"
+    "body" : "Best evening entertainment and a good place for some dinner? (All the food has been brilliant)",
+    "username" : "Natural-Way2388",
+    "timestamp" : "2024-12-05 17:35:22"
   }, {
-    "Username" : "tortoise_b",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-09 15:27:30",
-    "Body" : "Question re: Public busses  \nI have a question about the public bus system in Reykjavik. I have arranged for transport via Flybus from Keflavik to BSI/Reykjavik Bus Terminal. From there, we would like to take a public bus to the hotel (it's a half hour to walk which is a little far with luggage and kid in December). I know the bus we need to take, but I'm getting stumped on trying to find out where to buy bus tickets. It seems as if there is no way to buy physical/paper bus tickets either at the airport or at BSI Bus Terminal. Is that true? Are there no ticket vending machines? I tried to download the app but it doesn't work with a US mobile number. So is the only option to pay in cash (which would likely mean overpaying since we'd have to withdraw cash at the airport and then pay with whatever bill the ATM spits out)? Grateful for any tips!"
+    "body" : "Question re: Public busses  \nI have a question about the public bus system in Reykjavik. I have arranged for transport via Flybus from Keflavik to BSI/Reykjavik Bus Terminal. From there, we would like to take a public bus to the hotel (it's a half hour to walk which is a little far with luggage and kid in December). I know the bus we need to take, but I'm getting stumped on trying to find out where to buy bus tickets. It seems as if there is no way to buy physical/paper bus tickets either at the airport or at BSI Bus Terminal. Is that true? Are there no ticket vending machines? I tried to download the app but it doesn't work with a US mobile number. So is the only option to pay in cash (which would likely mean overpaying since we'd have to withdraw cash at the airport and then pay with whatever bill the ATM spits out)? Grateful for any tips!",
+    "username" : "tortoise_b",
+    "timestamp" : "2024-12-09 15:27:30"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2021-07-28 14:49:44",
-    "Body" : "So, where can i buy x and how much?"
+    "body" : "So, where can i buy x and how much?",
+    "username" : "None",
+    "timestamp" : "2021-07-28 14:49:44"
   }, {
-    "Username" : "postnoctum",
     "reported_comment" : false,
-    "Timestamp" : "2021-07-30 02:27:14",
-    "Body" : "We just got here, kind of just playing the night by ear and don't quite understand the nightlife at all. Is there something to do?"
+    "body" : "We just got here, kind of just playing the night by ear and don't quite understand the nightlife at all. Is there something to do?",
+    "username" : "postnoctum",
+    "timestamp" : "2021-07-30 02:27:14"
   }, {
-    "Username" : "fotla",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-05 12:02:38",
-    "Body" : "Hello folks! I am visiting Iceland in September and hope to rent a car. Could anyone recommend a local cheap car rental place? I can only find the expensive airport ones online. \n\nThanks"
+    "body" : "Hello folks! I am visiting Iceland in September and hope to rent a car. Could anyone recommend a local cheap car rental place? I can only find the expensive airport ones online. \n\nThanks",
+    "username" : "fotla",
+    "timestamp" : "2021-08-05 12:02:38"
   }, {
-    "Username" : "Mauricevanravels",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-13 07:44:54",
-    "Body" : "What’s the best way to get a job in Iceland? I just graduated high school and I can’t afford Iceland without a job there."
+    "body" : "What’s the best way to get a job in Iceland? I just graduated high school and I can’t afford Iceland without a job there.",
+    "username" : "Mauricevanravels",
+    "timestamp" : "2021-08-13 07:44:54"
   }, {
-    "Username" : "alexabc1",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-22 11:29:04",
-    "Body" : "Can anyone help me get a ticket to Vikingur vs. Valur? It's tonight at 19:15. I think it might be sold out. I'm visiting from the US."
+    "body" : "Can anyone help me get a ticket to Vikingur vs. Valur? It's tonight at 19:15. I think it might be sold out. I'm visiting from the US.",
+    "username" : "alexabc1",
+    "timestamp" : "2021-08-22 11:29:04"
   }, {
-    "Username" : "leavingtheplanet",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-30 02:06:35",
-    "Body" : "Hey, where can I get hair dye, specially fun colours (blue/green/purple)?"
+    "body" : "Hey, where can I get hair dye, specially fun colours (blue/green/purple)?",
+    "username" : "leavingtheplanet",
+    "timestamp" : "2021-08-30 02:06:35"
   }, {
-    "Username" : "kemmis",
     "reported_comment" : false,
-    "Timestamp" : "2021-09-12 18:47:28",
-    "Body" : "It’s raining all week. Can anyone please make it stop and be sunny? kthnxbye"
+    "body" : "It’s raining all week. Can anyone please make it stop and be sunny? kthnxbye",
+    "username" : "kemmis",
+    "timestamp" : "2021-09-12 18:47:28"
   }, {
-    "Username" : "Klutzy-Sun741",
     "reported_comment" : false,
-    "Timestamp" : "2021-09-28 21:00:52",
-    "Body" : "We’re a group of danish students on a trip to Iceland, and we’re looking for a bar/club where we can get a beer or a drink. There is one criteria tho. You have to be 20 years old to drink in Iceland and we’re only 18-19 years old. So the club has got to be a little loose with the age restrictions."
+    "body" : "We’re a group of danish students on a trip to Iceland, and we’re looking for a bar/club where we can get a beer or a drink. There is one criteria tho. You have to be 20 years old to drink in Iceland and we’re only 18-19 years old. So the club has got to be a little loose with the age restrictions.",
+    "username" : "Klutzy-Sun741",
+    "timestamp" : "2021-09-28 21:00:52"
   }, {
-    "Username" : "oddfiction528",
     "reported_comment" : false,
-    "Timestamp" : "2021-11-01 00:28:41",
-    "Body" : "Coming to Reyjavik mid-November; any odd or unusual dive bars people would recommend?"
+    "body" : "Coming to Reyjavik mid-November; any odd or unusual dive bars people would recommend?",
+    "username" : "oddfiction528",
+    "timestamp" : "2021-11-01 00:28:41"
   }, {
-    "Username" : "BlueWeetabix",
     "reported_comment" : false,
-    "Timestamp" : "2021-11-02 22:30:18",
-    "Body" : "Best website or way to find out about small gigs/ concerts. Anywhere I can catch live music during a visit in late November?"
+    "body" : "Best website or way to find out about small gigs/ concerts. Anywhere I can catch live music during a visit in late November?",
+    "username" : "BlueWeetabix",
+    "timestamp" : "2021-11-02 22:30:18"
   }, {
-    "Username" : "BlueWeetabix",
     "reported_comment" : false,
-    "Timestamp" : "2021-11-23 00:31:03",
-    "Body" : "Restaurant recommendations in Reykjavik, best cheap - mid priced places to eat, hidden gems?"
+    "body" : "Restaurant recommendations in Reykjavik, best cheap - mid priced places to eat, hidden gems?",
+    "username" : "BlueWeetabix",
+    "timestamp" : "2021-11-23 00:31:03"
   }, {
-    "Username" : "boredonymous",
     "reported_comment" : false,
-    "Timestamp" : "2021-11-23 17:19:33",
-    "Body" : "How much is lamb leg or lamb loin roast per kilo at Bonus or Netto around Christmas?"
+    "body" : "How much is lamb leg or lamb loin roast per kilo at Bonus or Netto around Christmas?",
+    "username" : "boredonymous",
+    "timestamp" : "2021-11-23 17:19:33"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-04 01:10:23",
-    "Body" : "[deleted]"
+    "body" : "[deleted]",
+    "username" : "None",
+    "timestamp" : "2021-12-04 01:10:23"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-15 00:08:45",
-    "Body" : "Is it worth travel to iceland in last week of december? Can i see northern lights or weather too bad?"
+    "body" : "Is it worth travel to iceland in last week of december? Can i see northern lights or weather too bad?",
+    "username" : "None",
+    "timestamp" : "2021-12-15 00:08:45"
   }, {
-    "Username" : "Boomcya",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-18 16:13:02",
-    "Body" : "Is anyone in the proximity of this location Holavallagarour Reykjavik? Would need a short favor :S"
+    "body" : "Is anyone in the proximity of this location Holavallagarour Reykjavik? Would need a short favor :S",
+    "username" : "Boomcya",
+    "timestamp" : "2021-12-18 16:13:02"
   }, {
-    "Username" : "MiniiMooose",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-28 18:27:30",
-    "Body" : "I want to go out to the movies, but can't find information if any theaters in/around Reykjavík have any covid precautions in place 🤔 anyone know of any 'safe' theaters?"
+    "body" : "I want to go out to the movies, but can't find information if any theaters in/around Reykjavík have any covid precautions in place 🤔 anyone know of any 'safe' theaters?",
+    "username" : "MiniiMooose",
+    "timestamp" : "2021-12-28 18:27:30"
   }, {
-    "Username" : "angryrabbit11",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-06 13:18:44",
-    "Body" : "I’m an American trapped in COVID-jail at an isolation hotel until Sunday. Tried delivery apps with no luck. Not for food but for some booze to help pass the time haha \n\nAny locals or fellow travelers wanna help a brother out? I don’t have any Krona on me but I can Venmo some scrillah. I’d kill for a bottle of Jameson or 30 beers haha"
+    "body" : "I’m an American trapped in COVID-jail at an isolation hotel until Sunday. Tried delivery apps with no luck. Not for food but for some booze to help pass the time haha \n\nAny locals or fellow travelers wanna help a brother out? I don’t have any Krona on me but I can Venmo some scrillah. I’d kill for a bottle of Jameson or 30 beers haha",
+    "username" : "angryrabbit11",
+    "timestamp" : "2022-01-06 13:18:44"
   }, {
-    "Username" : "Janeqq310",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-13 20:50:03",
-    "Body" : "Where can I buy tickets for Reykjavik-Akureyri bus? Is there an app or anything? I'd love to go skiing in Iceland but the Ski Resorts near Reykjavik don't seem that impressive."
+    "body" : "Where can I buy tickets for Reykjavik-Akureyri bus? Is there an app or anything? I'd love to go skiing in Iceland but the Ski Resorts near Reykjavik don't seem that impressive.",
+    "username" : "Janeqq310",
+    "timestamp" : "2022-01-13 20:50:03"
   }, {
-    "Username" : "Tiredbum",
     "reported_comment" : false,
-    "Timestamp" : "2022-02-26 12:48:42",
-    "Body" : "American in the city for the next 5 days. Looking for places to browse local art and general souvenir shops. I can understand as locals you probably don't care much for souvenirs, but hopefully there are some great art places to visit"
+    "body" : "American in the city for the next 5 days. Looking for places to browse local art and general souvenir shops. I can understand as locals you probably don't care much for souvenirs, but hopefully there are some great art places to visit",
+    "username" : "Tiredbum",
+    "timestamp" : "2022-02-26 12:48:42"
   }, {
-    "Username" : "Agitated_Scientists",
     "reported_comment" : false,
-    "Timestamp" : "2022-03-06 21:23:51",
-    "Body" : "Hi all! I'm an American who is taking a week-long break from his work at a nonprofit to explore the west-side of Iceland. I've built my own kayak, circumnavigated cape cod, traveled to tanzania, but have found that some of the best memories and experiences are with others who also see life as an adventure.\n\nIf you and your friends would like to hang, let me know. I'm free March 13-19 and would love to explore Reykjavik, Stykkisholmur, and the Golden Circle. Let me know if you're interested!\n\n[https://www.linkedin.com/in/nickjmatthew/](https://www.linkedin.com/in/nickjmatthew/)\n\n[https://instagram.com/nickjmatthew](https://instagram.com/nickjmatthew)"
+    "body" : "Hi all! I'm an American who is taking a week-long break from his work at a nonprofit to explore the west-side of Iceland. I've built my own kayak, circumnavigated cape cod, traveled to tanzania, but have found that some of the best memories and experiences are with others who also see life as an adventure.\n\nIf you and your friends would like to hang, let me know. I'm free March 13-19 and would love to explore Reykjavik, Stykkisholmur, and the Golden Circle. Let me know if you're interested!\n\n[https://www.linkedin.com/in/nickjmatthew/](https://www.linkedin.com/in/nickjmatthew/)\n\n[https://instagram.com/nickjmatthew](https://instagram.com/nickjmatthew)",
+    "username" : "Agitated_Scientists",
+    "timestamp" : "2022-03-06 21:23:51"
   }, {
-    "Username" : "IchbinCharriz",
     "reported_comment" : false,
-    "Timestamp" : "2022-03-16 21:54:46",
-    "Body" : "Are there bars/cafes/art galleries open in Reykjavik sometime April 15-18? Or are they closed?"
+    "body" : "Are there bars/cafes/art galleries open in Reykjavik sometime April 15-18? Or are they closed?",
+    "username" : "IchbinCharriz",
+    "timestamp" : "2022-03-16 21:54:46"
   }, {
-    "Username" : "IchbinCharriz",
     "reported_comment" : false,
-    "Timestamp" : "2022-03-16 21:56:48",
-    "Body" : "If bars/cafes/art galleries are open sometime April 15-18, which ones do you suggest that people in their late 20s to 30s go to that has not so expensive drinks and is walking distance to the city center?"
+    "body" : "If bars/cafes/art galleries are open sometime April 15-18, which ones do you suggest that people in their late 20s to 30s go to that has not so expensive drinks and is walking distance to the city center?",
+    "username" : "IchbinCharriz",
+    "timestamp" : "2022-03-16 21:56:48"
   }, {
-    "Username" : "sashlakis",
     "reported_comment" : false,
-    "Timestamp" : "2022-04-06 17:24:48",
-    "Body" : "If I'm coming in May with a group of 5 for 10 days should we stay in Reykjavik  for the whole time and just drive/bus around Iceland; or should we stay outside of Reykjavik for a few of the days."
+    "body" : "If I'm coming in May with a group of 5 for 10 days should we stay in Reykjavik  for the whole time and just drive/bus around Iceland; or should we stay outside of Reykjavik for a few of the days.",
+    "username" : "sashlakis",
+    "timestamp" : "2022-04-06 17:24:48"
   }, {
-    "Username" : "sashlakis",
     "reported_comment" : false,
-    "Timestamp" : "2022-04-06 17:26:22",
-    "Body" : "What do you think the best way to get around Iceland is? Should I consider living in a motor home to really see Iceland or is that not necessary?"
+    "body" : "What do you think the best way to get around Iceland is? Should I consider living in a motor home to really see Iceland or is that not necessary?",
+    "username" : "sashlakis",
+    "timestamp" : "2022-04-06 17:26:22"
   }, {
-    "Username" : "Argagax",
     "reported_comment" : false,
-    "Timestamp" : "2022-04-11 08:19:17",
-    "Body" : "Are there any cabins to rent or \"rustic\" hotels in Reykjavik?  \nI might want to go there to have an elopement, but we're both really into rustic/cabin type living (we live in the fjords of Norway), and don't like big, fancy hotels. We also don't drive, so we can't go far outside Reykjavik."
+    "body" : "Are there any cabins to rent or \"rustic\" hotels in Reykjavik?  \nI might want to go there to have an elopement, but we're both really into rustic/cabin type living (we live in the fjords of Norway), and don't like big, fancy hotels. We also don't drive, so we can't go far outside Reykjavik.",
+    "username" : "Argagax",
+    "timestamp" : "2022-04-11 08:19:17"
   }, {
-    "Username" : "NervousCauliflower68",
     "reported_comment" : false,
-    "Timestamp" : "2022-04-22 19:53:35",
-    "Body" : "Hi! We are currently in Iceland and would want to see some puffins near Reykjavik but it seems no one is offering a tour? Any ideas on how to do make this happen in the next week? It would be very much appreciated . Greetings."
+    "body" : "Hi! We are currently in Iceland and would want to see some puffins near Reykjavik but it seems no one is offering a tour? Any ideas on how to do make this happen in the next week? It would be very much appreciated . Greetings.",
+    "username" : "NervousCauliflower68",
+    "timestamp" : "2022-04-22 19:53:35"
   }, {
-    "Username" : "rabbijoeman",
     "reported_comment" : false,
-    "Timestamp" : "2022-06-02 13:16:22",
-    "Body" : "My partner and I will be in Iceland in June and they have wanted to see a whale their entire life. I'd love to surprise them with a trip, anyone have any advice for a couple staying in this city and willing to travel?"
+    "body" : "My partner and I will be in Iceland in June and they have wanted to see a whale their entire life. I'd love to surprise them with a trip, anyone have any advice for a couple staying in this city and willing to travel?",
+    "username" : "rabbijoeman",
+    "timestamp" : "2022-06-02 13:16:22"
   }, {
-    "Username" : "Cautious-Package1296",
     "reported_comment" : false,
-    "Timestamp" : "2022-06-15 16:32:36",
-    "Body" : "I’m visiting Reykjavik from June 18-25.\nAre there any cool events I should know about / go to. it’s the summer solstice during that week, I thought there might be something on that day.\n\nThanks!!"
+    "body" : "I’m visiting Reykjavik from June 18-25.\nAre there any cool events I should know about / go to. it’s the summer solstice during that week, I thought there might be something on that day.\n\nThanks!!",
+    "username" : "Cautious-Package1296",
+    "timestamp" : "2022-06-15 16:32:36"
   }, {
-    "Username" : "Natural_Minimum4471",
     "reported_comment" : false,
-    "Timestamp" : "2022-06-28 00:01:58",
-    "Body" : "Hey! I am in Reykjavik now. I need to print out a PDF, sign it and scan it to send it digitally asap. Is there such shop/service in town?"
+    "body" : "Hey! I am in Reykjavik now. I need to print out a PDF, sign it and scan it to send it digitally asap. Is there such shop/service in town?",
+    "username" : "Natural_Minimum4471",
+    "timestamp" : "2022-06-28 00:01:58"
   }, {
-    "Username" : "kiwi_rozzers",
     "reported_comment" : false,
-    "Timestamp" : "2022-07-07 04:09:04",
-    "Body" : "There's some sort of wind storm going on tonight, and there's a group of people out in Austurvöllur yelling and screaming. Is that something which happens often here, or just a bunch of crazy tourists?"
+    "body" : "There's some sort of wind storm going on tonight, and there's a group of people out in Austurvöllur yelling and screaming. Is that something which happens often here, or just a bunch of crazy tourists?",
+    "username" : "kiwi_rozzers",
+    "timestamp" : "2022-07-07 04:09:04"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-07-18 00:59:27",
-    "Body" : "[deleted]"
+    "body" : "[deleted]",
+    "username" : "None",
+    "timestamp" : "2022-07-18 00:59:27"
   }, {
-    "Username" : "Defozo",
     "reported_comment" : false,
-    "Timestamp" : "2022-07-24 02:59:37",
-    "Body" : "Anyone going to Landmannalaugar 2022-07-24 - 2022-07-25?"
+    "body" : "Anyone going to Landmannalaugar 2022-07-24 - 2022-07-25?",
+    "username" : "Defozo",
+    "timestamp" : "2022-07-24 02:59:37"
   }, {
-    "Username" : "Excellent_Carrot5456",
     "reported_comment" : false,
-    "Timestamp" : "2022-07-24 19:20:04",
-    "Body" : "Is there a mens big and tall store that would carry mens clothing up to 5xl?"
+    "body" : "Is there a mens big and tall store that would carry mens clothing up to 5xl?",
+    "username" : "Excellent_Carrot5456",
+    "timestamp" : "2022-07-24 19:20:04"
   }, {
-    "Username" : "Henkiepenkieflenkie",
     "reported_comment" : false,
-    "Timestamp" : "2022-07-31 18:01:32",
-    "Body" : "Hi, i am in reykjavik right now and would like to eat lamb tonight. Any suggestions and recommendations?"
+    "body" : "Hi, i am in reykjavik right now and would like to eat lamb tonight. Any suggestions and recommendations?",
+    "username" : "Henkiepenkieflenkie",
+    "timestamp" : "2022-07-31 18:01:32"
   }, {
-    "Username" : "Jubileum2020",
     "reported_comment" : false,
-    "Timestamp" : "2022-08-09 21:31:07",
-    "Body" : "I would like to work for icelandic clients, as graphic designer animator and video editor. How can I start it?"
+    "body" : "I would like to work for icelandic clients, as graphic designer animator and video editor. How can I start it?",
+    "username" : "Jubileum2020",
+    "timestamp" : "2022-08-09 21:31:07"
   }, {
-    "Username" : "canarialdisease",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-12 17:20:34",
-    "Body" : "I’ll be in Reykjavik for one day and two nights next month. What do you recommend I visit/do in that timeframe?"
+    "body" : "I’ll be in Reykjavik for one day and two nights next month. What do you recommend I visit/do in that timeframe?",
+    "username" : "canarialdisease",
+    "timestamp" : "2022-10-12 17:20:34"
   }, {
-    "Username" : "emeraldead",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-24 07:49:24",
-    "Body" : "February, weekday, any bus transfer I could get from Blue lagoon at 1100 to the city?  Earliest I can find is noon."
+    "body" : "February, weekday, any bus transfer I could get from Blue lagoon at 1100 to the city?  Earliest I can find is noon.",
+    "username" : "emeraldead",
+    "timestamp" : "2022-10-24 07:49:24"
   }, {
-    "Username" : "It-is-what-it-is-hun",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-31 14:47:20",
-    "Body" : "Can someone else use my hotel reservation in Reykjavik?\n\nI booked a non-refundable rate at a hotel in Reykjavik in November, and I can no longer go. The hotel tells me that I am allowed to let someone else check in to my booking as long as they have the booking confirmation number. They tell me that their name (the name of the person checking in) does not actually need to be on the reservation.\r  \n\r  \nThis definitely would not work in the U.S. But would this actually work in Iceland?"
+    "body" : "Can someone else use my hotel reservation in Reykjavik?\n\nI booked a non-refundable rate at a hotel in Reykjavik in November, and I can no longer go. The hotel tells me that I am allowed to let someone else check in to my booking as long as they have the booking confirmation number. They tell me that their name (the name of the person checking in) does not actually need to be on the reservation.\r  \n\r  \nThis definitely would not work in the U.S. But would this actually work in Iceland?",
+    "username" : "It-is-what-it-is-hun",
+    "timestamp" : "2022-10-31 14:47:20"
   }, {
-    "Username" : "excusemeplez",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-31 21:39:24",
-    "Body" : "Google says yes it snows in December, just looking to see if this is true to locals Ty"
+    "body" : "Google says yes it snows in December, just looking to see if this is true to locals Ty",
+    "username" : "excusemeplez",
+    "timestamp" : "2022-10-31 21:39:24"
   }, {
-    "Username" : "Ambitious-Airport-68",
     "reported_comment" : false,
-    "Timestamp" : "2022-11-06 00:11:36",
-    "Body" : "Hi! I will be visiting December 22-28, so I’ll be there for Christmas. Are there any open holiday events for people traveling solo, who want to be with others? I have some tours lined up on the days surrounding Christmas Day, but hoping to find a way to connect on the 25th. Thanks!"
+    "body" : "Hi! I will be visiting December 22-28, so I’ll be there for Christmas. Are there any open holiday events for people traveling solo, who want to be with others? I have some tours lined up on the days surrounding Christmas Day, but hoping to find a way to connect on the 25th. Thanks!",
+    "username" : "Ambitious-Airport-68",
+    "timestamp" : "2022-11-06 00:11:36"
   }, {
-    "Username" : "valentin_htm",
     "reported_comment" : false,
-    "Timestamp" : "2022-11-06 14:42:59",
-    "Body" : "Any good Patys/Clubs open tomorrow(7.Nov)?\nI know it’s Monday"
+    "body" : "Any good Patys/Clubs open tomorrow(7.Nov)?\nI know it’s Monday",
+    "username" : "valentin_htm",
+    "timestamp" : "2022-11-06 14:42:59"
   }, {
-    "Username" : "BinauralPurple",
     "reported_comment" : false,
-    "Timestamp" : "2022-11-11 22:55:14",
-    "Body" : "Hello! Can someone help please?\nMe and my friend are come to visit Reykjavik in mid December but we are on a tight budget.\nCan you suggest some free cost things to visit , and where to eat with a good price?\nI would really appreciate your help. \nThank you in advance! 💜"
+    "body" : "Hello! Can someone help please?\nMe and my friend are come to visit Reykjavik in mid December but we are on a tight budget.\nCan you suggest some free cost things to visit , and where to eat with a good price?\nI would really appreciate your help. \nThank you in advance! 💜",
+    "username" : "BinauralPurple",
+    "timestamp" : "2022-11-11 22:55:14"
   }, {
-    "Username" : "Ok_Kaleidoscope5280",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-06 20:24:16",
-    "Body" : "Are there any good bars/clubs open past 1 on weekdays?"
+    "body" : "Are there any good bars/clubs open past 1 on weekdays?",
+    "username" : "Ok_Kaleidoscope5280",
+    "timestamp" : "2022-12-06 20:24:16"
   }, {
-    "Username" : "cmptrs",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-12 16:38:41",
-    "Body" : "Does anyone know where i can buy a fairly cheap rain pants? I forgot to pack mine and I need them for when I go visit the waterfalls! Thank you!"
+    "body" : "Does anyone know where i can buy a fairly cheap rain pants? I forgot to pack mine and I need them for when I go visit the waterfalls! Thank you!",
+    "username" : "cmptrs",
+    "timestamp" : "2022-12-12 16:38:41"
   }, {
-    "Username" : "Withloveandviolence",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-12 23:59:56",
-    "Body" : "Does anywhere in Reykjavik do food super late on a Sunday night in January? We're not going to get into the city until about 22:30. Thanks in advance!"
+    "body" : "Does anywhere in Reykjavik do food super late on a Sunday night in January? We're not going to get into the city until about 22:30. Thanks in advance!",
+    "username" : "Withloveandviolence",
+    "timestamp" : "2022-12-12 23:59:56"
   }, {
-    "Username" : "kalee28",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-23 17:45:19",
-    "Body" : "Visiting in February,  is there anywhere that my husband can smoke a cigar that is heated? It's not very common where we live so am hopeful. Thank you!"
+    "body" : "Visiting in February,  is there anywhere that my husband can smoke a cigar that is heated? It's not very common where we live so am hopeful. Thank you!",
+    "username" : "kalee28",
+    "timestamp" : "2022-12-23 17:45:19"
   }, {
-    "Username" : "Anised",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-26 00:47:26",
-    "Body" : "Please help, where to apply for houseekiping job, thanx"
+    "body" : "Please help, where to apply for houseekiping job, thanx",
+    "username" : "Anised",
+    "timestamp" : "2022-12-26 00:47:26"
   }, {
-    "Username" : "superchiropteran",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-30 16:23:26",
-    "Body" : "My wife and I are in town for New Years. What do you suggest we do for the holiday?"
+    "body" : "My wife and I are in town for New Years. What do you suggest we do for the holiday?",
+    "username" : "superchiropteran",
+    "timestamp" : "2022-12-30 16:23:26"
   }, {
-    "Username" : "sam-watterson",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-31 11:39:50",
-    "Body" : "I want to travel to Reykjavik during the upcoming Easter vacation with my partner. I want to travel the southern coast on black sand beach/diamond Beach or Vik. Shall I go with a travel group or drive a car (I have a driving license)? Does the group trip suggest by TripAdvisor worth it? Any suggestions are highly welcomed."
+    "body" : "I want to travel to Reykjavik during the upcoming Easter vacation with my partner. I want to travel the southern coast on black sand beach/diamond Beach or Vik. Shall I go with a travel group or drive a car (I have a driving license)? Does the group trip suggest by TripAdvisor worth it? Any suggestions are highly welcomed.",
+    "username" : "sam-watterson",
+    "timestamp" : "2022-12-31 11:39:50"
   }, {
-    "Username" : "bobgower",
     "reported_comment" : false,
-    "Timestamp" : "2023-01-12 23:11:43",
-    "Body" : "Hi Everyone, I'll be stopping in Reykjavik for two nights — Saturday and Sunday — in late January (on my way back to NYC from Amsterdam). \n\nWhat should I do? I like food, hot water, history, art and people. \n\nWhere should I stay? I like to be comfortable but I don't need fancy."
+    "body" : "Hi Everyone, I'll be stopping in Reykjavik for two nights — Saturday and Sunday — in late January (on my way back to NYC from Amsterdam). \n\nWhat should I do? I like food, hot water, history, art and people. \n\nWhere should I stay? I like to be comfortable but I don't need fancy.",
+    "username" : "bobgower",
+    "timestamp" : "2023-01-12 23:11:43"
   }, {
-    "Username" : "Worried-Belt-159",
     "reported_comment" : false,
-    "Timestamp" : "2023-01-24 11:27:27",
-    "Body" : "I am looking for bands or choirs to join in my spare time. I just moved here.\nDo you know any that might have a foreigner like me join? \nThanks in advance"
+    "body" : "I am looking for bands or choirs to join in my spare time. I just moved here.\nDo you know any that might have a foreigner like me join? \nThanks in advance",
+    "username" : "Worried-Belt-159",
+    "timestamp" : "2023-01-24 11:27:27"
   }, {
-    "Username" : "kalee28",
     "reported_comment" : false,
-    "Timestamp" : "2023-01-28 02:01:00",
-    "Body" : "Is there a place where you can smoke cigars indoors? We are visiting there in a week and my husband enjoys cigars, would like to find a place where he can have one that isn't outdoors.  He is already fine with not having cigars while we are there but I am hopeful to find somewhere for him.\nThanks!"
+    "body" : "Is there a place where you can smoke cigars indoors? We are visiting there in a week and my husband enjoys cigars, would like to find a place where he can have one that isn't outdoors.  He is already fine with not having cigars while we are there but I am hopeful to find somewhere for him.\nThanks!",
+    "username" : "kalee28",
+    "timestamp" : "2023-01-28 02:01:00"
   }, {
-    "Username" : "Researchandhelp",
     "reported_comment" : false,
-    "Timestamp" : "2023-02-12 05:28:39",
-    "Body" : "Does anyone know a sports bar that will show the Super Bowl tonight?"
+    "body" : "Does anyone know a sports bar that will show the Super Bowl tonight?",
+    "username" : "Researchandhelp",
+    "timestamp" : "2023-02-12 05:28:39"
   }, {
-    "Username" : "Digital_Faust",
     "reported_comment" : false,
-    "Timestamp" : "2023-02-27 11:05:25",
-    "Body" : "Can anyone recommend a barber that can be somewhat trusted with fading textured/Afro hair"
+    "body" : "Can anyone recommend a barber that can be somewhat trusted with fading textured/Afro hair",
+    "username" : "Digital_Faust",
+    "timestamp" : "2023-02-27 11:05:25"
   }, {
-    "Username" : "ArmadilloLonely162",
     "reported_comment" : false,
-    "Timestamp" : "2023-02-28 03:21:40",
-    "Body" : "Looking for a guide in Iceland for a group trip\n\n5 days in October - stay and cars are sorted. \n\nContext - I am hosting a group of artists and creative people from India — so would love someone who is a guide (but also an artist, entrepreneur or musician maybe?)\n\nPut me in touch please 🎷"
+    "body" : "Looking for a guide in Iceland for a group trip\n\n5 days in October - stay and cars are sorted. \n\nContext - I am hosting a group of artists and creative people from India — so would love someone who is a guide (but also an artist, entrepreneur or musician maybe?)\n\nPut me in touch please 🎷",
+    "username" : "ArmadilloLonely162",
+    "timestamp" : "2023-02-28 03:21:40"
   }, {
-    "Username" : "TheLostSkeleton91",
     "reported_comment" : false,
-    "Timestamp" : "2023-03-01 01:34:13",
-    "Body" : "I will be visiting the city from the 11th to the 15th, and at least one of the nights my partner and I are hoping to go out for some drinks/dancing/nightlife/karaoke/drag shows etc.   We regularly go to punk shows here in the states, but we love pretty much any and all live music.  \n\nWhere are your favorite spots?  Any fun events happening during that time that we shouldn’t miss?\n\nThanks so much in advance :)"
+    "body" : "I will be visiting the city from the 11th to the 15th, and at least one of the nights my partner and I are hoping to go out for some drinks/dancing/nightlife/karaoke/drag shows etc.   We regularly go to punk shows here in the states, but we love pretty much any and all live music.  \n\nWhere are your favorite spots?  Any fun events happening during that time that we shouldn’t miss?\n\nThanks so much in advance :)",
+    "username" : "TheLostSkeleton91",
+    "timestamp" : "2023-03-01 01:34:13"
   }, {
-    "Username" : "friedeggbeats",
     "reported_comment" : false,
-    "Timestamp" : "2023-03-27 09:51:36",
-    "Body" : "Hello everybody. I have a few (hopefully quick) questions as I’m hoping to visit RVK again soon. Hope it’s okay to post them here. Any help is gratefully received!\n\n2015-19 I was lucky enough to get to visit RVK at least once a year. Got it down to a fine art. Book ticket, boarding pass on phone, valid passport, tiny bag of carry-on luggage, tinier man bag, get to airport, sorted.\nBut since then we’ve had Covid and Brexit so I now have some questions! Can this group help? Fingers crossed!\n\n1 I always got to Keflavik, picked the right-hand bus booth, and got the coach to BSL. Walking distance to downtown RVK, easy, just past the lake. But I heard there’s been changes? Not just because of the volcano? \nDo the buses still run regularly/constantly and do they still terminate at BSL?\n\n2 I’ve heard the local buses - always fussy about exact change - have got worse? Any feedback on the buses? I often used them to visit friends in Kopavogur. Is there an app I can use to pay?\n\n3 Finally - the main one - I used to stay with friends but they’ve since had a baby. Any recommendations for cheap (hah!) clean hotels (with ensuite) near to downtown? \n\nÞakka þér fyrir!"
+    "body" : "Hello everybody. I have a few (hopefully quick) questions as I’m hoping to visit RVK again soon. Hope it’s okay to post them here. Any help is gratefully received!\n\n2015-19 I was lucky enough to get to visit RVK at least once a year. Got it down to a fine art. Book ticket, boarding pass on phone, valid passport, tiny bag of carry-on luggage, tinier man bag, get to airport, sorted.\nBut since then we’ve had Covid and Brexit so I now have some questions! Can this group help? Fingers crossed!\n\n1 I always got to Keflavik, picked the right-hand bus booth, and got the coach to BSL. Walking distance to downtown RVK, easy, just past the lake. But I heard there’s been changes? Not just because of the volcano? \nDo the buses still run regularly/constantly and do they still terminate at BSL?\n\n2 I’ve heard the local buses - always fussy about exact change - have got worse? Any feedback on the buses? I often used them to visit friends in Kopavogur. Is there an app I can use to pay?\n\n3 Finally - the main one - I used to stay with friends but they’ve since had a baby. Any recommendations for cheap (hah!) clean hotels (with ensuite) near to downtown? \n\nÞakka þér fyrir!",
+    "username" : "friedeggbeats",
+    "timestamp" : "2023-03-27 09:51:36"
   }, {
-    "Username" : "johnblueblood",
     "reported_comment" : false,
-    "Timestamp" : "2023-04-03 08:30:56",
-    "Body" : "What transport company should I call to get from my hotel to the Norwegian cruise port?  There are 20 of us."
+    "body" : "What transport company should I call to get from my hotel to the Norwegian cruise port?  There are 20 of us.",
+    "username" : "johnblueblood",
+    "timestamp" : "2023-04-03 08:30:56"
   }, {
-    "Username" : "SocialDistancePro20",
     "reported_comment" : false,
-    "Timestamp" : "2023-04-05 12:11:22",
-    "Body" : "Do the Straeto buses run the same route every day?  I am attempting to use the planner feature on the KLAPPIÐ app for a bus to the Reykjavik domestic airport and while it shows a nice easy route on Bus 15 today it does not show the same bus available tomorrow running at all.\n\nIs it possible bus 15 runs at 7 AM on Wednesday but doesn’t start until 9:30 on Thursday or is that just the App being flakey?"
+    "body" : "Do the Straeto buses run the same route every day?  I am attempting to use the planner feature on the KLAPPIÐ app for a bus to the Reykjavik domestic airport and while it shows a nice easy route on Bus 15 today it does not show the same bus available tomorrow running at all.\n\nIs it possible bus 15 runs at 7 AM on Wednesday but doesn’t start until 9:30 on Thursday or is that just the App being flakey?",
+    "username" : "SocialDistancePro20",
+    "timestamp" : "2023-04-05 12:11:22"
   }, {
-    "Username" : "re-beck-aa",
     "reported_comment" : false,
-    "Timestamp" : "2023-04-27 19:46:34",
-    "Body" : "Hi! I’m visiting Reykjavik in two weeks for work. I am wondering if there is a place where myself and my travel company will be able to watch Eurovision Song Contest while we’re there (both semifinals and the grand final)? I’m thinking of something like a pub, bar etc. Thanks!"
+    "body" : "Hi! I’m visiting Reykjavik in two weeks for work. I am wondering if there is a place where myself and my travel company will be able to watch Eurovision Song Contest while we’re there (both semifinals and the grand final)? I’m thinking of something like a pub, bar etc. Thanks!",
+    "username" : "re-beck-aa",
+    "timestamp" : "2023-04-27 19:46:34"
   }, {
-    "Username" : "m_MK1nG",
     "reported_comment" : false,
-    "Timestamp" : "2023-05-10 12:32:10",
-    "Body" : "Hi I’m in Reykjavík from Thursday till Monday and basically open for everything if it’s not to expensive \n\nLet me know if you some gems to do"
+    "body" : "Hi I’m in Reykjavík from Thursday till Monday and basically open for everything if it’s not to expensive \n\nLet me know if you some gems to do",
+    "username" : "m_MK1nG",
+    "timestamp" : "2023-05-10 12:32:10"
   }, {
-    "Username" : "MrPrettyKitty",
     "reported_comment" : false,
-    "Timestamp" : "2023-05-15 04:39:37",
-    "Body" : "In your lovely country in November in an unescorted group. Staying at the Fosshotel Reykjavik. What are some local suggestions for cheap food in that area? Thanks!"
+    "body" : "In your lovely country in November in an unescorted group. Staying at the Fosshotel Reykjavik. What are some local suggestions for cheap food in that area? Thanks!",
+    "username" : "MrPrettyKitty",
+    "timestamp" : "2023-05-15 04:39:37"
   }, {
-    "Username" : "WillowSoft9088",
     "reported_comment" : false,
-    "Timestamp" : "2023-06-11 20:38:14",
-    "Body" : "Hi,\n\nPlanning to visit Iceland 11-15july with parents,wife and 2yr old.Was wondering:\n1.Which area to stay both price and distnce wise?\n2.Planning to rent a car.Is it possible to visit popular places by car?Like golden circle day trip?Black sand beach etc.\n3.Where to rent car from considering I will be landing on 17:45 at reyjavik airport on 11th?\n\nAny other tip would be good also.😃"
+    "body" : "Hi,\n\nPlanning to visit Iceland 11-15july with parents,wife and 2yr old.Was wondering:\n1.Which area to stay both price and distnce wise?\n2.Planning to rent a car.Is it possible to visit popular places by car?Like golden circle day trip?Black sand beach etc.\n3.Where to rent car from considering I will be landing on 17:45 at reyjavik airport on 11th?\n\nAny other tip would be good also.😃",
+    "username" : "WillowSoft9088",
+    "timestamp" : "2023-06-11 20:38:14"
   }, {
-    "Username" : "beefsquaaatch",
     "reported_comment" : false,
-    "Timestamp" : "2023-07-10 14:37:20",
-    "Body" : "Hello, my wife and I are visiting at the end of the month. I’m a musician and would love to take in some local performances. I’m already excited about touring Harpan, but any recommendations for other venues would be much appreciated."
+    "body" : "Hello, my wife and I are visiting at the end of the month. I’m a musician and would love to take in some local performances. I’m already excited about touring Harpan, but any recommendations for other venues would be much appreciated.",
+    "username" : "beefsquaaatch",
+    "timestamp" : "2023-07-10 14:37:20"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2023-07-14 12:41:32",
-    "Body" : "[deleted]"
+    "body" : "[deleted]",
+    "username" : "None",
+    "timestamp" : "2023-07-14 12:41:32"
   }, {
-    "Username" : "lividthrone",
     "reported_comment" : false,
-    "Timestamp" : "2023-07-22 09:13:40",
-    "Body" : "Hi.  I will be In Reykjavik next week seeing three shows (Pavement) and would be grateful for recommendations of post-show spots of any kind - pubs, clubs, late night food etc.  Middle aged guy being only factor of relevance.  Would also just in general love to hear of any good jazz clubs in the city )potentially for other nights).  Thanks!"
+    "body" : "Hi.  I will be In Reykjavik next week seeing three shows (Pavement) and would be grateful for recommendations of post-show spots of any kind - pubs, clubs, late night food etc.  Middle aged guy being only factor of relevance.  Would also just in general love to hear of any good jazz clubs in the city )potentially for other nights).  Thanks!",
+    "username" : "lividthrone",
+    "timestamp" : "2023-07-22 09:13:40"
   }, {
-    "Username" : "Square-Ad771",
     "reported_comment" : false,
-    "Timestamp" : "2023-07-31 02:12:08",
-    "Body" : "0600 flight out of KEF and staying at R13 hotel. Looking to pay for a ride to KEF asap or at 3a!"
+    "body" : "0600 flight out of KEF and staying at R13 hotel. Looking to pay for a ride to KEF asap or at 3a!",
+    "username" : "Square-Ad771",
+    "timestamp" : "2023-07-31 02:12:08"
   }, {
-    "Username" : "linalotion",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-21 10:44:18",
-    "Body" : "Hi! I will arrive in Reykjavik on August 24 at 9am, my destination is Patreksfjörður, im movig there :)  Is there anyone going there? I really need a ride. Or can you recommend how to get there?  I know that there is a flight to Bildudalur but there is only one flight (at 10am) that day and unfortunatley i can’t catch it. Thank you for your help."
+    "body" : "Hi! I will arrive in Reykjavik on August 24 at 9am, my destination is Patreksfjörður, im movig there :)  Is there anyone going there? I really need a ride. Or can you recommend how to get there?  I know that there is a flight to Bildudalur but there is only one flight (at 10am) that day and unfortunatley i can’t catch it. Thank you for your help.",
+    "username" : "linalotion",
+    "timestamp" : "2023-08-21 10:44:18"
   }, {
-    "Username" : "vivilabe",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-22 14:09:52",
-    "Body" : "Hey guys,\n\nmy flight back to my home country is really early (at around 6 A.M.), which means that I have to be at the airport at around 3 A.M.. However, the  FlyBus earliest arrival to the airport is 3:45. Do you have any other, cheap suggestions fora  transfer to the airport ?\n\nxx"
+    "body" : "Hey guys,\n\nmy flight back to my home country is really early (at around 6 A.M.), which means that I have to be at the airport at around 3 A.M.. However, the  FlyBus earliest arrival to the airport is 3:45. Do you have any other, cheap suggestions fora  transfer to the airport ?\n\nxx",
+    "username" : "vivilabe",
+    "timestamp" : "2023-08-22 14:09:52"
   }, {
-    "Username" : "AuToNotMy",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-25 02:22:08",
-    "Body" : "Does Monday Night Football (American Football) get broadcast in Reykjavik? I know it's in the morning (1 AM).\n\nIt's broadcast on ESPN in the US. Sometimes ABC and ESPN+"
+    "body" : "Does Monday Night Football (American Football) get broadcast in Reykjavik? I know it's in the morning (1 AM).\n\nIt's broadcast on ESPN in the US. Sometimes ABC and ESPN+",
+    "username" : "AuToNotMy",
+    "timestamp" : "2023-08-25 02:22:08"
   }, {
-    "Username" : "apartmentstory89",
     "reported_comment" : false,
-    "Timestamp" : "2023-09-11 14:39:48",
-    "Body" : "There is a live music venue/bar in Reykjavik, Hürra, I was interested in visiting but I wonder if anyone can confirm that it is in fact closed? Found an article from 2019 that said they were going out of business but they have posted on their instagram as of may this year. After that there is nothing though. I’m assuming they’re closed but I would appreciate if someone can confirm it."
+    "body" : "There is a live music venue/bar in Reykjavik, Hürra, I was interested in visiting but I wonder if anyone can confirm that it is in fact closed? Found an article from 2019 that said they were going out of business but they have posted on their instagram as of may this year. After that there is nothing though. I’m assuming they’re closed but I would appreciate if someone can confirm it.",
+    "username" : "apartmentstory89",
+    "timestamp" : "2023-09-11 14:39:48"
   }, {
-    "Username" : "eggyolknshells",
     "reported_comment" : false,
-    "Timestamp" : "2023-09-16 01:58:12",
-    "Body" : "Are businesses open regularly between Dec 26 to Dec 30?"
+    "body" : "Are businesses open regularly between Dec 26 to Dec 30?",
+    "username" : "eggyolknshells",
+    "timestamp" : "2023-09-16 01:58:12"
   }, {
-    "Username" : "Optimal_Character213",
     "reported_comment" : false,
-    "Timestamp" : "2023-10-22 19:26:22",
-    "Body" : "Hi folks)\nI'm coming to Reykjavik in mid-November) please advise your favorite places to go) thank you)"
+    "body" : "Hi folks)\nI'm coming to Reykjavik in mid-November) please advise your favorite places to go) thank you)",
+    "username" : "Optimal_Character213",
+    "timestamp" : "2023-10-22 19:26:22"
   }, {
-    "Username" : "m2chaaeell",
     "reported_comment" : false,
-    "Timestamp" : "2023-11-28 18:11:52",
-    "Body" : "I am travelling to iceland tomorrow and would like to visit the game breidablik-tel Aviv on thursday. \nIs there any Chance the game is sold out and i will not be able to buy Tickets the day tomorrow or before the Game ?"
+    "body" : "I am travelling to iceland tomorrow and would like to visit the game breidablik-tel Aviv on thursday. \nIs there any Chance the game is sold out and i will not be able to buy Tickets the day tomorrow or before the Game ?",
+    "username" : "m2chaaeell",
+    "timestamp" : "2023-11-28 18:11:52"
   }, {
-    "Username" : "applebasket80",
     "reported_comment" : false,
-    "Timestamp" : "2023-11-29 00:06:21",
-    "Body" : "Hi!\n\nMy partner and I just arrived in Reykjavik today. We are renting a car. It is much bigger than the car we have at home and we aren't very used to the biting point/ power of this car. Before leaving we were more worried about driving on the other side of the road, which turned out to be fine but we underestimated how big of a difference the car itself would make. Does anyone maybe happen to know a quiet car park around Reykjavik centre where we could practice clutch controls in so that we can improve our driving and not disturb anyone?"
+    "body" : "Hi!\n\nMy partner and I just arrived in Reykjavik today. We are renting a car. It is much bigger than the car we have at home and we aren't very used to the biting point/ power of this car. Before leaving we were more worried about driving on the other side of the road, which turned out to be fine but we underestimated how big of a difference the car itself would make. Does anyone maybe happen to know a quiet car park around Reykjavik centre where we could practice clutch controls in so that we can improve our driving and not disturb anyone?",
+    "username" : "applebasket80",
+    "timestamp" : "2023-11-29 00:06:21"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2024-01-04 13:44:18",
-    "Body" : "Hey, I just arrived here to do an exchange semester. I need things like pots, dishes, etc. Is there something like a sharing platform, where I can get those things used for a little bit of money?"
+    "body" : "Hey, I just arrived here to do an exchange semester. I need things like pots, dishes, etc. Is there something like a sharing platform, where I can get those things used for a little bit of money?",
+    "username" : "None",
+    "timestamp" : "2024-01-04 13:44:18"
   }, {
-    "Username" : "Difficult_Bad_5208",
     "reported_comment" : false,
-    "Timestamp" : "2024-02-10 13:32:05",
-    "Body" : "Here is a detailed guide > https://instatravelstyle.com/places-to-see-in-reykjavik/"
+    "body" : "Here is a detailed guide > https://instatravelstyle.com/places-to-see-in-reykjavik/",
+    "username" : "Difficult_Bad_5208",
+    "timestamp" : "2024-02-10 13:32:05"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-07-28 08:58:51",
-    "Body" : "Not then, but now yes."
+    "body" : "Not then, but now yes.",
+    "username" : "11MHz",
+    "timestamp" : "2021-07-28 08:58:51"
   }, {
-    "Username" : "powerlifejack",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-07 15:03:09",
-    "Body" : "depends on the weather..."
+    "body" : "depends on the weather...",
+    "username" : "powerlifejack",
+    "timestamp" : "2022-01-07 15:03:09"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-03 13:31:31",
-    "Body" : "Not sure how experienced you are, if you are looking for something simple you can check out: http://veidikortid.is/index.php?lang=en"
+    "body" : "Not sure how experienced you are, if you are looking for something simple you can check out: http://veidikortid.is/index.php?lang=en",
+    "username" : "11MHz",
+    "timestamp" : "2021-08-03 13:31:31"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-03 21:57:26",
-    "Body" : "Síminn, Vodafone or Nova\n\nThose are the big three"
+    "body" : "Síminn, Vodafone or Nova\n\nThose are the big three",
+    "username" : "11MHz",
+    "timestamp" : "2021-08-03 21:57:26"
   }, {
-    "Username" : "kemmis",
     "reported_comment" : false,
-    "Timestamp" : "2021-09-12 18:46:21",
-    "Body" : "I was able to grab a siminn sim at 10/11. Not too expensive. Just ask for it at the counter."
+    "body" : "I was able to grab a siminn sim at 10/11. Not too expensive. Just ask for it at the counter.",
+    "username" : "kemmis",
+    "timestamp" : "2021-09-12 18:46:21"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-06-14 09:43:36",
-    "Body" : "A good first step is to ask the live chat here: https://www.heilsuvera.is/en/"
+    "body" : "A good first step is to ask the live chat here: https://www.heilsuvera.is/en/",
+    "username" : "11MHz",
+    "timestamp" : "2024-06-14 09:43:36"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-06-15 12:35:15",
-    "Body" : "You can use cards everywhere. Check with your bank for extra charges. \n\nThe US and Iceland have a mutual visa-free agreement for tourists (for up to 90 days). But starting in 2025 US citizens will have to apply for travel authorisation for Iceland+Europe (Schengen): https://travel-europe.europa.eu/etias/what-etias_en\n\nalso r/visitingiceland"
+    "body" : "You can use cards everywhere. Check with your bank for extra charges. \n\nThe US and Iceland have a mutual visa-free agreement for tourists (for up to 90 days). But starting in 2025 US citizens will have to apply for travel authorisation for Iceland+Europe (Schengen): https://travel-europe.europa.eu/etias/what-etias_en\n\nalso r/visitingiceland",
+    "username" : "11MHz",
+    "timestamp" : "2024-06-15 12:35:15"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-09-03 10:15:03",
-    "Body" : "Maybe, maybe not. Depending on weather related road closures (apply to all vehicles). \n\nSee r/visitingIceland for more"
+    "body" : "Maybe, maybe not. Depending on weather related road closures (apply to all vehicles). \n\nSee r/visitingIceland for more",
+    "username" : "11MHz",
+    "timestamp" : "2024-09-03 10:15:03"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-27 22:46:26",
-    "Body" : "That’s a state matter not local. https://island.is/s/utlendingastofnun"
+    "body" : "That’s a state matter not local. https://island.is/s/utlendingastofnun",
+    "username" : "11MHz",
+    "timestamp" : "2024-10-27 22:46:26"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-09 16:14:13",
-    "Body" : "r/visitingiceland"
+    "body" : "r/visitingiceland",
+    "username" : "11MHz",
+    "timestamp" : "2024-12-09 16:14:13"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-07-28 15:02:26",
-    "Body" : "Tiger and kr. 500."
+    "body" : "Tiger and kr. 500.",
+    "username" : "11MHz",
+    "timestamp" : "2021-07-28 15:02:26"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-03 13:30:24",
-    "Body" : "Restaurants? Bars? Clubs? Lots of them are open downtown."
+    "body" : "Restaurants? Bars? Clubs? Lots of them are open downtown.",
+    "username" : "11MHz",
+    "timestamp" : "2021-08-03 13:30:24"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-05 12:07:21",
-    "Body" : "I recommend asking on r/VisitingIceland\n\nThis sub is more for hyperlocal topics."
+    "body" : "I recommend asking on r/VisitingIceland\n\nThis sub is more for hyperlocal topics.",
+    "username" : "11MHz",
+    "timestamp" : "2021-08-05 12:07:21"
   }, {
-    "Username" : "tychenyn",
     "reported_comment" : false,
-    "Timestamp" : "2022-05-22 04:57:25",
-    "Body" : "It’s hard to find a car not expensive. I booked a car with Geysir in airport but I didn’t get a confirmation from the car rental. Is it common now in Iceland? Do you guys have the same issue? Thanks"
+    "body" : "It’s hard to find a car not expensive. I booked a car with Geysir in airport but I didn’t get a confirmation from the car rental. Is it common now in Iceland? Do you guys have the same issue? Thanks",
+    "username" : "tychenyn",
+    "timestamp" : "2022-05-22 04:57:25"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-13 10:59:59",
-    "Body" : "https://work.iceland.is/living/job-hunting"
+    "body" : "https://work.iceland.is/living/job-hunting",
+    "username" : "11MHz",
+    "timestamp" : "2021-08-13 10:59:59"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-22 12:25:55",
-    "Body" : "I would try this app: https://stubbur.app\n\nThey are the official ticket sales platform for some games. Not sure if they have the one today."
+    "body" : "I would try this app: https://stubbur.app\n\nThey are the official ticket sales platform for some games. Not sure if they have the one today.",
+    "username" : "11MHz",
+    "timestamp" : "2021-08-22 12:25:55"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-31 16:43:41",
-    "Body" : "You could try https://partybudin.is\n\nI think they used to have vibrant hair colors. I'd give them a call"
+    "body" : "You could try https://partybudin.is\n\nI think they used to have vibrant hair colors. I'd give them a call",
+    "username" : "11MHz",
+    "timestamp" : "2021-08-31 16:43:41"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-09-12 19:59:22",
-    "Body" : "You can send requests like to his to wishes@vedur.is\n\nPlease note they are limited to 10 wishes per person per week."
+    "body" : "You can send requests like to his to wishes@vedur.is\n\nPlease note they are limited to 10 wishes per person per week.",
+    "username" : "11MHz",
+    "timestamp" : "2021-09-12 19:59:22"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-09-28 23:37:52",
-    "Body" : "You came to the wrong city. That's not how we do things here."
+    "body" : "You came to the wrong city. That's not how we do things here.",
+    "username" : "11MHz",
+    "timestamp" : "2021-09-28 23:37:52"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-11-23 10:57:45",
-    "Body" : "Messinn, Sumac, Rok, 3 Frakkar, Jómfrúin, Sæta Svínið are some examples.\n\nCheck the prices first, \"mid priced\" for food in Reykjavík means some different than in many other places."
+    "body" : "Messinn, Sumac, Rok, 3 Frakkar, Jómfrúin, Sæta Svínið are some examples.\n\nCheck the prices first, \"mid priced\" for food in Reykjavík means some different than in many other places.",
+    "username" : "11MHz",
+    "timestamp" : "2021-11-23 10:57:45"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-04 01:11:24",
-    "Body" : "Are those leaves?"
+    "body" : "Are those leaves?",
+    "username" : "11MHz",
+    "timestamp" : "2021-12-04 01:11:24"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-15 09:12:04",
-    "Body" : "I would check out r/visitingiceland\n\nin general December is one of best months to see the Northern lights but it's never guaranteed."
+    "body" : "I would check out r/visitingiceland\n\nin general December is one of best months to see the Northern lights but it's never guaranteed.",
+    "username" : "11MHz",
+    "timestamp" : "2021-12-15 09:12:04"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-18 16:46:40",
-    "Body" : "This sub isn't that big. You are better off trying your luck on Facebook."
+    "body" : "This sub isn't that big. You are better off trying your luck on Facebook.",
+    "username" : "11MHz",
+    "timestamp" : "2021-12-18 16:46:40"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-28 18:42:23",
-    "Body" : "\"Safe\" is relative and depends on people's personal attitudes. \n\nHowever, we do have laws that create an upper bound on the level of precautions that must be taken to prevent the spread of covid. \n\nAs far as I know, all theatres in Iceland follow these rules and are deemed \"covid safe\" according to that definition."
+    "body" : "\"Safe\" is relative and depends on people's personal attitudes. \n\nHowever, we do have laws that create an upper bound on the level of precautions that must be taken to prevent the spread of covid. \n\nAs far as I know, all theatres in Iceland follow these rules and are deemed \"covid safe\" according to that definition.",
+    "username" : "11MHz",
+    "timestamp" : "2021-12-28 18:42:23"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-06 14:20:42",
-    "Body" : "Might be better off trying some Facebook groups. The number of people on Reddit is very small"
+    "body" : "Might be better off trying some Facebook groups. The number of people on Reddit is very small",
+    "username" : "11MHz",
+    "timestamp" : "2022-01-06 14:20:42"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-13 20:55:14",
-    "Body" : "straeto.is\n\nbut just to warn you, no ski resort in Iceland is \"impressive\""
+    "body" : "straeto.is\n\nbut just to warn you, no ski resort in Iceland is \"impressive\"",
+    "username" : "11MHz",
+    "timestamp" : "2022-01-13 20:55:14"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-02-26 12:53:24",
-    "Body" : "Laugavegur is the place for you. It's not long but lots of local art exhibitions and art stores."
+    "body" : "Laugavegur is the place for you. It's not long but lots of local art exhibitions and art stores.",
+    "username" : "11MHz",
+    "timestamp" : "2022-02-26 12:53:24"
   }, {
-    "Username" : "professorkurt",
     "reported_comment" : false,
-    "Timestamp" : "2022-03-18 19:18:20",
-    "Body" : "Everything will be open then.  The tourists are coming back so things are now open again.  Mid-April to early May is usually the beginning of the high season for tourism, so things are open and operating as normally as they can post-covid.  I am here right now and haven't encountered anything closed in Reykjavik except a few of the tour agencies have fewer offerings (but that's actually normal this time of year anyway)."
+    "body" : "Everything will be open then.  The tourists are coming back so things are now open again.  Mid-April to early May is usually the beginning of the high season for tourism, so things are open and operating as normally as they can post-covid.  I am here right now and haven't encountered anything closed in Reykjavik except a few of the tour agencies have fewer offerings (but that's actually normal this time of year anyway).",
+    "username" : "professorkurt",
+    "timestamp" : "2022-03-18 19:18:20"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-04-06 17:49:21",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-04-06 17:49:21"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-04-22 20:00:57",
-    "Body" : "r/visitingIceland"
+    "body" : "r/visitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-04-22 20:00:57"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-06-03 18:20:35",
-    "Body" : "r/visitingIceland"
+    "body" : "r/visitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-06-03 18:20:35"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-06-15 17:17:37",
-    "Body" : "also recommend asking in r/visitingIceland"
+    "body" : "also recommend asking in r/visitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-06-15 17:17:37"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-06-28 00:02:37",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-06-28 00:02:37"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-07-07 09:25:22",
-    "Body" : "There is a depression approaching Iceland right now. These \"wind storms\" are very common.\n\nPeople shouting at Austurvöllur sounds like some protests. Also very common."
+    "body" : "There is a depression approaching Iceland right now. These \"wind storms\" are very common.\n\nPeople shouting at Austurvöllur sounds like some protests. Also very common.",
+    "username" : "11MHz",
+    "timestamp" : "2022-07-07 09:25:22"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-07-18 01:04:53",
-    "Body" : "r/visitingIceland"
+    "body" : "r/visitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-07-18 01:04:53"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-12 18:26:39",
-    "Body" : "r/visitingIceland"
+    "body" : "r/visitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-10-12 18:26:39"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-31 15:00:36",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-10-31 15:00:36"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-31 21:59:18",
-    "Body" : "Yes you should be prepared for snow but it's not guaranteed"
+    "body" : "Yes you should be prepared for snow but it's not guaranteed",
+    "username" : "11MHz",
+    "timestamp" : "2022-10-31 21:59:18"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-11-06 01:11:27",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-11-06 01:11:27"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-12 22:28:50",
-    "Body" : "You can try the larger stores like Hagkaup. Útilíf will also have them but not sure if they have budget friendly ones"
+    "body" : "You can try the larger stores like Hagkaup. Útilíf will also have them but not sure if they have budget friendly ones",
+    "username" : "11MHz",
+    "timestamp" : "2022-12-12 22:28:50"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-30 17:41:08",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-12-30 17:41:08"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-31 11:58:51",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2022-12-31 11:58:51"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-02-28 08:51:32",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2023-02-28 08:51:32"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-03-27 13:35:41",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2023-03-27 13:35:41"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-04-03 08:36:27",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2023-04-03 08:36:27"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-04-05 12:17:23",
-    "Body" : "Tomorrow is a holiday in Iceland (Easter)."
+    "body" : "Tomorrow is a holiday in Iceland (Easter).",
+    "username" : "11MHz",
+    "timestamp" : "2023-04-05 12:17:23"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-04-27 19:47:55",
-    "Body" : "It would be hard to find a place not showing it. Eurovision has 99% viewership in Iceland."
+    "body" : "It would be hard to find a place not showing it. Eurovision has 99% viewership in Iceland.",
+    "username" : "11MHz",
+    "timestamp" : "2023-04-27 19:47:55"
   }, {
-    "Username" : "re-beck-aa",
     "reported_comment" : false,
-    "Timestamp" : "2023-04-27 21:42:17",
-    "Body" : "Yes, I know about the high viewership but that does not necessarily mean that there are places to watch it in public. In Sweden, for example, most people watch it at home. But then it sounds like it won’t be a problem finding somewhere to watch it!"
+    "body" : "Yes, I know about the high viewership but that does not necessarily mean that there are places to watch it in public. In Sweden, for example, most people watch it at home. But then it sounds like it won’t be a problem finding somewhere to watch it!",
+    "username" : "re-beck-aa",
+    "timestamp" : "2023-04-27 21:42:17"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-06-11 22:30:29",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2023-06-11 22:30:29"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-07-14 13:15:13",
-    "Body" : "r/VisitingIceland"
+    "body" : "r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2023-07-14 13:15:13"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-07-22 09:27:44",
-    "Body" : "probably r/VisitingIceland"
+    "body" : "probably r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2023-07-22 09:27:44"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-21 10:54:01",
-    "Body" : "I would check out r/VisitingIceland"
+    "body" : "I would check out r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2023-08-21 10:54:01"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-22 15:02:39",
-    "Body" : "I would try r/VisitingIceland"
+    "body" : "I would try r/VisitingIceland",
+    "username" : "11MHz",
+    "timestamp" : "2023-08-22 15:02:39"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-10-22 19:28:12",
-    "Body" : "r/VisitingIceland will give you better answer I think"
+    "body" : "r/VisitingIceland will give you better answer I think",
+    "username" : "11MHz",
+    "timestamp" : "2023-10-22 19:28:12"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-11-28 18:14:37",
-    "Body" : "try r/boltinn"
+    "body" : "try r/boltinn",
+    "username" : "11MHz",
+    "timestamp" : "2023-11-28 18:14:37"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2023-11-29 00:25:48",
-    "Body" : "Perlan? Quiet in the early morning and evenings and no houses very close by"
+    "body" : "Perlan? Quiet in the early morning and evenings and no houses very close by",
+    "username" : "11MHz",
+    "timestamp" : "2023-11-29 00:25:48"
   }, {
-    "Username" : "books_blog",
     "reported_comment" : false,
-    "Timestamp" : "2024-02-10 13:32:50",
-    "Body" : "This is amazing guide, bookmarking it now."
+    "body" : "This is amazing guide, bookmarking it now.",
+    "username" : "books_blog",
+    "timestamp" : "2024-02-10 13:32:50"
   }, {
-    "Username" : "EaterofLaw",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-28 15:16:44",
-    "Body" : "Ty friend! \nHow is the job market for just some basic work as an English speaker? I've been trying to learn by myself for years with no luck(I have no one to practice with.) My plan has always been to move there. Short term plan is to move and find some part time work while I attend an emersion school to help me learn it faster while networking my career path. \n\nDo you think this would work, or would the locals hate me for trying to immigrate without learning the language first?"
+    "body" : "Ty friend! \nHow is the job market for just some basic work as an English speaker? I've been trying to learn by myself for years with no luck(I have no one to practice with.) My plan has always been to move there. Short term plan is to move and find some part time work while I attend an emersion school to help me learn it faster while networking my career path. \n\nDo you think this would work, or would the locals hate me for trying to immigrate without learning the language first?",
+    "username" : "EaterofLaw",
+    "timestamp" : "2024-10-28 15:16:44"
   }, {
-    "Username" : "fotla",
     "reported_comment" : false,
-    "Timestamp" : "2021-08-05 12:07:56",
-    "Body" : "Amazing thank you 🙏🏻"
+    "body" : "Amazing thank you 🙏🏻",
+    "username" : "fotla",
+    "timestamp" : "2021-08-05 12:07:56"
   }, {
-    "Username" : "kemmis",
     "reported_comment" : false,
-    "Timestamp" : "2021-09-12 20:07:03",
-    "Body" : "Lies!"
+    "body" : "Lies!",
+    "username" : "kemmis",
+    "timestamp" : "2021-09-12 20:07:03"
   }, {
-    "Username" : "BlueWeetabix",
     "reported_comment" : false,
-    "Timestamp" : "2021-11-23 19:44:34",
-    "Body" : "Cheers that's helpful. I was thinking around 3,000 ikr for a main course. So some of these aren't bad thanks. If you know any takeaways ~2,000ikr per meal that would be great too."
+    "body" : "Cheers that's helpful. I was thinking around 3,000 ikr for a main course. So some of these aren't bad thanks. If you know any takeaways ~2,000ikr per meal that would be great too.",
+    "username" : "BlueWeetabix",
+    "timestamp" : "2021-11-23 19:44:34"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-04 01:12:39",
-    "Body" : "Surely they are i love Autumn and cant wait to buy some fresh leaves when they fall to the ground!"
+    "body" : "Surely they are i love Autumn and cant wait to buy some fresh leaves when they fall to the ground!",
+    "username" : "None",
+    "timestamp" : "2021-12-04 01:12:39"
   }, {
-    "Username" : "Boomcya",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-18 17:14:33",
-    "Body" : "don't have it unfortunately :("
+    "body" : "don't have it unfortunately :(",
+    "username" : "Boomcya",
+    "timestamp" : "2021-12-18 17:14:33"
   }, {
-    "Username" : "angryrabbit11",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-06 14:23:32",
-    "Body" : "It’s not too small.. a little over 5k users. But I’ll give that a shot if you think so"
+    "body" : "It’s not too small.. a little over 5k users. But I’ll give that a shot if you think so",
+    "username" : "angryrabbit11",
+    "timestamp" : "2022-01-06 14:23:32"
   }, {
-    "Username" : "Janeqq310",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-13 20:56:47",
-    "Body" : "Thanks! The one in Akureyri is decent for me :D"
+    "body" : "Thanks! The one in Akureyri is decent for me :D",
+    "username" : "Janeqq310",
+    "timestamp" : "2022-01-13 20:56:47"
   }, {
-    "Username" : "kiwi_rozzers",
     "reported_comment" : false,
-    "Timestamp" : "2022-07-07 11:43:02",
-    "Body" : "At 2am? We definitely saw some protests going on a couple of days ago, but those were during normal working hours.\n\n(I think a lot of the world is facing a depression or a recession right now...hopefully we can all get through it together! Offering support and friendship)"
+    "body" : "At 2am? We definitely saw some protests going on a couple of days ago, but those were during normal working hours.\n\n(I think a lot of the world is facing a depression or a recession right now...hopefully we can all get through it together! Offering support and friendship)",
+    "username" : "kiwi_rozzers",
+    "timestamp" : "2022-07-07 11:43:02"
   }, {
-    "Username" : "It-is-what-it-is-hun",
     "reported_comment" : false,
-    "Timestamp" : "2022-10-31 21:06:23",
-    "Body" : "Thank you!"
+    "body" : "Thank you!",
+    "username" : "It-is-what-it-is-hun",
+    "timestamp" : "2022-10-31 21:06:23"
   }, {
-    "Username" : "cmptrs",
     "reported_comment" : false,
-    "Timestamp" : "2022-12-13 00:42:26",
-    "Body" : "Thank you for your reply! I will go and look for one tomorrow in Hagkaup. Do you know the icelandic name for ‘rainpants’. I’ve looked for ‘regnbuxur’ on the website but maybe that’s not the right translation?"
+    "body" : "Thank you for your reply! I will go and look for one tomorrow in Hagkaup. Do you know the icelandic name for ‘rainpants’. I’ve looked for ‘regnbuxur’ on the website but maybe that’s not the right translation?",
+    "username" : "cmptrs",
+    "timestamp" : "2022-12-13 00:42:26"
   }, {
-    "Username" : "friedeggbeats",
     "reported_comment" : false,
-    "Timestamp" : "2023-03-27 16:36:51",
-    "Body" : "Thank you!"
+    "body" : "Thank you!",
+    "username" : "friedeggbeats",
+    "timestamp" : "2023-03-27 16:36:51"
   }, {
-    "Username" : "SocialDistancePro20",
     "reported_comment" : false,
-    "Timestamp" : "2023-04-05 13:11:06",
-    "Body" : "Wow, thank you."
+    "body" : "Wow, thank you.",
+    "username" : "SocialDistancePro20",
+    "timestamp" : "2023-04-05 13:11:06"
   }, {
-    "Username" : "vivilabe",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-22 15:19:35",
-    "Body" : "Okay thanks, I chose this subreddit because I will stay in Reykjavik. But I will also post in this one; thanks :)"
+    "body" : "Okay thanks, I chose this subreddit because I will stay in Reykjavik. But I will also post in this one; thanks :)",
+    "username" : "vivilabe",
+    "timestamp" : "2023-08-22 15:19:35"
   }, {
-    "Username" : "applebasket80",
     "reported_comment" : false,
-    "Timestamp" : "2024-01-11 17:43:25",
-    "Body" : "I forgot to say but we did end up going to perlan and it was a really good spot since it was nice and quiet.\n\nThanks again for the recommendation. Really saved our trip because we booked accommodation in a bunch of different places where we needed to be comfortable to drive to."
+    "body" : "I forgot to say but we did end up going to perlan and it was a really good spot since it was nice and quiet.\n\nThanks again for the recommendation. Really saved our trip because we booked accommodation in a bunch of different places where we needed to be comfortable to drive to.",
+    "username" : "applebasket80",
+    "timestamp" : "2024-01-11 17:43:25"
   }, {
-    "Username" : "applebasket80",
     "reported_comment" : false,
-    "Timestamp" : "2023-11-29 07:24:45",
-    "Body" : "Thanks, appreciate the recommendation! We will look into it"
+    "body" : "Thanks, appreciate the recommendation! We will look into it",
+    "username" : "applebasket80",
+    "timestamp" : "2023-11-29 07:24:45"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-28 15:28:29",
-    "Body" : "You will need a visa or residency permit first. \n\nGetting a company to sponsor you for a job that’s not specialised is going to be tough. \n\nIf you are 30 or under and have British citizenship you can also look at this thing: https://island.is/en/permit-for-working-holiday"
+    "body" : "You will need a visa or residency permit first. \n\nGetting a company to sponsor you for a job that’s not specialised is going to be tough. \n\nIf you are 30 or under and have British citizenship you can also look at this thing: https://island.is/en/permit-for-working-holiday",
+    "username" : "11MHz",
+    "timestamp" : "2024-10-28 15:28:29"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2021-12-04 01:26:19",
-    "Body" : "You can find leaves in autumn, August-October."
+    "body" : "You can find leaves in autumn, August-October.",
+    "username" : "11MHz",
+    "timestamp" : "2021-12-04 01:26:19"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-06 14:30:03",
-    "Body" : "5k, of which 2 are online.\n\nI and one other person, you if you joined this sub."
+    "body" : "5k, of which 2 are online.\n\nI and one other person, you if you joined this sub.",
+    "username" : "11MHz",
+    "timestamp" : "2022-01-06 14:30:03"
   }, {
-    "Username" : "EaterofLaw",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-28 16:25:51",
-    "Body" : "I can't really pursue the careers related to my field until I learn the language first... I wasn't sure about nonspecialized work. \nSpecialized = masters degree +?"
+    "body" : "I can't really pursue the careers related to my field until I learn the language first... I wasn't sure about nonspecialized work. \nSpecialized = masters degree +?",
+    "username" : "EaterofLaw",
+    "timestamp" : "2024-10-28 16:25:51"
   }, {
-    "Username" : "angryrabbit11",
     "reported_comment" : false,
-    "Timestamp" : "2022-01-06 14:34:53",
-    "Body" : "Only takes one… eh? Whatchu doin?"
+    "body" : "Only takes one… eh? Whatchu doin?",
+    "username" : "angryrabbit11",
+    "timestamp" : "2022-01-06 14:34:53"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-28 16:34:04",
-    "Body" : "Basically it depends on how easy it is to find someone in iceland to do it. If it’s hard in iceland and few people do it then it’s easier to get a visa."
+    "body" : "Basically it depends on how easy it is to find someone in iceland to do it. If it’s hard in iceland and few people do it then it’s easier to get a visa.",
+    "username" : "11MHz",
+    "timestamp" : "2024-10-28 16:34:04"
   }, {
-    "Username" : "EaterofLaw",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-30 09:05:44",
-    "Body" : "Been trying to contact various branches of government, organizations and companies for a few months...does no one respond to emails if their in English? (using an auto translator seemed insincere)"
+    "body" : "Been trying to contact various branches of government, organizations and companies for a few months...does no one respond to emails if their in English? (using an auto translator seemed insincere)",
+    "username" : "EaterofLaw",
+    "timestamp" : "2024-10-30 09:05:44"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-30 10:07:27",
-    "Body" : "It takes time"
+    "body" : "It takes time",
+    "username" : "11MHz",
+    "timestamp" : "2024-10-30 10:07:27"
   }, {
-    "Username" : "EaterofLaw",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-31 20:06:58",
-    "Body" : "I resent them all translated. The replies I got told me I'd need a work visa already. Seems like I'd have to learn the language before trying to immigrate. I don't like this wall. Lol"
+    "body" : "I resent them all translated. The replies I got told me I'd need a work visa already. Seems like I'd have to learn the language before trying to immigrate. I don't like this wall. Lol",
+    "username" : "EaterofLaw",
+    "timestamp" : "2024-10-31 20:06:58"
   }, {
-    "Username" : "11MHz",
     "reported_comment" : false,
-    "Timestamp" : "2024-10-31 20:11:51",
-    "Body" : "One of the side effects of Brexit"
+    "body" : "One of the side effects of Brexit",
+    "username" : "11MHz",
+    "timestamp" : "2024-10-31 20:11:51"
   } ]
 }

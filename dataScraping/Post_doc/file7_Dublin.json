@@ -1,20 +1,20 @@
 {
-  "Id" : 200326,
-  "Community_name" : "Dublin",
-  "Username" : "doctor6",
-  "Post_body" : "Killiney beach",
-  "Timestamp" : "2024-12-22 18:23:11",
-  "Num_comment" : 2,
+  "id" : 200326,
+  "community_name" : "Dublin",
+  "username" : "doctor6",
+  "post_body" : "Killiney beach",
+  "timestamp" : "2024-12-22 18:23:11",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Noble_Ox",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:23:11",
-    "Body" : "Used to play down there almost daily as a kid."
+    "body" : "Used to play down there almost daily as a kid.",
+    "username" : "Noble_Ox",
+    "timestamp" : "2024-12-22 18:23:11"
   }, {
-    "Username" : "Silver_Mention_3958",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:48:19",
-    "Body" : "Great pic. Print and frame it."
+    "body" : "Great pic. Print and frame it.",
+    "username" : "Silver_Mention_3958",
+    "timestamp" : "2024-12-22 23:48:19"
   } ]
 }

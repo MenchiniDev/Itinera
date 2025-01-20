@@ -1,40 +1,40 @@
 {
-  "Id" : 200161,
-  "Community_name" : "Vienna",
-  "Username" : "Spontanvegetation420",
-  "Post_body" : "Wir ziehen um nach r/wien!",
-  "Timestamp" : "2023-07-31 23:12:39",
-  "Num_comment" : 6,
+  "id" : 200161,
+  "community_name" : "Vienna",
+  "username" : "Spontanvegetation420",
+  "post_body" : "Wir ziehen um nach r/wien!",
+  "timestamp" : "2023-07-31 23:12:39",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Valfish",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2023-08-01 17:13:51",
-    "Body" : "Last es doch einfach offen für die touris, sonst landen die wieder in rwien"
+    "body" : "Last es doch einfach offen für die touris, sonst landen die wieder in rwien",
+    "username" : "Valfish",
+    "timestamp" : "2023-08-01 17:13:51"
   }, {
-    "Username" : "Weana-HW",
     "reported_comment" : false,
-    "Timestamp" : "2023-07-31 23:12:39",
-    "Body" : "/r/vienna muss bestehen bleiben…"
+    "body" : "/r/vienna muss bestehen bleiben…",
+    "username" : "Weana-HW",
+    "timestamp" : "2023-07-31 23:12:39"
   }, {
-    "Username" : "thatguyfromvienna",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-01 13:44:07",
-    "Body" : "Super, dass ihr in der Zwischenzeit eingesprungen seid!"
+    "body" : "Super, dass ihr in der Zwischenzeit eingesprungen seid!",
+    "username" : "thatguyfromvienna",
+    "timestamp" : "2023-08-01 13:44:07"
   }, {
-    "Username" : "FourDimensionalTaco",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-02 10:47:05",
-    "Body" : "Oida, jetzt müss ma wieder umziehen? Da tu I sudern wie es sich gehört in Wien! 😛"
+    "body" : "Oida, jetzt müss ma wieder umziehen? Da tu I sudern wie es sich gehört in Wien! 😛",
+    "username" : "FourDimensionalTaco",
+    "timestamp" : "2023-08-02 10:47:05"
   }, {
-    "Username" : "konsterntin",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-01 18:02:35",
-    "Body" : "Das wäre eine super Idee. Auch weil die dann.l Wahrscheinlich eher die Infos bekommen die sie wollen und alle anderen, die das nicht wollen, werde nicht durch naive turi fragen genervt"
+    "body" : "Das wäre eine super Idee. Auch weil die dann.l Wahrscheinlich eher die Infos bekommen die sie wollen und alle anderen, die das nicht wollen, werde nicht durch naive turi fragen genervt",
+    "username" : "konsterntin",
+    "timestamp" : "2023-08-01 18:02:35"
   }, {
-    "Username" : "Valfish",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-01 18:20:04",
-    "Body" : "Exactamente"
+    "body" : "Exactamente",
+    "username" : "Valfish",
+    "timestamp" : "2023-08-01 18:20:04"
   } ]
 }

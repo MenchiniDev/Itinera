@@ -14,7 +14,8 @@ public class CommunityGraph {
     @Id
     @GeneratedValue
     private long id;
-    @Property("City")
+    
+    @Property("city")
     private String city;
 
     @Relationship(type = "CONNECTED", direction = Relationship.Direction.INCOMING)

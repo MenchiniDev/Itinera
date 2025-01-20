@@ -1,55 +1,55 @@
 {
-  "Id" : 200426,
-  "Community_name" : "London",
-  "Username" : "polkadotska",
-  "Post_body" : "London info",
-  "Timestamp" : "2024-12-17 13:52:46",
-  "Num_comment" : 9,
+  "id" : 200426,
+  "community_name" : "London",
+  "username" : "polkadotska",
+  "post_body" : "London info",
+  "timestamp" : "2024-12-17 13:52:46",
+  "num_comment" : 9,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Angel_Omachi",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 17:57:11",
-    "Body" : "It doesn't work at all on Old Reddit."
+    "body" : "It doesn't work at all on Old Reddit.",
+    "username" : "Angel_Omachi",
+    "timestamp" : "2024-12-17 17:57:11"
   }, {
-    "Username" : "ianjm",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 13:52:46",
-    "Body" : "Hey folks, if anyone is wondering what this is, we're testing the new Community Hub feature on Reddit, will be filling out some of the sections in the next few hours/days."
+    "body" : "Hey folks, if anyone is wondering what this is, we're testing the new Community Hub feature on Reddit, will be filling out some of the sections in the next few hours/days.",
+    "username" : "ianjm",
+    "timestamp" : "2024-12-17 13:52:46"
   }, {
-    "Username" : "JBWalker1",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 23:40:53",
-    "Body" : "Doesn't work in third party apps either which is a shame"
+    "body" : "Doesn't work in third party apps either which is a shame",
+    "username" : "JBWalker1",
+    "timestamp" : "2024-12-20 23:40:53"
   }, {
-    "Username" : "SimpleMetrics",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 19:54:35",
-    "Body" : "Ooo that's cool. Maybe public transport resources in there? E.g. a link to [https://truetubestatus.com/](https://truetubestatus.com/) maybe (I'm the creator.)"
+    "body" : "Ooo that's cool. Maybe public transport resources in there? E.g. a link to [https://truetubestatus.com/](https://truetubestatus.com/) maybe (I'm the creator.)",
+    "username" : "SimpleMetrics",
+    "timestamp" : "2024-12-21 19:54:35"
   }, {
-    "Username" : "ab00",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 08:51:08",
-    "Body" : "That's actually quite cool, too bad it doesnt work on old reddit and new new reddit is even worse than new reddit."
+    "body" : "That's actually quite cool, too bad it doesnt work on old reddit and new new reddit is even worse than new reddit.",
+    "username" : "ab00",
+    "timestamp" : "2024-12-19 08:51:08"
   }, {
-    "Username" : "Triptycho",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 15:19:40",
-    "Body" : "what dis"
+    "body" : "what dis",
+    "username" : "Triptycho",
+    "timestamp" : "2024-12-17 15:19:40"
   }, {
-    "Username" : "AnotherSlowMoon",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 21:01:53",
-    "Body" : "Yep, guess I'll file this under a list of things I'll never see or use then"
+    "body" : "Yep, guess I'll file this under a list of things I'll never see or use then",
+    "username" : "AnotherSlowMoon",
+    "timestamp" : "2024-12-17 21:01:53"
   }, {
-    "Username" : "ianjm",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 18:18:35",
-    "Body" : "Yeah, annoying. Most people we're aiming this at will probably be new users on new Reddit or mobile though."
+    "body" : "Yeah, annoying. Most people we're aiming this at will probably be new users on new Reddit or mobile though.",
+    "username" : "ianjm",
+    "timestamp" : "2024-12-17 18:18:35"
   }, {
-    "Username" : "ianjm",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 15:44:19",
-    "Body" : "new phone"
+    "body" : "new phone",
+    "username" : "ianjm",
+    "timestamp" : "2024-12-17 15:44:19"
   } ]
 }

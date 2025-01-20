@@ -1,70 +1,70 @@
 {
-  "Id" : 200366,
-  "Community_name" : "Ljubljana",
-  "Username" : "pannacottajelajf",
-  "Post_body" : "Avtošola",
-  "Timestamp" : "2024-12-21 02:04:20",
-  "Num_comment" : 12,
+  "id" : 200366,
+  "community_name" : "Ljubljana",
+  "username" : "pannacottajelajf",
+  "post_body" : "Avtošola",
+  "timestamp" : "2024-12-21 02:04:20",
+  "num_comment" : 12,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Jelly_Round",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 10:04:25",
-    "Body" : "Amzs, pri njih opravljen izpit za B brez napak in trenutno delam izpit za A. Fajn inštruktorji, za denar dobiš maksimalno..."
+    "body" : "Amzs, pri njih opravljen izpit za B brez napak in trenutno delam izpit za A. Fajn inštruktorji, za denar dobiš maksimalno...",
+    "username" : "Jelly_Round",
+    "timestamp" : "2024-12-21 10:04:25"
   }, {
-    "Username" : "Depape66",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 05:16:12",
-    "Body" : "Iz mojih osebnih izkušenj bi priporočil Avtošolo Korelat. Pri njih je hči delala izpit za avto, jaz pa za motor. Super inštruktorji, cene pa primerljive ostalim avtošolam."
+    "body" : "Iz mojih osebnih izkušenj bi priporočil Avtošolo Korelat. Pri njih je hči delala izpit za avto, jaz pa za motor. Super inštruktorji, cene pa primerljive ostalim avtošolam.",
+    "username" : "Depape66",
+    "timestamp" : "2024-12-21 05:16:12"
   }, {
-    "Username" : "wdCassiopeia",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 02:04:20",
-    "Body" : "uporabi search na tem podbralniku, je bilo že večkrat postavljeno vprašanje. [primer](https://www.reddit.com/r/Ljubljana/s/gVb9v3KsJy)"
+    "body" : "uporabi search na tem podbralniku, je bilo že večkrat postavljeno vprašanje. [primer](https://www.reddit.com/r/Ljubljana/s/gVb9v3KsJy)",
+    "username" : "wdCassiopeia",
+    "timestamp" : "2024-12-21 02:04:20"
   }, {
-    "Username" : "not-rasta-8913",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 08:57:18",
-    "Body" : "Vprašaj kolege, ki so pred kratkim delali."
+    "body" : "Vprašaj kolege, ki so pred kratkim delali.",
+    "username" : "not-rasta-8913",
+    "timestamp" : "2024-12-21 08:57:18"
   }, {
-    "Username" : "pineapple-lukinho007",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 17:35:55",
-    "Body" : "Avtošola Mekinc. Specifično Uroš Mekinc (lastnik).\n\nThank me later."
+    "body" : "Avtošola Mekinc. Specifično Uroš Mekinc (lastnik).\n\nThank me later.",
+    "username" : "pineapple-lukinho007",
+    "timestamp" : "2024-12-21 17:35:55"
   }, {
-    "Username" : "zoidbergisawesome",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 22:27:36",
-    "Body" : "Amd Moste - Instruktor Stane"
+    "body" : "Amd Moste - Instruktor Stane",
+    "username" : "zoidbergisawesome",
+    "timestamp" : "2024-12-21 22:27:36"
   }, {
-    "Username" : "OromisGod",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 14:33:22",
-    "Body" : "Ježica, Rok Skukan je legenda"
+    "body" : "Ježica, Rok Skukan je legenda",
+    "username" : "OromisGod",
+    "timestamp" : "2024-12-22 14:33:22"
   }, {
-    "Username" : "Own-Tour8134",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:00:00",
-    "Body" : "Meni je bil Blisk cist ok"
+    "body" : "Meni je bil Blisk cist ok",
+    "username" : "Own-Tour8134",
+    "timestamp" : "2024-12-22 21:00:00"
   }, {
-    "Username" : "AutisticPenguin33",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:20:43",
-    "Body" : "Modri voznik, inštruktor Gaj specifično. Velikokrat sem zasledil nezadovoljstvo z MV tukaj na Redditu, vendar jaz teh problemov nisem imel, super inštruktor, papirologija se je uredila hitro."
+    "body" : "Modri voznik, inštruktor Gaj specifično. Velikokrat sem zasledil nezadovoljstvo z MV tukaj na Redditu, vendar jaz teh problemov nisem imel, super inštruktor, papirologija se je uredila hitro.",
+    "username" : "AutisticPenguin33",
+    "timestamp" : "2024-12-22 13:20:43"
   }, {
-    "Username" : "kalubasukdeod",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 10:58:48",
-    "Body" : "Avtošola Stop Šentvid. Pomoje edina k prideš na vrsto dost hitr"
+    "body" : "Avtošola Stop Šentvid. Pomoje edina k prideš na vrsto dost hitr",
+    "username" : "kalubasukdeod",
+    "timestamp" : "2024-12-21 10:58:48"
   }, {
-    "Username" : "AssumptionEmpty",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:35:49",
-    "Body" : "podpis pod amzs, pri njih delala a in b, vse naredila v prvo,"
+    "body" : "podpis pod amzs, pri njih delala a in b, vse naredila v prvo,",
+    "username" : "AssumptionEmpty",
+    "timestamp" : "2024-12-22 09:35:49"
   }, {
-    "Username" : "Wonderful_White",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:21:32",
-    "Body" : "Pri njih sem delal A1, B  in A.\n\nPriporočam tudi jaz."
+    "body" : "Pri njih sem delal A1, B  in A.\n\nPriporočam tudi jaz.",
+    "username" : "Wonderful_White",
+    "timestamp" : "2024-12-23 14:21:32"
   } ]
 }

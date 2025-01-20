@@ -1,15 +1,15 @@
 {
-  "Id" : 200472,
-  "City" : "Prague",
-  "Name" : "Prague",
-  "Created" : "2023-10-03 11:45:03",
-  "Post" : [ {
-    "User" : "Lord_Lucan7",
-    "Text" : "[WIKI] Visiting Prague for the first time? Read this first!",
-    "Timestamp" : "2023-10-03 12:45:03"
+  "id" : 200472,
+  "city" : "Prague",
+  "name" : "Prague",
+  "created" : "2023-10-03 11:45:03",
+  "post" : [ {
+    "text" : "[WIKI] Visiting Prague for the first time? Read this first!",
+    "user" : "Lord_Lucan7",
+    "timestamp" : "2023-10-03 12:45:03"
   }, {
-    "User" : "Dependent_Scholar199",
-    "Text" : "Help,does anyone have iron maiden tickets or knows where can i get them,thank you ❤️",
-    "Timestamp" : "2024-04-15 20:07:14"
+    "text" : "Help,does anyone have iron maiden tickets or knows where can i get them,thank you ❤️",
+    "user" : "Dependent_Scholar199",
+    "timestamp" : "2024-01-10 20:45:55"
   } ]
 }

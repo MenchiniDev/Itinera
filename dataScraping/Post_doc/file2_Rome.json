@@ -1,45 +1,45 @@
 {
-  "Id" : 200164,
-  "Community_name" : "Rome",
-  "Username" : "CarbonRunner",
-  "Post_body" : "Taking a trip to Rome, and have some questions",
-  "Timestamp" : "2024-12-23 13:33:16",
-  "Num_comment" : 7,
+  "id" : 200164,
+  "community_name" : "Rome",
+  "username" : "CarbonRunner",
+  "post_body" : "Taking a trip to Rome, and have some questions",
+  "timestamp" : "2024-12-23 13:33:16",
+  "num_comment" : 7,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "The_Travel_Trio",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:33:16",
-    "Body" : "we went last summer (never again, hot and nuts - it's good you're going when you are). we relied on [viator.com](https://www.viator.com/Rome/d511-ttd?pid=P00112302&mcid=42383&medium=link&medium_version=selector&campaign=reddit-rome-all-hl) for literally all of what you're after. they have skip the line tours, bus tours to tivoli, etc. it's great because they deal with the tickets. it's also a good place to start to see what travelers are saying (reviews), operators, pricing, timing, etc. for the flea market, i believe you're talking about the porta portese just south of trastevere. it is worth it (imho). hope this helps!"
+    "body" : "we went last summer (never again, hot and nuts - it's good you're going when you are). we relied on [viator.com](https://www.viator.com/Rome/d511-ttd?pid=P00112302&mcid=42383&medium=link&medium_version=selector&campaign=reddit-rome-all-hl) for literally all of what you're after. they have skip the line tours, bus tours to tivoli, etc. it's great because they deal with the tickets. it's also a good place to start to see what travelers are saying (reviews), operators, pricing, timing, etc. for the flea market, i believe you're talking about the porta portese just south of trastevere. it is worth it (imho). hope this helps!",
+    "username" : "The_Travel_Trio",
+    "timestamp" : "2024-12-23 13:33:16"
   }, {
-    "Username" : "lrpttnll",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:06:33",
-    "Body" : "1. Yes, it's 30 days before to the minute (and no, this information is not in our Wiki, although I do recommend to check that page out neverthelessy)\n\n2. In a regular year, we collectively suggest not to bother booking Pantheon tickets ahead of time because lines move pretty fast. However, the Jubilee is upon us, so there is no telling how crowded the city will be by the time you come. The amount of pilgrims coming to the city on top of the regular tourist flows are a great unknown, so if you can access the museiitaliani website with no issue (many tourists from abroad have had a hard time paying for their tickets on that platform), go ahead and try and snatch those tickets as soon as it is possible. \n\n3. It's not uncommon for the Scavi office to reply only a few weeks or even DAYS before the date of your visit, so it's not uncommon for you not to have heard back from them. As for the second part of your question, you cannot buy tickets in advance for the dome.\n\n4. You can access the Mamertine Prison with an Omnia Card (Vatican-issued city pass; this is because that site specifically is maintained by the Vatican). Not sure whether you can buy a ticket at the door.\n\n5. If you're not familiar with the public transportation network here, it could be hard-er to get to Tivoli. Not Villa d'Este - that one is straightforward on account of only needing a train ride. However, Hadrian's Villa can be overwhelming to a newbie to the Cotral bus  system, which takes you closer to the site. Because of that alone, save yourself from the hassle and get thee a tour.\n\n6. Your partner heard about Porta Portese. As a long time visitor to that, my suggestion is don't bother going unless a) your expectations are really low; b) you accept that you'll have to wake up extremely early to find the best bargains; and c) you'll limit your visit to the Via Angelo Bargoni/Via Ippolito Nievo area. And even that is seriously crammed with junk.\n\nLuckily enough there are plenty of other flea markets (mostly indoors) that you can visit and they are for the most part open every day of the week. Check out mercatinousato.com for a popular chain with dozens of branches."
+    "body" : "1. Yes, it's 30 days before to the minute (and no, this information is not in our Wiki, although I do recommend to check that page out neverthelessy)\n\n2. In a regular year, we collectively suggest not to bother booking Pantheon tickets ahead of time because lines move pretty fast. However, the Jubilee is upon us, so there is no telling how crowded the city will be by the time you come. The amount of pilgrims coming to the city on top of the regular tourist flows are a great unknown, so if you can access the museiitaliani website with no issue (many tourists from abroad have had a hard time paying for their tickets on that platform), go ahead and try and snatch those tickets as soon as it is possible. \n\n3. It's not uncommon for the Scavi office to reply only a few weeks or even DAYS before the date of your visit, so it's not uncommon for you not to have heard back from them. As for the second part of your question, you cannot buy tickets in advance for the dome.\n\n4. You can access the Mamertine Prison with an Omnia Card (Vatican-issued city pass; this is because that site specifically is maintained by the Vatican). Not sure whether you can buy a ticket at the door.\n\n5. If you're not familiar with the public transportation network here, it could be hard-er to get to Tivoli. Not Villa d'Este - that one is straightforward on account of only needing a train ride. However, Hadrian's Villa can be overwhelming to a newbie to the Cotral bus  system, which takes you closer to the site. Because of that alone, save yourself from the hassle and get thee a tour.\n\n6. Your partner heard about Porta Portese. As a long time visitor to that, my suggestion is don't bother going unless a) your expectations are really low; b) you accept that you'll have to wake up extremely early to find the best bargains; and c) you'll limit your visit to the Via Angelo Bargoni/Via Ippolito Nievo area. And even that is seriously crammed with junk.\n\nLuckily enough there are plenty of other flea markets (mostly indoors) that you can visit and they are for the most part open every day of the week. Check out mercatinousato.com for a popular chain with dozens of branches.",
+    "username" : "lrpttnll",
+    "timestamp" : "2024-12-23 15:06:33"
   }, {
-    "Username" : "vanvalec",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:11:02",
-    "Body" : "I'm going to Rome in the first week of February so can't contribute too much except that I got my scavi tickets 3 weeks ago for the 3rd of feb, after applying in late August. Given your trip is around 3 weeks after mine I wouldn't give up hope completely just yet."
+    "body" : "I'm going to Rome in the first week of February so can't contribute too much except that I got my scavi tickets 3 weeks ago for the 3rd of feb, after applying in late August. Given your trip is around 3 weeks after mine I wouldn't give up hope completely just yet.",
+    "username" : "vanvalec",
+    "timestamp" : "2024-12-23 14:11:02"
   }, {
-    "Username" : "lzcaIIi",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:23:02",
-    "Body" : "1 - check the sub's wiki; \n\n\n2 - buy tickets directly on site. There is a queue, but the times are always reasonable for both cash and card payments; \n\n\n3 - you can buy tickets for the dome and the lift directly at St. Peter's (2 different tickets); \n\n\n4 - No, the ticket is different. [Official info](https://www.omniavaticanrome.org/it/cards/il-carcer-tullianum);\n\n\n5 - Very easy. One of the 2 Italian railway companies offers the [train + bus](https://www.trenitalia.com/it/treni_regionali/lazio/ville-di-tivoli-link.html) solution;\n\n\n6 - It is the Sunday market of Porta Portese. I don't like these things so I don't know what to say."
+    "body" : "1 - check the sub's wiki; \n\n\n2 - buy tickets directly on site. There is a queue, but the times are always reasonable for both cash and card payments; \n\n\n3 - you can buy tickets for the dome and the lift directly at St. Peter's (2 different tickets); \n\n\n4 - No, the ticket is different. [Official info](https://www.omniavaticanrome.org/it/cards/il-carcer-tullianum);\n\n\n5 - Very easy. One of the 2 Italian railway companies offers the [train + bus](https://www.trenitalia.com/it/treni_regionali/lazio/ville-di-tivoli-link.html) solution;\n\n\n6 - It is the Sunday market of Porta Portese. I don't like these things so I don't know what to say.",
+    "username" : "lzcaIIi",
+    "timestamp" : "2024-12-23 14:23:02"
   }, {
-    "Username" : "Thesorus",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:26:18",
-    "Body" : "1. don't know.\n2. don't know\n3. don't know, but it's going to be crazy hard to get tickets.\n4. don't know.\n5. There's a train that gets to Tivoli, but after that, you're on your own.Get a tour, you'll be able to do both Villa d'Este and Villa Adriana.\n6. The market at Ponte Milvio is fun, it's not a flea market, especially if the weather is good (it's an outside market), BUT I think it was cloed for a while."
+    "body" : "1. don't know.\n2. don't know\n3. don't know, but it's going to be crazy hard to get tickets.\n4. don't know.\n5. There's a train that gets to Tivoli, but after that, you're on your own.Get a tour, you'll be able to do both Villa d'Este and Villa Adriana.\n6. The market at Ponte Milvio is fun, it's not a flea market, especially if the weather is good (it's an outside market), BUT I think it was cloed for a while.",
+    "username" : "Thesorus",
+    "timestamp" : "2024-12-23 14:26:18"
   }, {
-    "Username" : "Consistent_Agent62",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:34:16",
-    "Body" : "Bought my colosseum tickets from the official site (attico) with my IPhone, in my first attempt, I read in some thread it’s easier with your phone, good luck."
+    "body" : "Bought my colosseum tickets from the official site (attico) with my IPhone, in my first attempt, I read in some thread it’s easier with your phone, good luck.",
+    "username" : "Consistent_Agent62",
+    "timestamp" : "2024-12-23 14:34:16"
   }, {
-    "Username" : "CarbonRunner",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:26:43",
-    "Body" : "Wow! Thank you so much for the info. This helped a ton on pointing us in right direction. \n\nGlad to know that is the case, dreading trying to get them as it's such a bucket list for us. We're going to try and get attic or basement tickets, ideally both along with domus How are the 3rd party ticketing options? Few folkshere and other places have mentioned viator as a means to get em but i feel like they could just cancel on us if they can't get the tickets. Maybe book one with free cancelation and if we score the direct tickets then cancel the pricier tour backup option?\n\nI'm staying 1 block from pantheon for the trip so I guess I should be ok there if buying tickets is wishy washy for some regions. Worst case i show up before it opens and start the day with it.\n\nSo i can do the omnia for mamertime. But also buy it separately and could just combine that into our colosseum day/forum day? \n\nGood to know on Tivoli, I think we will do the bus tour just to make it more care free day. \n\n I had a feeling flea market was probably not gonna be the best. We were just looking for something to do on Sunday March 2nd as I don't want to be anywhere near the Vatican due to the crowds and I know the free entry day is going on for most stuff too. We're doing a day trip to pompeii during this, so might just make that our Sunday plans instead and get out of Rome for the day."
+    "body" : "Wow! Thank you so much for the info. This helped a ton on pointing us in right direction. \n\nGlad to know that is the case, dreading trying to get them as it's such a bucket list for us. We're going to try and get attic or basement tickets, ideally both along with domus How are the 3rd party ticketing options? Few folkshere and other places have mentioned viator as a means to get em but i feel like they could just cancel on us if they can't get the tickets. Maybe book one with free cancelation and if we score the direct tickets then cancel the pricier tour backup option?\n\nI'm staying 1 block from pantheon for the trip so I guess I should be ok there if buying tickets is wishy washy for some regions. Worst case i show up before it opens and start the day with it.\n\nSo i can do the omnia for mamertime. But also buy it separately and could just combine that into our colosseum day/forum day? \n\nGood to know on Tivoli, I think we will do the bus tour just to make it more care free day. \n\n I had a feeling flea market was probably not gonna be the best. We were just looking for something to do on Sunday March 2nd as I don't want to be anywhere near the Vatican due to the crowds and I know the free entry day is going on for most stuff too. We're doing a day trip to pompeii during this, so might just make that our Sunday plans instead and get out of Rome for the day.",
+    "username" : "CarbonRunner",
+    "timestamp" : "2024-12-23 15:26:43"
   } ]
 }

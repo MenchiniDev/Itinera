@@ -1,50 +1,50 @@
 {
-  "Id" : 200024,
-  "Community_name" : "Dublin",
-  "Username" : "MummysSpecialBoy",
-  "Post_body" : "Best buffet in the city centre?",
-  "Timestamp" : "2024-12-23 14:08:05",
-  "Num_comment" : 8,
+  "id" : 200024,
+  "community_name" : "Dublin",
+  "username" : "MummysSpecialBoy",
+  "post_body" : "Best buffet in the city centre?",
+  "timestamp" : "2024-12-23 14:08:05",
+  "num_comment" : 8,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "JoulSauron",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:08:05",
-    "Body" : "What type of buffet? There's Wing's World Cuisine near The Church and Nando's by Mary St."
+    "body" : "What type of buffet? There's Wing's World Cuisine near The Church and Nando's by Mary St.",
+    "username" : "JoulSauron",
+    "timestamp" : "2024-12-23 14:08:05"
   }, {
-    "Username" : "CommunicationIll5583",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:27:52",
-    "Body" : "one at the top of stephens green shopping centre?"
+    "body" : "one at the top of stephens green shopping centre?",
+    "username" : "CommunicationIll5583",
+    "timestamp" : "2024-12-23 14:27:52"
   }, {
-    "Username" : "MummysSpecialBoy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:14:25",
-    "Body" : "Any buffet would do me, although I do really like a Chinese. What's the best in your opinion?"
+    "body" : "Any buffet would do me, although I do really like a Chinese. What's the best in your opinion?",
+    "username" : "MummysSpecialBoy",
+    "timestamp" : "2024-12-23 14:14:25"
   }, {
-    "Username" : "MummysSpecialBoy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:42:20",
-    "Body" : "Dyk what kind of buffet it is?"
+    "body" : "Dyk what kind of buffet it is?",
+    "username" : "MummysSpecialBoy",
+    "timestamp" : "2024-12-23 14:42:20"
   }, {
-    "Username" : "JoulSauron",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:18:17",
-    "Body" : "I actually don't know any, it's been a long time since I last went to one. I heard good things about Wing's, they have a bit of every cuisine.\n\nFortune Terrace is a Chinese buffet in O'Connell St.\n\nThe Mongolian Barbeque in Temple bar is another classic that does all you can eat, a classic!"
+    "body" : "I actually don't know any, it's been a long time since I last went to one. I heard good things about Wing's, they have a bit of every cuisine.\n\nFortune Terrace is a Chinese buffet in O'Connell St.\n\nThe Mongolian Barbeque in Temple bar is another classic that does all you can eat, a classic!",
+    "username" : "JoulSauron",
+    "timestamp" : "2024-12-23 14:18:17"
   }, {
-    "Username" : "rocker_bunny",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:43:59",
-    "Body" : "Chinese"
+    "body" : "Chinese",
+    "username" : "rocker_bunny",
+    "timestamp" : "2024-12-23 14:43:59"
   }, {
-    "Username" : "MummysSpecialBoy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:24:42",
-    "Body" : "Thank you!"
+    "body" : "Thank you!",
+    "username" : "MummysSpecialBoy",
+    "timestamp" : "2024-12-23 14:24:42"
   }, {
-    "Username" : "MummysSpecialBoy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:47:39",
-    "Body" : "Legend thank u"
+    "body" : "Legend thank u",
+    "username" : "MummysSpecialBoy",
+    "timestamp" : "2024-12-23 14:47:39"
   } ]
 }

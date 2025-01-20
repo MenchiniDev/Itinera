@@ -1,15 +1,15 @@
 {
-  "Id" : 200463,
-  "City" : "Legends",
-  "Name" : "Legends",
-  "Created" : "2021-06-09 13:10:48",
-  "Post" : [ {
-    "User" : "OmarChavez6887678",
-    "Text" : "Warrior : Mobile legends Rank Vector",
-    "Timestamp" : "2021-06-09 14:10:48"
+  "id" : 200463,
+  "city" : "Legends",
+  "name" : "Legends",
+  "created" : "2021-06-09 13:10:48",
+  "post" : [ {
+    "text" : "Warrior : Mobile legends Rank Vector",
+    "user" : "OmarChavez6887678",
+    "timestamp" : "2021-06-09 14:10:48"
   }, {
-    "User" : "FLOORGAAANG",
-    "Text" : "Legend!",
-    "Timestamp" : "2021-08-01 13:28:23"
+    "text" : "Legend!",
+    "user" : "FLOORGAAANG",
+    "timestamp" : "2021-08-01 13:28:23"
   } ]
 }

@@ -1,270 +1,270 @@
 {
-  "Id" : 200210,
-  "Community_name" : "Stockholm",
-  "Username" : "swedish_tcd",
-  "Post_body" : "Bilfria helgerna på Sveavägen blir permanenta",
-  "Timestamp" : "2024-12-23 11:07:03",
-  "Num_comment" : 52,
+  "id" : 200210,
+  "community_name" : "Stockholm",
+  "username" : "swedish_tcd",
+  "post_body" : "Bilfria helgerna på Sveavägen blir permanenta",
+  "timestamp" : "2024-12-23 11:07:03",
+  "num_comment" : 52,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "pimmen89",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:14:21",
-    "Body" : "”Trafiken på Sveavägen har länge väckt starka känslor. En synpunkt är att bilarna är en del av en levande stad, medan andra uppger att de blir störda av trafiken, särskilt på kvällar och nätter.”\n\nJa, en stad känns så levande när alla blåser förbi i en anonym metallåda, utan att stanna och handla något."
+    "body" : "”Trafiken på Sveavägen har länge väckt starka känslor. En synpunkt är att bilarna är en del av en levande stad, medan andra uppger att de blir störda av trafiken, särskilt på kvällar och nätter.”\n\nJa, en stad känns så levande när alla blåser förbi i en anonym metallåda, utan att stanna och handla något.",
+    "username" : "pimmen89",
+    "timestamp" : "2024-12-23 14:14:21"
   }, {
-    "Username" : "GillyLvLz",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:28:25",
-    "Body" : "Great decision!"
+    "body" : "Great decision!",
+    "username" : "GillyLvLz",
+    "timestamp" : "2024-12-23 12:28:25"
   }, {
-    "Username" : "Wise-Salamander5427",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:14:38",
-    "Body" : "Vad bra, målet bör vara att omvandla alla bilvägar i Stockholms innerstad till helt trafikfria. Städerna åt människorna, inte bilarna!"
+    "body" : "Vad bra, målet bör vara att omvandla alla bilvägar i Stockholms innerstad till helt trafikfria. Städerna åt människorna, inte bilarna!",
+    "username" : "Wise-Salamander5427",
+    "timestamp" : "2024-12-23 12:14:38"
   }, {
-    "Username" : "ResearcherOk7685",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:10:59",
-    "Body" : "Bra, väldigt mycket trevligare utan trafiken."
+    "body" : "Bra, väldigt mycket trevligare utan trafiken.",
+    "username" : "ResearcherOk7685",
+    "timestamp" : "2024-12-23 15:10:59"
   }, {
-    "Username" : "TorkelTolle",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:42:55",
-    "Body" : "Bra, det blir en gata mindre att bli rammad av en skåpbil på!"
+    "body" : "Bra, det blir en gata mindre att bli rammad av en skåpbil på!",
+    "username" : "TorkelTolle",
+    "timestamp" : "2024-12-23 12:42:55"
   }, {
-    "Username" : "jakobjonsson",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:42:13",
-    "Body" : "Grattis Stockholm! Man får vad man röstar på."
+    "body" : "Grattis Stockholm! Man får vad man röstar på.",
+    "username" : "jakobjonsson",
+    "timestamp" : "2024-12-23 13:42:13"
   }, {
-    "Username" : "Republiken",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:56:43",
-    "Body" : "Oj, kors i taket"
+    "body" : "Oj, kors i taket",
+    "username" : "Republiken",
+    "timestamp" : "2024-12-23 12:56:43"
   }, {
-    "Username" : "yoghurt_bob",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:59:50",
-    "Body" : "Jag kanske är korkad men innebär inte detta bara att bilarna irrar runt på mindre parallellgator istället? Ändringar bör vara permanenta och förutsägbara, inte massa temporära omledningar hela tiden. Och att tvinga smågator att ta mer trafik känns bakvänt."
+    "body" : "Jag kanske är korkad men innebär inte detta bara att bilarna irrar runt på mindre parallellgator istället? Ändringar bör vara permanenta och förutsägbara, inte massa temporära omledningar hela tiden. Och att tvinga smågator att ta mer trafik känns bakvänt.",
+    "username" : "yoghurt_bob",
+    "timestamp" : "2024-12-23 13:59:50"
   }, {
-    "Username" : "Gludens",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:07:03",
-    "Body" : "Överraskande. /s Känns som att det inte hände någonting där men... bra grej kanske... \n\nLOL\n\n\"– Vi vill göra det mesta möjliga av det här, säger Lars Strömgren (M).\" I ingressen står det att han är Moderat. Slarvig journalist."
+    "body" : "Överraskande. /s Känns som att det inte hände någonting där men... bra grej kanske... \n\nLOL\n\n\"– Vi vill göra det mesta möjliga av det här, säger Lars Strömgren (M).\" I ingressen står det att han är Moderat. Slarvig journalist.",
+    "username" : "Gludens",
+    "timestamp" : "2024-12-23 11:07:03"
   }, {
-    "Username" : "Big_Departure3049",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:11:54",
-    "Body" : "förutom när du behöver ta en Uber då, eller om du vill att någon affär i innerstaden ska få leveranser"
+    "body" : "förutom när du behöver ta en Uber då, eller om du vill att någon affär i innerstaden ska få leveranser",
+    "username" : "Big_Departure3049",
+    "timestamp" : "2024-12-23 13:11:54"
   }, {
-    "Username" : "AttTankaRattArStorre",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:56:24",
-    "Body" : "Skitkul att transportera en soffa från Liljeholmen (eller var man nu får ställa bilen) via tunnelbanan in till sin innerstadslägenhet... Är du dum i huvudet? Har du någonsin bott i innerstaden?"
+    "body" : "Skitkul att transportera en soffa från Liljeholmen (eller var man nu får ställa bilen) via tunnelbanan in till sin innerstadslägenhet... Är du dum i huvudet? Har du någonsin bott i innerstaden?",
+    "username" : "AttTankaRattArStorre",
+    "timestamp" : "2024-12-23 13:56:24"
   }, {
-    "Username" : "Rhaj-no1992",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:33:09",
-    "Body" : "Bo i stad är ju hemskt, alldeles för mycket folk. Förorter ftw."
+    "body" : "Bo i stad är ju hemskt, alldeles för mycket folk. Förorter ftw.",
+    "username" : "Rhaj-no1992",
+    "timestamp" : "2024-12-23 13:33:09"
   }, {
-    "Username" : "snakemansweden",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:10:53",
-    "Body" : "Ja, det är verkligen fantastiskt!"
+    "body" : "Ja, det är verkligen fantastiskt!",
+    "username" : "snakemansweden",
+    "timestamp" : "2024-12-23 14:10:53"
   }, {
-    "Username" : "I_poop_deathstars",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:52:02",
-    "Body" : "Bara för att vara tydlig med de som inte läst artikeln, det är MP som dragit i spakarna. Väldigt bra beslut!"
+    "body" : "Bara för att vara tydlig med de som inte läst artikeln, det är MP som dragit i spakarna. Väldigt bra beslut!",
+    "username" : "I_poop_deathstars",
+    "timestamp" : "2024-12-23 14:52:02"
   }, {
-    "Username" : "yoghurt_bob",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:53:09",
-    "Body" : "Man får ju miljöpartiet som trafikborgarråd oavsett vad man röstar på i Stockholms kommun…"
+    "body" : "Man får ju miljöpartiet som trafikborgarråd oavsett vad man röstar på i Stockholms kommun…",
+    "username" : "yoghurt_bob",
+    "timestamp" : "2024-12-23 14:53:09"
   }, {
-    "Username" : "pimmen89",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:13:14",
-    "Body" : "Det gjorde de inte när det var på prov, folk struntade i att ta bilen genom innerstan istället. Ökar du genomfarten ökar du trafiken."
+    "body" : "Det gjorde de inte när det var på prov, folk struntade i att ta bilen genom innerstan istället. Ökar du genomfarten ökar du trafiken.",
+    "username" : "pimmen89",
+    "timestamp" : "2024-12-23 14:13:14"
   }, {
-    "Username" : "lindberghbaby41",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:23:10",
-    "Body" : "All tillgänglig data visar att biltrafiken generellt minskar om det blir krångligare att ta bilen på större gator"
+    "body" : "All tillgänglig data visar att biltrafiken generellt minskar om det blir krångligare att ta bilen på större gator",
+    "username" : "lindberghbaby41",
+    "timestamp" : "2024-12-23 14:23:10"
   }, {
-    "Username" : "GurraJG",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:33:52",
-    "Body" : "Nästan som att man kan undanta vissa fordon från trafikförbud..."
+    "body" : "Nästan som att man kan undanta vissa fordon från trafikförbud...",
+    "username" : "GurraJG",
+    "timestamp" : "2024-12-23 13:33:52"
   }, {
-    "Username" : "Crucial_Contributor",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:30:01",
-    "Body" : "Märkligt att butikerna på alla de gator som redan är bilfria verkar klara sig på något mystiskt sätt"
+    "body" : "Märkligt att butikerna på alla de gator som redan är bilfria verkar klara sig på något mystiskt sätt",
+    "username" : "Crucial_Contributor",
+    "timestamp" : "2024-12-23 13:30:01"
   }, {
-    "Username" : "Kikkifestis",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:19:23",
-    "Body" : "Eller när rulltrappan/hissen/dörren går sönder. Eller när det sprutar avloppsvatten ur toaletten, eller när det blir becksvart. "
+    "body" : "Eller när rulltrappan/hissen/dörren går sönder. Eller när det sprutar avloppsvatten ur toaletten, eller när det blir becksvart. ",
+    "username" : "Kikkifestis",
+    "timestamp" : "2024-12-23 13:19:23"
   }, {
-    "Username" : "Papercoffeetable",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:31:16",
-    "Body" : "Eller vill bli av med sopor, eller behöver hantverkare, eller behöver polis, ambulans, brandbilar… äh jag ger upp."
+    "body" : "Eller vill bli av med sopor, eller behöver hantverkare, eller behöver polis, ambulans, brandbilar… äh jag ger upp.",
+    "username" : "Papercoffeetable",
+    "timestamp" : "2024-12-23 13:31:16"
   }, {
-    "Username" : "Wise-Salamander5427",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:30:03",
-    "Body" : "Visst, i ett samhälle där det viktiga är försäljning och utbyte av pengar så kan jag förstå att bilar är en grundsten varpå resten av samhället vilar. Frågan är dock om det är det vi bör ha?"
+    "body" : "Visst, i ett samhälle där det viktiga är försäljning och utbyte av pengar så kan jag förstå att bilar är en grundsten varpå resten av samhället vilar. Frågan är dock om det är det vi bör ha?",
+    "username" : "Wise-Salamander5427",
+    "timestamp" : "2024-12-23 13:30:03"
   }, {
-    "Username" : "pimmen89",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:12:01",
-    "Body" : "Köp leverans hem då? Leveranser är undantagna."
+    "body" : "Köp leverans hem då? Leveranser är undantagna.",
+    "username" : "pimmen89",
+    "timestamp" : "2024-12-23 14:12:01"
   }, {
-    "Username" : "Wise-Salamander5427",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:57:37",
-    "Body" : "Bor nära Odenplan"
+    "body" : "Bor nära Odenplan",
+    "username" : "Wise-Salamander5427",
+    "timestamp" : "2024-12-23 13:57:37"
   }, {
-    "Username" : "jakobjonsson",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:57:26",
-    "Body" : "Allt är sant tills sista meningen."
+    "body" : "Allt är sant tills sista meningen.",
+    "username" : "jakobjonsson",
+    "timestamp" : "2024-12-23 14:57:26"
   }, {
-    "Username" : "jakobjonsson",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:56:57",
-    "Body" : "Ja, tyvärr finns det för få riktiga konservativa i stan."
+    "body" : "Ja, tyvärr finns det för få riktiga konservativa i stan.",
+    "username" : "jakobjonsson",
+    "timestamp" : "2024-12-23 14:56:57"
   }, {
-    "Username" : "lgLindstrom",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:32:39",
-    "Body" : "Sveavägen är en genomfartsled (norr öst) och jag tror inte de som kör där gör det för nöjes skull.\nVarför inte göra någon av parallellgatorna bilfria i stället?"
+    "body" : "Sveavägen är en genomfartsled (norr öst) och jag tror inte de som kör där gör det för nöjes skull.\nVarför inte göra någon av parallellgatorna bilfria i stället?",
+    "username" : "lgLindstrom",
+    "timestamp" : "2024-12-23 14:32:39"
   }, {
-    "Username" : "MrOaiki",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:46:32",
-    "Body" : "Det vill säga inte ”helt trafikfria” som föregående talare skojfriskt ropade."
+    "body" : "Det vill säga inte ”helt trafikfria” som föregående talare skojfriskt ropade.",
+    "username" : "MrOaiki",
+    "timestamp" : "2024-12-23 14:46:32"
   }, {
-    "Username" : "Ran4",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:51:12",
-    "Body" : "För att de ligger nära andra icke bilfria gator.."
+    "body" : "För att de ligger nära andra icke bilfria gator..",
+    "username" : "Ran4",
+    "timestamp" : "2024-12-23 13:51:12"
   }, {
-    "Username" : "vodkapastan",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:44:26",
-    "Body" : "Tänk om man kunde komma på lösningar? Kanske tillåta viss trafik som transporter och yrkesfordon. Nej. Inga lösningar. Bara problem 😤"
+    "body" : "Tänk om man kunde komma på lösningar? Kanske tillåta viss trafik som transporter och yrkesfordon. Nej. Inga lösningar. Bara problem 😤",
+    "username" : "vodkapastan",
+    "timestamp" : "2024-12-23 14:44:26"
   }, {
-    "Username" : "ResearcherOk7685",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:12:13",
-    "Body" : "Ja, man kommer givetvis låta hela bostadsområden slockna snarare än att låta en tjänstebil köra fram. Garanterat."
+    "body" : "Ja, man kommer givetvis låta hela bostadsområden slockna snarare än att låta en tjänstebil köra fram. Garanterat.",
+    "username" : "ResearcherOk7685",
+    "timestamp" : "2024-12-23 15:12:13"
   }, {
-    "Username" : "lindberghbaby41",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:21:38",
-    "Body" : "Tror du innerligt att bilfria gator innebär att polis och sopbilar inte får komma in?"
+    "body" : "Tror du innerligt att bilfria gator innebär att polis och sopbilar inte får komma in?",
+    "username" : "lindberghbaby41",
+    "timestamp" : "2024-12-23 14:21:38"
   }, {
-    "Username" : "Kleulkao",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:31:51",
-    "Body" : "Bilar brukar vara ett betydande problem för ambulans och brandbil. Bygger man ordentlig infrastruktur för gående, cyklister, och kollektivtrafik så kan den användas av dem också med med följd av att de kommer snabbare dit de ska."
+    "body" : "Bilar brukar vara ett betydande problem för ambulans och brandbil. Bygger man ordentlig infrastruktur för gående, cyklister, och kollektivtrafik så kan den användas av dem också med med följd av att de kommer snabbare dit de ska.",
+    "username" : "Kleulkao",
+    "timestamp" : "2024-12-23 14:31:51"
   }, {
-    "Username" : "LeTonVonLaser",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:20:54",
-    "Body" : "Tycker att allt det där kan lösas med ett rörpost-liknande system som vi bygger under marken"
+    "body" : "Tycker att allt det där kan lösas med ett rörpost-liknande system som vi bygger under marken",
+    "username" : "LeTonVonLaser",
+    "timestamp" : "2024-12-23 14:20:54"
   }, {
-    "Username" : "ResearcherOk7685",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:12:59",
-    "Body" : "Ja, man kommer garanterat att låta folk dö snarare än tillåta att ambulans eller polis kör på bilfria gator. Garanterat."
+    "body" : "Ja, man kommer garanterat att låta folk dö snarare än tillåta att ambulans eller polis kör på bilfria gator. Garanterat.",
+    "username" : "ResearcherOk7685",
+    "timestamp" : "2024-12-23 15:12:59"
   }, {
-    "Username" : "AttTankaRattArStorre",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:28:37",
-    "Body" : "Så ingen som bor i innerstaden ska någonsin få köpa något större än typ en stekpanna utan att betala extra för transport? Detta är bara en av alla saker som gör bilförbud uppenbart efterblivet."
+    "body" : "Så ingen som bor i innerstaden ska någonsin få köpa något större än typ en stekpanna utan att betala extra för transport? Detta är bara en av alla saker som gör bilförbud uppenbart efterblivet.",
+    "username" : "AttTankaRattArStorre",
+    "timestamp" : "2024-12-23 14:28:37"
   }, {
-    "Username" : "AttTankaRattArStorre",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:29:27",
-    "Body" : "Använde du tunnelbanan och apostlahästarna när du flyttade in i din nuvarande lägenhet?"
+    "body" : "Använde du tunnelbanan och apostlahästarna när du flyttade in i din nuvarande lägenhet?",
+    "username" : "AttTankaRattArStorre",
+    "timestamp" : "2024-12-23 14:29:27"
   }, {
-    "Username" : "ConvenientTetrahedon",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:30:01",
-    "Body" : "Då borde du veta hur vanligt det är med folk som har bil för att uträtta diverse liknande ärenden som bor i området. Så städerna åt människorna innefattar även bilar till de som bor där och vill ha det, vilket estimerat är en majoritet av den vuxna befolkningen där."
+    "body" : "Då borde du veta hur vanligt det är med folk som har bil för att uträtta diverse liknande ärenden som bor i området. Så städerna åt människorna innefattar även bilar till de som bor där och vill ha det, vilket estimerat är en majoritet av den vuxna befolkningen där.",
+    "username" : "ConvenientTetrahedon",
+    "timestamp" : "2024-12-23 15:30:01"
   }, {
-    "Username" : "pimmen89",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:56:09",
-    "Body" : "Det finns andra sätt att åka den riktningen, och när det gjordes på prov så ökade inte trafiken på parallellgatorna, folk åkte bara mindre bil genom innerstan."
+    "body" : "Det finns andra sätt att åka den riktningen, och när det gjordes på prov så ökade inte trafiken på parallellgatorna, folk åkte bara mindre bil genom innerstan.",
+    "username" : "pimmen89",
+    "timestamp" : "2024-12-23 14:56:09"
   }, {
-    "Username" : "MrOaiki",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:47:23",
-    "Body" : "För att det inte är lika symbolpolitiskt tydligt."
+    "body" : "För att det inte är lika symbolpolitiskt tydligt.",
+    "username" : "MrOaiki",
+    "timestamp" : "2024-12-23 14:47:23"
   }, {
-    "Username" : "Crucial_Contributor",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:57:19",
-    "Body" : "Nej, det är för att leveranser självklart är tillåtna även i bilfria områden"
+    "body" : "Nej, det är för att leveranser självklart är tillåtna även i bilfria områden",
+    "username" : "Crucial_Contributor",
+    "timestamp" : "2024-12-23 13:57:19"
   }, {
-    "Username" : "Kikkifestis",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:19:48",
-    "Body" : "Blir väl lite svårt om man omvandlar alla bilvägar till helt trafikfria? Känns som att den visa salamandern inte hade tänkt igenom sin idé.\n\nPersonligen tycker jag att en kompromiss med något liknanade nyttofordonstillstånd hade varit bra. Få bort folk som ska till sin arbetsplats och de boende i stans bilar först och främst, samtidigt tillåter man yrkestrafik som ska in och arbeta i stan."
+    "body" : "Blir väl lite svårt om man omvandlar alla bilvägar till helt trafikfria? Känns som att den visa salamandern inte hade tänkt igenom sin idé.\n\nPersonligen tycker jag att en kompromiss med något liknanade nyttofordonstillstånd hade varit bra. Få bort folk som ska till sin arbetsplats och de boende i stans bilar först och främst, samtidigt tillåter man yrkestrafik som ska in och arbeta i stan.",
+    "username" : "Kikkifestis",
+    "timestamp" : "2024-12-23 15:19:48"
   }, {
-    "Username" : "EishLekker",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:29:47",
-    "Body" : "Läs den ursprungliga kommentaren igen. ”Helt trafikfria” betyder exakt vad orden säger. HELT fria från ALL form av trafik. Inga undantag alls.\n\nJag säger inte att det skulle bli så i praktiken. Jag går bara efter vad hen faktiskt skrev."
+    "body" : "Läs den ursprungliga kommentaren igen. ”Helt trafikfria” betyder exakt vad orden säger. HELT fria från ALL form av trafik. Inga undantag alls.\n\nJag säger inte att det skulle bli så i praktiken. Jag går bara efter vad hen faktiskt skrev.",
+    "username" : "EishLekker",
+    "timestamp" : "2024-12-23 15:29:47"
   }, {
-    "Username" : "pimmen89",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:57:03",
-    "Body" : "Det låter inte riktigt lika hemskt som alla de samhällsproblem som bilar i innerstan för med sig. Så dyrt är det inte att beställa hem möbler."
+    "body" : "Det låter inte riktigt lika hemskt som alla de samhällsproblem som bilar i innerstan för med sig. Så dyrt är det inte att beställa hem möbler.",
+    "username" : "pimmen89",
+    "timestamp" : "2024-12-23 14:57:03"
   }, {
-    "Username" : "ResearcherOk7685",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:16:56",
-    "Body" : "Jag använde en flyttfirma som använde en lastbil som hör till firman.  \nDe utförde dessutom flytten på en vardag, inte på en helg."
+    "body" : "Jag använde en flyttfirma som använde en lastbil som hör till firman.  \nDe utförde dessutom flytten på en vardag, inte på en helg.",
+    "username" : "ResearcherOk7685",
+    "timestamp" : "2024-12-23 15:16:56"
   }, {
-    "Username" : "moopey",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:21:39",
-    "Body" : "Bor också vid Odenplan - använde flyttfirma. \n\n\nKöpte ny säng så tog jag hemleverans"
+    "body" : "Bor också vid Odenplan - använde flyttfirma. \n\n\nKöpte ny säng så tog jag hemleverans",
+    "username" : "moopey",
+    "timestamp" : "2024-12-23 15:21:39"
   }, {
-    "Username" : "ConvenientTetrahedon",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:26:57",
-    "Body" : "Även om total trafik minskade så leddes ändå delar av trafiken om till mindre gator vilket då leder till ökad trafiken där, iaf enligt Stockholm Stad själva.\n\nhttps://vaxer.stockholm/projekt/vasastan/bilfria-helger-pa-sveavagen/"
+    "body" : "Även om total trafik minskade så leddes ändå delar av trafiken om till mindre gator vilket då leder till ökad trafiken där, iaf enligt Stockholm Stad själva.\n\nhttps://vaxer.stockholm/projekt/vasastan/bilfria-helger-pa-sveavagen/",
+    "username" : "ConvenientTetrahedon",
+    "timestamp" : "2024-12-23 15:26:57"
   }, {
-    "Username" : "EishLekker",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:28:22",
-    "Body" : "Läs den ursprungliga kommentaren igen. ”Helt trafikfria” betyder exakt vad orden säger. ***HELT*** fria från ***ALL*** form av trafik. Inga undantag alls."
+    "body" : "Läs den ursprungliga kommentaren igen. ”Helt trafikfria” betyder exakt vad orden säger. ***HELT*** fria från ***ALL*** form av trafik. Inga undantag alls.",
+    "username" : "EishLekker",
+    "timestamp" : "2024-12-23 15:28:22"
   }, {
-    "Username" : "AttTankaRattArStorre",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:04:16",
-    "Body" : "Det är bara ett exempel. Ska en barnfamilj med 2-3 barn släpa på 5-6 resväskor genom spärrarna till tunnelbanan och pendeltåg (alternativt på gatorna till centralen) kl. 04:00 på morgonen när de ska på resa utomlands? Ska gamla pensionärer eller rörelsehindrade som har svårt att röra sig ta sig hela vägen ut till förorten för att kunna åka bil för att hälsa på familjen? Ska jag behöva ta taxi ut till Nacka för att hälsa på bekanta? Ska jag behöva anlita DHL för att transportera mina verktyg ut till båten för en dags arbete? Ska jag behöva ringa ambulans om jag behöver ta mig in till sjukhuset i ett icke-akut men ändå allvarligt läge?\n\nBilen är nödvändig, det finns inga som helst problem med bilar i innerstaden som ens kommer i närheten av kaoset som skulle uppstå om de förbjöds."
+    "body" : "Det är bara ett exempel. Ska en barnfamilj med 2-3 barn släpa på 5-6 resväskor genom spärrarna till tunnelbanan och pendeltåg (alternativt på gatorna till centralen) kl. 04:00 på morgonen när de ska på resa utomlands? Ska gamla pensionärer eller rörelsehindrade som har svårt att röra sig ta sig hela vägen ut till förorten för att kunna åka bil för att hälsa på familjen? Ska jag behöva ta taxi ut till Nacka för att hälsa på bekanta? Ska jag behöva anlita DHL för att transportera mina verktyg ut till båten för en dags arbete? Ska jag behöva ringa ambulans om jag behöver ta mig in till sjukhuset i ett icke-akut men ändå allvarligt läge?\n\nBilen är nödvändig, det finns inga som helst problem med bilar i innerstaden som ens kommer i närheten av kaoset som skulle uppstå om de förbjöds.",
+    "username" : "AttTankaRattArStorre",
+    "timestamp" : "2024-12-23 15:04:16"
   }, {
-    "Username" : "EishLekker",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:31:58",
-    "Body" : "Läs den ursprungliga kommentaren igen. ”Helt trafikfria” betyder exakt vad orden säger. HELT fria från ALL form av trafik. Inga undantag alls."
+    "body" : "Läs den ursprungliga kommentaren igen. ”Helt trafikfria” betyder exakt vad orden säger. HELT fria från ALL form av trafik. Inga undantag alls.",
+    "username" : "EishLekker",
+    "timestamp" : "2024-12-23 15:31:58"
   }, {
-    "Username" : "AttTankaRattArStorre",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:30:51",
-    "Body" : "Så tanken är att det ska svärma varutransporter, taxibilar och flyttbilar överallt hela tiden? Och normala personer kommer behöva lägga tusentals kronor i månaden på att anlita svindyra transportfirmor (eller taxibolag) för att transportera saker som enkelt hade gått in i en bil - bara för att MP-blivna hottentottar i innerstaden ska kunna göra kullerbyttor och spela kort på Sveavägen mitt på dagen?"
+    "body" : "Så tanken är att det ska svärma varutransporter, taxibilar och flyttbilar överallt hela tiden? Och normala personer kommer behöva lägga tusentals kronor i månaden på att anlita svindyra transportfirmor (eller taxibolag) för att transportera saker som enkelt hade gått in i en bil - bara för att MP-blivna hottentottar i innerstaden ska kunna göra kullerbyttor och spela kort på Sveavägen mitt på dagen?",
+    "username" : "AttTankaRattArStorre",
+    "timestamp" : "2024-12-23 15:30:51"
   }, {
-    "Username" : "pimmen89",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:23:12",
-    "Body" : "Ta en taxi från Arlanda kl 04:00 istället, och använd färdtjänst om du är rörelsehindrad, de är undantagna från förbudet.\n\nFörvara verktygen i båtskjulet om de är tunga, varför behöver du ha dem i lägenheten för?\n\nJag vet inte vad det är för kaos du tror hade uppstått om fler områden blir bilfria i innerstan, men jag ser inte så mycket kaos i Nürnberg eller Barcelona när de införde det. Vad tror du hände där? Istället har det blivit bättre för näringslivet, de rörelsehindrade, skattebetalarna, barnfamiljerna, pensionärerna, folkhälsan, personsäkerheten mm."
+    "body" : "Ta en taxi från Arlanda kl 04:00 istället, och använd färdtjänst om du är rörelsehindrad, de är undantagna från förbudet.\n\nFörvara verktygen i båtskjulet om de är tunga, varför behöver du ha dem i lägenheten för?\n\nJag vet inte vad det är för kaos du tror hade uppstått om fler områden blir bilfria i innerstan, men jag ser inte så mycket kaos i Nürnberg eller Barcelona när de införde det. Vad tror du hände där? Istället har det blivit bättre för näringslivet, de rörelsehindrade, skattebetalarna, barnfamiljerna, pensionärerna, folkhälsan, personsäkerheten mm.",
+    "username" : "pimmen89",
+    "timestamp" : "2024-12-23 15:23:12"
   } ]
 }

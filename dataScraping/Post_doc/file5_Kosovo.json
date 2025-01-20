@@ -1,15 +1,15 @@
 {
-  "Id" : 200293,
-  "Community_name" : "Kosovo",
-  "Username" : "AIbanian",
-  "Post_body" : "Po vjen era shteta o çuna!",
-  "Timestamp" : "2024-12-23 15:29:04",
-  "Num_comment" : 1,
+  "id" : 200293,
+  "community_name" : "Kosovo",
+  "username" : "AIbanian",
+  "post_body" : "Po vjen era shteta o çuna!",
+  "timestamp" : "2024-12-23 15:29:04",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "AIbanian",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:29:04",
-    "Body" : "knena shkijet tu u kall ne Beograd me Vuçiqin e knena tu bllokue hymja ne zgjedhje. o Inshallah flaka i del shkive kudo qe jan !!"
+    "body" : "knena shkijet tu u kall ne Beograd me Vuçiqin e knena tu bllokue hymja ne zgjedhje. o Inshallah flaka i del shkive kudo qe jan !!",
+    "username" : "AIbanian",
+    "timestamp" : "2024-12-23 15:29:04"
   } ]
 }

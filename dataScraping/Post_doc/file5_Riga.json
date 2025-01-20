@@ -1,40 +1,40 @@
 {
-  "Id" : 200239,
-  "Community_name" : "Riga",
-  "Username" : "Existing-Big-6709",
-  "Post_body" : "Sauna",
-  "Timestamp" : "2024-12-19 10:26:34",
-  "Num_comment" : 6,
+  "id" : 200239,
+  "community_name" : "Riga",
+  "username" : "Existing-Big-6709",
+  "post_body" : "Sauna",
+  "timestamp" : "2024-12-19 10:26:34",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Ok_Corgi4225",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 12:18:15",
-    "Body" : "Jokerklubs.lv\n\nSeven different saunas, pool, etc."
+    "body" : "Jokerklubs.lv\n\nSeven different saunas, pool, etc.",
+    "username" : "Ok_Corgi4225",
+    "timestamp" : "2024-12-19 12:18:15"
   }, {
-    "Username" : "Commercial-Long-1727",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 13:06:15",
-    "Body" : "Wellton Spa"
+    "body" : "Wellton Spa",
+    "username" : "Commercial-Long-1727",
+    "timestamp" : "2024-12-19 13:06:15"
   }, {
-    "Username" : "mrsrsp",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 16:58:26",
-    "Body" : "Grand poet hotel also welton riga hotel"
+    "body" : "Grand poet hotel also welton riga hotel",
+    "username" : "mrsrsp",
+    "timestamp" : "2024-12-19 16:58:26"
   }, {
-    "Username" : "isthistofu",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 01:07:12",
-    "Body" : "ESPA can be nice"
+    "body" : "ESPA can be nice",
+    "username" : "isthistofu",
+    "timestamp" : "2024-12-20 01:07:12"
   }, {
-    "Username" : "mizanscena",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 07:03:03",
-    "Body" : "Unimarine SPA, quite cheap, three saunas, decent pool with streams, so it's actually fun to swim around, bar & food. Also, the only place I know where you are allowed to stay for unlimited time."
+    "body" : "Unimarine SPA, quite cheap, three saunas, decent pool with streams, so it's actually fun to swim around, bar & food. Also, the only place I know where you are allowed to stay for unlimited time.",
+    "username" : "mizanscena",
+    "timestamp" : "2024-12-20 07:03:03"
   }, {
-    "Username" : "NoNegativeBoi",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 10:26:34",
-    "Body" : "MyFitness"
+    "body" : "MyFitness",
+    "username" : "NoNegativeBoi",
+    "timestamp" : "2024-12-19 10:26:34"
   } ]
 }

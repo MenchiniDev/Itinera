@@ -1,40 +1,40 @@
 {
-  "Id" : 200054,
-  "Community_name" : "Bratislava",
-  "Username" : "thegrinreaper6",
-  "Post_body" : "Bratislava on 26th December",
-  "Timestamp" : "2024-12-22 10:36:46",
-  "Num_comment" : 6,
+  "id" : 200054,
+  "community_name" : "Bratislava",
+  "username" : "thegrinreaper6",
+  "post_body" : "Bratislava on 26th December",
+  "timestamp" : "2024-12-22 10:36:46",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "KrissieKris",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 10:36:46",
-    "Body" : "yes, its “saint Stefan’s” day so pubs will be open and lots of drinking involved"
+    "body" : "yes, its “saint Stefan’s” day so pubs will be open and lots of drinking involved",
+    "username" : "KrissieKris",
+    "timestamp" : "2024-12-22 10:36:46"
   }, {
-    "Username" : "fortuneman7585",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:25:26",
-    "Body" : "But the Christmas market will be closed and during the day most people will be visiting their families... it will be more lively in the afternoon."
+    "body" : "But the Christmas market will be closed and during the day most people will be visiting their families... it will be more lively in the afternoon.",
+    "username" : "fortuneman7585",
+    "timestamp" : "2024-12-22 13:25:26"
   }, {
-    "Username" : "LovelehInnit",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:40:25",
-    "Body" : "Stores will be closed, but most Malina supermarkets will be open - [Prevádzky - Potraviny Malina](https://www.malina.sk/)."
+    "body" : "Stores will be closed, but most Malina supermarkets will be open - [Prevádzky - Potraviny Malina](https://www.malina.sk/).",
+    "username" : "LovelehInnit",
+    "timestamp" : "2024-12-22 15:40:25"
   }, {
-    "Username" : "thegrinreaper6",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:54:09",
-    "Body" : "Thank you! This is good to hear!"
+    "body" : "Thank you! This is good to hear!",
+    "username" : "thegrinreaper6",
+    "timestamp" : "2024-12-23 08:54:09"
   }, {
-    "Username" : "thegrinreaper6",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:54:53",
-    "Body" : "Ah! As long as everything isn't completely closed, it should be fun to visit! Thank you!"
+    "body" : "Ah! As long as everything isn't completely closed, it should be fun to visit! Thank you!",
+    "username" : "thegrinreaper6",
+    "timestamp" : "2024-12-23 08:54:53"
   }, {
-    "Username" : "thegrinreaper6",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:55:20",
-    "Body" : "Thank you for this!"
+    "body" : "Thank you for this!",
+    "username" : "thegrinreaper6",
+    "timestamp" : "2024-12-23 08:55:20"
   } ]
 }

@@ -1,150 +1,150 @@
 {
-  "Id" : 200046,
-  "Community_name" : "Birmingham",
-  "Username" : "RollingRecker_theDM",
-  "Post_body" : "Please be careful aground Leeds",
-  "Timestamp" : "2024-12-23 13:40:46",
-  "Num_comment" : 28,
+  "id" : 200046,
+  "community_name" : "Birmingham",
+  "username" : "RollingRecker_theDM",
+  "post_body" : "Please be careful aground Leeds",
+  "timestamp" : "2024-12-23 13:40:46",
+  "num_comment" : 28,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "AutoModerator",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:40:46",
-    "Body" : "This post may be mentioning looking for apartments. Consider checking out [some recent threads](https://www.reddit.com/r/Birmingham/search/?q=apartments+OR+apartment&include_over_18=on&restrict_sr=on&t=new&sort=new) about apartment hunting. **Avoid renting from H2 at all costs**, even as abundant as their properties are and as cheap as rent seems [(see an abundance of horror stories here)](https://www.reddit.com/r/Birmingham/search/?q=h2&include_over_18=on&restrict_sr=on&t=new&sort=relevance). Consider reaching out to [RentMonster](https://rentmonster.net/), a free local apartment hunting service that's found a ton of /r/Birmingham -sters their apartments to help you find a non-H2 property. Also consider checking out [Dwell](https://www.livewithdwell.com/availability/) properties, who is pretty well regarded by this subreddit, or also consider driving around looking for signs for private landlords.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Birmingham) if you have any questions or concerns.*"
+    "body" : "This post may be mentioning looking for apartments. Consider checking out [some recent threads](https://www.reddit.com/r/Birmingham/search/?q=apartments+OR+apartment&include_over_18=on&restrict_sr=on&t=new&sort=new) about apartment hunting. **Avoid renting from H2 at all costs**, even as abundant as their properties are and as cheap as rent seems [(see an abundance of horror stories here)](https://www.reddit.com/r/Birmingham/search/?q=h2&include_over_18=on&restrict_sr=on&t=new&sort=relevance). Consider reaching out to [RentMonster](https://rentmonster.net/), a free local apartment hunting service that's found a ton of /r/Birmingham -sters their apartments to help you find a non-H2 property. Also consider checking out [Dwell](https://www.livewithdwell.com/availability/) properties, who is pretty well regarded by this subreddit, or also consider driving around looking for signs for private landlords.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Birmingham) if you have any questions or concerns.*",
+    "username" : "AutoModerator",
+    "timestamp" : "2024-12-23 13:40:46"
   }, {
-    "Username" : "jsummerlin14",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:07:39",
-    "Body" : "This post is missing a lot of context."
+    "body" : "This post is missing a lot of context.",
+    "username" : "jsummerlin14",
+    "timestamp" : "2024-12-23 14:07:39"
   }, {
-    "Username" : "codedaddee",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:58:42",
-    "Body" : "What did he try to start? Road rage or was there something specific?"
+    "body" : "What did he try to start? Road rage or was there something specific?",
+    "username" : "codedaddee",
+    "timestamp" : "2024-12-23 13:58:42"
   }, {
-    "Username" : "Im-a-spider-ama",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:38:02",
-    "Body" : "There’s been a lot of “I gave someone the finger and they responded negatively” posts lately."
+    "body" : "There’s been a lot of “I gave someone the finger and they responded negatively” posts lately.",
+    "username" : "Im-a-spider-ama",
+    "timestamp" : "2024-12-23 14:38:02"
   }, {
-    "Username" : "charlie_murphey",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:48:46",
-    "Body" : "Don't go home if someone is following you"
+    "body" : "Don't go home if someone is following you",
+    "username" : "charlie_murphey",
+    "timestamp" : "2024-12-23 14:48:46"
   }, {
-    "Username" : "neocondiment",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:00:55",
-    "Body" : "All of Leeds be careful of one short king in a van with bright lights!"
+    "body" : "All of Leeds be careful of one short king in a van with bright lights!",
+    "username" : "neocondiment",
+    "timestamp" : "2024-12-23 15:00:55"
   }, {
-    "Username" : "dollofpaper",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:02:45",
-    "Body" : "Was there anything that happened before hand?"
+    "body" : "Was there anything that happened before hand?",
+    "username" : "dollofpaper",
+    "timestamp" : "2024-12-23 14:02:45"
   }, {
-    "Username" : "Darth_Draper",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:52:49",
-    "Body" : "Sorry this happened, mate. Be safe out there kids."
+    "body" : "Sorry this happened, mate. Be safe out there kids.",
+    "username" : "Darth_Draper",
+    "timestamp" : "2024-12-23 14:52:49"
   }, {
-    "Username" : "RollingRecker_theDM",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:12:54",
-    "Body" : "Only thing I've did was flip the bird at my side view mirror from within my car once since he flashed me. And I guess that's enough to follow someone home and block them in the parking spot."
+    "body" : "Only thing I've did was flip the bird at my side view mirror from within my car once since he flashed me. And I guess that's enough to follow someone home and block them in the parking spot.",
+    "username" : "RollingRecker_theDM",
+    "timestamp" : "2024-12-23 14:12:54"
   }, {
-    "Username" : "Fit-Calligrapher9039",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:08:08",
-    "Body" : "Wow tough guy. I'm sure beating up a leprechaun would make everyone respect and admire you."
+    "body" : "Wow tough guy. I'm sure beating up a leprechaun would make everyone respect and admire you.",
+    "username" : "Fit-Calligrapher9039",
+    "timestamp" : "2024-12-23 15:08:08"
   }, {
-    "Username" : "iRudi94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:42:31",
-    "Body" : "https://preview.redd.it/hnttx8rqql8e1.jpeg?width=680&format=pjpg&auto=webp&s=4d8f9267b00369e6a1143aef555bda75cb31e3f3\n\n“I gave them the finger and now they are pissed?”"
+    "body" : "https://preview.redd.it/hnttx8rqql8e1.jpeg?width=680&format=pjpg&auto=webp&s=4d8f9267b00369e6a1143aef555bda75cb31e3f3\n\n“I gave them the finger and now they are pissed?”",
+    "username" : "iRudi94",
+    "timestamp" : "2024-12-23 14:42:31"
   }, {
-    "Username" : "farmerjoee",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:15:00",
-    "Body" : "If someone gives you the finger, act like an adult and move on with your day."
+    "body" : "If someone gives you the finger, act like an adult and move on with your day.",
+    "username" : "farmerjoee",
+    "timestamp" : "2024-12-23 15:15:00"
   }, {
-    "Username" : "Fit-Calligrapher9039",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:09:24",
-    "Body" : "Or honked their horn. It is insane how many road-rage-baiting morons there are out there. I honked my horn at this random person and they got mad at me, what a psychopath!!!!!!! I gave someone the finger and they got mad at me! Like Oh em Gee, guys?!?!?!?!"
+    "body" : "Or honked their horn. It is insane how many road-rage-baiting morons there are out there. I honked my horn at this random person and they got mad at me, what a psychopath!!!!!!! I gave someone the finger and they got mad at me! Like Oh em Gee, guys?!?!?!?!",
+    "username" : "Fit-Calligrapher9039",
+    "timestamp" : "2024-12-23 15:09:24"
   }, {
-    "Username" : "Nervous-Research-887",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:15:53",
-    "Body" : "Never drive home"
+    "body" : "Never drive home",
+    "username" : "Nervous-Research-887",
+    "timestamp" : "2024-12-23 14:15:53"
   }, {
-    "Username" : "GrumpsMcWhooty",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:16:53",
-    "Body" : "Why didn't you call the cops or go to the police station? Instead you led him to where you live and park your car...."
+    "body" : "Why didn't you call the cops or go to the police station? Instead you led him to where you live and park your car....",
+    "username" : "GrumpsMcWhooty",
+    "timestamp" : "2024-12-23 14:16:53"
   }, {
-    "Username" : "codedaddee",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:16:41",
-    "Body" : "That's more than enough for many people. It's just as effective to your dopamine response if they don't see it. Try it."
+    "body" : "That's more than enough for many people. It's just as effective to your dopamine response if they don't see it. Try it.",
+    "username" : "codedaddee",
+    "timestamp" : "2024-12-23 14:16:41"
   }, {
-    "Username" : "JustWinBaby404",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:45:52",
-    "Body" : "That was not a justifiable or rational response to your actions. On a jury, I would’ve sided with you. That’s just me tho…"
+    "body" : "That was not a justifiable or rational response to your actions. On a jury, I would’ve sided with you. That’s just me tho…",
+    "username" : "JustWinBaby404",
+    "timestamp" : "2024-12-23 14:45:52"
   }, {
-    "Username" : "dollofpaper",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:22:12",
-    "Body" : "Ladies and gentlemen. \n\nWe found the problem."
+    "body" : "Ladies and gentlemen. \n\nWe found the problem.",
+    "username" : "dollofpaper",
+    "timestamp" : "2024-12-23 14:22:12"
   }, {
-    "Username" : "RandomlyJim",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:25:19",
-    "Body" : "Black folks have guns.  White folks have guns.  Rich folks have guns.  Poor folks have guns.  \n\nWhy is every little argument about stupid shit turning into a shoot out?!?!"
+    "body" : "Black folks have guns.  White folks have guns.  Rich folks have guns.  Poor folks have guns.  \n\nWhy is every little argument about stupid shit turning into a shoot out?!?!",
+    "username" : "RandomlyJim",
+    "timestamp" : "2024-12-23 15:25:19"
   }, {
-    "Username" : "RollingRecker_theDM",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:19:13",
-    "Body" : "I know i don't know what went through my mind then  honestly never been  more terrified"
+    "body" : "I know i don't know what went through my mind then  honestly never been  more terrified",
+    "username" : "RollingRecker_theDM",
+    "timestamp" : "2024-12-23 14:19:13"
   }, {
-    "Username" : "RollingRecker_theDM",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:24:18",
-    "Body" : "I didn't think I was terrified and froze up I didn't notice he was following till we started turning to our complex"
+    "body" : "I didn't think I was terrified and froze up I didn't notice he was following till we started turning to our complex",
+    "username" : "RollingRecker_theDM",
+    "timestamp" : "2024-12-23 14:24:18"
   }, {
-    "Username" : "Infinite-Panic8071",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:42:20",
-    "Body" : "Omg! I do this!!"
+    "body" : "Omg! I do this!!",
+    "username" : "Infinite-Panic8071",
+    "timestamp" : "2024-12-23 14:42:20"
   }, {
-    "Username" : "RollingRecker_theDM",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:27:55",
-    "Body" : " And does the problem warrant following and blocking somebody in a parking spot?! I only made this post as a warning incase someone saw the truck and got flashed in the face and had a similar reaction to mine."
+    "body" : " And does the problem warrant following and blocking somebody in a parking spot?! I only made this post as a warning incase someone saw the truck and got flashed in the face and had a similar reaction to mine.",
+    "username" : "RollingRecker_theDM",
+    "timestamp" : "2024-12-23 14:27:55"
   }, {
-    "Username" : "iRudi94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:28:46",
-    "Body" : "The guy that followed her is definitely a dumbass. \n\nBut she for sure needs to learn from this and think to herself next time if it is worth it to even give someone the finger whenever you’re not prepared for how far a dumbass would take it."
+    "body" : "The guy that followed her is definitely a dumbass. \n\nBut she for sure needs to learn from this and think to herself next time if it is worth it to even give someone the finger whenever you’re not prepared for how far a dumbass would take it.",
+    "username" : "iRudi94",
+    "timestamp" : "2024-12-23 15:28:46"
   }, {
-    "Username" : "dollofpaper",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:31:18",
-    "Body" : "Listen man, people are unhinged so you can't be doing that stuff anymore. Also you left out ALL of this context in your post."
+    "body" : "Listen man, people are unhinged so you can't be doing that stuff anymore. Also you left out ALL of this context in your post.",
+    "username" : "dollofpaper",
+    "timestamp" : "2024-12-23 14:31:18"
   }, {
-    "Username" : "JT-OnThaTrack",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:28:58",
-    "Body" : "You made it worse than it could have been"
+    "body" : "You made it worse than it could have been",
+    "username" : "JT-OnThaTrack",
+    "timestamp" : "2024-12-23 14:28:58"
   }, {
-    "Username" : "RollingRecker_theDM",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:34:32",
-    "Body" : "And I'm not anymore and sorry I didn't mean it as a post to tell my issues more of a warning about that I'll try to pin my response so people can have the context I just want people to be more careful than I was"
+    "body" : "And I'm not anymore and sorry I didn't mean it as a post to tell my issues more of a warning about that I'll try to pin my response so people can have the context I just want people to be more careful than I was",
+    "username" : "RollingRecker_theDM",
+    "timestamp" : "2024-12-23 14:34:32"
   }, {
-    "Username" : "dollofpaper",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:35:24",
-    "Body" : "shizzle"
+    "body" : "shizzle",
+    "username" : "dollofpaper",
+    "timestamp" : "2024-12-23 14:35:24"
   } ]
 }

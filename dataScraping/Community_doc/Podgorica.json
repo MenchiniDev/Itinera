@@ -1,15 +1,15 @@
 {
-  "Id" : 200465,
-  "City" : "Podgorica",
-  "Name" : "Podgorica",
-  "Created" : "2024-04-15 19:07:53",
-  "Post" : [ {
-    "User" : "Acrobatic-Ad3253",
-    "Text" : "New Community for Expats of Montenegro",
-    "Timestamp" : "2024-04-15 20:07:53"
+  "id" : 200465,
+  "city" : "Podgorica",
+  "name" : "Podgorica",
+  "created" : "2024-01-10 19:46:15",
+  "post" : [ {
+    "text" : "New Community for Expats of Montenegro",
+    "user" : "Acrobatic-Ad3253",
+    "timestamp" : "2024-01-10 20:46:15"
   }, {
-    "User" : "crazzywak",
-    "Text" : "Where to play ping pong?",
-    "Timestamp" : "2024-04-15 20:14:13"
+    "text" : "Where to play ping pong?",
+    "user" : "crazzywak",
+    "timestamp" : "2024-01-10 20:56:37"
   } ]
 }

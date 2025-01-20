@@ -104,12 +104,12 @@ public class PostsCleaning {
             String formattedTimestamp = convertAndCorrectTimestamp(timestamp);
             int numComments = ((JSONArray) originalJson.get("comments")).size();
 
-            transformedJson.put("Id", globalIdCounter.getAndIncrement());
-            transformedJson.put("Community_name", communityName);
-            transformedJson.put("Username", user);
-            transformedJson.put("Post_body", postBody);
-            transformedJson.put("Timestamp", formattedTimestamp);
-            transformedJson.put("Num_comment", numComments);
+            transformedJson.put("id", globalIdCounter.getAndIncrement());
+            transformedJson.put("community_name", communityName);
+            transformedJson.put("username", user);
+            transformedJson.put("post_body", postBody);
+            transformedJson.put("timestamp", formattedTimestamp);
+            transformedJson.put("num_comment", numComments);
             transformedJson.put("reported_post", false);
 
             JSONArray transformedComments = new JSONArray();
@@ -128,16 +128,16 @@ public class PostsCleaning {
                         uniqueUsernames.add(commentUser);
                     }
 
-                    transformedComment.put("Username", commentUser);
-                    transformedComment.put("Timestamp", convertAndCorrectTimestamp(commentTimestamp));
-                    transformedComment.put("Body", originalComment.get("body"));
+                    transformedComment.put("username", commentUser);
+                    transformedComment.put("timestamp", convertAndCorrectTimestamp(commentTimestamp));
+                    transformedComment.put("body", originalComment.get("body"));
                     transformedComment.put("reported_comment", false);
 
                     transformedComments.add(transformedComment);
                 }
             }
 
-            transformedJson.put("Commenti", transformedComments);
+            transformedJson.put("commenti", transformedComments);
 
             int counter = communityFileCounter.getOrDefault(communityName, 0) + 1;
             communityFileCounter.put(communityName, counter);

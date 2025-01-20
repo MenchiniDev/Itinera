@@ -1,275 +1,275 @@
 {
-  "Id" : 200435,
-  "Community_name" : "Berlin",
-  "Username" : "Witty-Surprise9176",
-  "Post_body" : "Schüsse im Shoppingcenter in Hohenschönhausen – 19-Jähriger verletzt",
-  "Timestamp" : "2024-12-23 10:36:57",
-  "Num_comment" : 53,
+  "id" : 200435,
+  "community_name" : "Berlin",
+  "username" : "Witty-Surprise9176",
+  "post_body" : "Schüsse im Shoppingcenter in Hohenschönhausen – 19-Jähriger verletzt",
+  "timestamp" : "2024-12-23 10:36:57",
+  "num_comment" : 53,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "marcpolo94",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:14:01",
-    "Body" : "Wieder ein Rechter Anschlag auf Migranten und Deutsche, die nicht die Werte der AfD und dem Nazi-Pack teilen?\n\nJeden Tag ein neuer Anschlag von AfD-Anhängern"
+    "body" : "Wieder ein Rechter Anschlag auf Migranten und Deutsche, die nicht die Werte der AfD und dem Nazi-Pack teilen?\n\nJeden Tag ein neuer Anschlag von AfD-Anhängern",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 11:14:01"
   }, {
-    "Username" : "Dargomis",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:48:55",
-    "Body" : "Höchste Zeit für Pistolen Verbotszonen. Damit würde sich alles bessern wie wir an den Messerverbotszonen sehen. /S"
+    "body" : "Höchste Zeit für Pistolen Verbotszonen. Damit würde sich alles bessern wie wir an den Messerverbotszonen sehen. /S",
+    "username" : "Dargomis",
+    "timestamp" : "2024-12-23 12:48:55"
   }, {
-    "Username" : "Zwacklmann",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:34:50",
-    "Body" : "Wie damals im MV"
+    "body" : "Wie damals im MV",
+    "username" : "Zwacklmann",
+    "timestamp" : "2024-12-23 12:34:50"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:36:57",
-    "Body" : "Hier bekriegen sich Bandenmitglieder in aller Oeffentlichkeit. Dies gab es in den USA in der Zeit unter dem Gangsterboss Al Capone auch. Deutschland scheint immer brutaler zu werden.\n\nEs tun mir die Passanten leid, die solch eine Tat miterleben mussten."
+    "body" : "Hier bekriegen sich Bandenmitglieder in aller Oeffentlichkeit. Dies gab es in den USA in der Zeit unter dem Gangsterboss Al Capone auch. Deutschland scheint immer brutaler zu werden.\n\nEs tun mir die Passanten leid, die solch eine Tat miterleben mussten.",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 10:36:57"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:30:12",
-    "Body" : "Ich verstehe gar nichts. Waren das jetzt AfDler oder was?"
+    "body" : "Ich verstehe gar nichts. Waren das jetzt AfDler oder was?",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 13:30:12"
   }, {
-    "Username" : "Huhn_malay",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:47:50",
-    "Body" : "Sind die ganzen Türken die AfD wählen eig auch Nazis oder wie verhält es sich da? Ernste Frage"
+    "body" : "Sind die ganzen Türken die AfD wählen eig auch Nazis oder wie verhält es sich da? Ernste Frage",
+    "username" : "Huhn_malay",
+    "timestamp" : "2024-12-23 13:47:50"
   }, {
-    "Username" : "Aggressive-Remote-57",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:33:32",
-    "Body" : "Vorhin erst gelesen, dass maskierte extreme linke Kommunalpolitikerinnen in Görlitz zusammengeschlagen haben. Deine Relativierung hilft niemandem."
+    "body" : "Vorhin erst gelesen, dass maskierte extreme linke Kommunalpolitikerinnen in Görlitz zusammengeschlagen haben. Deine Relativierung hilft niemandem.",
+    "username" : "Aggressive-Remote-57",
+    "timestamp" : "2024-12-23 11:33:32"
   }, {
-    "Username" : "heaviestmatter-",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:51:11",
-    "Body" : "Ah ja und diese Infos hast du woher? Definitiv nicht aus dem Artikel jedenfalls."
+    "body" : "Ah ja und diese Infos hast du woher? Definitiv nicht aus dem Artikel jedenfalls.",
+    "username" : "heaviestmatter-",
+    "timestamp" : "2024-12-23 10:51:11"
   }, {
-    "Username" : "LetterMission2943",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:48:56",
-    "Body" : "Quelle?"
+    "body" : "Quelle?",
+    "username" : "LetterMission2943",
+    "timestamp" : "2024-12-23 10:48:56"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:45:24",
-    "Body" : "NPD, 3. Weg oder AfD. Alles der selbe Abschaum."
+    "body" : "NPD, 3. Weg oder AfD. Alles der selbe Abschaum.",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 13:45:24"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:00:49",
-    "Body" : "Wer AfD wählt ist dumm und symphatisiert mit Nazis und Faschisten, so wie der Massenmörder von Magdeburg, Hanau, Halle, NSU... Mir scheißegal ob er ein Nazi ist oder nicht.\nWer Faschisten und Nazis wählt gehört deportiert aus Deutschland nach Ungarn, Russland oder direkt ins Mittelmeer ;) \nNazi hin oder Her. Staatsfeinde gehören weg gemacht ;)"
+    "body" : "Wer AfD wählt ist dumm und symphatisiert mit Nazis und Faschisten, so wie der Massenmörder von Magdeburg, Hanau, Halle, NSU... Mir scheißegal ob er ein Nazi ist oder nicht.\nWer Faschisten und Nazis wählt gehört deportiert aus Deutschland nach Ungarn, Russland oder direkt ins Mittelmeer ;) \nNazi hin oder Her. Staatsfeinde gehören weg gemacht ;)",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 14:00:49"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:38:06",
-    "Body" : "Sie meinen die AfD-Knechte, die eine Linke Politikerin fast umgebracht haben?\n\nhttps://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/neonazis-rechtsextreme-schlagen-linke-lka-100.html"
+    "body" : "Sie meinen die AfD-Knechte, die eine Linke Politikerin fast umgebracht haben?\n\nhttps://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/neonazis-rechtsextreme-schlagen-linke-lka-100.html",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 11:38:06"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:36:39",
-    "Body" : "https://www.standpunkt.press/rassistischer-anschlagsplan-in-deutschland-aufgedeckt-373/"
+    "body" : "https://www.standpunkt.press/rassistischer-anschlagsplan-in-deutschland-aufgedeckt-373/",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 11:36:39"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:37:04",
-    "Body" : "https://www.standpunkt.press/deutsche-nazi-terroristen-festgenommen-ermittlungen-in-oesterreich-734/"
+    "body" : "https://www.standpunkt.press/deutsche-nazi-terroristen-festgenommen-ermittlungen-in-oesterreich-734/",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 11:37:04"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:05:17",
-    "Body" : "Holger Munch vom BKA gab zu, dass die deutschen Sicherheitsbehoerden vor dem saudischen Attentaeter gewarnt wurden."
+    "body" : "Holger Munch vom BKA gab zu, dass die deutschen Sicherheitsbehoerden vor dem saudischen Attentaeter gewarnt wurden.",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 11:05:17"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:09:54",
-    "Body" : "Wenn 2 Gruppen sich bekriegen, kann es sich nur um Banden handeln. Denk mal nach."
+    "body" : "Wenn 2 Gruppen sich bekriegen, kann es sich nur um Banden handeln. Denk mal nach.",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 11:09:54"
   }, {
-    "Username" : "larholm",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:07:43",
-    "Body" : "seine Hintertürschen"
+    "body" : "seine Hintertürschen",
+    "username" : "larholm",
+    "timestamp" : "2024-12-23 11:07:43"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:49:22",
-    "Body" : "Das stimmt. Aber war es einer von denen oder wie? Ich verstehe das Kommentar nicht."
+    "body" : "Das stimmt. Aber war es einer von denen oder wie? Ich verstehe das Kommentar nicht.",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 13:49:22"
   }, {
-    "Username" : "Huhn_malay",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:14:54",
-    "Body" : "Geht mir darum, dass hier in Deutschland generell AfD Wähler = nazi. Aber was oft verschwiegen wird das ein sehr großer Teil an 2. und 3. Generation Türke die AfD wählt."
+    "body" : "Geht mir darum, dass hier in Deutschland generell AfD Wähler = nazi. Aber was oft verschwiegen wird das ein sehr großer Teil an 2. und 3. Generation Türke die AfD wählt.",
+    "username" : "Huhn_malay",
+    "timestamp" : "2024-12-23 14:14:54"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:35:10",
-    "Body" : "Genau dasselbe hat er doch geschrieben. Weil man deinen Post auch sarkastisch verstehen kann. Weil du einfach irgendwas geschrieben hast, ohne die Hintergründe zu erkennen. Warum wird er runtergewählt und du hochgewählt?"
+    "body" : "Genau dasselbe hat er doch geschrieben. Weil man deinen Post auch sarkastisch verstehen kann. Weil du einfach irgendwas geschrieben hast, ohne die Hintergründe zu erkennen. Warum wird er runtergewählt und du hochgewählt?",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 14:35:10"
   }, {
-    "Username" : "Aggressive-Remote-57",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:44:36",
-    "Body" : "Immer noch am relativieren? Krank."
+    "body" : "Immer noch am relativieren? Krank.",
+    "username" : "Aggressive-Remote-57",
+    "timestamp" : "2024-12-23 11:44:36"
   }, {
-    "Username" : "larholm",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:08:57",
-    "Body" : "häh? dem saudischen Attentaeter in Hohenschönhausen?"
+    "body" : "häh? dem saudischen Attentaeter in Hohenschönhausen?",
+    "username" : "larholm",
+    "timestamp" : "2024-12-23 11:08:57"
   }, {
-    "Username" : "heaviestmatter-",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:39:02",
-    "Body" : "Du bist ja komplett verloren. „Saudischer Attentäter“, dir ist bewusst dass der ein AfD-fanatischer Rechtsextremer war, ne?"
+    "body" : "Du bist ja komplett verloren. „Saudischer Attentäter“, dir ist bewusst dass der ein AfD-fanatischer Rechtsextremer war, ne?",
+    "username" : "heaviestmatter-",
+    "timestamp" : "2024-12-23 14:39:02"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:06:51",
-    "Body" : "Sorry, mein Kommentar gehoert in einen anderen Thread."
+    "body" : "Sorry, mein Kommentar gehoert in einen anderen Thread.",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 11:06:51"
   }, {
-    "Username" : "heaviestmatter-",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:46:43",
-    "Body" : "Und ein Mord heißt also automatisch, dass sich zwei Banden bekriegen. Sowas dämliches kann man sich nicht ausdenken."
+    "body" : "Und ein Mord heißt also automatisch, dass sich zwei Banden bekriegen. Sowas dämliches kann man sich nicht ausdenken.",
+    "username" : "heaviestmatter-",
+    "timestamp" : "2024-12-23 11:46:43"
   }, {
-    "Username" : "geek__",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:17:20",
-    "Body" : "ahahhaha achso okay"
+    "body" : "ahahhaha achso okay",
+    "username" : "geek__",
+    "timestamp" : "2024-12-23 11:17:20"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:57:01",
-    "Body" : "Deutscher Nazi erschießt Migrant. Er war bestimmt kein SPD oder CDU Wähler.\nEr ist ein Rechter Wichser, der mit aller Wahrscheinlichkeit die AfD wählt und einen Hass auf Migranten hat, so wie die meisten AfD Mitgliedern (55.000), von denen ca. 55% (=28.000 Menschen) als rechtsextrem eingestuft werden."
+    "body" : "Deutscher Nazi erschießt Migrant. Er war bestimmt kein SPD oder CDU Wähler.\nEr ist ein Rechter Wichser, der mit aller Wahrscheinlichkeit die AfD wählt und einen Hass auf Migranten hat, so wie die meisten AfD Mitgliedern (55.000), von denen ca. 55% (=28.000 Menschen) als rechtsextrem eingestuft werden.",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 13:57:01"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:34:02",
-    "Body" : "Sind Sie dumm oder denken Sie nur Deutsche können Nazis sein? \nAbgesehen davon habe ich beschrieben, dass nicht alle AfD-Knechte Nazis sind, sie sind nur sehr dumm und 55% von den AfD-Mitgliedern sind Rechtsextreme, die Menschen umbringen, Attentate planen, Menschen umbringen wollen etc. pp."
+    "body" : "Sind Sie dumm oder denken Sie nur Deutsche können Nazis sein? \nAbgesehen davon habe ich beschrieben, dass nicht alle AfD-Knechte Nazis sind, sie sind nur sehr dumm und 55% von den AfD-Mitgliedern sind Rechtsextreme, die Menschen umbringen, Attentate planen, Menschen umbringen wollen etc. pp.",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 14:34:02"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:34:56",
-    "Body" : "Wenn das generell von der Bevölkerung so gesehen wird, wird das wohl stimmen."
+    "body" : "Wenn das generell von der Bevölkerung so gesehen wird, wird das wohl stimmen.",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 14:34:56"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:37:55",
-    "Body" : "Er hat genau das Gegenteil behauptet und damit gelogen. Sind die Rechten eigentlich wirklich so dumm, wie die Bevölkerung es von ihnen denkt?\nWer nachweislich lügt wird aus so beurteilt.\nKein Grund zum Heulen 😂"
+    "body" : "Er hat genau das Gegenteil behauptet und damit gelogen. Sind die Rechten eigentlich wirklich so dumm, wie die Bevölkerung es von ihnen denkt?\nWer nachweislich lügt wird aus so beurteilt.\nKein Grund zum Heulen 😂",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 14:37:55"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:49:51",
-    "Body" : "Was genau wird relativiert? Das AfD-Knechte jeden Tag Menschen umbringen, Genozide in der Ukraine bejubel, in Menschenmengen fahren, Politiker umbringen, Umsturzpläne mit 70.000 Schuss Munition, Faschisten bejubeln, Deutschland zersetzen und zerstören wollen?\n\nhttps://www.n-tv.de/politik/Rechtsradikale-treten-SPD-Mitglied-in-Bauch-und-Gesicht-article25432966.html"
+    "body" : "Was genau wird relativiert? Das AfD-Knechte jeden Tag Menschen umbringen, Genozide in der Ukraine bejubel, in Menschenmengen fahren, Politiker umbringen, Umsturzpläne mit 70.000 Schuss Munition, Faschisten bejubeln, Deutschland zersetzen und zerstören wollen?\n\nhttps://www.n-tv.de/politik/Rechtsradikale-treten-SPD-Mitglied-in-Bauch-und-Gesicht-article25432966.html",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 11:49:51"
   }, {
-    "Username" : "ExpertAd9428",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:28:26",
-    "Body" : "Amüsant wie du dich hier als neutral präsentieren möchtest, während dein gesamtes Profil voller fragwürdiger rechter Aussagen ist hahaha "
+    "body" : "Amüsant wie du dich hier als neutral präsentieren möchtest, während dein gesamtes Profil voller fragwürdiger rechter Aussagen ist hahaha ",
+    "username" : "ExpertAd9428",
+    "timestamp" : "2024-12-23 14:28:26"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:12:24",
-    "Body" : "Ich habe  sorry gesagt, weil mein Kommentar ueber den saudischen Attentaeter in einen anderen Thread gehoert."
+    "body" : "Ich habe  sorry gesagt, weil mein Kommentar ueber den saudischen Attentaeter in einen anderen Thread gehoert.",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 11:12:24"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:05:40",
-    "Body" : "Ich habe nicht gesagt, dass ein Mord automatisch heisst, dass sich zwei Banden bekriegen."
+    "body" : "Ich habe nicht gesagt, dass ein Mord automatisch heisst, dass sich zwei Banden bekriegen.",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 13:05:40"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:35:38",
-    "Body" : "Was denkst du denn, wer sich sonst bekriegt ...die Heilsarmee und die Berliner Tafel?"
+    "body" : "Was denkst du denn, wer sich sonst bekriegt ...die Heilsarmee und die Berliner Tafel?",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 11:35:38"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:59:40",
-    "Body" : "Wo steht da was von Migrant oder deutscher Nazi? Oder hast du das aus einem anderen Artikel? Da steht weder was zu den Beteiligten noch was zum Motiv."
+    "body" : "Wo steht da was von Migrant oder deutscher Nazi? Oder hast du das aus einem anderen Artikel? Da steht weder was zu den Beteiligten noch was zum Motiv.",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 13:59:40"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:45:25",
-    "Body" : "Kann es sein, dass du einen Übersetzer nutzt und kein Deutsch kannst? Er hat es komisch geschrieben, aber er meint dasselbe wie du."
+    "body" : "Kann es sein, dass du einen Übersetzer nutzt und kein Deutsch kannst? Er hat es komisch geschrieben, aber er meint dasselbe wie du.",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 14:45:25"
   }, {
-    "Username" : "HeilendeMaya",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:57:12",
-    "Body" : "Der Russenbot hat sich wohl vertan :>"
+    "body" : "Der Russenbot hat sich wohl vertan :>",
+    "username" : "HeilendeMaya",
+    "timestamp" : "2024-12-23 11:57:12"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:03:16",
-    "Body" : "Nur Idioten interessieren sich für Namen, Nationalität oder Religion.\nRechte können Ibrahim, Ronny, Alice oder Bernd Höcke heißen. Wer aus Rechter Ideologie und aufgehezt von der AfD Menschen umbringt, ist ein Rechter und gehört deportiert."
+    "body" : "Nur Idioten interessieren sich für Namen, Nationalität oder Religion.\nRechte können Ibrahim, Ronny, Alice oder Bernd Höcke heißen. Wer aus Rechter Ideologie und aufgehezt von der AfD Menschen umbringt, ist ein Rechter und gehört deportiert.",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 14:03:16"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:02:47",
-    "Body" : "Du meine Guete, ich bin kein Russenbot. Kann man hier nicht einmal seine Meinung kundtun, ohne das man verdaechtigt wird, irgendeiner Aktivistengruppe zu gehoeren?!"
+    "body" : "Du meine Guete, ich bin kein Russenbot. Kann man hier nicht einmal seine Meinung kundtun, ohne das man verdaechtigt wird, irgendeiner Aktivistengruppe zu gehoeren?!",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 13:02:47"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:04:12",
-    "Body" : "Was ist eigentlich mit dir? Hast du dir die ganze Hintergrundgeschichte zu dem Fall einfach ausgedacht?"
+    "body" : "Was ist eigentlich mit dir? Hast du dir die ganze Hintergrundgeschichte zu dem Fall einfach ausgedacht?",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 14:04:12"
   }, {
-    "Username" : "Trivedi_on",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:08:35",
-    "Body" : "du solltest mal eine Mail an Putin schicken und dich darüber beschweren, dass er Bots einsetzt, die deine Meinung einprogrammiert haben."
+    "body" : "du solltest mal eine Mail an Putin schicken und dich darüber beschweren, dass er Bots einsetzt, die deine Meinung einprogrammiert haben.",
+    "username" : "Trivedi_on",
+    "timestamp" : "2024-12-23 13:08:35"
   }, {
-    "Username" : "Signal-Ordinary874",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:32:19",
-    "Body" : "Hauptsache rumblubbern und mitzündeln, wa?"
+    "body" : "Hauptsache rumblubbern und mitzündeln, wa?",
+    "username" : "Signal-Ordinary874",
+    "timestamp" : "2024-12-23 14:32:19"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:32:03",
-    "Body" : "Nein. Nennt sich Wissen und Erfahrung, siehe Hanau, Halle, Magdeburg, NSU, 1933-1945.\nAber das Menschen, die AfD wählen geringere Bildung genossen haben, ist leider auch ein Fakt"
+    "body" : "Nein. Nennt sich Wissen und Erfahrung, siehe Hanau, Halle, Magdeburg, NSU, 1933-1945.\nAber das Menschen, die AfD wählen geringere Bildung genossen haben, ist leider auch ein Fakt",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 14:32:03"
   }, {
-    "Username" : "Blaueveilchen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:29:35",
-    "Body" : "Ich schicke grunsaetzlich keine Mails an Putin, weil ich noch vorhabe, an etlichen Fenstern auf etlichen Etagen unbeschadet vorbei zu gehen."
+    "body" : "Ich schicke grunsaetzlich keine Mails an Putin, weil ich noch vorhabe, an etlichen Fenstern auf etlichen Etagen unbeschadet vorbei zu gehen.",
+    "username" : "Blaueveilchen",
+    "timestamp" : "2024-12-23 13:29:35"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:32:54",
-    "Body" : "Was für Wissen und Erfahrung? Im Artikel steht NICHTS über Motive oder Täter? Da steht einfach nur dass zwei Gruppen Streit hatten und dann der eine geschossen hat. Wie kommst du also auf diese Geschichte?"
+    "body" : "Was für Wissen und Erfahrung? Im Artikel steht NICHTS über Motive oder Täter? Da steht einfach nur dass zwei Gruppen Streit hatten und dann der eine geschossen hat. Wie kommst du also auf diese Geschichte?",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 14:32:54"
   }, {
-    "Username" : "Trivedi_on",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:47:52",
-    "Body" : "ach deshalb hinterlässt du überall diesen Geruch. Deine Hose ist voll"
+    "body" : "ach deshalb hinterlässt du überall diesen Geruch. Deine Hose ist voll",
+    "username" : "Trivedi_on",
+    "timestamp" : "2024-12-23 13:47:52"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:35:49",
-    "Body" : "Es gibt übrigens nicht nur diesen Artikel dazu. Mehr lesen bringt auch mehr"
+    "body" : "Es gibt übrigens nicht nur diesen Artikel dazu. Mehr lesen bringt auch mehr",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 14:35:49"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:37:03",
-    "Body" : "Dann sag das doch gleich. Ich habe doch vorhin gefragt, ob du das aus einem anderen Artikel hast. Dann hast du was von Wissen und Erfahrung geschrieben. In welchem Artikel steht das denn?"
+    "body" : "Dann sag das doch gleich. Ich habe doch vorhin gefragt, ob du das aus einem anderen Artikel hast. Dann hast du was von Wissen und Erfahrung geschrieben. In welchem Artikel steht das denn?",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 14:37:03"
   }, {
-    "Username" : "marcpolo94",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:40:55",
-    "Body" : "Wie definieren Sie Wissen? Vorahnung, Glauben, Denken?\nDas Wissen ist aus dem aktuellen Pressebericht der Polizei. Die selbe Scheiße wie in Magdeburg und den anderen AfD/Nazi Anschlägen."
+    "body" : "Wie definieren Sie Wissen? Vorahnung, Glauben, Denken?\nDas Wissen ist aus dem aktuellen Pressebericht der Polizei. Die selbe Scheiße wie in Magdeburg und den anderen AfD/Nazi Anschlägen.",
+    "username" : "marcpolo94",
+    "timestamp" : "2024-12-23 14:40:55"
   }, {
-    "Username" : "Cowpreensive",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:47:05",
-    "Body" : "Dieser Typ hat bestimmt nicht alle Tassen im Schrank"
+    "body" : "Dieser Typ hat bestimmt nicht alle Tassen im Schrank",
+    "username" : "Cowpreensive",
+    "timestamp" : "2024-12-23 14:47:05"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:46:18",
-    "Body" : "Es ist also nur so ein \"Gefühl\", dass du hast. Zeig doch mal den Pressebericht? Bis jetzt habe ich überall gelesen, dass man weder Täter noch Motiv hat."
+    "body" : "Es ist also nur so ein \"Gefühl\", dass du hast. Zeig doch mal den Pressebericht? Bis jetzt habe ich überall gelesen, dass man weder Täter noch Motiv hat.",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 14:46:18"
   }, {
-    "Username" : "SatisfactionKnown734",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:50:01",
-    "Body" : "Ich? Warum das denn?"
+    "body" : "Ich? Warum das denn?",
+    "username" : "SatisfactionKnown734",
+    "timestamp" : "2024-12-23 14:50:01"
   } ]
 }

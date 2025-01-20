@@ -1,330 +1,330 @@
 {
-  "Id" : 200089,
-  "Community_name" : "Milano",
-  "Username" : "xEchDaniel",
-  "Post_body" : "Nuova App ATM con abbonamento digitale e redesign",
-  "Timestamp" : "2024-12-16 16:53:36",
-  "Num_comment" : 64,
+  "id" : 200089,
+  "community_name" : "Milano",
+  "username" : "xEchDaniel",
+  "post_body" : "Nuova App ATM con abbonamento digitale e redesign",
+  "timestamp" : "2024-12-16 16:53:36",
+  "num_comment" : 64,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "nozni",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:04:49",
-    "Body" : "Ma perché mi dice nessuna tessera per quanto riguarda l’abbonamento?"
+    "body" : "Ma perché mi dice nessuna tessera per quanto riguarda l’abbonamento?",
+    "username" : "nozni",
+    "timestamp" : "2024-12-16 17:04:49"
   }, {
-    "Username" : "CapitalistFemboy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:15:36",
-    "Body" : "A me esce [questo](https://imgur.com/f8salz0), qualcuno sa cosa significa versione digitale? No perché se mi danno il QR Code mi tengo la tessera, se posso usare l'abbonamento dal wallet senza bisogno di aprire l'app allora converto subito.\n\nEdit: leggo che viene letto con il bluetooth. Non mi sembra una gran tecnologia."
+    "body" : "A me esce [questo](https://imgur.com/f8salz0), qualcuno sa cosa significa versione digitale? No perché se mi danno il QR Code mi tengo la tessera, se posso usare l'abbonamento dal wallet senza bisogno di aprire l'app allora converto subito.\n\nEdit: leggo che viene letto con il bluetooth. Non mi sembra una gran tecnologia.",
+    "username" : "CapitalistFemboy",
+    "timestamp" : "2024-12-16 17:15:36"
   }, {
-    "Username" : "emkay92",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:24:52",
-    "Body" : "Non ottimale che i preferiti non compaiano nella home.\n\nPoi mancano alcune fermate degli autobus, ad esempio tutte quelle della 62 in direzione Porta Romana (l'altra direzione invece sì). Non so se anche altre linee hanno lo stesso bug."
+    "body" : "Non ottimale che i preferiti non compaiano nella home.\n\nPoi mancano alcune fermate degli autobus, ad esempio tutte quelle della 62 in direzione Porta Romana (l'altra direzione invece sì). Non so se anche altre linee hanno lo stesso bug.",
+    "username" : "emkay92",
+    "timestamp" : "2024-12-16 19:24:52"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:42:10",
-    "Body" : "Tempo fa su questo sub non si discuteva mica sul perché non facessero le tessere digitali? Qualcuno diceva che sarebbe stato problematico perché uno avrebbe potuto \"duplicare\" la tessera su più dispositivi o cose del genere"
+    "body" : "Tempo fa su questo sub non si discuteva mica sul perché non facessero le tessere digitali? Qualcuno diceva che sarebbe stato problematico perché uno avrebbe potuto \"duplicare\" la tessera su più dispositivi o cose del genere",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-16 18:42:10"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:44:36",
-    "Body" : "Stamattina non ho potuto controllare quando passava il bus perché l'app (versione Android) era inutilizzabile, all'ora di pranzo la situazione sembrava già essere migliorata però ci sono ancora un po' di problemi di usabilità. Spero che facciano sul serio e li sistemino senza far passare mesi o anni"
+    "body" : "Stamattina non ho potuto controllare quando passava il bus perché l'app (versione Android) era inutilizzabile, all'ora di pranzo la situazione sembrava già essere migliorata però ci sono ancora un po' di problemi di usabilità. Spero che facciano sul serio e li sistemino senza far passare mesi o anni",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-16 18:44:36"
   }, {
-    "Username" : "likeeatingpizza",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:49:44",
-    "Body" : "Non ci credo che hanno tolto da dark mode.... Qualcuno l'ha trovata?"
+    "body" : "Non ci credo che hanno tolto da dark mode.... Qualcuno l'ha trovata?",
+    "username" : "likeeatingpizza",
+    "timestamp" : "2024-12-16 18:49:44"
   }, {
-    "Username" : "Ideon_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 09:07:23",
-    "Body" : "qualcuno che ha usato l'abbonamento digitale sa dire se è comodo ? \n\nnon dover portare la tessera fisica sarebbe un sogno per me, ma ho paura che il procedimento di tirar fuori il telefono e navigare l'app richieda troppo tempo."
+    "body" : "qualcuno che ha usato l'abbonamento digitale sa dire se è comodo ? \n\nnon dover portare la tessera fisica sarebbe un sogno per me, ma ho paura che il procedimento di tirar fuori il telefono e navigare l'app richieda troppo tempo.",
+    "username" : "Ideon_",
+    "timestamp" : "2024-12-17 09:07:23"
   }, {
-    "Username" : "w0b",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 16:53:36",
-    "Body" : "Ma l'abbonamento non me lo caricano automaticamente?"
+    "body" : "Ma l'abbonamento non me lo caricano automaticamente?",
+    "username" : "w0b",
+    "timestamp" : "2024-12-16 16:53:36"
   }, {
-    "Username" : "Malobestin0",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 16:58:53",
-    "Body" : "Interessante.  \nSi sa se l'obliterazione con biglietto/abbonamento avviene ancora con QR code o hanno trovato un modo per usare l'NFC o qualcosa di più comodo?"
+    "body" : "Interessante.  \nSi sa se l'obliterazione con biglietto/abbonamento avviene ancora con QR code o hanno trovato un modo per usare l'NFC o qualcosa di più comodo?",
+    "username" : "Malobestin0",
+    "timestamp" : "2024-12-16 16:58:53"
   }, {
-    "Username" : "MrSkullKollektor",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:33:34",
-    "Body" : "Esperienza utente schifosa come sempre. E poi la dark mode??? Mannaggia"
+    "body" : "Esperienza utente schifosa come sempre. E poi la dark mode??? Mannaggia",
+    "username" : "MrSkullKollektor",
+    "timestamp" : "2024-12-16 19:33:34"
   }, {
-    "Username" : "HereBcINeedHelp",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:57:01",
-    "Body" : "Io ho l'abbonamento (under27 urbano) in convenzione con l'Esselunga, però con gli abbonamenti convenzionati non puoi metterlo nell'app"
+    "body" : "Io ho l'abbonamento (under27 urbano) in convenzione con l'Esselunga, però con gli abbonamenti convenzionati non puoi metterlo nell'app",
+    "username" : "HereBcINeedHelp",
+    "timestamp" : "2024-12-16 18:57:01"
   }, {
-    "Username" : "Pmcgslq",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:57:43",
-    "Body" : "sinceramente mi da fastidio che l'info ascensori sia stata spostata dalla home ma apprezzo la nuova UI"
+    "body" : "sinceramente mi da fastidio che l'info ascensori sia stata spostata dalla home ma apprezzo la nuova UI",
+    "username" : "Pmcgslq",
+    "timestamp" : "2024-12-16 19:57:43"
   }, {
-    "Username" : "logosfabula",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:44:58",
-    "Body" : "🙌"
+    "body" : "🙌",
+    "username" : "logosfabula",
+    "timestamp" : "2024-12-16 19:44:58"
   }, {
-    "Username" : "Hollowbolt",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 12:48:50",
-    "Body" : "Nuovo aggiornamento del atm è schifoso."
+    "body" : "Nuovo aggiornamento del atm è schifoso.",
+    "username" : "Hollowbolt",
+    "timestamp" : "2024-12-17 12:48:50"
   }, {
-    "Username" : "rdmusrnm0",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 08:29:15",
-    "Body" : "Ho digitalizzato per sbaglio la vecchia tessera ATM, invece di quella nuova dove ho l’abbonamento in convenzione con Telepass. Dovrei eliminare la tessera attualmente digitalizzata per poter digitalizzare quella nuova, ma non è tecnicamente possibile, né tramite app né chiamando l’assistenza.\n\nQuindi state attenti: la digitalizzazione è per la vita e non si torna più indietro!\n\nCome può essere possibile che abbiano pensato a un sistema del genere?"
+    "body" : "Ho digitalizzato per sbaglio la vecchia tessera ATM, invece di quella nuova dove ho l’abbonamento in convenzione con Telepass. Dovrei eliminare la tessera attualmente digitalizzata per poter digitalizzare quella nuova, ma non è tecnicamente possibile, né tramite app né chiamando l’assistenza.\n\nQuindi state attenti: la digitalizzazione è per la vita e non si torna più indietro!\n\nCome può essere possibile che abbiano pensato a un sistema del genere?",
+    "username" : "rdmusrnm0",
+    "timestamp" : "2024-12-19 08:29:15"
   }, {
-    "Username" : "hellomoto8999",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 09:19:49",
-    "Body" : "ma alla fine qualcuno ha avuto il coraggio di usarlo? :D"
+    "body" : "ma alla fine qualcuno ha avuto il coraggio di usarlo? :D",
+    "username" : "hellomoto8999",
+    "timestamp" : "2024-12-20 09:19:49"
   }, {
-    "Username" : "Stock-Ant3756",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-20 20:04:53",
-    "Body" : "Ho notato che le tessere digitalizzate non funzionano sulla linea S, mentre la metropolitana va bene, qualcun altro ha il mio stesso problema?"
+    "body" : "Ho notato che le tessere digitalizzate non funzionano sulla linea S, mentre la metropolitana va bene, qualcun altro ha il mio stesso problema?",
+    "username" : "Stock-Ant3756",
+    "timestamp" : "2024-12-20 20:04:53"
   }, {
-    "Username" : "Unbundle3606",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:08:17",
-    "Body" : "Idem, io ho un abbonamento annuale già attivo, sul sito lo vedo (stesse credenziali che ho usato per loggarmi nell'app). L'app mi dice nessuna tessera.\n\nEDIT: sono arrivato al punto dove lista le tessere fisiche e vedo la mia. Mi da l'opportunità di renderla digitale. Mi arriva un messaggio che dice che mi disattiverà definitivamente la tessera fisica. Nessun accenno all'abbonamento in corso, nessuna rassicurazione che mi verrà mantenuto! Non cliccherò mai quel pulsante di conferma. Non so perché mi aspettavo di meglio, come al solito esperienza utente fatta col c*lo."
+    "body" : "Idem, io ho un abbonamento annuale già attivo, sul sito lo vedo (stesse credenziali che ho usato per loggarmi nell'app). L'app mi dice nessuna tessera.\n\nEDIT: sono arrivato al punto dove lista le tessere fisiche e vedo la mia. Mi da l'opportunità di renderla digitale. Mi arriva un messaggio che dice che mi disattiverà definitivamente la tessera fisica. Nessun accenno all'abbonamento in corso, nessuna rassicurazione che mi verrà mantenuto! Non cliccherò mai quel pulsante di conferma. Non so perché mi aspettavo di meglio, come al solito esperienza utente fatta col c*lo.",
+    "username" : "Unbundle3606",
+    "timestamp" : "2024-12-16 18:08:17"
   }, {
-    "Username" : "LelixSuper",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:15:30",
-    "Body" : "Hai un abbonamento convenzionato (tipo con Esselunga)? Ho notato che quelli convenzionati non sono mostrati neanche sul sito dell'ATM."
+    "body" : "Hai un abbonamento convenzionato (tipo con Esselunga)? Ho notato che quelli convenzionati non sono mostrati neanche sul sito dell'ATM.",
+    "username" : "LelixSuper",
+    "timestamp" : "2024-12-16 19:15:30"
   }, {
-    "Username" : "Princesss988",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 22:20:10",
-    "Body" : "Io ho dei biglietti nel wallet da usare in caso di emergenze che salgo magari sui bus al volo e mi sono spariti 🤣"
+    "body" : "Io ho dei biglietti nel wallet da usare in caso di emergenze che salgo magari sui bus al volo e mi sono spariti 🤣",
+    "username" : "Princesss988",
+    "timestamp" : "2024-12-16 22:20:10"
   }, {
-    "Username" : "Saggio82",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 17:24:10",
-    "Body" : "Non so se può aiutare, ma non vedevo nemmeno io la tessera, quindi sono andato su Acquista - Abbonamenti - Tessere fisiche - Rendi digitale (sotto la tessera fisica). Probabilmente lo avevi già fatto."
+    "body" : "Non so se può aiutare, ma non vedevo nemmeno io la tessera, quindi sono andato su Acquista - Abbonamenti - Tessere fisiche - Rendi digitale (sotto la tessera fisica). Probabilmente lo avevi già fatto.",
+    "username" : "Saggio82",
+    "timestamp" : "2024-12-17 17:24:10"
   }, {
-    "Username" : "InformalRich",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 10:31:52",
-    "Body" : "A parer mio, come già successo in passato, ATM ha lanciato la nuova applicazione senza fare alcuna tipologia di test.\n\nPer dirti: nei primi 2 giorni non mi riconosceva nemmeno il mio account ATM."
+    "body" : "A parer mio, come già successo in passato, ATM ha lanciato la nuova applicazione senza fare alcuna tipologia di test.\n\nPer dirti: nei primi 2 giorni non mi riconosceva nemmeno il mio account ATM.",
+    "username" : "InformalRich",
+    "timestamp" : "2024-12-18 10:31:52"
   }, {
-    "Username" : "xEchDaniel",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:31:48",
-    "Body" : "Effettivamente mi sarei aspettato un’integrazione migliore con Apple/Google wallet"
+    "body" : "Effettivamente mi sarei aspettato un’integrazione migliore con Apple/Google wallet",
+    "username" : "xEchDaniel",
+    "timestamp" : "2024-12-16 17:31:48"
   }, {
-    "Username" : "MornwindShoma",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 21:38:15",
-    "Body" : "Userà BT LE, che è decisamente diverso. Ci fai tecnologie come il Fast Pair di Android. L’unica cosa in comune con BT è la banda."
+    "body" : "Userà BT LE, che è decisamente diverso. Ci fai tecnologie come il Fast Pair di Android. L’unica cosa in comune con BT è la banda.",
+    "username" : "MornwindShoma",
+    "timestamp" : "2024-12-16 21:38:15"
   }, {
-    "Username" : "likeeatingpizza",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:41:37",
-    "Body" : "Già meglio di quella di Trenord che lo fa con un QR code"
+    "body" : "Già meglio di quella di Trenord che lo fa con un QR code",
+    "username" : "likeeatingpizza",
+    "timestamp" : "2024-12-16 18:41:37"
   }, {
-    "Username" : "aragost",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 09:05:46",
-    "Body" : "La fermata sotto casa mia viene saltata causa lavori e viene riportato come se non avesse proprio linee. Aggiungo preferiti e non succede niente. Mi dice che non ho tessere anche se ho una normalissima tessera con abbonamento urbano. Il widget stato metro sempre tra le palle ma gli altri avvisi una volta visti spariscono per sempre. Lo scrolling e tutte le interazioni a 2fps. Insomma, non benissimo. Forse invece che rifarla ogni anno potrebbero farla una volta ma bene"
+    "body" : "La fermata sotto casa mia viene saltata causa lavori e viene riportato come se non avesse proprio linee. Aggiungo preferiti e non succede niente. Mi dice che non ho tessere anche se ho una normalissima tessera con abbonamento urbano. Il widget stato metro sempre tra le palle ma gli altri avvisi una volta visti spariscono per sempre. Lo scrolling e tutte le interazioni a 2fps. Insomma, non benissimo. Forse invece che rifarla ogni anno potrebbero farla una volta ma bene",
+    "username" : "aragost",
+    "timestamp" : "2024-12-17 09:05:46"
   }, {
-    "Username" : "InformalRich",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 10:34:30",
-    "Body" : "Ma anche banalmente il fatto che prima, cliccando su una fermata e poi su una data linea, potevi cliccare \"vedi su linea\" e ti caricava tutto il percorso della linea. Ora invece, non si sa bene perché, questo tasto è stato eliminato e devi fare tutto il giro dell'oca per trovarlo.\n\nSe fosse stato possibile, avrei detto a quelli di ATM di guardarsi come è fatta l'applicazione del TPL di Helsinki, che è la migliore che abbia mai visto."
+    "body" : "Ma anche banalmente il fatto che prima, cliccando su una fermata e poi su una data linea, potevi cliccare \"vedi su linea\" e ti caricava tutto il percorso della linea. Ora invece, non si sa bene perché, questo tasto è stato eliminato e devi fare tutto il giro dell'oca per trovarlo.\n\nSe fosse stato possibile, avrei detto a quelli di ATM di guardarsi come è fatta l'applicazione del TPL di Helsinki, che è la migliore che abbia mai visto.",
+    "username" : "InformalRich",
+    "timestamp" : "2024-12-18 10:34:30"
   }, {
-    "Username" : "According_to_Mission",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 16:56:03",
-    "Body" : "Infatti la tessera fisica viene disattivata se attivi quella digitale.\n\nIl che per me rende il servizio completamente inutile, meglio avere quella fisica che almeno non rischi ti si scarichi il cellulare."
+    "body" : "Infatti la tessera fisica viene disattivata se attivi quella digitale.\n\nIl che per me rende il servizio completamente inutile, meglio avere quella fisica che almeno non rischi ti si scarichi il cellulare.",
+    "username" : "According_to_Mission",
+    "timestamp" : "2024-12-17 16:56:03"
   }, {
-    "Username" : "_TobiIsAGoodBoy_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 10:53:38",
-    "Body" : "Il motivo credo che sia che non è stato un semplice aggiornamento, la gestione dell'app è passata da un'azienda ad un'altra quindi è proprio nuova a tutti gli effetti e si vede che non hanno voluto mettere la dark mode (o forse più probabile non hanno fatto in tempo)."
+    "body" : "Il motivo credo che sia che non è stato un semplice aggiornamento, la gestione dell'app è passata da un'azienda ad un'altra quindi è proprio nuova a tutti gli effetti e si vede che non hanno voluto mettere la dark mode (o forse più probabile non hanno fatto in tempo).",
+    "username" : "_TobiIsAGoodBoy_",
+    "timestamp" : "2024-12-17 10:53:38"
   }, {
-    "Username" : "mrcrs",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:21:12",
-    "Body" : "Devi andare su acquista"
+    "body" : "Devi andare su acquista",
+    "username" : "mrcrs",
+    "timestamp" : "2024-12-16 17:21:12"
   }, {
-    "Username" : "Odd_Comparison7360",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:11:12",
-    "Body" : "io per l'obliterazione del biglietto singolo sono passato direttamente al pagamento col wallet: più veloce e meno problematico del qr code."
+    "body" : "io per l'obliterazione del biglietto singolo sono passato direttamente al pagamento col wallet: più veloce e meno problematico del qr code.",
+    "username" : "Odd_Comparison7360",
+    "timestamp" : "2024-12-16 17:11:12"
   }, {
-    "Username" : "xEchDaniel",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:19:08",
-    "Body" : "A quanto ho letto per iPhone avviene tramite bluetooth, per Android via NFC ([qui](https://www.atm.it/it/ViaggiaConNoi/Abbonamenti/Pagine/Abbonamentosultelefono.aspx), sotto la sezione ”Per viaggiare, si convalida con l’app”"
+    "body" : "A quanto ho letto per iPhone avviene tramite bluetooth, per Android via NFC ([qui](https://www.atm.it/it/ViaggiaConNoi/Abbonamenti/Pagine/Abbonamentosultelefono.aspx), sotto la sezione ”Per viaggiare, si convalida con l’app”",
+    "username" : "xEchDaniel",
+    "timestamp" : "2024-12-16 17:19:08"
   }, {
-    "Username" : "Street-Inspectors",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-19 01:56:07",
-    "Body" : "Entrambi, l’NFC ha una larga latenza per ora, meglio QR code."
+    "body" : "Entrambi, l’NFC ha una larga latenza per ora, meglio QR code.",
+    "username" : "Street-Inspectors",
+    "timestamp" : "2024-12-19 01:56:07"
   }, {
-    "Username" : "Hungry_War_2290",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:20:45",
-    "Body" : "C'è scritto sul sito ATM:\n\n**Anche gli abbonamenti convenzionati, quelli agevolati ISEE e quelli con Esselunga si possono mettere sul telefono**\n\nBasta **salvare la tessera sulla app e passare all’abbonamento digitale** seguendo le istruzioni. \n\n**Quando l’abbonamento scade**:\n\n* rivolgetevi al vostro referente, se avete un **abbonamento convenzionato**"
+    "body" : "C'è scritto sul sito ATM:\n\n**Anche gli abbonamenti convenzionati, quelli agevolati ISEE e quelli con Esselunga si possono mettere sul telefono**\n\nBasta **salvare la tessera sulla app e passare all’abbonamento digitale** seguendo le istruzioni. \n\n**Quando l’abbonamento scade**:\n\n* rivolgetevi al vostro referente, se avete un **abbonamento convenzionato**",
+    "username" : "Hungry_War_2290",
+    "timestamp" : "2024-12-16 19:20:45"
   }, {
-    "Username" : "hellomoto8999",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:25:40",
-    "Body" : "abbonamento convenzionato? in che senso?"
+    "body" : "abbonamento convenzionato? in che senso?",
+    "username" : "hellomoto8999",
+    "timestamp" : "2024-12-16 19:25:40"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:46:28",
-    "Body" : ">Nessun accenno all'abbonamento in corso, nessuna rassicurazione che mi verrà mantenuto! Non cliccherò mai quel pulsante di conferma.\n\nUn po' too much ahahah, siamo veramente a questi livelli di paranoia?"
+    "body" : ">Nessun accenno all'abbonamento in corso, nessuna rassicurazione che mi verrà mantenuto! Non cliccherò mai quel pulsante di conferma.\n\nUn po' too much ahahah, siamo veramente a questi livelli di paranoia?",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-16 18:46:28"
   }, {
-    "Username" : "CapitalistFemboy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:35:39",
-    "Body" : "Beh insomma, vorrei proprio vedere come funziona con il bluetooth quando ci sono 5 tornelli in fila. E quanto ci mette ad aprirsi. E quante volte l'app sarà offline/buggata"
+    "body" : "Beh insomma, vorrei proprio vedere come funziona con il bluetooth quando ci sono 5 tornelli in fila. E quanto ci mette ad aprirsi. E quante volte l'app sarà offline/buggata",
+    "username" : "CapitalistFemboy",
+    "timestamp" : "2024-12-16 19:35:39"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 18:10:46",
-    "Body" : "Sono d'accordo, ma riguardo la tua motivazione... Sono uno che non perde mai nulla, ma perdere la tessera dell'atm nel mio caso sarebbe comunque più probabile del trovarmi col cellulare scarico 😂"
+    "body" : "Sono d'accordo, ma riguardo la tua motivazione... Sono uno che non perde mai nulla, ma perdere la tessera dell'atm nel mio caso sarebbe comunque più probabile del trovarmi col cellulare scarico 😂",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-17 18:10:46"
   }, {
-    "Username" : "w0b",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:54:46",
-    "Body" : "Ho visto, grazie. Comunque, visto che disattiva quella fisica, aspetto che lo testino gli altri."
+    "body" : "Ho visto, grazie. Comunque, visto che disattiva quella fisica, aspetto che lo testino gli altri.",
+    "username" : "w0b",
+    "timestamp" : "2024-12-16 17:54:46"
   }, {
-    "Username" : "Malobestin0",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:15:03",
-    "Body" : "Finchè rimani nella cerchia Mi1-Mi3 sì.\n\nMa per le mie esigenze il wallet/carta di credito è problematico perchè non si può usare sui treni fuori città (forse anche il qr code, ma tanto è talmente scomodo e inutilizzabile che ho dovuto per forza fare il biglietto cartaceo)"
+    "body" : "Finchè rimani nella cerchia Mi1-Mi3 sì.\n\nMa per le mie esigenze il wallet/carta di credito è problematico perchè non si può usare sui treni fuori città (forse anche il qr code, ma tanto è talmente scomodo e inutilizzabile che ho dovuto per forza fare il biglietto cartaceo)",
+    "username" : "Malobestin0",
+    "timestamp" : "2024-12-16 17:15:03"
   }, {
-    "Username" : "Unbundle3606",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:36:31",
-    "Body" : "Invece di integrarsi con Google Wallet, hanno fatto un'app NFC alternativa a Google Wallet.\n\nPoteva andare peggio, ma poteva anche andare meglio. \n\nCosì, se ci si dimentica di aprire a mano l'app ATM, parte direttamente il pagamento del biglietto singolo con la CC registrata in Wallet, anche se si ha un abbonamento attivo..."
+    "body" : "Invece di integrarsi con Google Wallet, hanno fatto un'app NFC alternativa a Google Wallet.\n\nPoteva andare peggio, ma poteva anche andare meglio. \n\nCosì, se ci si dimentica di aprire a mano l'app ATM, parte direttamente il pagamento del biglietto singolo con la CC registrata in Wallet, anche se si ha un abbonamento attivo...",
+    "username" : "Unbundle3606",
+    "timestamp" : "2024-12-16 18:36:31"
   }, {
-    "Username" : "Saggio82",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 17:44:05",
-    "Body" : "Confermo, per iPhone solo via bluetooth o QR Code. Non l'ho ancora usata (questo mese non ho abbonamento attivo), ma già si capisce che si impallerà tutto nel momento in cui proverò ad utilizzarla. Ad ogni modo c'è un nota sotto la tessera che avvisa che \"l'app deve essere aperta sulla sezione wallet. In alternativa il lettore potrebbe leggere la carta del wallet dell'iPhone al posto della tessera dell'abbonamento\". A questo punto la tessera fisica rimane ancora la scelta migliore. Peccato perchè speravo nell'integrazione con il wallet di iOS in modo da poter passare tramite NFC di iPhone o meglio ancora dell'apple watch. :-("
+    "body" : "Confermo, per iPhone solo via bluetooth o QR Code. Non l'ho ancora usata (questo mese non ho abbonamento attivo), ma già si capisce che si impallerà tutto nel momento in cui proverò ad utilizzarla. Ad ogni modo c'è un nota sotto la tessera che avvisa che \"l'app deve essere aperta sulla sezione wallet. In alternativa il lettore potrebbe leggere la carta del wallet dell'iPhone al posto della tessera dell'abbonamento\". A questo punto la tessera fisica rimane ancora la scelta migliore. Peccato perchè speravo nell'integrazione con il wallet di iOS in modo da poter passare tramite NFC di iPhone o meglio ancora dell'apple watch. :-(",
+    "username" : "Saggio82",
+    "timestamp" : "2024-12-17 17:44:05"
   }, {
-    "Username" : "Malobestin0",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:35:46",
-    "Body" : "Ah figo!  \nPurtroppo mi sembra di capire che invece per i biglietti siamo rimasti col QR\n\n[https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/Bigliettoapp.aspx](https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/Bigliettoapp.aspx)\n\nSpero sia solo questione di tempo..."
+    "body" : "Ah figo!  \nPurtroppo mi sembra di capire che invece per i biglietti siamo rimasti col QR\n\n[https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/Bigliettoapp.aspx](https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/Bigliettoapp.aspx)\n\nSpero sia solo questione di tempo...",
+    "username" : "Malobestin0",
+    "timestamp" : "2024-12-16 17:35:46"
   }, {
-    "Username" : "Hungry_War_2290",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:26:52",
-    "Body" : "che se lo prendi con i punti Esselunga hai un forte sconto."
+    "body" : "che se lo prendi con i punti Esselunga hai un forte sconto.",
+    "username" : "Hungry_War_2290",
+    "timestamp" : "2024-12-16 19:26:52"
   }, {
-    "Username" : "hellomoto8999",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:21:33",
-    "Body" : "francamente si. concordo con la paranoia."
+    "body" : "francamente si. concordo con la paranoia.",
+    "username" : "hellomoto8999",
+    "timestamp" : "2024-12-16 19:21:33"
   }, {
-    "Username" : "aragost",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 09:08:57",
-    "Body" : "Visto il livello francamente scarsino di come è fatta la app mi sembra una preoccupazione più che ragionevole"
+    "body" : "Visto il livello francamente scarsino di come è fatta la app mi sembra una preoccupazione più che ragionevole",
+    "username" : "aragost",
+    "timestamp" : "2024-12-17 09:08:57"
   }, {
-    "Username" : "Unbundle3606",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:43:17",
-    "Body" : "Stiamo entrambi parlando di un'app sviluppata da ATM?"
+    "body" : "Stiamo entrambi parlando di un'app sviluppata da ATM?",
+    "username" : "Unbundle3606",
+    "timestamp" : "2024-12-16 19:43:17"
   }, {
-    "Username" : "jacksp666",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 13:56:02",
-    "Body" : "Ci vai tu all'atm point con fila / attesa di tre ore a spiegare che con la nuova app è sparito l'abbonamento se poi succede? E chissà se te lo sistemano poi, magari ti dicono di chiamare l'assistenza.."
+    "body" : "Ci vai tu all'atm point con fila / attesa di tre ore a spiegare che con la nuova app è sparito l'abbonamento se poi succede? E chissà se te lo sistemano poi, magari ti dicono di chiamare l'assistenza..",
+    "username" : "jacksp666",
+    "timestamp" : "2024-12-17 13:56:02"
   }, {
-    "Username" : "AsocialRedditer",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 22:15:51",
-    "Body" : "sì, e a ragion veduta."
+    "body" : "sì, e a ragion veduta.",
+    "username" : "AsocialRedditer",
+    "timestamp" : "2024-12-18 22:15:51"
   }, {
-    "Username" : "likeeatingpizza",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 20:32:09",
-    "Body" : "Mi turba di più il fatto che abbiano tolto la dark mode guarda"
+    "body" : "Mi turba di più il fatto che abbiano tolto la dark mode guarda",
+    "username" : "likeeatingpizza",
+    "timestamp" : "2024-12-16 20:32:09"
   }, {
-    "Username" : "mrcrs",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:56:12",
-    "Body" : "Io ero pronto ma mi dice che la mia tessera non è compatibile"
+    "body" : "Io ero pronto ma mi dice che la mia tessera non è compatibile",
+    "username" : "mrcrs",
+    "timestamp" : "2024-12-16 17:56:12"
   }, {
-    "Username" : "Odd_Comparison7360",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:17:20",
-    "Body" : "mi sono mosso fino a villa fiorita/carugate con tanto di uso dell'autobus e non ho avuto problemi (ma l'ho fatto giusto una volta, solitamente per la metro vado a cologno nord)"
+    "body" : "mi sono mosso fino a villa fiorita/carugate con tanto di uso dell'autobus e non ho avuto problemi (ma l'ho fatto giusto una volta, solitamente per la metro vado a cologno nord)",
+    "username" : "Odd_Comparison7360",
+    "timestamp" : "2024-12-16 17:17:20"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:50:35",
-    "Body" : ">Invece di integrarsi con Google Wallet, hanno fatto un'app NFC alternativa a Google Wallet.\n\nMa seriamente? Potrebbe essere perché Google fa pagare per rendere la carta disponibile su Wallet?"
+    "body" : ">Invece di integrarsi con Google Wallet, hanno fatto un'app NFC alternativa a Google Wallet.\n\nMa seriamente? Potrebbe essere perché Google fa pagare per rendere la carta disponibile su Wallet?",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-16 18:50:35"
   }, {
-    "Username" : "hellomoto8999",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 19:31:14",
-    "Body" : "mai notato :O"
+    "body" : "mai notato :O",
+    "username" : "hellomoto8999",
+    "timestamp" : "2024-12-16 19:31:14"
   }, {
-    "Username" : "AsocialRedditer",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 22:15:38",
-    "Body" : "idem"
+    "body" : "idem",
+    "username" : "AsocialRedditer",
+    "timestamp" : "2024-12-18 22:15:38"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 20:07:00",
-    "Body" : "Hahahah capisco il cinismo ma allo stesso tempo sono convinto che si siano posti il problema"
+    "body" : "Hahahah capisco il cinismo ma allo stesso tempo sono convinto che si siano posti il problema",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-16 20:07:00"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-17 14:04:37",
-    "Body" : "Ok ma mi sembra un pessimismo un po' estremo\n\nStavolta stanno davvero puntando sull'app, stanno anche sostituendo i cartelli degli orari alle fermate del bus con dei cartelli che includono qr code per scaricare l'app."
+    "body" : "Ok ma mi sembra un pessimismo un po' estremo\n\nStavolta stanno davvero puntando sull'app, stanno anche sostituendo i cartelli degli orari alle fermate del bus con dei cartelli che includono qr code per scaricare l'app.",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-17 14:04:37"
   }, {
-    "Username" : "InternationalDay3400",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:35:19",
-    "Body" : "Potrebbe essere un abbonamento in convenzione?"
+    "body" : "Potrebbe essere un abbonamento in convenzione?",
+    "username" : "InternationalDay3400",
+    "timestamp" : "2024-12-16 18:35:19"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:40:11",
-    "Body" : "Da quanto tempo hai la tessera? La mia sarebbe dovuta scadere nel 2021, non ho ancora provato a fare la conversione in digitale"
+    "body" : "Da quanto tempo hai la tessera? La mia sarebbe dovuta scadere nel 2021, non ho ancora provato a fare la conversione in digitale",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-16 18:40:11"
   }, {
-    "Username" : "Malobestin0",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 17:20:24",
-    "Body" : "Non lo metto in dubbio, ma ATM è abbastanza chiara\n\n*il pagamento con carta di credito* ***vale solo sulle linee ATM (non vale sulle linee S che attraversano il passante ferroviario, né sui treni)***\n\n[https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/Biglietticoncarta.aspx](https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/Biglietticoncarta.aspx)"
+    "body" : "Non lo metto in dubbio, ma ATM è abbastanza chiara\n\n*il pagamento con carta di credito* ***vale solo sulle linee ATM (non vale sulle linee S che attraversano il passante ferroviario, né sui treni)***\n\n[https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/Biglietticoncarta.aspx](https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/Biglietticoncarta.aspx)",
+    "username" : "Malobestin0",
+    "timestamp" : "2024-12-16 17:20:24"
   }, {
-    "Username" : "mrcrs",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:35:38",
-    "Body" : "No, regolare da 330"
+    "body" : "No, regolare da 330",
+    "username" : "mrcrs",
+    "timestamp" : "2024-12-16 18:35:38"
   }, {
-    "Username" : "mrcrs",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:42:21",
-    "Body" : "La mia sarebbe dovuta scadere a gennaio 24. Potrebbe centrare che era una vecchia tessera studenti? E ora sono non studente over 27? Quando riesco faccio un salto all’ATM point"
+    "body" : "La mia sarebbe dovuta scadere a gennaio 24. Potrebbe centrare che era una vecchia tessera studenti? E ora sono non studente over 27? Quando riesco faccio un salto all’ATM point",
+    "username" : "mrcrs",
+    "timestamp" : "2024-12-16 18:42:21"
   }, {
-    "Username" : "InformalRich",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-18 10:37:50",
-    "Body" : "> il pagamento con carta di credito vale solo sulle linee ATM (non vale sulle linee S che attraversano il passante ferroviario, né sui treni)\n\nSe non erro succede perché i controllori di Trenord non hanno ancora modo di verificare il pagamento con i loro palmari (e questa roba va avanti ormai da anni)."
+    "body" : "> il pagamento con carta di credito vale solo sulle linee ATM (non vale sulle linee S che attraversano il passante ferroviario, né sui treni)\n\nSe non erro succede perché i controllori di Trenord non hanno ancora modo di verificare il pagamento con i loro palmari (e questa roba va avanti ormai da anni).",
+    "username" : "InformalRich",
+    "timestamp" : "2024-12-18 10:37:50"
   }, {
-    "Username" : "MandehK_99",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-16 18:51:46",
-    "Body" : "Anche la mia è una vecchia tessera studenti, però sono ancora under 27"
+    "body" : "Anche la mia è una vecchia tessera studenti, però sono ancora under 27",
+    "username" : "MandehK_99",
+    "timestamp" : "2024-12-16 18:51:46"
   } ]
 }

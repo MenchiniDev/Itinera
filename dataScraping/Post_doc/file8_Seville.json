@@ -1,20 +1,20 @@
 {
-  "Id" : 200360,
-  "Community_name" : "Seville",
-  "Username" : "9kSs",
-  "Post_body" : "Where can I get a good woolen sweater?",
-  "Timestamp" : "2024-12-23 11:05:15",
-  "Num_comment" : 2,
+  "id" : 200360,
+  "community_name" : "Seville",
+  "username" : "9kSs",
+  "post_body" : "Where can I get a good woolen sweater?",
+  "timestamp" : "2024-12-23 11:05:15",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Zealousideal_West_16",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:18:30",
-    "Body" : "El corte inglés"
+    "body" : "El corte inglés",
+    "username" : "Zealousideal_West_16",
+    "timestamp" : "2024-12-23 11:18:30"
   }, {
-    "Username" : "Zealousideal_West_16",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:05:15",
-    "Body" : "Online"
+    "body" : "Online",
+    "username" : "Zealousideal_West_16",
+    "timestamp" : "2024-12-23 11:05:15"
   } ]
 }

@@ -1,15 +1,15 @@
 {
-  "Id" : 200445,
-  "City" : "Reykjavik",
-  "Name" : "Reykjavik",
-  "Created" : "2021-07-28 03:48:57",
-  "Post" : [ {
-    "User" : "11MHz",
-    "Text" : "Tourists, visitors, people with quick questions. This is your thread - post your questions here",
-    "Timestamp" : "2021-07-28 04:48:57"
+  "id" : 200445,
+  "city" : "Reykjavik",
+  "name" : "Reykjavik",
+  "created" : "2021-07-28 03:48:57",
+  "post" : [ {
+    "text" : "Tourists, visitors, people with quick questions. This is your thread - post your questions here",
+    "user" : "11MHz",
+    "timestamp" : "2021-07-28 04:48:57"
   }, {
-    "User" : "treehugger312",
-    "Text" : "Where to get the metal Christmas stars in everyone’s windows?",
-    "Timestamp" : "2024-04-15 20:11:05"
+    "text" : "Where to get the metal Christmas stars in everyone’s windows?",
+    "user" : "treehugger312",
+    "timestamp" : "2024-01-10 20:50:40"
   } ]
 }

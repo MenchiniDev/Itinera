@@ -1,10 +1,10 @@
 {
-  "Id" : 200255,
-  "Community_name" : "Milano",
-  "Username" : "AutoModerator",
-  "Post_body" : "[Week n.51] PLEASE ASK YOUR QUESTIONS ABOUT MILAN HERE",
-  "Timestamp" : "2024-04-15 20:14:20",
-  "Num_comment" : 0,
+  "id" : 200255,
+  "community_name" : "Milano",
+  "username" : "AutoModerator",
+  "post_body" : "[Week n.51] PLEASE ASK YOUR QUESTIONS ABOUT MILAN HERE",
+  "timestamp" : "2024-01-10 20:56:43",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

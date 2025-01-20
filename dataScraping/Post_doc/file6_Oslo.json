@@ -1,60 +1,60 @@
 {
-  "Id" : 200278,
-  "Community_name" : "Oslo",
-  "Username" : "Jakob_Lundberg",
-  "Post_body" : "Skal lage en kortfilm den 18. og 19. januar. Vi er i den sammenhengen på utkikk etter en leilighet vi kan filme i en av disse datoene, som har tilsvarende detaljer og stil som avbildet leilighet. Noen tips?",
-  "Timestamp" : "2024-12-22 17:52:01",
-  "Num_comment" : 10,
+  "id" : 200278,
+  "community_name" : "Oslo",
+  "username" : "Jakob_Lundberg",
+  "post_body" : "Skal lage en kortfilm den 18. og 19. januar. Vi er i den sammenhengen på utkikk etter en leilighet vi kan filme i en av disse datoene, som har tilsvarende detaljer og stil som avbildet leilighet. Noen tips?",
+  "timestamp" : "2024-12-22 17:52:01",
+  "num_comment" : 10,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "SentientSquirrel",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:18:37",
-    "Body" : "Norsk Folkemuseum har en leilighet som ser veldig lik ut: [https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965](https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965)\n\nVet ikke om de tillater filminnspillinger der, men det skader jo ikke å spørre."
+    "body" : "Norsk Folkemuseum har en leilighet som ser veldig lik ut: [https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965](https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965)\n\nVet ikke om de tillater filminnspillinger der, men det skader jo ikke å spørre.",
+    "username" : "SentientSquirrel",
+    "timestamp" : "2024-12-22 18:18:37"
   }, {
-    "Username" : "HI_im_TroyMcClure_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:52:01",
-    "Body" : "Hva betaler dere?"
+    "body" : "Hva betaler dere?",
+    "username" : "HI_im_TroyMcClure_",
+    "timestamp" : "2024-12-22 17:52:01"
   }, {
-    "Username" : "vargtass_666",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:25:09",
-    "Body" : "Fett! Ser ut som leiligheten til Fleksnes"
+    "body" : "Fett! Ser ut som leiligheten til Fleksnes",
+    "username" : "vargtass_666",
+    "timestamp" : "2024-12-22 18:25:09"
   }, {
-    "Username" : "stonedshrimp",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:59:38",
-    "Body" : "Ta kontakt med NRK Oslo, sikkert noen der som kan hjelpe dere."
+    "body" : "Ta kontakt med NRK Oslo, sikkert noen der som kan hjelpe dere.",
+    "username" : "stonedshrimp",
+    "timestamp" : "2024-12-22 17:59:38"
   }, {
-    "Username" : "Lonely_Adagio558",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:00:38",
-    "Body" : "Føles veldig Kampen:ish."
+    "body" : "Føles veldig Kampen:ish.",
+    "username" : "Lonely_Adagio558",
+    "timestamp" : "2024-12-22 23:00:38"
   }, {
-    "Username" : "QuestGalaxy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:33:58",
-    "Body" : "Skal dere filme i en leilighet på en søndag (19. januar)? I så fall regner jeg med at du innhenter tillatelse fra naboene rundt. Helligdagsfreden skal du ikke tulle med."
+    "body" : "Skal dere filme i en leilighet på en søndag (19. januar)? I så fall regner jeg med at du innhenter tillatelse fra naboene rundt. Helligdagsfreden skal du ikke tulle med.",
+    "username" : "QuestGalaxy",
+    "timestamp" : "2024-12-23 09:33:58"
   }, {
-    "Username" : "Jakob_Lundberg",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:40:49",
-    "Body" : "Om vi får planlagt støtte ser vi for oss å betale en sum på mellom 1500kr - 2500kr"
+    "body" : "Om vi får planlagt støtte ser vi for oss å betale en sum på mellom 1500kr - 2500kr",
+    "username" : "Jakob_Lundberg",
+    "timestamp" : "2024-12-22 18:40:49"
   }, {
-    "Username" : "mr_greenmash",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:06:36",
-    "Body" : "Daaaay-o!"
+    "body" : "Daaaay-o!",
+    "username" : "mr_greenmash",
+    "timestamp" : "2024-12-23 01:06:36"
   }, {
-    "Username" : "bashnu",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:06:56",
-    "Body" : "Trodde at standard pris var 15.000kr"
+    "body" : "Trodde at standard pris var 15.000kr",
+    "username" : "bashnu",
+    "timestamp" : "2024-12-22 23:06:56"
   }, {
-    "Username" : "Archkat",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 23:14:15",
-    "Body" : "Yep."
+    "body" : "Yep.",
+    "username" : "Archkat",
+    "timestamp" : "2024-12-22 23:14:15"
   } ]
 }

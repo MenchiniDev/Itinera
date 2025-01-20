@@ -1,10 +1,10 @@
 {
-  "Id" : 200306,
-  "Community_name" : "Marseille",
-  "Username" : "guilalune",
-  "Post_body" : "Le géant de Malmousque",
-  "Timestamp" : "2024-04-15 20:20:27",
-  "Num_comment" : 0,
+  "id" : 200306,
+  "community_name" : "Marseille",
+  "username" : "guilalune",
+  "post_body" : "Le géant de Malmousque",
+  "timestamp" : "2024-01-10 20:59:25",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

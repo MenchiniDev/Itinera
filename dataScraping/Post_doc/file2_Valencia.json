@@ -1,10 +1,10 @@
 {
-  "Id" : 200097,
-  "Community_name" : "Valencia",
-  "Username" : "Warm_Cranberry4472",
-  "Post_body" : "Anyone who likes Psytrance and want to make friends?",
-  "Timestamp" : "2024-04-15 20:01:43",
-  "Num_comment" : 0,
+  "id" : 200097,
+  "community_name" : "Valencia",
+  "username" : "Warm_Cranberry4472",
+  "post_body" : "Anyone who likes Psytrance and want to make friends?",
+  "timestamp" : "2024-01-10 20:41:11",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

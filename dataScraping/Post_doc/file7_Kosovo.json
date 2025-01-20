@@ -1,55 +1,55 @@
 {
-  "Id" : 200354,
-  "Community_name" : "Kosovo",
-  "Username" : "Curious_Garlic5429",
-  "Post_body" : "A e dini ndoni shelter?",
-  "Timestamp" : "2024-12-22 21:28:25",
-  "Num_comment" : 9,
+  "id" : 200354,
+  "community_name" : "Kosovo",
+  "username" : "Curious_Garlic5429",
+  "post_body" : "A e dini ndoni shelter?",
+  "timestamp" : "2024-12-22 21:28:25",
+  "num_comment" : 9,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "tsukii97",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:37:59",
-    "Body" : "Vetem strehimoren e qenve ne prishtin e njoh. Nuk e di a merren edhe me maca. Pyti nashta munen me te ndimu.\nKtu esht faqja e instagramit:\nhttps://www.instagram.com/prishtinadogshelter_official?igsh=eGJ4NnhtOWkxYnN2"
+    "body" : "Vetem strehimoren e qenve ne prishtin e njoh. Nuk e di a merren edhe me maca. Pyti nashta munen me te ndimu.\nKtu esht faqja e instagramit:\nhttps://www.instagram.com/prishtinadogshelter_official?igsh=eGJ4NnhtOWkxYnN2",
+    "username" : "tsukii97",
+    "timestamp" : "2024-12-22 21:37:59"
   }, {
-    "Username" : "FWolf14",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:22:17",
-    "Body" : "Kosova Pet Rescue munet me t'ndihmu. Kane accounts ne gati krejt mediat sociale, munesh m'ju shkru edhe kqyr cka po thojne. E di qe jon shume aktiv."
+    "body" : "Kosova Pet Rescue munet me t'ndihmu. Kane accounts ne gati krejt mediat sociale, munesh m'ju shkru edhe kqyr cka po thojne. E di qe jon shume aktiv.",
+    "username" : "FWolf14",
+    "timestamp" : "2024-12-23 09:22:17"
   }, {
-    "Username" : "terabithiann",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:40:44",
-    "Body" : "provoje prishtinacathouse n’insta!"
+    "body" : "provoje prishtinacathouse n’insta!",
+    "username" : "terabithiann",
+    "timestamp" : "2024-12-23 09:40:44"
   }, {
-    "Username" : "Albanian98",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:28:25",
-    "Body" : "Ca jane shelterat? Ca semundje eshte fireworks?"
+    "body" : "Ca jane shelterat? Ca semundje eshte fireworks?",
+    "username" : "Albanian98",
+    "timestamp" : "2024-12-22 21:28:25"
   }, {
-    "Username" : "HowlDarcy",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:13:51",
-    "Body" : "Ata nuk kanë strehimore."
+    "body" : "Ata nuk kanë strehimore.",
+    "username" : "HowlDarcy",
+    "timestamp" : "2024-12-23 14:13:51"
   }, {
-    "Username" : "mahankshmakarin_oida",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 22:17:07",
-    "Body" : "😂😂😂"
+    "body" : "😂😂😂",
+    "username" : "mahankshmakarin_oida",
+    "timestamp" : "2024-12-22 22:17:07"
   }, {
-    "Username" : "FWolf14",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:26:18",
-    "Body" : "Jo te veten, por kane strehimore te kontraktuara? Ose kane pase dikur se paku, ka vite qe nuk m'ka ra me pase kontakt me ta."
+    "body" : "Jo te veten, por kane strehimore te kontraktuara? Ose kane pase dikur se paku, ka vite qe nuk m'ka ra me pase kontakt me ta.",
+    "username" : "FWolf14",
+    "timestamp" : "2024-12-23 14:26:18"
   }, {
-    "Username" : "Curious_Garlic5429",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:43:57",
-    "Body" : "Faleminderit shumm"
+    "body" : "Faleminderit shumm",
+    "username" : "Curious_Garlic5429",
+    "timestamp" : "2024-12-23 14:43:57"
   }, {
-    "Username" : "FWolf14",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:52:14",
-    "Body" : "Faleminderit ty per veprimin, jemi me fat qe kemi njerez si ti ne shoqeri :)\n\nShpresoj qe funksionon me Kosova Pet Rescue. Perndyshe nese ki facebook, me ra ne men qe eshte edhe ni grup \"Dashamirët e kafshëve\", edhe aty mundesh me gjet zgjidhje."
+    "body" : "Faleminderit ty per veprimin, jemi me fat qe kemi njerez si ti ne shoqeri :)\n\nShpresoj qe funksionon me Kosova Pet Rescue. Perndyshe nese ki facebook, me ra ne men qe eshte edhe ni grup \"Dashamirët e kafshëve\", edhe aty mundesh me gjet zgjidhje.",
+    "username" : "FWolf14",
+    "timestamp" : "2024-12-23 14:52:14"
   } ]
 }

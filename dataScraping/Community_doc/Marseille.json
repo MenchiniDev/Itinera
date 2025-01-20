@@ -1,15 +1,15 @@
 {
-  "Id" : 200439,
-  "City" : "Marseille",
-  "Name" : "Marseille",
-  "Created" : "2022-05-05 19:11:01",
-  "Post" : [ {
-    "User" : "Silly_Crotch",
-    "Text" : "This subreddit is a mere redirect. Please use /r/aixmarseille only",
-    "Timestamp" : "2022-05-05 20:11:01"
+  "id" : 200439,
+  "city" : "Marseille",
+  "name" : "Marseille",
+  "created" : "2022-05-05 19:11:01",
+  "post" : [ {
+    "text" : "This subreddit is a mere redirect. Please use /r/aixmarseille only",
+    "user" : "Silly_Crotch",
+    "timestamp" : "2022-05-05 20:11:01"
   }, {
-    "User" : "TheBlackPajama",
-    "Text" : "Lost Teddy Bear, Marseille Airport",
-    "Timestamp" : "2022-05-06 01:57:15"
+    "text" : "Lost Teddy Bear, Marseille Airport",
+    "user" : "TheBlackPajama",
+    "timestamp" : "2022-05-06 01:57:15"
   } ]
 }

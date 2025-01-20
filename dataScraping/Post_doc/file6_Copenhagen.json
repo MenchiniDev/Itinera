@@ -1,100 +1,100 @@
 {
-  "Id" : 200274,
-  "Community_name" : "Copenhagen",
-  "Username" : "ValoMatt",
-  "Post_body" : "What's the deal with 2A?",
-  "Timestamp" : "2024-12-22 16:17:24",
-  "Num_comment" : 18,
+  "id" : 200274,
+  "community_name" : "Copenhagen",
+  "username" : "ValoMatt",
+  "post_body" : "What's the deal with 2A?",
+  "timestamp" : "2024-12-22 16:17:24",
+  "num_comment" : 18,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "undercoverpanter",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:17:24",
-    "Body" : "I guess christmas traffic causes those delays. And each driver doesn't really care about the other busses so they just continue immediately at every stop."
+    "body" : "I guess christmas traffic causes those delays. And each driver doesn't really care about the other busses so they just continue immediately at every stop.",
+    "username" : "undercoverpanter",
+    "timestamp" : "2024-12-22 16:17:24"
   }, {
-    "Username" : "Foreign-Journalist71",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:33:19",
-    "Body" : "Some things never change. I had a similar experience with 2A, when I lived in Copenhagen like 6 years ago.\nNo show or multiple buses at the same time."
+    "body" : "Some things never change. I had a similar experience with 2A, when I lived in Copenhagen like 6 years ago.\nNo show or multiple buses at the same time.",
+    "username" : "Foreign-Journalist71",
+    "timestamp" : "2024-12-22 16:33:19"
   }, {
-    "Username" : "boba_leaf",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:03:51",
-    "Body" : "I’ve also noticed the 2a has been especially fucked these last couple months. I keep complaining to Movia and they just say it’s because of the traffic. If you have to wait for more than 20min though, you can take a taxi and movia will reimburse you."
+    "body" : "I’ve also noticed the 2a has been especially fucked these last couple months. I keep complaining to Movia and they just say it’s because of the traffic. If you have to wait for more than 20min though, you can take a taxi and movia will reimburse you.",
+    "username" : "boba_leaf",
+    "timestamp" : "2024-12-22 18:03:51"
   }, {
-    "Username" : "_Hollywood___",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:38:05",
-    "Body" : "Terrible traffic, that’s the only reason. I gave up after sitting in traffic for 10-15 min and asked him to open the door, I took the metro instead."
+    "body" : "Terrible traffic, that’s the only reason. I gave up after sitting in traffic for 10-15 min and asked him to open the door, I took the metro instead.",
+    "username" : "_Hollywood___",
+    "timestamp" : "2024-12-22 17:38:05"
   }, {
-    "Username" : "ocean_of_lovee",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:38:34",
-    "Body" : "It could happen with any bus. I usually experienced this with 250S. Waiting for around 40min in cold dark evening after work!"
+    "body" : "It could happen with any bus. I usually experienced this with 250S. Waiting for around 40min in cold dark evening after work!",
+    "username" : "ocean_of_lovee",
+    "timestamp" : "2024-12-22 18:38:34"
   }, {
-    "Username" : "Unfair_Fix_1489",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:07:24",
-    "Body" : "I’ve noticed the same! This Friday, I ended up taking the 10 bus instead because three 2A buses were a no-show"
+    "body" : "I’ve noticed the same! This Friday, I ended up taking the 10 bus instead because three 2A buses were a no-show",
+    "username" : "Unfair_Fix_1489",
+    "timestamp" : "2024-12-22 19:07:24"
   }, {
-    "Username" : "misschaosgoddess",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:32:42",
-    "Body" : "Don’t worry, next month they will increase the prices. I am sure it won’t happen again."
+    "body" : "Don’t worry, next month they will increase the prices. I am sure it won’t happen again.",
+    "username" : "misschaosgoddess",
+    "timestamp" : "2024-12-23 01:32:42"
   }, {
-    "Username" : "Berg-Hansen",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:17:42",
-    "Body" : "It's because if they are on a break and then go again then they go in clumps. Also due to the driversplan with 2 min apart between busses."
+    "body" : "It's because if they are on a break and then go again then they go in clumps. Also due to the driversplan with 2 min apart between busses.",
+    "username" : "Berg-Hansen",
+    "timestamp" : "2024-12-22 16:17:42"
   }, {
-    "Username" : "Old_Effective_915",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:14:30",
-    "Body" : "With specifically 2A, depending on where on the route you are, I'd suspect the route changes around Knippelsbro due to Børsen probably plays a role. That area turns into a gridlock as soon as anything goes wrong.\n\nIn the same general area, I remember when they were working on Blox, one morning I had to catch the bus from central station to the Black Diamond. It got as far as Christians Brygge and then it just did not move. At all. Eventually, I and several other commuters gave up, asked to be let out and walked the rest of the way."
+    "body" : "With specifically 2A, depending on where on the route you are, I'd suspect the route changes around Knippelsbro due to Børsen probably plays a role. That area turns into a gridlock as soon as anything goes wrong.\n\nIn the same general area, I remember when they were working on Blox, one morning I had to catch the bus from central station to the Black Diamond. It got as far as Christians Brygge and then it just did not move. At all. Eventually, I and several other commuters gave up, asked to be let out and walked the rest of the way.",
+    "username" : "Old_Effective_915",
+    "timestamp" : "2024-12-23 10:14:30"
   }, {
-    "Username" : "DJpesto",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:48:26",
-    "Body" : "It is usually caused by construction work on the roads, combined with detours, at one or more points along the route. The traffic planners who re-route the busses do what they can, but they have no influence on the construction work - they just have to try to work around it, and service as many bus stops as possible, while also trying to avoid going through the most congested places."
+    "body" : "It is usually caused by construction work on the roads, combined with detours, at one or more points along the route. The traffic planners who re-route the busses do what they can, but they have no influence on the construction work - they just have to try to work around it, and service as many bus stops as possible, while also trying to avoid going through the most congested places.",
+    "username" : "DJpesto",
+    "timestamp" : "2024-12-23 13:48:26"
   }, {
-    "Username" : "swiftninja_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:06:15",
-    "Body" : "Wild that I posted a similar post recently and got downvoted. \n\nhttps://www.reddit.com/r/copenhagen/s/I0wb0xwcnz"
+    "body" : "Wild that I posted a similar post recently and got downvoted. \n\nhttps://www.reddit.com/r/copenhagen/s/I0wb0xwcnz",
+    "username" : "swiftninja_",
+    "timestamp" : "2024-12-22 18:06:15"
   }, {
-    "Username" : "ValoMatt",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:20:11",
-    "Body" : "Oh, I'm used to normal delays but that seems more complicated. 2a is supposed to go every 8 minutes during the day, so I'm confused as to why they don't come at all for 30 minutes or more and then suddenly come in groups all at the same time."
+    "body" : "Oh, I'm used to normal delays but that seems more complicated. 2a is supposed to go every 8 minutes during the day, so I'm confused as to why they don't come at all for 30 minutes or more and then suddenly come in groups all at the same time.",
+    "username" : "ValoMatt",
+    "timestamp" : "2024-12-22 16:20:11"
   }, {
-    "Username" : "ValoMatt",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:39:04",
-    "Body" : "I work at Reffen so I've been taking the bus almost every day for 6 years now and it was never that bad, outside of big events like Distortion."
+    "body" : "I work at Reffen so I've been taking the bus almost every day for 6 years now and it was never that bad, outside of big events like Distortion.",
+    "username" : "ValoMatt",
+    "timestamp" : "2024-12-22 16:39:04"
   }, {
-    "Username" : "swiftninja_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:22:57",
-    "Body" : "Link for source?"
+    "body" : "Link for source?",
+    "username" : "swiftninja_",
+    "timestamp" : "2024-12-23 15:22:57"
   }, {
-    "Username" : "swiftninja_",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:40:12",
-    "Body" : "https://preview.redd.it/v4k8zstuvf8e1.jpeg?width=1170&format=pjpg&auto=webp&s=fbfe9c380047a07a7842459ef2b2ae495ce13a4b\n\nWhat kind of bullshit excuse is “Du kan i ojeblikket opleve langere rejsetid pà ca. 30 minutter pa linje 2A. Det skyldes tat trafik”\n\n18:39 on a Sunday evening 😂😂😂"
+    "body" : "https://preview.redd.it/v4k8zstuvf8e1.jpeg?width=1170&format=pjpg&auto=webp&s=fbfe9c380047a07a7842459ef2b2ae495ce13a4b\n\nWhat kind of bullshit excuse is “Du kan i ojeblikket opleve langere rejsetid pà ca. 30 minutter pa linje 2A. Det skyldes tat trafik”\n\n18:39 on a Sunday evening 😂😂😂",
+    "username" : "swiftninja_",
+    "timestamp" : "2024-12-22 18:40:12"
   }, {
-    "Username" : "Grubsnik",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:51:07",
-    "Body" : "Classic case, once the first bus gets delayed, it will go slower because more people need to get on and off until the bus behind it catches up. The bus behind will conversely go a bit faster because there are less passengers because there are less new passengers at each stop since the late lead bus"
+    "body" : "Classic case, once the first bus gets delayed, it will go slower because more people need to get on and off until the bus behind it catches up. The bus behind will conversely go a bit faster because there are less passengers because there are less new passengers at each stop since the late lead bus",
+    "username" : "Grubsnik",
+    "timestamp" : "2024-12-22 16:51:07"
   }, {
-    "Username" : "egg_watching",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 17:29:23",
-    "Body" : "I've lived in the area for 15 years. It used to be much, much worse, but I still find that it's often late or multiple busses come at once. Sounds like it's the same as always."
+    "body" : "I've lived in the area for 15 years. It used to be much, much worse, but I still find that it's often late or multiple busses come at once. Sounds like it's the same as always.",
+    "username" : "egg_watching",
+    "timestamp" : "2024-12-22 17:29:23"
   }, {
-    "Username" : "DJpesto",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:46:38",
-    "Body" : "Probably due to road construction work. The busses don't get delayed on purpose. I know this is hard to believe, but the people working with this are trying to avoid delays.\n\nThe traffic planners don't have any say in the construction works, and often are not informed by the municipality who are normally the ones building. They have to try to find alternative routes, or just accept that there are no alternatives, so the busses must go through the traffic jams that are caused by the road construction work."
+    "body" : "Probably due to road construction work. The busses don't get delayed on purpose. I know this is hard to believe, but the people working with this are trying to avoid delays.\n\nThe traffic planners don't have any say in the construction works, and often are not informed by the municipality who are normally the ones building. They have to try to find alternative routes, or just accept that there are no alternatives, so the busses must go through the traffic jams that are caused by the road construction work.",
+    "username" : "DJpesto",
+    "timestamp" : "2024-12-23 13:46:38"
   } ]
 }

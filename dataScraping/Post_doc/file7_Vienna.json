@@ -1,40 +1,40 @@
 {
-  "Id" : 200330,
-  "Community_name" : "Vienna",
-  "Username" : "ExcitingHoneydew5271",
-  "Post_body" : "What district are we staying in?",
-  "Timestamp" : "2023-08-05 23:10:51",
-  "Num_comment" : 6,
+  "id" : 200330,
+  "community_name" : "Vienna",
+  "username" : "ExcitingHoneydew5271",
+  "post_body" : "What district are we staying in?",
+  "timestamp" : "2023-08-05 23:10:51",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "sebastianelisa",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2023-08-05 23:19:30",
-    "Body" : "The middle two numbers of the post code in the address are the district and since that is 1090 according to Google maps you're in the 9th district Alsergrund"
+    "body" : "The middle two numbers of the post code in the address are the district and since that is 1090 according to Google maps you're in the 9th district Alsergrund",
+    "username" : "sebastianelisa",
+    "timestamp" : "2023-08-05 23:19:30"
   }, {
-    "Username" : "Julesvernevienna",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-05 23:21:57",
-    "Body" : "Almost everything is in \"walking distance\" from there. You will be adjacent to the old town, you will have lots of trams you can use right in front of your doorstep, you will have a subway which brings you further outside."
+    "body" : "Almost everything is in \"walking distance\" from there. You will be adjacent to the old town, you will have lots of trams you can use right in front of your doorstep, you will have a subway which brings you further outside.",
+    "username" : "Julesvernevienna",
+    "timestamp" : "2023-08-05 23:21:57"
   }, {
-    "Username" : "AutoModerator",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-05 23:10:51",
-    "Body" : "Bei diesem Beitrag scheint es sich um einen Post zum Tourismus in Wien zu handeln. Hilfreiche Tipps findest [hier](https://www.reddit.com/r/vienna/wiki/index/tourismus).\n\nThis post seems to be a post about tourism in Vienna. Helpful tips can be found [here](https://www.reddit.com/r/vienna/wiki/index/tourism).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/vienna) if you have any questions or concerns.*"
+    "body" : "Bei diesem Beitrag scheint es sich um einen Post zum Tourismus in Wien zu handeln. Hilfreiche Tipps findest [hier](https://www.reddit.com/r/vienna/wiki/index/tourismus).\n\nThis post seems to be a post about tourism in Vienna. Helpful tips can be found [here](https://www.reddit.com/r/vienna/wiki/index/tourism).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/vienna) if you have any questions or concerns.*",
+    "username" : "AutoModerator",
+    "timestamp" : "2023-08-05 23:10:51"
   }, {
-    "Username" : "--akai--",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-05 23:21:27",
-    "Body" : "9th, but also basically directly at the borders to 1st and 8th. It's very central. \n\nJust look at google maps for restaurant near it. We know neither what type of restaurant you like, nor what you would consider walking distance (you could technically cross the whole 1st district within 2 km)"
+    "body" : "9th, but also basically directly at the borders to 1st and 8th. It's very central. \n\nJust look at google maps for restaurant near it. We know neither what type of restaurant you like, nor what you would consider walking distance (you could technically cross the whole 1st district within 2 km)",
+    "username" : "--akai--",
+    "timestamp" : "2023-08-05 23:21:27"
   }, {
-    "Username" : "Pronationbig",
     "reported_comment" : false,
-    "Timestamp" : "2023-12-11 13:45:12",
-    "Body" : "Just go to the Servitengasse (top 5 of the most beautiful streets in Vienna) :)"
+    "body" : "Just go to the Servitengasse (top 5 of the most beautiful streets in Vienna) :)",
+    "username" : "Pronationbig",
+    "timestamp" : "2023-12-11 13:45:12"
   }, {
-    "Username" : "youremymymymylover",
     "reported_comment" : false,
-    "Timestamp" : "2023-08-07 21:48:30",
-    "Body" : "Worth mentioning right on the edge of 8 and 1 as well"
+    "body" : "Worth mentioning right on the edge of 8 and 1 as well",
+    "username" : "youremymymymylover",
+    "timestamp" : "2023-08-07 21:48:30"
   } ]
 }

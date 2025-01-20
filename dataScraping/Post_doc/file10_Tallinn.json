@@ -1,30 +1,30 @@
 {
-  "Id" : 200424,
-  "Community_name" : "Tallinn",
-  "Username" : "None",
-  "Post_body" : "30 Year old Australian coming to to your city for the first time in 2 weeks",
-  "Timestamp" : "2022-02-10 09:28:02",
-  "Num_comment" : 4,
+  "id" : 200424,
+  "community_name" : "Tallinn",
+  "username" : "None",
+  "post_body" : "30 Year old Australian coming to to your city for the first time in 2 weeks",
+  "timestamp" : "2022-02-10 09:28:02",
+  "num_comment" : 4,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "None",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2022-02-10 13:22:30",
-    "Body" : "[deleted]"
+    "body" : "[deleted]",
+    "username" : "None",
+    "timestamp" : "2022-02-10 13:22:30"
   }, {
-    "Username" : "Sublitereal",
     "reported_comment" : false,
-    "Timestamp" : "2022-02-10 09:28:02",
-    "Body" : "At least you won't have to worry about drop bears for a while in a couple of weeks"
+    "body" : "At least you won't have to worry about drop bears for a while in a couple of weeks",
+    "username" : "Sublitereal",
+    "timestamp" : "2022-02-10 09:28:02"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-02-11 06:07:57",
-    "Body" : "thanks for that"
+    "body" : "thanks for that",
+    "username" : "None",
+    "timestamp" : "2022-02-11 06:07:57"
   }, {
-    "Username" : "None",
     "reported_comment" : false,
-    "Timestamp" : "2022-02-10 09:48:15",
-    "Body" : "[https://www.youtube.com/watch?v=0qHQHYmsUJc&ab\\_channel=StudioKite](https://www.youtube.com/watch?v=0qHQHYmsUJc&ab_channel=StudioKite) what the inside joke is"
+    "body" : "[https://www.youtube.com/watch?v=0qHQHYmsUJc&ab\\_channel=StudioKite](https://www.youtube.com/watch?v=0qHQHYmsUJc&ab_channel=StudioKite) what the inside joke is",
+    "username" : "None",
+    "timestamp" : "2022-02-10 09:48:15"
   } ]
 }

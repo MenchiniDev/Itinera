@@ -1,15 +1,15 @@
 {
-  "Id" : 200473,
-  "City" : "Budapest",
-  "Name" : "Budapest",
-  "Created" : "2024-04-15 19:01:04",
-  "Post" : [ {
-    "User" : "electro-cortex",
-    "Text" : "r/Budapest Borítókép/Logó Verseny | r/Budapest Banner/Logo Contest",
-    "Timestamp" : "2024-04-15 20:01:04"
+  "id" : 200473,
+  "city" : "Budapest",
+  "name" : "Budapest",
+  "created" : "2024-01-10 19:40:09",
+  "post" : [ {
+    "text" : "r/Budapest Borítókép/Logó Verseny | r/Budapest Banner/Logo Contest",
+    "user" : "electro-cortex",
+    "timestamp" : "2024-01-10 20:40:09"
   }, {
-    "User" : "iamjasonwa",
-    "Text" : "Phlebotomy Program Certification ",
-    "Timestamp" : "2024-04-15 20:08:30"
+    "text" : "Phlebotomy Program Certification ",
+    "user" : "iamjasonwa",
+    "timestamp" : "2024-01-10 20:46:54"
   } ]
 }

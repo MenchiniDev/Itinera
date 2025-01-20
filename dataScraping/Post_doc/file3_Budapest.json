@@ -1,10 +1,10 @@
 {
-  "Id" : 200167,
-  "Community_name" : "Budapest",
-  "Username" : "iamjasonwa",
-  "Post_body" : "Phlebotomy Program Certification ",
-  "Timestamp" : "2024-04-15 20:08:30",
-  "Num_comment" : 0,
+  "id" : 200167,
+  "community_name" : "Budapest",
+  "username" : "iamjasonwa",
+  "post_body" : "Phlebotomy Program Certification ",
+  "timestamp" : "2024-01-10 20:46:54",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

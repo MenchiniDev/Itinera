@@ -2,21 +2,31 @@ package com.unipi.ItineraJava.service;
 
 
 import com.unipi.ItineraJava.repository.UserRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.unipi.ItineraJava.DTO.CommunityDTO;
+import com.unipi.ItineraJava.model.CommunityGraph;
 import com.unipi.ItineraJava.model.User;
 
 import java.util.List;
 import java.util.Optional;
 
+import com.unipi.ItineraJava.repository.UserNeo4jRepository;
+
 @Service
 public class UserService{
-    @Autowired
+   
     private static UserRepository userRepository;
+     
+    private UserNeo4jRepository userNeo4jRepository;
+
 
     @Autowired // necessario altrimenti non consente autenticazione ruolo con funzione User.isAdmin()
-    public UserService(UserRepository userRepository) {
+    public UserService(UserRepository userRepository, UserNeo4jRepository userNeo4jRepository) {
         this.userRepository = userRepository;
+        this.userNeo4jRepository = userNeo4jRepository;
     }
 
     public List<com.unipi.ItineraJava.model.User> findAll() {
@@ -49,4 +59,18 @@ public class UserService{
     public Object loadUserByUsername(String username) {
         return userRepository.findByUsername(username);
     }
+
+
+
+    /////GRAPH
+    /// 
+    public List<CommunityDTO> getCommunityJoined(String username) {
+        List<CommunityDTO> communities = userNeo4jRepository.getCommunityJoined(username);
+        communities.forEach(community -> {
+            System.out.println("Community retrieved: " + community);
+        });
+        return communities;
+    }
+        
+    
 }

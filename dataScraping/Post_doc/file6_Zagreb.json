@@ -1,15 +1,15 @@
 {
-  "Id" : 200140,
-  "Community_name" : "Zagreb",
-  "Username" : "oniumnix12",
-  "Post_body" : "Problem s bucnim susjedima",
-  "Timestamp" : "2024-12-23 15:23:23",
-  "Num_comment" : 1,
+  "id" : 200140,
+  "community_name" : "Zagreb",
+  "username" : "oniumnix12",
+  "post_body" : "Problem s bucnim susjedima",
+  "timestamp" : "2024-12-23 15:23:23",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Tall_Pop_4087",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:23:23",
-    "Body" : "Možeš stvoriti neugodnu situaciju s predstavnikom stanara, ignorirati klince ili se odseliti. Izbor je na tebi"
+    "body" : "Možeš stvoriti neugodnu situaciju s predstavnikom stanara, ignorirati klince ili se odseliti. Izbor je na tebi",
+    "username" : "Tall_Pop_4087",
+    "timestamp" : "2024-12-23 15:23:23"
   } ]
 }

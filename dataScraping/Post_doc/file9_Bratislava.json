@@ -1,20 +1,20 @@
 {
-  "Id" : 200355,
-  "Community_name" : "Bratislava",
-  "Username" : "HolidayJacket1728",
-  "Post_body" : "Raves in Bratislava NYE?",
-  "Timestamp" : "2024-12-21 22:06:22",
-  "Num_comment" : 2,
+  "id" : 200355,
+  "community_name" : "Bratislava",
+  "username" : "HolidayJacket1728",
+  "post_body" : "Raves in Bratislava NYE?",
+  "timestamp" : "2024-12-21 22:06:22",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Mediocre-Buffalo-876",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-21 22:06:22",
-    "Body" : "Subdeck"
+    "body" : "Subdeck",
+    "username" : "Mediocre-Buffalo-876",
+    "timestamp" : "2024-12-21 22:06:22"
   }, {
-    "Username" : "Particular-Doubt-119",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 16:49:58",
-    "Body" : "Nová Cvernovka"
+    "body" : "Nová Cvernovka",
+    "username" : "Particular-Doubt-119",
+    "timestamp" : "2024-12-22 16:49:58"
   } ]
 }

@@ -1,40 +1,40 @@
 {
-  "Id" : 200082,
-  "Community_name" : "Frankfurt",
-  "Username" : "USStarTrucking",
-  "Post_body" : "Best taxi service in Frankfurt?",
-  "Timestamp" : "2024-12-23 01:24:03",
-  "Num_comment" : 6,
+  "id" : 200082,
+  "community_name" : "Frankfurt",
+  "username" : "USStarTrucking",
+  "post_body" : "Best taxi service in Frankfurt?",
+  "timestamp" : "2024-12-23 01:24:03",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "loerez",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:13:22",
-    "Body" : "Uber works fine at half the price of regular taxis / freenow"
+    "body" : "Uber works fine at half the price of regular taxis / freenow",
+    "username" : "loerez",
+    "timestamp" : "2024-12-23 11:13:22"
   }, {
-    "Username" : "Coronavirinae",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:53:54",
-    "Body" : "I frequently use freenow. Never had any problems"
+    "body" : "I frequently use freenow. Never had any problems",
+    "username" : "Coronavirinae",
+    "timestamp" : "2024-12-23 09:53:54"
   }, {
-    "Username" : "AutoModerator",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:24:03",
-    "Body" : "Hello /u/USStarTrucking, thank you for posting a question. Have you checked [our wiki](/r/frankfurt/wiki/index)  or the [stickied FAQ thread at the top of our subreddit](https://www.reddit.com/r/frankfurt/comments/otfb7a/visitors_and_newcomers_to_frankfurt_please_post/?utm_source=share&utm_medium=web2x&context=3)?\nWhen you have a satisfactory answer, please change the flair to \"Solved\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*"
+    "body" : "Hello /u/USStarTrucking, thank you for posting a question. Have you checked [our wiki](/r/frankfurt/wiki/index)  or the [stickied FAQ thread at the top of our subreddit](https://www.reddit.com/r/frankfurt/comments/otfb7a/visitors_and_newcomers_to_frankfurt_please_post/?utm_source=share&utm_medium=web2x&context=3)?\nWhen you have a satisfactory answer, please change the flair to \"Solved\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*",
+    "username" : "AutoModerator",
+    "timestamp" : "2024-12-23 01:24:03"
   }, {
-    "Username" : "johndue007",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:59:58",
-    "Body" : "Bolt and uber. The only ok options. The rest are just shit or pricey"
+    "body" : "Bolt and uber. The only ok options. The rest are just shit or pricey",
+    "username" : "johndue007",
+    "timestamp" : "2024-12-23 11:59:58"
   }, {
-    "Username" : "Evening_Passion9653",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:42:15",
-    "Body" : "Bolt. It’s one of the cheapest and most reliable services out there."
+    "body" : "Bolt. It’s one of the cheapest and most reliable services out there.",
+    "username" : "Evening_Passion9653",
+    "timestamp" : "2024-12-23 01:42:15"
   }, {
-    "Username" : "TemuBoySnaps",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:29:16",
-    "Body" : "Lyft is sometimes also cheaper than Uber."
+    "body" : "Lyft is sometimes also cheaper than Uber.",
+    "username" : "TemuBoySnaps",
+    "timestamp" : "2024-12-23 14:29:16"
   } ]
 }

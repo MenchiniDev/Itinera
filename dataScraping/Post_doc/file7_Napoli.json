@@ -1,50 +1,50 @@
 {
-  "Id" : 200357,
-  "Community_name" : "Napoli",
-  "Username" : "Disastrous_Stick_254",
-  "Post_body" : "Cosa fare il 24 prima del cenone a Napoli",
-  "Timestamp" : "2024-12-22 21:31:05",
-  "Num_comment" : 8,
+  "id" : 200357,
+  "community_name" : "Napoli",
+  "username" : "Disastrous_Stick_254",
+  "post_body" : "Cosa fare il 24 prima del cenone a Napoli",
+  "timestamp" : "2024-12-22 21:31:05",
+  "num_comment" : 8,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Ashamed-Addendum-661",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:31:05",
-    "Body" : "> passeggiata il 24\n\n> piacevole\n\nPick one"
+    "body" : "> passeggiata il 24\n\n> piacevole\n\nPick one",
+    "username" : "Ashamed-Addendum-661",
+    "timestamp" : "2024-12-22 21:31:05"
   }, {
-    "Username" : "KekkoPalu2001",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:54:23",
-    "Body" : "In zona Bellini ci sarà un grande aperitivo"
+    "body" : "In zona Bellini ci sarà un grande aperitivo",
+    "username" : "KekkoPalu2001",
+    "timestamp" : "2024-12-22 21:54:23"
   }, {
-    "Username" : "Major_Employee3087",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 02:35:05",
-    "Body" : "Credo che stare in centro il 24 con tutto quel flusso di gente è solo un intossicazione."
+    "body" : "Credo che stare in centro il 24 con tutto quel flusso di gente è solo un intossicazione.",
+    "username" : "Major_Employee3087",
+    "timestamp" : "2024-12-23 02:35:05"
   }, {
-    "Username" : "Ok-Excitement4831",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:10:59",
-    "Body" : "up"
+    "body" : "up",
+    "username" : "Ok-Excitement4831",
+    "timestamp" : "2024-12-23 11:10:59"
   }, {
-    "Username" : "sborravosullevecchie",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:24:10",
-    "Body" : "Spara bombe finché non ti rimangono tre dita per mano."
+    "body" : "Spara bombe finché non ti rimangono tre dita per mano.",
+    "username" : "sborravosullevecchie",
+    "timestamp" : "2024-12-23 14:24:10"
   }, {
-    "Username" : "Disastrous_Stick_254",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 21:51:58",
-    "Body" : "non per forza passeggiata"
+    "body" : "non per forza passeggiata",
+    "username" : "Disastrous_Stick_254",
+    "timestamp" : "2024-12-22 21:51:58"
   }, {
-    "Username" : "Disastrous_Stick_254",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:40:10",
-    "Body" : "da Peppe?"
+    "body" : "da Peppe?",
+    "username" : "Disastrous_Stick_254",
+    "timestamp" : "2024-12-23 11:40:10"
   }, {
-    "Username" : "Disastrous_Stick_254",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:40:36",
-    "Body" : "eh un amico che l’anno scorso andò in zona baretti mi ha detto lo stesso"
+    "body" : "eh un amico che l’anno scorso andò in zona baretti mi ha detto lo stesso",
+    "username" : "Disastrous_Stick_254",
+    "timestamp" : "2024-12-23 11:40:36"
   } ]
 }

@@ -1,10 +1,10 @@
 {
-  "Id" : 200205,
-  "Community_name" : "Marseille",
-  "Username" : "elcaracol",
-  "Post_body" : "Culture attack: Marseille, a city of violence or of culture?",
-  "Timestamp" : "2024-04-15 20:10:28",
-  "Num_comment" : 0,
+  "id" : 200205,
+  "community_name" : "Marseille",
+  "username" : "elcaracol",
+  "post_body" : "Culture attack: Marseille, a city of violence or of culture?",
+  "timestamp" : "2024-01-10 20:49:42",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

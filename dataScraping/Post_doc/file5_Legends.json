@@ -1,10 +1,10 @@
 {
-  "Id" : 200145,
-  "Community_name" : "Legends",
-  "Username" : "None",
-  "Post_body" : "Top",
-  "Timestamp" : "2024-04-15 20:06:54",
-  "Num_comment" : 0,
+  "id" : 200145,
+  "community_name" : "Legends",
+  "username" : "None",
+  "post_body" : "Top",
+  "timestamp" : "2024-01-10 20:45:46",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

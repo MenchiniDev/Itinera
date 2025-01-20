@@ -1,15 +1,15 @@
 {
-  "Id" : 200453,
-  "City" : "Vienna",
-  "Name" : "Vienna",
-  "Created" : "2023-07-31 14:56:46",
-  "Post" : [ {
-    "User" : "None",
-    "Text" : "Train from Vienna to Bratislava",
-    "Timestamp" : "2023-07-31 15:56:46"
+  "id" : 200453,
+  "city" : "Vienna",
+  "name" : "Vienna",
+  "created" : "2023-07-31 14:56:46",
+  "post" : [ {
+    "text" : "Train from Vienna to Bratislava",
+    "user" : "None",
+    "timestamp" : "2023-07-31 15:56:46"
   }, {
-    "User" : "No_Price_6717",
-    "Text" : "Lost iPhone 1060",
-    "Timestamp" : "2023-07-31 17:04:28"
+    "text" : "Lost iPhone 1060",
+    "user" : "No_Price_6717",
+    "timestamp" : "2023-07-31 17:04:28"
   } ]
 }

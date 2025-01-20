@@ -1,15 +1,15 @@
 {
-  "Id" : 200452,
-  "City" : "Riga",
-  "Name" : "Riga",
-  "Created" : "2024-04-15 19:25:53",
-  "Post" : [ {
-    "User" : "No_Examination667",
-    "Text" : "Gym ( personal trainer)",
-    "Timestamp" : "2024-04-15 20:25:53"
+  "id" : 200452,
+  "city" : "Riga",
+  "name" : "Riga",
+  "created" : "2024-01-10 20:03:50",
+  "post" : [ {
+    "text" : "Gym ( personal trainer)",
+    "user" : "No_Examination667",
+    "timestamp" : "2024-01-10 21:03:50"
   }, {
-    "User" : "pigeon-25",
-    "Text" : "Day trips from Riga ",
-    "Timestamp" : "2024-12-13 09:20:11"
+    "text" : "Day trips from Riga ",
+    "user" : "pigeon-25",
+    "timestamp" : "2024-12-13 09:20:11"
   } ]
 }

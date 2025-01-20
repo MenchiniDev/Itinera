@@ -1,105 +1,105 @@
 {
-  "Id" : 200152,
-  "Community_name" : "Amsterdam",
-  "Username" : "HetGewildeWesten",
-  "Post_body" : "Dancing in the Oosterpark",
-  "Timestamp" : "2024-12-22 09:26:29",
-  "Num_comment" : 19,
+  "id" : 200152,
+  "community_name" : "Amsterdam",
+  "username" : "HetGewildeWesten",
+  "post_body" : "Dancing in the Oosterpark",
+  "timestamp" : "2024-12-22 09:26:29",
+  "num_comment" : 19,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "vleeslucht",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:02:09",
-    "Body" : "![gif](giphy|GeimqsH0TLDt4tScGw|downsized)"
+    "body" : "![gif](giphy|GeimqsH0TLDt4tScGw|downsized)",
+    "username" : "vleeslucht",
+    "timestamp" : "2024-12-22 12:02:09"
   }, {
-    "Username" : "Waitingroom",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 10:12:16",
-    "Body" : "This is not what Oosterpark is for. How am I supposed to enjoy my crack pipe with all that racket?"
+    "body" : "This is not what Oosterpark is for. How am I supposed to enjoy my crack pipe with all that racket?",
+    "username" : "Waitingroom",
+    "timestamp" : "2024-12-22 10:12:16"
   }, {
-    "Username" : "SenselessDoritos",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:44:27",
-    "Body" : "Hallo wereld, wereld, de wereld is van mij  🎶🎶"
+    "body" : "Hallo wereld, wereld, de wereld is van mij  🎶🎶",
+    "username" : "SenselessDoritos",
+    "timestamp" : "2024-12-22 12:44:27"
   }, {
-    "Username" : "HetGewildeWesten",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:26:29",
-    "Body" : "The music dome of the [Oosterpark](https://maps.app.goo.gl/gtezH7nMtsx1upLt7), Amsterdam.  2021-10-27 in the afternoon."
+    "body" : "The music dome of the [Oosterpark](https://maps.app.goo.gl/gtezH7nMtsx1upLt7), Amsterdam.  2021-10-27 in the afternoon.",
+    "username" : "HetGewildeWesten",
+    "timestamp" : "2024-12-22 09:26:29"
   }, {
-    "Username" : "96HourDeo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 11:59:41",
-    "Body" : "Reminder to anyone planning something like this is that you must have a permit for an event with amplified music in the dome."
+    "body" : "Reminder to anyone planning something like this is that you must have a permit for an event with amplified music in the dome.",
+    "username" : "96HourDeo",
+    "timestamp" : "2024-12-22 11:59:41"
   }, {
-    "Username" : "Synsane",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 11:07:46",
-    "Body" : "Does anyone know what all the construction from last year on that \"music dome\" did last year? \n \nI went up there after it was reopened, and it was still old and dirty and ground chipped up"
+    "body" : "Does anyone know what all the construction from last year on that \"music dome\" did last year? \n \nI went up there after it was reopened, and it was still old and dirty and ground chipped up",
+    "username" : "Synsane",
+    "timestamp" : "2024-12-22 11:07:46"
   }, {
-    "Username" : "Unaccompaniedbyminor",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 19:45:24",
-    "Body" : "Curious about the music: is this Nepali?"
+    "body" : "Curious about the music: is this Nepali?",
+    "username" : "Unaccompaniedbyminor",
+    "timestamp" : "2024-12-22 19:45:24"
   }, {
-    "Username" : "JosZo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 06:12:31",
-    "Body" : "In 2025, tango milongas will be restarting again in this music dome. On Sunday afternoons.\n\nhttps://www.tangoalma.nl/tangosalons/oosterpark/"
+    "body" : "In 2025, tango milongas will be restarting again in this music dome. On Sunday afternoons.\n\nhttps://www.tangoalma.nl/tangosalons/oosterpark/",
+    "username" : "JosZo",
+    "timestamp" : "2024-12-23 06:12:31"
   }, {
-    "Username" : "Prouddadoffour73",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:01:28",
-    "Body" : "Ik snap nu waarom dansen in China lange tijd verboden is geweest."
+    "body" : "Ik snap nu waarom dansen in China lange tijd verboden is geweest.",
+    "username" : "Prouddadoffour73",
+    "timestamp" : "2024-12-23 13:01:28"
   }, {
-    "Username" : "OnkruidVergaatNiet",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 11:54:22",
-    "Body" : "Ik ga emigreren"
+    "body" : "Ik ga emigreren",
+    "username" : "OnkruidVergaatNiet",
+    "timestamp" : "2024-12-22 11:54:22"
   }, {
-    "Username" : "here4geld",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 11:16:32",
-    "Body" : "Some kind of bollywood dance.."
+    "body" : "Some kind of bollywood dance..",
+    "username" : "here4geld",
+    "timestamp" : "2024-12-22 11:16:32"
   }, {
-    "Username" : "InterstellarDiplomat",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 15:09:21",
-    "Body" : "![gif](giphy|JuSmVmCtYniCeve0Nt)"
+    "body" : "![gif](giphy|JuSmVmCtYniCeve0Nt)",
+    "username" : "InterstellarDiplomat",
+    "timestamp" : "2024-12-22 15:09:21"
   }, {
-    "Username" : "we-do-rae",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:45:04",
-    "Body" : "Just an honest question: why do you post this dance from 3 years ago?"
+    "body" : "Just an honest question: why do you post this dance from 3 years ago?",
+    "username" : "we-do-rae",
+    "timestamp" : "2024-12-22 09:45:04"
   }, {
-    "Username" : "Expensive-Fee-7391",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:18:35",
-    "Body" : "Do you need a permit for the 24/7 drug market tho? Don't see anyone closing that one down.\n\nI'd assume some music and dancing is fine."
+    "body" : "Do you need a permit for the 24/7 drug market tho? Don't see anyone closing that one down.\n\nI'd assume some music and dancing is fine.",
+    "username" : "Expensive-Fee-7391",
+    "timestamp" : "2024-12-22 18:18:35"
   }, {
-    "Username" : "dullestfranchise",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:11:46",
-    "Body" : "Repairing the roof. It wasn't stable anymore and they feared it could collapse."
+    "body" : "Repairing the roof. It wasn't stable anymore and they feared it could collapse.",
+    "username" : "dullestfranchise",
+    "timestamp" : "2024-12-22 12:11:46"
   }, {
-    "Username" : "Beautiful-Eye-5113",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 13:33:50",
-    "Body" : "Ik ook😭"
+    "body" : "Ik ook😭",
+    "username" : "Beautiful-Eye-5113",
+    "timestamp" : "2024-12-22 13:33:50"
   }, {
-    "Username" : "HetGewildeWesten",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 09:51:28",
-    "Body" : "We post a lot of old and new material of what people do and what there is to see in Amsterdam."
+    "body" : "We post a lot of old and new material of what people do and what there is to see in Amsterdam.",
+    "username" : "HetGewildeWesten",
+    "timestamp" : "2024-12-22 09:51:28"
   }, {
-    "Username" : "96HourDeo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 18:26:51",
-    "Body" : "> I'd assume some music and dancing is fine.\n\nAny use of amplified music in the dome requires a permit. The group in the video almost certainly has one. Otherwise the gemente issues a fine. This is a civic matter.\n\nThis has nothing to do with drug crime, which is a police matter."
+    "body" : "> I'd assume some music and dancing is fine.\n\nAny use of amplified music in the dome requires a permit. The group in the video almost certainly has one. Otherwise the gemente issues a fine. This is a civic matter.\n\nThis has nothing to do with drug crime, which is a police matter.",
+    "username" : "96HourDeo",
+    "timestamp" : "2024-12-22 18:26:51"
   }, {
-    "Username" : "Synsane",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 12:35:47",
-    "Body" : "I see. It is unfortunate that they just stopped there, but I guess something is better than nothing. Even though the construction workers definitely caused some of the ground damage while working on the roof"
+    "body" : "I see. It is unfortunate that they just stopped there, but I guess something is better than nothing. Even though the construction workers definitely caused some of the ground damage while working on the roof",
+    "username" : "Synsane",
+    "timestamp" : "2024-12-22 12:35:47"
   } ]
 }

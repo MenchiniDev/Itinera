@@ -1,55 +1,55 @@
 {
-  "Id" : 200004,
-  "Community_name" : "Prague",
-  "Username" : "pavelioso",
-  "Post_body" : "Nejak zjistit ze se solilo?",
-  "Timestamp" : "2024-12-23 11:40:05",
-  "Num_comment" : 9,
+  "id" : 200004,
+  "community_name" : "Prague",
+  "username" : "pavelioso",
+  "post_body" : "Nejak zjistit ze se solilo?",
+  "timestamp" : "2024-12-23 11:40:05",
+  "num_comment" : 9,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Special_Duck_7842",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:40:05",
-    "Body" : "Prostě zkus olíznout silnici."
+    "body" : "Prostě zkus olíznout silnici.",
+    "username" : "Special_Duck_7842",
+    "timestamp" : "2024-12-23 11:40:05"
   }, {
-    "Username" : "cactuscore",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:51:02",
-    "Body" : "Cesty v správe ŘSD, teda I.trieda a diaľnice sú solené. ŘSD má údržbovú aplikáciu: https://udrzba.rsd.cz/."
+    "body" : "Cesty v správe ŘSD, teda I.trieda a diaľnice sú solené. ŘSD má údržbovú aplikáciu: https://udrzba.rsd.cz/.",
+    "username" : "cactuscore",
+    "timestamp" : "2024-12-23 12:51:02"
   }, {
-    "Username" : "but_you_did_die",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 11:43:11",
-    "Body" : "Jestli je všude sníh, jenom silnice je \"mokrá\" tak je posolíno."
+    "body" : "Jestli je všude sníh, jenom silnice je \"mokrá\" tak je posolíno.",
+    "username" : "but_you_did_die",
+    "timestamp" : "2024-12-23 11:43:11"
   }, {
-    "Username" : "vlnaa",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:08:41",
-    "Body" : "Můžeš požádat o informace podle zákona č. 106/1999. Žádost musíš směřovat na správnou entitu, například ŘSD, kraje nebo obce. Odpověď dostaneš do 15 dní."
+    "body" : "Můžeš požádat o informace podle zákona č. 106/1999. Žádost musíš směřovat na správnou entitu, například ŘSD, kraje nebo obce. Odpověď dostaneš do 15 dní.",
+    "username" : "vlnaa",
+    "timestamp" : "2024-12-23 13:08:41"
   }, {
-    "Username" : "pavelioso",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:07:31",
-    "Body" : "V beznadeji jsem to i (pred par lidma) udelal, a bylo to trochu slane. Pro zkousku jsem take vzal dalsi vzorek z jine casti me ruky, ktera byla take slana, mozna mene, coz me uvedlo k tomu ze je asi jednodussi nakonec zavolat na RSD a zeptat se - kde mi bylo sdeleno ze ano, dneska rano bylo vse posoleno."
+    "body" : "V beznadeji jsem to i (pred par lidma) udelal, a bylo to trochu slane. Pro zkousku jsem take vzal dalsi vzorek z jine casti me ruky, ktera byla take slana, mozna mene, coz me uvedlo k tomu ze je asi jednodussi nakonec zavolat na RSD a zeptat se - kde mi bylo sdeleno ze ano, dneska rano bylo vse posoleno.",
+    "username" : "pavelioso",
+    "timestamp" : "2024-12-23 14:07:31"
   }, {
-    "Username" : "VanDerWallas",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:00:46",
-    "Body" : "Actually odpověď k věci! Jsem v šoku 😂"
+    "body" : "Actually odpověď k věci! Jsem v šoku 😂",
+    "username" : "VanDerWallas",
+    "timestamp" : "2024-12-23 13:00:46"
   }, {
-    "Username" : "pavelioso",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:01:58",
-    "Body" : "Dekuji moc za link. Zavolal jsem na RSD, a ano, dneska rano bylo posoleno."
+    "body" : "Dekuji moc za link. Zavolal jsem na RSD, a ano, dneska rano bylo posoleno.",
+    "username" : "pavelioso",
+    "timestamp" : "2024-12-23 14:01:58"
   }, {
-    "Username" : "pavelioso",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:59:44",
-    "Body" : "Delaji udajne preventivni soleni, coz dneska se tak stalo."
+    "body" : "Delaji udajne preventivni soleni, coz dneska se tak stalo.",
+    "username" : "pavelioso",
+    "timestamp" : "2024-12-23 13:59:44"
   }, {
-    "Username" : "pavelioso",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:57:09",
-    "Body" : "Dekuji. Zavolal jsem na RSD, a ano, dneska silnice byli poprve posolene."
+    "body" : "Dekuji. Zavolal jsem na RSD, a ano, dneska silnice byli poprve posolene.",
+    "username" : "pavelioso",
+    "timestamp" : "2024-12-23 13:57:09"
   } ]
 }

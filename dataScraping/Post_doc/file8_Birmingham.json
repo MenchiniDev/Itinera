@@ -1,110 +1,110 @@
 {
-  "Id" : 200365,
-  "Community_name" : "Birmingham",
-  "Username" : "BushLeagueQuant",
-  "Post_body" : "Blue Street Lights",
-  "Timestamp" : "2024-12-23 06:30:37",
-  "Num_comment" : 20,
+  "id" : 200365,
+  "community_name" : "Birmingham",
+  "username" : "BushLeagueQuant",
+  "post_body" : "Blue Street Lights",
+  "timestamp" : "2024-12-23 06:30:37",
+  "num_comment" : 20,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "savoryreflex",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 06:53:46",
-    "Body" : "Defective LEDs. Still cool. Wish we could paint our night roads with beauty and do this on purpose"
+    "body" : "Defective LEDs. Still cool. Wish we could paint our night roads with beauty and do this on purpose",
+    "username" : "savoryreflex",
+    "timestamp" : "2024-12-23 06:53:46"
   }, {
-    "Username" : "EH_Operator",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:46:29",
-    "Body" : "There is an apt complex in Gardendale… I think around where Stouts Rd turns into Main St but I can’t remember. If I pass it again I’ll re-comment."
+    "body" : "There is an apt complex in Gardendale… I think around where Stouts Rd turns into Main St but I can’t remember. If I pass it again I’ll re-comment.",
+    "username" : "EH_Operator",
+    "timestamp" : "2024-12-23 07:46:29"
   }, {
-    "Username" : "Kilomona",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:10:33",
-    "Body" : "12th court N and 12th St N, in fountain heights. Somewhere near that intersection."
+    "body" : "12th court N and 12th St N, in fountain heights. Somewhere near that intersection.",
+    "username" : "Kilomona",
+    "timestamp" : "2024-12-23 08:10:33"
   }, {
-    "Username" : "hwofufrerr",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 06:30:37",
-    "Body" : "I've always wondered why they're popping up"
+    "body" : "I've always wondered why they're popping up",
+    "username" : "hwofufrerr",
+    "timestamp" : "2024-12-23 06:30:37"
   }, {
-    "Username" : "NotFlameRetardant",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:42:19",
-    "Body" : "I'm pretty sure Glen Iris Elementary has a blue/purple degraded street light, I'll try checking it out tonight to confirm"
+    "body" : "I'm pretty sure Glen Iris Elementary has a blue/purple degraded street light, I'll try checking it out tonight to confirm",
+    "username" : "NotFlameRetardant",
+    "timestamp" : "2024-12-23 09:42:19"
   }, {
-    "Username" : "upsetmojo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:55:15",
-    "Body" : "Went to Iceland this year. In Keflavik the street lights are color tinted - very cool. And I imagine it’s nice to see some color in the winter there."
+    "body" : "Went to Iceland this year. In Keflavik the street lights are color tinted - very cool. And I imagine it’s nice to see some color in the winter there.",
+    "username" : "upsetmojo",
+    "timestamp" : "2024-12-23 10:55:15"
   }, {
-    "Username" : "Guilty-Drive-1733",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:54:44",
-    "Body" : "7th Ave S and 36th St the United Way lots all have blue lights."
+    "body" : "7th Ave S and 36th St the United Way lots all have blue lights.",
+    "username" : "Guilty-Drive-1733",
+    "timestamp" : "2024-12-23 13:54:44"
   }, {
-    "Username" : "lBartholomewl",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:46:42",
-    "Body" : "I just pretend I'm in a safe zone in dying light"
+    "body" : "I just pretend I'm in a safe zone in dying light",
+    "username" : "lBartholomewl",
+    "timestamp" : "2024-12-23 13:46:42"
   }, {
-    "Username" : "Apprehensive_Pass636",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:25:04",
-    "Body" : "Good night, good luck"
+    "body" : "Good night, good luck",
+    "username" : "Apprehensive_Pass636",
+    "timestamp" : "2024-12-23 14:25:04"
   }, {
-    "Username" : "Curious-Scientist260",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:24:25",
-    "Body" : "It happens all over the country. If you're curious, here's an explanation of the failure mechanism.\n\nhttps://inside.lighting/news/24-05/heres-why-led-streetlights-are-turning-city-highway-purple"
+    "body" : "It happens all over the country. If you're curious, here's an explanation of the failure mechanism.\n\nhttps://inside.lighting/news/24-05/heres-why-led-streetlights-are-turning-city-highway-purple",
+    "username" : "Curious-Scientist260",
+    "timestamp" : "2024-12-23 15:24:25"
   }, {
-    "Username" : "ConcentrateEmpty711",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:23:54",
-    "Body" : "Woodbrook Apartments"
+    "body" : "Woodbrook Apartments",
+    "username" : "ConcentrateEmpty711",
+    "timestamp" : "2024-12-23 14:23:54"
   }, {
-    "Username" : "BushLeagueQuant",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:56:40",
-    "Body" : "Good info thanks!"
+    "body" : "Good info thanks!",
+    "username" : "BushLeagueQuant",
+    "timestamp" : "2024-12-23 14:56:40"
   }, {
-    "Username" : "BushLeagueQuant",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:58:30",
-    "Body" : "Thanks!"
+    "body" : "Thanks!",
+    "username" : "BushLeagueQuant",
+    "timestamp" : "2024-12-23 14:58:30"
   }, {
-    "Username" : "NetTough7499",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:43:22",
-    "Body" : "These are white LED street lights, but something you may not know is that LEDs can’t be white, LEDs emit only one frequency of light but white is the entire visible spectrum, so what they do is take LEDs that emit ultraviolet light and put them behind a covering of phosphorescent coated material which, when hit with UV light, glows brightly white. The coating is degrading and thus UV light is spilling out, making the area blue/purple"
+    "body" : "These are white LED street lights, but something you may not know is that LEDs can’t be white, LEDs emit only one frequency of light but white is the entire visible spectrum, so what they do is take LEDs that emit ultraviolet light and put them behind a covering of phosphorescent coated material which, when hit with UV light, glows brightly white. The coating is degrading and thus UV light is spilling out, making the area blue/purple",
+    "username" : "NetTough7499",
+    "timestamp" : "2024-12-23 07:43:22"
   }, {
-    "Username" : "BushLeagueQuant",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:59:57",
-    "Body" : "Thanks! St Elias Church has quite a few and they are super close."
+    "body" : "Thanks! St Elias Church has quite a few and they are super close.",
+    "username" : "BushLeagueQuant",
+    "timestamp" : "2024-12-23 14:59:57"
   }, {
-    "Username" : "BushLeagueQuant",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:01:15",
-    "Body" : "Iceland is dope, went back in 2016 and did all of Hwy 1 over a week and half. Planning to go back in the next few years."
+    "body" : "Iceland is dope, went back in 2016 and did all of Hwy 1 over a week and half. Planning to go back in the next few years.",
+    "username" : "BushLeagueQuant",
+    "timestamp" : "2024-12-23 15:01:15"
   }, {
-    "Username" : "BushLeagueQuant",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:06:47",
-    "Body" : "Thanks!"
+    "body" : "Thanks!",
+    "username" : "BushLeagueQuant",
+    "timestamp" : "2024-12-23 15:06:47"
   }, {
-    "Username" : "BushLeagueQuant",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:56:51",
-    "Body" : "Thanks!"
+    "body" : "Thanks!",
+    "username" : "BushLeagueQuant",
+    "timestamp" : "2024-12-23 14:56:51"
   }, {
-    "Username" : "savoryreflex",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 08:48:53",
-    "Body" : "Damn. Who is gonna argue with that?"
+    "body" : "Damn. Who is gonna argue with that?",
+    "username" : "savoryreflex",
+    "timestamp" : "2024-12-23 08:48:53"
   }, {
-    "Username" : "upsetmojo",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 15:12:15",
-    "Body" : "We went in late summer. Weather was great!  Only rained part of 2 days.   Did the Ring Road in 8 days in a camper van."
+    "body" : "We went in late summer. Weather was great!  Only rained part of 2 days.   Did the Ring Road in 8 days in a camper van.",
+    "username" : "upsetmojo",
+    "timestamp" : "2024-12-23 15:12:15"
   } ]
 }

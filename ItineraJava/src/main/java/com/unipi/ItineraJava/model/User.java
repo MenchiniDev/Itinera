@@ -1,21 +1,26 @@
 package com.unipi.ItineraJava.model;
 
 // Necessary imports
-import com.unipi.ItineraJava.service.UserService;
-import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.stereotype.Component;
 
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.unipi.ItineraJava.service.UserService;
+import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import java.util.List;
+
 
 
 // USERS
 @Document(collection = "Users")
 @Component
+@JsonIgnoreProperties({"jwtTokenProvider"}) ///// AGGIUNTO PER FAR FUNZIONARE LOGIN SU SWAGGER
 public class User {
 
+    //@Schema(hidden = true)
     private static JwtTokenProvider jwtTokenProvider;
 
     @Autowired

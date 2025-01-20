@@ -1,40 +1,40 @@
 {
-  "Id" : 200396,
-  "Community_name" : "Ljubljana",
-  "Username" : "Dense_Percentage8005",
-  "Post_body" : "prodajam darilo kartico douglas. vrednost 40€. hmu",
-  "Timestamp" : "2024-12-22 06:20:22",
-  "Num_comment" : 6,
+  "id" : 200396,
+  "community_name" : "Ljubljana",
+  "username" : "Dense_Percentage8005",
+  "post_body" : "prodajam darilo kartico douglas. vrednost 40€. hmu",
+  "timestamp" : "2024-12-22 06:20:22",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "renaulttrucks",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 10:44:47",
-    "Body" : "Dam 50"
+    "body" : "Dam 50",
+    "username" : "renaulttrucks",
+    "timestamp" : "2024-12-22 10:44:47"
   }, {
-    "Username" : "Mammoth-Temporary920",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 06:20:22",
-    "Body" : "kupim za 30€"
+    "body" : "kupim za 30€",
+    "username" : "Mammoth-Temporary920",
+    "timestamp" : "2024-12-22 06:20:22"
   }, {
-    "Username" : "GregaEnigma",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 10:04:20",
-    "Body" : "Js dam 20"
+    "body" : "Js dam 20",
+    "username" : "GregaEnigma",
+    "timestamp" : "2024-12-22 10:04:20"
   }, {
-    "Username" : "kalubasukdeod",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 10:08:26",
-    "Body" : "Dam 2e"
+    "body" : "Dam 2e",
+    "username" : "kalubasukdeod",
+    "timestamp" : "2024-12-23 10:08:26"
   }, {
-    "Username" : "Smooth-Curve-2454",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-22 10:05:21",
-    "Body" : "10 pa roka"
+    "body" : "10 pa roka",
+    "username" : "Smooth-Curve-2454",
+    "timestamp" : "2024-12-22 10:05:21"
   }, {
-    "Username" : "Rambo-Shark6328",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:06:49",
-    "Body" : "Das za 5?"
+    "body" : "Das za 5?",
+    "username" : "Rambo-Shark6328",
+    "timestamp" : "2024-12-23 00:06:49"
   } ]
 }

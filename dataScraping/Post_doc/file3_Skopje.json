@@ -1,10 +1,10 @@
 {
-  "Id" : 200093,
-  "Community_name" : "Skopje",
-  "Username" : "Clean_Patient_5010",
-  "Post_body" : "New year celebration ",
-  "Timestamp" : "2024-04-15 20:01:22",
-  "Num_comment" : 0,
+  "id" : 200093,
+  "community_name" : "Skopje",
+  "username" : "Clean_Patient_5010",
+  "post_body" : "New year celebration ",
+  "timestamp" : "2024-01-10 20:40:55",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

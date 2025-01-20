@@ -1,10 +1,10 @@
 {
-  "Id" : 200331,
-  "Community_name" : "Valencia",
-  "Username" : "AutoModerator",
-  "Post_body" : "Weekly Valencia Q&As and Recommendations: For newcomers, travelers, & residents alike!",
-  "Timestamp" : "2024-04-15 20:22:10",
-  "Num_comment" : 0,
+  "id" : 200331,
+  "community_name" : "Valencia",
+  "username" : "AutoModerator",
+  "post_body" : "Weekly Valencia Q&As and Recommendations: For newcomers, travelers, & residents alike!",
+  "timestamp" : "2024-01-10 21:00:32",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

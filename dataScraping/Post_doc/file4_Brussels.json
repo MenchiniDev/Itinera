@@ -1,40 +1,40 @@
 {
-  "Id" : 200214,
-  "Community_name" : "Brussels",
-  "Username" : "DeathByAzathoth",
-  "Post_body" : "Are there any Ukrainian bars in Brussels?",
-  "Timestamp" : "2024-12-23 00:53:24",
-  "Num_comment" : 6,
+  "id" : 200214,
+  "community_name" : "Brussels",
+  "username" : "DeathByAzathoth",
+  "post_body" : "Are there any Ukrainian bars in Brussels?",
+  "timestamp" : "2024-12-23 00:53:24",
+  "num_comment" : 6,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Th1rt13n",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 07:36:34",
-    "Body" : "Edgar’s flavours is run by a Ukrainian woman. It’s a very nice cocktail bar at Place Stephanie that’s been around for years"
+    "body" : "Edgar’s flavours is run by a Ukrainian woman. It’s a very nice cocktail bar at Place Stephanie that’s been around for years",
+    "username" : "Th1rt13n",
+    "timestamp" : "2024-12-23 07:36:34"
   }, {
-    "Username" : "mokkkko",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:15:48",
-    "Body" : "There are some ukrainian stands on the xmas market (walk down from the central station to grand place)"
+    "body" : "There are some ukrainian stands on the xmas market (walk down from the central station to grand place)",
+    "username" : "mokkkko",
+    "timestamp" : "2024-12-23 01:15:48"
   }, {
-    "Username" : "BKacc",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 00:53:24",
-    "Body" : "Well if you’re in Ukraine I don’t see why you would need Ukrainian bars in Brussels 😂"
+    "body" : "Well if you’re in Ukraine I don’t see why you would need Ukrainian bars in Brussels 😂",
+    "username" : "BKacc",
+    "timestamp" : "2024-12-23 00:53:24"
   }, {
-    "Username" : "Keepforgettinglogin2",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 02:45:15",
-    "Body" : "Will be soon enough. Or Russian, still debating"
+    "body" : "Will be soon enough. Or Russian, still debating",
+    "username" : "Keepforgettinglogin2",
+    "timestamp" : "2024-12-23 02:45:15"
   }, {
-    "Username" : "Elder_Gamer87",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 09:06:47",
-    "Body" : "Was about to say the same thing. Not exactly Ukrainian. But does have some of the country’s themes integrated. And most importantly has some amazing cocktails.\n\nhttps://maps.app.goo.gl/94SPbbPAVa3nmH2SA?g_st=com.google.maps.preview.copy"
+    "body" : "Was about to say the same thing. Not exactly Ukrainian. But does have some of the country’s themes integrated. And most importantly has some amazing cocktails.\n\nhttps://maps.app.goo.gl/94SPbbPAVa3nmH2SA?g_st=com.google.maps.preview.copy",
+    "username" : "Elder_Gamer87",
+    "timestamp" : "2024-12-23 09:06:47"
   }, {
-    "Username" : "DeathByAzathoth",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 01:17:16",
-    "Body" : "Thanks for noticing the mistake, I'm in Brussels 👍"
+    "body" : "Thanks for noticing the mistake, I'm in Brussels 👍",
+    "username" : "DeathByAzathoth",
+    "timestamp" : "2024-12-23 01:17:16"
   } ]
 }

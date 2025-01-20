@@ -1,15 +1,15 @@
 {
-  "Id" : 200459,
-  "City" : "Tirana",
-  "Name" : "Tirana",
-  "Created" : "2024-11-19 11:32:00",
-  "Post" : [ {
-    "User" : "KingOfTheNightfort",
-    "Text" : "Do not ask about illegal stuff. ",
-    "Timestamp" : "2024-11-19 12:32:00"
+  "id" : 200459,
+  "city" : "Tirana",
+  "name" : "Tirana",
+  "created" : "2024-11-19 11:32:00",
+  "post" : [ {
+    "text" : "Do not ask about illegal stuff. ",
+    "user" : "KingOfTheNightfort",
+    "timestamp" : "2024-11-19 12:32:00"
   }, {
-    "User" : "KingOfTheNightfort",
-    "Text" : "A message for turists: DO NOT ASK ABOUT WEED",
-    "Timestamp" : "2024-11-30 15:42:16"
+    "text" : "A message for turists: DO NOT ASK ABOUT WEED",
+    "user" : "KingOfTheNightfort",
+    "timestamp" : "2024-11-30 15:42:16"
   } ]
 }

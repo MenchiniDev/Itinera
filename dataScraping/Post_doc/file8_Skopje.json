@@ -1,10 +1,10 @@
 {
-  "Id" : 200286,
-  "Community_name" : "Skopje",
-  "Username" : "RoninMKD13",
-  "Post_body" : "Филјан?",
-  "Timestamp" : "2024-04-15 20:17:59",
-  "Num_comment" : 0,
+  "id" : 200286,
+  "community_name" : "Skopje",
+  "username" : "RoninMKD13",
+  "post_body" : "Филјан?",
+  "timestamp" : "2024-01-10 20:58:07",
+  "num_comment" : 0,
   "reported_post" : false,
-  "Commenti" : [ ]
+  "commenti" : [ ]
 }

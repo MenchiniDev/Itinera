@@ -1,35 +1,35 @@
 {
-  "Id" : 200195,
-  "Community_name" : "Munich",
-  "Username" : "CiciCasablancas",
-  "Post_body" : "Wo/wie könnte ich in Muc bis morgen noch an dieses französische Maggi-Produkt kommen",
-  "Timestamp" : "2024-12-23 12:47:28",
-  "Num_comment" : 5,
+  "id" : 200195,
+  "community_name" : "Munich",
+  "username" : "CiciCasablancas",
+  "post_body" : "Wo/wie könnte ich in Muc bis morgen noch an dieses französische Maggi-Produkt kommen",
+  "timestamp" : "2024-12-23 12:47:28",
+  "num_comment" : 5,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "Important_Raccoon667",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:47:28",
-    "Body" : "Eine andere Gelatine tut es nicht? Laut Internet sind da noch ein paar andere Zutaten drin, aber nichts, was man nicht selbst noch hinzufügen könnte (MSG/Maggi, Salz, usw.)"
+    "body" : "Eine andere Gelatine tut es nicht? Laut Internet sind da noch ein paar andere Zutaten drin, aber nichts, was man nicht selbst noch hinzufügen könnte (MSG/Maggi, Salz, usw.)",
+    "username" : "Important_Raccoon667",
+    "timestamp" : "2024-12-23 12:47:28"
   }, {
-    "Username" : "SkidZ66",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:49:51",
-    "Body" : "Das ist ganz normales Madeiragelee, nichts anderes als Gelatine, Fleischbrühe und ein bisschen Madeira-Wein (oder Port). Kann man leicht selbst zubereiten."
+    "body" : "Das ist ganz normales Madeiragelee, nichts anderes als Gelatine, Fleischbrühe und ein bisschen Madeira-Wein (oder Port). Kann man leicht selbst zubereiten.",
+    "username" : "SkidZ66",
+    "timestamp" : "2024-12-23 12:49:51"
   }, {
-    "Username" : "CiciCasablancas",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:12:03",
-    "Body" : "Danke - So genau hatte ich es mir noch nicht angeschaut. Ich weiß nur dass sie (eine Dame gehobenen Alters) wohl nur oder ganz besonders darauf schwört. :)"
+    "body" : "Danke - So genau hatte ich es mir noch nicht angeschaut. Ich weiß nur dass sie (eine Dame gehobenen Alters) wohl nur oder ganz besonders darauf schwört. :)",
+    "username" : "CiciCasablancas",
+    "timestamp" : "2024-12-23 13:12:03"
   }, {
-    "Username" : "CiciCasablancas",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 13:13:42",
-    "Body" : "Vielen Dank! Das ist vielleicht wirklich eine gute, einfache Alternative!"
+    "body" : "Vielen Dank! Das ist vielleicht wirklich eine gute, einfache Alternative!",
+    "username" : "CiciCasablancas",
+    "timestamp" : "2024-12-23 13:13:42"
   }, {
-    "Username" : "PuzzleheadedFun5156",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 14:33:42",
-    "Body" : "Fleischbrühe kannst du bei manchen Metzgern fertig in top Qualität kaufen"
+    "body" : "Fleischbrühe kannst du bei manchen Metzgern fertig in top Qualität kaufen",
+    "username" : "PuzzleheadedFun5156",
+    "timestamp" : "2024-12-23 14:33:42"
   } ]
 }

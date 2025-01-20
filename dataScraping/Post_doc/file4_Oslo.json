@@ -1,20 +1,20 @@
 {
-  "Id" : 200228,
-  "Community_name" : "Oslo",
-  "Username" : "Over_Sale7722",
-  "Post_body" : "Skøyteis i Spikersuppa? ",
-  "Timestamp" : "2024-12-23 12:10:43",
-  "Num_comment" : 2,
+  "id" : 200228,
+  "community_name" : "Oslo",
+  "username" : "Over_Sale7722",
+  "post_body" : "Skøyteis i Spikersuppa? ",
+  "timestamp" : "2024-12-23 12:10:43",
+  "num_comment" : 2,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "GrethaThugberg",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:10:43",
-    "Body" : "Ja"
+    "body" : "Ja",
+    "username" : "GrethaThugberg",
+    "timestamp" : "2024-12-23 12:10:43"
   }, {
-    "Username" : "Over_Sale7722",
     "reported_comment" : false,
-    "Timestamp" : "2024-12-23 12:20:49",
-    "Body" : "Takk. Da blir det skøyter og churros."
+    "body" : "Takk. Da blir det skøyter og churros.",
+    "username" : "Over_Sale7722",
+    "timestamp" : "2024-12-23 12:20:49"
   } ]
 }

@@ -1,15 +1,15 @@
 {
-  "Id" : 200012,
-  "Community_name" : "Podgorica",
-  "Username" : "Dry-Meet-9956",
-  "Post_body" : "Im coming to montenegro",
-  "Timestamp" : "2024-08-19 03:10:06",
-  "Num_comment" : 1,
+  "id" : 200012,
+  "community_name" : "Podgorica",
+  "username" : "Dry-Meet-9956",
+  "post_body" : "Im coming to montenegro",
+  "timestamp" : "2024-08-19 03:10:06",
+  "num_comment" : 1,
   "reported_post" : false,
-  "Commenti" : [ {
-    "Username" : "mon10egro",
+  "commenti" : [ {
     "reported_comment" : false,
-    "Timestamp" : "2024-08-19 03:10:06",
-    "Body" : "get lost"
+    "body" : "get lost",
+    "username" : "mon10egro",
+    "timestamp" : "2024-08-19 03:10:06"
   } ]
 }
