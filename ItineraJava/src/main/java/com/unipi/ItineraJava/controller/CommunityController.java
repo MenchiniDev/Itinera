@@ -11,21 +11,12 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestHeader;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import com.unipi.ItineraJava.model.MongoCommunity;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
-import com.unipi.ItineraJava.service.GraphDbService;
 
 @RestController
 @RequestMapping("/Community")
@@ -34,22 +25,23 @@ class CommunityController {
     @Autowired
     private CommunityService communityService;
     @Autowired
-    private GraphDbService graphDbService;
-    @Autowired
     private CommunityRepository mongoCommunityRepository;
 
 
+    // http://localhost:8080/Community
+    // returns all communities with details
     @GetMapping
-    public ResponseEntity<List<MongoCommunity>> getAllCommunityNames() {
+    public ResponseEntity<List<MongoCommunity>> getAllCommunity() {
         List<MongoCommunity> communities = mongoCommunityRepository.findAll();
         System.out.println(communities);
         return ResponseEntity.ok(communities);
     }
 
-
+    // http://localhost:8080/Community/678cf46cfa846e41b24ca5bc
+    // returns the {id} community with all his data
     @GetMapping("/{id}")
     public Optional<MongoCommunity> getCommunityById(@PathVariable String id) {
-        return communityService.findById(id);
+        return ResponseEntity.ok(communityService.findById(id)).getBody();
     }
 
     @GetMapping("/details")

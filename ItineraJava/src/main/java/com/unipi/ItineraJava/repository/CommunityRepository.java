@@ -2,6 +2,7 @@ package com.unipi.ItineraJava.repository;
 
 import com.unipi.ItineraJava.model.MongoCommunity;
 import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
@@ -17,4 +18,8 @@ public interface CommunityRepository extends MongoRepository<MongoCommunity, Str
         Optional<MongoCommunity> findByCityAndName(String city, String name);
 
         MongoCommunity save(MongoCommunity community);
+
+        @Query("{ 'city': { $regex: '^?0$', $options: 'i' } }")
+        Boolean findByCity(String city);
+
 }

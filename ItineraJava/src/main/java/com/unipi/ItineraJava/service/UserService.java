@@ -1,11 +1,14 @@
 package com.unipi.ItineraJava.service;
 
 
+import com.unipi.ItineraJava.model.Last_post;
 import com.unipi.ItineraJava.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.unipi.ItineraJava.model.User;
 
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.Optional;
 
@@ -46,7 +49,23 @@ public class UserService{
         userRepository.updateReportedByUsername(username, reported);
     }
 
-    public Object loadUserByUsername(String username) {
-        return userRepository.findByUsername(username);
+    public User updateLastPost(String username, String postBody) {
+
+
+        User user = userRepository.findByUsername(username)
+                .orElseThrow(() -> new IllegalArgumentException("User not found with username: " + username));
+
+        Last_post lastPost = new Last_post();
+        lastPost.setPost_body(postBody);
+
+        String timestamp = LocalDateTime.now()
+                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+        lastPost.setTimestamp(timestamp);
+
+        user.setLastPost(lastPost);
+
+        return userRepository.save(user);
     }
+
+
 }
