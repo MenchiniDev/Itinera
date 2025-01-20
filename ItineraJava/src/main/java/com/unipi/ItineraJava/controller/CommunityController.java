@@ -3,8 +3,11 @@ package com.unipi.ItineraJava.controller;
 
 import java.util.Date;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 
+
+import com.unipi.ItineraJava.DTO.UserDTO;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
@@ -208,5 +211,30 @@ class CommunityController {
     
         // Se l'utente non è autenticato, restituisce un errore di accesso negato
         return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
+    }
+
+
+    @GetMapping("/showMostActiveUser/{city}")
+    public ResponseEntity<?> getMostActiveUser(@PathVariable String city) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+        String username = authentication.getName();
+        try {
+            String mostActiveUser = communityService.getMostActiveUserByCommunity(username, city);
+            if (mostActiveUser == null) {
+                return ResponseEntity.ok("Nessun utente trovato per la community " + city);
+            }
+            return ResponseEntity.ok(mostActiveUser);
+        } catch (IllegalArgumentException | IllegalStateException ex) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                .body(ex.getMessage());
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the most active user: " + ex.getMessage());
+        }
     }
 }

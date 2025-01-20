@@ -1,8 +1,13 @@
 package com.unipi.ItineraJava.repository;
 
+import java.util.List;
+import java.util.Map;
+
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 import org.springframework.data.neo4j.repository.query.Query;
+import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
+
 
 import com.unipi.ItineraJava.model.CommunityGraph;
 
@@ -33,5 +38,15 @@ public interface CommunityNeo4jRepository extends Neo4jRepository<CommunityGraph
     void deleteJoinToCommunity(String username, String city); 
 
 
+
+
+    @Query("MATCH (c:Community {city: $city})<-[:CONNECTED]-(u:User) " +
+       "OPTIONAL MATCH (u)-[:ASSOCIATED]->(p:Post)-[:ASSOCIATED]->(c) " +
+       "OPTIONAL MATCH (u)-[:COMMENT]->(com:Post)-[:ASSOCIATED]->(c) " +
+       "WITH u, COUNT(DISTINCT p) AS posts, COUNT(DISTINCT com) AS comments " +
+       "RETURN u.username AS username " +
+       "ORDER BY (posts + comments) DESC " +
+       "LIMIT 1")
+    String findMostActiveUserByCommunity(@Param("city") String city);
 
 }

@@ -6,6 +6,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 
 import com.mongodb.client.result.UpdateResult;
@@ -110,6 +111,26 @@ public class CommunityService {
         // (opzionale) Log per debug
         System.out.println("User " + username + " successfully joined community: " + city);
     }
+
+
+    public String getMostActiveUserByCommunity(String username, String city) {
+
+        // Verifica se la community esiste
+        if (!communityNeo4jRepository.existsByCity(city)) {
+            throw new IllegalArgumentException("Community not found: " + city);
+        }
+
+        // Verifica se l'utente è un membro della community
+        if (!communityNeo4jRepository.isAlreadyJoined(username, city)) {
+            throw new IllegalStateException("User " + username + " has not joined the community: " + city);
+        }
+
+        // Recupera l'utente più attivo
+        return communityNeo4jRepository.findMostActiveUserByCommunity(city);
+    }
+
+
+    //////////
 
     public ResponseEntity<String> updateCommunity(String username, String text, String name) {
         try {
