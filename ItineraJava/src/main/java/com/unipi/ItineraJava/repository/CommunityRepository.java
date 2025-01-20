@@ -10,7 +10,11 @@ import java.util.Optional;
 @Repository
 public interface CommunityRepository extends MongoRepository<MongoCommunity, String> {
 
+        void deleteByCity(String city);
+
         List<MongoCommunity> findAll();
 
         Optional<MongoCommunity> findByCityAndName(String city, String name);
+
+        MongoCommunity save(MongoCommunity community);
 }
