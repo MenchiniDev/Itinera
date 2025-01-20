@@ -43,7 +43,7 @@ class CommunityController {
         return ResponseEntity.ok(communities);
     }
 
-    // http://localhost:8080/Community/678cf46cfa846e41b24ca5bc
+    // http://localhost:8080/Community/678e41769d6b117cd029652e
     // returns the {id} community with all his data
     @GetMapping("/{id}")
     public Optional<MongoCommunity> getCommunityById(@PathVariable String id) {
@@ -63,7 +63,8 @@ class CommunityController {
         return null;
     }
 
-    // http://localhost:8080/Community with body
+    // http://localhost:8080/Community
+    //creates a community checking if the admin is sending the request
     @PostMapping
     public ResponseEntity<String> createCommunity(
             @RequestHeader("Authorization") String token,
@@ -84,10 +85,22 @@ class CommunityController {
             return ResponseEntity.status(500).body("Error creating community: " + e.getMessage());
         }
     }
-
+    // http://localhost:8080/Community/Viareggio
+    // deletes a community
     @DeleteMapping("/{name}")
-    public void deleteCommunity(@PathVariable String name) {
-        communityService.deleteByName(name);
+    public ResponseEntity<String> deleteCommunity(@RequestHeader("Authorization") String token,
+                                                  @PathVariable String name) {
+        try {
+            if (User.isAdmin(token)) {
+                communityService.deleteByName(name);
+            } else {
+                return ResponseEntity.status(400).body("User not authenticated as Admin");
+            }
+            return ResponseEntity.ok("Community deleted successfully");
+        }catch(Exception e){
+            return ResponseEntity.status(500).body("Error deleting community: " + e.getMessage());
+        }
+
     }
 
 
