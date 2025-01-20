@@ -5,6 +5,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
+import com.unipi.ItineraJava.model.Comment;
+import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -88,6 +90,27 @@ class CommunityController {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(e.getMessage());
         }
     }
+    @PutMapping("/communities/comment")
+    public ResponseEntity<String> addCommentToPost(
+            @RequestHeader("Authorization") String token,
+            @RequestParam String username,
+            @RequestParam String timestamp,
+            @RequestBody Comment comment) {
+
+        String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
+        if (commenterUsername == null)
+            return ResponseEntity.internalServerError().body("token invalid");
+        Post updatedPost = communityService.addCommentToPost(username, timestamp, commenterUsername, comment);
+
+        if (updatedPost != null) {
+            return ResponseEntity.ok("Commento aggiunto");
+        }
+
+        return ResponseEntity.notFound().build();
+    }
+
+
+
 
 
     // http://localhost:8080/Community

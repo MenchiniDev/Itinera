@@ -23,7 +23,9 @@ public class MongoDBUploader {
         String mongoUri = "mongodb://myUserAdmin:root@localhost:27017/itineraDB?authSource=admin&authMechanism=SCRAM-SHA-1";
         String databaseName = "itineraDB"; // Nome del database
         String collectionName = "Community";   // Nome della collezione
-        String jsonFolderPath = "itinera/dataScraping/Community_doc"; // Percorso dei file JSON
+
+        String jsonFolderPath = "../dataScraping/Community_doc"; // Percorso reale dei file JSON
+
 
         // Connessione a MongoDB
         try (MongoClient mongoClient = getMongoConnection(mongoUri)) {

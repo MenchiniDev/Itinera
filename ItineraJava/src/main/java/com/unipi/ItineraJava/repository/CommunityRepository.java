@@ -1,6 +1,8 @@
 package com.unipi.ItineraJava.repository;
 
 import com.unipi.ItineraJava.model.MongoCommunity;
+import com.unipi.ItineraJava.model.Post;
+import com.unipi.ItineraJava.model.PostSummary;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;
@@ -22,5 +24,6 @@ public interface CommunityRepository extends MongoRepository<MongoCommunity, Str
         @Query("{ 'city': { $regex: '^?0$', $options: 'i' } }")
         Boolean findByCity(String city);
 
-        Boolean updateMongoCommunityByPost();
+
+        Post save(Post post);
 }
