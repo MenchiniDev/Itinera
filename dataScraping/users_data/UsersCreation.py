@@ -46,25 +46,25 @@ def generate_fake_data(input_file, output_file, posts_folder):
                         if latest_timestamp is None or post_timestamp > latest_timestamp:
                             latest_timestamp = post_timestamp
                             latest_post = {
-                                "Post_body": post_data["Post_body"],
-                                "Timestamp": post_data["Timestamp"]
+                                "post_body": post_data["Post_body"],
+                                "timestamp": post_data["Timestamp"]
                             }
 
         # Crea l'oggetto utente
         user = {
-            "Id": current_id,
-            "Username": username,
-            "Email": email,
-            "Password": password,
-            "Created": formatted_date,
-            "Active": True,
-            "Reported": False,
-            "Role": "User"
+            "id": current_id,
+            "username": username,
+            "email": email,
+            "password": password,
+            "created": formatted_date,
+            "active": True,
+            "reported": False,
+            "role": "User"
         }
 
         # Aggiungi il campo Last_post solo se trovato
         if latest_post is not None:
-            user["Last_post"] = latest_post
+            user["last_post"] = latest_post
 
         user_data.append(user)
         print(f"[INFO] Utente {current_id} completato.")
