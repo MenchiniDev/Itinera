@@ -3,15 +3,12 @@ package com.unipi.ItineraJava.model;
 // Necessary imports
 import com.unipi.ItineraJava.service.UserService;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
-import io.jsonwebtoken.Claims;
-import io.jsonwebtoken.Jwts;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
-import java.util.Optional;
 
 
 // USERS
@@ -35,7 +32,7 @@ public class User {
     private String created;
     private boolean active;
     private boolean reported;
-    private List<String> lastPost;
+    private Last_post lastPost;
 
 
 
@@ -87,12 +84,14 @@ public class User {
     public boolean isReported() {
         return reported;
     }
-    public void setLastPost(List<String> lastPost) {
+
+    public void setLastPost(Last_post lastPost) {
         this.lastPost = lastPost;
     }
-    public List<String> getLastPost() {
+    public Last_post getLastPost() {
         return lastPost;
     }
+
     public String getId() {
         return Id;
     }
@@ -133,3 +132,23 @@ public class User {
 
 }
 
+class Last_post {
+    private String Post_body;
+    private String Timestamp;
+
+    public String getPost_body() {
+        return Post_body;
+    }
+
+    public void setPost_body(String post_body) {
+        Post_body = post_body;
+    }
+
+    public String getTimestamp() {
+        return Timestamp;
+    }
+
+    public void setTimestamp(String timestamp) {
+        Timestamp = timestamp;
+    }
+}
