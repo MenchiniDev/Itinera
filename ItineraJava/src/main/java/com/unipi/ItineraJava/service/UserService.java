@@ -32,6 +32,18 @@ public class UserService{
         this.userNeo4jRepository = userNeo4jRepository;
     }
 
+    public static long getNumReview(String username) {
+        return userRepository.countReviewsByUser(username);
+    }
+
+    public static long getPostCount(String username) {
+        return userRepository.countPostsByUser(username);
+    }
+
+    public static long getCommentCount(String username) {
+        return userRepository.countCommentsByUser(username);
+    }
+
     public List<com.unipi.ItineraJava.model.User> findAll() {
         return userRepository.findAll();
     }
@@ -79,7 +91,6 @@ public class UserService{
 
 
     /////GRAPH
-    /// 
     public List<CommunityDTO> getCommunityJoined(String username) {
         List<CommunityDTO> communities = userNeo4jRepository.getCommunityJoined(username);
         communities.forEach(community -> {

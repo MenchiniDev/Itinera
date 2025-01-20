@@ -1,11 +1,16 @@
 package com.unipi.ItineraJava.service;
 
 
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 
+import com.unipi.ItineraJava.model.User;
+import jdk.jfr.Timestamp;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import com.unipi.ItineraJava.exception.ResourceNotFoundException;
@@ -20,6 +25,10 @@ public class CommunityService {
     private CommunityRepository communityRepository;
     @Autowired
     private CommunityNeo4jRepository communityNeo4jRepository;
+    @Autowired
+    private UserService userService;
+    @Autowired
+    private User user;
 
     public Optional<MongoCommunity> findById(String id) {
         return communityRepository.findById(id);
@@ -93,5 +102,34 @@ public class CommunityService {
 
         // (opzionale) Log per debug
         System.out.println("User " + username + " successfully joined community: " + city);
+    }
+
+    public ResponseEntity<String> updateCommunity(String username, String text, String name) {
+        try {
+            Post post = new Post();
+            post.setPost_body(text);
+            post.setCommunity_name(name);
+            post.setUsername(username);
+
+            String currentTimestamp = LocalDateTime.now()
+                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+            post.setTimestamp(currentTimestamp);
+
+            post.setNum_comment(0);
+            post.setReported_post(false);
+            post.setComment(null);
+            userService.updateLastPost(username,post.getPost_body());
+            if (communityRepository.updateMongoCommunityByPost())
+                return ResponseEntity.ok("post created");
+            else
+                return ResponseEntity.internalServerError().body("error creating post");
+        }catch (Exception e) {
+            return ResponseEntity.internalServerError().body("error creating post");
+        }
+
+    }
+
+    public boolean existsCommunity(String name) {
+        return communityRepository.findByCity(name);
     }
 }
