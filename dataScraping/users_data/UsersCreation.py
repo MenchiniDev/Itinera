@@ -40,19 +40,19 @@ def generate_fake_data(input_file, output_file, posts_folder):
                 with open(file_path, 'r', encoding='utf-8') as post_file:
                     post_data = json.load(post_file)
 
-                    if post_data.get("Username") == username:
+                    if post_data.get("username") == username:
                         # Confronta i timestamp per trovare il più recente
-                        post_timestamp = datetime.strptime(post_data["Timestamp"], "%Y-%m-%d %H:%M:%S")
+                        post_timestamp = datetime.strptime(post_data["timestamp"], "%Y-%m-%d %H:%M:%S")
                         if latest_timestamp is None or post_timestamp > latest_timestamp:
                             latest_timestamp = post_timestamp
                             latest_post = {
-                                "post_body": post_data["Post_body"],
-                                "timestamp": post_data["Timestamp"]
+                                "post_body": post_data["post_body"],
+                                "timestamp": post_data["timestamp"]
                             }
 
         # Crea l'oggetto utente
         user = {
-            "id": current_id,
+            "_id": str(current_id),
             "username": username,
             "email": email,
             "password": password,
