@@ -20,8 +20,8 @@ public interface UserRepository extends MongoRepository<User, String> {
     void updateReportedByUsername(String username, boolean reported);//b
 
     @Aggregation(pipeline = {
-            "{ $match: { 'user': ?0 } }",               // Filtro per l'utente specificato
-            "{ $group: { _id: '$user', reviewCount: { $sum: 1 } } }"  // Conta il numero di recensioni
+            "{ $match: { 'username': ?0 } }",               // Filtro per l'utente specificato
+            "{ $group: { _id: '$username', reviewCount: { $sum: 1 } } }"  // Conta il numero di recensioni
     })
     long countReviewsByUser(String username);
 
