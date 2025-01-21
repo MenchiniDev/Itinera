@@ -1,6 +1,5 @@
 package com.unipi.ItineraJava.controller;
 
-import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.service.ReviewService;
@@ -12,46 +11,44 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/place/review")
+@RequestMapping("/review")
 public class ReviewController {
 
     @Autowired
     private ReviewService reviewService;
-    @Autowired
-    private User user;
+
+
 
     @PostMapping
     public ResponseEntity<String> addReview(
             @RequestHeader("Authorization") String token,
-            @RequestParam String placeId,
-            @RequestParam int stars,
-            @RequestParam String text) {
+            @PathVariable String placeName,
+            @RequestBody int stars,
+            @RequestBody String text) {
         try {
             String username = JwtTokenProvider.getUsernameFromToken(token);
             if(username == null)
                 return ResponseEntity.badRequest().body("invalid token");
-            Review savedReview = reviewService.addReview(username, placeId, stars, text);
+            Review savedReview = reviewService.addReview(username, placeName, stars, text);
             if(savedReview == null)
                 return ResponseEntity.badRequest().body("invalid review");
 
             return ResponseEntity.ok("review correctly saved");
         } catch (IllegalArgumentException e) {
-            // Gestione degli errori di validazione
+            e.printStackTrace();
             return ResponseEntity.badRequest().body(null);
         }
     }
 
-    // http://localhost:8080/place/reviews?city=roma&&category=hotel&&name=x
-    @GetMapping("/reviews")
+    // http://localhost:8080/review?city=roma&&category=hotel&&name=x
+    @GetMapping
     public List<Review> getReviews(
-            @RequestParam String city,
-            @RequestParam String category,
             @RequestParam String name) {
 
-        return ResponseEntity.ok(reviewService.getReviewsByCityCategoryAndName(city, category, name)).getBody();
+        return ResponseEntity.ok(reviewService.getReviewsByName(name)).getBody();
     }
 
-    @PutMapping("report")
+    @PutMapping("/report")
     public ResponseEntity<String> updateReview(
             @RequestHeader("Authorization") String token,
             @RequestBody String timestamp,

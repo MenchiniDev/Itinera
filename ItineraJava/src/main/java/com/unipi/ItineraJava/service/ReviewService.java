@@ -1,19 +1,15 @@
 package com.unipi.ItineraJava.service;
 
-import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import com.unipi.ItineraJava.repository.ReviewRepository;
-import com.unipi.ItineraJava.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import java.security.PrivilegedAction;
 import java.time.Instant;
 import java.util.Comparator;
 import java.util.List;
@@ -75,9 +71,9 @@ public class ReviewService {
         return reviewRepository.findReportedComments();
     }
 
-    public List<Review> getReviewsByCityCategoryAndName(String city, String category, String name) {
+    public List<Review> getReviewsByName(String name) {
         try {
-            List<Review> reviews = reviewRepository.getReviewsByCityCategoryAndName(city, category, name);
+            List<Review> reviews = reviewRepository.findByPlace(name);
             System.out.println(reviews.size());
             return reviews.stream()
                     .sorted(Comparator.comparingInt(Review::getStars).reversed())
