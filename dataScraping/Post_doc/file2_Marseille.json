@@ -1,10 +1,10 @@
 {
   "id" : 200127,
-  "community_name" : "Marseille",
+  "community" : "Marseille",
   "username" : "hybrista",
-  "post_body" : "Help me find two girls which visited Amsterdam last week!",
-  "timestamp" : "2024-11-16 12:15:31",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Help me find two girls which visited Amsterdam last week!",
+  "timestamp" : "2024-11-04T05:59:02Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

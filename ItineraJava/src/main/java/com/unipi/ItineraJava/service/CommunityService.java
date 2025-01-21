@@ -6,13 +6,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 
-import com.mongodb.client.result.UpdateResult;
-import com.unipi.ItineraJava.model.*;
-import com.unipi.ItineraJava.repository.PostRepository;
-import jdk.jfr.Timestamp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
@@ -21,9 +16,15 @@ import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import com.mongodb.client.result.UpdateResult;
 import com.unipi.ItineraJava.exception.ResourceNotFoundException;
+import com.unipi.ItineraJava.model.Comment;
+import com.unipi.ItineraJava.model.MongoCommunity;
+import com.unipi.ItineraJava.model.Post;
+import com.unipi.ItineraJava.model.PostSummary;
 import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
 import com.unipi.ItineraJava.repository.CommunityRepository;
+import com.unipi.ItineraJava.repository.PostRepository;
 
 @Service
 public class CommunityService {
@@ -127,6 +128,15 @@ public class CommunityService {
 
         // Recupera l'utente più attivo
         return communityNeo4jRepository.findMostActiveUserByCommunity(city);
+    }
+
+
+    public String getMostActiveCommunity(){
+        return communityNeo4jRepository.findMostActiveCommunity();
+    }
+
+    public Long getPostCountInCommunity(String city) {
+        return communityNeo4jRepository.countPostsInCommunity(city);
     }
 
 

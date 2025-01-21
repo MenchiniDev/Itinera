@@ -1,45 +1,45 @@
 {
   "id" : 200246,
-  "community_name" : "Rome",
+  "community" : "Rome",
   "username" : "wise_magui",
-  "post_body" : "Almost got robbed! ",
-  "timestamp" : "2024-12-23 03:05:42",
-  "num_comment" : 7,
-  "reported_post" : false,
+  "post" : "Almost got robbed! ",
+  "timestamp" : "2024-12-23T02:05:42Z",
+  "nomment" : 7,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : ">My wife warned me to be careful with my stuff but i left my backpack where it was.\n\nListen to your wife.\n\nIf anyone approaches you unbidden, blank them. If their story doesn't add up, blank them. Don't leave your luggage unattended.",
     "username" : "RomeVacationTips",
-    "timestamp" : "2024-12-23 06:47:29"
+    "timestamp" : "2024-12-23T05:47:29Z"
   }, {
     "reported_comment" : false,
     "body" : "Dude- dont carry a backpack with you. You can wear a man purse- but pay attention to your zippers. Pay attention not to look like a tourist as much as possible and you should be good. Just a matter of not looking like a easy target.",
     "username" : "Vaffanculoatutticiao",
-    "timestamp" : "2024-12-23 03:05:42"
+    "timestamp" : "2024-12-23T02:05:42Z"
   }, {
     "reported_comment" : false,
     "body" : "I carry a backpack with a rat trap inside,  another with dog shit",
     "username" : "Apprehensive-Neck-12",
-    "timestamp" : "2024-12-23 03:47:51"
+    "timestamp" : "2024-12-23T02:47:51Z"
   }, {
     "reported_comment" : false,
     "body" : "You'r absolutely right, i let my guards down at that time, i felt safe inside a quiet and crowded church",
     "username" : "wise_magui",
-    "timestamp" : "2024-12-23 08:25:57"
+    "timestamp" : "2024-12-23T07:25:57Z"
   }, {
     "reported_comment" : false,
     "body" : "I'll do thanks a lot",
     "username" : "wise_magui",
-    "timestamp" : "2024-12-23 03:50:41"
+    "timestamp" : "2024-12-23T02:50:41Z"
   }, {
     "reported_comment" : false,
     "body" : "It's a missing a camera to film their reaction when  they open it 😄",
     "username" : "wise_magui",
-    "timestamp" : "2024-12-23 03:52:03"
+    "timestamp" : "2024-12-23T02:52:03Z"
   }, {
     "reported_comment" : false,
     "body" : "The guys doing the stealing don't care that it's a church and to them tourists are just sheep for slaughter...",
     "username" : "notoriousbgone",
-    "timestamp" : "2024-12-23 08:32:27"
+    "timestamp" : "2024-12-23T07:32:27Z"
   } ]
 }

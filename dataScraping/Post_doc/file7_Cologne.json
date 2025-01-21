@@ -1,35 +1,35 @@
 {
   "id" : 200298,
-  "community_name" : "Cologne",
+  "community" : "Cologne",
   "username" : "NarrowCountry7656",
-  "post_body" : "Winter Club Mate in Köln?",
-  "timestamp" : "2024-12-22 20:15:26",
-  "num_comment" : 5,
-  "reported_post" : false,
+  "post" : "Winter Club Mate in Köln?",
+  "timestamp" : "2024-12-22T19:15:26Z",
+  "nomment" : 5,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Puuuu. \nNoch nie gesehen tatsächlich. \n\nBin mir sicher, dass n großer Rewe deine beste Chance sein könnte. \nAnsonsten vielleicht mal fragen in nem Getränkemarkt, ob die das bestellen können\n\nSorry für die nicht-Antwort",
     "username" : "thorstenofthir",
-    "timestamp" : "2024-12-22 20:15:26"
+    "timestamp" : "2024-12-22T19:15:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Never heard of an American using it as a Cologne but I guess it takes all types. I recommend Gaffel Wies mayself which reminds me to go get another Kasten tomorrow morning.",
     "username" : "Caladeutschian",
-    "timestamp" : "2024-12-23 00:05:02"
+    "timestamp" : "2024-12-22T23:05:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Bei Rewe habe ich es leider nicht gefunden :( schaue noch wo anders. Danke trotzdem!",
     "username" : "NarrowCountry7656",
-    "timestamp" : "2024-12-23 07:43:13"
+    "timestamp" : "2024-12-23T06:43:13Z"
   }, {
     "reported_comment" : false,
     "body" : "Sorry mate I have no idea what do you mean",
     "username" : "NarrowCountry7656",
-    "timestamp" : "2024-12-23 07:42:51"
+    "timestamp" : "2024-12-23T06:42:51Z"
   }, {
     "reported_comment" : false,
     "body" : "He tried to be funny.",
     "username" : "kundensupport",
-    "timestamp" : "2024-12-23 13:21:42"
+    "timestamp" : "2024-12-23T12:21:42Z"
   } ]
 }

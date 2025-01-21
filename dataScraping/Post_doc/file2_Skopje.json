@@ -1,15 +1,15 @@
 {
   "id" : 200056,
-  "community_name" : "Skopje",
+  "community" : "Skopje",
   "username" : "Minimum_Pace_6918",
-  "post_body" : "Tuxedo in skopje?",
-  "timestamp" : "2024-11-29 15:26:29",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Tuxedo in skopje?",
+  "timestamp" : "2024-11-29T14:26:29Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "I like this shop,\n\nTIVES Italian Style\n075 300 066\n\n https://g.co/kgs/AhpktE9\n\nHub's tux for our wedding is super nice.",
     "username" : "No_Blackberry5142",
-    "timestamp" : "2024-11-29 15:26:29"
+    "timestamp" : "2024-11-29T14:26:29Z"
   } ]
 }

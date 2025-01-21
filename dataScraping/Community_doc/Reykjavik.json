@@ -2,14 +2,14 @@
   "id" : 200445,
   "city" : "Reykjavik",
   "name" : "Reykjavik",
-  "created" : "2021-07-28 03:48:57",
+  "created" : "2021-07-28T01:48:57Z",
   "post" : [ {
-    "text" : "Tourists, visitors, people with quick questions. This is your thread - post your questions here",
+    "text" : null,
     "user" : "11MHz",
-    "timestamp" : "2021-07-28 04:48:57"
+    "timestamp" : "2021-07-28T02:48:57Z"
   }, {
-    "text" : "Where to get the metal Christmas stars in everyone’s windows?",
+    "text" : null,
     "user" : "treehugger312",
-    "timestamp" : "2024-11-16 12:24:08"
+    "timestamp" : "2024-11-04T06:08:26Z"
   } ]
 }

@@ -1,15 +1,15 @@
 {
   "id" : 200229,
-  "community_name" : "Vilnius",
+  "community" : "Vilnius",
   "username" : "vat0grafija",
-  "post_body" : "A good dog I photographed today",
-  "timestamp" : "2024-12-22 19:39:29",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "A good dog I photographed today",
+  "timestamp" : "2024-12-22T18:39:29Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Nice cat",
     "username" : "Agitated-League-7331",
-    "timestamp" : "2024-12-22 19:39:29"
+    "timestamp" : "2024-12-22T18:39:29Z"
   } ]
 }

@@ -2,14 +2,14 @@
   "id" : 200437,
   "city" : "Bucharest",
   "name" : "Bucharest",
-  "created" : "2022-04-08 20:34:23",
+  "created" : "2022-04-08T18:34:23Z",
   "post" : [ {
-    "text" : "what area's of Bucharest should a group in their 20's visit during the day, and during the night?",
+    "text" : null,
     "user" : "cestamp",
-    "timestamp" : "2022-04-08 21:34:23"
+    "timestamp" : "2022-04-08T19:34:23Z"
   }, {
-    "text" : "Any good places for a solotraveler to see nature around Bucharest?",
+    "text" : null,
     "user" : "None",
-    "timestamp" : "2022-07-31 16:38:10"
+    "timestamp" : "2022-07-31T14:38:10Z"
   } ]
 }

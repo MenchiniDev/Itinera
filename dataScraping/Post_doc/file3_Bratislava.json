@@ -1,40 +1,40 @@
 {
   "id" : 200054,
-  "community_name" : "Bratislava",
+  "community" : "Bratislava",
   "username" : "thegrinreaper6",
-  "post_body" : "Bratislava on 26th December",
-  "timestamp" : "2024-12-22 10:36:46",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "Bratislava on 26th December",
+  "timestamp" : "2024-12-22T09:36:46Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "yes, its “saint Stefan’s” day so pubs will be open and lots of drinking involved",
     "username" : "KrissieKris",
-    "timestamp" : "2024-12-22 10:36:46"
+    "timestamp" : "2024-12-22T09:36:46Z"
   }, {
     "reported_comment" : false,
     "body" : "But the Christmas market will be closed and during the day most people will be visiting their families... it will be more lively in the afternoon.",
     "username" : "fortuneman7585",
-    "timestamp" : "2024-12-22 13:25:26"
+    "timestamp" : "2024-12-22T12:25:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Stores will be closed, but most Malina supermarkets will be open - [Prevádzky - Potraviny Malina](https://www.malina.sk/).",
     "username" : "LovelehInnit",
-    "timestamp" : "2024-12-22 15:40:25"
+    "timestamp" : "2024-12-22T14:40:25Z"
   }, {
     "reported_comment" : false,
     "body" : "Thank you! This is good to hear!",
     "username" : "thegrinreaper6",
-    "timestamp" : "2024-12-23 08:54:09"
+    "timestamp" : "2024-12-23T07:54:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Ah! As long as everything isn't completely closed, it should be fun to visit! Thank you!",
     "username" : "thegrinreaper6",
-    "timestamp" : "2024-12-23 08:54:53"
+    "timestamp" : "2024-12-23T07:54:53Z"
   }, {
     "reported_comment" : false,
     "body" : "Thank you for this!",
     "username" : "thegrinreaper6",
-    "timestamp" : "2024-12-23 08:55:20"
+    "timestamp" : "2024-12-23T07:55:20Z"
   } ]
 }

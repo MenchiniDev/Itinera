@@ -1,95 +1,95 @@
 {
   "id" : 200375,
-  "community_name" : "Stockholm",
+  "community" : "Stockholm",
   "username" : "jocke75",
-  "post_body" : "Bild jag aldrig sett tidigare... SLUSSEN. Bilden är hittad av Christer Fjellman",
-  "timestamp" : "2024-12-22 16:41:41",
-  "num_comment" : 17,
-  "reported_post" : false,
+  "post" : "Bild jag aldrig sett tidigare... SLUSSEN. Bilden är hittad av Christer Fjellman",
+  "timestamp" : "2024-12-22T15:41:41Z",
+  "nomment" : 17,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Dom pelarna kämpade på bra.",
     "username" : "Hajhand",
-    "timestamp" : "2024-12-22 16:43:36"
+    "timestamp" : "2024-12-22T15:43:36Z"
   }, {
     "reported_comment" : false,
     "body" : "Christer Fjellman?  \n[https://stockholmskallan.stockholm.se/post/32464](https://stockholmskallan.stockholm.se/post/32464)",
     "username" : "AleWi01",
-    "timestamp" : "2024-12-22 16:41:41"
+    "timestamp" : "2024-12-22T15:41:41Z"
   }, {
     "reported_comment" : false,
     "body" : "Huset som hänger ut över spåret är sjömanshemmet.",
     "username" : "Teodolittittare",
-    "timestamp" : "2024-12-22 18:17:38"
+    "timestamp" : "2024-12-22T17:17:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Så snyggt! älskar brutalism",
     "username" : "littleoad_on_reddit",
-    "timestamp" : "2024-12-22 16:46:22"
+    "timestamp" : "2024-12-22T15:46:22Z"
   }, {
     "reported_comment" : false,
     "body" : "Att man inte bytte ut den där loggan tidigare alltså…",
     "username" : "prs1",
-    "timestamp" : "2024-12-22 17:13:31"
+    "timestamp" : "2024-12-22T16:13:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Ja det var han som la upp den i en grupp på facebook.",
     "username" : "jocke75",
-    "timestamp" : "2024-12-22 17:49:53"
+    "timestamp" : "2024-12-22T16:49:53Z"
   }, {
     "reported_comment" : false,
     "body" : "Det fanns massor av olika SS-loggor fram till typ 1995, sedan började man plocka bort dem. Som t.ex. denna, där värnpliktiga t.o.m. hade SS-loggan i metall på uniformerna.\n\nhttps://sv.wikipedia.org/wiki/Infanteriets_stridsskola",
     "username" : "xerberos",
-    "timestamp" : "2024-12-22 18:02:51"
+    "timestamp" : "2024-12-22T17:02:51Z"
   }, {
     "reported_comment" : false,
     "body" : "Vattenverkets gamla logga med fyra hakors fanns på vägbrunnar i gamla stan på några ställen för 25 år sen.",
     "username" : "rrRunkgullet",
-    "timestamp" : "2024-12-22 21:10:56"
+    "timestamp" : "2024-12-22T20:10:56Z"
   }, {
     "reported_comment" : false,
     "body" : "Det finns ju SS loggor och sen finns det ZZ loggor...",
     "username" : "Soft-Vanilla1057",
-    "timestamp" : "2024-12-22 19:45:14"
+    "timestamp" : "2024-12-22T18:45:14Z"
   }, {
     "reported_comment" : false,
     "body" : "Loggan är ju helt sjuk",
     "username" : "waltspalts",
-    "timestamp" : "2024-12-22 17:19:45"
+    "timestamp" : "2024-12-22T16:19:45Z"
   }, {
     "reported_comment" : false,
     "body" : "WTF? Du kreddar \"nån snubbe som la upp det i en facebook-grupp\" istället för fotografen?\n\n\"CC-BY  \nDu får använda materialet fritt om du anger upphov (fotograf, författare, konstnär). \n\n# Fotograf: Ekelund, Gunnar\n\n# Skapad: 14 mars 1959\n\n# Utgiven av Spårvägsmuseet\"",
     "username" : "MaqeSweden",
-    "timestamp" : "2024-12-22 21:08:49"
+    "timestamp" : "2024-12-22T20:08:49Z"
   }, {
     "reported_comment" : false,
     "body" : "Ja men det är ju kombinationen med vingarna som ser ut att vara direkt hämtade från NSDAP-loggan som gör att man höjer på ögonbrynen lite.",
     "username" : "prs1",
-    "timestamp" : "2024-12-22 20:19:12"
+    "timestamp" : "2024-12-22T19:19:12Z"
   }, {
     "reported_comment" : false,
     "body" : "Stockholms Spårvägar - vad är sjukt?",
     "username" : "MaqeSweden",
-    "timestamp" : "2024-12-22 21:09:34"
+    "timestamp" : "2024-12-22T20:09:34Z"
   }, {
     "reported_comment" : false,
     "body" : "Lite svårt att credda en fotograf som jag inte hade nån info om eller hur...Shit, här försöker man bjuda på en sjysst bild så kommer bild-nazisten fram och hoppar på en. Du måste vara väldigt populär på festen ;)",
     "username" : "jocke75",
-    "timestamp" : "2024-12-22 21:41:22"
+    "timestamp" : "2024-12-22T20:41:22Z"
   }, {
     "reported_comment" : false,
     "body" : "Det är ju ett klassiskt vinghjul, en symbol som används för järnväg i hela Europa sedan 1800-talet och gör det fortfarande. Precis allt måste inte feltolkas.",
     "username" : "Abrovinch",
-    "timestamp" : "2024-12-22 22:47:17"
+    "timestamp" : "2024-12-22T21:47:17Z"
   }, {
     "reported_comment" : false,
     "body" : "Dagens lifehack: Om du använder Google Chrome kan du högerklicka på en bild och söka på den - då kan du på bara ett par sekunder ibland hitta mycket mer information än vad som framgår i bilden, t.ex. att den ligger uppe på stockholmskällan med årtal och fotograf. :)",
     "username" : "MaqeSweden",
-    "timestamp" : "2024-12-22 23:37:35"
+    "timestamp" : "2024-12-22T22:37:35Z"
   }, {
     "reported_comment" : false,
     "body" : "Tack för att du påminner mig om varför jag inte gillar människor.",
     "username" : "jocke75",
-    "timestamp" : "2024-12-23 06:20:01"
+    "timestamp" : "2024-12-23T05:20:01Z"
   } ]
 }

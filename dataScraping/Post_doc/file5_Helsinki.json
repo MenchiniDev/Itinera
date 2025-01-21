@@ -1,40 +1,40 @@
 {
   "id" : 200138,
-  "community_name" : "Helsinki",
+  "community" : "Helsinki",
   "username" : "YogurtclosetLocal778",
-  "post_body" : "Eläinlääkäri laskulle",
-  "timestamp" : "2024-12-23 13:29:19",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "Eläinlääkäri laskulle",
+  "timestamp" : "2024-12-23T12:29:19Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Evidensialta ainakin saa. Edellyttää toki myönteisen luottopäätöksen heidän rahoituskumppaniltaan.",
     "username" : "Tulpukka",
-    "timestamp" : "2024-12-23 13:29:19"
+    "timestamp" : "2024-12-23T12:29:19Z"
   }, {
     "reported_comment" : false,
     "body" : "Löysin ell joska saa laskulle ja tälle pöivälle ajan!☺️",
     "username" : "YogurtclosetLocal778",
-    "timestamp" : "2024-12-23 13:53:18"
+    "timestamp" : "2024-12-23T12:53:18Z"
   }, {
     "reported_comment" : false,
     "body" : "Yleensä kannattaa hakea luotto/laina käyntiä varten muualta kuin eläinlääkäriltä. Eläinlääkäriasemilla ei yleensä ole omia rahoituspalveluita, ja jos on niin korot ja ehdot eivät todellakaan ole sieltä parhaasta päästä",
     "username" : "Melodic-Order-5621",
-    "timestamp" : "2024-12-23 13:44:30"
+    "timestamp" : "2024-12-23T12:44:30Z"
   }, {
     "reported_comment" : false,
     "body" : "Viikki",
     "username" : "hupaisasurku",
-    "timestamp" : "2024-12-23 13:51:40"
+    "timestamp" : "2024-12-23T12:51:40Z"
   }, {
     "reported_comment" : false,
     "body" : "Suurimmalla osalla eläinlääkäriasemista on olemassa laskutus-/luottosopimuksia kolmansien osapuolien kautta (Klarnat, Sveat jne).",
     "username" : "whatisitmooncake",
-    "timestamp" : "2024-12-23 13:53:35"
+    "timestamp" : "2024-12-23T12:53:35Z"
   }, {
     "reported_comment" : false,
     "body" : "Ei taida sellaista eläinlääkäriä olla joka laskulla hoitaa. ",
     "username" : "ndrjjhmn",
-    "timestamp" : "2024-12-23 13:42:38"
+    "timestamp" : "2024-12-23T12:42:38Z"
   } ]
 }

@@ -1,155 +1,155 @@
 {
   "id" : 200388,
-  "community_name" : "Copenhagen",
+  "community" : "Copenhagen",
   "username" : "AccomplishedAd2396",
-  "post_body" : "How does second-hand shops here survive the rent prices?",
-  "timestamp" : "2024-12-23 01:47:45",
-  "num_comment" : 29,
-  "reported_post" : false,
+  "post" : "How does second-hand shops here survive the rent prices?",
+  "timestamp" : "2024-12-23T00:47:45Z",
+  "nomment" : 29,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "I think you should go talk to some shopowners. Its a very specific business, and its hard to guess. \n\nAlso I don't think you need to be on a good shoppingstreet, you cater to a specific clientele, they will come find you as long as you pop up on Google maps and do some advertising, especially if you do a niche. \n\nHave you thought about starting on one of the many loppemarked to get a feel of the market.",
     "username" : "SolarSalmon",
-    "timestamp" : "2024-12-23 08:50:20"
+    "timestamp" : "2024-12-23T07:50:20Z"
   }, {
     "reported_comment" : false,
     "body" : "The second hand shops aren’t profitable.  They rely on financial support from the owner’s spouse who is typically quite successful.",
     "username" : "quaid31",
-    "timestamp" : "2024-12-23 03:53:08"
+    "timestamp" : "2024-12-23T02:53:08Z"
   }, {
     "reported_comment" : false,
     "body" : "Most are charities, but for the commercial ones my guess is that they have very low rent, because they've been there since rents were less unfair or they've been lucky and gotten low rent in a co-op because it's been difficult to rent out the space.\n\nIt's really ridiculous that there are lots of empty shops on strøget (almost tumbleweed level in some parts), but prices are still sky high.\n\nI'd try contacting some of the business real estate agents and asking them. You might be able to get a short term lease at a reduced price. That's what an acquaintance did for a pop-up.",
     "username" : "56KandFalling",
-    "timestamp" : "2024-12-23 09:58:15"
+    "timestamp" : "2024-12-23T08:58:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Money laundering",
     "username" : "EmptySoulCanister",
-    "timestamp" : "2024-12-23 12:08:04"
+    "timestamp" : "2024-12-23T11:08:04Z"
   }, {
     "reported_comment" : false,
     "body" : "Some are run be volunteers",
     "username" : "aKirkeskov",
-    "timestamp" : "2024-12-23 07:39:58"
+    "timestamp" : "2024-12-23T06:39:58Z"
   }, {
     "reported_comment" : false,
     "body" : "They sell sex in the backrooms.",
     "username" : "Like-A-Greek-God",
-    "timestamp" : "2024-12-23 01:47:45"
+    "timestamp" : "2024-12-23T00:47:45Z"
   }, {
     "reported_comment" : false,
     "body" : "They are run by volunteers. They don't pay VAT. I still thought that they would get reduced rent or similar, but I can't find anything to support that.",
     "username" : "annagram_dk",
-    "timestamp" : "2024-12-23 10:03:47"
+    "timestamp" : "2024-12-23T09:03:47Z"
   }, {
     "reported_comment" : false,
     "body" : "Some of the housing associations have implemented internal laws that they have to lease out x anount of the living area, and sometimes they cannot ajust the rent without changing the rules thus making it more expensive for everyone - hence some shops are allowed to rent for much cheaper than the market price",
     "username" : "mathe1337",
-    "timestamp" : "2024-12-23 11:53:56"
+    "timestamp" : "2024-12-23T10:53:56Z"
   }, {
     "reported_comment" : false,
     "body" : "Unless you’re selling desirable high end vintage that has a ready market with deep pockets, it’s best to stay away from ‘good’ shopping streets. I look for the best 2nd hand shops on side streets, in suburban shopping centres, and in satellite clumps of oddball stores away from the center.",
     "username" : "Senior-Reality-25",
-    "timestamp" : "2024-12-23 12:43:18"
+    "timestamp" : "2024-12-23T11:43:18Z"
   }, {
     "reported_comment" : false,
     "body" : "Most of them are non profits / donation based like røde kors",
     "username" : "Vacivity95",
-    "timestamp" : "2024-12-23 03:42:17"
+    "timestamp" : "2024-12-23T02:42:17Z"
   }, {
     "reported_comment" : false,
     "body" : "I doubt second hand is 'good business'.",
     "username" : "HypothermiaDK",
-    "timestamp" : "2024-12-23 13:25:27"
+    "timestamp" : "2024-12-23T12:25:27Z"
   }, {
     "reported_comment" : false,
     "body" : "If you’re in a niche, check out niche shops. Like Ruben og Bobby. They cater to their loyal customers in all kinds of ways, have several services along with selling used niche stuff. Even though the services are ver different, they all appeal to the same “audience”.\n\nNeighborhood matters. Nørrebro is a good spot for some kinds of vintage, Frederiksberg and Vesterbro for other kinds. Usually, it’s a specific street. Selling expensive art? Go for Store Kongensgade.",
     "username" : "nyd5mu3",
-    "timestamp" : "2024-12-23 14:16:39"
+    "timestamp" : "2024-12-23T13:16:39Z"
   }, {
     "reported_comment" : false,
     "body" : "The sell used clothes for a higher price than new clothes.",
     "username" : "Plastic_Friendship55",
-    "timestamp" : "2024-12-23 08:17:25"
+    "timestamp" : "2024-12-23T07:17:25Z"
   }, {
     "reported_comment" : false,
     "body" : "This is the way. There are also sometimes more biz models than you might realize. Eg renting clothes for media or specific events, repairs, and other kinds of consulting. Doing a small thing like Solar suggests will give you a glimpse into the process and viability.",
     "username" : "readywater",
-    "timestamp" : "2024-12-23 09:16:04"
+    "timestamp" : "2024-12-23T08:16:04Z"
   }, {
     "reported_comment" : false,
     "body" : "Is this a known fact or a guess? I know a few second hand shops like Quriosa that has been in business for a long time and they seem to be thriving?",
     "username" : "coindrop",
-    "timestamp" : "2024-12-23 07:45:37"
+    "timestamp" : "2024-12-23T06:45:37Z"
   }, {
     "reported_comment" : false,
     "body" : "That's not correct, that's only the ones run by charities. The hip second hand shops are definitely for-profit. And, technically, antique shops are second hand shops too.",
     "username" : "56KandFalling",
-    "timestamp" : "2024-12-23 10:02:06"
+    "timestamp" : "2024-12-23T09:02:06Z"
   }, {
     "reported_comment" : false,
     "body" : "True in some cases indeed. For many well off individuals where only one is working, it is cheaper to run a business that takes a yearly loss rather than letting the non-working partner do “stay at home” which often entails wasted money on large personal purchases. Spoke with a couple of contractors doing work for people in the northern suburbs of Copenhagen and they experienced it too. Fascinating really.",
     "username" : "OriginalXX",
-    "timestamp" : "2024-12-23 12:50:53"
+    "timestamp" : "2024-12-23T11:50:53Z"
   }, {
     "reported_comment" : false,
     "body" : "And/or *parents",
     "username" : "Acidolph",
-    "timestamp" : "2024-12-23 07:20:23"
+    "timestamp" : "2024-12-23T06:20:23Z"
   }, {
     "reported_comment" : false,
     "body" : "never heard of this before",
     "username" : "brwnx",
-    "timestamp" : "2024-12-23 08:53:19"
+    "timestamp" : "2024-12-23T07:53:19Z"
   }, {
     "reported_comment" : false,
     "body" : "Thrift sex?",
     "username" : "rockmus",
-    "timestamp" : "2024-12-23 12:38:36"
+    "timestamp" : "2024-12-23T11:38:36Z"
   }, {
     "reported_comment" : false,
     "body" : "Amen to that",
     "username" : "fantastiskelars",
-    "timestamp" : "2024-12-23 01:54:59"
+    "timestamp" : "2024-12-23T00:54:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Usename .. you know the drill\n🎄😘",
     "username" : "TrumpetsNAngels",
-    "timestamp" : "2024-12-23 02:32:01"
+    "timestamp" : "2024-12-23T01:32:01Z"
   }, {
     "reported_comment" : false,
     "body" : "You mean others are actually getting paid for this ?",
     "username" : "Mammoth-Divide8338",
-    "timestamp" : "2024-12-23 06:11:38"
+    "timestamp" : "2024-12-23T05:11:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Yes the shitty ones with foreign owners/staff where the window displays never change or the widows are completely covered in clothes (in a very unaesthetic way) are brothels",
     "username" : "Ok-Platypus3818",
-    "timestamp" : "2024-12-23 06:52:58"
+    "timestamp" : "2024-12-23T05:52:58Z"
   }, {
     "reported_comment" : false,
     "body" : "Quriosa has a large SoMe presence and were part of a long running tv show about 2nd hand pickers. And he’s very talented.",
     "username" : "BuckDollar",
-    "timestamp" : "2024-12-23 10:06:48"
+    "timestamp" : "2024-12-23T09:06:48Z"
   }, {
     "reported_comment" : false,
     "body" : "I also recall from the tv show that he buys and sells stuff, that never necessarily make it to the shop",
     "username" : "Tiffana",
-    "timestamp" : "2024-12-23 12:29:12"
+    "timestamp" : "2024-12-23T11:29:12Z"
   }, {
     "reported_comment" : false,
     "body" : "SoMe?",
     "username" : "LovelyCushiondHeader",
-    "timestamp" : "2024-12-23 13:23:59"
+    "timestamp" : "2024-12-23T12:23:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Social Media:)",
     "username" : "BuckDollar",
-    "timestamp" : "2024-12-23 13:29:52"
+    "timestamp" : "2024-12-23T12:29:52Z"
   }, {
     "reported_comment" : false,
     "body" : "Social media",
     "username" : "Mysterious_Yam_3052",
-    "timestamp" : "2024-12-23 13:30:42"
+    "timestamp" : "2024-12-23T12:30:42Z"
   } ]
 }

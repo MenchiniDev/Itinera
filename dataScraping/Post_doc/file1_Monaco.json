@@ -1,40 +1,40 @@
 {
   "id" : 200045,
-  "community_name" : "Monaco",
+  "community" : "Monaco",
   "username" : "mvmisha",
-  "post_body" : "Monaco from above ",
-  "timestamp" : "2024-12-22 17:20:54",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "Monaco from above ",
+  "timestamp" : "2024-12-22T16:20:54Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Damn. Its superbeb, but where's the lambos, Bugattis and Ferraris at? 😂",
     "username" : "Ruvik_666",
-    "timestamp" : "2024-12-22 17:20:54"
+    "timestamp" : "2024-12-22T16:20:54Z"
   }, {
     "reported_comment" : false,
     "body" : "That zoom is incredible, what phone or camera did you use?",
     "username" : "Maxomans",
-    "timestamp" : "2024-12-23 13:17:15"
+    "timestamp" : "2024-12-23T12:17:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Hahah, you can see an 812 Competizione A in the second photo",
     "username" : "mvmisha",
-    "timestamp" : "2024-12-22 17:27:51"
+    "timestamp" : "2024-12-22T16:27:51Z"
   }, {
     "reported_comment" : false,
     "body" : "iPhone 16PM, and yeah the 5x does wonders when the camera app decides to use it instead of doing a digital zoom",
     "username" : "mvmisha",
-    "timestamp" : "2024-12-23 14:58:00"
+    "timestamp" : "2024-12-23T13:58:00Z"
   }, {
     "reported_comment" : false,
     "body" : "Damn, good eye",
     "username" : "Badboynerd999",
-    "timestamp" : "2024-12-23 12:33:54"
+    "timestamp" : "2024-12-23T11:33:54Z"
   }, {
     "reported_comment" : false,
     "body" : "Naaaah, I wish\n\nI was there short before taking the picture here, https://www.reddit.com/r/Ferrari/s/ta4GxparcC",
     "username" : "mvmisha",
-    "timestamp" : "2024-12-23 12:35:04"
+    "timestamp" : "2024-12-23T11:35:04Z"
   } ]
 }

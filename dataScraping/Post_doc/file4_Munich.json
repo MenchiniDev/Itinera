@@ -1,35 +1,35 @@
 {
   "id" : 200137,
-  "community_name" : "Munich",
+  "community" : "Munich",
   "username" : "mcqueenvh",
-  "post_body" : "Best of EGYM Wellpass in Munich?",
-  "timestamp" : "2024-12-23 13:27:19",
-  "num_comment" : 5,
-  "reported_post" : false,
+  "post" : "Best of EGYM Wellpass in Munich?",
+  "timestamp" : "2024-12-23T12:27:19Z",
+  "nomment" : 5,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Body and Soul offers saunas and pools, they have several locations in the south",
     "username" : "CottonSlayerDIY",
-    "timestamp" : "2024-12-23 13:41:04"
+    "timestamp" : "2024-12-23T12:41:04Z"
   }, {
     "reported_comment" : false,
     "body" : "IsarSpa, there‘s a pool, sauna and steam bath beside the gym. Go there for a Spa Day!! 🧖‍♀️",
     "username" : "OkEstablishment8149",
-    "timestamp" : "2024-12-23 13:27:19"
+    "timestamp" : "2024-12-23T12:27:19Z"
   }, {
     "reported_comment" : false,
     "body" : "Oh and Elements I think",
     "username" : "CottonSlayerDIY",
-    "timestamp" : "2024-12-23 13:41:21"
+    "timestamp" : "2024-12-23T12:41:21Z"
   }, {
     "reported_comment" : false,
     "body" : "read the comments on google about body and soul Sendling",
     "username" : "ritornelli",
-    "timestamp" : "2024-12-23 14:20:09"
+    "timestamp" : "2024-12-23T13:20:09Z"
   }, {
     "reported_comment" : false,
     "body" : "which ones do you mean in particular?",
     "username" : "Necessary-Low-5226",
-    "timestamp" : "2024-12-23 14:50:14"
+    "timestamp" : "2024-12-23T13:50:14Z"
   } ]
 }

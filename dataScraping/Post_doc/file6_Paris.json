@@ -1,545 +1,545 @@
 {
   "id" : 200269,
-  "community_name" : "Paris",
+  "community" : "Paris",
   "username" : "chou-coco",
-  "post_body" : "La population ne cesse de baisser à Paris année après année : pour l'Insee, il y a trois causes principale",
-  "timestamp" : "2024-12-22 12:49:19",
-  "num_comment" : 107,
-  "reported_post" : false,
+  "post" : "La population ne cesse de baisser à Paris année après année : pour l'Insee, il y a trois causes principale",
+  "timestamp" : "2024-12-22T11:49:19Z",
+  "nomment" : 107,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "TLDR : Le prix de l’immobilier, l’arrivée d’un enfant et la recherche d’un autre cadre de vie depuis le COVID. \nLa population de Paris diminue mais celle des départements limitrophes augmentent.",
     "username" : "Spartl",
-    "timestamp" : "2024-12-22 13:03:12"
+    "timestamp" : "2024-12-22T12:03:12Z"
   }, {
     "reported_comment" : false,
     "body" : "Y’a quand même un truc que je capte pas. On dit que la population « quitte » Paris mais les logements restent saturés ? Y’a qu’à voir les files d’attentes pour un studio/2 pièces toujours aussi longues, donc la demande reste à peu près la meme.\n\nSoit il y a une part plus importante de logements vacants ou airbnb, soit l’exil des parisiens concernent des retraités / très riches qui pouvaient se permettre d’avoir des apparts gigantesques bien trop chers pour Le Parisien moyen.\n\nC’était mon analyse de comptoir PMU.",
     "username" : "turlututou",
-    "timestamp" : "2024-12-22 13:16:02"
+    "timestamp" : "2024-12-22T12:16:02Z"
   }, {
     "reported_comment" : false,
     "body" : "les riches sont de plus en plus riches et les gens normaux n’ont plus les moyens de vivre en ville",
     "username" : "nicol9",
-    "timestamp" : "2024-12-22 13:01:46"
+    "timestamp" : "2024-12-22T12:01:46Z"
   }, {
     "reported_comment" : false,
     "body" : "\"L’association « villes et villages où il fait bon vivre » classe la capitale 103e sur 34 808 communes de France métropolitaine, la boutant ainsi du Top 100. \n\nAu 91e rang en 2023, la Ville lumière se place désormais derrière Cergy (99e), Poissy (100e), Troyes (101e) et Sartrouville (102e), notamment. \"\n\nCertes, Paris n'a pas l'aura de Cergy ou Sartrouville, mais 103 sur 34 000, ce n'est pas si mal.",
     "username" : "ThierryParis",
-    "timestamp" : "2024-12-22 13:06:02"
+    "timestamp" : "2024-12-22T12:06:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Bon ben tant mieux si la population parisienne baisse, on va pas s'en plaindre vu la densite de cette ville\n\nEnsuite, est-ce qu'elle baisse vraiment si on compte tous les touristes ?\n\nEt puis c'est logique que la population Paris Intra-Muros baisse si la population de la proche banlieue augmente, du coup la population de la megalopole ile de france continue a augmenter",
     "username" : "EiffelPower76",
-    "timestamp" : "2024-12-22 21:58:20"
+    "timestamp" : "2024-12-22T20:58:20Z"
   }, {
     "reported_comment" : false,
     "body" : "Ces provinciaux qui retournent chez eux… Remettez-nous les murs autour de la ville que l'on taxe ces migrants qui exploitent la ville sans l'aimer.",
     "username" : "ClarkSebat",
-    "timestamp" : "2024-12-22 12:57:25"
+    "timestamp" : "2024-12-22T11:57:25Z"
   }, {
     "reported_comment" : false,
     "body" : "Sans blague ?",
     "username" : "kqih",
-    "timestamp" : "2024-12-22 15:19:11"
+    "timestamp" : "2024-12-22T14:19:11Z"
   }, {
     "reported_comment" : false,
     "body" : "En tant que parisien heureux d'être à Paris qui compte bien y rester, je sais pas comment me positionner là dessus.\n\nD'un côté si moins de gens on peut imaginer que l'immobilier baisse et que les transports soient moins remplis, une ville avec moins d'habitants c'est plus confortable. Mais ça signifie aussi moins de recettes fiscales pour la ville ce qui est embêtant et nuira à la qualité des services...",
     "username" : "LeRaminagrobis",
-    "timestamp" : "2024-12-22 18:06:33"
+    "timestamp" : "2024-12-22T17:06:33Z"
   }, {
     "reported_comment" : false,
     "body" : "Mais au moins les touristes sont bien au chaud, est-ce que c'est pas ça le plus important au fond ?",
     "username" : "RubberDuck404",
-    "timestamp" : "2024-12-22 19:18:42"
+    "timestamp" : "2024-12-22T18:18:42Z"
   }, {
     "reported_comment" : false,
     "body" : "N'importe quoi comme analyse. Si la population chutait du fait d'un desamour les prix baisseraient sensiblement, ce n'est pas le cas. \n\nCela ne laisse que 2 explications :\n- le nombre de personnes par logement baisse (moins de familles, plus de célibataires) \n- le nombre de logements disponibles baisse : air bnb ou investissements immobiliers spéculatifs (sans locataire)",
     "username" : "Horrih",
-    "timestamp" : "2024-12-22 21:24:48"
+    "timestamp" : "2024-12-22T20:24:48Z"
   }, {
     "reported_comment" : false,
     "body" : "Une bonne chose. C'est pet être le moment de faire la décentralisation, la vraie, celle des jobs.",
     "username" : "carkin",
-    "timestamp" : "2024-12-22 22:48:26"
+    "timestamp" : "2024-12-22T21:48:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Les trois causes:  \n  \n1) attaques des pigeons vampires\n\n2) prix d'appart qui dépasse 50,000€ par metre carré\n\n3) pas assez de vin chaud ni marrons grillés l'hiver",
     "username" : "draum_bok",
-    "timestamp" : "2024-12-23 05:49:23"
+    "timestamp" : "2024-12-23T04:49:23Z"
   }, {
     "reported_comment" : false,
     "body" : "Ya pas trois causes, c'est juste l'oseille \n\nA prix similaire personne s'infligerait d'aller s'exfiltrer a 1h30 du centre en transport 2x/jours",
     "username" : "Dildo_Fagginns",
-    "timestamp" : "2024-12-22 14:30:59"
+    "timestamp" : "2024-12-22T13:30:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Paris suit le chemin de toutes les grandes villes mondialisées : un entre soi de gens très riches. On ne parle même plus de classe moyenne supérieure quand il faut débourser 500 K € pour 50 m², c'est à dire un appartement à peine familial. Des très riches et des touristes. \n\nEn visite à Lyon en ce moment, je me suis rendu compte de la bulle speculative parisienne. J'ai trouvé des endroits, des bars et des restos au rapport qualité/prix impensable. Certes Lyon a une tradition gastronomique,  et c'est proche de l'Italie. \n\nMais n'empêche que je n'ai jamais senti à quel point je payais surtout le loyer chaque fois que j'allais manger au resto ou boire un coup à Paris.\n\nOn voit fleurir des endroits neufs, richement décorés, atypiques et hors de prix.",
     "username" : "Juract",
-    "timestamp" : "2024-12-22 14:00:27"
+    "timestamp" : "2024-12-22T13:00:27Z"
   }, {
     "reported_comment" : false,
     "body" : "Quoi, à 1500 boule le T2 de 40m² rempli de cafard, les gens vont voir ailleurs ?\n\n  \nNAN ?",
     "username" : "Automatic_Singer_475",
-    "timestamp" : "2024-12-22 18:46:45"
+    "timestamp" : "2024-12-22T17:46:45Z"
   }, {
     "reported_comment" : false,
     "body" : "L’avenir de Paris c’est les HLM et les ultra-riches ça fait rêver ! En attendant nos banlieues se tapent petit à petit la gentrification et tout les problèmes qui vont avec, les loyers dans ma ville sont quasiment au niveau de ceux de paris maintenant et bien supérieurs pour d’autres banlieues plus proches de la capitale…",
     "username" : "maelblackout",
-    "timestamp" : "2024-12-22 23:49:47"
+    "timestamp" : "2024-12-22T22:49:47Z"
   }, {
     "reported_comment" : false,
     "body" : "je me demande si la qualité des logements ne peut pas être une raison aussi 🤷🏻‍♂️\n\nà Paris intramuros la grande majorité des biens immobiliers sont quand même vraiment vieux.. \n\nEn tout cas pour ma part, cherchant un appartement moderne, c'est une des raisons qui me pousse à chercher aussi en banlieue",
     "username" : "quentinvespero",
-    "timestamp" : "2024-12-23 04:30:22"
+    "timestamp" : "2024-12-23T03:30:22Z"
   }, {
     "reported_comment" : false,
     "body" : "Il faut décentraliser les jobs et mieux réglementer l'accès immobilier vis-à-vis des investisseurs et des étrangers fortunés.\n\nSans oublier les salaires et les loyers...",
     "username" : "MadMass23",
-    "timestamp" : "2024-12-23 11:18:31"
+    "timestamp" : "2024-12-23T10:18:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Laissez moi deviner : c’est sale, pas secu, et ça coûte un bras.",
     "username" : "_Argol_",
-    "timestamp" : "2024-12-22 12:49:19"
+    "timestamp" : "2024-12-22T11:49:19Z"
   }, {
     "reported_comment" : false,
     "body" : "Ville \" froide\" , grise , faussement bienveillante, impersonnelle",
     "username" : "averech",
-    "timestamp" : "2024-12-22 17:50:23"
+    "timestamp" : "2024-12-22T16:50:23Z"
   }, {
     "reported_comment" : false,
     "body" : "50% d'HLM a Paris",
     "username" : "Erythromycine",
-    "timestamp" : "2024-12-22 14:27:51"
+    "timestamp" : "2024-12-22T13:27:51Z"
   }, {
     "reported_comment" : false,
     "body" : "Traduction : le prix de l'immobilier, le prix de l'immobilier et le prix de l'immobilier",
     "username" : "NoPsychology9771",
-    "timestamp" : "2024-12-22 17:07:46"
+    "timestamp" : "2024-12-22T16:07:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Je peu confirmer les raisons dans mon cas, lol",
     "username" : "Meshuggah333",
-    "timestamp" : "2024-12-22 20:26:28"
+    "timestamp" : "2024-12-22T19:26:28Z"
   }, {
     "reported_comment" : false,
     "body" : "interessant a voir comment sa se developpera dans le futur et influencer les prix des logements",
     "username" : "Sea-Management-783",
-    "timestamp" : "2024-12-23 02:14:15"
+    "timestamp" : "2024-12-23T01:14:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Merci la gauche d'avoir transformé cette ville en RBNB.\n\nC'est pas rentable de louer dans cette ville. Tu tombes sur un crevards qui veut pas payer son loyer, tu prends le risque d'avoir des sommes énormes d'impayés car tu peux pas le virer. Avec Rbnb, tu n'as plus ce problème.\n\nEdit; Pour ceux qui sont un peu illettré, je parle de LA GAUCHE. LA GAUCHE POLITIQUE. Pas de la mairie. Merci d'apprendre à lire et faire la différence.",
     "username" : "Cold_War_II",
-    "timestamp" : "2024-12-22 14:41:59"
+    "timestamp" : "2024-12-22T13:41:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Soit les files d'attente devant les logements ont juste diminué de quelques personnes. C'est pas non plus l'effondrement démographique.",
     "username" : "Poopadour",
-    "timestamp" : "2024-12-22 13:19:03"
+    "timestamp" : "2024-12-22T12:19:03Z"
   }, {
     "reported_comment" : false,
     "body" : "Les *familles* quittent Paris. Les couples sans enfants et les jeunes celib' y trouvent encore leur compte.\nDu coup les logements dimensionnés pour les personnes seules ou en couple continuent à être demandés.",
     "username" : "Vrulth",
-    "timestamp" : "2024-12-22 14:36:23"
+    "timestamp" : "2024-12-22T13:36:23Z"
   }, {
     "reported_comment" : false,
     "body" : ">Soit il y a une part plus importante de logements vacants ou airbnb,\n\nDéjà oui, c'est le cas\n\nIl y a aussi 200 000 logements vide",
     "username" : "Capestian",
-    "timestamp" : "2024-12-22 13:20:56"
+    "timestamp" : "2024-12-22T12:20:56Z"
   }, {
     "reported_comment" : false,
     "body" : "Il a beaucoup de logements inoccupés en effet, un peu par air bnb mais beaucoup plus par des résidences secondaires et des purs produits spéculatifs. Par exemple une part non négligeable de ceux qui \"quittent Paris\" gardent un \"pied à terre\" quand ils vont s'installer en province pour le boulot, les études de leurs enfants, etc.",
     "username" : "kpthvnt",
-    "timestamp" : "2024-12-22 13:47:49"
+    "timestamp" : "2024-12-22T12:47:49Z"
   }, {
     "reported_comment" : false,
     "body" : "Il y a aussi un problème de turnover sur la location, depuis la hausse des taux intérêts et la conjecture économique globale, moins de personnes achètent et davantage de personnes restent locataires. Ce qui inévitablement réduit l’offre de logements sur le marché de la location.",
     "username" : "GauthierPlus",
-    "timestamp" : "2024-12-22 13:22:03"
+    "timestamp" : "2024-12-22T12:22:03Z"
   }, {
     "reported_comment" : false,
     "body" : "Les locations saisonnières sont une plaie et ne cessent d'occuper une part de plus en plus importante du parc locatif parisien...\n\nAirBNB se taille la part du lion partout où affluent les touristes.",
     "username" : "Garsbriel",
-    "timestamp" : "2024-12-22 15:17:29"
+    "timestamp" : "2024-12-22T14:17:29Z"
   }, {
     "reported_comment" : false,
     "body" : "Effectivenent, un logement sur cinq est inoccupé à Paris, soit presque 300 000 logements, ce qui contribue largement à la pénurie.",
     "username" : "rosecoloredcat",
-    "timestamp" : "2024-12-22 13:22:55"
+    "timestamp" : "2024-12-22T12:22:55Z"
   }, {
     "reported_comment" : false,
     "body" : "Une famille qui part en banlieue, c'est 3 ou 4 habitants de moins. Un jeune cadre qui arrive, c'est un de plus. Donc au net, c'est une diminution de la population, mais la pression sur les studios ne diminue pas.",
     "username" : "Intrepid_Walk_5150",
-    "timestamp" : "2024-12-22 17:15:21"
+    "timestamp" : "2024-12-22T16:15:21Z"
   }, {
     "reported_comment" : false,
     "body" : "C'est pas du tout une analyse de comptoir PMU. À l'achat comme à la location c'est la ville la plus chère de France. Et à la location, il suffit de laisser une heure ton annonce en ligne pour avoir 100 candidats malgré les prix. \n\nLes deux seules raisons pour lesquelles Paris perd en population c'est: \n- la hausse de la vie en solo \n- la hausse des résidences inhabitées (secondaires, à  location de tourisme voir purement et simplement vides à l'année).",
     "username" : "Odd_Snow_8179",
-    "timestamp" : "2024-12-22 14:17:01"
+    "timestamp" : "2024-12-22T13:17:01Z"
   }, {
     "reported_comment" : false,
     "body" : "Quelques chiffres qui donnent un peu de perspective. \n\nAttention, pour l’INSEE, un logement dit inoccupé = ce n’est pas une résidence principale. Grosse différence avec inoccupé = on peut y loger qqn.\n\nJe comprends qu’une grande part des logements inoccupés sont en “vacance frictionnelle” c’est à dire entre deux habitants. Seuls 1,4% des 260 000 logement sont vides depuis plus de 2 ans.",
     "username" : "trollspirit",
-    "timestamp" : "2024-12-22 16:02:48"
+    "timestamp" : "2024-12-22T15:02:48Z"
   }, {
     "reported_comment" : false,
     "body" : "C'est un article écrit par la ville de Paris donc chacun est libre de le croire ou non, mais il semble qu'il s'agisse d'abord d'une belle augmentation du nombre de logements vacants : https://www.paris.fr/pages/le-boom-des-logements-vacants-accroit-la-baisse-de-la-population-a-paris-29748.\n\nÇa ne risque donc pas de désaturer la demande. À mon humble avis, s'il y avait (avec beaucoup d'imagination) soudainement un million de logements supplémentaires disponibles, ils trouveraient tous des occupants sans le moindre soucis contrairement à ce que certains pensent ici (que c'est par désamour).",
     "username" : "rapsca2",
-    "timestamp" : "2024-12-22 18:21:52"
+    "timestamp" : "2024-12-22T17:21:52Z"
   }, {
     "reported_comment" : false,
     "body" : "Paris est la ville avec le plus de AIRBNB au monde …",
     "username" : "Capital_Adeptness856",
-    "timestamp" : "2024-12-22 20:51:09"
+    "timestamp" : "2024-12-22T19:51:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Y'a des logements vides et qui veut investir à paris pour mettre en loc ? Tu paies 400k un appart pour le louer 1100€/mois, la rentabilité est nulle à chier",
     "username" : "elmojorisin",
-    "timestamp" : "2024-12-22 14:02:20"
+    "timestamp" : "2024-12-22T13:02:20Z"
   }, {
     "reported_comment" : false,
     "body" : "C’est basiquement le phénomène de «de cohabitation ». La diminution progressive du nombre de personnes par foyer, qui entraîne mécaniquement une hausse du nombre de foyer et  donc de la demande de logements. Un couple marié sans enfants : 1 t1 , 1 cuisine 1 salle de bains. Le même couple qui divorce; 2 logements, 2 cuisines, 2 sdb. Mais la population est restée la même.",
     "username" : "fdesouche",
-    "timestamp" : "2024-12-22 23:09:31"
+    "timestamp" : "2024-12-22T22:09:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Alors, je sais que c'est populaire, et relativement vrai quand on parle des ultra-centres-villes et éventuellement de la région parisienne.\n\nMaintenant, sur la plupart des métropoles du pays, c'est plus facile de vivre sur un smic en ville sans voiture que de vivre sur un smic avec une bagnole dans la banlieue éloignée. Lyon, Strasbourg, Lille, Nantes et de nombreuses villes plus petites sont vachement plus abordables que leurs banlieues en pratique.",
     "username" : "MegaMB",
-    "timestamp" : "2024-12-22 14:26:05"
+    "timestamp" : "2024-12-22T13:26:05Z"
   }, {
     "reported_comment" : false,
     "body" : "Qui veut vivre à Cergy sérieusement",
     "username" : "roguy_19",
-    "timestamp" : "2024-12-22 13:38:41"
+    "timestamp" : "2024-12-22T12:38:41Z"
   }, {
     "reported_comment" : false,
     "body" : "Punaise Sartrouville devant Paris, c'est vraiment du flan leur classement (j'habite Sartrouville, le point en sa faveur c'est le prix de l'immobilier)",
     "username" : "NuclearDawa",
-    "timestamp" : "2024-12-22 14:41:43"
+    "timestamp" : "2024-12-22T13:41:43Z"
   }, {
     "reported_comment" : false,
     "body" : "On ne reste pas car on ne peut pas financièrement, si tu n’as pas le patrimoine d’un parisien né, c’est impossible de s’établir pour de bon malgré l’amour qu’on peut porter a la ville :(",
     "username" : "LelouchViMajesti",
-    "timestamp" : "2024-12-22 13:40:27"
+    "timestamp" : "2024-12-22T12:40:27Z"
   }, {
     "reported_comment" : false,
     "body" : "T'as vu la gueule du trou à rats aussi? Quand c'est pas inondé de poubelles, c'est les crottes de chien qui reprennent du terrain. Sans parler de la population, détesté par tous en France comme ailleurs.\n\nSi cette ville n'était pas obligatoire pour certains poste, elle serait sûrement supplanté par d'autres.",
     "username" : "The_Glitter_man",
-    "timestamp" : "2024-12-23 10:07:13"
+    "timestamp" : "2024-12-23T09:07:13Z"
   }, {
     "reported_comment" : false,
     "body" : ">Paris suit le chemin de toutes les grandes villes mondialisées : un entre soi de gens très riches. On ne parle même plus de classe moyenne supérieure quand il faut débourser 500 K € pour 50 m², c'est à dire un appartement à peine familial. Des très riches et des touristes. \n\nOu alors à l'opposé pauvre et chanceux ou connecté, avec un logement social. La classe moyenne par contre, clairement, n'a plus les moyens.",
     "username" : "yet_another_no_name",
-    "timestamp" : "2024-12-22 14:53:40"
+    "timestamp" : "2024-12-22T13:53:40Z"
   }, {
     "reported_comment" : false,
     "body" : "Guess again, champ",
     "username" : "GlimmerChord",
-    "timestamp" : "2024-12-22 12:52:51"
+    "timestamp" : "2024-12-22T11:52:51Z"
   }, {
     "reported_comment" : false,
     "body" : "Réponse de Qwant+\n\n> Proportion de logements HLM à Paris\n\n> Au 1er janvier 2021, 236 748 logements locatifs sociaux étaient recensés à Paris, représentant 20,8 % des résidences principales. En intégrant les logements financés non livrés, le taux de logements sociaux a atteint 24,2 % en 2021.\n\n> Ainsi, la proportion de logements HLM à Paris est de :\n\n>    20,8 % (au 1er janvier 2021)\n\n>    24,2 % (en tenant compte des logements en cours de construction ou en travaux)\n\n> Ces chiffres montrent une volonté d'atteindre l'objectif de 25 % de logements sociaux parmi les résidences principales d'ici 2025, conformément à la loi SRU.\n\nhttps://www.adil75.org/observatoire-du-logement/les-chiffres-cles-du-logement-a-paris/\n\nSans compter le délai d'attente pour obtenir un logement HLM.\n\n> Temps d'attente moyen pour un logement HLM à Paris\n\n> Le temps d'attente moyen pour obtenir un logement HLM à Paris est de 6 à 10 ans. Cette durée peut varier considérablement en fonction de plusieurs facteurs, notamment le type de logement demandé et la situation personnelle du demandeur.\n\n> Il est important de noter que la pénurie de logements sociaux dans la région parisienne contribue à ces délais d'attente particulièrement longs.",
     "username" : "Garsbriel",
-    "timestamp" : "2024-12-22 15:11:04"
+    "timestamp" : "2024-12-22T14:11:04Z"
   }, {
     "reported_comment" : false,
     "body" : "Lol. Tu veux juste maximiser ton blé, donc tu proposes 80€ la nuit au lieu de 900€ par mois. C'est aussi simple.\n\nLa recherche du profit et la propriété privée. Saloperie d'idees de gauche heh\n\n\nEdit : yo wtf Reddit. C'était une réponse à un commentaire qui a eu 160 downvotes ensuite.",
     "username" : "Ythio",
-    "timestamp" : "2024-12-22 17:43:20"
+    "timestamp" : "2024-12-22T16:43:20Z"
   }, {
     "reported_comment" : false,
     "body" : "Mais... ? Paris a des lois différentes du reste de la France en ce qui concerne l'expulsion des mauvais payeurs ?",
     "username" : "Misdow",
-    "timestamp" : "2024-12-22 17:16:38"
+    "timestamp" : "2024-12-22T16:16:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Ouin ouin. La mairie a aussi fait beaucoup de boulot pour limiter les locations « saisonnières », et la hausse de l'immobilier est un phénomène qui se voit ces dernières années dans énormément de grandes villes indépendamment de l'orientation politique de la mairie, c'est un phénomène qui échappe en partie à la mairie.\n\nPar contre, les parisien·nes déclarent une qualité de vie de plus en plus satisfaisante.",
     "username" : "tiph12",
-    "timestamp" : "2024-12-22 15:18:21"
+    "timestamp" : "2024-12-22T14:18:21Z"
   }, {
     "reported_comment" : false,
     "body" : "[removed]",
     "username" : "None",
-    "timestamp" : "2024-12-23 10:02:26"
+    "timestamp" : "2024-12-23T09:02:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Même si la file d’attente est un peu moins longue, au final le logement sera occupé, je ne pense pas que l’offre ait autant baissé",
     "username" : "turlututou",
-    "timestamp" : "2024-12-22 13:35:49"
+    "timestamp" : "2024-12-22T12:35:49Z"
   }, {
     "reported_comment" : false,
     "body" : "Il y a aussi l'effet de tous les logements qui n'ont plus le droit d'être loués, travaux en cours pour améliorer le DPE ou non. Forcément, ça enlève de l'offre.",
     "username" : "yet_another_no_name",
-    "timestamp" : "2024-12-22 14:41:17"
+    "timestamp" : "2024-12-22T13:41:17Z"
   }, {
     "reported_comment" : false,
     "body" : "Bon gateau\n\nDu coup, si les appartements sont occupes par des touristes, c'est aussi une population legitime, puisqu'elle apporte de l'argent a la ville",
     "username" : "EiffelPower76",
-    "timestamp" : "2024-12-22 22:00:45"
+    "timestamp" : "2024-12-22T21:00:45Z"
   }, {
     "reported_comment" : false,
     "body" : "C'est toujours mieux que 0€/mois donc c'est pas très logique comme explication.",
     "username" : "potatoz11",
-    "timestamp" : "2024-12-22 14:37:07"
+    "timestamp" : "2024-12-22T13:37:07Z"
   }, {
     "reported_comment" : false,
     "body" : "Intéressante réflexion.\n\nMais pas sûr parce qu’avec une automobile tu as plus d’opportunités de boulots.\n\nEt le loyer est quand même bien moins élevé dans les\nBleds pomes qu’en métropole, idem pour les charges (nourritures etc.)\n\nÇa se calcule",
     "username" : "Unlikely_Ad5079",
-    "timestamp" : "2024-12-22 14:41:24"
+    "timestamp" : "2024-12-22T13:41:24Z"
   }, {
     "reported_comment" : false,
     "body" : "Je vois ce que tu veux dire mais tu oublies le fait qu'avec un SMIC les proprios regardent même pas ton dossier",
     "username" : "Consul_Firmin",
-    "timestamp" : "2024-12-22 14:41:31"
+    "timestamp" : "2024-12-22T13:41:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Moi.\nJ'y suis très heureuse. Merci.",
     "username" : "Dazzling_Location_11",
-    "timestamp" : "2024-12-22 17:46:12"
+    "timestamp" : "2024-12-22T16:46:12Z"
   }, {
     "reported_comment" : false,
     "body" : "J’habite Pontoise, et entre les étangs, le port, les 3 fontaines et l’UGC je n’ai aucune raison d’aller sur Paris. Sauf pour les concerts à la limite. T’es à deux pas du 27 donc de quoi déconnecter en paix",
     "username" : "International-Bet384",
-    "timestamp" : "2024-12-22 14:29:19"
+    "timestamp" : "2024-12-22T13:29:19Z"
   }, {
     "reported_comment" : false,
     "body" : "J'ai passé toute mon enfance dans le 78 sur le A et je peux confirmer que ça me paraît très surprenant que Paris soit moins bien classé que Sartrouville. Ou même Poissy d'ailleurs, même si c'est un poil mieux que Sartrouville (si on est assez riche pour habiter la partie bords de Seine).",
     "username" : "rapsca2",
-    "timestamp" : "2024-12-22 18:10:00"
+    "timestamp" : "2024-12-22T17:10:00Z"
   }, {
     "reported_comment" : false,
     "body" : "RSA ici.",
     "username" : "ClarkSebat",
-    "timestamp" : "2024-12-22 17:23:00"
+    "timestamp" : "2024-12-22T16:23:00Z"
   }, {
     "reported_comment" : false,
     "body" : "Bah change de poste. Preuve que ce n’est que de l’exploitation",
     "username" : "ClarkSebat",
-    "timestamp" : "2024-12-23 11:07:01"
+    "timestamp" : "2024-12-23T10:07:01Z"
   }, {
     "reported_comment" : false,
     "body" : "Ouais...\n\nEssaye de te loger en HLM à Paris pour très vite changer d'avis. \n\nVoir mon commentaire :\n\nhttps://www.reddit.com/r/paris/s/sTEj0xzaEt\n\nPS : il faut avoir le bras long pour loger dans un appartement de la ville ou un HLM.",
     "username" : "Garsbriel",
-    "timestamp" : "2024-12-22 15:13:38"
+    "timestamp" : "2024-12-22T14:13:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Tu as lu l’article ? Ce qu’il dit fait littéralement partie des raisons évoquées directement ou indirectement.",
     "username" : "turbines_chauffantes",
-    "timestamp" : "2024-12-22 13:03:23"
+    "timestamp" : "2024-12-22T12:03:23Z"
   }, {
     "reported_comment" : false,
     "body" : "Cherches pas, il pense que le RN est centré gauche, y'a rien a en tirer :)",
     "username" : "_IBlameYourMother_",
-    "timestamp" : "2024-12-22 20:59:35"
+    "timestamp" : "2024-12-22T19:59:35Z"
   }, {
     "reported_comment" : false,
     "body" : "Le manque à gagner pour l'absence de paiement d'un appartement est relatif au cout de son loyer. Perdre un loyer à meudon de 800€/mois c'est pas la même chose que perdre un loyer à paris à 3500€/mois.\n\nLe rapport risque est énorme, surtout quand tu peux te servir de ton appartement à Paris pour le mettre en RBNB pour 8000€/mois sans risque, chose que tu peux pas faire avec ton appart à meudon.\n\nDans une France où tu peux virer un mauvais payeur immédiatement, tu n'aurais pas ces problèmes.",
     "username" : "Cold_War_II",
-    "timestamp" : "2024-12-22 23:35:20"
+    "timestamp" : "2024-12-22T22:35:20Z"
   }, {
     "reported_comment" : false,
     "body" : "[removed]",
     "username" : "None",
-    "timestamp" : "2024-12-22 16:19:23"
+    "timestamp" : "2024-12-22T15:19:23Z"
   }, {
     "reported_comment" : false,
     "body" : "🇫🇷 Votre commentaire a été modéré. Merci de garder les discussions le plus cordial possible. r/Paris est un lieu d'entraide et de discussions saines et non d'échanges interposés stériles.\n\n🇬🇧 Your comment has been removed. Please keep the discussion friendly. r/Paris is a place of gathering and helping each other while puerile exchanges are prescribed.\n\n\n\n----------------\n\n^If ^you ^wish ^the ^contact ^the ^moderators, ^you ^can ^do ^so ^via ^[modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fparis).",
     "username" : "paris-ModTeam",
-    "timestamp" : "2024-12-23 10:16:45"
+    "timestamp" : "2024-12-23T09:16:45Z"
   }, {
     "reported_comment" : false,
     "body" : "Ben c'est juste pas rentable. Emprunter 400k ca te coutera pas moins de 1800-2000€/mois, la location te rapportera 1100 - (charges + foncier + agence + travaux), comment te dire que celui qui achète à Paris s'il ne fait pas une pluvalue colossale est en total déficit sur son activité de location. Ou bien les logements baissent de moitié, ou bien il faut louer 2 à 3 fois le prix actuel pour que ce soit un minima intéressant, voir seulement neutre... les prix des biens et des locations sont tellement décorrélés",
     "username" : "elmojorisin",
-    "timestamp" : "2024-12-22 14:39:17"
+    "timestamp" : "2024-12-22T13:39:17Z"
   }, {
     "reported_comment" : false,
     "body" : "Oui et non. Si t'as usage de l'appartement en pied à terre pour toi ou ta famille, ça peut être mieux de ne pas Le louer et l'utiliser comme ça, plutôt que le louer (via une agence qui prendra toute la rentabilité mais pas toutes les emmerdes, évidemment) et devoir gérer tous les problèmes, dont les locataires qui arrêtent de payer et/ou dégradent fortement le logement.",
     "username" : "yet_another_no_name",
-    "timestamp" : "2024-12-22 14:43:59"
+    "timestamp" : "2024-12-22T13:43:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Ouais. Mais dans un pays où le coût médian d'une bagnole est de 600e/mois (achat+garage+essance+assurance+parking etc...), bah si tu te débarasse de ta bagnole et transfère 300e/mois vers ton loyer/abonnement transport en communs, t'auras tendance à être sacrément gagnant en général. \n\nSurtout que quand tu vis pas en bled pommé, tu termines généralement par avoir une quantité importante d'avantages et de servuces publics comme privés qui te font faire tout un tas d'économies. Et sur des charges comme la nourriture, je suis très moyennement d'accord. En particulier à l'ère des too good to go ou des Lidl en ville.",
     "username" : "MegaMB",
-    "timestamp" : "2024-12-22 14:51:14"
+    "timestamp" : "2024-12-22T13:51:14Z"
   }, {
     "reported_comment" : false,
     "body" : "Ouais mais ça c'est le cas partout, urbain ou péri-urbain.",
     "username" : "MegaMB",
-    "timestamp" : "2024-12-22 14:52:00"
+    "timestamp" : "2024-12-22T13:52:00Z"
   }, {
     "reported_comment" : false,
     "body" : "Faut vraiment détester marcher.",
     "username" : "roguy_19",
-    "timestamp" : "2024-12-22 17:54:48"
+    "timestamp" : "2024-12-22T16:54:48Z"
   }, {
     "reported_comment" : false,
     "body" : "Alors oui mais Cergy dans les immeubles ça n’a rien à voir à Pontoise proche des étangs.",
     "username" : "Sheikmat",
-    "timestamp" : "2024-12-22 14:45:23"
+    "timestamp" : "2024-12-22T13:45:23Z"
   }, {
     "reported_comment" : false,
     "body" : "Pontoise ca n’a rien a voir. Cergy c’est hideux, c’est une ville conçue pour les bagnoles et faire du shopping.",
     "username" : "roguy_19",
-    "timestamp" : "2024-12-22 15:17:41"
+    "timestamp" : "2024-12-22T14:17:41Z"
   }, {
     "reported_comment" : false,
     "body" : "Tu fais comment pour vivre a Paris si c’est pas trop perso à partager ? Parce que de memoire le RSA ne doit même ps suffire a payer un 10m2 alors les courses et la vie à côté.",
     "username" : "LelouchViMajesti",
-    "timestamp" : "2024-12-22 18:04:59"
+    "timestamp" : "2024-12-22T17:04:59Z"
   }, {
     "reported_comment" : false,
     "body" : "C'est pas une question de poste. Si tu travailles dans des hauts postes, soit tu bosses à paris, sois tu bosses dois déménager dans un autre pays. Ta solution c'est quoi? Changer de métier ? Changer de pays? Super.",
     "username" : "The_Glitter_man",
-    "timestamp" : "2024-12-23 11:28:35"
+    "timestamp" : "2024-12-23T10:28:35Z"
   }, {
     "reported_comment" : false,
     "body" : "[removed]",
     "username" : "None",
-    "timestamp" : "2024-12-22 13:10:11"
+    "timestamp" : "2024-12-22T12:10:11Z"
   }, {
     "reported_comment" : false,
     "body" : "Bien sûr que non il l'a pas lu. On est sur Reddit hein.\n\nÇa upvotes les mecs à côté de la plaque.",
     "username" : "The_Glitter_man",
-    "timestamp" : "2024-12-23 10:08:11"
+    "timestamp" : "2024-12-23T09:08:11Z"
   }, {
     "reported_comment" : false,
     "body" : "Et je n’ai même pas eu besoin de lire l’article",
     "username" : "_Argol_",
-    "timestamp" : "2024-12-22 13:09:21"
+    "timestamp" : "2024-12-22T12:09:21Z"
   }, {
     "reported_comment" : false,
     "body" : "Sur quoi est-ce que tu te bases pour dire ça ?",
     "username" : "Garsbriel",
-    "timestamp" : "2024-12-23 09:23:13"
+    "timestamp" : "2024-12-23T08:23:13Z"
   }, {
     "reported_comment" : false,
     "body" : "🇫🇷 Votre commentaire a été modéré. Merci de garder les discussions le plus cordial possible. r/Paris est un lieu d'entraide et de discussions saines et non d'échanges interposés stériles.\n\n🇬🇧 Your comment has been removed. Please keep the discussion friendly. r/Paris is a place of gathering and helping each other while puerile exchanges are prescribed.\n\n\n\n----------------\n\n^If ^you ^wish ^the ^contact ^the ^moderators, ^you ^can ^do ^so ^via ^[modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fparis).",
     "username" : "paris-ModTeam",
-    "timestamp" : "2024-12-22 16:21:02"
+    "timestamp" : "2024-12-22T15:21:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Les logements vides ont bien des propriétaires, non ? Pourquoi eux ne mettent pas en location, d'après tes propres calculs ?",
     "username" : "potatoz11",
-    "timestamp" : "2024-12-22 15:54:10"
+    "timestamp" : "2024-12-22T14:54:10Z"
   }, {
     "reported_comment" : false,
     "body" : "Si tu as besoin d'emprunter oui",
     "username" : "Pale-Photograph-8367",
-    "timestamp" : "2024-12-23 10:52:28"
+    "timestamp" : "2024-12-23T09:52:28Z"
   }, {
     "reported_comment" : false,
     "body" : "Exactement, d'où l'intérêt de faire monter en flèche les cotisations sur les résidences secondaires pour inciter / forcer les gens à vendre ou louer leurs logements qui ne servent que de pied à terre !",
     "username" : "TacosDuVercors",
-    "timestamp" : "2024-12-22 15:22:47"
+    "timestamp" : "2024-12-22T14:22:47Z"
   }, {
     "reported_comment" : false,
     "body" : "400k pour un pied à terre et y aller tous les x temps, c'est pas à la portée de tous mais effectivement pas mal de parisiens peuvent se le permettre grâce aux fortunes engrangées en ayant acheté il y a 20/30 ans, ils ont triplé le prix des appartements en les revendant.\nÇa n'empêche que le marché locatif est plombé par le plafonnement des loyers et du coup à part des biens dont les parisiens ont pas usage et savent pas trop quoi en faire... ben pas grand monde va s'y intéresser",
     "username" : "elmojorisin",
-    "timestamp" : "2024-12-22 15:17:49"
+    "timestamp" : "2024-12-22T14:17:49Z"
   }, {
     "reported_comment" : false,
     "body" : "Mais dans ce cas là c'est une résidence secondaire, pas un logement vacant, non ?\n\nC'est aussi assez difficile à imaginer que ce n'est pas plus rentable de louer son appartement et de prendre un hotel les quelques semaines à Paris où on y réside.",
     "username" : "potatoz11",
-    "timestamp" : "2024-12-22 16:02:19"
+    "timestamp" : "2024-12-22T15:02:19Z"
   }, {
     "reported_comment" : false,
     "body" : "Prends les transports comme tout le monde lol",
     "username" : "Dazzling_Location_11",
-    "timestamp" : "2024-12-22 18:02:38"
+    "timestamp" : "2024-12-22T17:02:38Z"
   }, {
     "reported_comment" : false,
     "body" : "HLM évidemment. Auparavant, il est vrai que c'était chaud mais pas insurmontable (15m2 à 720€ mais 320€ d'aide au logement). Mais en allant voir l'aide sociale parisienne et en suivant les recommandations et demandes, j'ai eu le logement social en mode largement accéléré.  \nPour l'alimentation, TooGoodToGo et poubelles. Il faut voir tout ce que les boulangeries jettent quotidiennement, il y a de quoi nourrir 10 à 15 personnes chaque soir. Pour le chauffage, prévoir les pulls et manteaux même dans le lit.",
     "username" : "ClarkSebat",
-    "timestamp" : "2024-12-22 18:54:10"
+    "timestamp" : "2024-12-22T17:54:10Z"
   }, {
     "reported_comment" : false,
     "body" : "Il y a d'autres grandes villes en France que Paris, non ?",
     "username" : "chou-coco",
-    "timestamp" : "2024-12-23 15:05:55"
+    "timestamp" : "2024-12-23T14:05:55Z"
   }, {
     "reported_comment" : false,
     "body" : "🇫🇷 Votre commentaire a été modéré. Merci de garder les discussions le plus cordial possible. r/Paris est un lieu d'entraide et de discussions saines et non d'échanges interposés stériles.\n\n🇬🇧 Your comment has been removed. Please keep the discussion friendly. r/Paris is a place of gathering and helping each other while puerile exchanges are prescribed.\n\n\n\n----------------\n\n^If ^you ^wish ^the ^contact ^the ^moderators, ^you ^can ^do ^so ^via ^[modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fparis).",
     "username" : "paris-ModTeam",
-    "timestamp" : "2024-12-22 17:26:32"
+    "timestamp" : "2024-12-22T16:26:32Z"
   }, {
     "reported_comment" : false,
     "body" : "[removed]",
     "username" : "None",
-    "timestamp" : "2024-12-22 13:25:21"
+    "timestamp" : "2024-12-22T12:25:21Z"
   }, {
     "reported_comment" : false,
     "body" : "https://www.apur.org/sites/default/files/logements_inoccupes_paris.pdf?token=gawNyquE\n\nChapitre 2 : Les caractéristiques des logements inoccupés à Paris",
     "username" : "RichardHenri",
-    "timestamp" : "2024-12-22 16:09:58"
+    "timestamp" : "2024-12-22T15:09:58Z"
   }, {
     "reported_comment" : false,
     "body" : "Parce que c'est pas rentable et qu'ils doivent y passer de temps en temps. La contrainte locative n'est pas assez intéressante pour faire pencher la balance ?",
     "username" : "elmojorisin",
-    "timestamp" : "2024-12-22 15:56:13"
+    "timestamp" : "2024-12-22T14:56:13Z"
   }, {
     "reported_comment" : false,
     "body" : "Heureusement que les loyers sont plafonnés sinon on serait tous à la rue ! Ce qui est pas normal c'est qu'il n'y ait pas de plafonnement à la revente, ce qui explique le x3 à la revente d'un appart acheté il y a à peine 20 ans !",
     "username" : "MrLyttleG",
-    "timestamp" : "2024-12-22 18:54:16"
+    "timestamp" : "2024-12-22T17:54:16Z"
   }, {
     "reported_comment" : false,
     "body" : "Vous avez des jambes servez vous en",
     "username" : "roguy_19",
-    "timestamp" : "2024-12-22 20:33:40"
+    "timestamp" : "2024-12-22T19:33:40Z"
   }, {
     "reported_comment" : false,
     "body" : "Ok mais du coup ton cas n'est absolument pas représentatif d'un truc abordable par tous. Tout le monde n'a pas envie de faire les poubelles ou de vivre dans un 15m2. Et tout le monde ne peut pas se loger en HLM - notamment parce qu'il y a jamais de place.\n\nPar contre pour loger dans un T2, il faut gagner 4500€ par mois - ça c'est la réalité.",
     "username" : "Kunstfr",
-    "timestamp" : "2024-12-23 07:42:22"
+    "timestamp" : "2024-12-23T06:42:22Z"
   }, {
     "reported_comment" : false,
     "body" : "[removed]",
     "username" : "None",
-    "timestamp" : "2024-12-22 13:28:22"
+    "timestamp" : "2024-12-22T12:28:22Z"
   }, {
     "reported_comment" : false,
     "body" : "Tu peux m'expliquer un peu plus où tu veux en venir ? Le rapport de l'APUR m'a l'air très intéressant, avec des causes possibles crédibles. Mais aucune ne m'a l'air de dire \"c'est pas rentable\" de mettre un bien à 400k en location.",
     "username" : "potatoz11",
-    "timestamp" : "2024-12-22 17:21:38"
+    "timestamp" : "2024-12-22T16:21:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Non, si c'était pas plafonné la location ne fonctionnerait pas et la demande en achats immo impossible à satisfaire, ça s'équilibrerait",
     "username" : "elmojorisin",
-    "timestamp" : "2024-12-22 20:23:02"
+    "timestamp" : "2024-12-22T19:23:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Ya de l'oxygène qui se perd",
     "username" : "Dazzling_Location_11",
-    "timestamp" : "2024-12-22 20:53:30"
+    "timestamp" : "2024-12-22T19:53:30Z"
   }, {
     "reported_comment" : false,
     "body" : "Ah mais c'est qu'on  veut du luxe, évidemment. Il faut dire que T2 c'est du luxe au sens même des administrations. [https://teleservices.paris.fr/cotation/les-criteres.html](https://teleservices.paris.fr/cotation/les-criteres.html)\n\nDonc c'est peut-être à vous de revoir votre vue du monde et admettre que vous êtes façonné par des exigences spécifiques, loin de la réalité de la population mondiale en fait. Même au RSA, on rappelle qu'on est dans les 10% les personnes les plus riches au monde.\n\nPour ce qui est de la disponibilité HLM, il y en a pour répondre aux besoins urgents, comme vente bien, SDF, etc… Il faut en passer par les assistants sociaux de la Ville et des commissions spécifiques pas directement accessibles. Il faut jouer le jeu. J'ai eu mon logement social en 2 mois avec cette priorité, évidemment sans choisir le lieu, l'urgence c'est l'urgence.\n\nEt justment, c'est abordable par ceux qui n'ont pas les moyens de payer plus. Si vous payez plus, c'est que vous le pouvez et que vous le voulez. Donc vous êtes plus riche que vous ne voulez vous en rendre compte et avez du mal à concilier cette réalité et le train de vie auquel vous imaginez que vous devriez avoir le droit.",
     "username" : "ClarkSebat",
-    "timestamp" : "2024-12-23 08:07:19"
+    "timestamp" : "2024-12-23T07:07:19Z"
   }, {
     "reported_comment" : false,
     "body" : "[removed]",
     "username" : "None",
-    "timestamp" : "2024-12-22 13:39:42"
+    "timestamp" : "2024-12-22T12:39:42Z"
   }, {
     "reported_comment" : false,
     "body" : "Je m'imagine qu'avec un salaire dans les 25% plus élevés de France on puisse se payer mieux qu'un studio, ouais. Mais non, il faut être dans les 10%. Mais ça doit être moi avec ma mauvaise vision du monde, je m'imagine avoir droit à mieux qu'un 25m², quel idiot.\n\nEt le coût de la vie n'est pas le même partout. Avec ton RSA, tu pourrais vivre 30 fois plus confortablement dans plein de pays. Ici t'es obligé de faire les poubelles. Je sais pas comment tu peux dire ça et dire que la vie est belle.",
     "username" : "Kunstfr",
-    "timestamp" : "2024-12-23 12:43:20"
+    "timestamp" : "2024-12-23T11:43:20Z"
   }, {
     "reported_comment" : false,
     "body" : "[removed]",
     "username" : "None",
-    "timestamp" : "2024-12-22 13:46:12"
+    "timestamp" : "2024-12-22T12:46:12Z"
   }, {
     "reported_comment" : false,
     "body" : "Je dirais même qu’il est plus facile de vivre à Paris avec un rsa qu’ailleurs en France compte tenu de l’accompagnement de la mairie, de la disponibilité et variété des TooGoodToGo / poubelles, mais aussi de l’offre culturelle et sportive gratuite sans compter les transports gratuits. Donc c’est chiche mais vivable.",
     "username" : "ClarkSebat",
-    "timestamp" : "2024-12-23 15:28:35"
+    "timestamp" : "2024-12-23T14:28:35Z"
   }, {
     "reported_comment" : false,
     "body" : "🇫🇷 Votre commentaire a été modéré. Merci de garder les discussions le plus cordial possible. r/Paris est un lieu d'entraide et de discussions saines et non d'échanges interposés stériles.\n\n🇬🇧 Your comment has been removed. Please keep the discussion friendly. r/Paris is a place of gathering and helping each other while puerile exchanges are prescribed.\n\n\n\n----------------\n\n^If ^you ^wish ^the ^contact ^the ^moderators, ^you ^can ^do ^so ^via ^[modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fparis).",
     "username" : "paris-ModTeam",
-    "timestamp" : "2024-12-22 17:25:16"
+    "timestamp" : "2024-12-22T16:25:16Z"
   } ]
 }

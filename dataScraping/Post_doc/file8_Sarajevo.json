@@ -1,20 +1,20 @@
 {
   "id" : 200303,
-  "community_name" : "Sarajevo",
+  "community" : "Sarajevo",
   "username" : "acidbahia",
-  "post_body" : "Sarajevo now ",
-  "timestamp" : "2024-12-23 12:34:48",
-  "num_comment" : 2,
-  "reported_post" : false,
+  "post" : "Sarajevo now ",
+  "timestamp" : "2024-12-23T11:34:48Z",
+  "nomment" : 2,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Jebote njemacko doesn‘t have snow",
     "username" : "T1DDYSLAYER18769420",
-    "timestamp" : "2024-12-23 12:34:48"
+    "timestamp" : "2024-12-23T11:34:48Z"
   }, {
     "reported_comment" : false,
     "body" : "Wtf is this shit",
     "username" : "Otherwise-Sky7266",
-    "timestamp" : "2024-12-23 12:49:30"
+    "timestamp" : "2024-12-23T11:49:30Z"
   } ]
 }

@@ -1,10 +1,10 @@
 {
   "id" : 200339,
-  "community_name" : "Tallinn",
+  "community" : "Tallinn",
   "username" : "Eva_whlr",
-  "post_body" : "Hey we’re 6 w/22 from Belgium, Austria & Germany. Is there anything happening today after the clubs close? hmu @eva._.whlr on instagram",
-  "timestamp" : "2024-11-16 12:36:52",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Hey we’re 6 w/22 from Belgium, Austria & Germany. Is there anything happening today after the clubs close? hmu @eva._.whlr on instagram",
+  "timestamp" : "2024-11-04T06:18:46Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

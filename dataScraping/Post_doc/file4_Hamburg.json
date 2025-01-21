@@ -1,40 +1,40 @@
 {
   "id" : 200264,
-  "community_name" : "Hamburg",
+  "community" : "Hamburg",
   "username" : "santiagodelariva",
-  "post_body" : "Wo lernen am 26.12?",
-  "timestamp" : "2024-12-23 11:29:28",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "Wo lernen am 26.12?",
+  "timestamp" : "2024-12-23T10:29:28Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Schau mal auf der Seite der Bücherhallen welche davon einen Flexibib Zugang haben der über die Feiertage zur Verfügung steht. Da kannst du dich dann mit dem Bücherhallen Ausweis selbst reinlassen obwohl kein Personal vor Ort ist. \n\nhttps://www.buecherhallen.de/oeffnungszeiten.html",
     "username" : "LivingBreadGirl_",
-    "timestamp" : "2024-12-23 12:38:12"
+    "timestamp" : "2024-12-23T11:38:12Z"
   }, {
     "reported_comment" : false,
     "body" : "Moin, vielleicht hat die ZBW auf an der Alster.",
     "username" : "sleepingmaffy",
-    "timestamp" : "2024-12-23 11:29:28"
+    "timestamp" : "2024-12-23T10:29:28Z"
   }, {
     "reported_comment" : false,
     "body" : "[deleted]",
     "username" : "None",
-    "timestamp" : "2024-12-23 11:54:53"
+    "timestamp" : "2024-12-23T10:54:53Z"
   }, {
     "reported_comment" : false,
     "body" : "Ich denke das wird schwierig, die Bibliotheken habe alle zu, zum Teil auch zwischen den Feiertagen.",
     "username" : "MelMey",
-    "timestamp" : "2024-12-23 12:01:18"
+    "timestamp" : "2024-12-23T11:01:18Z"
   }, {
     "reported_comment" : false,
     "body" : "der freiraum im museum für kunst und gewerbe ist prima zum arbeiten und lernen und hat am 26.12. von 12 - 18 uhr geöffnet!",
     "username" : "hcilbretsnu_eppireg",
-    "timestamp" : "2024-12-23 15:18:18"
+    "timestamp" : "2024-12-23T14:18:18Z"
   }, {
     "reported_comment" : false,
     "body" : "Die ist an den Feiertagen auch zu.",
     "username" : "MelMey",
-    "timestamp" : "2024-12-23 11:59:17"
+    "timestamp" : "2024-12-23T10:59:17Z"
   } ]
 }

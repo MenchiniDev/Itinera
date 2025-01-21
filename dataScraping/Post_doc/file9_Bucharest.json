@@ -1,15 +1,15 @@
 {
   "id" : 200405,
-  "community_name" : "Bucharest",
+  "community" : "Bucharest",
   "username" : "huffmac",
-  "post_body" : "My Dog's Original Owner",
-  "timestamp" : "2024-05-14 08:47:34",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "My Dog's Original Owner",
+  "timestamp" : "2024-05-14T06:47:34Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Looks like it s a block of flats with 50+ units.  You can go to the address and ask around. Many ppl speak english",
     "username" : "pantsnsocks",
-    "timestamp" : "2024-05-14 08:47:34"
+    "timestamp" : "2024-05-14T06:47:34Z"
   } ]
 }

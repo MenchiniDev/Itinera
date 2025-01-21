@@ -1,15 +1,15 @@
 {
   "id" : 200398,
-  "community_name" : "Podgorica",
+  "community" : "Podgorica",
   "username" : "nina-art",
-  "post_body" : "prizren",
-  "timestamp" : "2024-08-15 10:09:27",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "prizren",
+  "timestamp" : "2024-08-15T08:09:27Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "pogledaj na sajtu bus4me",
     "username" : "mrbrightside-987",
-    "timestamp" : "2024-08-15 10:09:27"
+    "timestamp" : "2024-08-15T08:09:27Z"
   } ]
 }

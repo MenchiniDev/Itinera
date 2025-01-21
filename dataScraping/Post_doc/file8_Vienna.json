@@ -1,20 +1,20 @@
 {
   "id" : 200362,
-  "community_name" : "Vienna",
+  "community" : "Vienna",
   "username" : "2bEskimo",
-  "post_body" : "Palestinians interested in doing a podcast episode",
-  "timestamp" : "2023-07-31 19:13:53",
-  "num_comment" : 2,
-  "reported_post" : false,
+  "post" : "Palestinians interested in doing a podcast episode",
+  "timestamp" : "2023-07-31T17:13:53Z",
+  "nomment" : 2,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Bei diesem Beitrag scheint es sich um einen Post zum Tourismus in Wien zu handeln. Hilfreiche Tipps findest [hier](https://www.reddit.com/r/vienna/wiki/index/tourismus).\n\nThis post seems to be a post about tourism in Vienna. Helpful tips can be found [here](https://www.reddit.com/r/vienna/wiki/index/tourism).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/vienna) if you have any questions or concerns.*",
     "username" : "AutoModerator",
-    "timestamp" : "2023-07-31 19:13:53"
+    "timestamp" : "2023-07-31T17:13:53Z"
   }, {
     "reported_comment" : false,
     "body" : "https://www.islam-landkarte.at/detail/palaestinensische-gemeinde-in-oesterreich\n\nTry there",
     "username" : "youremymymymylover",
-    "timestamp" : "2023-07-31 20:42:41"
+    "timestamp" : "2023-07-31T18:42:41Z"
   } ]
 }

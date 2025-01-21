@@ -1,15 +1,15 @@
 {
   "id" : 200189,
-  "community_name" : "Zagreb",
+  "community" : "Zagreb",
   "username" : "AutoModerator",
-  "post_body" : "Doček Nove godine!",
-  "timestamp" : "2024-12-22 09:58:58",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Doček Nove godine!",
+  "timestamp" : "2024-12-22T08:58:58Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Mene zanimaju klubovi u Zg za doček ali gdje nema narodnjaka. Prijedlozi?",
     "username" : "Ok-Plankton-2605",
-    "timestamp" : "2024-12-22 09:58:58"
+    "timestamp" : "2024-12-22T08:58:58Z"
   } ]
 }

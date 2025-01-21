@@ -7,24 +7,31 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-
-import com.unipi.ItineraJava.DTO.UserDTO;
-import com.unipi.ItineraJava.model.Comment;
-import com.unipi.ItineraJava.model.Post;
-import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestHeader;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
+import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.MongoCommunity;
+import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
+import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 
 
 @RestController
@@ -247,7 +254,7 @@ class CommunityController {
         try {
             String mostActiveUser = communityService.getMostActiveUserByCommunity(username, city);
             if (mostActiveUser == null) {
-                return ResponseEntity.ok("Nessun utente trovato per la community " + city);
+                return ResponseEntity.ok("Community " + city + "has no users");
             }
             return ResponseEntity.ok(mostActiveUser);
         } catch (IllegalArgumentException | IllegalStateException ex) {
@@ -258,4 +265,42 @@ class CommunityController {
                 .body("An error occurred while retrieving the most active user: " + ex.getMessage());
         }
     }
+
+    @GetMapping("/showMostActiveCommunity")
+    public ResponseEntity<?> getMostActiveUser() {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+        String username = authentication.getName();
+        try {
+            String mostActiveCommunity = communityService.getMostActiveCommunity();
+            if (mostActiveCommunity == null) {
+                return ResponseEntity.ok("There is no most active community");
+            }
+            return ResponseEntity.ok(mostActiveCommunity);
+        } catch (IllegalArgumentException | IllegalStateException ex) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                .body(ex.getMessage());
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the most active community: " + ex.getMessage());
+        }
+    }
+
+    @GetMapping("/postCount/{city}")
+    public ResponseEntity<?> getPostCount(@PathVariable String city) {
+        try {
+            Long postCount = communityService.getPostCountInCommunity(city);
+            return ResponseEntity.ok(Map.of("community", city, "postCount", postCount));
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving post count: " + ex.getMessage());
+        }
+    }
+
+    
+
 }

@@ -1,50 +1,50 @@
 {
   "id" : 200107,
-  "community_name" : "Sarajevo",
+  "community" : "Sarajevo",
   "username" : "Relevant-Space1618",
-  "post_body" : "Ginekološki pregledi u javnim zdravstvenim ustanovama",
-  "timestamp" : "2024-12-21 22:04:27",
-  "num_comment" : 8,
-  "reported_post" : false,
+  "post" : "Ginekološki pregledi u javnim zdravstvenim ustanovama",
+  "timestamp" : "2024-12-21T21:04:27Z",
+  "nomment" : 8,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Jesu, ako imas knjizicu, odnosno zdravstveno osiguranje.",
     "username" : "Chontra",
-    "timestamp" : "2024-12-21 22:04:27"
+    "timestamp" : "2024-12-21T21:04:27Z"
   }, {
     "reported_comment" : false,
     "body" : "Ukoliko imas zdravstveno osiguranje - da.",
     "username" : "astajaznan",
-    "timestamp" : "2024-12-21 22:05:03"
+    "timestamp" : "2024-12-21T21:05:03Z"
   }, {
     "reported_comment" : false,
     "body" : "Ja sam ove godine radila ultrazvuk u Skerlicevoj i bio je besplatan. Takodjer toplo preporucujem njih gore, doktorice su divne!",
     "username" : "pola_kile_visanja",
-    "timestamp" : "2024-12-22 09:16:16"
+    "timestamp" : "2024-12-22T08:16:16Z"
   }, {
     "reported_comment" : false,
     "body" : "ukljucujuci sve testove/nalaze koje rade?",
     "username" : "Relevant-Space1618",
-    "timestamp" : "2024-12-21 22:08:31"
+    "timestamp" : "2024-12-21T21:08:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Ne mogu da se sjetim, mislim da sam prije par godina morala da platim participaciju za UZ, bila je 5KM. Idem zadnje tri godine privatno pa se ne mogu sjetiti detalja. Mada uvijek možete pozvati ambulante i pitati, moraju vam dati odgovor sestre na kartoteci.",
     "username" : "sicijus_ignitus",
-    "timestamp" : "2024-12-21 22:15:16"
+    "timestamp" : "2024-12-21T21:15:16Z"
   }, {
     "reported_comment" : false,
     "body" : "Nisam 100% sigurna jel' sve sve sve besplatno. Uz neke pretrage ide participacija. \nJedno što sam ja do sada doplatila: UZ štitne i parotida je bio 5km i 8km krvne pretrage na klinici. \nSvi drugi specijalisticki pregledi su bili besplatni.\nNajbolje ti je nazvat Zavod za zaštitu žena i materinstva (oni su nadležni za ginekologe koji ordiniraju po domovima zdravlja) pa se raspitaj sve.",
     "username" : "astajaznan",
-    "timestamp" : "2024-12-21 22:16:24"
+    "timestamp" : "2024-12-21T21:16:24Z"
   }, {
     "reported_comment" : false,
     "body" : "hvalaa!",
     "username" : "Relevant-Space1618",
-    "timestamp" : "2024-12-21 22:17:24"
+    "timestamp" : "2024-12-21T21:17:24Z"
   }, {
     "reported_comment" : false,
     "body" : "Nista! 😊\nBtw imas aktivnu kampanju preventivnih pregleda https://zivotjeupitanju.ba/\nImaju i kriteriji (dob) pa ako ne ispunjavas kriterije, mozda neko od tvoje porodice ispunjava.\nSretno",
     "username" : "astajaznan",
-    "timestamp" : "2024-12-21 22:19:03"
+    "timestamp" : "2024-12-21T21:19:03Z"
   } ]
 }

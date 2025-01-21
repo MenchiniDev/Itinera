@@ -1,55 +1,55 @@
 {
   "id" : 200203,
-  "community_name" : "Frankfurt",
+  "community" : "Frankfurt",
   "username" : "Timon_von_Phleius",
-  "post_body" : "Gute Alternative Friseure",
-  "timestamp" : "2024-12-22 21:45:46",
-  "num_comment" : 9,
-  "reported_post" : false,
+  "post" : "Gute Alternative Friseure",
+  "timestamp" : "2024-12-22T20:45:46Z",
+  "nomment" : 9,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Du müsstest \"untypisch\" ein bisschen konkretisieren",
     "username" : "JeanPierre-Blueberry",
-    "timestamp" : "2024-12-22 21:49:59"
+    "timestamp" : "2024-12-22T20:49:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Mr. Leons Scherenhände",
     "username" : "Competitive-Art",
-    "timestamp" : "2024-12-22 22:27:26"
+    "timestamp" : "2024-12-22T21:27:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Hello /u/Timon_von_Phleius, thank you for posting a question. Have you checked [our wiki](/r/frankfurt/wiki/index)  or the [stickied FAQ thread at the top of our subreddit](https://www.reddit.com/r/frankfurt/comments/otfb7a/visitors_and_newcomers_to_frankfurt_please_post/?utm_source=share&utm_medium=web2x&context=3)?\nWhen you have a satisfactory answer, please change the flair to \"Solved\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*",
     "username" : "AutoModerator",
-    "timestamp" : "2024-12-22 21:45:46"
+    "timestamp" : "2024-12-22T20:45:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Barbershops dürfen keine Scheeren benutzen (dann Friseur und Meister Pflicht). ",
     "username" : "hombre74",
-    "timestamp" : "2024-12-23 00:18:41"
+    "timestamp" : "2024-12-22T23:18:41Z"
   }, {
     "reported_comment" : false,
     "body" : "Schon eher Punkige Sachen. Iros, Mullets, Chelsea Cuts und auch Haarschnitte aus 70er bis 90ern\nIch weiß das sind eigentlich alles eher do it yourself Schnitte aber ich brauche erstmal wieder eine gute Grundstruktur um die dann zurecht zu schnibbeln xD",
     "username" : "Timon_von_Phleius",
-    "timestamp" : "2024-12-22 21:53:09"
+    "timestamp" : "2024-12-22T20:53:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Danke für die Empfehlung :D",
     "username" : "Timon_von_Phleius",
-    "timestamp" : "2024-12-22 22:33:58"
+    "timestamp" : "2024-12-22T21:33:58Z"
   }, {
     "reported_comment" : false,
     "body" : "Du hast Recht, aber davon wissen die Barbieren aber scheinbar nix",
     "username" : "suspicious_racoon",
-    "timestamp" : "2024-12-23 00:58:53"
+    "timestamp" : "2024-12-22T23:58:53Z"
   }, {
     "reported_comment" : false,
     "body" : "Bei Cowboys and Angels wirst du so was finden können :)",
     "username" : "thuglifesoul",
-    "timestamp" : "2024-12-23 09:04:16"
+    "timestamp" : "2024-12-23T08:04:16Z"
   }, {
     "reported_comment" : false,
     "body" : "Wissen schon aber hoffen wohl das sie nicht erwischt werden? Ist auch gefühlt ein anderes Klientel....",
     "username" : "hombre74",
-    "timestamp" : "2024-12-23 07:34:25"
+    "timestamp" : "2024-12-23T06:34:25Z"
   } ]
 }

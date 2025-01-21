@@ -2,14 +2,14 @@
   "id" : 200442,
   "city" : "Tallinn",
   "name" : "Tallinn",
-  "created" : "2021-12-23 00:21:03",
+  "created" : "2021-12-22T23:21:03Z",
   "post" : [ {
-    "text" : "Visiting for New Years!",
+    "text" : null,
     "user" : "Nor_Cal_Native",
-    "timestamp" : "2021-12-23 01:21:03"
+    "timestamp" : "2021-12-23T00:21:03Z"
   }, {
-    "text" : "I have an extra ticket to the Opera -giving it away for free",
+    "text" : null,
     "user" : "InternationalPin6177",
-    "timestamp" : "2022-01-15 14:50:08"
+    "timestamp" : "2022-01-15T13:50:08Z"
   } ]
 }

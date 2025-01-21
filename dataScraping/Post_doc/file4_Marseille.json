@@ -1,20 +1,20 @@
 {
   "id" : 200230,
-  "community_name" : "Marseille",
+  "community" : "Marseille",
   "username" : "TheBlackPajama",
-  "post_body" : "Lost Teddy Bear, Marseille Airport",
-  "timestamp" : "2022-05-06 01:57:15",
-  "num_comment" : 2,
-  "reported_post" : false,
+  "post" : "Lost Teddy Bear, Marseille Airport",
+  "timestamp" : "2022-05-05T23:57:15Z",
+  "nomment" : 2,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "You might want to contact their lost+found desk at the airport. Tel : +33 8 20 14 24 10 (Open from 6am to 12pm). Good luck!",
     "username" : "ulliver",
-    "timestamp" : "2022-05-06 01:57:15"
+    "timestamp" : "2022-05-05T23:57:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Thanks, that's the first thing I did,but told her I would do everything possible! It was a loooong night last night :(",
     "username" : "TheBlackPajama",
-    "timestamp" : "2022-05-06 18:24:25"
+    "timestamp" : "2022-05-06T16:24:25Z"
   } ]
 }

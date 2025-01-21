@@ -2,14 +2,14 @@
   "id" : 200458,
   "city" : "Oslo",
   "name" : "Oslo",
-  "created" : "2022-07-19 12:35:35",
+  "created" : "2022-07-19T10:35:35Z",
   "post" : [ {
-    "text" : "Basic Tourist Information",
+    "text" : null,
     "user" : "nechered",
-    "timestamp" : "2022-07-19 13:35:35"
+    "timestamp" : "2022-07-19T11:35:35Z"
   }, {
-    "text" : "Bryter du loven?",
+    "text" : null,
     "user" : "None",
-    "timestamp" : "2022-10-18 09:23:29"
+    "timestamp" : "2022-10-18T07:23:29Z"
   } ]
 }

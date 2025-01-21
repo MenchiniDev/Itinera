@@ -1,15 +1,15 @@
 {
   "id" : 200320,
-  "community_name" : "Sofia",
+  "community" : "Sofia",
   "username" : "Old-Charity-3839",
-  "post_body" : "Готино място за гледане на мачове в София? ",
-  "timestamp" : "2024-12-22 14:15:27",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Готино място за гледане на мачове в София? ",
+  "timestamp" : "2024-12-22T13:15:27Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Looserpool can go fuck off 😂",
     "username" : "KpacTaBu4ap",
-    "timestamp" : "2024-12-22 14:15:27"
+    "timestamp" : "2024-12-22T13:15:27Z"
   } ]
 }

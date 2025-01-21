@@ -1,40 +1,40 @@
 {
   "id" : 200143,
-  "community_name" : "Warsaw",
+  "community" : "Warsaw",
   "username" : "Roffroll",
-  "post_body" : "Zamek Królewski (Royal Castle) ",
-  "timestamp" : "2024-12-23 09:54:41",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "Zamek Królewski (Royal Castle) ",
+  "timestamp" : "2024-12-23T08:54:41Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Life has such a good raytracing",
     "username" : "No_Letter5485",
-    "timestamp" : "2024-12-23 09:56:26"
+    "timestamp" : "2024-12-23T08:56:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Lovely pic, happy Christmas!",
     "username" : "Inhabitant",
-    "timestamp" : "2024-12-23 10:28:49"
+    "timestamp" : "2024-12-23T09:28:49Z"
   }, {
     "reported_comment" : false,
     "body" : "Fajne umiejscowienie tej choinki po lewej stronie z zamkiem po prawej idealny czas oraz ta widoczna mokra podłoga dopełnia tak to że to zajebiste zdjęcie (nice photo)",
     "username" : "Technical6Luke",
-    "timestamp" : "2024-12-23 12:46:35"
+    "timestamp" : "2024-12-23T11:46:35Z"
   }, {
     "reported_comment" : false,
     "body" : "https://preview.redd.it/qrdkwoozjl8e1.jpeg?width=3072&format=pjpg&auto=webp&s=097e062cbf8dcb0c50916c5103fb65f797f25af5",
     "username" : "MinecraftWarden06",
-    "timestamp" : "2024-12-23 14:04:18"
+    "timestamp" : "2024-12-23T13:04:18Z"
   }, {
     "reported_comment" : false,
     "body" : "I am very disappointed by the tree. It is so fake and oddly decorated.",
     "username" : "SRegalitarian",
-    "timestamp" : "2024-12-23 09:54:41"
+    "timestamp" : "2024-12-23T08:54:41Z"
   }, {
     "reported_comment" : false,
     "body" : "It's been like that for years (even worse). The culture around the Towns square and surroundings is not strong in Warsaw, different than Kraków, for example.",
     "username" : "marsjaninmarvin",
-    "timestamp" : "2024-12-23 10:34:33"
+    "timestamp" : "2024-12-23T09:34:33Z"
   } ]
 }

@@ -1,85 +1,85 @@
 {
   "id" : 200191,
-  "community_name" : "Bratislava",
+  "community" : "Bratislava",
   "username" : "Parking-Budget-1066",
-  "post_body" : "What does the snowflake stand for? (Under CENTRUM stop)",
-  "timestamp" : "2024-12-21 11:54:46",
-  "num_comment" : 15,
-  "reported_post" : false,
+  "post" : "What does the snowflake stand for? (Under CENTRUM stop)",
+  "timestamp" : "2024-12-21T10:54:46Z",
+  "nomment" : 15,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "I believe that is special “Christmas” tram for tourists.",
     "username" : "scratchbob",
-    "timestamp" : "2024-12-21 11:54:46"
+    "timestamp" : "2024-12-21T10:54:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Christmas tram",
     "username" : "Character-Carpet7988",
-    "timestamp" : "2024-12-21 11:55:20"
+    "timestamp" : "2024-12-21T10:55:20Z"
   }, {
     "reported_comment" : false,
     "body" : "It’s a Christmas tram line running in the city center for a limited time only.",
     "username" : "g46152",
-    "timestamp" : "2024-12-21 11:55:44"
+    "timestamp" : "2024-12-21T10:55:44Z"
   }, {
     "reported_comment" : false,
     "body" : "Free ice cream for all pax :)",
     "username" : "Aggravating_Loss_765",
-    "timestamp" : "2024-12-21 16:12:31"
+    "timestamp" : "2024-12-21T15:12:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Christmas tram.",
     "username" : "Daniel_D225",
-    "timestamp" : "2024-12-21 19:50:05"
+    "timestamp" : "2024-12-21T18:50:05Z"
   }, {
     "reported_comment" : false,
     "body" : "I believe it's the \"closest\" station to the christmas market on main square",
     "username" : "Calvo4",
-    "timestamp" : "2024-12-21 18:33:12"
+    "timestamp" : "2024-12-21T17:33:12Z"
   }, {
     "reported_comment" : false,
     "body" : "It is easily offended online.",
     "username" : "neurohero",
-    "timestamp" : "2024-12-21 15:56:37"
+    "timestamp" : "2024-12-21T14:56:37Z"
   }, {
     "reported_comment" : false,
     "body" : "Christmas tram maybe",
     "username" : "EuAdventrures",
-    "timestamp" : "2024-12-23 10:49:46"
+    "timestamp" : "2024-12-23T09:49:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Christmas tram, but it's retarded because the Christmas tramp also stops at Jesenskeho, where there is no icon :D",
     "username" : "jachcemmatnickspace",
-    "timestamp" : "2024-12-21 15:52:42"
+    "timestamp" : "2024-12-21T14:52:42Z"
   }, {
     "reported_comment" : false,
     "body" : "congratulations you are the sole user of line 1 in 2025 :D most useless line ever made\n\nand I can see they sent the biggest possible tram there :D",
     "username" : "jachcemmatnickspace",
-    "timestamp" : "2024-12-21 15:53:09"
+    "timestamp" : "2024-12-21T14:53:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Thanks!",
     "username" : "Parking-Budget-1066",
-    "timestamp" : "2024-12-21 12:51:20"
+    "timestamp" : "2024-12-21T11:51:20Z"
   }, {
     "reported_comment" : false,
     "body" : "No, if u live just under main train station, you can get easily to the city center USING THIS USELES LINE:)",
     "username" : "Parking-Budget-1066",
-    "timestamp" : "2024-12-21 17:28:00"
+    "timestamp" : "2024-12-21T16:28:00Z"
   }, {
     "reported_comment" : false,
     "body" : "I'm guessing the plans to have it go to Petržalka again are no longer happening? 🫠",
     "username" : "SthGr",
-    "timestamp" : "2024-12-22 12:42:40"
+    "timestamp" : "2024-12-22T11:42:40Z"
   }, {
     "reported_comment" : false,
     "body" : "what do you mean? line 3 goes to Petržalka",
     "username" : "jachcemmatnickspace",
-    "timestamp" : "2024-12-22 13:41:13"
+    "timestamp" : "2024-12-22T12:41:13Z"
   }, {
     "reported_comment" : false,
     "body" : "This is about line 1",
     "username" : "SthGr",
-    "timestamp" : "2024-12-22 14:10:33"
+    "timestamp" : "2024-12-22T13:10:33Z"
   } ]
 }

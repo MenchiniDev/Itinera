@@ -1,125 +1,125 @@
 {
   "id" : 200244,
-  "community_name" : "Budapest",
+  "community" : "Budapest",
   "username" : "HeadCrusher",
-  "post_body" : "Can an American w/ US driver's license rent a car in Budapest (I'm 53) ",
-  "timestamp" : "2024-12-23 11:35:52",
-  "num_comment" : 23,
-  "reported_post" : false,
+  "post" : "Can an American w/ US driver's license rent a car in Budapest (I'm 53) ",
+  "timestamp" : "2024-12-23T10:35:52Z",
+  "nomment" : 23,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Yes. However, most rental companies will NOT let you bring a rental vehicle to Serbia or out of the EU. \n\nWhy not take a bus or car sharing like BlaBlaCar?",
     "username" : "igenigen",
-    "timestamp" : "2024-12-23 11:35:52"
+    "timestamp" : "2024-12-23T10:35:52Z"
   }, {
     "reported_comment" : false,
     "body" : "It's a fairly short Flixbus ride to Belgrade I believe. Otherwise renting in Hungary should be the same as in the US.",
     "username" : "vahokif",
-    "timestamp" : "2024-12-23 11:37:06"
+    "timestamp" : "2024-12-23T10:37:06Z"
   }, {
     "reported_comment" : false,
     "body" : "I'm an American living in Hungary. I've rented cars a couple of times without problems. My family hasn't had any problems renting cars when visiting from the US. Nobody has ever asked to see the little booklet from AAA-- not when renting a car, not when stopped by police, nor when passing through borders.\r\n\r\nWith that said, as others have mentioned, car rental companies usually have restrictions on leaving the EU. If you carefully check policies, you can find rental companies that will do it (I don't remember which of the English speaking / tourist friendly ones do it, but I know some do), but it's always accompanied by a hefty price increase. Also, while I don't find driving in Hungary to be particularly challenging, Serbian drivers can be aggressive, and Belgrade (at least the parts you'll want to see) can be very difficult to drive in.\r\n\r\nAir Serbia has twice daily flights between Budapest-- usually for less than $100. It's more expensive than a bus, but the ride on the M5 to Belgrade is pretty boring, and you won't spend hours waiting at the Hungary-Serbia border crossing.",
     "username" : "RearAdmiralP",
-    "timestamp" : "2024-12-23 13:50:13"
+    "timestamp" : "2024-12-23T12:50:13Z"
   }, {
     "reported_comment" : false,
     "body" : "You do need an IDP or a certified translation of your US driver's licence. But the second one would only allow you to drive in Hungary.\n\nAlso are you sure you would be comfortable driving here? I have some friends from the US who tried it and gave up on the idea very quickly.",
     "username" : "kenwoolf",
-    "timestamp" : "2024-12-23 11:38:54"
+    "timestamp" : "2024-12-23T10:38:54Z"
   }, {
     "reported_comment" : false,
     "body" : "Just take a flight, there are two direct ones by Air Serbia and cost about a 100 bucks. Much easier and quicker than driving or taking a bus",
     "username" : "SGTLincolnOsiris10",
-    "timestamp" : "2024-12-23 13:41:33"
+    "timestamp" : "2024-12-23T12:41:33Z"
   }, {
     "reported_comment" : false,
     "body" : "If you dont need a car, then Flixbus would probably be cheaper",
     "username" : "Davidra_05",
-    "timestamp" : "2024-12-23 13:23:47"
+    "timestamp" : "2024-12-23T12:23:47Z"
   }, {
     "reported_comment" : false,
     "body" : "Yes. But you have to tell them you're taking the car out of the Hungary and make sure the country you're going to, in this case Serbia, is allowed. If you \"sneak out\" then insurance won't cover anything if the car gets damaged. Also, nobody cares about the flimsy $5 AAA card, it's useless.",
     "username" : "pennyPete",
-    "timestamp" : "2024-12-23 11:43:12"
+    "timestamp" : "2024-12-23T10:43:12Z"
   }, {
     "reported_comment" : false,
     "body" : "Make sure the car rental place allows bringing the car to Serbia. There are many which only allow EU countries because of insurance reasons. There are also some which allow it but for a bigger surcharge.",
     "username" : "tucsok26",
-    "timestamp" : "2024-12-23 13:10:42"
+    "timestamp" : "2024-12-23T12:10:42Z"
   }, {
     "reported_comment" : false,
     "body" : "Don't know the answer, but for sure with an US driver's license you will be a danger on the road. The driving rules are different in many mayor ways in the EU compared to the US what you are used to.",
     "username" : "lamalasx",
-    "timestamp" : "2024-12-23 13:41:11"
+    "timestamp" : "2024-12-23T12:41:11Z"
   }, {
     "reported_comment" : false,
     "body" : "Almost no car rental places will let you take an EU car out of EU (maybe to Switzerland). Just take the flixbus. Or if you don’t want to take the bus take a relatively short regional flight with air Serbia.",
     "username" : "superopiniondude",
-    "timestamp" : "2024-12-23 14:18:11"
+    "timestamp" : "2024-12-23T13:18:11Z"
   }, {
     "reported_comment" : false,
     "body" : "It’s 6 hours. Not bad. Done it multiple times.",
     "username" : "adv0catus",
-    "timestamp" : "2024-12-23 11:45:28"
+    "timestamp" : "2024-12-23T10:45:28Z"
   }, {
     "reported_comment" : false,
     "body" : "It's definitely better here than Florida.",
     "username" : "vahokif",
-    "timestamp" : "2024-12-23 11:47:30"
+    "timestamp" : "2024-12-23T10:47:30Z"
   }, {
     "reported_comment" : false,
     "body" : "I have rented multiple cars in Hungary with my American drivers license without an IDP or certified translation. Both from smaller, private companies and from Avis. The concerns about driving to Serbia are real, however",
     "username" : "polishprocessors",
-    "timestamp" : "2024-12-23 12:06:48"
+    "timestamp" : "2024-12-23T11:06:48Z"
   }, {
     "reported_comment" : false,
     "body" : "What’s wrong with driving here? Where I live there is roundabouts (but they’re rare) which took a little but to adjust to. But traffic and all of that was fine.",
     "username" : "adv0catus",
-    "timestamp" : "2024-12-23 11:46:32"
+    "timestamp" : "2024-12-23T10:46:32Z"
   }, {
     "reported_comment" : false,
     "body" : "I have my own car here in Budapest but a few times I've rented cars in Hungary with just my USA license.  Parenthetically, you're also supposed to get a Hungarian license after a year here but I haven't.  Been stopped a few times buy the cops for traffic violations, gave them my USA/NY license.  No one cares. \n\nAgree that driving here is...different.  Stay to the right, use your directional signals and don't shit your pants when you're on the highway and someone going 95mph pulls two feet from your rear bumper and flashes their lights at you to get the fuck out of the way.",
     "username" : "hughcruik",
-    "timestamp" : "2024-12-23 14:49:32"
+    "timestamp" : "2024-12-23T13:49:32Z"
   }, {
     "reported_comment" : false,
     "body" : "I think they were from California. :D",
     "username" : "kenwoolf",
-    "timestamp" : "2024-12-23 12:14:16"
+    "timestamp" : "2024-12-23T11:14:16Z"
   }, {
     "reported_comment" : false,
     "body" : "Yeah, I think companies have some agency when it comes to this. But most should accept a translation.",
     "username" : "kenwoolf",
-    "timestamp" : "2024-12-23 12:11:45"
+    "timestamp" : "2024-12-23T11:11:45Z"
   }, {
     "reported_comment" : false,
     "body" : "They told me Hungarian drivers were more aggressive than what they are used to. But I kinda found that hard to believe. :D",
     "username" : "kenwoolf",
-    "timestamp" : "2024-12-23 12:13:38"
+    "timestamp" : "2024-12-23T11:13:38Z"
   }, {
     "reported_comment" : false,
     "body" : "At least when I looked into this about 15 years ago, you did not need an international license to drive in Hungary as an American. Even if you move to Hungary, your American driver's license is valid for up to 1 year in Hungary. I've been stopped multiple times by police and it has never been an issue.  \nRental car companies might have their own policy on the matter, but the law doesn't require the international license.   \n  \nJust to be clearly this is not true the other way around. You cannot use a Hungarian driver's license in the US without the translation.",
     "username" : "AntalRyder",
-    "timestamp" : "2024-12-23 13:39:54"
+    "timestamp" : "2024-12-23T12:39:54Z"
   }, {
     "reported_comment" : false,
     "body" : "Yeah, I never had any problems. In 2 weeks + 2 weeks (separate trips) I drove probably ~7k km across 3 countries and never had an issue.\n\nEdit: Also another ~1k km between here and Debrecen.",
     "username" : "adv0catus",
-    "timestamp" : "2024-12-23 12:16:43"
+    "timestamp" : "2024-12-23T11:16:43Z"
   }, {
     "reported_comment" : false,
     "body" : "I dont know what part of the US OP is from. But after living in Texas, Hungarian traffic seemed positively civilized and calm.",
     "username" : "ManufacturerLost7686",
-    "timestamp" : "2024-12-23 12:20:31"
+    "timestamp" : "2024-12-23T11:20:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Thanks, I thought so. Most likely it was just them then. I also have a few neighbors from Canada and they never complained either. But different country, so I wasn't sure how relevant that was.",
     "username" : "kenwoolf",
-    "timestamp" : "2024-12-23 12:23:49"
+    "timestamp" : "2024-12-23T11:23:49Z"
   }, {
     "reported_comment" : false,
     "body" : "I’m Canadian, Southern Ontario born and raised. Frequently battles the 400 series highways. So maybe my perception is skewed. I didn’t break a sweat at a 2, 3, 4+ lane highway here. When my friend visited, he was amazed at the like 16+ lanes beside Pearson airport.",
     "username" : "adv0catus",
-    "timestamp" : "2024-12-23 12:25:19"
+    "timestamp" : "2024-12-23T11:25:19Z"
   } ]
 }

@@ -105,12 +105,12 @@ public class PostsCleaning {
             int numComments = ((JSONArray) originalJson.get("comments")).size();
 
             transformedJson.put("id", globalIdCounter.getAndIncrement());
-            transformedJson.put("community_name", communityName);
+            transformedJson.put("community", communityName);
             transformedJson.put("username", user);
-            transformedJson.put("post_body", postBody);
+            transformedJson.put("post", postBody);
             transformedJson.put("timestamp", formattedTimestamp);
-            transformedJson.put("num_comment", numComments);
-            transformedJson.put("reported_post", false);
+            transformedJson.put("nomment", numComments);
+            transformedJson.put("reportedpost", false);
 
             JSONArray transformedComments = new JSONArray();
             JSONArray originalComments = (JSONArray) originalJson.get("comments");
@@ -200,18 +200,20 @@ public class PostsCleaning {
         try {
             Instant instant = Instant.ofEpochSecond(timestamp);
             LocalDateTime dateTime = LocalDateTime.ofInstant(instant, ZoneId.systemDefault());
-
+    
             // Corregge l'anno se è errato
             if (dateTime.getYear() < 2018) {
                 dateTime = dateTime.withYear(2022); // Anni sotto il 2018 vengono corretti al 2022
             } else if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
                 dateTime = dateTime.withYear(2024);
             }
-
-            return dateTime.format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+    
+            // Restituisce il timestamp in formato ISO 8601
+            return dateTime.atZone(ZoneId.systemDefault()).toInstant().toString();
         } catch (Exception e) {
             System.err.println("Errore durante la conversione del timestamp: " + timestamp);
-            return "2024-01-01 00:00:00"; // Valore di fallback
+            return Instant.ofEpochSecond(0).toString(); // Valore di fallback in ISO 8601
         }
     }
+    
 }

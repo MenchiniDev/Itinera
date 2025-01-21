@@ -1,10 +1,10 @@
 {
   "id" : 200287,
-  "community_name" : "Vienna",
+  "community" : "Vienna",
   "username" : "Spontanvegetation420",
-  "post_body" : "We’re moving to r/wien! :D",
-  "timestamp" : "2024-11-16 12:33:56",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "We’re moving to r/wien! :D",
+  "timestamp" : "2024-11-04T06:16:12Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

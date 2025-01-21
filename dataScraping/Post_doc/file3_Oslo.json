@@ -1,10 +1,10 @@
 {
   "id" : 200201,
-  "community_name" : "Oslo",
+  "community" : "Oslo",
   "username" : "Ok_Butterfly_5184",
-  "post_body" : "Advice",
-  "timestamp" : "2024-11-16 12:21:46",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Advice",
+  "timestamp" : "2024-11-04T06:07:39Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

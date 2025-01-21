@@ -1,20 +1,20 @@
 {
   "id" : 200111,
-  "community_name" : "Hamburg",
+  "community" : "Hamburg",
   "username" : "OvertlyShape",
-  "post_body" : "German Port Museum",
-  "timestamp" : "2024-12-23 07:49:37",
-  "num_comment" : 2,
-  "reported_post" : false,
+  "post" : "German Port Museum",
+  "timestamp" : "2024-12-23T06:49:37Z",
+  "nomment" : 2,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "My working place is right the next street and yes you can see the Peking it’s a free area where you can walk around. You maybe just can’t go onto the Peking. And you can walk around outside off the port museum there are some machines like VC’s that you can look at. It’s all in a free accessible area",
     "username" : "Bobfb",
-    "timestamp" : "2024-12-23 07:49:37"
+    "timestamp" : "2024-12-23T06:49:37Z"
   }, {
     "reported_comment" : false,
     "body" : "Yes, that’s possible",
     "username" : "Cute_Tomato_4659",
-    "timestamp" : "2024-12-23 09:03:48"
+    "timestamp" : "2024-12-23T08:03:48Z"
   } ]
 }

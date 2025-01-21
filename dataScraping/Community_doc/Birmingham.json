@@ -2,14 +2,14 @@
   "id" : 200467,
   "city" : "Birmingham",
   "name" : "Birmingham",
-  "created" : "2024-12-16 15:22:02",
+  "created" : "2024-12-16T14:22:02Z",
   "post" : [ {
-    "text" : "What's Happening In Birmingham This Week? December 16, 2024",
+    "text" : null,
     "user" : "AutoModerator",
-    "timestamp" : "2024-12-16 16:22:02"
+    "timestamp" : "2024-12-16T15:22:02Z"
   }, {
-    "text" : "Find a friend this week!",
+    "text" : null,
     "user" : "AutoModerator",
-    "timestamp" : "2024-12-17 12:35:23"
+    "timestamp" : "2024-12-17T11:35:23Z"
   } ]
 }

@@ -1,55 +1,55 @@
 {
   "id" : 200426,
-  "community_name" : "London",
+  "community" : "London",
   "username" : "polkadotska",
-  "post_body" : "London info",
-  "timestamp" : "2024-12-17 13:52:46",
-  "num_comment" : 9,
-  "reported_post" : false,
+  "post" : "London info",
+  "timestamp" : "2024-12-17T12:52:46Z",
+  "nomment" : 9,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "It doesn't work at all on Old Reddit.",
     "username" : "Angel_Omachi",
-    "timestamp" : "2024-12-17 17:57:11"
+    "timestamp" : "2024-12-17T16:57:11Z"
   }, {
     "reported_comment" : false,
     "body" : "Hey folks, if anyone is wondering what this is, we're testing the new Community Hub feature on Reddit, will be filling out some of the sections in the next few hours/days.",
     "username" : "ianjm",
-    "timestamp" : "2024-12-17 13:52:46"
+    "timestamp" : "2024-12-17T12:52:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Doesn't work in third party apps either which is a shame",
     "username" : "JBWalker1",
-    "timestamp" : "2024-12-20 23:40:53"
+    "timestamp" : "2024-12-20T22:40:53Z"
   }, {
     "reported_comment" : false,
     "body" : "Ooo that's cool. Maybe public transport resources in there? E.g. a link to [https://truetubestatus.com/](https://truetubestatus.com/) maybe (I'm the creator.)",
     "username" : "SimpleMetrics",
-    "timestamp" : "2024-12-21 19:54:35"
+    "timestamp" : "2024-12-21T18:54:35Z"
   }, {
     "reported_comment" : false,
     "body" : "That's actually quite cool, too bad it doesnt work on old reddit and new new reddit is even worse than new reddit.",
     "username" : "ab00",
-    "timestamp" : "2024-12-19 08:51:08"
+    "timestamp" : "2024-12-19T07:51:08Z"
   }, {
     "reported_comment" : false,
     "body" : "what dis",
     "username" : "Triptycho",
-    "timestamp" : "2024-12-17 15:19:40"
+    "timestamp" : "2024-12-17T14:19:40Z"
   }, {
     "reported_comment" : false,
     "body" : "Yep, guess I'll file this under a list of things I'll never see or use then",
     "username" : "AnotherSlowMoon",
-    "timestamp" : "2024-12-17 21:01:53"
+    "timestamp" : "2024-12-17T20:01:53Z"
   }, {
     "reported_comment" : false,
     "body" : "Yeah, annoying. Most people we're aiming this at will probably be new users on new Reddit or mobile though.",
     "username" : "ianjm",
-    "timestamp" : "2024-12-17 18:18:35"
+    "timestamp" : "2024-12-17T17:18:35Z"
   }, {
     "reported_comment" : false,
     "body" : "new phone",
     "username" : "ianjm",
-    "timestamp" : "2024-12-17 15:44:19"
+    "timestamp" : "2024-12-17T14:44:19Z"
   } ]
 }

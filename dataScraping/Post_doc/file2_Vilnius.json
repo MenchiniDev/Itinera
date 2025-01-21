@@ -1,55 +1,55 @@
 {
   "id" : 200069,
-  "community_name" : "Vilnius",
+  "community" : "Vilnius",
   "username" : "saae1021",
-  "post_body" : "Gas and electric costs",
-  "timestamp" : "2024-12-23 08:46:57",
-  "num_comment" : 9,
-  "reported_post" : false,
+  "post" : "Gas and electric costs",
+  "timestamp" : "2024-12-23T07:46:57Z",
+  "nomment" : 9,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "It depends on buildings age. Some does not keep heat “in” very good, so you may spend a lot. Like in flat in Justiniskes i was getting for heating and hot water around 120 a month only.",
     "username" : "Zorkofskij",
-    "timestamp" : "2024-12-23 08:46:57"
+    "timestamp" : "2024-12-23T07:46:57Z"
   }, {
     "reported_comment" : false,
     "body" : "It’s expensive in old town buildings with municipal heating. They charge you per sq meter. I lived in the old town a few years back in a similar size flat and it wasn’t unusual to pay 250-300 for two months.",
     "username" : "baltbcn90",
-    "timestamp" : "2024-12-23 10:45:41"
+    "timestamp" : "2024-12-23T09:45:41Z"
   }, {
     "reported_comment" : false,
     "body" : "What's the bill? Really depends on age and thermal insulation/building's class. We pay up to 100euros for our 140sq. m. house, but building is still quite new.",
     "username" : "SmartPickIe",
-    "timestamp" : "2024-12-23 08:57:35"
+    "timestamp" : "2024-12-23T07:57:35Z"
   }, {
     "reported_comment" : false,
     "body" : "If it's bellow 250 you're good ",
     "username" : "vilniauselektrikas",
-    "timestamp" : "2024-12-23 09:06:20"
+    "timestamp" : "2024-12-23T08:06:20Z"
   }, {
     "reported_comment" : false,
     "body" : "So what's the bill? Without this info, no one would tell you is it a lot or normal price.",
     "username" : "LonelyAssignment1680",
-    "timestamp" : "2024-12-23 10:17:40"
+    "timestamp" : "2024-12-23T09:17:40Z"
   }, {
     "reported_comment" : false,
     "body" : "You live in Senamiestis, possibly old house which has shitty insulation (if any). And when you pay for m2 of heating, not as a flat but as a whole building, energy costs is divided by m2 for each flat. So you will pay a metric fuckton of money. Get a flat in a renovated house, or newly built one, you will pay \\~100 Euros/month for everything + rent.",
     "username" : "F4ctr",
-    "timestamp" : "2024-12-23 12:13:54"
+    "timestamp" : "2024-12-23T11:13:54Z"
   }, {
     "reported_comment" : false,
     "body" : "Ive had been living for some time in senamiestis 3 floor apartment of 63sqm or so, it seemed always not that warm and i kept the heating on all the time. I learned to asjust that manually when i dont need the heat that much after getting a monthly bill of around 300 euros.",
     "username" : "WOXO0lz",
-    "timestamp" : "2024-12-23 13:31:26"
+    "timestamp" : "2024-12-23T12:31:26Z"
   }, {
     "reported_comment" : false,
     "body" : "You did not mention how much is the bill or broke it down! So I have no clue what to say about it. However, you should be very aware before renting that the bills are supper important factor to consider, type of building, type of heating, Insulation, does the son reach the place, is there high administration fees. Often people see the place and fall in love with it that wanna rent it asap, but you really have to ask the landlord or the broker to show you previous bills, do not trust \" it should be around 80€/90€\". Good luck",
     "username" : "ApprehensiveTruck655",
-    "timestamp" : "2024-12-23 13:44:38"
+    "timestamp" : "2024-12-23T12:44:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Yeah, agree with this comment. I live in Pašilaičiai and I paid 105 eur for a heating 😄 in tital utility bills - 150 euros",
     "username" : "Serious-Tea1832",
-    "timestamp" : "2024-12-23 08:57:04"
+    "timestamp" : "2024-12-23T07:57:04Z"
   } ]
 }
