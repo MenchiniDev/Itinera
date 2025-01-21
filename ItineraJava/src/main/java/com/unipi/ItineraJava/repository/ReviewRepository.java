@@ -17,11 +17,7 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
     })
     List<Review> findReportedComments();
 
-    @Aggregation(pipeline = {
-            "{ '$match': { 'city': ?0, 'category': ?1, 'name': ?2 } }", // Filtra per città, categoria e nome
-            "{ '$unwind': '$reviews_info' }", // Esplodi le recensioni
-            "{ '$sort': { 'reviews_info.overall_rating': -1 } }", // Ordina per stelle
-            "{ '$project': { 'reviews_info': 1, '_id': 0 } }" // Ritorna solo il campo 'reviews'
-    })
-    List<Review> getReviewsByCityCategoryAndName(String city, String category, String name);
+    @Query("{'place_name': ?0}")
+    List<Review> findByPlace(String name);
+
 }
