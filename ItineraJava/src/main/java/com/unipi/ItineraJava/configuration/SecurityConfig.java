@@ -46,7 +46,7 @@ public class SecurityConfig {
                     .authenticated(); // Tutti gli altri richiedono autenticazione
         });
 
-        // Aggiungi il filtro JWT alla catena di filtri di Spring Security
+        // Aggiungo il filtro JWT alla catena di filtri di Spring Security
         log.info("Adding JWT Authentication Filter...");
         http.addFilterBefore(new JwtAuthenticationFilter(jwtTokenProvider), UsernamePasswordAuthenticationFilter.class);
 

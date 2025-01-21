@@ -23,14 +23,16 @@ public class MongoDBUploader {
         String mongoUri = "mongodb://myUserAdmin:root@localhost:27017/itineraDB?authSource=admin&authMechanism=SCRAM-SHA-1";
         String databaseName = "itineraDB"; // Nome del database
         String collectionName = "Community";   // Nome della collezione
+
         String jsonFolderPath = "../dataScraping/Community_doc"; // Percorso reale dei file JSON
+
 
         // Connessione a MongoDB
         try (MongoClient mongoClient = getMongoConnection(mongoUri)) {
             MongoDatabase database = mongoClient.getDatabase(databaseName);
             MongoCollection<Document> collection = database.getCollection(collectionName);
 
-            // Leggi i file JSON dalla cartella
+            // Leggo i file JSON dalla cartella
             File folder = new File(jsonFolderPath);
             File[] jsonFiles = folder.listFiles((dir, name) -> name.endsWith(".json"));
 

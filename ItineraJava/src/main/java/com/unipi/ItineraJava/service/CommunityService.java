@@ -73,34 +73,34 @@ public class CommunityService {
     //////// GRAPH
     
     public void joinCommunity(String username, String city) {
-        // Verifica se la community esiste
+        // Verifico se la community esiste
         if (!communityNeo4jRepository.existsByCity(city)) {
-            // Lancia un'eccezione con un messaggio personalizzato
+            // Lancio un'eccezione con un messaggio personalizzato
             throw new IllegalArgumentException("Community not found: " + city);
         }
     
-        // Verifica se la relazione esiste già
+        // Verifico se la relazione esiste già
         if (communityNeo4jRepository.isAlreadyJoined(username, city)) {
-            // Lancia un'eccezione con un messaggio personalizzato
+            // Lancio un'eccezione con un messaggio personalizzato
             throw new IllegalStateException("User " + username + " has already joined the community: " + city);
         }
     
-        // Se i controlli sono positivi, crea la relazione
+        // Se i controlli sono positivi, creo la relazione
         communityNeo4jRepository.createJoinToCommunity(username, city);
     
-        // Log di successo (opzionale)
+        
         System.out.println("User " + username + " successfully joined community: " + city);
     }
     
 
 
     public void leaveCommunity(String username, String city) {
-        // Logica per controllare e creare la relazione
-      //Verifica se la community esiste
+
+      //Verifico se la community esiste
         if (!communityNeo4jRepository.existsByCity(city)) {
             throw new IllegalArgumentException("Community not found: " + city);
         }
-        //Verifica se la relazione esiste o no
+        //Verifico se la relazione esiste o no
         if (!communityNeo4jRepository.isAlreadyJoined(username, city)) { //se non esiste eccezione
             throw new IllegalStateException("User " + username + " have not joined the community: " + city);
         }

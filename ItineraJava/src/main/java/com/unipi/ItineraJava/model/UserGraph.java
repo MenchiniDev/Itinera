@@ -15,7 +15,7 @@ public class UserGraph {
     @GeneratedValue
     private long id;
 
-    @Property("Username")
+    @Property("username")
     private String username;
 
     @Relationship(type = "CONNECTED", direction = Relationship.Direction.OUTGOING)
@@ -76,16 +76,8 @@ public class UserGraph {
         this.following = following;
     }
 
-    @Override
-    public String toString() {
-        return "UserGraph{" +
-            "username='" + username + '\'' +
-            ", connectedCommunity=" + (connectedCommunity != null ? connectedCommunity.getCity() : "null") +
-            ", posts=" + (posts != null ? posts.size() : "null") +
-            ", comments=" + (comments != null ? comments.size() : "null") +
-            ", following=" + (following != null ? following.size() : "null") +
-            '}';
-}
+
+
 
 
 }

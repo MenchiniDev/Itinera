@@ -6,7 +6,7 @@
   "timestamp" : "2024-12-23 10:04:54",
   "num_comment" : 12,
   "reported_post" : false,
-  "commenti" : [ {
+  "comment" : [ {
     "reported_comment" : false,
     "body" : "Probably will be fine. Probably.\n\nLooks like someone has been messing with that installation though. The loose wires, missing insulation box... Especially don't touch the exposed wires. Also I see what I think is a thermomotor (electrically controlled valve) lying loose on top of the heat exchanger (to the right). Basically someone has taken the whole thing apart?\n\nVery sad because these installations are basically unbreakable... if you leave them alone.\n\nThe right 230v plug is for your heating. You can unplug it which disables the pump. And then the limiter should prevent more heat from being added to the system.\nBetter also close the limiter. It's the manual valve to the absolute bottom right of your photo. Remember the setting! Have to put it back to the exact value it was, when you return.\n\nNo need to do anything with the warm water part (the heat exchanger on the left wall). It won't actively use much energy and it needs to maintain a constant heat to prevent salmonella.",
     "username" : "tz0",

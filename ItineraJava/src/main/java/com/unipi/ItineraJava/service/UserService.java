@@ -8,8 +8,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.unipi.ItineraJava.DTO.CommunityDTO;
+import com.unipi.ItineraJava.DTO.UserDTO;
 import com.unipi.ItineraJava.model.CommunityGraph;
 import com.unipi.ItineraJava.model.User;
+import com.unipi.ItineraJava.model.UserGraph;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -67,9 +69,20 @@ public class UserService{
     }
 
     // Aggiorna il campo "reported" per uno specifico username
+    // DA MODIFICARE CON AUTENTICAZIONE
     public void updateReportedByUsername(String username, boolean reported) {
         userRepository.updateReportedByUsername(username, reported);
     }
+
+    //trova
+    public Last_post getLastPostByUsername(String username) {
+        //prendo user
+        User user = userRepository.findByUsername(username)
+                .orElseThrow(() -> new IllegalArgumentException("User not found with username: " + username));
+
+         return user.getLastPost();
+    }
+
 
     public User updateLastPost(String username, String postBody) {
 
@@ -77,14 +90,14 @@ public class UserService{
         User user = userRepository.findByUsername(username)
                 .orElseThrow(() -> new IllegalArgumentException("User not found with username: " + username));
 
-        Last_post lastPost = new Last_post();
-        lastPost.setPost_body(postBody);
+        Last_post last_post = new Last_post();
+        last_post.setPost_body(postBody);
 
         String timestamp = LocalDateTime.now()
                 .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
-        lastPost.setTimestamp(timestamp);
+        last_post.setTimestamp(timestamp);
 
-        user.setLastPost(lastPost);
+        user.setLastPost(last_post);
 
         return userRepository.save(user);
     }
@@ -98,5 +111,39 @@ public class UserService{
         });
         return communities;
     }
-        
+
+    
+    public void followUser(String user, String userToFollow){
+        //controllo se esiste l'utente
+        if(!userNeo4jRepository.existsByUsername(userToFollow)){
+            throw new IllegalArgumentException("User not found: " + userToFollow);
+        }
+
+        //controllo se esiste già la relazione
+        if(userNeo4jRepository.existsFollowRelationship(user, userToFollow)){
+            throw new IllegalArgumentException("User already followed: " + userToFollow);
+        }
+
+        userNeo4jRepository.followUser(user, userToFollow);
+    }
+     
+
+    public void unfollowUser(String user, String userToUnfollow){
+
+        if(!userNeo4jRepository.existsByUsername(userToUnfollow)){
+            throw new IllegalArgumentException("User not found: " + userToUnfollow);
+        }
+
+        if(!userNeo4jRepository.existsFollowRelationship(user, userToUnfollow)){
+            throw new IllegalArgumentException("User not followed: " + userToUnfollow);
+        }
+    
+        userNeo4jRepository.unfollowUser(user, userToUnfollow);
+    }
+
+
+    public List<UserDTO> getFollowing(String username) {
+        return userNeo4jRepository.getFollowing(username);
+    }
+
 }

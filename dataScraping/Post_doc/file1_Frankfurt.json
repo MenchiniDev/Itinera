@@ -6,7 +6,7 @@
   "timestamp" : "2024-12-22 18:34:05",
   "num_comment" : 44,
   "reported_post" : false,
-  "commenti" : [ {
+  "comment" : [ {
     "reported_comment" : false,
     "body" : "You have posted a link to fr.de. Sometimes there is a softpaywall which demands that you switch off your adblocker. This is annoying but there seems to be no harm otherwise,\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*",
     "username" : "AutoModerator",

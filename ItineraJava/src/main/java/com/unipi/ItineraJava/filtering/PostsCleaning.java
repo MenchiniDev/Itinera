@@ -137,7 +137,7 @@ public class PostsCleaning {
                 }
             }
 
-            transformedJson.put("commenti", transformedComments);
+            transformedJson.put("comment", transformedComments);
 
             int counter = communityFileCounter.getOrDefault(communityName, 0) + 1;
             communityFileCounter.put(communityName, counter);
