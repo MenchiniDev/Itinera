@@ -25,10 +25,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+
 import com.unipi.ItineraJava.DTO.*;
 
 import com.unipi.ItineraJava.model.Last_post;
 import com.unipi.ItineraJava.model.User;
+
 import com.unipi.ItineraJava.repository.UserNeo4jRepository;
 import com.unipi.ItineraJava.repository.UserRepository;
 import com.unipi.ItineraJava.service.UserService;
@@ -109,18 +111,21 @@ class UserController {
         return ResponseEntity.ok(token);
     }
 
-
+    // http://localhost:8080/users
+    // returns a list with all users
     @GetMapping
-    public List<com.unipi.ItineraJava.model.User> getAllUsers() {
-        return userService.findAll();
+    public ResponseEntity<List<User>> getAllUsers(@RequestHeader("Authorization") String token) {
+        if (User.isAdmin(token)) {
+            return ResponseEntity.ok(userRepository.findAll());
+        }else
+        {
+            return ResponseEntity.status(401).body(null);
+        }
     }
 
-    @GetMapping("/{id}")
-    public Optional<com.unipi.ItineraJava.model.User> getUserById(@PathVariable String id) {
-        return userService.findById(id);
-    }
 
-
+    // http://localhost:8080/users/678f461050e5455936170332
+    // deletes an user
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
                                              @PathVariable String id) {
@@ -137,6 +142,7 @@ class UserController {
     }
 
     // PROFILE QUERIES
+    /*
     @GetMapping("/profile/numpost")
     public long getPostCount(@RequestHeader("Authorization") String token)
     {
@@ -163,19 +169,21 @@ class UserController {
         {
             return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
         }
-    }
-
+    }*/
+    // http://localhost:8080/users/profile/numreview
+    // working fine
     @GetMapping("/profile/numreview")
-    public long getReviewCount(@RequestHeader("Authorization") String token)
+    public String getReviewCount(@RequestHeader("Authorization") String token)
     {
         try {
             String username = JwtTokenProvider.getUsernameFromToken(token);
             if (username == null)
-                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
-            return ResponseEntity.ok(UserService.getNumReview(username)).getBody();
+                return ResponseEntity.status(401).body("Invalid token").getBody();
+            return ResponseEntity.ok("Num review for user " + username + " is " + UserService.getNumReview(username)).getBody();
         }catch (Exception e)
         {
-            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
+            e.printStackTrace();
+            return ResponseEntity.status(400).body("Invalid Reponse").getBody();
         }
     }
 
@@ -194,7 +202,7 @@ class UserController {
     }
 
 
-    // Endpoint per aggiornare il campo "reported" per uno specifico username
+    // Endpoint per aggiornare il campo "reported" per uno specifico user
     @PutMapping("/report/{username}")
     public ResponseEntity<?> reportUser(@PathVariable String username, @RequestParam boolean reported) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -210,13 +218,14 @@ class UserController {
     }
 
     //endpoint per ritornare l'ultimo post di un utente
-    @GetMapping("/lastPost/{username}")
-    public ResponseEntity<?> getLastPost(@PathVariable String username) {
+    //funzionante
+    @GetMapping("/lastpost/{username}")
+    public ResponseEntity<Last_post> getLastPost(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         // Verifica se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN)
-                    .body("User not authenticated. Please log in to access this endpoint.");
+                    .body(null);
         }
 
         try {
@@ -225,12 +234,13 @@ class UserController {
             // Verifica se l'utente ha un lastPost
             if (last_post == null) {
                 return ResponseEntity.status(HttpStatus.OK)
-                        .body("This user did not post anything yet.");
+                        .body(null);
             }
 
             return ResponseEntity.ok(last_post); // Restituisce il `lastPost` se trovato
         } catch (IllegalArgumentException ex) {
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(ex.getMessage()); // Restituisce un errore 404
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null); // Restituisce un errore 404
+
         }
     }
 

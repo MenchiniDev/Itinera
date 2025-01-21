@@ -31,8 +31,9 @@ public class UserService{
         this.userNeo4jRepository = userNeo4jRepository;
     }
 
-    public static long getNumReview(String username) {
-        return userRepository.countReviewsByUser(username);
+    public static String getNumReview(String username) {
+        Long count = userRepository.countReviewsByUser(username);
+        return String.valueOf(count);
     }
 
     public static long getPostCount(String username) {
@@ -43,12 +44,8 @@ public class UserService{
         return userRepository.countCommentsByUser(username);
     }
 
-    public List<com.unipi.ItineraJava.model.User> findAll() {
+    public List<User> findAll() {
         return userRepository.findAll();
-    }
-
-    public Optional<com.unipi.ItineraJava.model.User> findById(String id) {
-        return userRepository.findById(id);
     }
 
     public User save(User user) {

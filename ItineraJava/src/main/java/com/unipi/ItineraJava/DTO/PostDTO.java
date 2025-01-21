@@ -1,26 +1,26 @@
-package com.unipi.ItineraJava.model;
+package com.unipi.ItineraJava.DTO;
 
-
-import org.springframework.data.annotation.Id;
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.unipi.ItineraJava.model.Comment;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
-// POST
 @Document(collection = "Post")
-public class Post {
-    @Id
+public class PostDTO {
     private String id;
     private String community;
     private String username;
     private String post;
-    private String timestamp;
+    @JsonFormat(shape = JsonFormat.Shape.STRING)
+    private String timestamp; // Campo come LocalDateTime
     private int ncomment;
-    private boolean reportedpost; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
+    private boolean reported_post;
     private List<Comment> comment;
 
-    public Post() {}
+    public PostDTO() {}
+
     public String getId() {
         return id;
     }
@@ -46,30 +46,27 @@ public class Post {
         this.post = post;
     }
     public String getTimestamp() {
-        return timestamp;
+        return String.valueOf(timestamp);
     }
-    public void setTimestamp(String timestamp) {
-        this.timestamp = timestamp;
+    public void setTimestamp(LocalDateTime timestamp) {
+        this.timestamp = String.valueOf(timestamp);
     }
-    public int getNum_comment() {
+    public int getNcomment() {
         return ncomment;
     }
-    public void setNum_comment(int num_comment) {
-        this.ncomment = num_comment;
+    public void setNcomment(int ncomment) {
+        this.ncomment = ncomment;
     }
     public boolean isReported_post() {
-        return reportedpost;
+        return reported_post;
     }
     public void setReported_post(boolean reported_post) {
-        this.reportedpost = reported_post;
+        this.reported_post = reported_post;
     }
     public List<Comment> getComment() {
         return comment;
     }
-    public void setComment(List<Comment> commenti) {
-        this.comment = commenti;
+    public void setComment(List<Comment> comment) {
+        this.comment = comment;
     }
-
-
 }
-

@@ -1,6 +1,8 @@
 package com.unipi.ItineraJava.service;
 
 
+import com.unipi.ItineraJava.DTO.PostDTO;
+import com.unipi.ItineraJava.configuration.StringToLocalDateTimeConverter;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.PostRepository;
@@ -11,7 +13,10 @@ import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
+import java.util.Locale;
 import java.util.Optional;
 
 @Service
@@ -22,13 +27,34 @@ public class PostService {
     @Autowired
     private MongoTemplate mongoTemplate;
 
+    StringToLocalDateTimeConverter converter = new StringToLocalDateTimeConverter();
+
     public List<Post> findAll() {
         return postRepository.findAll();
     }
 
-    public Optional<Post> findById(String id) {
-        return postRepository.findById(id);
+    public Optional<Post> getPostById(String id) {
+        try {
+            return postRepository.getPostById(id)
+                    .map(postDTO -> {
+                        Post post = new Post();
+                        post.setId(postDTO.getId());
+                        post.setCommunity(postDTO.getCommunity());
+                        post.setUsername(postDTO.getUsername());
+                        post.setPost(postDTO.getPost());
+                        post.setTimestamp(postDTO.getTimestamp().toString());
+                        post.setNum_comment(postDTO.getNcomment());
+                        post.setReported_post(postDTO.isReported_post());
+                        post.setComment(postDTO.getComment());
+                        return post;
+                    });
+        }catch (Exception e) {
+            e.printStackTrace();
+            return Optional.empty();
+        }
     }
+
+
 
     public Post save(Post post) {
         return postRepository.save(post);
@@ -40,14 +66,29 @@ public class PostService {
 
     public boolean reportPost(String timestamp, String user, String community) {
         try {
-            Post post = postRepository.findPostByTimestampAndUsernameAndCommunity_name(timestamp, user, community);
-            post.setReported_post(true);
-            postRepository.save(post);
-            return true;
-        }catch (Exception e) {
+            Optional<PostDTO> postDTO = postRepository.findPostByTimestampAndUsernameAndCommunity(timestamp, user, community);
+
+            if (postDTO.isPresent()) {
+                PostDTO dto = postDTO.get();
+
+                Post post = new Post();
+                post.setTimestamp(dto.getTimestamp());
+                post.setUsername(dto.getUsername());
+                post.setCommunity(dto.getCommunity());
+
+                postRepository.save(post);
+                return true;
+            }
+
+            System.out.println("Non trovato");
+            return false;
+        } catch (Exception e) {
+            e.printStackTrace();
             return false;
         }
     }
+
+
 
     public boolean reportComment(String timestamp, String user, String text) {
         try {
