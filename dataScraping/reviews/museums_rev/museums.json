@@ -1,6 +1,6 @@
 [
     {
-        "id": 1600,
+        "_id": "1600",
         "name": "Pergamon Museum",
         "address": "Pergamonmuseum, 5, Am Kupfergraben, Friedrichswerder, Mitte, Berlin, 10117, Deutschland",
         "city": "Berlin",
@@ -11,7 +11,7 @@
         }
     },
     {
-        "id": 1601,
+        "_id": "1601",
         "name": "Museo del Prado",
         "address": "Museo del Prado, Paseo del Prado, Jerónimos, Retiro, Madrid, Comunidad de Madrid, 28014, España",
         "city": "Madrid",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "id": 1602,
+        "_id": "1602",
         "name": "Kunsthistorisches Museum",
         "address": "Kunsthistorisches Museum, 5, Burgring, Regierungsviertel, Innere Stadt, Wien, 1010, Österreich",
         "city": "Vienna",
@@ -33,7 +33,7 @@
         }
     },
     {
-        "id": 1603,
+        "_id": "1603",
         "name": "National Museum of Art of Romania",
         "address": "Muzeul Național de Artă al României, 49-53, Calea Victoriei, Teatrului, Cișmigiu, Sector 1, București, 010063, România",
         "city": "Bucharest",
@@ -44,7 +44,7 @@
         }
     },
     {
-        "id": 1604,
+        "_id": "1604",
         "name": "Hungarian National Gallery",
         "address": "Magyar Nemzeti Galéria, 2, Szent György tér, Vár, I. kerület, Budapest, Közép-Magyarország, 1014, Magyarország",
         "city": "Budapest",
@@ -55,7 +55,7 @@
         }
     },
     {
-        "id": 1605,
+        "_id": "1605",
         "name": "Pinacoteca di Brera",
         "address": "Pinacoteca di Brera, 28, Via Brera, Cerchia dei Navigli, Municipio 1, Milano, Lombardia, 20121, Italia",
         "city": "Milan",
@@ -66,7 +66,7 @@
         }
     },
     {
-        "id": 1606,
+        "_id": "1606",
         "name": "National Museum (Národní muzeum)",
         "address": "Národní muzeum, 68, Václavské náměstí, Nové Město, Praha 1, Praha, obvod Praha 1, Hlavní město Praha, Praha, 110 00, Česko",
         "city": "Prague",
@@ -77,7 +77,7 @@
         }
     },
     {
-        "id": 1607,
+        "_id": "1607",
         "name": "Royal Museums of Fine Arts of Belgium",
         "address": "Musées royaux des Beaux-Arts de Belgique - Koninklijke Musea voor Schone Kunsten van België, Rue de la Régence - Regentschapsstraat, Quartier Royal - Koninklijke Wijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien",
         "city": "Brussels",
@@ -88,7 +88,7 @@
         }
     },
     {
-        "id": 1608,
+        "_id": "1608",
         "name": "Birmingham Museum and Art Gallery",
         "address": "Birmingham Museum and Art Gallery, Eden Place, Chinese Quarter, Ladywood, Park Central, Birmingham, West Midlands, England, B3 3SD, United Kingdom",
         "city": "Birmingham",
@@ -99,7 +99,7 @@
         }
     },
     {
-        "id": 1609,
+        "_id": "1609",
         "name": "Egyptian Museum",
         "address": "Museo Egizio, 6, Via Accademia delle Scienze, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
         "city": "Turin",
@@ -110,7 +110,7 @@
         }
     },
     {
-        "id": 1610,
+        "_id": "1610",
         "name": "British Museum",
         "address": "British Museum, Great Russell Street, Saint Giles, Bloomsbury, London Borough of Camden, London, Greater London, England, WC1B 3DG, United Kingdom",
         "city": "London",

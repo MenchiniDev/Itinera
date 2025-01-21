@@ -2,6 +2,9 @@ import json
 import random
 from datetime import datetime, timedelta
 
+def format_iso8601(date_obj):
+    return date_obj.isoformat(timespec="microseconds")
+
 def process_json_and_create_first_file(input_json_file, username_file, output_json_file):
     # Processa un file JSON e aggiunge dettagli come ID, timestamp, username, ecc.
     
@@ -29,7 +32,7 @@ def process_json_and_create_first_file(input_json_file, username_file, output_js
             hours=random.randint(0, 23),
             minutes=random.randint(0, 59)
         )
-        formatted_date = (random_date + random_time).strftime("%m-%d-%Y %H:%M")
+        formatted_date =random_date + random_time
 
         # Seleziona il prossimo username ciclicamente
         username = usernames[id_counter % len(usernames)]
@@ -37,8 +40,8 @@ def process_json_and_create_first_file(input_json_file, username_file, output_js
         processed_review = {
             "place_name": review.get("restaurant_name"),
             "text": review.get("review_full"),
-            "timestamp": formatted_date,
-            "rev_id": id_counter,
+            "timestamp": format_iso8601(formatted_date),
+            "_id": str(id_counter),
             "user": username,
             "stars": int(review.get("rating_review")),  # converto a intero 
             "reported": False
@@ -107,7 +110,7 @@ def create_second_file(input_json_reviews, input_json_addresses, output_json_fil
 
         # Crea l'oggetto del ristorante
         restaurant_entry = {
-            "id": id_counter,
+            "_id": str(id_counter),
             "name": restaurant_name,
             "address": address,
             "city": city,

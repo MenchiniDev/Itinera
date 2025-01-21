@@ -3,12 +3,11 @@ package com.unipi.ItineraJava.model;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "reviews")
+@Document(collection = "Reviews")
 public class Review {
-
     @Id
     private String id;
-    private String placeId; // ID del place a cui è associata la recensione
+    private String place_name; // cambiato place id_con place_name e rinominati gli usages
     private String user;
     private int stars;
     private String text;
@@ -18,8 +17,8 @@ public class Review {
     // Getters e Setters
     public String getId() { return id; }
     public void setId(String id) { this.id = id; }
-    public String getPlaceId() { return placeId; }
-    public void setPlaceId(String placeId) { this.placeId = placeId; }
+    public String getPlace_name() { return place_name; }
+    public void setPlace_name(String place_name) { this.place_name = place_name; }
     public String getUser() { return user; }
     public void setUser(String user) { this.user = user; }
     public int getStars() { return stars; }

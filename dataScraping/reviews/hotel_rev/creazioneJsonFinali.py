@@ -1,5 +1,10 @@
 import json
+import random
 from collections import defaultdict
+from datetime import datetime, timedelta
+
+def format_iso8601(date_obj):
+    return date_obj.isoformat(timespec="microseconds")
 
 def create_json_files(input_file, usernames_file, reviews_output_file, hotels_output_file):
     # Carica il file di input
@@ -25,12 +30,24 @@ def create_json_files(input_file, usernames_file, reviews_output_file, hotels_ou
 
     username_index = 0
     for review in reviews:
+        # Genera una data randomica tra il 2018 e il 2024
+        start_date = datetime(2018, 1, 1)
+        end_date = datetime(2024, 12, 31)
+        random_date = start_date + timedelta(days=random.randint(0, (end_date - start_date).days))
+        # Aggiungi un'ora randomica
+        random_time = timedelta(
+            hours=random.randint(0, 23),
+            minutes=random.randint(0, 59)
+        )
+        formatted_date =random_date + random_time
+        
+        
         # Creazione del JSON per le recensioni
         review_entry = {
             "place_name": review.get("name", ""),
             "text": review.get("text", ""),
-            "timestamp": review.get("timestamp", ""),
-            "rev_id": review_id,
+            "timestamp": format_iso8601(formatted_date), #porto la data nel formato iso 8601
+            "_id": str(review_id),
             "user": usernames[username_index],
             "stars": review.get("stars", 0),
             "reported": False
@@ -50,7 +67,7 @@ def create_json_files(input_file, usernames_file, reviews_output_file, hotels_ou
             "tot_rev_number": len(stars)
         }
         hotel_entry = {
-            "id": hotel_id,
+            "_id": str(hotel_id),
             "name": name,
             "address": address,
             "city": city,

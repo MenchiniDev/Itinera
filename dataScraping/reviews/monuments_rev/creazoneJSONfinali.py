@@ -1,4 +1,9 @@
 import json
+from datetime import datetime, timedelta
+import random
+
+def format_iso8601(date_obj):
+    return date_obj.isoformat(timespec="microseconds")
 # Funzione per generare il primo file JSON
 def generate_first_file(input_file, username_file, output_file):
     try:
@@ -18,11 +23,20 @@ def generate_first_file(input_file, username_file, output_file):
         username_index = 0
 
         for entry in data:
+            
+            # timestamp fittizio in formato iso8601
+            start_date = datetime(2018, 1, 1)
+            end_date = datetime(2024, 12, 31)
+            random_date = start_date + timedelta(days=random.randint(0, (end_date - start_date).days))
+            random_time = timedelta(hours=random.randint(0, 23), minutes=random.randint(0, 59))
+            t=random_date + random_time
+            timestamp = format_iso8601(t)
+            
             transformed_entry = {
                 "place_name": entry.get("name", ""),
                 "text": entry.get("text", ""),
-                "timestamp": entry.get("timestamp", ""),
-                "rev_id": rev_id, 
+                "timestamp": timestamp,
+                "_id": str(rev_id), 
                 "user": usernames[username_index],  # Assegna username in modo ciclico
                 "stars": entry.get("rating", 0),
                 "reported": False 
@@ -99,7 +113,7 @@ def generate_second_file(input_file, address_file, output_file):
             average_rating = total_rating / review_count if review_count > 0 else 0
 
             transformed_entry = {
-                "id": id_counter,
+                "_id": str(id_counter),
                 "name": name,  
                 "address": find_address(name, address_map),  
                 "city": cities_by_name.get(name, ""),  # Ottieni la città associata
