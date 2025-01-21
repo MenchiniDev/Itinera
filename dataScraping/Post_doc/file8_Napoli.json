@@ -1,35 +1,35 @@
 {
   "id" : 200361,
-  "community_name" : "Napoli",
+  "community" : "Napoli",
   "username" : "NationalMind6400",
-  "post_body" : "La municipale a Napoli non esiste",
-  "timestamp" : "2024-12-22 20:09:48",
-  "num_comment" : 5,
-  "reported_post" : false,
+  "post" : "La municipale a Napoli non esiste",
+  "timestamp" : "2024-12-22T19:09:48Z",
+  "nomment" : 5,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Stamattina un figlio di puttana è salito su un marciapiede con la moto e per poco non mi investiva mentre uscivo dal cancello di casa mia. Mi si è fermato davanti per un pelo e quando ho avuto da ridire in realtà ho scoperto che la colpa fosse mia perché non avevo guardato. A napoli ci sono i napoletani e le scimmie. Il problema è che le scimmie si riproducono più di noi e ci atterreranno tutti prima o poi\n\nEdit: typo",
     "username" : "sebspi",
-    "timestamp" : "2024-12-22 20:09:48"
+    "timestamp" : "2024-12-22T19:09:48Z"
   }, {
     "reported_comment" : false,
     "body" : "Non si rispetta nemmeno più la segnaletica stradale e i semafori, stavo per essere investita diverse volte nei pressi di piazza borsa e via Medina...",
     "username" : "Terrible_Wonder9080",
-    "timestamp" : "2024-12-22 20:47:29"
+    "timestamp" : "2024-12-22T19:47:29Z"
   }, {
     "reported_comment" : false,
     "body" : "Una volta ho visto un agente della municipale lavorare. Purtroppo ha smesso prima che riuscissi a tirare fuori il telefono per fare il video.",
     "username" : "andxj",
-    "timestamp" : "2024-12-22 20:47:17"
+    "timestamp" : "2024-12-22T19:47:17Z"
   }, {
     "reported_comment" : false,
     "body" : "Vengo spesso a Napoli..secondo me adesso saranno proprio latitanti con il nuovo cds..o no",
     "username" : "subnet27",
-    "timestamp" : "2024-12-23 13:27:38"
+    "timestamp" : "2024-12-23T12:27:38Z"
   }, {
     "reported_comment" : false,
     "body" : "La municipale a Napoli è una metastasi purulenta",
     "username" : "Alex-Man",
-    "timestamp" : "2024-12-22 23:11:32"
+    "timestamp" : "2024-12-22T22:11:32Z"
   } ]
 }

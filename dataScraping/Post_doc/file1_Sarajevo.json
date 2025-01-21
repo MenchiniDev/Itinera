@@ -1,10 +1,10 @@
 {
   "id" : 200007,
-  "community_name" : "Sarajevo",
+  "community" : "Sarajevo",
   "username" : "ComprehensiveFan9176",
-  "post_body" : "Pitanje za fax?",
-  "timestamp" : "2024-11-16 12:00:44",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Pitanje za fax?",
+  "timestamp" : "2024-11-04T05:45:07Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

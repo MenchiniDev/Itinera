@@ -1,10 +1,10 @@
 {
   "id" : 200242,
-  "community_name" : "Dublin",
+  "community" : "Dublin",
   "username" : "dublinmod",
-  "post_body" : "Do NOT post about renting, moving, or budget for living in Dublin",
-  "timestamp" : "2024-11-16 12:30:38",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Do NOT post about renting, moving, or budget for living in Dublin",
+  "timestamp" : "2024-11-04T06:10:05Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

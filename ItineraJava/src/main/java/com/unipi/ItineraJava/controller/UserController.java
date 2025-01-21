@@ -3,6 +3,7 @@ package com.unipi.ItineraJava.controller;
 
 import java.time.LocalDateTime;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,23 +14,27 @@ import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestHeader;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
-import com.unipi.ItineraJava.DTO.CommunityDTO;
-import com.unipi.ItineraJava.DTO.SignupRequest;
 
-import com.unipi.ItineraJava.DTO.UserDTO;
-
-import com.unipi.ItineraJava.model.User;
+import com.unipi.ItineraJava.DTO.*;
 
 import com.unipi.ItineraJava.model.Last_post;
+import com.unipi.ItineraJava.model.User;
 
 import com.unipi.ItineraJava.repository.UserNeo4jRepository;
 import com.unipi.ItineraJava.repository.UserRepository;
 import com.unipi.ItineraJava.service.UserService;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
@@ -393,5 +398,68 @@ class UserController {
         }
     }
     
+    @GetMapping("/profile/peopleYouMayKnow")
+    public ResponseEntity<?> getPeopleYouMayKnow() {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+        String username = authentication.getName();
+        try {
+            List<String> suggestedUsernames = userService.getSuggestedUsernames(username);
+            if (suggestedUsernames.isEmpty()) {
+                return ResponseEntity.ok("No suggested users found.");
+            }
+            return ResponseEntity.ok(suggestedUsernames);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving suggested users: " + ex.getMessage());
+        }
+    }
+
+    @GetMapping("/profile/reccomendedCommunities")
+    public ResponseEntity<?> getSuggestedCommunities() {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+        String username = authentication.getName();
+        try {
+            List<String> suggestedCommunities = userService.getSuggestedCommunities(username);
+            if (suggestedCommunities.isEmpty()) {
+                return ResponseEntity.ok("No suggested communities found.");
+            }
+            return ResponseEntity.ok(suggestedCommunities);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving suggested communities: " + ex.getMessage());
+        }
+    }
     
+
+    @GetMapping("/profile/reccomendedPosts")
+    public ResponseEntity<?> getSuggestedPosts() {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+        String username = authentication.getName();
+        try {
+            List<PostSuggestionDto> suggestedPosts = userService.getSuggestedPosts(username);
+            if (suggestedPosts.isEmpty()) {
+                return ResponseEntity.ok("No suggested posts found.");
+            }
+            return ResponseEntity.ok(suggestedPosts);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving suggested posts: " + ex.getMessage());
+        }
+    }
+
 }

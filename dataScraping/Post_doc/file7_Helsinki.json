@@ -1,35 +1,35 @@
 {
   "id" : 200225,
-  "community_name" : "Helsinki",
+  "community" : "Helsinki",
   "username" : "takepityontheloser",
-  "post_body" : "Where to buy adobo and culantro in Helsinki ?",
-  "timestamp" : "2024-12-21 12:45:07",
-  "num_comment" : 5,
-  "reported_post" : false,
+  "post" : "Where to buy adobo and culantro in Helsinki ?",
+  "timestamp" : "2024-12-21T11:45:07Z",
+  "nomment" : 5,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Your best bet is Dos Tecolotes in Kallio.",
     "username" : "lampimatkivekset",
-    "timestamp" : "2024-12-21 12:45:07"
+    "timestamp" : "2024-12-21T11:45:07Z"
   }, {
     "reported_comment" : false,
     "body" : "Adobo you can get at many asian shops, just search adobo mauste and check which one is closest to you. It's not hard to make yourself either. Culantro might be harder, but try Dos Tecolotes, they have a small shop in Hakaniemi.",
     "username" : "efflund",
-    "timestamp" : "2024-12-21 12:55:58"
+    "timestamp" : "2024-12-21T11:55:58Z"
   }, {
     "reported_comment" : false,
     "body" : "You can definitely get Mexican chiles in adobo there, but I think OP is looking for a Filipino product, which is a different dish despite the same name. If so, best bet for that is an Asian grocer, maybe across the street from Tecolotes. I doubt culantro will be available anywhere, but for that Tecolotes is worth a try.",
     "username" : "sharkinwolvesclothin",
-    "timestamp" : "2024-12-21 14:39:22"
+    "timestamp" : "2024-12-21T13:39:22Z"
   }, {
     "reported_comment" : false,
     "body" : "Adobo doesn't seem to be too difficult to do at home either",
     "username" : "Seeteuf3l",
-    "timestamp" : "2024-12-21 12:56:02"
+    "timestamp" : "2024-12-21T11:56:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Yes I bought adobo there",
     "username" : "simblanco",
-    "timestamp" : "2024-12-21 13:42:01"
+    "timestamp" : "2024-12-21T12:42:01Z"
   } ]
 }

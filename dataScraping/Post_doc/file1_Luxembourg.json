@@ -1,45 +1,45 @@
 {
   "id" : 200010,
-  "community_name" : "Luxembourg",
+  "community" : "Luxembourg",
   "username" : "acecile",
-  "post_body" : "Runners: get your bibs for spring",
-  "timestamp" : "2024-12-22 21:13:58",
-  "num_comment" : 7,
-  "reported_post" : false,
+  "post" : "Runners: get your bibs for spring",
+  "timestamp" : "2024-12-22T20:13:58Z",
+  "nomment" : 7,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "The first 50 in the ING Marathon can keep their bank account. 😁",
     "username" : "LaneCraddock",
-    "timestamp" : "2024-12-22 21:19:08"
+    "timestamp" : "2024-12-22T20:19:08Z"
   }, {
     "reported_comment" : false,
     "body" : "Why is it 105€? Are they running for us?",
     "username" : "quantumST",
-    "timestamp" : "2024-12-22 22:24:57"
+    "timestamp" : "2024-12-22T21:24:57Z"
   }, {
     "reported_comment" : false,
     "body" : "great post, thanks",
     "username" : "GroussherzogtumLxb",
-    "timestamp" : "2024-12-22 21:13:58"
+    "timestamp" : "2024-12-22T20:13:58Z"
   }, {
     "reported_comment" : false,
     "body" : "Thank you for this post 👍",
     "username" : "YouPiiii57",
-    "timestamp" : "2024-12-23 00:04:14"
+    "timestamp" : "2024-12-22T23:04:14Z"
   }, {
     "reported_comment" : false,
     "body" : "Lmao",
     "username" : "inglandation",
-    "timestamp" : "2024-12-22 23:11:09"
+    "timestamp" : "2024-12-22T22:11:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Trying to save mine :s",
     "username" : "acecile",
-    "timestamp" : "2024-12-22 21:19:35"
+    "timestamp" : "2024-12-22T20:19:35Z"
   }, {
     "reported_comment" : false,
     "body" : "New ING policy. They only want to have high wealth runners \n\nQuite frankly, I’m surprised they are still sponsoring the event. Running is … such a peasant thing to do. Should’ve sponsored a 24Hrs Porsche race at colmarberg ",
     "username" : "Cautious_Use_7442",
-    "timestamp" : "2024-12-23 10:29:41"
+    "timestamp" : "2024-12-23T09:29:41Z"
   } ]
 }

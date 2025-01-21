@@ -1,25 +1,25 @@
 {
   "id" : 200257,
-  "community_name" : "Monaco",
+  "community" : "Monaco",
   "username" : "Heidelbeere27",
-  "post_body" : "Flying from  NCE to BUD",
-  "timestamp" : "2024-12-17 22:10:07",
-  "num_comment" : 3,
-  "reported_post" : false,
+  "post" : "Flying from  NCE to BUD",
+  "timestamp" : "2024-12-17T21:10:07Z",
+  "nomment" : 3,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Can’t you just fill the lighter?",
     "username" : "Maxomans",
-    "timestamp" : "2024-12-18 13:41:07"
+    "timestamp" : "2024-12-18T12:41:07Z"
   }, {
     "reported_comment" : false,
     "body" : "Sending it by post would be simpler no?",
     "username" : "vilo236",
-    "timestamp" : "2024-12-18 19:24:27"
+    "timestamp" : "2024-12-18T18:24:27Z"
   }, {
     "reported_comment" : false,
     "body" : "you’ll have more luck in the budapest subreddit.",
     "username" : "barrya29",
-    "timestamp" : "2024-12-17 22:10:07"
+    "timestamp" : "2024-12-17T21:10:07Z"
   } ]
 }

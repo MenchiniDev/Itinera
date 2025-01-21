@@ -11,8 +11,8 @@ import org.springframework.data.neo4j.core.schema.Relationship;
 public class PostGraph {
 
     @Id
-    @GeneratedValue
-    private Long id;
+    @Property("postId")
+    private Long postId;
 
     @Property("preview")
     private String preview;
@@ -34,11 +34,11 @@ public class PostGraph {
     }
 
     public Long getId() {
-        return id;
+        return postId;
     }
 
     public void setId(Long id) {
-        this.id = id;
+        this.postId = id;
     }
 
     public String getPreview() {
@@ -76,7 +76,7 @@ public class PostGraph {
     @Override
     public String toString() {
         return "PostGraph{" +
-            "id=" + id +
+            "id=" + postId +
             ", preview='" + preview + '\'' +
             ", timestamp='" + timestamp + '\'' +
             '}';

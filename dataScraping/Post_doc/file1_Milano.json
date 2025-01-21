@@ -1,120 +1,120 @@
 {
   "id" : 200011,
-  "community_name" : "Milano",
+  "community" : "Milano",
   "username" : "guidocarosella",
-  "post_body" : "Il Tar respinge ricorso dei tassisti: arrivano 450 nuove licenze taxi a Milano",
-  "timestamp" : "2024-12-20 14:27:55",
-  "num_comment" : 22,
-  "reported_post" : false,
+  "post" : "Il Tar respinge ricorso dei tassisti: arrivano 450 nuove licenze taxi a Milano",
+  "timestamp" : "2024-12-20T13:27:55Z",
+  "nomment" : 22,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Ma se… e lo so che può sembrare una pazzia… non ci fosse un numero chiuso e si facessero concorrenza, abbassando i prezzi e quindi diventassero un metodo di trasporto alternativo (e più vantaggioso) all’auto personale, e con 10x più persone che prenderebbero il taxi farebbbero 10x corse di più compensando così i guadagni…?\n\nNo, scusatemi, roba fantascientifica.",
     "username" : "knm-e",
-    "timestamp" : "2024-12-20 14:27:55"
+    "timestamp" : "2024-12-20T13:27:55Z"
   }, {
     "reported_comment" : false,
     "body" : "Ora attendo le manifestazioni \"ferro e fuoco\" con blocchi stradali in giro per la città, per protestare contro l'operato dei giudici.\n\nE se davvero dovesse accadere, spero che vengano organizzate delle contromanifestazioni per dargliene due in testa a questi pagliacci.",
     "username" : "InformalRich",
-    "timestamp" : "2024-12-20 14:40:34"
+    "timestamp" : "2024-12-20T13:40:34Z"
   }, {
     "reported_comment" : false,
     "body" : "E finalmente. Mi secca dirlo, ma il merito non è solo del comune di Milano, ma anche del governo. 20% di licenze in più probabilmente non risolveranno la situazione ma visto lo stallo che c'era da sempre è meglio di niente.",
     "username" : "SegretoBaccello",
-    "timestamp" : "2024-12-20 14:44:49"
+    "timestamp" : "2024-12-20T13:44:49Z"
   }, {
     "reported_comment" : false,
     "body" : "Magra consolazione.\n\nCi vuole Milei: chi ha una automobile e una patente può portare chi vuole per un compenso, previa iscrizione in un registro pubblico. \n\nFine.\n\nhttps://www.ambito.com/informacion-general/el-gobierno-javier-milei-reglamento-la-desregulacion-del-transporte-automotor-pasajeros-n6091300",
     "username" : "bravotipo",
-    "timestamp" : "2024-12-20 15:29:41"
+    "timestamp" : "2024-12-20T14:29:41Z"
   }, {
     "reported_comment" : false,
     "body" : "Piccoli successi",
     "username" : "SamsBeckett",
-    "timestamp" : "2024-12-20 14:54:16"
+    "timestamp" : "2024-12-20T13:54:16Z"
   }, {
     "reported_comment" : false,
     "body" : "Ci vorrebbero 4500",
     "username" : "temponauter",
-    "timestamp" : "2024-12-20 16:31:54"
+    "timestamp" : "2024-12-20T15:31:54Z"
   }, {
     "reported_comment" : false,
     "body" : "E si gode",
     "username" : "moari",
-    "timestamp" : "2024-12-20 17:15:47"
+    "timestamp" : "2024-12-20T16:15:47Z"
   }, {
     "reported_comment" : false,
     "body" : "Godo",
     "username" : "Exotic_Principle9652",
-    "timestamp" : "2024-12-21 23:31:12"
+    "timestamp" : "2024-12-21T22:31:12Z"
   }, {
     "reported_comment" : false,
     "body" : "Concorrenza? Libero mercato?\n\nNot for me",
     "username" : "ima_leafonthewind",
-    "timestamp" : "2024-12-20 14:31:48"
+    "timestamp" : "2024-12-20T13:31:48Z"
   }, {
     "reported_comment" : false,
     "body" : "Ovviamente è ciò che andrebbe fatto, ma i tassisti sono così pochi che hanno sempre clienti, a cui fan pagare un ladrocinio. Quindi più guadagni no. È per questo che fanno muro",
     "username" : "a_dude_from_europe",
-    "timestamp" : "2024-12-20 17:37:46"
+    "timestamp" : "2024-12-20T16:37:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Si chiama Uber (o almeno l'idea iniziale era quella).",
     "username" : "guidocarosella",
-    "timestamp" : "2024-12-20 16:26:40"
+    "timestamp" : "2024-12-20T15:26:40Z"
   }, {
     "reported_comment" : false,
     "body" : "No no no, a noi piace flagellarci.",
     "username" : "RammRras",
-    "timestamp" : "2024-12-20 23:11:09"
+    "timestamp" : "2024-12-20T22:11:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Eh ma poi come li sistemi i tassisti poveretti che hanno pagato la loro licenza tanti soldini e ci si ripagano la pensione? Eh cuccioli",
     "username" : "Lorettooooooooo",
-    "timestamp" : "2024-12-21 18:24:00"
+    "timestamp" : "2024-12-21T17:24:00Z"
   }, {
     "reported_comment" : false,
     "body" : "Lol, prima volta dopo 25 ANNI, e a Milano, pee non farli indispettire troppo, si è tenuta sul 10%... Ma di cosa stai parlando , su.",
     "username" : "2020Stop",
-    "timestamp" : "2024-12-20 18:43:25"
+    "timestamp" : "2024-12-20T17:43:25Z"
   }, {
     "reported_comment" : false,
     "body" : "Ma guarda, imho il problema storico è la compravendita delle licenze, che è un'assurdità. Cambi lavoro o vai in pensione? Restituisci la licenza al comune che la assegnerà a qualcun altro. Per colpa di chi ci specula sopra, ci andiamo di mezzo tutti.",
     "username" : "guidocarosella",
-    "timestamp" : "2024-12-20 16:24:10"
+    "timestamp" : "2024-12-20T15:24:10Z"
   }, {
     "reported_comment" : false,
     "body" : "Sali tu in auto di uno sconosciuto. Auguri",
     "username" : "JickJack82",
-    "timestamp" : "2024-12-21 01:42:37"
+    "timestamp" : "2024-12-21T00:42:37Z"
   }, {
     "reported_comment" : false,
     "body" : "Lo so, perdonami, torno nella mia stanza del TSO",
     "username" : "knm-e",
-    "timestamp" : "2024-12-20 14:35:02"
+    "timestamp" : "2024-12-20T13:35:02Z"
   }, {
     "reported_comment" : false,
     "body" : "In questo momento storico? Con questo governo? Tutto localizzato nella capitale economica del paese?",
     "username" : "tigro7",
-    "timestamp" : "2024-12-20 15:50:04"
+    "timestamp" : "2024-12-20T14:50:04Z"
   }, {
     "reported_comment" : false,
     "body" : "Il problema di base, per chi lavora per 1.300 / 1.500 Euro mese, è che i tassisti son 4 gatti, vivono in un ecosistema chiuso=zero concorrenza e, non paghi di non rischiare (hanno patito la pandemia, poverini, solo loro..) evadono come non ci fosse un domani. E se nelle grandi città non trovi una vettura, quando la trovi spendi non poco, e l'imprenditore del *poco rischio*, dichiara tra 1.600 e 1.400 LORDI al mese a Milano (quando facile ne incassa 4 o 5 k} si capisce perché stan sul cazzo a tutti.",
     "username" : "2020Stop",
-    "timestamp" : "2024-12-20 18:41:28"
+    "timestamp" : "2024-12-20T17:41:28Z"
   }, {
     "reported_comment" : false,
     "body" : "Devo ricordarmi di pensare prima di scrivere scemenze. Hai ragione.",
     "username" : "knm-e",
-    "timestamp" : "2024-12-21 22:12:44"
+    "timestamp" : "2024-12-21T21:12:44Z"
   }, {
     "reported_comment" : false,
     "body" : "Il fatto è che secondo sti parassiti la licenza è il loro TFR.",
     "username" : "a_dude_from_europe",
-    "timestamp" : "2024-12-20 17:40:26"
+    "timestamp" : "2024-12-20T16:40:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Eh poveretti, quando chi si sbatte fa 7 o 8 k neri al mese, dovrà pur avere un'ancora di  salvezza a fine carriera...",
     "username" : "2020Stop",
-    "timestamp" : "2024-12-20 18:46:12"
+    "timestamp" : "2024-12-20T17:46:12Z"
   } ]
 }

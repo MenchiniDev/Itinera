@@ -1,10 +1,10 @@
 {
   "id" : 200379,
-  "community_name" : "Riga",
+  "community" : "Riga",
   "username" : "No_Examination667",
-  "post_body" : "Gym ( personal trainer)",
-  "timestamp" : "2024-11-16 12:40:29",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Gym ( personal trainer)",
+  "timestamp" : "2024-11-04T06:20:24Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

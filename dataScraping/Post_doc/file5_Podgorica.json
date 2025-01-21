@@ -1,10 +1,10 @@
 {
   "id" : 200281,
-  "community_name" : "Podgorica",
+  "community" : "Podgorica",
   "username" : "East_Bother_3123",
-  "post_body" : "Hey i'm looking for a place for merting people . Anu suggestion?",
-  "timestamp" : "2024-11-16 12:33:18",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Hey i'm looking for a place for merting people . Anu suggestion?",
+  "timestamp" : "2024-11-04T06:15:55Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

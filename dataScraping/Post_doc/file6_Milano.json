@@ -1,20 +1,20 @@
 {
   "id" : 200178,
-  "community_name" : "Milano",
+  "community" : "Milano",
   "username" : "Hungry_War_2290",
-  "post_body" : "Il “buco” del metrò: Giorgetti promette: 300 milioni alla M5",
-  "timestamp" : "2024-12-22 16:18:15",
-  "num_comment" : 2,
-  "reported_post" : false,
+  "post" : "Il “buco” del metrò: Giorgetti promette: 300 milioni alla M5",
+  "timestamp" : "2024-12-22T15:18:15Z",
+  "nomment" : 2,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Milano che riceve qualche soldo indietro? E’ uno scherzo?",
     "username" : "Dull-Community-9916",
-    "timestamp" : "2024-12-22 16:18:15"
+    "timestamp" : "2024-12-22T15:18:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Vista la troiata di project financing che hanno fatto, è una partita di giro a WeBuild.",
     "username" : "Astrinus",
-    "timestamp" : "2024-12-22 20:45:48"
+    "timestamp" : "2024-12-22T19:45:48Z"
   } ]
 }

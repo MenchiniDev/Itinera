@@ -1,80 +1,80 @@
 {
   "id" : 200211,
-  "community_name" : "Prague",
+  "community" : "Prague",
   "username" : "throwawayedagain",
-  "post_body" : "Help, first time traveler. ",
-  "timestamp" : "2024-12-23 07:10:11",
-  "num_comment" : 14,
-  "reported_post" : false,
+  "post" : "Help, first time traveler. ",
+  "timestamp" : "2024-12-23T06:10:11Z",
+  "nomment" : 14,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Kino Aero and Fuchs2 (+ Bike_Jesus) are good ideas, friendly places offering interesting events. For movies tour can also try Bio Oko or Kino Světozor. For geeky stuff, there is Národní technické muzeum and Národní zemědělské muzeum, both near Oko. You can visit Žižkovská televizní věž, quite literally an outstanding piece of architecture offering spectacular panoramic views of the city.\n\nAlso, check out the pinned post and the Honest Guide Youtube channel (witch feels like a generic answer on this sub, but mostly because it simply works). Enjoy your stay and feel free to hmu with any questions.",
     "username" : "sioux7",
-    "timestamp" : "2024-12-23 08:18:27"
+    "timestamp" : "2024-12-23T07:18:27Z"
   }, {
     "reported_comment" : false,
     "body" : "If you like cinema, I can suggest the [Karel Zeman Museum](https://maps.app.goo.gl/DqZS3iTJfVZpAuTs9), a museum dedicated to the works and special effects of Karel Zeman.",
     "username" : "PurpleCabbageMonkey",
-    "timestamp" : "2024-12-23 08:41:12"
+    "timestamp" : "2024-12-23T07:41:12Z"
   }, {
     "reported_comment" : false,
     "body" : "First time travelling outside which country?",
     "username" : "Super_Novice56",
-    "timestamp" : "2024-12-23 07:10:11"
+    "timestamp" : "2024-12-23T06:10:11Z"
   }, {
     "reported_comment" : false,
     "body" : "Aero is a nice place not just for movies but also to get drinks and meet people. Generally speaking zizkov has a lot of nice bars and is the area where most students go out so hanging around in zizkov is not bad and affordable.",
     "username" : "ctbdp02",
-    "timestamp" : "2024-12-23 11:37:43"
+    "timestamp" : "2024-12-23T10:37:43Z"
   }, {
     "reported_comment" : false,
     "body" : "Feel free to use my itinerary on your trip. Whilst I personally don’t include museums and galleries, it contains the majority of what tourists would like to see.\n\nHopefully the below helps with the bulk of the typical stuff, giving you more time to focus on the unique parts of your trip.\n\nhttps://wanderlog.com/view/zarnvtlzwi/trip-to-prague/shared",
     "username" : "Tall-Ad3171",
-    "timestamp" : "2024-12-23 13:17:56"
+    "timestamp" : "2024-12-23T12:17:56Z"
   }, {
     "reported_comment" : false,
     "body" : "Hey first time traveler, what’s 2050 like?",
     "username" : "HonZeekS",
-    "timestamp" : "2024-12-23 13:45:31"
+    "timestamp" : "2024-12-23T12:45:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Well borrow some money, travel to 2000s, buy a lot of Tradiční české brambůrky Hovězí na cibulce and Vlnky, return back to present and sell it with huge mark-up.",
     "username" : "Kotja",
-    "timestamp" : "2024-12-23 10:33:21"
+    "timestamp" : "2024-12-23T09:33:21Z"
   }, {
     "reported_comment" : false,
     "body" : "Prague is my favourite European city, I've been 4 times and never had any problems.\n\nI'm a white male from the UK, I guess I just blend in if I don't speak \n\nSo I can't say what it would be like for people with different skin colour",
     "username" : "Turbulent_Work_5697",
-    "timestamp" : "2024-12-23 10:34:55"
+    "timestamp" : "2024-12-23T09:34:55Z"
   }, {
     "reported_comment" : false,
     "body" : "May I ask you if you excluded the most \"traditional\" places (Castle, Old town square, Charles bridge) or if you just didn't mention them?",
     "username" : "Flaky_Detail_9644",
-    "timestamp" : "2024-12-23 08:13:10"
+    "timestamp" : "2024-12-23T07:13:10Z"
   }, {
     "reported_comment" : false,
     "body" : "Thank you very much for sugestions (especially regarding cinema), i am avid Honest Guide watcher ever since i started planing hahah",
     "username" : "throwawayedagain",
-    "timestamp" : "2024-12-23 14:51:29"
+    "timestamp" : "2024-12-23T13:51:29Z"
   }, {
     "reported_comment" : false,
     "body" : "That sounds super interesting, thank you very much!",
     "username" : "throwawayedagain",
-    "timestamp" : "2024-12-23 14:52:34"
+    "timestamp" : "2024-12-23T13:52:34Z"
   }, {
     "reported_comment" : false,
     "body" : "Serbia, i have a lot of foreign friends ether from online or that came to my country for an exchange program and i am a bit naive when it comes to tourism because i am from a smallish city where foreigners are kinda rare and very welcome, but i heard stories from them that some places can be really against visitors or even people from my country (because balkan bs) so i really don't know what to expect.",
     "username" : "throwawayedagain",
-    "timestamp" : "2024-12-23 15:06:07"
+    "timestamp" : "2024-12-23T14:06:07Z"
   }, {
     "reported_comment" : false,
     "body" : "Just didn't mention, i will visit them also but they are touristy so i assume people there are used to foreigners so i didn't have any questions regarding them.",
     "username" : "throwawayedagain",
-    "timestamp" : "2024-12-23 14:49:26"
+    "timestamp" : "2024-12-23T13:49:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Millions of tourists come to Prague every year. I doubt the residents will care about another one especially another Slav.",
     "username" : "Super_Novice56",
-    "timestamp" : "2024-12-23 15:23:07"
+    "timestamp" : "2024-12-23T14:23:07Z"
   } ]
 }

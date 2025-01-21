@@ -1,80 +1,80 @@
 {
   "id" : 200359,
-  "community_name" : "Krakow",
+  "community" : "Krakow",
   "username" : "klugg",
-  "post_body" : "Z inicjatywy rządu powstała strona, na której możecie zadeklarować chęć udzielenia pomocy, lub napisać, jeśli sami jej potrzebujecie. Podajcie dalej. https://pomagamukrainie.gov.pl",
-  "timestamp" : "2022-09-25 12:58:10",
-  "num_comment" : 14,
-  "reported_post" : false,
+  "post" : "Z inicjatywy rządu powstała strona, na której możecie zadeklarować chęć udzielenia pomocy, lub napisać, jeśli sami jej potrzebujecie. Podajcie dalej. https://pomagamukrainie.gov.pl",
+  "timestamp" : "2022-09-25T10:58:10Z",
+  "nomment" : 14,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Potrzebuje wyemigrować do USA, pomoże ktoś?\nStrona rządowa do pomocy… ale komu? Mi czy Ukraińcom.",
     "username" : "Cataleyka",
-    "timestamp" : "2022-09-25 12:58:10"
+    "timestamp" : "2022-09-25T10:58:10Z"
   }, {
     "reported_comment" : false,
     "body" : "Wspaniała inicjatywa, pozdrawiam ludzi dobrego serca :)",
     "username" : "oscar7714",
-    "timestamp" : "2024-02-12 15:41:47"
+    "timestamp" : "2024-02-12T14:41:47Z"
   }, {
     "reported_comment" : false,
     "body" : "A kiedy powstanie jakąś strona pomagajoca prawdziwym Polakom i Polsce . Hmmm ?",
     "username" : "Ashamed-Bee499",
-    "timestamp" : "2024-08-29 21:21:08"
+    "timestamp" : "2024-08-29T19:21:08Z"
   }, {
     "reported_comment" : false,
     "body" : "Polacy pomaga, a reszta świata się przygląda i czeka na koniec żeby zarobić na odbudowie. Ot cała solidarność NATO. Śmiechu warte.",
     "username" : "None",
-    "timestamp" : "2023-08-02 14:47:02"
+    "timestamp" : "2023-08-02T12:47:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Świetna akcja!",
     "username" : "Ok-Remote-1174",
-    "timestamp" : "2024-08-06 12:06:33"
+    "timestamp" : "2024-08-06T10:06:33Z"
   }, {
     "reported_comment" : false,
     "body" : "Poland helped enough",
     "username" : "krakow7",
-    "timestamp" : "2022-09-29 17:48:30"
+    "timestamp" : "2022-09-29T15:48:30Z"
   }, {
     "reported_comment" : false,
     "body" : "How easy is it to pick up some snow",
     "username" : "Internal-Horror9952",
-    "timestamp" : "2024-12-17 22:24:06"
+    "timestamp" : "2024-12-17T21:24:06Z"
   }, {
     "reported_comment" : false,
     "body" : "kobiety są winne [link w komentarzu], tak",
     "username" : "risingscarecrow",
-    "timestamp" : "2023-04-28 16:05:50"
+    "timestamp" : "2023-04-28T14:05:50Z"
   }, {
     "reported_comment" : false,
     "body" : "To ogłoszenie wisi od pół roku, kiedy m.in. w Krakowie zaczęli pojawiać się uchodźcy z Ukrainy. Z czym masz problem?",
     "username" : "klugg",
-    "timestamp" : "2022-09-25 14:17:52"
+    "timestamp" : "2022-09-25T12:17:52Z"
   }, {
     "reported_comment" : false,
     "body" : "proszę https://sjp.pwn.pl/",
     "username" : "klugg",
-    "timestamp" : "2024-08-29 23:21:16"
+    "timestamp" : "2024-08-29T21:21:16Z"
   }, {
     "reported_comment" : false,
     "body" : "Wiele krajów jest zaangażowane w pomoc.",
     "username" : "klugg",
-    "timestamp" : "2023-08-02 16:00:54"
+    "timestamp" : "2023-08-02T14:00:54Z"
   }, {
     "reported_comment" : false,
     "body" : "Szukam pomocy jako obywatel tego kraju. Nie ma tu nic zaczepnego.",
     "username" : "Cataleyka",
-    "timestamp" : "2022-09-25 14:59:49"
+    "timestamp" : "2022-09-25T12:59:49Z"
   }, {
     "reported_comment" : false,
     "body" : "W sensie, jak pomagają np. Francuzi czy Belgowie czy choćby Niemcy?",
     "username" : "None",
-    "timestamp" : "2023-08-02 21:41:36"
+    "timestamp" : "2023-08-02T19:41:36Z"
   }, {
     "reported_comment" : false,
     "body" : "Do USA wizę jest ciężko dostać, można w loterii np, możesz też zostać illegal alienem, zbierasz kapitał, wyjeżdzasz tam i żyjesz u kogoś albo w kamperze który sobie kupisz. Mieszkania na umowę sobie nie wynajmiesz też jako taki alien.",
     "username" : "GrandPapaKaboom",
-    "timestamp" : "2024-02-27 22:17:28"
+    "timestamp" : "2024-02-27T21:17:28Z"
   } ]
 }

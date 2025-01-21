@@ -1,105 +1,105 @@
 {
   "id" : 200152,
-  "community_name" : "Amsterdam",
+  "community" : "Amsterdam",
   "username" : "HetGewildeWesten",
-  "post_body" : "Dancing in the Oosterpark",
-  "timestamp" : "2024-12-22 09:26:29",
-  "num_comment" : 19,
-  "reported_post" : false,
+  "post" : "Dancing in the Oosterpark",
+  "timestamp" : "2024-12-22T08:26:29Z",
+  "nomment" : 19,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "![gif](giphy|GeimqsH0TLDt4tScGw|downsized)",
     "username" : "vleeslucht",
-    "timestamp" : "2024-12-22 12:02:09"
+    "timestamp" : "2024-12-22T11:02:09Z"
   }, {
     "reported_comment" : false,
     "body" : "This is not what Oosterpark is for. How am I supposed to enjoy my crack pipe with all that racket?",
     "username" : "Waitingroom",
-    "timestamp" : "2024-12-22 10:12:16"
+    "timestamp" : "2024-12-22T09:12:16Z"
   }, {
     "reported_comment" : false,
     "body" : "Hallo wereld, wereld, de wereld is van mij  🎶🎶",
     "username" : "SenselessDoritos",
-    "timestamp" : "2024-12-22 12:44:27"
+    "timestamp" : "2024-12-22T11:44:27Z"
   }, {
     "reported_comment" : false,
     "body" : "The music dome of the [Oosterpark](https://maps.app.goo.gl/gtezH7nMtsx1upLt7), Amsterdam.  2021-10-27 in the afternoon.",
     "username" : "HetGewildeWesten",
-    "timestamp" : "2024-12-22 09:26:29"
+    "timestamp" : "2024-12-22T08:26:29Z"
   }, {
     "reported_comment" : false,
     "body" : "Reminder to anyone planning something like this is that you must have a permit for an event with amplified music in the dome.",
     "username" : "96HourDeo",
-    "timestamp" : "2024-12-22 11:59:41"
+    "timestamp" : "2024-12-22T10:59:41Z"
   }, {
     "reported_comment" : false,
     "body" : "Does anyone know what all the construction from last year on that \"music dome\" did last year? \n \nI went up there after it was reopened, and it was still old and dirty and ground chipped up",
     "username" : "Synsane",
-    "timestamp" : "2024-12-22 11:07:46"
+    "timestamp" : "2024-12-22T10:07:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Curious about the music: is this Nepali?",
     "username" : "Unaccompaniedbyminor",
-    "timestamp" : "2024-12-22 19:45:24"
+    "timestamp" : "2024-12-22T18:45:24Z"
   }, {
     "reported_comment" : false,
     "body" : "In 2025, tango milongas will be restarting again in this music dome. On Sunday afternoons.\n\nhttps://www.tangoalma.nl/tangosalons/oosterpark/",
     "username" : "JosZo",
-    "timestamp" : "2024-12-23 06:12:31"
+    "timestamp" : "2024-12-23T05:12:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Ik snap nu waarom dansen in China lange tijd verboden is geweest.",
     "username" : "Prouddadoffour73",
-    "timestamp" : "2024-12-23 13:01:28"
+    "timestamp" : "2024-12-23T12:01:28Z"
   }, {
     "reported_comment" : false,
     "body" : "Ik ga emigreren",
     "username" : "OnkruidVergaatNiet",
-    "timestamp" : "2024-12-22 11:54:22"
+    "timestamp" : "2024-12-22T10:54:22Z"
   }, {
     "reported_comment" : false,
     "body" : "Some kind of bollywood dance..",
     "username" : "here4geld",
-    "timestamp" : "2024-12-22 11:16:32"
+    "timestamp" : "2024-12-22T10:16:32Z"
   }, {
     "reported_comment" : false,
     "body" : "![gif](giphy|JuSmVmCtYniCeve0Nt)",
     "username" : "InterstellarDiplomat",
-    "timestamp" : "2024-12-22 15:09:21"
+    "timestamp" : "2024-12-22T14:09:21Z"
   }, {
     "reported_comment" : false,
     "body" : "Just an honest question: why do you post this dance from 3 years ago?",
     "username" : "we-do-rae",
-    "timestamp" : "2024-12-22 09:45:04"
+    "timestamp" : "2024-12-22T08:45:04Z"
   }, {
     "reported_comment" : false,
     "body" : "Do you need a permit for the 24/7 drug market tho? Don't see anyone closing that one down.\n\nI'd assume some music and dancing is fine.",
     "username" : "Expensive-Fee-7391",
-    "timestamp" : "2024-12-22 18:18:35"
+    "timestamp" : "2024-12-22T17:18:35Z"
   }, {
     "reported_comment" : false,
     "body" : "Repairing the roof. It wasn't stable anymore and they feared it could collapse.",
     "username" : "dullestfranchise",
-    "timestamp" : "2024-12-22 12:11:46"
+    "timestamp" : "2024-12-22T11:11:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Ik ook😭",
     "username" : "Beautiful-Eye-5113",
-    "timestamp" : "2024-12-22 13:33:50"
+    "timestamp" : "2024-12-22T12:33:50Z"
   }, {
     "reported_comment" : false,
     "body" : "We post a lot of old and new material of what people do and what there is to see in Amsterdam.",
     "username" : "HetGewildeWesten",
-    "timestamp" : "2024-12-22 09:51:28"
+    "timestamp" : "2024-12-22T08:51:28Z"
   }, {
     "reported_comment" : false,
     "body" : "> I'd assume some music and dancing is fine.\n\nAny use of amplified music in the dome requires a permit. The group in the video almost certainly has one. Otherwise the gemente issues a fine. This is a civic matter.\n\nThis has nothing to do with drug crime, which is a police matter.",
     "username" : "96HourDeo",
-    "timestamp" : "2024-12-22 18:26:51"
+    "timestamp" : "2024-12-22T17:26:51Z"
   }, {
     "reported_comment" : false,
     "body" : "I see. It is unfortunate that they just stopped there, but I guess something is better than nothing. Even though the construction workers definitely caused some of the ground damage while working on the roof",
     "username" : "Synsane",
-    "timestamp" : "2024-12-22 12:35:47"
+    "timestamp" : "2024-12-22T11:35:47Z"
   } ]
 }

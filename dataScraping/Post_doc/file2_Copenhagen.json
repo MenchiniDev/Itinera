@@ -1,75 +1,75 @@
 {
   "id" : 200124,
-  "community_name" : "Copenhagen",
+  "community" : "Copenhagen",
   "username" : "Ok_Zookeepergame5572",
-  "post_body" : "Honning med bikage",
-  "timestamp" : "2024-12-22 23:05:52",
-  "num_comment" : 13,
-  "reported_post" : false,
+  "post" : "Honning med bikage",
+  "timestamp" : "2024-12-22T22:05:52Z",
+  "nomment" : 13,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Ahh, endelig nogen, der matcher min juleshopping-energi.",
     "username" : "ZzangmanCometh",
-    "timestamp" : "2024-12-22 23:05:52"
+    "timestamp" : "2024-12-22T22:05:52Z"
   }, {
     "reported_comment" : false,
     "body" : "Mange større grønthandlere eller bazarer har honning med bikage eller bare bikagen. Det er ikke nødvendigvis fancy men i en snæver vending... Ved jeg har set det hos lygten bazar mange gange",
     "username" : "Dirtydirtyfag",
-    "timestamp" : "2024-12-22 23:20:37"
+    "timestamp" : "2024-12-22T22:20:37Z"
   }, {
     "reported_comment" : false,
     "body" : "Er der ikke lidt en bismag med den?....Jeg finder selv udgangen.",
     "username" : "Ok_Tank_3995",
-    "timestamp" : "2024-12-22 23:18:58"
+    "timestamp" : "2024-12-22T22:18:58Z"
   }, {
     "reported_comment" : false,
     "body" : "Jeg ved ikke hvad bikage er men i Jægersborggade ligger der en butik der kun forhandler honning produkter. De må have sådan en.",
     "username" : "HomieNR",
-    "timestamp" : "2024-12-23 00:02:02"
+    "timestamp" : "2024-12-22T23:02:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Tjek helt sikkert torvehallerne, de har næsten alt selvom det kan være en my pricy",
     "username" : "GoodPreparation3566",
-    "timestamp" : "2024-12-23 09:34:19"
+    "timestamp" : "2024-12-23T08:34:19Z"
   }, {
     "reported_comment" : false,
     "body" : "Jeg var i fields i dag og klare gaveræs. Det gør jeg ikke igen.",
     "username" : "thfr",
-    "timestamp" : "2024-12-22 23:16:57"
+    "timestamp" : "2024-12-22T22:16:57Z"
   }, {
     "reported_comment" : false,
     "body" : "fantastisk! det prøver jeg tusind tak!",
     "username" : "Ok_Zookeepergame5572",
-    "timestamp" : "2024-12-22 23:35:47"
+    "timestamp" : "2024-12-22T22:35:47Z"
   }, {
     "reported_comment" : false,
     "body" : "Skud ud til Lygten bazar.",
     "username" : "mathe1337",
-    "timestamp" : "2024-12-23 14:17:16"
+    "timestamp" : "2024-12-23T13:17:16Z"
   }, {
     "reported_comment" : false,
     "body" : "det er jo derfor man kom-bi-nere dem med brød eller ost ;-)",
     "username" : "Ok_Zookeepergame5572",
-    "timestamp" : "2024-12-22 23:35:10"
+    "timestamp" : "2024-12-22T22:35:10Z"
   }, {
     "reported_comment" : false,
     "body" : "Jeg skulle lige til at foreslå denne, men så kom jeg i tanke om at jeg ikke har set den længe, og det lader til at den er lukket permanent 🙁",
     "username" : "Carmen-rosita",
-    "timestamp" : "2024-12-23 00:19:12"
+    "timestamp" : "2024-12-22T23:19:12Z"
   }, {
     "reported_comment" : false,
     "body" : "Jeg skal stadig købe min kones i morgen. Jeg ved godt, hvad det er, jeg har bare ikke fået hentet den endnu...",
     "username" : "ZzangmanCometh",
-    "timestamp" : "2024-12-22 23:18:00"
+    "timestamp" : "2024-12-22T22:18:00Z"
   }, {
     "reported_comment" : false,
     "body" : "Nå, så var det et dårligt råd jeg gav. Har også undret mig i mange år hvordan sådan en forretning kunne betale sig :)",
     "username" : "HomieNR",
-    "timestamp" : "2024-12-23 00:20:23"
+    "timestamp" : "2024-12-22T23:20:23Z"
   }, {
     "reported_comment" : false,
     "body" : "Enig! Meget smal kundegruppe …",
     "username" : "Carmen-rosita",
-    "timestamp" : "2024-12-23 00:22:53"
+    "timestamp" : "2024-12-22T23:22:53Z"
   } ]
 }

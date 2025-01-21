@@ -1,10 +1,10 @@
 {
   "id" : 200043,
-  "community_name" : "Legends",
+  "community" : "Legends",
   "username" : "Essay-Ambitious",
-  "post_body" : "I only play legends to get shafted",
-  "timestamp" : "2024-11-16 12:06:09",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "I only play legends to get shafted",
+  "timestamp" : "2024-11-04T05:50:11Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

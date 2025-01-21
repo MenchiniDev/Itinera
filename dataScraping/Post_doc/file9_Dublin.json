@@ -1,35 +1,35 @@
 {
   "id" : 200410,
-  "community_name" : "Dublin",
+  "community" : "Dublin",
   "username" : "Amazing-Yak-5415",
-  "post_body" : "Dublin’s Little-Known, Fast-Growing Transit Network",
-  "timestamp" : "2024-12-23 07:07:48",
-  "num_comment" : 5,
-  "reported_post" : false,
+  "post" : "Dublin’s Little-Known, Fast-Growing Transit Network",
+  "timestamp" : "2024-12-23T06:07:48Z",
+  "nomment" : 5,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Fast growing?",
     "username" : "artifexlife",
-    "timestamp" : "2024-12-23 13:16:58"
+    "timestamp" : "2024-12-23T12:16:58Z"
   }, {
     "reported_comment" : false,
     "body" : "On paper, Dublin's transport plans are good. It's just a matter of actually getting it done.",
     "username" : "Mother-Dick",
-    "timestamp" : "2024-12-23 13:51:57"
+    "timestamp" : "2024-12-23T12:51:57Z"
   }, {
     "reported_comment" : false,
     "body" : "The title was so silly. \"Little-known\"?",
     "username" : "Pzurpo",
-    "timestamp" : "2024-12-23 07:07:48"
+    "timestamp" : "2024-12-23T06:07:48Z"
   }, {
     "reported_comment" : false,
     "body" : "It's for a global audience of train nerds. It's perfectly fine.",
     "username" : "munkijunk",
-    "timestamp" : "2024-12-23 09:52:19"
+    "timestamp" : "2024-12-23T08:52:19Z"
   }, {
     "reported_comment" : false,
     "body" : "Irrelevant, but I am impressed by the management of IÉ. This, in contrast to the rest of Irish infrastructure.",
     "username" : "r_Yellow01",
-    "timestamp" : "2024-12-23 12:02:19"
+    "timestamp" : "2024-12-23T11:02:19Z"
   } ]
 }

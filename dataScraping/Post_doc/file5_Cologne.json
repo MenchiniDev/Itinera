@@ -1,40 +1,40 @@
 {
   "id" : 200267,
-  "community_name" : "Cologne",
+  "community" : "Cologne",
   "username" : "Tri_fester",
-  "post_body" : "1946: Margret Zimmermann balancing on a tightrope over the ruins of Cologne in which was then in the British occupation zone in Germany [1600x1178]",
-  "timestamp" : "2024-12-23 00:18:25",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "1946: Margret Zimmermann balancing on a tightrope over the ruins of Cologne in which was then in the British occupation zone in Germany [1600x1178]",
+  "timestamp" : "2024-12-22T23:18:25Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "1946: Margret Zimmermann balancing on a tightrope over the ruins of Cologne in which was then in the British occupation zone in Germany [1600x1178]",
     "username" : "A-sop-D",
-    "timestamp" : "2024-12-23 06:35:17"
+    "timestamp" : "2024-12-23T05:35:17Z"
   }, {
     "reported_comment" : false,
     "body" : "Y tho?",
     "username" : "genwawi",
-    "timestamp" : "2024-12-23 10:23:06"
+    "timestamp" : "2024-12-23T09:23:06Z"
   }, {
     "reported_comment" : false,
     "body" : "This must be a fake picture...the tightrope is going nowhere. The tightrope is not attached to anything in one direction.",
     "username" : "Blaueveilchen",
-    "timestamp" : "2024-12-23 00:18:25"
+    "timestamp" : "2024-12-22T23:18:25Z"
   }, {
     "reported_comment" : false,
     "body" : "1946: Margret Zimmermann balancing on a tightrope over the ruins of Cologne in which was then in the British occupation zone in Germany [1600x1178]",
     "username" : "A7Xdoneright",
-    "timestamp" : "2024-12-23 13:52:40"
+    "timestamp" : "2024-12-23T12:52:40Z"
   }, {
     "reported_comment" : false,
     "body" : "https://www.ksta.de/koeln/historisches-koeln-1946-wer-war-die-seiltaenzerin-vom-heumarkt-194536",
     "username" : "Tri_fester",
-    "timestamp" : "2024-12-23 00:22:15"
+    "timestamp" : "2024-12-22T23:22:15Z"
   }, {
     "reported_comment" : false,
     "body" : "It is a very thin line which makes it very light so I assume it simply floats in the air. Case closed.",
     "username" : "A7Xdoneright",
-    "timestamp" : "2024-12-23 13:54:07"
+    "timestamp" : "2024-12-23T12:54:07Z"
   } ]
 }

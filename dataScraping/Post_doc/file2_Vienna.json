@@ -1,45 +1,45 @@
 {
   "id" : 200094,
-  "community_name" : "Vienna",
+  "community" : "Vienna",
   "username" : "None",
-  "post_body" : "Train from Vienna to Bratislava",
-  "timestamp" : "2023-07-31 15:56:46",
-  "num_comment" : 7,
-  "reported_post" : false,
+  "post" : "Train from Vienna to Bratislava",
+  "timestamp" : "2023-07-31T13:56:46Z",
+  "nomment" : 7,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "You can buy the \"Bratislava Ticket\". It's 18 Euros for the trip and you can take the train in a 3 day window. \n\n[https://www.oebb.at/en/regionale-angebote/ueberregionale-angebote/bratislava-ticket](https://www.oebb.at/en/regionale-angebote/ueberregionale-angebote/bratislava-ticket)",
     "username" : "dmstan",
-    "timestamp" : "2023-07-31 16:29:53"
+    "timestamp" : "2023-07-31T14:29:53Z"
   }, {
     "reported_comment" : false,
     "body" : ">  Do I need to buy tickets online or can I buy them at the train station without any problems?  \n  \nBoth are possible. There are ticket counters at every (larger) train station in Vienna.  \n  \nThe go-to website is the website of the austrian federal train service (ÖBB):\nhttps://shop.oebbtickets.at/de/ticket  \n  \nThey also have a (very easy to use) app:  \nhttps://www.oebb.at/de/tickets-kundenkarten/online-mobile-ticketing/oebb-app",
     "username" : "oratory1990",
-    "timestamp" : "2023-07-31 16:38:21"
+    "timestamp" : "2023-07-31T14:38:21Z"
   }, {
     "reported_comment" : false,
     "body" : "Bei diesem Beitrag scheint es sich um einen Post zum Tourismus in Wien zu handeln. Hilfreiche Tipps findest [hier](https://www.reddit.com/r/vienna/wiki/index/tourismus).\n\nThis post seems to be a post about tourism in Vienna. Helpful tips can be found [here](https://www.reddit.com/r/vienna/wiki/index/tourism).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/vienna) if you have any questions or concerns.*",
     "username" : "AutoModerator",
-    "timestamp" : "2023-07-31 15:56:46"
+    "timestamp" : "2023-07-31T13:56:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Just back from Bratislava\nGot the ticket at Vienna central 30min before departure\n€12.50\n\nAnd €14.50 back ;)",
     "username" : "p0d0s",
-    "timestamp" : "2023-07-31 17:42:21"
+    "timestamp" : "2023-07-31T15:42:21Z"
   }, {
     "reported_comment" : false,
     "body" : "Did you have to make a reservation or is just the ticket needed? I keep seeing that I need to make a reservation along with the ticket but it is not available anywhere.",
     "username" : "None",
-    "timestamp" : "2023-08-06 09:29:33"
+    "timestamp" : "2023-08-06T07:29:33Z"
   }, {
     "reported_comment" : false,
     "body" : "No, buy ticket , hop on the train, take the free seat.  Enjoy the ride",
     "username" : "p0d0s",
-    "timestamp" : "2023-08-06 10:46:47"
+    "timestamp" : "2023-08-06T08:46:47Z"
   }, {
     "reported_comment" : false,
     "body" : "Alright, thanks for your answer. I got really confused with the whole reservation thing",
     "username" : "None",
-    "timestamp" : "2023-08-06 11:00:53"
+    "timestamp" : "2023-08-06T09:00:53Z"
   } ]
 }

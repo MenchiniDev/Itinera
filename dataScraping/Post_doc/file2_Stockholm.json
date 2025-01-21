@@ -1,75 +1,75 @@
 {
   "id" : 200077,
-  "community_name" : "Stockholm",
+  "community" : "Stockholm",
   "username" : "TheGreenDotFan",
-  "post_body" : "Where can I get high-end shoes/boots for men in Stockholm?",
-  "timestamp" : "2024-12-23 11:25:04",
-  "num_comment" : 13,
-  "reported_post" : false,
+  "post" : "Where can I get high-end shoes/boots for men in Stockholm?",
+  "timestamp" : "2024-12-23T10:25:04Z",
+  "nomment" : 13,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "[Myrqvist](https://myrqvist.com/?tw_source=google&tw_adid=664678764195&tw_campaign=19639687115&dema_id=19639687115&gad_source=1&gclid=Cj0KCQiAsaS7BhDPARIsAAX5cSDgNnjpGtq9IYbgqudU7cA1fLrg4sE7PaBWnR9H765HIK3mort6y7EaAtC0EALw_wcB)   \n\n\n[Loake](https://se.loake.com/)",
     "username" : "Silvervarg",
-    "timestamp" : "2024-12-23 11:46:07"
+    "timestamp" : "2024-12-23T10:46:07Z"
   }, {
     "reported_comment" : false,
     "body" : "Morjas and Myrqvists are probably the best bang for the buckfor dressier shoes in Stockholm. \n\nBut if you want to buy/try others brand I would advise you to visit both Bäckmans Skoservice and NK, since they both have a pretty broad selection of higher end shoes and boots (such as Loake, Crockett and Jones, Carmina, church's, Redwing, RM Williams).",
     "username" : "DrGUHO",
-    "timestamp" : "2024-12-23 12:36:44"
+    "timestamp" : "2024-12-23T11:36:44Z"
   }, {
     "reported_comment" : false,
     "body" : "Depending on what kind of styles you're looking for, [Sko-Uno](https://sko-uno.com/) (western styles, doc marten & co), [Skobaren](https://skobaren.com/) (sneakers, loafers, hiking & semi-dressy boots) & [Red Wing Shoes](https://www.redwingstockholm.com/) sell great stuff, though I don't know if you'd consider any of them \"high-end\", depending on what kind of a person you are.\n\nFor full-on shiny dress shoes, I don't have experience but Red Wing's [Beckman line](https://www.redwingstockholm.com/c/men/beckman) has a very sleek and slim cut while still being tough and well made so that would be my first recommendation for what you wrote without knowing anything more. They're too narrow for me personally, but that seems to be a common feature of traditionally dressy styles together with a very pointy silhouette.",
     "username" : "JennyDarukat",
-    "timestamp" : "2024-12-23 11:40:16"
+    "timestamp" : "2024-12-23T10:40:16Z"
   }, {
     "reported_comment" : false,
     "body" : "Morjas",
     "username" : "BootyOnMyFace11",
-    "timestamp" : "2024-12-23 12:11:20"
+    "timestamp" : "2024-12-23T11:11:20Z"
   }, {
     "reported_comment" : false,
     "body" : "Länna Sport has some high end stuff",
     "username" : "No-Reputation-827",
-    "timestamp" : "2024-12-23 12:28:49"
+    "timestamp" : "2024-12-23T11:28:49Z"
   }, {
     "reported_comment" : false,
     "body" : "[Nitty Gritty](https://nittygrittystore.com/men/footwear)\n\n[Tres Bien](https://tres-bien.com/collections/shoes)",
     "username" : "bagmangolden",
-    "timestamp" : "2024-12-23 13:08:05"
+    "timestamp" : "2024-12-23T12:08:05Z"
   }, {
     "reported_comment" : false,
     "body" : "https://www.skoaktiebolaget.com/",
     "username" : "MelodicSpeed1435",
-    "timestamp" : "2024-12-23 15:10:10"
+    "timestamp" : "2024-12-23T14:10:10Z"
   }, {
     "reported_comment" : false,
     "body" : "Ahléns and Nk are your best bets",
     "username" : "lowfour",
-    "timestamp" : "2024-12-23 11:25:04"
+    "timestamp" : "2024-12-23T10:25:04Z"
   }, {
     "reported_comment" : false,
     "body" : "Sko-Uno has a good selection of boots.  \nGamla Brogatan 34  \n[https://sko-uno.com/](https://sko-uno.com/)",
     "username" : "Rhubarb_Dense",
-    "timestamp" : "2024-12-23 11:27:54"
+    "timestamp" : "2024-12-23T10:27:54Z"
   }, {
     "reported_comment" : false,
     "body" : "Skopunkten",
     "username" : "cathairgod",
-    "timestamp" : "2024-12-23 11:58:43"
+    "timestamp" : "2024-12-23T10:58:43Z"
   }, {
     "reported_comment" : false,
     "body" : "Varför shoppa på Sko-Uno? För att när du handlar där kan skorna reversas, och du går hem som en vinnare! \nUtan att behöva dra fyra extra!",
     "username" : "ParreNagga",
-    "timestamp" : "2024-12-23 12:57:37"
+    "timestamp" : "2024-12-23T11:57:37Z"
   }, {
     "reported_comment" : false,
     "body" : "😂😂😂 high end😂😂😂",
     "username" : "No-Reputation-827",
-    "timestamp" : "2024-12-23 12:26:47"
+    "timestamp" : "2024-12-23T11:26:47Z"
   }, {
     "reported_comment" : false,
     "body" : "And I'd recommend Rusta for clothes, and Biltema for food (& clothes)!",
     "username" : "cathairgod",
-    "timestamp" : "2024-12-23 13:57:03"
+    "timestamp" : "2024-12-23T12:57:03Z"
   } ]
 }

@@ -2,14 +2,14 @@
   "id" : 200452,
   "city" : "Riga",
   "name" : "Riga",
-  "created" : "2024-11-16 11:40:29",
+  "created" : "2024-11-04T05:20:24Z",
   "post" : [ {
-    "text" : "Gym ( personal trainer)",
+    "text" : null,
     "user" : "No_Examination667",
-    "timestamp" : "2024-11-16 12:40:29"
+    "timestamp" : "2024-11-04T06:20:24Z"
   }, {
-    "text" : "Day trips from Riga ",
+    "text" : null,
     "user" : "pigeon-25",
-    "timestamp" : "2024-12-13 09:20:11"
+    "timestamp" : "2024-12-13T08:20:11Z"
   } ]
 }

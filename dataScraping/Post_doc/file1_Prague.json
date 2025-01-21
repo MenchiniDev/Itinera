@@ -1,55 +1,55 @@
 {
   "id" : 200004,
-  "community_name" : "Prague",
+  "community" : "Prague",
   "username" : "pavelioso",
-  "post_body" : "Nejak zjistit ze se solilo?",
-  "timestamp" : "2024-12-23 11:40:05",
-  "num_comment" : 9,
-  "reported_post" : false,
+  "post" : "Nejak zjistit ze se solilo?",
+  "timestamp" : "2024-12-23T10:40:05Z",
+  "nomment" : 9,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Prostě zkus olíznout silnici.",
     "username" : "Special_Duck_7842",
-    "timestamp" : "2024-12-23 11:40:05"
+    "timestamp" : "2024-12-23T10:40:05Z"
   }, {
     "reported_comment" : false,
     "body" : "Cesty v správe ŘSD, teda I.trieda a diaľnice sú solené. ŘSD má údržbovú aplikáciu: https://udrzba.rsd.cz/.",
     "username" : "cactuscore",
-    "timestamp" : "2024-12-23 12:51:02"
+    "timestamp" : "2024-12-23T11:51:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Jestli je všude sníh, jenom silnice je \"mokrá\" tak je posolíno.",
     "username" : "but_you_did_die",
-    "timestamp" : "2024-12-23 11:43:11"
+    "timestamp" : "2024-12-23T10:43:11Z"
   }, {
     "reported_comment" : false,
     "body" : "Můžeš požádat o informace podle zákona č. 106/1999. Žádost musíš směřovat na správnou entitu, například ŘSD, kraje nebo obce. Odpověď dostaneš do 15 dní.",
     "username" : "vlnaa",
-    "timestamp" : "2024-12-23 13:08:41"
+    "timestamp" : "2024-12-23T12:08:41Z"
   }, {
     "reported_comment" : false,
     "body" : "V beznadeji jsem to i (pred par lidma) udelal, a bylo to trochu slane. Pro zkousku jsem take vzal dalsi vzorek z jine casti me ruky, ktera byla take slana, mozna mene, coz me uvedlo k tomu ze je asi jednodussi nakonec zavolat na RSD a zeptat se - kde mi bylo sdeleno ze ano, dneska rano bylo vse posoleno.",
     "username" : "pavelioso",
-    "timestamp" : "2024-12-23 14:07:31"
+    "timestamp" : "2024-12-23T13:07:31Z"
   }, {
     "reported_comment" : false,
     "body" : "Actually odpověď k věci! Jsem v šoku 😂",
     "username" : "VanDerWallas",
-    "timestamp" : "2024-12-23 13:00:46"
+    "timestamp" : "2024-12-23T12:00:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Dekuji moc za link. Zavolal jsem na RSD, a ano, dneska rano bylo posoleno.",
     "username" : "pavelioso",
-    "timestamp" : "2024-12-23 14:01:58"
+    "timestamp" : "2024-12-23T13:01:58Z"
   }, {
     "reported_comment" : false,
     "body" : "Delaji udajne preventivni soleni, coz dneska se tak stalo.",
     "username" : "pavelioso",
-    "timestamp" : "2024-12-23 13:59:44"
+    "timestamp" : "2024-12-23T12:59:44Z"
   }, {
     "reported_comment" : false,
     "body" : "Dekuji. Zavolal jsem na RSD, a ano, dneska silnice byli poprve posolene.",
     "username" : "pavelioso",
-    "timestamp" : "2024-12-23 13:57:09"
+    "timestamp" : "2024-12-23T12:57:09Z"
   } ]
 }

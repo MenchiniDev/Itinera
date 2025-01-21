@@ -2,14 +2,14 @@
   "id" : 200477,
   "city" : "London",
   "name" : "London",
-  "created" : "2024-12-17 12:52:46",
+  "created" : "2024-12-17T11:52:46Z",
   "post" : [ {
-    "text" : "London info",
+    "text" : null,
     "user" : "polkadotska",
-    "timestamp" : "2024-12-17 13:52:46"
+    "timestamp" : "2024-12-17T12:52:46Z"
   }, {
-    "text" : "When is it appropriate to call for a welfare check?",
+    "text" : null,
     "user" : "deadlykillerpanda",
-    "timestamp" : "2024-12-23 00:31:32"
+    "timestamp" : "2024-12-22T23:31:32Z"
   } ]
 }

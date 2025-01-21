@@ -1,10 +1,10 @@
 {
   "id" : 200013,
-  "community_name" : "Ljubljana",
+  "community" : "Ljubljana",
   "username" : "Ok_Aide7125",
-  "post_body" : "NYE ",
-  "timestamp" : "2024-11-16 12:01:46",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "NYE ",
+  "timestamp" : "2024-11-04T05:45:50Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

@@ -59,9 +59,9 @@ public class CreateGraphDatabase {
 
                     // Estraggo dati dal post
                     String postId = String.valueOf(post.get("id"));
-                    String communityName = (String) post.get("community_name");
+                    String communityName = (String) post.get("community");
                     String username = (String) post.get("username");
-                    String preview = getPostPreview((String) post.get("post_body"));
+                    String preview = getPostPreview((String) post.get("post"));
                     String timestamp = (String) post.get("timestamp");
 
                     // Aggiungo l'utente al set di utenti
@@ -80,7 +80,7 @@ public class CreateGraphDatabase {
 
                     // Creo il post e le relazioni con l'autore e la community
                     session.executeWrite(tx -> {
-                        tx.run("CREATE (p:Post {id: $postId, preview: $preview, timestamp: $timestamp}) " +
+                        tx.run("CREATE (p:Post {postId: $postId, preview: $preview, timestamp: $timestamp}) " +
                                 "WITH p " +
                                 "MATCH (u:User {username: $username}), (c:Community {city: $city}) " +
                                 "MERGE (u)-[:ASSOCIATED]->(p) " +

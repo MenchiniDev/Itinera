@@ -5,6 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -25,7 +26,6 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 public class CommunityBuilder {
 
     private static final AtomicInteger globalIdCounter = new AtomicInteger(200436); // Contatore globale per ID
-    private static final DateTimeFormatter TIMESTAMP_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
     public static void main(String[] args) {
         // Percorsi dei file
@@ -85,7 +85,7 @@ public class CommunityBuilder {
             List<JSONObject> posts = entry.getValue();
 
             // Ordino i post per timestamp
-            posts.sort(Comparator.comparing(post -> LocalDateTime.parse((String) post.get("timestamp"), TIMESTAMP_FORMATTER)));
+            posts.sort(Comparator.comparing(post -> ZonedDateTime.parse((String) post.get("timestamp"))));
 
             // Creo il documento della community
             String cityName = getCityNameFromCommunityName(communityName);
@@ -105,7 +105,6 @@ public class CommunityBuilder {
                 community.put("created", adjustedTimestamp);
             }
 
-
             communityMap.put(communityName, community);
         }
 
@@ -118,10 +117,14 @@ public class CommunityBuilder {
 
     private static String subtractOneHour(String timestamp) {
         try {
-            LocalDateTime dateTime = LocalDateTime.parse(timestamp, TIMESTAMP_FORMATTER);
+            // Parsing del timestamp ISO 8601
+            ZonedDateTime dateTime = ZonedDateTime.parse(timestamp);
+    
             // Sottraggo un'ora
             dateTime = dateTime.minusHours(1);
-            return dateTime.format(TIMESTAMP_FORMATTER);
+    
+            // Ritorna il timestamp aggiornato in formato ISO 8601
+            return dateTime.toString();
         } catch (Exception e) {
             System.err.println("Errore durante la sottrazione di un'ora dal timestamp: " + timestamp);
             return timestamp; // Ritorna il valore originale in caso di errore
@@ -148,7 +151,7 @@ public class CommunityBuilder {
         community.put("id", globalIdCounter.getAndIncrement());
         community.put("city", cityName);
         community.put("name", communityName);
-        community.put("created", "9999-12-31 23:59:59");
+        community.put("created", "9999-12-31T23:59:59Z");
         community.put("post", new JSONArray());
         return community;
     }
@@ -162,20 +165,23 @@ public class CommunityBuilder {
     }
 
     private static String correctTimestamp(String timestamp) {
-        try {
-            LocalDateTime dateTime = LocalDateTime.parse(timestamp, TIMESTAMP_FORMATTER);
+    try {
+        // Parsing del timestamp ISO 8601 con supporto del fuso orario
+        ZonedDateTime dateTime = ZonedDateTime.parse(timestamp);
 
-            // Correggo l'anno se fuori dal range accettabile
-            if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
-                dateTime = dateTime.withYear(2024);
-            }
-
-            return dateTime.format(TIMESTAMP_FORMATTER);
-        } catch (Exception e) {
-            System.err.println("Timestamp non valido: " + timestamp + ". Corretto al valore di default.");
-            return "2024-01-01 00:00:00";
+        // Correggo l'anno se fuori dal range accettabile
+        if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
+            dateTime = dateTime.withYear(2024);
         }
+
+        // Ritorna il timestamp in formato ISO 8601
+        return dateTime.toString();
+    } catch (Exception e) {
+        System.err.println("Timestamp non valido: " + timestamp + ". Corretto al valore di default.");
+        return "2024-01-01T00:00:00Z"; // Valore di default in ISO 8601
     }
+}
+
 
     private static void saveCommunityDocuments(Map<String, JSONObject> communityMap, String outputFolderPath) {
         for (Map.Entry<String, JSONObject> entry : communityMap.entrySet()) {

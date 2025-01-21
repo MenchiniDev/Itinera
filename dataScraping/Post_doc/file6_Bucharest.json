@@ -1,15 +1,15 @@
 {
   "id" : 200190,
-  "community_name" : "Bucharest",
+  "community" : "Bucharest",
   "username" : "Prov91",
-  "post_body" : "Football Tickets",
-  "timestamp" : "2022-10-22 22:16:56",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Football Tickets",
+  "timestamp" : "2022-10-22T20:16:56Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Sure, it is possible!",
     "username" : "Elisss56",
-    "timestamp" : "2022-10-22 22:16:56"
+    "timestamp" : "2022-10-22T20:16:56Z"
   } ]
 }

@@ -1,40 +1,40 @@
 {
   "id" : 200214,
-  "community_name" : "Brussels",
+  "community" : "Brussels",
   "username" : "DeathByAzathoth",
-  "post_body" : "Are there any Ukrainian bars in Brussels?",
-  "timestamp" : "2024-12-23 00:53:24",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "Are there any Ukrainian bars in Brussels?",
+  "timestamp" : "2024-12-22T23:53:24Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Edgar’s flavours is run by a Ukrainian woman. It’s a very nice cocktail bar at Place Stephanie that’s been around for years",
     "username" : "Th1rt13n",
-    "timestamp" : "2024-12-23 07:36:34"
+    "timestamp" : "2024-12-23T06:36:34Z"
   }, {
     "reported_comment" : false,
     "body" : "There are some ukrainian stands on the xmas market (walk down from the central station to grand place)",
     "username" : "mokkkko",
-    "timestamp" : "2024-12-23 01:15:48"
+    "timestamp" : "2024-12-23T00:15:48Z"
   }, {
     "reported_comment" : false,
     "body" : "Well if you’re in Ukraine I don’t see why you would need Ukrainian bars in Brussels 😂",
     "username" : "BKacc",
-    "timestamp" : "2024-12-23 00:53:24"
+    "timestamp" : "2024-12-22T23:53:24Z"
   }, {
     "reported_comment" : false,
     "body" : "Will be soon enough. Or Russian, still debating",
     "username" : "Keepforgettinglogin2",
-    "timestamp" : "2024-12-23 02:45:15"
+    "timestamp" : "2024-12-23T01:45:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Was about to say the same thing. Not exactly Ukrainian. But does have some of the country’s themes integrated. And most importantly has some amazing cocktails.\n\nhttps://maps.app.goo.gl/94SPbbPAVa3nmH2SA?g_st=com.google.maps.preview.copy",
     "username" : "Elder_Gamer87",
-    "timestamp" : "2024-12-23 09:06:47"
+    "timestamp" : "2024-12-23T08:06:47Z"
   }, {
     "reported_comment" : false,
     "body" : "Thanks for noticing the mistake, I'm in Brussels 👍",
     "username" : "DeathByAzathoth",
-    "timestamp" : "2024-12-23 01:17:16"
+    "timestamp" : "2024-12-23T00:17:16Z"
   } ]
 }

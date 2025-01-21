@@ -1,10 +1,10 @@
 {
   "id" : 200400,
-  "community_name" : "Madrid",
+  "community" : "Madrid",
   "username" : "Adeabeja333",
-  "post_body" : "Proyecto de investigación",
-  "timestamp" : "2024-11-16 12:43:14",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Proyecto de investigación",
+  "timestamp" : "2024-11-04T06:22:19Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

@@ -2,14 +2,14 @@
   "id" : 200459,
   "city" : "Tirana",
   "name" : "Tirana",
-  "created" : "2024-11-19 11:32:00",
+  "created" : "2024-11-19T10:32Z",
   "post" : [ {
-    "text" : "Do not ask about illegal stuff. ",
+    "text" : null,
     "user" : "KingOfTheNightfort",
-    "timestamp" : "2024-11-19 12:32:00"
+    "timestamp" : "2024-11-19T11:32Z"
   }, {
-    "text" : "A message for turists: DO NOT ASK ABOUT WEED",
+    "text" : null,
     "user" : "KingOfTheNightfort",
-    "timestamp" : "2024-11-30 15:42:16"
+    "timestamp" : "2024-11-30T14:42:16Z"
   } ]
 }

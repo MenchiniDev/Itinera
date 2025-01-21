@@ -2,14 +2,14 @@
   "id" : 200465,
   "city" : "Podgorica",
   "name" : "Podgorica",
-  "created" : "2024-08-15 09:09:27",
+  "created" : "2024-08-15T07:09:27Z",
   "post" : [ {
-    "text" : "prizren",
+    "text" : null,
     "user" : "nina-art",
-    "timestamp" : "2024-08-15 10:09:27"
+    "timestamp" : "2024-08-15T08:09:27Z"
   }, {
-    "text" : "Im coming to montenegro",
+    "text" : null,
     "user" : "Dry-Meet-9956",
-    "timestamp" : "2024-08-19 03:10:06"
+    "timestamp" : "2024-08-19T01:10:06Z"
   } ]
 }

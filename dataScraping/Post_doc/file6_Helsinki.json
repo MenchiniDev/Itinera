@@ -1,15 +1,15 @@
 {
   "id" : 200192,
-  "community_name" : "Helsinki",
+  "community" : "Helsinki",
   "username" : "Difficult-Court9522",
-  "post_body" : "What is open the next few days?",
-  "timestamp" : "2024-12-23 15:22:01",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "What is open the next few days?",
+  "timestamp" : "2024-12-23T14:22:01Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "www.google.com",
     "username" : "Nebuladiver",
-    "timestamp" : "2024-12-23 15:22:01"
+    "timestamp" : "2024-12-23T14:22:01Z"
   } ]
 }

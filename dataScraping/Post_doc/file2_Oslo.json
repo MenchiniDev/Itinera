@@ -1,15 +1,15 @@
 {
   "id" : 200128,
-  "community_name" : "Oslo",
+  "community" : "Oslo",
   "username" : "Ok-Blood-2769",
-  "post_body" : "any electronic music vinyl’s in oslo?",
-  "timestamp" : "2024-12-23 11:52:47",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "any electronic music vinyl’s in oslo?",
+  "timestamp" : "2024-12-23T10:52:47Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "If you mean a shop to buy records, then filter is your best option. It's in the city center, a short walk from the central station.",
     "username" : "maythefacebewithyou",
-    "timestamp" : "2024-12-23 11:52:47"
+    "timestamp" : "2024-12-23T10:52:47Z"
   } ]
 }
