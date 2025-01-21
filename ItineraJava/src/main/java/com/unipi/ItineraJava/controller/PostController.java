@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.controller;
 
 
+import com.unipi.ItineraJava.DTO.ReportPostRequest;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.model.Review;
@@ -20,39 +21,44 @@ class PostController {
     @Autowired
     private PostService postService;
 
+    // http://localhost:8080/posts
+    // returns all posts
     @GetMapping
     public List<Post> getAllPosts() {
         return postService.findAll();
     }
 
+    // http://localhost:8080/posts/678e56991a6dfb7aa1fbc30a
+    // todo: indebuggabile
     @GetMapping("/{id}")
     public Optional<Post> getPostById(@PathVariable String id) {
-        return postService.findById(id);
+        return postService.getPostById(id);
     }
 
-    @PostMapping
-    public Post createPost(@RequestBody Post post) {
-        return postService.save(post);
-    }
-
+    // working
     @DeleteMapping("/{id}")
-    public void deletePost(@PathVariable String id) {
-        postService.deleteById(id);
+    public ResponseEntity<String> deletePost(@RequestHeader("Authorization") String token,
+                           @PathVariable String id) {
+        if (User.isAdmin(token)){
+            postService.deleteById(id);
+            return ResponseEntity.ok("Post deleted");
+        }
+        else return ResponseEntity.internalServerError().body("Unauthorized");
     }
-
+    // todo: indebuggabile
     @PutMapping("/report")
     public ResponseEntity<String> reportPost(@RequestHeader("Authorization") String token,
-                            @RequestBody String timestamp,
-                            @RequestBody String user,
-                            @RequestBody String community)
-    {
+                                             @RequestBody ReportPostRequest request) {
         String username = JwtTokenProvider.getUsernameFromToken(token);
-        if(username == null)
-            return ResponseEntity.badRequest().body("invalid token");
-        if (postService.reportPost(timestamp,user,community))
-            return ResponseEntity.ok("success");
-        return ResponseEntity.internalServerError().body("error");
+        if (username == null) {
+            return ResponseEntity.badRequest().body("Invalid token");
+        }
+        if (postService.reportPost(request.getTimestamp(), request.getUser(), request.getCommunity())) {
+            return ResponseEntity.ok("Success");
+        }
+        return ResponseEntity.internalServerError().body("Error");
     }
+
 
     @GetMapping("/report")
     public ResponseEntity<List<Post>> showPostReported(@RequestHeader("Authorization") String token) {
