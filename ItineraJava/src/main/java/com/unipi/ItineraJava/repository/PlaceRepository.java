@@ -4,7 +4,9 @@ import com.unipi.ItineraJava.model.Review;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import com.unipi.ItineraJava.model.*;
+import org.springframework.data.mongodb.repository.Query;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
@@ -19,26 +21,18 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     List<MongoPlace> findTopPlacesByCity(String city);
 
     @Aggregation(pipeline = {
-            "{ '$match': { 'city': ?0, 'category': ?1, 'name': ?2 } }", // Filtra per città, categoria e nome
-            "{ '$unwind': '$reviews' }", // Esplodi le recensioni
-            "{ '$sort': { 'reviews.stars': -1 } }", // Ordina per stelle
-            "{ '$project': { 'reviews': 1, '_id': 0 } }" // Ritorna solo il campo 'reviews'
-    })
-    List<Review> getReviewsByCityCategoryAndName(String city, String category, String name);
-
-    @Aggregation(pipeline = {
             "{ '$match': { 'city': ?0 } }",
-            "{ '$addFields': { 'overallRating': { '$avg': '$reviews.overall_rating' } } }",
+            "{ '$addFields': { 'overallRating': { '$avg': '$reviews_info.overall_rating' } } }",
             "{ '$sort': { 'overallRating': -1 } }"
     })
     List<MongoPlace> findByCityOrderByOverallRatingDesc(String city);
 
     @Aggregation(pipeline = {
             "{ '$match': { 'city': ?0, 'category': ?1 } }",
-            "{ '$addFields': { 'overallRating': { '$avg': '$reviews.overall_rating' } } }",
+            "{ '$addFields': { 'overallRating': { '$avg': '$reviews_info.overall_rating' } } }",
             "{ '$sort': { 'overallRating': -1 } }"
     })
-    List<MongoPlace> findByCityAndCategoryOrderByOverallRating(String city, String category);
+    ArrayList<MongoPlace> findByCityAndCategoryOrderByOverallRating(String city, String category);
 
     @Aggregation(pipeline = {
             "{ '$unwind': '$reviews' }",
@@ -47,6 +41,6 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     })
     void calculateReviewSummary();
 
-
+    List<MongoPlace> findByCity(String city);
 }
 

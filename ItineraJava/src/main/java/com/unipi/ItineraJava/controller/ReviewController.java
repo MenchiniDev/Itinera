@@ -41,6 +41,16 @@ public class ReviewController {
         }
     }
 
+    // http://localhost:8080/place/reviews?city=roma&&category=hotel&&name=x
+    @GetMapping("/reviews")
+    public List<Review> getReviews(
+            @RequestParam String city,
+            @RequestParam String category,
+            @RequestParam String name) {
+
+        return ResponseEntity.ok(reviewService.getReviewsByCityCategoryAndName(city, category, name)).getBody();
+    }
+
     @PutMapping("report")
     public ResponseEntity<String> updateReview(
             @RequestHeader("Authorization") String token,
