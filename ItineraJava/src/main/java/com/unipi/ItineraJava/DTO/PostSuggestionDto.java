@@ -4,22 +4,22 @@ package com.unipi.ItineraJava.DTO;
 
 public class PostSuggestionDto {
 
-    private Long id;
+    private String postId;
     private String preview;
     private String community;
 
-    public PostSuggestionDto(Long id, String preview, String community) {
-        this.id = id;
+    public PostSuggestionDto(String postId, String preview, String community) {
+        this.postId = postId;
         this.preview = preview;
         this.community = community;
     }
 
-    public Long getId() {
-        return id;
+    public String getId() {
+        return postId;
     }
 
-    public void setId(Long id) {
-        this.id = id;
+    public void setId(String postId) {
+        this.postId = postId;
     }
 
     public String getPreview() {
