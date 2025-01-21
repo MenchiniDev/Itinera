@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.controller;
 
 
+import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.List;
 import java.util.Optional;
@@ -69,10 +70,14 @@ class CommunityController {
     }
 
     // adds a post inside a community
-    @PutMapping("community/{name}")
+    // token -> user auth token
+    // text -> post body, plain test no json
+    // the name of the city
+    // http://localhost:8080/Community/Rome
+    @PutMapping("/{name}")
     public ResponseEntity<String> updateCommunity(@RequestHeader("Authorization") String token,
-                                                  @RequestBody String text,
-                                                  @RequestParam String name)
+                                                  @PathVariable String name,
+                                                  @RequestBody String text)
     {
         try{
             String username = JwtTokenProvider.getUsernameFromToken(token);
@@ -87,19 +92,28 @@ class CommunityController {
                 return ResponseEntity.status(400).body("Invalid Community name");
             }
         }catch (Exception e) {
+            e.printStackTrace();
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(e.getMessage());
         }
     }
-    @PutMapping("/communities/comment")
+    @PutMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
-            @RequestParam String username,
-            @RequestParam String timestamp,
-            @RequestBody Comment comment) {
+            @PathVariable String username, // of the post replying
+            @RequestBody String timestamp,// of the post replying
+            @RequestBody String comment_body) {
 
         String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
+        System.out.println(commenterUsername);
         if (commenterUsername == null)
             return ResponseEntity.internalServerError().body("token invalid");
+
+        Comment comment = new Comment();
+        comment.setUser(commenterUsername);
+        comment.setTimestamp(LocalDateTime.now());
+        comment.setText(comment_body);
+        comment.setReported(false);
+
         Post updatedPost = communityService.addCommentToPost(username, timestamp, commenterUsername, comment);
 
         if (updatedPost != null) {

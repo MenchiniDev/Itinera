@@ -22,7 +22,9 @@ public interface CommunityRepository extends MongoRepository<MongoCommunity, Str
         MongoCommunity save(MongoCommunity community);
 
         @Query("{ 'city': { $regex: '^?0$', $options: 'i' } }")
-        Boolean findByCity(String city);
+        boolean findByCity(String city);
+
+        boolean existsByCity(String city);
 
 
         Post save(Post post);

@@ -71,13 +71,18 @@ public class JwtTokenProvider {
 
 
     public static String getUsernameFromToken(String token) {
+        if (token != null && token.startsWith("Bearer ")) {
+            token = token.substring(7).trim(); // Rimuove "Bearer " e gli eventuali spazi
+        }
         try {
-            return Jwts.parser()
+            return Jwts.parserBuilder()
                     .setSigningKey(secretKey)
+                    .build()
                     .parseClaimsJws(token)
                     .getBody()
                     .getSubject();  // Restituisce il nome utente
         } catch (JwtException | IllegalArgumentException e) {
+            e.printStackTrace();
             throw new IllegalArgumentException("Token non valido o scaduto");
         }
     }

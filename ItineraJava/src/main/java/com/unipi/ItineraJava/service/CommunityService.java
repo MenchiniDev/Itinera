@@ -142,20 +142,22 @@ public class CommunityService {
     }
     public boolean updateByPost(String name, PostSummary postSummary) {
             Query query = new Query(Criteria.where("name").is(name));
-            Update update = new Update().push("posts", postSummary);
+            Update update = new Update().push("post", postSummary);
 
             UpdateResult result = mongoTemplate.updateFirst(query, update, MongoCommunity.class);
 
             return result.getModifiedCount() > 0;
     }
 
-    public boolean existsCommunity(String name) {
-        return communityRepository.findByCity(name);
+    public Boolean existsCommunity(String name) {
+        return communityRepository.existsByCity(name);
     }
 
     public Post addCommentToPost(String postUsername, String postTimestamp, String commenterUsername, Comment comment) {
 
+        comment.setReported(false);
         Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
+        System.out.println(post);
 
         if (post != null) {
             comment.setUser(commenterUsername);

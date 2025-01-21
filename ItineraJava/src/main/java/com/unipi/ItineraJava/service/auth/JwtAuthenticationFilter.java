@@ -30,9 +30,6 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
             System.out.println("VALID TOKEN");
             Authentication authentication = tokenProvider.getAuthentication(token);
             SecurityContextHolder.getContext().setAuthentication(authentication);
-
-            // Verifica che l'autenticazione sia corretta
-            System.out.println("Authentication set: " + SecurityContextHolder.getContext().getAuthentication());
         }
 
 
