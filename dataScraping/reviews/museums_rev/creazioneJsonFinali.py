@@ -3,6 +3,9 @@ import re
 import random
 from datetime import datetime, timedelta
 
+def format_iso8601(date_obj):
+    return date_obj.isoformat(timespec="microseconds")
+
 def process_reviews(reviews, addresses, usernames):
     processed_reviews = []
     id_counter = 150000  # ID iniziale per le recensioni
@@ -14,7 +17,8 @@ def process_reviews(reviews, addresses, usernames):
         end_date = datetime(2024, 12, 31)
         random_date = start_date + timedelta(days=random.randint(0, (end_date - start_date).days))
         random_time = timedelta(hours=random.randint(0, 23), minutes=random.randint(0, 59))
-        timestamp = (random_date + random_time).strftime("%m-%d-%Y %H:%M")
+        t=random_date + random_time
+        timestamp = format_iso8601(t)
 
         # Sostituzioni nel campo comment
         comment = review.get("comment", "")
@@ -33,7 +37,7 @@ def process_reviews(reviews, addresses, usernames):
             "place_name": place_name,
             "text": comment,
             "timestamp": timestamp,
-            "rev_id": id_counter,
+            "_id": str(id_counter),
             "user": user,
             "stars": int(review.get("rating", 0)),
             "reported": False
@@ -65,7 +69,7 @@ def generate_review_info(processed_reviews, addresses):
 
         # Crea l'oggetto per il secondo file
         processed_address = {
-            "id": id_counter,
+            "_id": str(id_counter),
             "name": address["name"],
             "address": address["address"],
             "city": address["city"],

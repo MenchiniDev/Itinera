@@ -71,6 +71,9 @@ public class JwtTokenProvider {
 
 
     public static String getUsernameFromToken(String token) {
+        if(token !=null && token.startsWith("Bearer ")) {
+            token = token.substring(7).trim();
+        }
         try {
             return Jwts.parser()
                     .setSigningKey(secretKey)
@@ -78,6 +81,7 @@ public class JwtTokenProvider {
                     .getBody()
                     .getSubject();  // Restituisce il nome utente
         } catch (JwtException | IllegalArgumentException e) {
+            e.printStackTrace();
             throw new IllegalArgumentException("Token non valido o scaduto");
         }
     }

@@ -1,20 +1,17 @@
 package com.unipi.ItineraJava.service;
 
-import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import com.unipi.ItineraJava.repository.ReviewRepository;
-import com.unipi.ItineraJava.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import java.security.PrivilegedAction;
 import java.time.Instant;
+import java.time.LocalDateTime;
 import java.util.List;
 
 @Service
@@ -37,11 +34,11 @@ public class ReviewService {
 
         // Creazione del nuovo oggetto Review
         Review review = new Review();
-        review.setPlaceId(placeId);
+        review.setPlace_name(placeId);
         review.setUser(username);
         review.setStars(stars);
         review.setText(text);
-        review.setTimestamp(Instant.now().toString());
+        review.setTimestamp(LocalDateTime.now().toString());
         review.setReported(false);
 
         placeRepository.calculateReviewSummary();
@@ -50,11 +47,11 @@ public class ReviewService {
         return reviewRepository.save(review);
     }
 
-    public String reportReview(String placeId, String username, String timestamp) {
+    public String reportReview(String place_name, String username, String timestamp) {
         // Crea una query per cercare la recensione in base ai parametri
         try {
             Query query = new Query();
-            query.addCriteria(Criteria.where("placeId").is(placeId)
+            query.addCriteria(Criteria.where("place_name").is(place_name)
                     .and("user").is(username)
                     .and("timestamp").is(timestamp));
 
