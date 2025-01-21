@@ -195,8 +195,17 @@ class UserController {
 
     // Endpoint per aggiornare il campo "reported" per uno specifico username
     @PutMapping("/report/{username}")
-    public void reportUser(@PathVariable String username, @RequestParam boolean reported) {
+    public ResponseEntity<?> reportUser(@PathVariable String username, @RequestParam boolean reported) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        // Verifica se l'utente è autenticato
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                    .body("User not authenticated. Please log in to access this endpoint.");
+        }
         userService.updateReportedByUsername(username, reported);
+        return ResponseEntity.status(HttpStatus.OK)
+                .body("User correctly reported.");
+
     }
 
     //endpoint per ritornare l'ultimo post di un utente
@@ -225,7 +234,8 @@ class UserController {
     }
 
     //cambia il parametro last post nella collection users, da usare quando viene pubblicato un nuovo post
-    // ANCORA DA TESTARE
+    //non penso abbia senso metterla come controller in quanto è eseguita solo alla pubblicazione di un post
+    /*
     @PutMapping("/updateLastPost/{username}")
     public ResponseEntity<?> updateLastPost(@PathVariable String username, @RequestParam String postBody) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -240,7 +250,7 @@ class UserController {
         } catch (IllegalArgumentException ex) {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body(ex.getMessage());
         }
-    }
+    }*/
 
 
 
