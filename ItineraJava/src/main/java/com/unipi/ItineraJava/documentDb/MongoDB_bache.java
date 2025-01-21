@@ -1,4 +1,4 @@
-package com.unipi.ItineraJava.filtering;
+package com.unipi.ItineraJava.documentDb;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

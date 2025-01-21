@@ -1,6 +1,6 @@
 [
     {
-        "id": 1250,
+        "_id": "1250",
         "name": "Hotel Arena",
         "address": " s Gravesandestraat 55 Oost 1092 AA Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -11,7 +11,7 @@
         }
     },
     {
-        "id": 1251,
+        "_id": "1251",
         "name": "K K Hotel George",
         "address": "1 15 Templeton Place Earl s Court Kensington and Chelsea London SW5 9NB United Kingdom",
         "city": "London",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "id": 1252,
+        "_id": "1252",
         "name": "Apex Temple Court Hotel",
         "address": "1 2 Serjeant s Inn Fleet Street City of London London EC4Y 1LL United Kingdom",
         "city": "London",
@@ -33,7 +33,7 @@
         }
     },
     {
-        "id": 1253,
+        "_id": "1253",
         "name": "The Park Grand London Paddington",
         "address": "1 3 Queens Garden Westminster Borough London W2 3BA United Kingdom",
         "city": "London",
@@ -44,7 +44,7 @@
         }
     },
     {
-        "id": 1254,
+        "_id": "1254",
         "name": "Monhotel Lounge SPA",
         "address": "1 3 Rue d Argentine 16th arr 75116 Paris France",
         "city": "Paris",
@@ -55,7 +55,7 @@
         }
     },
     {
-        "id": 1255,
+        "_id": "1255",
         "name": "Kube Hotel Ice Bar",
         "address": "1 5 Passage Ruelle 18th arr 75018 Paris France",
         "city": "Paris",
@@ -66,7 +66,7 @@
         }
     },
     {
-        "id": 1256,
+        "_id": "1256",
         "name": "The Principal London",
         "address": "1 8 Russell Square Camden London WC1B 5BE United Kingdom",
         "city": "London",
@@ -77,7 +77,7 @@
         }
     },
     {
-        "id": 1257,
+        "_id": "1257",
         "name": "Park Plaza County Hall London",
         "address": "1 Addington Street Lambeth London SE1 7RY United Kingdom",
         "city": "London",
@@ -88,7 +88,7 @@
         }
     },
     {
-        "id": 1258,
+        "_id": "1258",
         "name": "One Aldwych",
         "address": "1 Aldwych Westminster Borough London WC2B 4BZ United Kingdom",
         "city": "London",
@@ -99,7 +99,7 @@
         }
     },
     {
-        "id": 1259,
+        "_id": "1259",
         "name": "Splendid Etoile",
         "address": "1 Avenue Carnot 17th arr 75017 Paris France",
         "city": "Paris",
@@ -110,7 +110,7 @@
         }
     },
     {
-        "id": 1260,
+        "_id": "1260",
         "name": "Hotel Trianon Rive Gauche",
         "address": "1 Bis Rue De Vaugirard 6th arr 75006 Paris France",
         "city": "Paris",
@@ -121,7 +121,7 @@
         }
     },
     {
-        "id": 1261,
+        "_id": "1261",
         "name": "InterContinental London Park Lane",
         "address": "1 Hamilton Place Park Lane Westminster Borough London W1J 7QY United Kingdom",
         "city": "London",
@@ -132,7 +132,7 @@
         }
     },
     {
-        "id": 1262,
+        "_id": "1262",
         "name": "Novotel Suites Paris Nord 18 me",
         "address": "1 Impasse Marteau 18th arr 75018 Paris France",
         "city": "Paris",
@@ -143,7 +143,7 @@
         }
     },
     {
-        "id": 1263,
+        "_id": "1263",
         "name": "Grand Royale London Hyde Park",
         "address": "1 Inverness Terrace Westminster Borough London W2 3JP United Kingdom",
         "city": "London",
@@ -154,7 +154,7 @@
         }
     },
     {
-        "id": 1264,
+        "_id": "1264",
         "name": "Milestone Hotel Kensington",
         "address": "1 Kensington Court Kensington and Chelsea London W8 5DL United Kingdom",
         "city": "London",
@@ -165,7 +165,7 @@
         }
     },
     {
-        "id": 1265,
+        "_id": "1265",
         "name": "Crowne Plaza London Kings Cross",
         "address": "1 Kings Cross Road Islington London WC1X 9HX United Kingdom",
         "city": "London",
@@ -176,7 +176,7 @@
         }
     },
     {
-        "id": 1266,
+        "_id": "1266",
         "name": "Select Hotel",
         "address": "1 Place De La Sorbonne 5th arr 75005 Paris France",
         "city": "Paris",
@@ -187,7 +187,7 @@
         }
     },
     {
-        "id": 1267,
+        "_id": "1267",
         "name": "H tel De Vend me",
         "address": "1 Place Vend me 1st arr 75001 Paris France",
         "city": "Paris",
@@ -198,7 +198,7 @@
         }
     },
     {
-        "id": 1268,
+        "_id": "1268",
         "name": "Pullman Paris Centre Bercy",
         "address": "1 Rue De Libourne 12th arr 75012 Paris France",
         "city": "Paris",
@@ -209,7 +209,7 @@
         }
     },
     {
-        "id": 1269,
+        "_id": "1269",
         "name": "Gardette Park Hotel",
         "address": "1 Rue Du G n ral Blaise 11th arr 75011 Paris France",
         "city": "Paris",
@@ -220,7 +220,7 @@
         }
     },
     {
-        "id": 1270,
+        "_id": "1270",
         "name": "Hotel Panache",
         "address": "1 rue Geoffroy Marie 9th arr 75009 Paris France",
         "city": "Paris",
@@ -231,7 +231,7 @@
         }
     },
     {
-        "id": 1271,
+        "_id": "1271",
         "name": "H tel des Ducs D Anjou",
         "address": "1 Rue Sainte Opportune 1st arr 75001 Paris France",
         "city": "Paris",
@@ -242,7 +242,7 @@
         }
     },
     {
-        "id": 1272,
+        "_id": "1272",
         "name": "Hotel Scribe Paris Opera by Sofitel",
         "address": "1 Rue Scribe 9th arr 75009 Paris France",
         "city": "Paris",
@@ -253,7 +253,7 @@
         }
     },
     {
-        "id": 1273,
+        "_id": "1273",
         "name": "Novotel London West",
         "address": "1 Shortlands Hammersmith and Fulham London W6 8DR United Kingdom",
         "city": "London",
@@ -264,7 +264,7 @@
         }
     },
     {
-        "id": 1274,
+        "_id": "1274",
         "name": "Haymarket Hotel",
         "address": "1 Suffolk Place Westminster Borough London SW1Y 4HX United Kingdom",
         "city": "London",
@@ -275,7 +275,7 @@
         }
     },
     {
-        "id": 1275,
+        "_id": "1275",
         "name": "Intercontinental London The O2",
         "address": "1 Waterview Drive Greenwich London SE10 0TW United Kingdom",
         "city": "London",
@@ -286,7 +286,7 @@
         }
     },
     {
-        "id": 1276,
+        "_id": "1276",
         "name": "H tel Juliana Paris",
         "address": "10 12 rue Cognacq Jay 7th arr 75007 Paris France",
         "city": "Paris",
@@ -297,7 +297,7 @@
         }
     },
     {
-        "id": 1277,
+        "_id": "1277",
         "name": "Hotel L Antoine",
         "address": "10 12 rue de Charonne 11th arr 75011 Paris France",
         "city": "Paris",
@@ -308,7 +308,7 @@
         }
     },
     {
-        "id": 1278,
+        "_id": "1278",
         "name": "Belfast",
         "address": "10 avenue Carnot 17th arr 75017 Paris France",
         "city": "Paris",
@@ -319,7 +319,7 @@
         }
     },
     {
-        "id": 1279,
+        "_id": "1279",
         "name": "Shangri La Hotel Paris",
         "address": "10 Avenue D I na 16th arr 75016 Paris France",
         "city": "Paris",
@@ -330,7 +330,7 @@
         }
     },
     {
-        "id": 1280,
+        "_id": "1280",
         "name": "Mercure Paris Tour Eiffel Pont Mirabeau",
         "address": "10 Avenue Emile Zola 15th arr 75015 Paris France",
         "city": "Paris",
@@ -341,7 +341,7 @@
         }
     },
     {
-        "id": 1281,
+        "_id": "1281",
         "name": "Knightsbridge Hotel",
         "address": "10 Beaufort Gardens Kensington and Chelsea London SW3 1PT United Kingdom",
         "city": "London",
@@ -352,7 +352,7 @@
         }
     },
     {
-        "id": 1282,
+        "_id": "1282",
         "name": "The London EDITION",
         "address": "10 Berners Street Westminster Borough London W1T 3NP United Kingdom",
         "city": "London",
@@ -363,7 +363,7 @@
         }
     },
     {
-        "id": 1283,
+        "_id": "1283",
         "name": "The Cranley Hotel",
         "address": "10 Bina Gardens South Kensington Kensington and Chelsea London SW5 0LA United Kingdom",
         "city": "London",
@@ -374,7 +374,7 @@
         }
     },
     {
-        "id": 1284,
+        "_id": "1284",
         "name": "Hotel Le 10 BIS",
         "address": "10 Bis rue du D barcad re 17th arr 75017 Paris France",
         "city": "Paris",
@@ -385,7 +385,7 @@
         }
     },
     {
-        "id": 1285,
+        "_id": "1285",
         "name": "The Nadler Soho",
         "address": "10 Carlisle Street Westminster Borough London W1D 3BR United Kingdom",
         "city": "London",
@@ -396,7 +396,7 @@
         }
     },
     {
-        "id": 1286,
+        "_id": "1286",
         "name": "Grange St Paul s Hotel",
         "address": "10 Godliman Street City of London London EC4V 5AJ United Kingdom",
         "city": "London",
@@ -407,7 +407,7 @@
         }
     },
     {
-        "id": 1287,
+        "_id": "1287",
         "name": "The Ampersand Hotel",
         "address": "10 Harrington Road Kensington and Chelsea London SW7 3ER United Kingdom",
         "city": "London",
@@ -418,7 +418,7 @@
         }
     },
     {
-        "id": 1288,
+        "_id": "1288",
         "name": "Covent Garden Hotel",
         "address": "10 Monmouth Street Camden London WC2H 9HB United Kingdom",
         "city": "London",
@@ -429,7 +429,7 @@
         }
     },
     {
-        "id": 1289,
+        "_id": "1289",
         "name": "The Nadler Victoria",
         "address": "10 Palace Place Westminster Borough London SW1E 5BW United Kingdom",
         "city": "London",
@@ -440,7 +440,7 @@
         }
     },
     {
-        "id": 1290,
+        "_id": "1290",
         "name": "Novotel London Tower Bridge",
         "address": "10 Pepys Street City of London London EC3N 2NR United Kingdom",
         "city": "London",
@@ -451,7 +451,7 @@
         }
     },
     {
-        "id": 1291,
+        "_id": "1291",
         "name": "Crowne Plaza Paris R publique",
         "address": "10 Place De La R publique 11th arr 75011 Paris France",
         "city": "Paris",
@@ -462,7 +462,7 @@
         }
     },
     {
-        "id": 1292,
+        "_id": "1292",
         "name": "Le Metropolitan a Tribute Portfolio Hotel",
         "address": "10 Place De Mexico 16th arr 75016 Paris France",
         "city": "Paris",
@@ -473,7 +473,7 @@
         }
     },
     {
-        "id": 1293,
+        "_id": "1293",
         "name": "Atala Champs Elys es",
         "address": "10 rue Chateaubriand 8th arr 75008 Paris France",
         "city": "Paris",
@@ -484,7 +484,7 @@
         }
     },
     {
-        "id": 1294,
+        "_id": "1294",
         "name": "H tel de Jos phine BONAPARTE",
         "address": "10 rue d Ormesson 4th arr 75004 Paris France",
         "city": "Paris",
@@ -495,7 +495,7 @@
         }
     },
     {
-        "id": 1295,
+        "_id": "1295",
         "name": "Maison Souquet",
         "address": "10 rue de Bruxelles 9th arr 75009 Paris France",
         "city": "Paris",
@@ -506,7 +506,7 @@
         }
     },
     {
-        "id": 1296,
+        "_id": "1296",
         "name": "Hotel Tour d Auvergne Opera",
         "address": "10 Rue de la Tour d Auvergne 9th arr 75009 Paris France",
         "city": "Paris",
@@ -517,7 +517,7 @@
         }
     },
     {
-        "id": 1297,
+        "_id": "1297",
         "name": "Le Senat",
         "address": "10 rue de Vaugirard 6th arr 75006 Paris France",
         "city": "Paris",
@@ -528,7 +528,7 @@
         }
     },
     {
-        "id": 1298,
+        "_id": "1298",
         "name": "W London Leicester Square",
         "address": "10 Wardour Street Leicester Square Westminster Borough London W1D 6QF United Kingdom",
         "city": "London",
@@ -539,7 +539,7 @@
         }
     },
     {
-        "id": 1299,
+        "_id": "1299",
         "name": "The Victoria",
         "address": "10 West Temple Sheen London SW14 7RT United Kingdom",
         "city": "London",
@@ -550,7 +550,7 @@
         }
     },
     {
-        "id": 1300,
+        "_id": "1300",
         "name": "Pullman London St Pancras",
         "address": "100 110 Euston Road Camden London NW1 2AJ United Kingdom",
         "city": "London",
@@ -561,7 +561,7 @@
         }
     },
     {
-        "id": 1301,
+        "_id": "1301",
         "name": "Sansi Diputacio",
         "address": "234 Diputacio Eixample 08007 Barcelona Spain",
         "city": "Barcelona",
@@ -572,7 +572,7 @@
         }
     },
     {
-        "id": 1302,
+        "_id": "1302",
         "name": "The One Barcelona GL",
         "address": "277 Carrer de Proven a Eixample 08037 Barcelona Spain",
         "city": "Barcelona",
@@ -583,7 +583,7 @@
         }
     },
     {
-        "id": 1303,
+        "_id": "1303",
         "name": "Morgan Mees",
         "address": "2e Hugo de Grootstraat 2 6 Westerpark 1052 LC Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -594,7 +594,7 @@
         }
     },
     {
-        "id": 1304,
+        "_id": "1304",
         "name": "Hotel VIU Milan",
         "address": "6 Via Aristotile Fioravanti Garibaldi Station 20154 Milan Italy",
         "city": "Milan",
@@ -605,7 +605,7 @@
         }
     },
     {
-        "id": 1305,
+        "_id": "1305",
         "name": "Sir Albert Hotel",
         "address": "Albert Cuypstraat 2 6 Oud Zuid 1072 CT Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -616,7 +616,7 @@
         }
     },
     {
-        "id": 1306,
+        "_id": "1306",
         "name": "Corendon Vitality Hotel Amsterdam",
         "address": "Aletta Jacobslaan 7 Slotervaart 1066 BP Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -627,7 +627,7 @@
         }
     },
     {
-        "id": 1307,
+        "_id": "1307",
         "name": "Hotel Bellevue Wien",
         "address": "Althanstra e 5 09 Alsergrund 1090 Vienna Austria",
         "city": "Vienna",
@@ -638,7 +638,7 @@
         }
     },
     {
-        "id": 1308,
+        "_id": "1308",
         "name": "Maison Borella",
         "address": "Alzaia Naviglio Grande 8 Navigli 20144 Milan Italy",
         "city": "Milan",
@@ -649,7 +649,7 @@
         }
     },
     {
-        "id": 1309,
+        "_id": "1309",
         "name": "Hotel Am Konzerthaus Vienna MGallery by Sofitel",
         "address": "Am Heumarkt 35 37 03 Landstra e 1030 Vienna Austria",
         "city": "Vienna",
@@ -660,7 +660,7 @@
         }
     },
     {
-        "id": 1310,
+        "_id": "1310",
         "name": "Park Hyatt Vienna",
         "address": "Am Hof 2 01 Innere Stadt 1010 Vienna Austria",
         "city": "Vienna",
@@ -671,7 +671,7 @@
         }
     },
     {
-        "id": 1311,
+        "_id": "1311",
         "name": "Hilton Vienna",
         "address": "Am Stadtpark 1 03 Landstra e 1030 Vienna Austria",
         "city": "Vienna",
@@ -682,7 +682,7 @@
         }
     },
     {
-        "id": 1312,
+        "_id": "1312",
         "name": "Catalonia Port",
         "address": "Ample 1 Pla a Duc de Medinaceli Ciutat Vella 08002 Barcelona Spain",
         "city": "Barcelona",
@@ -693,7 +693,7 @@
         }
     },
     {
-        "id": 1313,
+        "_id": "1313",
         "name": "Hampshire Hotel Rembrandt Square Amsterdam",
         "address": "Amstelstraat 17 Amsterdam City Center 1017 DA Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -704,7 +704,7 @@
         }
     },
     {
-        "id": 1314,
+        "_id": "1314",
         "name": "Eurostars Angli",
         "address": "Angli 60 Sarri St Gervasi 08017 Barcelona Spain",
         "city": "Barcelona",
@@ -715,7 +715,7 @@
         }
     },
     {
-        "id": 1315,
+        "_id": "1315",
         "name": "Pillows Anna van den Vondel Amsterdam",
         "address": "Anna van den Vondelstraat 6 Oud West 1054 GZ Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -726,7 +726,7 @@
         }
     },
     {
-        "id": 1316,
+        "_id": "1316",
         "name": "Schlosshotel R mischer Kaiser",
         "address": "Annagasse 16 01 Innere Stadt 1010 Vienna Austria",
         "city": "Vienna",
@@ -737,7 +737,7 @@
         }
     },
     {
-        "id": 1317,
+        "_id": "1317",
         "name": "Hotel Mailberger Hof",
         "address": "Annagasse 7 01 Innere Stadt 1010 Vienna Austria",
         "city": "Vienna",
@@ -748,7 +748,7 @@
         }
     },
     {
-        "id": 1318,
+        "_id": "1318",
         "name": "Best Western Delphi Hotel",
         "address": "Apollolaan 101 105 Oud Zuid 1077 AN Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -759,7 +759,7 @@
         }
     },
     {
-        "id": 1319,
+        "_id": "1319",
         "name": "Apollofirst Boutique Hotel",
         "address": "Apollolaan 123 125 Oud Zuid 1077 AP Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -770,7 +770,7 @@
         }
     },
     {
-        "id": 1320,
+        "_id": "1320",
         "name": "Hilton Amsterdam",
         "address": "Apollolaan 138 Oud Zuid 1077 BG Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -781,7 +781,7 @@
         }
     },
     {
-        "id": 1321,
+        "_id": "1321",
         "name": "Apollo Hotel Amsterdam",
         "address": "Apollolaan 2 Oud Zuid 1077 BA Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -792,7 +792,7 @@
         }
     },
     {
-        "id": 1322,
+        "_id": "1322",
         "name": "Catalonia Catedral",
         "address": "Arcs 10 Ciutat Vella 08002 Barcelona Spain",
         "city": "Barcelona",
@@ -803,7 +803,7 @@
         }
     },
     {
-        "id": 1323,
+        "_id": "1323",
         "name": "Element Amsterdam",
         "address": "Arend Janszoon Ernststraat 577 Zuideramstel 1082 LD Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -814,7 +814,7 @@
         }
     },
     {
-        "id": 1324,
+        "_id": "1324",
         "name": "Axel Hotel Barcelona Urban Spa Adults Only",
         "address": "Aribau 33 Eixample 08011 Barcelona Spain",
         "city": "Barcelona",
@@ -825,7 +825,7 @@
         }
     },
     {
-        "id": 1325,
+        "_id": "1325",
         "name": "Cram",
         "address": "Aribau 54 Eixample 08011 Barcelona Spain",
         "city": "Barcelona",
@@ -836,7 +836,7 @@
         }
     },
     {
-        "id": 1326,
+        "_id": "1326",
         "name": "Urban Lodge Hotel",
         "address": "Arlandaweg 10 Westpoort 1043 EW Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -847,7 +847,7 @@
         }
     },
     {
-        "id": 1327,
+        "_id": "1327",
         "name": "Novotel Wien City",
         "address": "Aspernbr ckengasse 1 02 Leopoldstadt 1020 Vienna Austria",
         "city": "Vienna",
@@ -858,7 +858,7 @@
         }
     },
     {
-        "id": 1328,
+        "_id": "1328",
         "name": "The Levante Parliament A Design Hotel",
         "address": "Auerspergstra e 9 08 Josefstadt 1080 Vienna Austria",
         "city": "Vienna",
@@ -869,7 +869,7 @@
         }
     },
     {
-        "id": 1329,
+        "_id": "1329",
         "name": "Room Mate Gerard",
         "address": "Ausi s Marc 34 Eixample 08010 Barcelona Spain",
         "city": "Barcelona",
@@ -880,7 +880,7 @@
         }
     },
     {
-        "id": 1330,
+        "_id": "1330",
         "name": "H10 Marina Barcelona",
         "address": "Avenida Bogatell 64 68 Sant Mart 08005 Barcelona Spain",
         "city": "Barcelona",
@@ -891,7 +891,7 @@
         }
     },
     {
-        "id": 1331,
+        "_id": "1331",
         "name": "Barcelona Princess",
         "address": "Avenida Diagonal 1 Sant Mart 08019 Barcelona Spain",
         "city": "Barcelona",
@@ -902,7 +902,7 @@
         }
     },
     {
-        "id": 1332,
+        "_id": "1332",
         "name": "Novotel Barcelona City",
         "address": "Avenida Diagonal 201 Sant Mart 08018 Barcelona Spain",
         "city": "Barcelona",
@@ -913,7 +913,7 @@
         }
     },
     {
-        "id": 1333,
+        "_id": "1333",
         "name": "The Gates Diagonal Barcelona",
         "address": "Avenida Diagonal 205 Sant Mart 08018 Barcelona Spain",
         "city": "Barcelona",
@@ -924,7 +924,7 @@
         }
     },
     {
-        "id": 1334,
+        "_id": "1334",
         "name": "AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel",
         "address": "Avenida Diagonal 555 Les Corts 08029 Barcelona Spain",
         "city": "Barcelona",
@@ -935,7 +935,7 @@
         }
     },
     {
-        "id": 1335,
+        "_id": "1335",
         "name": "Wilson Boutique Hotel",
         "address": "Avenida Diagonal 568 Sarri St Gervasi 08021 Barcelona Spain",
         "city": "Barcelona",
@@ -946,7 +946,7 @@
         }
     },
     {
-        "id": 1336,
+        "_id": "1336",
         "name": "NH Hesperia Barcelona Presidente",
         "address": "Avenida Diagonal 570 Sarri St Gervasi 08021 Barcelona Spain",
         "city": "Barcelona",
@@ -957,7 +957,7 @@
         }
     },
     {
-        "id": 1337,
+        "_id": "1337",
         "name": "Hilton Barcelona",
         "address": "Avenida Diagonal 589 591 Les Corts 08014 Barcelona Spain",
         "city": "Barcelona",
@@ -968,7 +968,7 @@
         }
     },
     {
-        "id": 1338,
+        "_id": "1338",
         "name": "Vincci Mae",
         "address": "Avenida Diagonal 596 Sarri St Gervasi 08021 Barcelona Spain",
         "city": "Barcelona",
@@ -979,7 +979,7 @@
         }
     },
     {
-        "id": 1339,
+        "_id": "1339",
         "name": "Fairmont Rey Juan Carlos I",
         "address": "Avenida Diagonal 661 671 Les Corts 08028 Barcelona Spain",
         "city": "Barcelona",
@@ -990,7 +990,7 @@
         }
     },
     {
-        "id": 1340,
+        "_id": "1340",
         "name": "Pullman Barcelona Skipper",
         "address": "Avenida Litoral 10 Ciutat Vella 08005 Barcelona Spain",
         "city": "Barcelona",
@@ -1001,7 +1001,7 @@
         }
     },
     {
-        "id": 1341,
+        "_id": "1341",
         "name": "Hotel Ciutadella Barcelona",
         "address": "Avenida Marqu s de l Argentera 4 Ciutat Vella 08003 Barcelona Spain",
         "city": "Barcelona",
@@ -1012,7 +1012,7 @@
         }
     },
     {
-        "id": 1342,
+        "_id": "1342",
         "name": "Catalonia Atenas",
         "address": "Avenida Meridiana 151 Sant Mart 08026 Barcelona Spain",
         "city": "Barcelona",
@@ -1023,7 +1023,7 @@
         }
     },
     {
-        "id": 1343,
+        "_id": "1343",
         "name": "Tryp Barcelona Apolo Hotel",
         "address": "Avenida Paralelo 57 59 Sants Montju c 08004 Barcelona Spain",
         "city": "Barcelona",
@@ -1034,7 +1034,7 @@
         }
     },
     {
-        "id": 1344,
+        "_id": "1344",
         "name": "Sansi Pedralbes",
         "address": "Avenida Pearson 1 3 Les Corts 08034 Barcelona Spain",
         "city": "Barcelona",
@@ -1045,7 +1045,7 @@
         }
     },
     {
-        "id": 1345,
+        "_id": "1345",
         "name": "Crowne Plaza Barcelona Fira Center",
         "address": "Avenida Rius y Taulet 1 3 Sants Montju c 08004 Barcelona Spain",
         "city": "Barcelona",
@@ -1056,7 +1056,7 @@
         }
     },
     {
-        "id": 1346,
+        "_id": "1346",
         "name": "Gran Hotel Torre Catalunya",
         "address": "Avenida Roma 2 4 Sants Montju c 08014 Barcelona Spain",
         "city": "Barcelona",
@@ -1067,7 +1067,7 @@
         }
     },
     {
-        "id": 1347,
+        "_id": "1347",
         "name": "Vienna Sporthotel",
         "address": "Baumgasse 83 03 Landstra e 1030 Vienna Austria",
         "city": "Vienna",
@@ -1078,7 +1078,7 @@
         }
     },
     {
-        "id": 1348,
+        "_id": "1348",
         "name": "Hotel De Hallen",
         "address": "Bellamyplein 47 Oud West 1053 AT Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "id": 1349,
+        "_id": "1349",
         "name": "Hotel Boltzmann",
         "address": "Boltzmanngasse 8 09 Alsergrund 1090 Vienna Austria",
         "city": "Vienna",
@@ -1100,7 +1100,7 @@
         }
     },
     {
-        "id": 1350,
+        "_id": "1350",
         "name": "Hotel ViennArt am Museumsquartier",
         "address": "Breite Gasse 9 07 Neubau 1070 Vienna Austria",
         "city": "Vienna",
@@ -1111,7 +1111,7 @@
         }
     },
     {
-        "id": 1351,
+        "_id": "1351",
         "name": "Hotel Sans Souci Wien",
         "address": "Burggasse 2 07 Neubau 1070 Vienna Austria",
         "city": "Vienna",
@@ -1122,7 +1122,7 @@
         }
     },
     {
-        "id": 1352,
+        "_id": "1352",
         "name": "Chasse Hotel",
         "address": "Chassestraat 62 64 De Baarsjes 1057 JJ Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1133,7 +1133,7 @@
         }
     },
     {
-        "id": 1353,
+        "_id": "1353",
         "name": "Palais Coburg Residenz",
         "address": "Coburgbastei 4 01 Innere Stadt 1010 Vienna Austria",
         "city": "Vienna",
@@ -1144,7 +1144,7 @@
         }
     },
     {
-        "id": 1354,
+        "_id": "1354",
         "name": "Worldhotel Cristoforo Colombo",
         "address": "Corso Buenos Aires 3 Milan City Center 20124 Milan Italy",
         "city": "Milan",
@@ -1155,7 +1155,7 @@
         }
     },
     {
-        "id": 1355,
+        "_id": "1355",
         "name": "IH Hotels Milano Puccini",
         "address": "Corso Buenos Aires 33 Central Station 20124 Milan Italy",
         "city": "Milan",
@@ -1166,7 +1166,7 @@
         }
     },
     {
-        "id": 1356,
+        "_id": "1356",
         "name": "Best Western Hotel City",
         "address": "Corso Buenos Aires 42 5 Central Station 20124 Milan Italy",
         "city": "Milan",
@@ -1177,7 +1177,7 @@
         }
     },
     {
-        "id": 1357,
+        "_id": "1357",
         "name": "Ch teau Monfort Relais Ch teaux",
         "address": "Corso Concordia 1 Milan City Center 20129 Milan Italy",
         "city": "Milan",
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "id": 1358,
+        "_id": "1358",
         "name": "Palazzo Parigi Hotel Grand Spa Milano",
         "address": "Corso Di Porta Nuova 1 Milan City Center 20121 Milan Italy",
         "city": "Milan",
@@ -1199,7 +1199,7 @@
         }
     },
     {
-        "id": 1359,
+        "_id": "1359",
         "name": "Hotel Lloyd",
         "address": "Corso di Porta Romana 48 Milan City Center 20122 Milan Italy",
         "city": "Milan",
@@ -1210,7 +1210,7 @@
         }
     },
     {
-        "id": 1360,
+        "_id": "1360",
         "name": "Hotel Romana Residence",
         "address": "Corso di Porta Romana 64 Milan City Center 20122 Milan Italy",
         "city": "Milan",
@@ -1221,7 +1221,7 @@
         }
     },
     {
-        "id": 1361,
+        "_id": "1361",
         "name": "Hotel Crivi s",
         "address": "Corso di Porta Vigentina 46 Milan City Center 20122 Milan Italy",
         "city": "Milan",
@@ -1232,7 +1232,7 @@
         }
     },
     {
-        "id": 1362,
+        "_id": "1362",
         "name": "Hotel Galileo",
         "address": "Corso Europa 9 Milan City Center 20122 Milan Italy",
         "city": "Milan",
@@ -1243,7 +1243,7 @@
         }
     },
     {
-        "id": 1363,
+        "_id": "1363",
         "name": "Carlyle Brera Hotel",
         "address": "Corso Garibaldi 84 Milan City Center 20121 Milan Italy",
         "city": "Milan",
@@ -1254,7 +1254,7 @@
         }
     },
     {
-        "id": 1364,
+        "_id": "1364",
         "name": "Boscolo Milano Autograph Collection",
         "address": "Corso Giacomo Matteotti 4 6 Milan City Center 20121 Milan Italy",
         "city": "Milan",
@@ -1265,7 +1265,7 @@
         }
     },
     {
-        "id": 1365,
+        "_id": "1365",
         "name": "Mokinba Hotels King",
         "address": "Corso Magenta 19 Milan City Center 20123 Milan Italy",
         "city": "Milan",
@@ -1276,7 +1276,7 @@
         }
     },
     {
-        "id": 1366,
+        "_id": "1366",
         "name": "Qualys Hotel Nasco",
         "address": "Corso Sempione 69 Fiera Milano City 20149 Milan Italy",
         "city": "Milan",
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "id": 1367,
+        "_id": "1367",
         "name": "Enterprise Hotel Design Boutique",
         "address": "Corso Sempione 91 Fiera Milano City 20149 Milan Italy",
         "city": "Milan",
@@ -1298,7 +1298,7 @@
         }
     },
     {
-        "id": 1368,
+        "_id": "1368",
         "name": "NH Collection Amsterdam Grand Hotel Krasnapolsky",
         "address": "Dam 9 Amsterdam City Center 1012 JS Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1309,7 +1309,7 @@
         }
     },
     {
-        "id": 1369,
+        "_id": "1369",
         "name": "Park Plaza Victoria Amsterdam",
         "address": "Damrak 1 5 Amsterdam City Center 1012 LG Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1320,7 +1320,7 @@
         }
     },
     {
-        "id": 1370,
+        "_id": "1370",
         "name": "Hotel Amsterdam De Roode Leeuw",
         "address": "Damrak 93 94 Amsterdam City Center 1012 LP Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1331,7 +1331,7 @@
         }
     },
     {
-        "id": 1371,
+        "_id": "1371",
         "name": "Swiss tel Amsterdam",
         "address": "Damrak 96 Amsterdam City Center 1012 LP Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1342,7 +1342,7 @@
         }
     },
     {
-        "id": 1372,
+        "_id": "1372",
         "name": "City Rooms",
         "address": "Daungasse 1 6 7 08 Josefstadt 1080 Vienna Austria",
         "city": "Vienna",
@@ -1353,7 +1353,7 @@
         }
     },
     {
-        "id": 1373,
+        "_id": "1373",
         "name": "Holiday Inn Amsterdam",
         "address": "De Boelelaan 2 Zuideramstel 1083 HJ Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1364,7 +1364,7 @@
         }
     },
     {
-        "id": 1374,
+        "_id": "1374",
         "name": "Jaz Amsterdam",
         "address": "De Passage 90 Noord Holland Zuidoost 1101 AX Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1375,7 +1375,7 @@
         }
     },
     {
-        "id": 1375,
+        "_id": "1375",
         "name": "Best Western Premier Hotel Couture",
         "address": "Delflandlaan 15 Slotervaart 1062 EA Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "id": 1376,
+        "_id": "1376",
         "name": "Mercure Vienna First",
         "address": "Desider Friedmann Platz 2 01 Innere Stadt 1010 Vienna Austria",
         "city": "Vienna",
@@ -1397,7 +1397,7 @@
         }
     },
     {
-        "id": 1377,
+        "_id": "1377",
         "name": "Bilderberg Garden Hotel",
         "address": "Dijsselhofplantsoen 7 Oud Zuid 1077 BJ Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1408,7 +1408,7 @@
         }
     },
     {
-        "id": 1378,
+        "_id": "1378",
         "name": "NH Amsterdam Noord",
         "address": "Distelkade 21 Amsterdam Noord 1031 XP Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1419,7 +1419,7 @@
         }
     },
     {
-        "id": 1379,
+        "_id": "1379",
         "name": "Melia Vienna",
         "address": "Donau City Stra e 7 22 Donaustadt 1220 Vienna Austria",
         "city": "Vienna",
@@ -1430,7 +1430,7 @@
         }
     },
     {
-        "id": 1380,
+        "_id": "1380",
         "name": "Graben Hotel",
         "address": "Dorotheergasse 3 01 Innere Stadt 1010 Vienna Austria",
         "city": "Vienna",
@@ -1441,7 +1441,7 @@
         }
     },
     {
-        "id": 1381,
+        "_id": "1381",
         "name": "Grand Hotel Downtown",
         "address": "Eerste Constantijn Huygensstraat 10A Oud West 1054 BR Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1452,7 +1452,7 @@
         }
     },
     {
-        "id": 1382,
+        "_id": "1382",
         "name": "Amadi Park Hotel",
         "address": "Eerste Constantijn huygensstraat 26G Oud West 1054 BR Amsterdam Netherlands",
         "city": "Amsterdam",
@@ -1463,7 +1463,7 @@
         }
     },
     {
-        "id": 1383,
+        "_id": "1383",
         "name": "Austria Trend Hotel Lassalle Wien",
         "address": "Engerthstra e 173 175 02 Leopoldstadt 1020 Vienna Austria",
         "city": "Vienna",
@@ -1474,7 +1474,7 @@
         }
     },
     {
-        "id": 1384,
+        "_id": "1384",
         "name": "The Guesthouse Vienna",
         "address": "F hrichgasse 10 01 Innere Stadt 1010 Vienna Austria",
         "city": "Vienna",
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "id": 1385,
+        "_id": "1385",
         "name": "Hotel Johann Strauss",
         "address": "Favoritenstra e 12 04 Wieden 1040 Vienna Austria",
         "city": "Vienna",
@@ -1496,7 +1496,7 @@
         }
     },
     {
-        "id": 1386,
+        "_id": "1386",
         "name": "Hotel Mercure Wien Westbahnhof",
         "address": "Felberstra e 4 15 Rudolfsheim F nfhaus 1150 Vienna Austria",
         "city": "Vienna",
@@ -1507,7 +1507,7 @@
         }
     },
     {
-        "id": 1387,
+        "_id": "1387",
         "name": "Hotel Eitlj rg",
         "address": "Filmteichstra e 5 10 Favoriten 1100 Vienna Austria",
         "city": "Vienna",
@@ -1518,7 +1518,7 @@
         }
     },
     {
-        "id": 1388,
+        "_id": "1388",
         "name": "Mercure Wien Zentrum",
         "address": "Fleischmarkt 1a 01 Innere Stadt 1010 Vienna Austria",
         "city": "Vienna",
@@ -1529,7 +1529,7 @@
         }
     },
     {
-        "id": 1389,
+        "_id": "1389",
         "name": "Best Western Premier Kaiserhof Wien",
         "address": "Frankenberggasse 10 04 Wieden 1040 Vienna Austria",
         "city": "Vienna",
@@ -1540,7 +1540,7 @@
         }
     },
     {
-        "id": 1390,
+        "_id": "1390",
         "name": "FourSide Hotel Suites Vienna",
         "address": "Freytaggasse 25 27 21 Floridsdorf 1210 Vienna Austria",
         "city": "Vienna",
@@ -1551,7 +1551,7 @@
         }
     },
     {
-        "id": 1391,
+        "_id": "1391",
         "name": "IH Hotels Milano Ambasciatori",
         "address": "Galleria Del Corso 3 Milan City Center 20122 Milan Italy",
         "city": "Milan",
@@ -1562,7 +1562,7 @@
         }
     },
     {
-        "id": 1392,
+        "_id": "1392",
         "name": "NH Collection Milano President",
         "address": "Largo Augusto 10 Milan City Center 20122 Milan Italy",
         "city": "Milan",
@@ -1573,7 +1573,7 @@
         }
     },
     {
-        "id": 1393,
+        "_id": "1393",
         "name": "Hotel Dieci",
         "address": "Largo Rio de Janeiro 12 Citt Studi 20133 Milan Italy",
         "city": "Milan",
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "id": 1394,
+        "_id": "1394",
         "name": "ME Milan Il Duca",
         "address": "Piazza della Repubblica 13 Central Station 20124 Milan Italy",
         "city": "Milan",
@@ -1595,7 +1595,7 @@
         }
     },
     {
-        "id": 1395,
+        "_id": "1395",
         "name": "Hotel Principe Di Savoia",
         "address": "Piazza Della Repubblica 17 Central Station 20124 Milan Italy",
         "city": "Milan",
@@ -1606,7 +1606,7 @@
         }
     },
     {
-        "id": 1396,
+        "_id": "1396",
         "name": "The Westin Palace",
         "address": "Piazza della Repubblica 20 Central Station 20124 Milan Italy",
         "city": "Milan",
@@ -1617,7 +1617,7 @@
         }
     },
     {
-        "id": 1397,
+        "_id": "1397",
         "name": "Glam Milano",
         "address": "Piazza Duca D Aosta 4 6 Central Station 20124 Milan Italy",
         "city": "Milan",
@@ -1628,7 +1628,7 @@
         }
     },
     {
-        "id": 1398,
+        "_id": "1398",
         "name": "Excelsior Hotel Gallia Luxury Collection Hotel",
         "address": "Piazza Duca D Aosta 9 Central Station 20124 Milan Italy",
         "city": "Milan",
@@ -1639,7 +1639,7 @@
         }
     },
     {
-        "id": 1399,
+        "_id": "1399",
         "name": "Rosa Grand Milano Starhotels Collezione",
         "address": "Piazza Fontana 3 Milan City Center 20122 Milan Italy",
         "city": "Milan",

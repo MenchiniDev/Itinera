@@ -4,6 +4,9 @@ from datetime import datetime, timedelta
 import json
 import os
 
+def format_iso8601(date_obj):
+    return date_obj.isoformat(timespec="microseconds")
+
 def generate_fake_data(input_file, output_file, posts_folder):
     fake = faker.Faker()
 
@@ -28,7 +31,7 @@ def generate_fake_data(input_file, output_file, posts_folder):
         random_hour = random.randint(0, 23)
         random_minute = random.randint(0, 59)
         final_date = random_date.replace(hour=random_hour, minute=random_minute)
-        formatted_date = final_date.strftime("%Y-%m-%d %H:%M")  # Formatta la data con ora
+        #formatted_date = final_date.strftime("%Y-%m-%d %H:%M")  # Formatta la data con ora
 
         latest_post = None
         latest_timestamp = None
@@ -56,7 +59,7 @@ def generate_fake_data(input_file, output_file, posts_folder):
             "username": username,
             "email": email,
             "password": password,
-            "created": formatted_date,
+            "created": format_iso8601(final_date),
             "active": True,
             "reported": False,
             "role": "User"
