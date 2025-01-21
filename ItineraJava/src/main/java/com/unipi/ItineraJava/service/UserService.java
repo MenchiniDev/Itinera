@@ -59,7 +59,8 @@ public class UserService{
         userRepository.deleteById(id);
     }
 
-    //modifiche bache
+    //////////////////////////////////////modifiche bache//////////////////////////////////////////
+
     // Trova un utente per username
     public static Optional<User> findByUsername(String username) {
         return userRepository.findByUsername(username);
