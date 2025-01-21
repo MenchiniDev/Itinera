@@ -10,8 +10,6 @@ import org.springframework.stereotype.Component;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.unipi.ItineraJava.service.UserService;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
-import java.util.List;
-
 
 
 // USERS
@@ -29,7 +27,7 @@ public class User {
     }
 
     @Id
-    private String Id;
+    private String id;
     private String username;
     private String email;
     private String password;
@@ -37,7 +35,7 @@ public class User {
     private String created;
     private boolean active;
     private boolean reported;
-    private Last_post lastPost;
+    private Last_post last_post;
 
 
 
@@ -90,18 +88,18 @@ public class User {
         return reported;
     }
 
-    public void setLastPost(Last_post lastPost) {
-        this.lastPost = lastPost;
+    public void setLastPost(Last_post last_post) {
+        this.last_post = last_post;
     }
     public Last_post getLastPost() {
-        return lastPost;
+        return last_post;
     }
 
     public String getId() {
-        return Id;
+        return id;
     }
     public void setId(String id) {
-        this.Id = id;
+        this.id = id;
     }
 
     public static boolean isAdmin(String token) {

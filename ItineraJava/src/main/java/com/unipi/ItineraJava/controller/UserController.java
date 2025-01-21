@@ -22,6 +22,9 @@ import com.unipi.ItineraJava.DTO.UserDTO;
 import com.unipi.ItineraJava.model.CommunityGraph;
 
 import com.unipi.ItineraJava.model.User;
+
+import com.unipi.ItineraJava.model.Last_post;
+
 import com.unipi.ItineraJava.model.UserGraph;
 import com.unipi.ItineraJava.repository.UserNeo4jRepository;
 import com.unipi.ItineraJava.repository.UserRepository;
@@ -192,12 +195,65 @@ class UserController {
 
     // Endpoint per aggiornare il campo "reported" per uno specifico username
     @PutMapping("/report/{username}")
-    public void reportUser(@PathVariable String username, @RequestParam boolean reported) {
+    public ResponseEntity<?> reportUser(@PathVariable String username, @RequestParam boolean reported) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        // Verifica se l'utente è autenticato
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                    .body("User not authenticated. Please log in to access this endpoint.");
+        }
         userService.updateReportedByUsername(username, reported);
+        return ResponseEntity.status(HttpStatus.OK)
+                .body("User correctly reported.");
+
     }
 
-    /////// GRAPH
-    
+    //endpoint per ritornare l'ultimo post di un utente
+    @GetMapping("/lastPost/{username}")
+    public ResponseEntity<?> getLastPost(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        // Verifica se l'utente è autenticato
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                    .body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+        try {
+            Last_post last_post = userService.getLastPostByUsername(username);
+
+            // Verifica se l'utente ha un lastPost
+            if (last_post == null) {
+                return ResponseEntity.status(HttpStatus.OK)
+                        .body("This user did not post anything yet.");
+            }
+
+            return ResponseEntity.ok(last_post); // Restituisce il `lastPost` se trovato
+        } catch (IllegalArgumentException ex) {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(ex.getMessage()); // Restituisce un errore 404
+        }
+    }
+
+    //cambia il parametro last post nella collection users, da usare quando viene pubblicato un nuovo post
+    //non penso abbia senso metterla come controller in quanto è eseguita solo alla pubblicazione di un post
+    /*
+    @PutMapping("/updateLastPost/{username}")
+    public ResponseEntity<?> updateLastPost(@PathVariable String username, @RequestParam String postBody) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        // Verifica se l'utente è autenticato
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                    .body("User not authenticated. Please log in to access this endpoint.");
+        }
+        try {
+            User updatedUser = userService.updateLastPost(username, postBody);
+            return ResponseEntity.ok(updatedUser.getLastPost()); //RITORNA IL POST APPENA MESSO COM EULTIMO POST TRAMITE LA FUNZIONE
+        } catch (IllegalArgumentException ex) {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(ex.getMessage());
+        }
+    }*/
+
+
+
 
     /// endpoint per vedere le community che l'utente ha joinato
     /// http://localhost:8080/users/profile/communityJoined

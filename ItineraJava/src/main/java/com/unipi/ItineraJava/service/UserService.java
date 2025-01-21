@@ -62,16 +62,28 @@ public class UserService{
         userRepository.deleteById(id);
     }
 
-    //modifiche bache
+    //////////////////////////////////////modifiche bache//////////////////////////////////////////
+
     // Trova un utente per username
     public static Optional<User> findByUsername(String username) {
         return userRepository.findByUsername(username);
     }
 
     // Aggiorna il campo "reported" per uno specifico username
+    // DA MODIFICARE CON AUTENTICAZIONE
     public void updateReportedByUsername(String username, boolean reported) {
         userRepository.updateReportedByUsername(username, reported);
     }
+
+    //trova
+    public Last_post getLastPostByUsername(String username) {
+        //prendo user
+        User user = userRepository.findByUsername(username)
+                .orElseThrow(() -> new IllegalArgumentException("User not found with username: " + username));
+
+         return user.getLastPost();
+    }
+
 
     public User updateLastPost(String username, String postBody) {
 
@@ -79,14 +91,14 @@ public class UserService{
         User user = userRepository.findByUsername(username)
                 .orElseThrow(() -> new IllegalArgumentException("User not found with username: " + username));
 
-        Last_post lastPost = new Last_post();
-        lastPost.setPost_body(postBody);
+        Last_post last_post = new Last_post();
+        last_post.setPost_body(postBody);
 
         String timestamp = LocalDateTime.now()
                 .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
-        lastPost.setTimestamp(timestamp);
+        last_post.setTimestamp(timestamp);
 
-        user.setLastPost(lastPost);
+        user.setLastPost(last_post);
 
         return userRepository.save(user);
     }
