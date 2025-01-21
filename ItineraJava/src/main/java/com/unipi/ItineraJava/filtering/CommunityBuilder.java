@@ -40,7 +40,7 @@ public class CommunityBuilder {
             return;
         }
 
-        // Crea la cartella di output se non esiste
+        // Creo la cartella di output se non esiste
         File outputFolder = new File(outputFolderPath);
         if (!outputFolder.exists()) {
             outputFolder.mkdirs();
@@ -57,18 +57,18 @@ public class CommunityBuilder {
                 JSONObject postJson = (JSONObject) parser.parse(reader);
                 reader.close();
 
-                // Estrae il nome della città e della community dal nome del file
+                // Estraggo il nome della città e della community dal nome del file
                 String fileName = file.getName();
                 String communityName = extractCommunityNameFromFileName(fileName);
                 String cityName = getCityNameFromCommunityName(communityName);
 
-                // Inizializza la lista di post per la community se non esiste
+                // Inizializzo la lista di post per la community se non esiste
                 communityPostsMap.putIfAbsent(communityName, new ArrayList<>());
 
-                // Corregge il timestamp del post
+                // Correggo il timestamp del post
                 postJson.put("timestamp", correctTimestamp((String) postJson.get("timestamp")));
 
-                // Aggiunge il post alla lista della community
+                // Aggiungo il post alla lista della community
                 communityPostsMap.get(communityName).add(postJson);
 
             } catch (IOException | ParseException e) {
@@ -84,21 +84,21 @@ public class CommunityBuilder {
             String communityName = entry.getKey();
             List<JSONObject> posts = entry.getValue();
 
-            // Ordina i post per timestamp
+            // Ordino i post per timestamp
             posts.sort(Comparator.comparing(post -> LocalDateTime.parse((String) post.get("timestamp"), TIMESTAMP_FORMATTER)));
 
-            // Crea il documento della community
+            // Creo il documento della community
             String cityName = getCityNameFromCommunityName(communityName);
             JSONObject community = createCommunityDocument(cityName, communityName);
 
-            // Aggiunge i due post più vecchi alla community
+            // Aggiungo i due post più vecchi alla community
             JSONArray postsArray = (JSONArray) community.get("post");
             for (int i = 0; i < Math.min(2, posts.size()); i++) {
                 JSONObject post = createPostDocument(posts.get(i));
                 postsArray.add(post);
             }
 
-            // Aggiorna il timestamp "Created" con il timestamp del post più vecchio meno un'ora
+            // Aggiorno il timestamp "Created" con il timestamp del post più vecchio meno un'ora
             if (!posts.isEmpty()) {
                 String oldestTimestamp = (String) posts.get(0).get("timestamp");
                 String adjustedTimestamp = subtractOneHour(oldestTimestamp);
@@ -109,17 +109,17 @@ public class CommunityBuilder {
             communityMap.put(communityName, community);
         }
 
-        // Salva ogni community in un file separato
+        // Salvo ogni community in un file separato
         saveCommunityDocuments(communityMap, outputFolderPath);
 
-        // Stampa l'ultimo ID generato
+        // Stampo l'ultimo ID generato
         System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
     }
 
     private static String subtractOneHour(String timestamp) {
         try {
             LocalDateTime dateTime = LocalDateTime.parse(timestamp, TIMESTAMP_FORMATTER);
-            // Sottrae un'ora
+            // Sottraggo un'ora
             dateTime = dateTime.minusHours(1);
             return dateTime.format(TIMESTAMP_FORMATTER);
         } catch (Exception e) {
@@ -165,7 +165,7 @@ public class CommunityBuilder {
         try {
             LocalDateTime dateTime = LocalDateTime.parse(timestamp, TIMESTAMP_FORMATTER);
 
-            // Corregge l'anno se fuori dal range accettabile
+            // Correggo l'anno se fuori dal range accettabile
             if (dateTime.getYear() > 2050 || dateTime.getYear() < 1970) {
                 dateTime = dateTime.withYear(2024);
             }

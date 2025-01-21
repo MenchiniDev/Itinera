@@ -9,29 +9,30 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.AccessDeniedException;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import com.unipi.ItineraJava.DTO.CommunityDTO;
 import com.unipi.ItineraJava.DTO.SignupRequest;
+
+import com.unipi.ItineraJava.DTO.UserDTO;
 import com.unipi.ItineraJava.model.CommunityGraph;
+
 import com.unipi.ItineraJava.model.User;
+
 import com.unipi.ItineraJava.model.Last_post;
+
 import com.unipi.ItineraJava.model.UserGraph;
 import com.unipi.ItineraJava.repository.UserNeo4jRepository;
 import com.unipi.ItineraJava.repository.UserRepository;
 import com.unipi.ItineraJava.service.UserService;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
 
 @RestController
 @RequestMapping("/users")
@@ -46,8 +47,10 @@ class UserController {
 
     @Autowired
     private PasswordEncoder passwordEncoder;
+    @Autowired
+    private User user;
 
-    // http://localhost:8080/users/signup WORKING
+    // http://localhost:8080/users/signup
     //@Transactional // Transactional per evitare che il metodo venga eseguito in caso di errore
     @PostMapping("/signup")
     public ResponseEntity<String> signup(@RequestBody SignupRequest signupRequest) {
@@ -93,7 +96,7 @@ class UserController {
         return ResponseEntity.ok("User registered successfully");
     }
 
-    // http://localhost:8080/users/login WORKING
+    // http://localhost:8080/users/login
     @PostMapping("/login")
     public ResponseEntity<String> login(@RequestBody User user) {
         Optional<User> existingUser = userRepository.findByUsername(user.getUsername());
@@ -116,14 +119,63 @@ class UserController {
         return userService.findById(id);
     }
 
-    @PostMapping
-    public User createUser(@RequestBody User user) {
-        return userService.save(user);
-    }
 
     @DeleteMapping("/{id}")
-    public void deleteUser(@PathVariable String id) {
-        userService.deleteById(id);
+    public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
+                                             @PathVariable String id) {
+        try {
+            if(User.isAdmin(token)) {
+                userService.deleteById(id);
+                return ResponseEntity.ok("user deleted");
+            }else{
+                return ResponseEntity.status(400).body("User not authenticated as Admin");
+            }
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    // PROFILE QUERIES
+    @GetMapping("/profile/numpost")
+    public long getPostCount(@RequestHeader("Authorization") String token)
+    {
+        try {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            if (username == null)
+                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
+            return ResponseEntity.ok(UserService.getPostCount(username)).getBody();
+        }catch (Exception e)
+        {
+            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
+        }
+    }
+
+    @GetMapping("/profile/numcom")
+    public long getCommentCount(@RequestHeader("Authorization") String token)
+    {
+        try {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            if (username == null)
+                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
+            return ResponseEntity.ok(UserService.getCommentCount(username)).getBody();
+        }catch (Exception e)
+        {
+            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
+        }
+    }
+
+    @GetMapping("/profile/numreview")
+    public long getReviewCount(@RequestHeader("Authorization") String token)
+    {
+        try {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            if (username == null)
+                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
+            return ResponseEntity.ok(UserService.getNumReview(username)).getBody();
+        }catch (Exception e)
+        {
+            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
+        }
     }
 
     ///////////////////////////////////modifiche Bache/////////////////////////////////////////////////////////
@@ -198,7 +250,7 @@ class UserController {
     @GetMapping("/profile/communityJoined")
     public ResponseEntity<?> getCommunityJoined() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-    // Verifica se l'utente è autenticato
+    // Verifico se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN)
                 .body("User not authenticated. Please log in to access this endpoint.");
@@ -207,13 +259,13 @@ class UserController {
         String username = authentication.getName();
 
         try {
-        // Recupera le community a cui l'utente è connesso
+        // Recupero le community a cui l'utente è connesso
             List<CommunityDTO> communities = userService.getCommunityJoined(username);
-        // Se non ci sono community, restituisce un messaggio specifico
+        // Se non ci sono community, restituisco un messaggio specifico
             if (communities.isEmpty()) {
                 return ResponseEntity.ok("No communities joined by the user.");
             }
-        // Restituisce le community con un messaggio di successo
+        // Restituisco le community con un messaggio di successo
             return ResponseEntity.ok(communities);
 
         } catch (Exception ex) {
@@ -223,6 +275,107 @@ class UserController {
         }
     }
 
+    //endpoint per vedere le community che l'utente cercato ha joinato
+
+    @GetMapping("/profile/communityJoined/{username}")
+    public ResponseEntity<?> getCommunityJoined(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+            if (authentication == null || !authentication.isAuthenticated()) {
+                return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                    .body("User not authenticated. Please log in to access this endpoint.");
+            }
+        try {
+            List<CommunityDTO> communities = userService.getCommunityJoined(username);
+            if (communities.isEmpty()) {
+                return ResponseEntity.ok("No communities joined by the user.");
+            }
+            return ResponseEntity.ok(communities);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the communities: " + ex.getMessage());
+        }
+    }
+    
+    
+
+    ///endpoint per seguire un utente
+    ///http://localhost:8080/users/follow/{username}
+    @PostMapping("/follow/{username}")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<String> followUser(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication != null && authentication.isAuthenticated()) {
+            String follower = authentication.getName();
+            try {
+                userService.followUser(follower, username);
+                return ResponseEntity.ok("User " + follower + " successfully followed user: " + username);
+            } catch (IllegalArgumentException | IllegalStateException ex) {
+                return ResponseEntity.badRequest().body(ex.getMessage());
+            }
+        }
+        return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
+    }
+    
+    //endpoint per smettere di seguire un utente
+    //http://localhost:8080/users/unfollow/{username}
+    @DeleteMapping("/unfollow/{username}")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<String> unfollowUser(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication != null && authentication.isAuthenticated()) {
+            String follower = authentication.getName();
+            try {
+                userService.unfollowUser(follower, username);
+                return ResponseEntity.ok("User " + follower + " successfully unfollowed user: " + username);
+            } catch (IllegalArgumentException | IllegalStateException ex) {
+                return ResponseEntity.badRequest().body(ex.getMessage());
+            }
+        }
+        return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
+    }
+
+
+    //endpoint per mostrare tutta la gente che l'user segue
+    @GetMapping("/showFollowing")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<?> getFollowing() {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+        String username = authentication.getName();
+        try {
+            List<UserDTO> following = userService.getFollowing(username);
+            if (following.isEmpty()) {
+                return ResponseEntity.ok("No users followed by the user.");
+            }
+            return ResponseEntity.ok(following);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the followed users: " + ex.getMessage());
+        }
+    }
+
+    //endpoint per mostrare tutta la gente che l'user cercato segue
+    @GetMapping("/showFollowing/{username}")
+    public ResponseEntity<?> getFollowing(@PathVariable String username) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+        try {
+            List<UserDTO> following = userService.getFollowing(username);
+            if (following.isEmpty()) {
+                return ResponseEntity.ok("No users followed by the user.");
+            }
+            return ResponseEntity.ok(following);
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the followed users: " + ex.getMessage());
+        }
+    }
     
     
 }
