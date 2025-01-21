@@ -11,7 +11,6 @@ import java.util.Optional;
 import com.mongodb.client.result.UpdateResult;
 import com.unipi.ItineraJava.model.*;
 import com.unipi.ItineraJava.repository.PostRepository;
-import jdk.jfr.Timestamp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
@@ -114,8 +113,8 @@ public class CommunityService {
     public ResponseEntity<String> updateCommunity(String username, String text, String name) {
         try {
             Post post = new Post();
-            post.setPost_body(text);
-            post.setCommunity_name(name);
+            post.setPost(text);
+            post.setCommunity(name);
             post.setUsername(username);
 
             String currentTimestamp = LocalDateTime.now()
@@ -125,7 +124,7 @@ public class CommunityService {
             post.setNum_comment(0);
             post.setReported_post(false);
             post.setComment(null);
-            userService.updateLastPost(username,post.getPost_body());
+            userService.updateLastPost(username,post.getPost());
 
             PostSummary postSummary = new PostSummary();
             postSummary.setUser(username);

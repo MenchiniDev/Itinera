@@ -1,18 +1,25 @@
 package com.unipi.ItineraJava.repository;
 
+import com.unipi.ItineraJava.DTO.PostDTO;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
+import org.springframework.cglib.core.Local;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
+import java.time.LocalDateTime;
 import java.util.List;
+import java.util.Optional;
 
 public interface PostRepository extends MongoRepository<Post, String> {
     Post findByUsernameAndTimestamp(String postUsername, String postTimestamp);
 
-    @Query("{ 'timestamp': ?0, 'username': ?1, 'Community_name': ?2 }")
-    Post findPostByTimestampAndUsernameAndCommunity_name(String timestamp, String username, String community_name);
+
+    @Query("{ 'timestamp': ?0, 'username': ?1, 'community': ?2 }")
+    Optional<PostDTO> findPostByTimestampAndUsernameAndCommunity(String timestamp, String username, String community);
+
+
 
     @Query("{ 'reported_post': true }")
     List<Post> findByReported_postTrue();
@@ -23,4 +30,9 @@ public interface PostRepository extends MongoRepository<Post, String> {
             "{ '$project': { 'comment.text': 1, 'comment.user': 1, 'comment.timestamp': 1 } }" // Restituisci solo i dati rilevanti
     })
     List<Comment> findReportedComments();
+
+    @Query(value = "{ '_id': ?0 }")
+    Optional<PostDTO> getPostById(String id);
+
+
 }
