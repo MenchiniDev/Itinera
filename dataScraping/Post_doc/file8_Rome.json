@@ -1,45 +1,45 @@
 {
   "id" : 200328,
-  "community_name" : "Rome",
+  "community" : "Rome",
   "username" : "thesadsalmonn",
-  "post_body" : "Where is this located?",
-  "timestamp" : "2024-12-23 09:26:04",
-  "num_comment" : 7,
-  "reported_post" : false,
+  "post" : "Where is this located?",
+  "timestamp" : "2024-12-23T08:26:04Z",
+  "nomment" : 7,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "it’s the Piazza del Campidoglio, you find the Capitoline Museums next to it",
     "username" : "kriszszszz",
-    "timestamp" : "2024-12-23 09:26:04"
+    "timestamp" : "2024-12-23T08:26:04Z"
   }, {
     "reported_comment" : false,
     "body" : "[Here](https://maps.app.goo.gl/GcDt8wrH8ebK7tRd6). Designed by Michelangelo. \n\n(I got married there.)",
     "username" : "RomeVacationTips",
-    "timestamp" : "2024-12-23 09:28:05"
+    "timestamp" : "2024-12-23T08:28:05Z"
   }, {
     "reported_comment" : false,
     "body" : "https://maps.app.goo.gl/aAAksdoFSJmDv6Zn8",
     "username" : "giokey58",
-    "timestamp" : "2024-12-23 09:31:47"
+    "timestamp" : "2024-12-23T08:31:47Z"
   }, {
     "reported_comment" : false,
     "body" : "In Rome 😃👍❤️❤️",
     "username" : "Gabriele0819",
-    "timestamp" : "2024-12-23 13:30:10"
+    "timestamp" : "2024-12-23T12:30:10Z"
   }, {
     "reported_comment" : false,
     "body" : "Well done Kriszszszz 👍",
     "username" : "Gabriele0819",
-    "timestamp" : "2024-12-23 13:30:47"
+    "timestamp" : "2024-12-23T12:30:47Z"
   }, {
     "reported_comment" : false,
     "body" : "Wow. That’s a pretty spectacular wedding venue. Curious what made you choose it. I (non Italian, American) also got married in Italy based solely on my first trip there and nothing more than a single visit before the big event.",
     "username" : "rHereLetsGo",
-    "timestamp" : "2024-12-23 10:25:56"
+    "timestamp" : "2024-12-23T09:25:56Z"
   }, {
     "reported_comment" : false,
     "body" : "it's pretty common to get married there if you are only doing a civil ceremony.",
     "username" : "MissYoshiBaggins",
-    "timestamp" : "2024-12-23 12:02:53"
+    "timestamp" : "2024-12-23T11:02:53Z"
   } ]
 }

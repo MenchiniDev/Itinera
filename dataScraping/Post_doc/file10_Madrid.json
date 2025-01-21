@@ -1,10 +1,10 @@
 {
   "id" : 200428,
-  "community_name" : "Madrid",
+  "community" : "Madrid",
   "username" : "Emmanuel_I",
-  "post_body" : "Un club de baloncesto de Madrid recibe la mitad del Gordo: \"Habíamos repartido las participaciones con todos los amigos\"",
-  "timestamp" : "2024-11-16 12:45:56",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Un club de baloncesto de Madrid recibe la mitad del Gordo: \"Habíamos repartido las participaciones con todos los amigos\"",
+  "timestamp" : "2024-11-04T06:23:46Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

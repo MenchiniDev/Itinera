@@ -1,30 +1,27 @@
 package com.unipi.ItineraJava.service;
 
 
-import com.unipi.ItineraJava.model.Last_post;
-import com.unipi.ItineraJava.repository.UserRepository;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.unipi.ItineraJava.DTO.CommunityDTO;
-import com.unipi.ItineraJava.DTO.UserDTO;
-import com.unipi.ItineraJava.model.CommunityGraph;
+import com.unipi.ItineraJava.DTO.*;
+
+import com.unipi.ItineraJava.model.Last_post;
 import com.unipi.ItineraJava.model.User;
-import com.unipi.ItineraJava.model.UserGraph;
-
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-import java.util.List;
-import java.util.Optional;
-
 import com.unipi.ItineraJava.repository.UserNeo4jRepository;
+import com.unipi.ItineraJava.repository.UserRepository;
 
 @Service
 public class UserService{
-   
+    
     private static UserRepository userRepository;
-     
+    
     private UserNeo4jRepository userNeo4jRepository;
 
 
@@ -34,8 +31,9 @@ public class UserService{
         this.userNeo4jRepository = userNeo4jRepository;
     }
 
-    public static long getNumReview(String username) {
-        return userRepository.countReviewsByUser(username);
+    public static String getNumReview(String username) {
+        Long count = userRepository.countReviewsByUser(username);
+        return String.valueOf(count);
     }
 
     public static long getPostCount(String username) {
@@ -46,12 +44,8 @@ public class UserService{
         return userRepository.countCommentsByUser(username);
     }
 
-    public List<com.unipi.ItineraJava.model.User> findAll() {
+    public List<User> findAll() {
         return userRepository.findAll();
-    }
-
-    public Optional<com.unipi.ItineraJava.model.User> findById(String id) {
-        return userRepository.findById(id);
     }
 
     public User save(User user) {
@@ -147,4 +141,16 @@ public class UserService{
         return userNeo4jRepository.getFollowing(username);
     }
 
+    public List<String> getSuggestedUsernames(String username) {
+        return userNeo4jRepository.findSuggestedUsernames(username);
+    }
+
+    public List<String> getSuggestedCommunities(String username){
+        return userNeo4jRepository.findSuggestedCommunities(username);
+    }
+
+    public List<PostSuggestionDto> getSuggestedPosts(String username) {
+        return userNeo4jRepository.findSuggestedPosts(username);
+    }
+  
 }

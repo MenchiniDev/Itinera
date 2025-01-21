@@ -1,95 +1,95 @@
 {
   "id" : 200183,
-  "community_name" : "Tirana",
+  "community" : "Tirana",
   "username" : "Affectionate_Lab9272",
-  "post_body" : "new years eve ",
-  "timestamp" : "2024-12-18 17:35:01",
-  "num_comment" : 17,
-  "reported_post" : false,
+  "post" : "new years eve ",
+  "timestamp" : "2024-12-18T16:35:01Z",
+  "nomment" : 17,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Skanderberg square is the big celebration and countdown. There’s a few bars having dance parties afterwards just check Facebook and instagram",
     "username" : "Corgiman69420",
-    "timestamp" : "2024-12-18 17:35:01"
+    "timestamp" : "2024-12-18T16:35:01Z"
   }, {
     "reported_comment" : false,
     "body" : "Try to book in advance a restaurant or a bar. Expect to pay a fee, over the years more and more people here are choosing to pass the night of the 31st out. Ask if there will be live music. Do it asap, don’t wait until 1 or 2 days before the new yers’s night. Enjoy!",
     "username" : "Skinderjak",
-    "timestamp" : "2024-12-20 17:47:16"
+    "timestamp" : "2024-12-20T16:47:16Z"
   }, {
     "reported_comment" : false,
     "body" : "I would suggest to check the restaurants. Mostly offer a deal food plus music. \nAlthough most of the local stay at home some prefer bigger settings and they dance the night away. \n\nI think this will more authentic than going to a pub after 12am to drink. It will be overcrowded plus overpriced.\nRestaurant and then at the Skenderbeg square for the concert.",
     "username" : "desrore",
-    "timestamp" : "2024-12-18 23:58:31"
+    "timestamp" : "2024-12-18T22:58:31Z"
   }, {
     "reported_comment" : false,
     "body" : "I will be there flying from UK so can link up for a night out.",
     "username" : "muzzichuzzi",
-    "timestamp" : "2024-12-19 01:28:01"
+    "timestamp" : "2024-12-19T00:28:01Z"
   }, {
     "reported_comment" : false,
     "body" : "Yes but should I reserve? Can you recommend me some good bar?",
     "username" : "Beautiful-Steak-9991",
-    "timestamp" : "2024-12-18 18:53:50"
+    "timestamp" : "2024-12-18T17:53:50Z"
   }, {
     "reported_comment" : false,
     "body" : "Is it safe for a solo woman?",
     "username" : "ChelseaGirls66",
-    "timestamp" : "2024-12-18 21:04:38"
+    "timestamp" : "2024-12-18T20:04:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Sorry for hijacking this post, do you have to make a reservation to get in to places on NYE in Tirana? As just flying there for NYE so no clue.",
     "username" : "muzzichuzzi",
-    "timestamp" : "2024-12-19 01:33:46"
+    "timestamp" : "2024-12-19T00:33:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Do you know when it starts? Any known singers?",
     "username" : "yohana31",
-    "timestamp" : "2024-12-19 16:20:30"
+    "timestamp" : "2024-12-19T15:20:30Z"
   }, {
     "reported_comment" : false,
     "body" : "I know radio is 20 dollar cover but a lot of bars and clubs here are real picky about the bro/ho ratio so if you’re just two dudes you may have trouble getting in some places. I’ve heard Kino and whiskey bar recommended here a few times",
     "username" : "Corgiman69420",
-    "timestamp" : "2024-12-18 18:56:10"
+    "timestamp" : "2024-12-18T17:56:10Z"
   }, {
     "reported_comment" : false,
     "body" : "I also heard about Whisky Bar!",
     "username" : "muzzichuzzi",
-    "timestamp" : "2024-12-19 01:34:19"
+    "timestamp" : "2024-12-19T00:34:19Z"
   }, {
     "reported_comment" : false,
     "body" : "you can stay with us if you feel unsafe",
     "username" : "Affectionate_Lab9272",
-    "timestamp" : "2024-12-19 13:04:45"
+    "timestamp" : "2024-12-19T12:04:45Z"
   }, {
     "reported_comment" : false,
     "body" : "Very safe! My partner regularly walks around at night here by herself and no issues!",
     "username" : "Corgiman69420",
-    "timestamp" : "2024-12-18 21:15:39"
+    "timestamp" : "2024-12-18T20:15:39Z"
   }, {
     "reported_comment" : false,
     "body" : "Call me",
     "username" : "Skinderjak",
-    "timestamp" : "2024-12-20 17:53:08"
+    "timestamp" : "2024-12-20T16:53:08Z"
   }, {
     "reported_comment" : false,
     "body" : "Yes you have to make reservations in case you want to enter in good clubs. \nIt could be open bar or you have to order a bottle of alcohol. Prices are double compared to other days, a bottle can be 200€ and open bar maybe 75€.\nPrices might have changed, I have 5+ years that I haven’t been out in NYE. But I have been to restaurants and it has been so much worth it.",
     "username" : "desrore",
-    "timestamp" : "2024-12-19 09:07:48"
+    "timestamp" : "2024-12-19T08:07:48Z"
   }, {
     "reported_comment" : false,
     "body" : "That’s so kind thank you",
     "username" : "ChelseaGirls66",
-    "timestamp" : "2024-12-19 15:19:46"
+    "timestamp" : "2024-12-19T14:19:46Z"
   }, {
     "reported_comment" : false,
     "body" : "Fantastic thank you",
     "username" : "ChelseaGirls66",
-    "timestamp" : "2024-12-18 21:27:05"
+    "timestamp" : "2024-12-18T20:27:05Z"
   }, {
     "reported_comment" : false,
     "body" : "So restaurant it is.",
     "username" : "muzzichuzzi",
-    "timestamp" : "2024-12-19 10:44:05"
+    "timestamp" : "2024-12-19T09:44:05Z"
   } ]
 }

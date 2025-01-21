@@ -2,14 +2,14 @@
   "id" : 200478,
   "city" : "Vilnius",
   "name" : "Vilnius",
-  "created" : "2024-12-19 11:30:34",
+  "created" : "2024-12-19T10:30:34Z",
   "post" : [ {
-    "text" : "Sendaikčiai Vilniuje",
+    "text" : null,
     "user" : "ponasvilius",
-    "timestamp" : "2024-12-19 12:30:34"
+    "timestamp" : "2024-12-19T11:30:34Z"
   }, {
-    "text" : "Tortas per kalėdas Vilniuje",
+    "text" : null,
     "user" : "kaboomcik",
-    "timestamp" : "2024-12-19 12:43:32"
+    "timestamp" : "2024-12-19T11:43:32Z"
   } ]
 }

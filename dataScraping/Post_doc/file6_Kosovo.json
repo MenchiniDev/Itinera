@@ -1,40 +1,40 @@
 {
   "id" : 200323,
-  "community_name" : "Kosovo",
+  "community" : "Kosovo",
   "username" : "griffim90",
-  "post_body" : "Autostrada ne Kosove",
-  "timestamp" : "2024-12-22 23:20:06",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "Autostrada ne Kosove",
+  "timestamp" : "2024-12-22T22:20:06Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Please maintain decorum and refrain from responding in an offensive or trolling manner as this post has been categorized as a Discussion, failing to do so, will result in a ban for at least 7 days!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/kosovo) if you have any questions or concerns.*",
     "username" : "AutoModerator",
-    "timestamp" : "2024-12-22 23:20:06"
+    "timestamp" : "2024-12-22T22:20:06Z"
   }, {
     "reported_comment" : false,
     "body" : "Edhe une jam nKosove per momentin edhe jam dakord qe ka pjesa ne autostrade qe jane ne gjendjen e rend. Kur bjen shi bohet edhe 100 her ma keq\n\nBile edhe ma keq neper magjistrale, shume rrezik\n\nEdit: quditna qe ka njerz ktu qe guxojn me vozit 150 km/h kur jane rrugt ne ket gjendje",
     "username" : "Lgkp",
-    "timestamp" : "2024-12-22 23:25:24"
+    "timestamp" : "2024-12-22T22:25:24Z"
   }, {
     "reported_comment" : false,
     "body" : "Dritat jane vetem kur ka dalje/hyrje ne auostard. Ka probleme po e vertet, po dirtat nuk jane njeri nder to.\nPs. Mos bo foto duke vozit sidomos ne autostrad me. Duaje pakes vetem.",
     "username" : "gaziway",
-    "timestamp" : "2024-12-23 01:59:52"
+    "timestamp" : "2024-12-23T00:59:52Z"
   }, {
     "reported_comment" : false,
     "body" : "kurkun nevrop autostradat skan drita a sa i perket sinjalistikes tdopt ki shum tdrejt",
     "username" : "farquaad_thelord",
-    "timestamp" : "2024-12-22 23:50:27"
+    "timestamp" : "2024-12-22T22:50:27Z"
   }, {
     "reported_comment" : false,
     "body" : "Keto jane problemet ma tvogla qe i kemi me rruge nkosove lol",
     "username" : "-mamiii",
-    "timestamp" : "2024-12-22 23:51:39"
+    "timestamp" : "2024-12-22T22:51:39Z"
   }, {
     "reported_comment" : false,
     "body" : "https://preview.redd.it/nhgedgq68k8e1.png?width=1080&format=pjpg&auto=webp&s=e348b09a8e3f2cd6d24fbe5b7a8ec28f71290a3e\n\nMdoket e ki kuptu keq qka ka dasht me shkru me drita. Mir e ka se ska kerka nkosov drita nautostrad, gati gjethka nevrop ka. Jon tmontum amo nal gjeth.",
     "username" : "Eldergrise",
-    "timestamp" : "2024-12-23 09:36:07"
+    "timestamp" : "2024-12-23T08:36:07Z"
   } ]
 }

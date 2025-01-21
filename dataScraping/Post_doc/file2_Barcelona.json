@@ -1,10 +1,10 @@
 {
   "id" : 200110,
-  "community_name" : "Barcelona",
+  "community" : "Barcelona",
   "username" : "un_redditor",
-  "post_body" : "Got a question about Barcelona? Post in /r/AskBarcelona!",
-  "timestamp" : "2024-11-16 12:14:13",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Got a question about Barcelona? Post in /r/AskBarcelona!",
+  "timestamp" : "2024-11-04T05:57:37Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

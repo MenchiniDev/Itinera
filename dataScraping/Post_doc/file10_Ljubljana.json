@@ -1,50 +1,50 @@
 {
   "id" : 200427,
-  "community_name" : "Ljubljana",
+  "community" : "Ljubljana",
   "username" : "AtticusOmni",
-  "post_body" : "Drsališče ",
-  "timestamp" : "2024-12-22 12:33:54",
-  "num_comment" : 8,
-  "reported_post" : false,
+  "post" : "Drsališče ",
+  "timestamp" : "2024-12-22T11:33:54Z",
+  "nomment" : 8,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Vso srečo, vsa so polna, vsa so relativno slaba in vsa imajo isto ceno, razen aleje k racuna 10e za tistih 5 kvadratov. Se najboljsa sta zalog in tivoli.",
     "username" : "recommendmeusername",
-    "timestamp" : "2024-12-22 12:33:54"
+    "timestamp" : "2024-12-22T11:33:54Z"
   }, {
     "reported_comment" : false,
     "body" : "Ljubljana - Zalog   \n[https://www.sport-ljubljana.si/ledena-dvorana-zalog/](https://www.sport-ljubljana.si/ledena-dvorana-zalog/)",
     "username" : "RunPsychological2788",
-    "timestamp" : "2024-12-22 13:48:27"
+    "timestamp" : "2024-12-22T12:48:27Z"
   }, {
     "reported_comment" : false,
     "body" : "Pa da ni teflonu… !!",
     "username" : "MilanKucan",
-    "timestamp" : "2024-12-22 16:13:40"
+    "timestamp" : "2024-12-22T15:13:40Z"
   }, {
     "reported_comment" : false,
     "body" : "Tivoli ribnik ce je zmrznjen",
     "username" : "renaulttrucks",
-    "timestamp" : "2024-12-22 12:58:09"
+    "timestamp" : "2024-12-22T11:58:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Hvala. Pred leti sem bil na nekih Lucky drsališčih, pa tudi v nekih športnih parkih, tko k Šentvid, tam za Žibertom. A to še obstaja kej?",
     "username" : "AtticusOmni",
-    "timestamp" : "2024-12-22 15:58:44"
+    "timestamp" : "2024-12-22T14:58:44Z"
   }, {
     "reported_comment" : false,
     "body" : "Hvala. Sem si pogledal. Super, ampak res malo odprto.\nPred leti sem bil na razstavišču, pa tudi po nekih športnih parkih so imel kdaj kako drsališče. Sam se ne spomnim kje točno.",
     "username" : "AtticusOmni",
-    "timestamp" : "2024-12-22 15:59:50"
+    "timestamp" : "2024-12-22T14:59:50Z"
   }, {
     "reported_comment" : false,
     "body" : "Po mojih info nic vec na zalost. Lahko pa da se motim.",
     "username" : "recommendmeusername",
-    "timestamp" : "2024-12-22 20:13:15"
+    "timestamp" : "2024-12-22T19:13:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Vcasih je blo na parkirišču zraven proge. Tega ni vec",
     "username" : "Low-Teach487",
-    "timestamp" : "2024-12-23 06:09:24"
+    "timestamp" : "2024-12-23T05:09:24Z"
   } ]
 }

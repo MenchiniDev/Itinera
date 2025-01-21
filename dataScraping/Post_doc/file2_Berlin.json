@@ -1,35 +1,35 @@
 {
   "id" : 200168,
-  "community_name" : "Berlin",
+  "community" : "Berlin",
   "username" : "sonderbarermensch",
-  "post_body" : "Wo kann man in Berlin ehrenamtlich aushelfen?",
-  "timestamp" : "2024-12-23 12:19:15",
-  "num_comment" : 5,
-  "reported_post" : false,
+  "post" : "Wo kann man in Berlin ehrenamtlich aushelfen?",
+  "timestamp" : "2024-12-23T11:19:15Z",
+  "nomment" : 5,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Die Tafel freut sich immer, vor allem über Leute die bereit sind zu fahren",
     "username" : "benjaminbluemchen",
-    "timestamp" : "2024-12-23 12:19:15"
+    "timestamp" : "2024-12-23T11:19:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Dieser Mensch hier macht das richtig.\nDanke!",
     "username" : "Icy_Restaurant1212",
-    "timestamp" : "2024-12-23 13:10:59"
+    "timestamp" : "2024-12-23T12:10:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Über Maltesar wird immer gesucht. Schön dass du es machen willst :)",
     "username" : "Great-Heron1098",
-    "timestamp" : "2024-12-23 13:56:43"
+    "timestamp" : "2024-12-23T12:56:43Z"
   }, {
     "reported_comment" : false,
     "body" : "Falls jemand was längerfristiges sucht, plug ich hier mal wieder [Schülerpaten Berlin!](https://schuelerpaten-berlin.de/) Uns gibt es übrigens u.A. auch in Hamburg, Dortmund, Frankfurt und München.",
     "username" : "itmustbeluv_luv_luv",
-    "timestamp" : "2024-12-23 14:32:55"
+    "timestamp" : "2024-12-23T13:32:55Z"
   }, {
     "reported_comment" : false,
     "body" : "Guck mal auf nebenan.de, ist ne App für Nachbarschaftshilfe. Die Leute dort freuen sich immer sehr über Hilfe",
     "username" : "InjusticeMan_25",
-    "timestamp" : "2024-12-23 15:01:02"
+    "timestamp" : "2024-12-23T14:01:02Z"
   } ]
 }

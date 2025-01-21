@@ -1,20 +1,20 @@
 {
   "id" : 200200,
-  "community_name" : "Birmingham",
+  "community" : "Birmingham",
   "username" : "LolzTheGoat",
-  "post_body" : "Railroad Park Today",
-  "timestamp" : "2024-12-23 07:07:09",
-  "num_comment" : 2,
-  "reported_post" : false,
+  "post" : "Railroad Park Today",
+  "timestamp" : "2024-12-23T06:07:09Z",
+  "nomment" : 2,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Beautiful shots. Thanks",
     "username" : "savoryreflex",
-    "timestamp" : "2024-12-23 07:07:09"
+    "timestamp" : "2024-12-23T06:07:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Beautiful!",
     "username" : "penalty-venture",
-    "timestamp" : "2024-12-23 14:36:30"
+    "timestamp" : "2024-12-23T13:36:30Z"
   } ]
 }

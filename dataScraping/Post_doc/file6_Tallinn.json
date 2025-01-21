@@ -1,15 +1,15 @@
 {
   "id" : 200177,
-  "community_name" : "Tallinn",
+  "community" : "Tallinn",
   "username" : "ForeverFrog",
-  "post_body" : "Working in Tallinn",
-  "timestamp" : "2022-03-31 22:29:02",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Working in Tallinn",
+  "timestamp" : "2022-03-31T20:29:02Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Try r/eesti this sub is dead",
     "username" : "elagukalevostakulda",
-    "timestamp" : "2022-03-31 22:29:02"
+    "timestamp" : "2022-03-31T20:29:02Z"
   } ]
 }

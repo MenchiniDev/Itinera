@@ -12,6 +12,8 @@ import org.springframework.stereotype.Service;
 
 import java.time.Instant;
 import java.time.LocalDateTime;
+import java.util.Comparator;
+
 import java.util.List;
 
 @Service
@@ -69,5 +71,19 @@ public class ReviewService {
 
     public List<Review> showReviewReported() {
         return reviewRepository.findReportedComments();
+    }
+
+    public List<Review> getReviewsByName(String name) {
+        try {
+            List<Review> reviews = reviewRepository.findByPlace(name);
+            System.out.println(reviews.size());
+            return reviews.stream()
+                    .sorted(Comparator.comparingInt(Review::getStars).reversed())
+                    .toList();
+
+        } catch (Exception e) {
+            System.err.println("Error happened retrieving reviews: " + e.getMessage());
+            return List.of();
+        }
     }
 }

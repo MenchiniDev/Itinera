@@ -1,15 +1,15 @@
 {
   "id" : 200295,
-  "community_name" : "Berlin",
+  "community" : "Berlin",
   "username" : "Evidencebasedbro",
-  "post_body" : "Ermittlungen in Berlin: 20-Jähriger stirbt nach Unfall auf Weihnachtsmarkt",
-  "timestamp" : "2024-12-23 13:01:32",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Ermittlungen in Berlin: 20-Jähriger stirbt nach Unfall auf Weihnachtsmarkt",
+  "timestamp" : "2024-12-23T12:01:32Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Ein einziges Flatterband hätte ein Leben gerettet.",
     "username" : "AndiArbyte",
-    "timestamp" : "2024-12-23 13:01:32"
+    "timestamp" : "2024-12-23T12:01:32Z"
   } ]
 }

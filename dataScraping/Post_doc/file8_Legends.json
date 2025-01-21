@@ -1,15 +1,15 @@
 {
   "id" : 200279,
-  "community_name" : "Legends",
+  "community" : "Legends",
   "username" : "Tie1426_extraaccc",
-  "post_body" : "Absolute legend",
-  "timestamp" : "2022-01-10 08:31:46",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Absolute legend",
+  "timestamp" : "2022-01-10T07:31:46Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "When your gangster friend comes back from \"Vacation\"",
     "username" : "ProScoutMain",
-    "timestamp" : "2022-01-10 08:31:46"
+    "timestamp" : "2022-01-10T07:31:46Z"
   } ]
 }

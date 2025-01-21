@@ -1,50 +1,50 @@
 {
   "id" : 200024,
-  "community_name" : "Dublin",
+  "community" : "Dublin",
   "username" : "MummysSpecialBoy",
-  "post_body" : "Best buffet in the city centre?",
-  "timestamp" : "2024-12-23 14:08:05",
-  "num_comment" : 8,
-  "reported_post" : false,
+  "post" : "Best buffet in the city centre?",
+  "timestamp" : "2024-12-23T13:08:05Z",
+  "nomment" : 8,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "What type of buffet? There's Wing's World Cuisine near The Church and Nando's by Mary St.",
     "username" : "JoulSauron",
-    "timestamp" : "2024-12-23 14:08:05"
+    "timestamp" : "2024-12-23T13:08:05Z"
   }, {
     "reported_comment" : false,
     "body" : "one at the top of stephens green shopping centre?",
     "username" : "CommunicationIll5583",
-    "timestamp" : "2024-12-23 14:27:52"
+    "timestamp" : "2024-12-23T13:27:52Z"
   }, {
     "reported_comment" : false,
     "body" : "Any buffet would do me, although I do really like a Chinese. What's the best in your opinion?",
     "username" : "MummysSpecialBoy",
-    "timestamp" : "2024-12-23 14:14:25"
+    "timestamp" : "2024-12-23T13:14:25Z"
   }, {
     "reported_comment" : false,
     "body" : "Dyk what kind of buffet it is?",
     "username" : "MummysSpecialBoy",
-    "timestamp" : "2024-12-23 14:42:20"
+    "timestamp" : "2024-12-23T13:42:20Z"
   }, {
     "reported_comment" : false,
     "body" : "I actually don't know any, it's been a long time since I last went to one. I heard good things about Wing's, they have a bit of every cuisine.\n\nFortune Terrace is a Chinese buffet in O'Connell St.\n\nThe Mongolian Barbeque in Temple bar is another classic that does all you can eat, a classic!",
     "username" : "JoulSauron",
-    "timestamp" : "2024-12-23 14:18:17"
+    "timestamp" : "2024-12-23T13:18:17Z"
   }, {
     "reported_comment" : false,
     "body" : "Chinese",
     "username" : "rocker_bunny",
-    "timestamp" : "2024-12-23 14:43:59"
+    "timestamp" : "2024-12-23T13:43:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Thank you!",
     "username" : "MummysSpecialBoy",
-    "timestamp" : "2024-12-23 14:24:42"
+    "timestamp" : "2024-12-23T13:24:42Z"
   }, {
     "reported_comment" : false,
     "body" : "Legend thank u",
     "username" : "MummysSpecialBoy",
-    "timestamp" : "2024-12-23 14:47:39"
+    "timestamp" : "2024-12-23T13:47:39Z"
   } ]
 }

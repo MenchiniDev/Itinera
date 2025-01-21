@@ -1,10 +1,10 @@
 {
   "id" : 200318,
-  "community_name" : "Bucharest",
+  "community" : "Bucharest",
   "username" : "itsmegoddamnit",
-  "post_body" : "Warning, this subreddit is now closed to new submissions. All new posts are welcome at /r/bucuresti",
-  "timestamp" : "2024-11-16 12:35:45",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Warning, this subreddit is now closed to new submissions. All new posts are welcome at /r/bucuresti",
+  "timestamp" : "2024-11-04T06:17:49Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

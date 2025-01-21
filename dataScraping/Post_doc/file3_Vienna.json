@@ -1,40 +1,40 @@
 {
   "id" : 200161,
-  "community_name" : "Vienna",
+  "community" : "Vienna",
   "username" : "Spontanvegetation420",
-  "post_body" : "Wir ziehen um nach r/wien!",
-  "timestamp" : "2023-07-31 23:12:39",
-  "num_comment" : 6,
-  "reported_post" : false,
+  "post" : "Wir ziehen um nach r/wien!",
+  "timestamp" : "2023-07-31T21:12:39Z",
+  "nomment" : 6,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Last es doch einfach offen für die touris, sonst landen die wieder in rwien",
     "username" : "Valfish",
-    "timestamp" : "2023-08-01 17:13:51"
+    "timestamp" : "2023-08-01T15:13:51Z"
   }, {
     "reported_comment" : false,
     "body" : "/r/vienna muss bestehen bleiben…",
     "username" : "Weana-HW",
-    "timestamp" : "2023-07-31 23:12:39"
+    "timestamp" : "2023-07-31T21:12:39Z"
   }, {
     "reported_comment" : false,
     "body" : "Super, dass ihr in der Zwischenzeit eingesprungen seid!",
     "username" : "thatguyfromvienna",
-    "timestamp" : "2023-08-01 13:44:07"
+    "timestamp" : "2023-08-01T11:44:07Z"
   }, {
     "reported_comment" : false,
     "body" : "Oida, jetzt müss ma wieder umziehen? Da tu I sudern wie es sich gehört in Wien! 😛",
     "username" : "FourDimensionalTaco",
-    "timestamp" : "2023-08-02 10:47:05"
+    "timestamp" : "2023-08-02T08:47:05Z"
   }, {
     "reported_comment" : false,
     "body" : "Das wäre eine super Idee. Auch weil die dann.l Wahrscheinlich eher die Infos bekommen die sie wollen und alle anderen, die das nicht wollen, werde nicht durch naive turi fragen genervt",
     "username" : "konsterntin",
-    "timestamp" : "2023-08-01 18:02:35"
+    "timestamp" : "2023-08-01T16:02:35Z"
   }, {
     "reported_comment" : false,
     "body" : "Exactamente",
     "username" : "Valfish",
-    "timestamp" : "2023-08-01 18:20:04"
+    "timestamp" : "2023-08-01T16:20:04Z"
   } ]
 }

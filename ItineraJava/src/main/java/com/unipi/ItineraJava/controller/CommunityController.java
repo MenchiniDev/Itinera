@@ -1,26 +1,37 @@
 package com.unipi.ItineraJava.controller;
 
 
+import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 
-import com.unipi.ItineraJava.model.Comment;
-import com.unipi.ItineraJava.model.Post;
-import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestHeader;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
+import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.MongoCommunity;
+import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
+import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 
 
 @RestController
@@ -69,10 +80,14 @@ class CommunityController {
     }
 
     // adds a post inside a community
-    @PutMapping("community/{name}")
+    // token -> user auth token
+    // text -> post body, plain test no json
+    // the name of the city
+    // http://localhost:8080/Community/Rome
+    @PutMapping("/{name}")
     public ResponseEntity<String> updateCommunity(@RequestHeader("Authorization") String token,
-                                                  @RequestBody String text,
-                                                  @RequestParam String name)
+                                                  @PathVariable String name,
+                                                  @RequestBody String text)
     {
         try{
             String username = JwtTokenProvider.getUsernameFromToken(token);
@@ -87,26 +102,42 @@ class CommunityController {
                 return ResponseEntity.status(400).body("Invalid Community name");
             }
         }catch (Exception e) {
+            e.printStackTrace();
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(e.getMessage());
         }
     }
-    @PutMapping("/communities/comment")
+
+    // mi restituisce a caso 403
+    @PutMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
-            @RequestParam String username,
-            @RequestParam String timestamp,
-            @RequestBody Comment comment) {
+            @PathVariable String username, // of the post replying
+            @RequestBody String timestamp,// of the post replying
+            @RequestBody String comment_body) {
+        try {
+            String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
+            System.out.println(commenterUsername);
+            if (commenterUsername == null)
+                return ResponseEntity.internalServerError().body("token invalid");
 
-        String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
-        if (commenterUsername == null)
-            return ResponseEntity.internalServerError().body("token invalid");
-        Post updatedPost = communityService.addCommentToPost(username, timestamp, commenterUsername, comment);
+            Comment comment = new Comment();
+            comment.setUser(commenterUsername);
+            comment.setTimestamp(LocalDateTime.now());
+            comment.setText(comment_body);
+            comment.setReported(false);
 
-        if (updatedPost != null) {
-            return ResponseEntity.ok("Commento aggiunto");
+            Post updatedPost = communityService.addCommentToPost(username, timestamp, commenterUsername, comment);
+
+            if (updatedPost != null) {
+                return ResponseEntity.ok("Commento aggiunto");
+            }
+
+            return ResponseEntity.notFound().build();
         }
-
-        return ResponseEntity.notFound().build();
+        catch (Exception e) {
+            e.printStackTrace();
+            return ResponseEntity.internalServerError().body(e.getMessage());
+        }
     }
 
 
@@ -209,4 +240,67 @@ class CommunityController {
         // Se l'utente non è autenticato, restituisce un errore di accesso negato
         return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
     }
+
+
+    @GetMapping("/showMostActiveUser/{city}")
+    public ResponseEntity<?> getMostActiveUser(@PathVariable String city) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+        String username = authentication.getName();
+        try {
+            String mostActiveUser = communityService.getMostActiveUserByCommunity(username, city);
+            if (mostActiveUser == null) {
+                return ResponseEntity.ok("Community " + city + "has no users");
+            }
+            return ResponseEntity.ok(mostActiveUser);
+        } catch (IllegalArgumentException | IllegalStateException ex) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                .body(ex.getMessage());
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the most active user: " + ex.getMessage());
+        }
+    }
+
+    @GetMapping("/showMostActiveCommunity")
+    public ResponseEntity<?> getMostActiveUser() {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN)
+                .body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+        String username = authentication.getName();
+        try {
+            String mostActiveCommunity = communityService.getMostActiveCommunity();
+            if (mostActiveCommunity == null) {
+                return ResponseEntity.ok("There is no most active community");
+            }
+            return ResponseEntity.ok(mostActiveCommunity);
+        } catch (IllegalArgumentException | IllegalStateException ex) {
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                .body(ex.getMessage());
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving the most active community: " + ex.getMessage());
+        }
+    }
+
+    @GetMapping("/postCount/{city}")
+    public ResponseEntity<?> getPostCount(@PathVariable String city) {
+        try {
+            Long postCount = communityService.getPostCountInCommunity(city);
+            return ResponseEntity.ok(Map.of("community", city, "postCount", postCount));
+        } catch (Exception ex) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                .body("An error occurred while retrieving post count: " + ex.getMessage());
+        }
+    }
+
+    
+
 }

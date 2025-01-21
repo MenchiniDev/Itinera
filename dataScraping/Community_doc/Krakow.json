@@ -2,14 +2,14 @@
   "id" : 200475,
   "city" : "Krakow",
   "name" : "Krakow",
-  "created" : "2022-09-25 11:58:10",
+  "created" : "2022-09-25T09:58:10Z",
   "post" : [ {
-    "text" : "Z inicjatywy rządu powstała strona, na której możecie zadeklarować chęć udzielenia pomocy, lub napisać, jeśli sami jej potrzebujecie. Podajcie dalej. https://pomagamukrainie.gov.pl",
+    "text" : null,
     "user" : "klugg",
-    "timestamp" : "2022-09-25 12:58:10"
+    "timestamp" : "2022-09-25T10:58:10Z"
   }, {
-    "text" : "What is this? In the old city ",
+    "text" : null,
     "user" : "siarheikaravai",
-    "timestamp" : "2024-12-22 12:04:23"
+    "timestamp" : "2024-12-22T11:04:23Z"
   } ]
 }

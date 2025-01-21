@@ -1,100 +1,100 @@
 {
   "id" : 200274,
-  "community_name" : "Copenhagen",
+  "community" : "Copenhagen",
   "username" : "ValoMatt",
-  "post_body" : "What's the deal with 2A?",
-  "timestamp" : "2024-12-22 16:17:24",
-  "num_comment" : 18,
-  "reported_post" : false,
+  "post" : "What's the deal with 2A?",
+  "timestamp" : "2024-12-22T15:17:24Z",
+  "nomment" : 18,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "I guess christmas traffic causes those delays. And each driver doesn't really care about the other busses so they just continue immediately at every stop.",
     "username" : "undercoverpanter",
-    "timestamp" : "2024-12-22 16:17:24"
+    "timestamp" : "2024-12-22T15:17:24Z"
   }, {
     "reported_comment" : false,
     "body" : "Some things never change. I had a similar experience with 2A, when I lived in Copenhagen like 6 years ago.\nNo show or multiple buses at the same time.",
     "username" : "Foreign-Journalist71",
-    "timestamp" : "2024-12-22 16:33:19"
+    "timestamp" : "2024-12-22T15:33:19Z"
   }, {
     "reported_comment" : false,
     "body" : "I’ve also noticed the 2a has been especially fucked these last couple months. I keep complaining to Movia and they just say it’s because of the traffic. If you have to wait for more than 20min though, you can take a taxi and movia will reimburse you.",
     "username" : "boba_leaf",
-    "timestamp" : "2024-12-22 18:03:51"
+    "timestamp" : "2024-12-22T17:03:51Z"
   }, {
     "reported_comment" : false,
     "body" : "Terrible traffic, that’s the only reason. I gave up after sitting in traffic for 10-15 min and asked him to open the door, I took the metro instead.",
     "username" : "_Hollywood___",
-    "timestamp" : "2024-12-22 17:38:05"
+    "timestamp" : "2024-12-22T16:38:05Z"
   }, {
     "reported_comment" : false,
     "body" : "It could happen with any bus. I usually experienced this with 250S. Waiting for around 40min in cold dark evening after work!",
     "username" : "ocean_of_lovee",
-    "timestamp" : "2024-12-22 18:38:34"
+    "timestamp" : "2024-12-22T17:38:34Z"
   }, {
     "reported_comment" : false,
     "body" : "I’ve noticed the same! This Friday, I ended up taking the 10 bus instead because three 2A buses were a no-show",
     "username" : "Unfair_Fix_1489",
-    "timestamp" : "2024-12-22 19:07:24"
+    "timestamp" : "2024-12-22T18:07:24Z"
   }, {
     "reported_comment" : false,
     "body" : "Don’t worry, next month they will increase the prices. I am sure it won’t happen again.",
     "username" : "misschaosgoddess",
-    "timestamp" : "2024-12-23 01:32:42"
+    "timestamp" : "2024-12-23T00:32:42Z"
   }, {
     "reported_comment" : false,
     "body" : "It's because if they are on a break and then go again then they go in clumps. Also due to the driversplan with 2 min apart between busses.",
     "username" : "Berg-Hansen",
-    "timestamp" : "2024-12-22 16:17:42"
+    "timestamp" : "2024-12-22T15:17:42Z"
   }, {
     "reported_comment" : false,
     "body" : "With specifically 2A, depending on where on the route you are, I'd suspect the route changes around Knippelsbro due to Børsen probably plays a role. That area turns into a gridlock as soon as anything goes wrong.\n\nIn the same general area, I remember when they were working on Blox, one morning I had to catch the bus from central station to the Black Diamond. It got as far as Christians Brygge and then it just did not move. At all. Eventually, I and several other commuters gave up, asked to be let out and walked the rest of the way.",
     "username" : "Old_Effective_915",
-    "timestamp" : "2024-12-23 10:14:30"
+    "timestamp" : "2024-12-23T09:14:30Z"
   }, {
     "reported_comment" : false,
     "body" : "It is usually caused by construction work on the roads, combined with detours, at one or more points along the route. The traffic planners who re-route the busses do what they can, but they have no influence on the construction work - they just have to try to work around it, and service as many bus stops as possible, while also trying to avoid going through the most congested places.",
     "username" : "DJpesto",
-    "timestamp" : "2024-12-23 13:48:26"
+    "timestamp" : "2024-12-23T12:48:26Z"
   }, {
     "reported_comment" : false,
     "body" : "Wild that I posted a similar post recently and got downvoted. \n\nhttps://www.reddit.com/r/copenhagen/s/I0wb0xwcnz",
     "username" : "swiftninja_",
-    "timestamp" : "2024-12-22 18:06:15"
+    "timestamp" : "2024-12-22T17:06:15Z"
   }, {
     "reported_comment" : false,
     "body" : "Oh, I'm used to normal delays but that seems more complicated. 2a is supposed to go every 8 minutes during the day, so I'm confused as to why they don't come at all for 30 minutes or more and then suddenly come in groups all at the same time.",
     "username" : "ValoMatt",
-    "timestamp" : "2024-12-22 16:20:11"
+    "timestamp" : "2024-12-22T15:20:11Z"
   }, {
     "reported_comment" : false,
     "body" : "I work at Reffen so I've been taking the bus almost every day for 6 years now and it was never that bad, outside of big events like Distortion.",
     "username" : "ValoMatt",
-    "timestamp" : "2024-12-22 16:39:04"
+    "timestamp" : "2024-12-22T15:39:04Z"
   }, {
     "reported_comment" : false,
     "body" : "Link for source?",
     "username" : "swiftninja_",
-    "timestamp" : "2024-12-23 15:22:57"
+    "timestamp" : "2024-12-23T14:22:57Z"
   }, {
     "reported_comment" : false,
     "body" : "https://preview.redd.it/v4k8zstuvf8e1.jpeg?width=1170&format=pjpg&auto=webp&s=fbfe9c380047a07a7842459ef2b2ae495ce13a4b\n\nWhat kind of bullshit excuse is “Du kan i ojeblikket opleve langere rejsetid pà ca. 30 minutter pa linje 2A. Det skyldes tat trafik”\n\n18:39 on a Sunday evening 😂😂😂",
     "username" : "swiftninja_",
-    "timestamp" : "2024-12-22 18:40:12"
+    "timestamp" : "2024-12-22T17:40:12Z"
   }, {
     "reported_comment" : false,
     "body" : "Classic case, once the first bus gets delayed, it will go slower because more people need to get on and off until the bus behind it catches up. The bus behind will conversely go a bit faster because there are less passengers because there are less new passengers at each stop since the late lead bus",
     "username" : "Grubsnik",
-    "timestamp" : "2024-12-22 16:51:07"
+    "timestamp" : "2024-12-22T15:51:07Z"
   }, {
     "reported_comment" : false,
     "body" : "I've lived in the area for 15 years. It used to be much, much worse, but I still find that it's often late or multiple busses come at once. Sounds like it's the same as always.",
     "username" : "egg_watching",
-    "timestamp" : "2024-12-22 17:29:23"
+    "timestamp" : "2024-12-22T16:29:23Z"
   }, {
     "reported_comment" : false,
     "body" : "Probably due to road construction work. The busses don't get delayed on purpose. I know this is hard to believe, but the people working with this are trying to avoid delays.\n\nThe traffic planners don't have any say in the construction works, and often are not informed by the municipality who are normally the ones building. They have to try to find alternative routes, or just accept that there are no alternatives, so the busses must go through the traffic jams that are caused by the road construction work.",
     "username" : "DJpesto",
-    "timestamp" : "2024-12-23 13:46:38"
+    "timestamp" : "2024-12-23T12:46:38Z"
   } ]
 }

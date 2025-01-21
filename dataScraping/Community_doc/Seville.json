@@ -2,14 +2,14 @@
   "id" : 200443,
   "city" : "Seville",
   "name" : "Seville",
-  "created" : "2024-01-04 21:30:08",
+  "created" : "2024-01-04T20:30:08Z",
   "post" : [ {
-    "text" : "New year, new subreddit updates!",
+    "text" : null,
     "user" : "wikichipi",
-    "timestamp" : "2024-01-04 22:30:08"
+    "timestamp" : "2024-01-04T21:30:08Z"
   }, {
-    "text" : "Bass Livestream Event, Live Now",
+    "text" : null,
     "user" : "nomarnox",
-    "timestamp" : "2024-11-16 12:30:53"
+    "timestamp" : "2024-11-04T06:11:24Z"
   } ]
 }

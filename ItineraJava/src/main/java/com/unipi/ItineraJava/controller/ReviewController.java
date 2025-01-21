@@ -18,17 +18,19 @@ public class ReviewController {
 
     @Autowired
     private ReviewService reviewService;
-    @Autowired
-    private User user;
+
+
 
     @PostMapping
     public ResponseEntity<String> addReview(
             @RequestHeader("Authorization") String token,
             @RequestBody Map<String, Object> requestBody) {
+
         try {
             String username = JwtTokenProvider.getUsernameFromToken(token);
             if(username == null) {
                 return ResponseEntity.badRequest().body("invalid token");
+
             }
             String place_name = (String) requestBody.get("place_name");
             int stars = (int) requestBody.get("stars");
@@ -39,12 +41,14 @@ public class ReviewController {
             }
 
             Review savedReview = reviewService.addReview(username, place_name, stars, text);
+
             if(savedReview == null)
                 return ResponseEntity.badRequest().body("invalid review");
 
             return ResponseEntity.ok("review correctly saved");
 
         } catch (IllegalArgumentException e) {
+
             return ResponseEntity.badRequest().body("Validation error: " + e.getMessage());
         } catch (Exception e) {
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
@@ -53,9 +57,19 @@ public class ReviewController {
     }
 
 
+    //aggiunta menco questa mappatura get 
+    // http://localhost:8080/review?city=roma&&category=hotel&&name=x
+    @GetMapping
+    public List<Review> getReviews(
+            @RequestParam String name) {
+        return ResponseEntity.ok(reviewService.getReviewsByName(name)).getBody();
+    }
+
+  
     // rimosso il prendere il nome dal token in quanto un tizio reporterebbe la sua  stessa recensione,
     //facendo quello non veniva usato l'username che era passato nella richiesta
-    @PutMapping("report")
+    @PutMapping("/report")
+
     public ResponseEntity<String> updateReview(
             @RequestHeader("Authorization") String token,
             @RequestBody Map<String, String> requestData

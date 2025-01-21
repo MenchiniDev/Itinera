@@ -15,6 +15,9 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
             "{ '$match': { 'reported': true } }", // Filtra le recensioni segnalate
             "{ '$project': { 'place_name': 1, 'user': 1, 'text': 1, 'timestamp': 1, 'stars': 1, 'reported': 1} }" // Restituisci solo i dati rilevanti
     })
-
     List<Review> findReportedComments();
+
+    @Query("{'place_name': ?0}")
+    List<Review> findByPlace(String name);
+
 }

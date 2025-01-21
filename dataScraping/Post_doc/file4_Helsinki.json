@@ -1,35 +1,35 @@
 {
   "id" : 200091,
-  "community_name" : "Helsinki",
+  "community" : "Helsinki",
   "username" : "natureisdoperight",
-  "post_body" : "Anywhere to charge an ebike?",
-  "timestamp" : "2024-12-22 09:17:51",
-  "num_comment" : 5,
-  "reported_post" : false,
+  "post" : "Anywhere to charge an ebike?",
+  "timestamp" : "2024-12-22T08:17:51Z",
+  "nomment" : 5,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "The [Kaisantunneli bike parking space](https://kaupunkiliikenne.fi/liikennointi/pyoralla/pyoratalli/) reportedly has a charging facility, free to use until they figure out how to set up payments.\n\nTo enter the facility, you need an [HSL card](https://www.hsl.fi/liput-ja-hinnat/hsl-kortti). Yes, even though HSL tells you to use their app, the only way to enter is with the card. It costs 5 euros and you don't need to buy tickets with it or top it up, you just need the card to open the door.",
     "username" : "jks",
-    "timestamp" : "2024-12-22 09:17:51"
+    "timestamp" : "2024-12-22T08:17:51Z"
   }, {
     "reported_comment" : false,
     "body" : "Looks good! I tried Tripla which also according to internet had the option but ended up with notes on the wall saying it has been paused due to fire hazard! \n\nI hope Kaisa works. Thanks! ",
     "username" : "natureisdoperight",
-    "timestamp" : "2024-12-22 09:22:08"
+    "timestamp" : "2024-12-22T08:22:08Z"
   }, {
     "reported_comment" : false,
     "body" : "Yeah, I haven't tried it myself so can't say for sure.",
     "username" : "jks",
-    "timestamp" : "2024-12-22 11:28:39"
+    "timestamp" : "2024-12-22T10:28:39Z"
   }, {
     "reported_comment" : false,
     "body" : "I saw wall sockets in the bicycle storage under Pasila railway station. This is a different location from the indoor storage in Tripla but no idea if those are available now.",
     "username" : "japalvia",
-    "timestamp" : "2024-12-22 12:32:25"
+    "timestamp" : "2024-12-22T11:32:25Z"
   }, {
     "reported_comment" : false,
     "body" : "Thanks! Worth checking out.",
     "username" : "natureisdoperight",
-    "timestamp" : "2024-12-22 16:23:02"
+    "timestamp" : "2024-12-22T15:23:02Z"
   } ]
 }

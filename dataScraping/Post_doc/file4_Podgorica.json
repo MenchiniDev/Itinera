@@ -1,10 +1,10 @@
 {
   "id" : 200252,
-  "community_name" : "Podgorica",
+  "community" : "Podgorica",
   "username" : "crazzywak",
-  "post_body" : "Where to play ping pong?",
-  "timestamp" : "2024-11-16 12:31:17",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Where to play ping pong?",
+  "timestamp" : "2024-11-04T06:11:50Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

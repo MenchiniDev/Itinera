@@ -1,60 +1,60 @@
 {
   "id" : 200278,
-  "community_name" : "Oslo",
+  "community" : "Oslo",
   "username" : "Jakob_Lundberg",
-  "post_body" : "Skal lage en kortfilm den 18. og 19. januar. Vi er i den sammenhengen på utkikk etter en leilighet vi kan filme i en av disse datoene, som har tilsvarende detaljer og stil som avbildet leilighet. Noen tips?",
-  "timestamp" : "2024-12-22 17:52:01",
-  "num_comment" : 10,
-  "reported_post" : false,
+  "post" : "Skal lage en kortfilm den 18. og 19. januar. Vi er i den sammenhengen på utkikk etter en leilighet vi kan filme i en av disse datoene, som har tilsvarende detaljer og stil som avbildet leilighet. Noen tips?",
+  "timestamp" : "2024-12-22T16:52:01Z",
+  "nomment" : 10,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Norsk Folkemuseum har en leilighet som ser veldig lik ut: [https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965](https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965)\n\nVet ikke om de tillater filminnspillinger der, men det skader jo ikke å spørre.",
     "username" : "SentientSquirrel",
-    "timestamp" : "2024-12-22 18:18:37"
+    "timestamp" : "2024-12-22T17:18:37Z"
   }, {
     "reported_comment" : false,
     "body" : "Hva betaler dere?",
     "username" : "HI_im_TroyMcClure_",
-    "timestamp" : "2024-12-22 17:52:01"
+    "timestamp" : "2024-12-22T16:52:01Z"
   }, {
     "reported_comment" : false,
     "body" : "Fett! Ser ut som leiligheten til Fleksnes",
     "username" : "vargtass_666",
-    "timestamp" : "2024-12-22 18:25:09"
+    "timestamp" : "2024-12-22T17:25:09Z"
   }, {
     "reported_comment" : false,
     "body" : "Ta kontakt med NRK Oslo, sikkert noen der som kan hjelpe dere.",
     "username" : "stonedshrimp",
-    "timestamp" : "2024-12-22 17:59:38"
+    "timestamp" : "2024-12-22T16:59:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Føles veldig Kampen:ish.",
     "username" : "Lonely_Adagio558",
-    "timestamp" : "2024-12-22 23:00:38"
+    "timestamp" : "2024-12-22T22:00:38Z"
   }, {
     "reported_comment" : false,
     "body" : "Skal dere filme i en leilighet på en søndag (19. januar)? I så fall regner jeg med at du innhenter tillatelse fra naboene rundt. Helligdagsfreden skal du ikke tulle med.",
     "username" : "QuestGalaxy",
-    "timestamp" : "2024-12-23 09:33:58"
+    "timestamp" : "2024-12-23T08:33:58Z"
   }, {
     "reported_comment" : false,
     "body" : "Om vi får planlagt støtte ser vi for oss å betale en sum på mellom 1500kr - 2500kr",
     "username" : "Jakob_Lundberg",
-    "timestamp" : "2024-12-22 18:40:49"
+    "timestamp" : "2024-12-22T17:40:49Z"
   }, {
     "reported_comment" : false,
     "body" : "Daaaay-o!",
     "username" : "mr_greenmash",
-    "timestamp" : "2024-12-23 01:06:36"
+    "timestamp" : "2024-12-23T00:06:36Z"
   }, {
     "reported_comment" : false,
     "body" : "Trodde at standard pris var 15.000kr",
     "username" : "bashnu",
-    "timestamp" : "2024-12-22 23:06:56"
+    "timestamp" : "2024-12-22T22:06:56Z"
   }, {
     "reported_comment" : false,
     "body" : "Yep.",
     "username" : "Archkat",
-    "timestamp" : "2024-12-22 23:14:15"
+    "timestamp" : "2024-12-22T22:14:15Z"
   } ]
 }

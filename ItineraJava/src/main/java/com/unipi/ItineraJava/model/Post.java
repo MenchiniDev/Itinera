@@ -8,16 +8,16 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 // POST
-@Document(collection = "posts")
+@Document(collection = "Post")
 public class Post {
     @Id
     private String id;
-    private String Community_name;
+    private String community;
     private String username;
-    private String post_body;
+    private String post;
     private String timestamp;
-    private int num_comment;
-    private boolean reported_post; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
+    private int ncomment;
+    private boolean reportedpost; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
     private List<Comment> comment;
 
     public Post() {}
@@ -27,11 +27,11 @@ public class Post {
     public void setId(String id) {
         this.id = id;
     }
-    public String getCommunity_name() {
-        return Community_name;
+    public String getCommunity() {
+        return community;
     }
-    public void setCommunity_name(String community_name) {
-        Community_name = community_name;
+    public void setCommunity(String community) {
+        this.community = community;
     }
     public String getUsername() {
         return username;
@@ -39,11 +39,11 @@ public class Post {
     public void setUsername(String username) {
         this.username = username;
     }
-    public String getPost_body() {
-        return post_body;
+    public String getPost() {
+        return post;
     }
-    public void setPost_body(String post_body) {
-        this.post_body = post_body;
+    public void setPost(String post) {
+        this.post = post;
     }
     public String getTimestamp() {
         return timestamp;
@@ -52,16 +52,16 @@ public class Post {
         this.timestamp = timestamp;
     }
     public int getNum_comment() {
-        return num_comment;
+        return ncomment;
     }
     public void setNum_comment(int num_comment) {
-        this.num_comment = num_comment;
+        this.ncomment = num_comment;
     }
     public boolean isReported_post() {
-        return reported_post;
+        return reportedpost;
     }
     public void setReported_post(boolean reported_post) {
-        this.reported_post = reported_post;
+        this.reportedpost = reported_post;
     }
     public List<Comment> getComment() {
         return comment;

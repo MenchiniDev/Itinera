@@ -1,15 +1,15 @@
 {
   "id" : 200309,
-  "community_name" : "Oslo",
+  "community" : "Oslo",
   "username" : "totorania",
-  "post_body" : "Mangler du vinyl?",
-  "timestamp" : "2024-12-23 14:23:19",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Mangler du vinyl?",
+  "timestamp" : "2024-12-23T13:23:19Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Har parkett",
     "username" : "UsernameFor2016",
-    "timestamp" : "2024-12-23 14:23:19"
+    "timestamp" : "2024-12-23T13:23:19Z"
   } ]
 }

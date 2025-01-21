@@ -1,10 +1,10 @@
 {
   "id" : 200109,
-  "community_name" : "Sarajevo",
+  "community" : "Sarajevo",
   "username" : "Relevant-Space1618",
-  "post_body" : "spiritualno ",
-  "timestamp" : "2024-11-16 12:14:11",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "spiritualno ",
+  "timestamp" : "2024-11-04T05:57:34Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

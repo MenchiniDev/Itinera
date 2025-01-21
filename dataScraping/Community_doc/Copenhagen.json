@@ -2,14 +2,14 @@
   "id" : 200444,
   "city" : "Copenhagen",
   "name" : "Copenhagen",
-  "created" : "2024-11-16 11:39:44",
+  "created" : "2024-11-04T05:20:10Z",
   "post" : [ {
-    "text" : "Scanne plade cover og trykke på sweatshirt ",
+    "text" : null,
     "user" : "Ok_Source_3977",
-    "timestamp" : "2024-11-16 12:39:44"
+    "timestamp" : "2024-11-04T06:20:10Z"
   }, {
-    "text" : "Monthly thread for advice and recommendations, December 2024 – ask your questions here!",
+    "text" : null,
     "user" : "AutoModerator",
-    "timestamp" : "2024-12-01 07:58:09"
+    "timestamp" : "2024-12-01T06:58:09Z"
   } ]
 }

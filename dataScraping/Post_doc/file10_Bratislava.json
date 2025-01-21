@@ -1,15 +1,15 @@
 {
   "id" : 200407,
-  "community_name" : "Bratislava",
+  "community" : "Bratislava",
   "username" : "gurfurfur",
-  "post_body" : "Ideas for romantic place/activity in Bratislava?",
-  "timestamp" : "2024-12-20 18:53:14",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Ideas for romantic place/activity in Bratislava?",
+  "timestamp" : "2024-12-20T17:53:14Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "Maybe this New years cruise on a ship with dinner? \nI tried something similar some time ago for Valentines day and it was very nice:\n\nhttps://www.lod.sk/en/cruises-2/vecera-na-dunaji-3/detail/new-years-cruise/",
     "username" : "Bocko_SVK",
-    "timestamp" : "2024-12-20 18:53:14"
+    "timestamp" : "2024-12-20T17:53:14Z"
   } ]
 }

@@ -1,50 +1,50 @@
 {
   "id" : 200357,
-  "community_name" : "Napoli",
+  "community" : "Napoli",
   "username" : "Disastrous_Stick_254",
-  "post_body" : "Cosa fare il 24 prima del cenone a Napoli",
-  "timestamp" : "2024-12-22 21:31:05",
-  "num_comment" : 8,
-  "reported_post" : false,
+  "post" : "Cosa fare il 24 prima del cenone a Napoli",
+  "timestamp" : "2024-12-22T20:31:05Z",
+  "nomment" : 8,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "> passeggiata il 24\n\n> piacevole\n\nPick one",
     "username" : "Ashamed-Addendum-661",
-    "timestamp" : "2024-12-22 21:31:05"
+    "timestamp" : "2024-12-22T20:31:05Z"
   }, {
     "reported_comment" : false,
     "body" : "In zona Bellini ci sarà un grande aperitivo",
     "username" : "KekkoPalu2001",
-    "timestamp" : "2024-12-22 21:54:23"
+    "timestamp" : "2024-12-22T20:54:23Z"
   }, {
     "reported_comment" : false,
     "body" : "Credo che stare in centro il 24 con tutto quel flusso di gente è solo un intossicazione.",
     "username" : "Major_Employee3087",
-    "timestamp" : "2024-12-23 02:35:05"
+    "timestamp" : "2024-12-23T01:35:05Z"
   }, {
     "reported_comment" : false,
     "body" : "up",
     "username" : "Ok-Excitement4831",
-    "timestamp" : "2024-12-23 11:10:59"
+    "timestamp" : "2024-12-23T10:10:59Z"
   }, {
     "reported_comment" : false,
     "body" : "Spara bombe finché non ti rimangono tre dita per mano.",
     "username" : "sborravosullevecchie",
-    "timestamp" : "2024-12-23 14:24:10"
+    "timestamp" : "2024-12-23T13:24:10Z"
   }, {
     "reported_comment" : false,
     "body" : "non per forza passeggiata",
     "username" : "Disastrous_Stick_254",
-    "timestamp" : "2024-12-22 21:51:58"
+    "timestamp" : "2024-12-22T20:51:58Z"
   }, {
     "reported_comment" : false,
     "body" : "da Peppe?",
     "username" : "Disastrous_Stick_254",
-    "timestamp" : "2024-12-23 11:40:10"
+    "timestamp" : "2024-12-23T10:40:10Z"
   }, {
     "reported_comment" : false,
     "body" : "eh un amico che l’anno scorso andò in zona baretti mi ha detto lo stesso",
     "username" : "Disastrous_Stick_254",
-    "timestamp" : "2024-12-23 11:40:36"
+    "timestamp" : "2024-12-23T10:40:36Z"
   } ]
 }

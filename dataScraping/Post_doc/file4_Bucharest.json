@@ -1,15 +1,15 @@
 {
   "id" : 200085,
-  "community_name" : "Bucharest",
+  "community" : "Bucharest",
   "username" : "None",
-  "post_body" : "Any good places for a solotraveler to see nature around Bucharest?",
-  "timestamp" : "2022-07-31 16:38:10",
-  "num_comment" : 1,
-  "reported_post" : false,
+  "post" : "Any good places for a solotraveler to see nature around Bucharest?",
+  "timestamp" : "2022-07-31T14:38:10Z",
+  "nomment" : 1,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "There's always the parks, like Herastrau and Cismigiu. It's always nice to go there, they're fairly large parks and both of them have lakes and loads of activities. ",
     "username" : "thesorsbyzone",
-    "timestamp" : "2022-07-31 16:38:10"
+    "timestamp" : "2022-07-31T14:38:10Z"
   } ]
 }

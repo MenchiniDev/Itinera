@@ -1,10 +1,10 @@
 {
   "id" : 200119,
-  "community_name" : "Brussels",
+  "community" : "Brussels",
   "username" : "Dudemeier",
-  "post_body" : "Parking space for small trailer over weekend",
-  "timestamp" : "2024-11-16 12:15:07",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "Parking space for small trailer over weekend",
+  "timestamp" : "2024-11-04T05:58:32Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

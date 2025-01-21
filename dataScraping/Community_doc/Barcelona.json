@@ -2,14 +2,14 @@
   "id" : 200461,
   "city" : "Barcelona",
   "name" : "Barcelona",
-  "created" : "2024-11-16 11:14:13",
+  "created" : "2024-11-04T04:57:37Z",
   "post" : [ {
-    "text" : "Got a question about Barcelona? Post in /r/AskBarcelona!",
+    "text" : null,
     "user" : "un_redditor",
-    "timestamp" : "2024-11-16 12:14:13"
+    "timestamp" : "2024-11-04T05:57:37Z"
   }, {
-    "text" : "Un policia desenfunda la seva pistola en el desnonament de Verdum",
+    "text" : null,
     "user" : "aniol",
-    "timestamp" : "2024-12-20 10:37:50"
+    "timestamp" : "2024-12-20T09:37:50Z"
   } ]
 }

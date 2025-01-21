@@ -1,30 +1,30 @@
 {
   "id" : 200391,
-  "community_name" : "Monaco",
+  "community" : "Monaco",
   "username" : "Weird_Ad_6445",
-  "post_body" : "Do most hotels close during the winter months?",
-  "timestamp" : "2024-12-23 09:53:02",
-  "num_comment" : 4,
-  "reported_post" : false,
+  "post" : "Do most hotels close during the winter months?",
+  "timestamp" : "2024-12-23T08:53:02Z",
+  "nomment" : 4,
+  "reportedpost" : false,
   "comment" : [ {
     "reported_comment" : false,
     "body" : "There are indeed some seasonal hotel, but there are plenty of options open. Depending on your budget.",
     "username" : "issoequeerabom",
-    "timestamp" : "2024-12-23 09:53:02"
+    "timestamp" : "2024-12-23T08:53:02Z"
   }, {
     "reported_comment" : false,
     "body" : "Maybourne Riviera is open all year round and so is Cap d'Estel. Hotels that close for the winter (like MC Beach Hotel) will already be closed by now, usually they close in October/November. \n\nI suggest Ceto (the Maybourne Riviera restaurant) for a good restaurant with a view, and I suggest to go for lunch because it's much nicer. You can also go to Mirazur which is owned by the same chef. \n\nThere is also the classic Chevre d'Or, food is kind of classic French and not my favourite for that kind of place, but the views are stunning too.\n\nThe Grill in Hotel de Paris has a beautiful view too, especially form the side terrace where you have the private dining room.",
     "username" : "Vast_Decision3680",
-    "timestamp" : "2024-12-23 10:49:30"
+    "timestamp" : "2024-12-23T09:49:30Z"
   }, {
     "reported_comment" : false,
     "body" : "It says the Maybourne Riviera is closed January 20 until June on its website. Also no booking availability for dining or rooms on Cap Estel. Thank you for the alternative suggestions! ",
     "username" : "Weird_Ad_6445",
-    "timestamp" : "2024-12-23 13:48:53"
+    "timestamp" : "2024-12-23T12:48:53Z"
   }, {
     "reported_comment" : false,
     "body" : "Well, I heard they have some issues with the municipality because they built stuff not according to regulations so maybe they are closing for some renovation. Otherwise there's the risk of permanent closure.",
     "username" : "Vast_Decision3680",
-    "timestamp" : "2024-12-23 14:17:14"
+    "timestamp" : "2024-12-23T13:17:14Z"
   } ]
 }

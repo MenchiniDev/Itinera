@@ -1,10 +1,10 @@
 {
   "id" : 200027,
-  "community_name" : "Bucharest",
+  "community" : "Bucharest",
   "username" : "intereconomic",
-  "post_body" : "VINO ÎN LOCUL UNDE VESTUL ÎNTÂLNEȘTE ESTUL, VIZITEAZĂ BUCUREȘTI!",
-  "timestamp" : "2024-11-16 12:04:19",
-  "num_comment" : 0,
-  "reported_post" : false,
+  "post" : "VINO ÎN LOCUL UNDE VESTUL ÎNTÂLNEȘTE ESTUL, VIZITEAZĂ BUCUREȘTI!",
+  "timestamp" : "2024-11-04T05:48:30Z",
+  "nomment" : 0,
+  "reportedpost" : false,
   "comment" : [ ]
 }

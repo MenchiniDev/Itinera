@@ -8,10 +8,11 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 
+
 import com.mongodb.client.result.UpdateResult;
 import com.unipi.ItineraJava.model.*;
 import com.unipi.ItineraJava.repository.PostRepository;
-import jdk.jfr.Timestamp;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
@@ -20,9 +21,15 @@ import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import com.mongodb.client.result.UpdateResult;
 import com.unipi.ItineraJava.exception.ResourceNotFoundException;
+import com.unipi.ItineraJava.model.Comment;
+import com.unipi.ItineraJava.model.MongoCommunity;
+import com.unipi.ItineraJava.model.Post;
+import com.unipi.ItineraJava.model.PostSummary;
 import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
 import com.unipi.ItineraJava.repository.CommunityRepository;
+import com.unipi.ItineraJava.repository.PostRepository;
 
 @Service
 public class CommunityService {
@@ -111,11 +118,40 @@ public class CommunityService {
         System.out.println("User " + username + " successfully joined community: " + city);
     }
 
+
+    public String getMostActiveUserByCommunity(String username, String city) {
+
+        // Verifica se la community esiste
+        if (!communityNeo4jRepository.existsByCity(city)) {
+            throw new IllegalArgumentException("Community not found: " + city);
+        }
+
+        // Verifica se l'utente è un membro della community
+        if (!communityNeo4jRepository.isAlreadyJoined(username, city)) {
+            throw new IllegalStateException("User " + username + " has not joined the community: " + city);
+        }
+
+        // Recupera l'utente più attivo
+        return communityNeo4jRepository.findMostActiveUserByCommunity(city);
+    }
+
+
+    public String getMostActiveCommunity(){
+        return communityNeo4jRepository.findMostActiveCommunity();
+    }
+
+    public Long getPostCountInCommunity(String city) {
+        return communityNeo4jRepository.countPostsInCommunity(city);
+    }
+
+
+    //////////
+
     public ResponseEntity<String> updateCommunity(String username, String text, String name) {
         try {
             Post post = new Post();
-            post.setPost_body(text);
-            post.setCommunity_name(name);
+            post.setPost(text);
+            post.setCommunity(name);
             post.setUsername(username);
 
             String currentTimestamp = LocalDateTime.now()
@@ -125,7 +161,7 @@ public class CommunityService {
             post.setNum_comment(0);
             post.setReported_post(false);
             post.setComment(null);
-            userService.updateLastPost(username,post.getPost_body());
+            userService.updateLastPost(username,post.getPost());
 
             PostSummary postSummary = new PostSummary();
             postSummary.setUser(username);
@@ -142,20 +178,22 @@ public class CommunityService {
     }
     public boolean updateByPost(String name, PostSummary postSummary) {
             Query query = new Query(Criteria.where("name").is(name));
-            Update update = new Update().push("posts", postSummary);
+            Update update = new Update().push("post", postSummary);
 
             UpdateResult result = mongoTemplate.updateFirst(query, update, MongoCommunity.class);
 
             return result.getModifiedCount() > 0;
     }
 
-    public boolean existsCommunity(String name) {
-        return communityRepository.findByCity(name);
+    public Boolean existsCommunity(String name) {
+        return communityRepository.existsByCity(name);
     }
 
     public Post addCommentToPost(String postUsername, String postTimestamp, String commenterUsername, Comment comment) {
 
+        comment.setReported(false);
         Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
+        System.out.println(post);
 
         if (post != null) {
             comment.setUser(commenterUsername);

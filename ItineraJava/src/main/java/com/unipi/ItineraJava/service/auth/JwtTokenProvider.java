@@ -71,12 +71,15 @@ public class JwtTokenProvider {
 
 
     public static String getUsernameFromToken(String token) {
-        if(token !=null && token.startsWith("Bearer ")) {
-            token = token.substring(7).trim();
+
+        if (token != null && token.startsWith("Bearer ")) {
+            token = token.substring(7).trim(); // Rimuove "Bearer " e gli eventuali spazi
+
         }
         try {
-            return Jwts.parser()
+            return Jwts.parserBuilder()
                     .setSigningKey(secretKey)
+                    .build()
                     .parseClaimsJws(token)
                     .getBody()
                     .getSubject();  // Restituisce il nome utente

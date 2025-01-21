@@ -14,7 +14,7 @@ public class MongoPlace {
     private String address;
     private String city;
     private String category; // Hotel, Restaurant, Monument
-    private List<ReviewSummary> reviews_info;
+    private ReviewSummary reviews_info;
 
 
     public String getId() {
@@ -57,21 +57,11 @@ public class MongoPlace {
         this.address = address;
     }
 
-    public List<ReviewSummary> getReviews() {
+    public ReviewSummary getReviews() {
         return reviews_info;
     }
 
-    public void setReviews(List<ReviewSummary> reviews) {
+    public void setReviews(ReviewSummary reviews) {
         this.reviews_info = reviews;
-    }
-
-    public Double calculateAverageRating() {
-        if (reviews_info == null || reviews_info.isEmpty()) {
-            return 0.0;
-        }
-        return reviews_info.stream()
-                .mapToDouble(ReviewSummary::getAverageRating)
-                .average()
-                .orElse(0.0);
     }
 }
