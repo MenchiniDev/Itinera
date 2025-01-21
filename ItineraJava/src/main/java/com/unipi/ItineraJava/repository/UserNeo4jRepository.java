@@ -90,7 +90,7 @@ public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
         WITH row.post AS post, row.community AS community
         WHERE post IS NOT NULL
 
-        RETURN post.`id`       AS id,
+        RETURN post.postId       AS postId,
                post.preview   AS preview,
                community.city AS community
 
@@ -106,11 +106,11 @@ public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
         ORDER BY r
         LIMIT 10
 
-        RETURN randomPost.`id`      AS id,
+        RETURN randomPost.postId      AS postId,
                randomPost.preview AS preview,
                rc.city            AS community
     }
-    RETURN id, preview, community
+    RETURN postId, preview, community
     """)
     List<PostSuggestionDto> findSuggestedPosts(@Param("username") String username);
 
