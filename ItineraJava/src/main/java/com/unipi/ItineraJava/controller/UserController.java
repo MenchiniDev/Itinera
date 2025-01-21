@@ -27,6 +27,7 @@ import com.unipi.ItineraJava.DTO.SignupRequest;
 import com.unipi.ItineraJava.model.CommunityGraph;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.model.Last_post;
+import com.unipi.ItineraJava.model.UserGraph;
 import com.unipi.ItineraJava.repository.UserNeo4jRepository;
 import com.unipi.ItineraJava.repository.UserRepository;
 import com.unipi.ItineraJava.service.UserService;
