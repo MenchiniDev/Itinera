@@ -96,31 +96,38 @@ class CommunityController {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(e.getMessage());
         }
     }
+
+    // mi restituisce a caso 403
     @PutMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
             @PathVariable String username, // of the post replying
             @RequestBody String timestamp,// of the post replying
             @RequestBody String comment_body) {
+        try {
+            String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
+            System.out.println(commenterUsername);
+            if (commenterUsername == null)
+                return ResponseEntity.internalServerError().body("token invalid");
 
-        String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
-        System.out.println(commenterUsername);
-        if (commenterUsername == null)
-            return ResponseEntity.internalServerError().body("token invalid");
+            Comment comment = new Comment();
+            comment.setUser(commenterUsername);
+            comment.setTimestamp(LocalDateTime.now());
+            comment.setText(comment_body);
+            comment.setReported(false);
 
-        Comment comment = new Comment();
-        comment.setUser(commenterUsername);
-        comment.setTimestamp(LocalDateTime.now());
-        comment.setText(comment_body);
-        comment.setReported(false);
+            Post updatedPost = communityService.addCommentToPost(username, timestamp, commenterUsername, comment);
 
-        Post updatedPost = communityService.addCommentToPost(username, timestamp, commenterUsername, comment);
+            if (updatedPost != null) {
+                return ResponseEntity.ok("Commento aggiunto");
+            }
 
-        if (updatedPost != null) {
-            return ResponseEntity.ok("Commento aggiunto");
+            return ResponseEntity.notFound().build();
         }
-
-        return ResponseEntity.notFound().build();
+        catch (Exception e) {
+            e.printStackTrace();
+            return ResponseEntity.internalServerError().body(e.getMessage());
+        }
     }
 
 

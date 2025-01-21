@@ -21,8 +21,8 @@ public interface CommunityRepository extends MongoRepository<MongoCommunity, Str
 
         MongoCommunity save(MongoCommunity community);
 
-        @Query("{ 'city': { $regex: '^?0$', $options: 'i' } }")
-        boolean findByCity(String city);
+        //@Query("{ 'city': { $regex: '^?0$', $options: 'i' } }")
+        MongoCommunity findByCity(String city);
 
         boolean existsByCity(String city);
 

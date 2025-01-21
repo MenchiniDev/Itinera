@@ -7,8 +7,10 @@ import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
@@ -23,34 +25,29 @@ public class PlaceService {
     private CommunityRepository communityRepository;
 
     private JwtTokenProvider jwtTokenProvider;
-
+    @Autowired
+    private RestTemplateAutoConfiguration restTemplateAutoConfiguration;
 
 
     public List<MongoPlace> getBestPlacesByCity(String city) {
-        if(Boolean.TRUE.equals(findCity(city))) {
-            System.out.println("la città" + city + "esiste");
-            return placeRepository.findByCityOrderByOverallRatingDesc(city);
+        try {
+            List<MongoPlace> place;
+            place = placeRepository.findByCity(city);
+            if (place.isEmpty())
+                    return null;
+            else
+                return placeRepository.findByCityOrderByOverallRatingDesc(city);
+        }catch (Exception e){
+            e.printStackTrace();
+            return null;
         }
-        else return Collections.emptyList();
     }
+
 
 
 
     public List<MongoPlace> getPlacesByCityAndCategory(String city, String category) {
-        if(Boolean.TRUE.equals(findCity(city)) && Boolean.TRUE.equals(existsCategory(category))) {
-            System.out.println("la città" + city + "esiste");
             return placeRepository.findByCityAndCategoryOrderByOverallRating(city, category);
-        }
-        else return Collections.emptyList();
-    }
-
-    private Boolean findCity(String city) {
-        try {
-            return communityRepository.findByCity(city);
-        } catch (Exception e)
-        {
-            return null;
-        }
     }
 
     private Boolean existsCategory(String category) {
@@ -68,22 +65,11 @@ public class PlaceService {
 
         // Filtra i luoghi basandoti sul rating medio calcolato
         return mongoPlaces.stream()
-                .filter(place -> place.calculateAverageRating() >= minRating)
+                .filter(place -> place.getReviews().getOverall_rating() >= minRating)
                 .toList();
     }
 
 
 
-    public List<Review> getReviewsByCityCategoryAndName(String city, String category, String name) {
-        try {
-            List<Review> reviews = placeRepository.getReviewsByCityCategoryAndName(city, category, name);
-            return reviews.stream()
-                    .sorted(Comparator.comparingInt(Review::getStars).reversed())
-                    .toList();
 
-        } catch (Exception e) {
-            System.err.println("Error happened retrieving reviews: " + e.getMessage());
-            return List.of();
-        }
-    }
 }
