@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.repository;
 
 import com.unipi.ItineraJava.DTO.PostDTO;
+import com.unipi.ItineraJava.DTO.PostSummaryDto;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import org.springframework.cglib.core.Local;
@@ -8,6 +9,7 @@ import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
@@ -16,8 +18,8 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Post findByUsernameAndTimestamp(String postUsername, String postTimestamp);
 
 
-    @Query("{ 'timestamp': ?0, 'username': ?1, 'community': ?2 }")
-    Optional<PostDTO> findPostByTimestampAndUsernameAndCommunity(String timestamp, String username, String community);
+    @Query("{ 'username': ?0, 'community': ?1 }")
+    Optional<PostDTO> findPostByTimestampAndUsernameAndCommunity(String username, String community);
 
 
 
@@ -34,5 +36,20 @@ public interface PostRepository extends MongoRepository<Post, String> {
     @Query(value = "{ '_id': ?0 }")
     Optional<PostDTO> getPostById(String id);
 
+
+    List<Post> findByCommunity(String communityName);
+
+    @Aggregation(pipeline = {
+            "{ '$match': { 'reportedpost': true } }", // Filtra solo i post segnalati
+            "{ '$addFields': { 'reportedComments': { '$size': { '$filter': { " +
+                    "       'input': '$comment', " +
+                    "       'as': 'c', " +
+                    "       'cond': { '$eq': ['$$c.reported', true] } " +
+                    "   } } } } }", // Conta i commenti segnalati
+            "{ '$sort': { 'reportedComments': -1 } }", // Ordina per numero di commenti segnalati (decrescente)
+            "{ '$limit': 10 }", // Limita ai 10 post con più commenti segnalati
+            "{ '$project': { '_id': 0, 'id': '$_id', 'community': 1, 'username': 1, 'post': 1, 'reportedComments': 1, 'timestamp': 1 } }" // Proietta i campi necessari
+    })
+    List<PostSummaryDto> findTopReportedPostsByCommentCount();
 
 }

@@ -1,7 +1,9 @@
 package com.unipi.ItineraJava.repository;
 
+import java.util.List;
 import java.util.Optional;
 
+import com.unipi.ItineraJava.DTO.ActiveUserDTO;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query; // b
@@ -32,10 +34,30 @@ public interface UserRepository extends MongoRepository<User, String> {
     long countPostsByUser(String username);
 
     @Aggregation(pipeline = {
-            "{ $unwind: '$commenti' }",                  // Srotola la lista di commenti
+            "{ $unwind: '$comment' }",                  // Srotola la lista di commenti
             "{ $match: { 'commenti.user': ?0 } }",       // Filtro per l'utente specificato nei commenti
-            "{ $group: { _id: '$commenti.user', commentCount: { $sum: 1 } } }"  // Conta il numero di commenti
+            "{ $group: { _id: '$comment.user', commentCount: { $sum: 1 } } }"  // Conta il numero di commenti
     })
     long countCommentsByUser(String username);
+
+    @Aggregation(pipeline = {
+            "{ '$addFields': { " +
+                    "   'activityScore': { '$add': [ " +
+                    "       { '$multiply': ['$postCount', 2] }, " + // Ponderazione: post pesano il doppio
+                    "       '$commentCount' ] } } }", // Somma pesata di post e commenti
+            "{ '$match': { 'active': true } }", // Considera solo utenti attivi
+            "{ '$sort': { 'activityScore': -1 } }", // Ordina per punteggio decrescente
+            "{ '$limit': 10 }", // Limita ai 10 utenti più attivi
+            "{ '$project': { " +
+                    "   '_id': 0, " +
+                    "   'username': 1, " +
+                    "   'email': 1, " +
+                    "   'activityScore': 1, " +
+                    "   'postCount': 1, " +
+                    "   'commentCount': 1 } }" // Proietta i campi necessari
+    })
+    List<ActiveUserDTO> findTopActiveUsers();
+
+    boolean deleteByUsername(String username);
 }
 

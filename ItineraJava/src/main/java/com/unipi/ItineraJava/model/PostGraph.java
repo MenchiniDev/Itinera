@@ -33,11 +33,11 @@ public class PostGraph {
         this.timestamp = timestamp;
     }
 
-    public Long getId() {
+    public Long getPostId() {
         return postId;
     }
 
-    public void setId(Long id) {
+    public void setPostId(Long id) {
         this.postId = id;
     }
 

@@ -152,5 +152,13 @@ public class UserService{
     public List<PostSuggestionDto> getSuggestedPosts(String username) {
         return userNeo4jRepository.findSuggestedPosts(username);
     }
-  
+
+    public boolean deleteByUsername(String username) {
+        return userRepository.deleteByUsername(username);
+    }
+
+    public List<ActiveUserDTO> findTopActiveUsers()
+    {
+        return userRepository.findTopActiveUsers();
+    }
 }

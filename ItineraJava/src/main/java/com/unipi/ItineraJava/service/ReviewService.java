@@ -1,5 +1,6 @@
 package com.unipi.ItineraJava.service;
 
+import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import com.unipi.ItineraJava.repository.ReviewRepository;
@@ -97,6 +98,7 @@ public class ReviewService {
     }
 
 
+
     public String deleteReview(String reviewId) {
         // Cerca la review per ottenere i dettagli
         Review review = reviewRepository.findById(reviewId)
@@ -130,6 +132,9 @@ public class ReviewService {
 
 
 
-
+    public List<ControversialPlaceDTO> findControversialPlaces()
+    {
+        return reviewRepository.findMostControversialPlaces();
+    }
 
 }
