@@ -4,15 +4,15 @@
   "username" : "Terrible-Business-67",
   "post" : "Student ID Auschwitz",
   "timestamp" : "2024-12-23T06:13:36Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Student visa is not valid student ID. Maybe it'll work, but be prepared to pay difference in price of normal and student ticket.",
     "username" : "Koordian",
     "timestamp" : "2024-12-23T06:13:36Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Worth to give a try",
     "username" : "v1rotatev2",
     "timestamp" : "2024-12-23T09:04:46Z"

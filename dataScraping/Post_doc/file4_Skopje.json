@@ -4,20 +4,20 @@
   "username" : "bigchoppa762",
   "post" : "Techno clubs Skopje",
   "timestamp" : "2024-11-30T00:37:15Z",
-  "nomment" : 3,
+  "numcomment" : 3,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Epicentar and minus 1. \nClub1212 is sometimes good as well",
     "username" : "unrelated89",
     "timestamp" : "2024-11-30T00:37:15Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Wasnt there some drama with club1212 recently,like the bouncer beating random people?",
     "username" : "claw1919",
     "timestamp" : "2024-12-14T23:47:57Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "No idea tbh",
     "username" : "unrelated89",
     "timestamp" : "2024-12-15T00:15:37Z"

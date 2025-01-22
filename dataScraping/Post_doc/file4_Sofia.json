@@ -4,10 +4,10 @@
   "username" : "Skuchubra",
   "post" : "Търся бижутерия Ge Oro",
   "timestamp" : "2024-12-21T14:07:14Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "В Парадайс мол има",
     "username" : "Going-Bananas-here",
     "timestamp" : "2024-12-21T14:07:14Z"

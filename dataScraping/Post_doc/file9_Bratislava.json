@@ -4,15 +4,15 @@
   "username" : "HolidayJacket1728",
   "post" : "Raves in Bratislava NYE?",
   "timestamp" : "2024-12-21T21:06:22Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Subdeck",
     "username" : "Mediocre-Buffalo-876",
     "timestamp" : "2024-12-21T21:06:22Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Nová Cvernovka",
     "username" : "Particular-Doubt-119",
     "timestamp" : "2024-12-22T15:49:58Z"

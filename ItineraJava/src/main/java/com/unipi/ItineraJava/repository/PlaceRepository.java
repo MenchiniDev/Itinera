@@ -5,6 +5,7 @@ import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import com.unipi.ItineraJava.model.*;
 import org.springframework.data.mongodb.repository.Query;
+import org.springframework.data.mongodb.repository.Update;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -43,5 +44,11 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     void calculateReviewSummary();
 
     List<MongoPlace> findByCity(String city);
+
+    @Query("{ 'name': ?0 }")
+    @Update("{ '$inc': { 'reviews_info.tot_rev_number': -1 } }")
+    void decrementReviewCount(String placeName);
+
+
 }
 

@@ -4,20 +4,20 @@
   "username" : "Salty-Cartoonist-155",
   "post" : "Titre restaurant ",
   "timestamp" : "2024-12-19T20:03:21Z",
-  "nomment" : 3,
+  "numcomment" : 3,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Oui ;) les tickets restaurants papiers comme la carte edenred !",
     "username" : "vilo236",
     "timestamp" : "2024-12-19T20:03:21Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Ça marche dans l’autre sens aussi? Les tickets restaurant FR pour payer à Monaco? Pour payer ma baguette de pain ? 🥖",
     "username" : "StoreWeak5292",
     "timestamp" : "2024-12-19T21:33:03Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "C'est étrangement spécifique mais oui aussi !",
     "username" : "vilo236",
     "timestamp" : "2024-12-20T05:13:25Z"

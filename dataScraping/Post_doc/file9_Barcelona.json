@@ -4,15 +4,15 @@
   "username" : "Excellent_Meet9410",
   "post" : "La Rambla Artista",
   "timestamp" : "2024-12-23T09:58:25Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Don't go to that area at all these days but if I do for xmas will keep an eye out for a kiwi. Cheers",
     "username" : "dGonzo",
     "timestamp" : "2024-12-23T09:58:25Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "![gif](giphy|6y6fyAD9OIE6NvhJEu)",
     "username" : "nychearts812",
     "timestamp" : "2024-12-23T10:25:55Z"

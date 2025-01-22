@@ -4,10 +4,10 @@
   "username" : "Dry-Meet-9956",
   "post" : "Im coming to montenegro",
   "timestamp" : "2024-08-19T01:10:06Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "get lost",
     "username" : "mon10egro",
     "timestamp" : "2024-08-19T01:10:06Z"

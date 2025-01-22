@@ -4,15 +4,15 @@
   "username" : "Stockton_Steroids",
   "post" : "Solo travelling",
   "timestamp" : "2024-12-22T07:37:10Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Doing it right now I would say Christmas market",
     "username" : "Gravelayer",
     "timestamp" : "2024-12-22T07:37:10Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Christmas market got spot, skunu iela street bars, karaoke bars at Hard Rock Cafe",
     "username" : "ContributionPlane863",
     "timestamp" : "2024-12-22T17:01:59Z"

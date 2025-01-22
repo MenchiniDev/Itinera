@@ -4,10 +4,10 @@
   "username" : "nina-art",
   "post" : "prizren",
   "timestamp" : "2024-08-15T08:09:27Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "pogledaj na sajtu bus4me",
     "username" : "mrbrightside-987",
     "timestamp" : "2024-08-15T08:09:27Z"

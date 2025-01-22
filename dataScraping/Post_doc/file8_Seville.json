@@ -4,15 +4,15 @@
   "username" : "9kSs",
   "post" : "Where can I get a good woolen sweater?",
   "timestamp" : "2024-12-23T10:05:15Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "El corte inglés",
     "username" : "Zealousideal_West_16",
     "timestamp" : "2024-12-23T10:18:30Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Online",
     "username" : "Zealousideal_West_16",
     "timestamp" : "2024-12-23T10:05:15Z"

@@ -4,10 +4,10 @@
   "username" : "lunetown",
   "post" : "alternative hair salons?",
   "timestamp" : "2024-12-23T13:58:34Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Bubble Factory seem like they’d do the style you have in mind, never been there though",
     "username" : "succubus-witch",
     "timestamp" : "2024-12-23T13:58:34Z"

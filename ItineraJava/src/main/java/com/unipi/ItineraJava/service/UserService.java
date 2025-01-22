@@ -54,7 +54,10 @@ public class UserService{
 
     public void deleteById(String id) {
         userRepository.deleteById(id);
-        
+        User user = userRepository.findById(id)
+                .orElseThrow(() -> new IllegalArgumentException("User not found with id: " + id));
+        String username = user.getUsername();
+        userNeo4jRepository.deleteUserNode(username);
 
     }
 

@@ -4,10 +4,10 @@
   "username" : "Nor_Cal_Native",
   "post" : "Visiting for New Years!",
   "timestamp" : "2021-12-23T00:21:03Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Subs dead try r/eesti",
     "username" : "aregularhumanperson",
     "timestamp" : "2021-12-23T00:21:03Z"

@@ -4,15 +4,15 @@
   "username" : "Itskikib",
   "post" : "Looking for a cooking class that is not Paella... any suggestions?",
   "timestamp" : "2024-12-21T18:52:02Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "There's a company called La Vida ES which does non touristy things for people visiting. They organise Spanish classes with Andalucian cooking for families. \n\nhttps://www.instagram.com/p/CpQmwsSAHdG/",
     "username" : "BoNidle",
     "timestamp" : "2024-12-21T18:52:02Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Thank you so much!",
     "username" : "Itskikib",
     "timestamp" : "2024-12-21T19:05:21Z"

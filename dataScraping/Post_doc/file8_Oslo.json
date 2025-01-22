@@ -4,10 +4,10 @@
   "username" : "totorania",
   "post" : "Mangler du vinyl?",
   "timestamp" : "2024-12-23T13:23:19Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Har parkett",
     "username" : "UsernameFor2016",
     "timestamp" : "2024-12-23T13:23:19Z"

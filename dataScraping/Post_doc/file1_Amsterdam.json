@@ -4,35 +4,35 @@
   "username" : "bilowski",
   "post" : "Amsterdam, under the bridge.",
   "timestamp" : "2024-12-23T13:00:22Z",
-  "nomment" : 6,
+  "numcomment" : 6,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Awesome photos, you got talent!",
     "username" : "LockStockNL",
     "timestamp" : "2024-12-23T13:00:22Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "You, sir, are a photographer!",
     "username" : "justforredditinghere",
     "timestamp" : "2024-12-23T13:35:39Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Epic shots, well done!",
     "username" : "Zealousideal-Smoke44",
     "timestamp" : "2024-12-23T14:21:50Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "What camera did you use?",
     "username" : "vleeslucht",
     "timestamp" : "2024-12-23T13:19:01Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Thanks, it’s a hobby more or less but do aim at creating solid pictures.",
     "username" : "bilowski",
     "timestamp" : "2024-12-23T14:17:39Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Canon RP with either a 35mm f/1.8 or a 24-105 mm f/2.8 lens.",
     "username" : "bilowski",
     "timestamp" : "2024-12-23T13:43:27Z"

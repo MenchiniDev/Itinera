@@ -4,10 +4,10 @@
   "username" : "Evidencebasedbro",
   "post" : "Ermittlungen in Berlin: 20-Jähriger stirbt nach Unfall auf Weihnachtsmarkt",
   "timestamp" : "2024-12-23T12:01:32Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Ein einziges Flatterband hätte ein Leben gerettet.",
     "username" : "AndiArbyte",
     "timestamp" : "2024-12-23T12:01:32Z"
