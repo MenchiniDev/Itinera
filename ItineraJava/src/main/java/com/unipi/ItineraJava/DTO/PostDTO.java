@@ -1,6 +1,5 @@
 package com.unipi.ItineraJava.DTO;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
 import com.unipi.ItineraJava.model.Comment;
 import org.springframework.data.mongodb.core.mapping.Document;
 
@@ -13,8 +12,8 @@ public class PostDTO {
     private String community;
     private String username;
     private String post;
-    @JsonFormat(shape = JsonFormat.Shape.STRING)
-    private String timestamp; // Campo come LocalDateTime
+    //@JsonFormat(shape = JsonFormat.Shape.STRING)
+    private LocalDateTime timestamp; // Campo come LocalDateTime
     private int ncomment;
     private boolean reported_post;
     private List<Comment> comment;
@@ -45,11 +44,11 @@ public class PostDTO {
     public void setPost(String post) {
         this.post = post;
     }
-    public String getTimestamp() {
-        return String.valueOf(timestamp);
+    public LocalDateTime getTimestamp() {
+        return timestamp;
     }
     public void setTimestamp(LocalDateTime timestamp) {
-        this.timestamp = String.valueOf(timestamp);
+        this.timestamp = timestamp;
     }
     public int getNcomment() {
         return ncomment;

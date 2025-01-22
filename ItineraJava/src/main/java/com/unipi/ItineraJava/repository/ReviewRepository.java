@@ -5,6 +5,7 @@ import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;
+import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
 
 import java.util.List;
 
@@ -19,5 +20,40 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
 
     @Query("{'place_name': ?0}")
     List<Review> findByPlace(String name);
+
+    //todo: architettura
+    @Aggregation(pipeline = {
+            "{ '$match': { 'reported': false } }", // Esclude recensioni segnalate
+            "{ '$group': { " +
+                    "     '_id': '$placeId', " +
+                    "     'placeName': { '$first': '$placeName' }, " +
+                    "     'placeCategory': { '$first': '$placeCategory' }, " +
+                    "     'averageStars': { '$avg': '$stars' }, " +
+                    "     'standardDeviation': { '$stdDevPop': '$stars' }, " +
+                    "     'reviews': { '$push': { 'stars': '$stars', 'text': '$text' } }" +
+                    "} }", // Raggruppa per luogo e calcola deviazione standard
+            "{ '$addFields': { 'variance': { '$pow': ['$standardDeviation', 2] } } }", // Calcola la varianza
+            "{ '$sort': { 'placeCategory': 1, 'variance': -1 } }", // Ordina per categoria e varianza decrescente
+            "{ '$group': { " +
+                    "     '_id': '$placeCategory', " +
+                    "     'mostControversial': { '$first': { " +
+                    "         'id': '$_id', " +
+                    "         'name': '$placeName', " +
+                    "         'category': '$placeCategory', " +
+                    "         'variance': '$variance', " +
+                    "         'averageStars': '$averageStars', " +
+                    "         'reviews': '$reviews' } } }" +
+                    "}", // Raggruppa per categoria, scegliendo il luogo più controverso
+            "{ '$project': { " +
+                    "     '_id': 0, " +
+                    "     'category': '$_id', " +
+                    "     'id': '$mostControversial.id', " +
+                    "     'name': '$mostControversial.name', " +
+                    "     'variance': '$mostControversial.variance', " +
+                    "     'averageStars': '$mostControversial.averageStars', " +
+                    "     'reviews': '$mostControversial.reviews' } }" // Proietta i risultati finali
+    })
+    List<ControversialPlaceDTO> findMostControversialPlaces();
+
 
 }
