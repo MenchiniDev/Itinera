@@ -124,5 +124,9 @@ public class PostService {
     public List<Comment> showCommentReported() {
         return postRepository.findReportedComments();
     }
+
+    public List<Post> findByCommunity(String communityName) {
+        return postRepository.findByCommunity(communityName);
+    }
 }
 

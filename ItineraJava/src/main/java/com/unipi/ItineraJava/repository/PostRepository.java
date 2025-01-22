@@ -36,4 +36,5 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Optional<PostDTO> getPostById(String id);
 
 
+    List<Post> findByCommunity(String communityName);
 }
