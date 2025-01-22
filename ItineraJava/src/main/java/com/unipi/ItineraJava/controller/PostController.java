@@ -6,6 +6,7 @@ import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.User;
+import com.unipi.ItineraJava.service.CommunityService;
 import com.unipi.ItineraJava.service.PostService;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,12 +21,18 @@ import java.util.Optional;
 class PostController {
     @Autowired
     private PostService postService;
+    @Autowired
+    private CommunityService communityService;
 
     // http://localhost:8080/posts
     // returns all posts
-    @GetMapping
-    public List<Post> getAllPosts() {
-        return postService.findAll();
+    @GetMapping("/{communityName}")
+    public List<Post> getAllPosts(@PathVariable String communityName) {
+        if(communityName==null || communityName.isEmpty() || !communityService.existsCommunity(communityName)) {
+            return null;
+        }else {
+            return postService.findByCommunity(communityName);
+        }
     }
 
     // http://localhost:8080/posts/678e56991a6dfb7aa1fbc30a
