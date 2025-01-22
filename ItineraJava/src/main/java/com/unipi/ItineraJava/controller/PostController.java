@@ -28,7 +28,7 @@ class PostController {
     private CommunityService communityService;
 
     // http://localhost:8080/posts
-    // returns all posts
+    // returns all posts of a community
     @GetMapping("/{communityName}")
     public List<Post> getAllPosts(@PathVariable String communityName) {
         if(communityName==null || communityName.isEmpty() || !communityService.existsCommunity(communityName)) {
@@ -40,10 +40,11 @@ class PostController {
 
     // http://localhost:8080/posts/678e56991a6dfb7aa1fbc30a
     // todo: indebuggabile
+    /*
     @GetMapping("/{id}")
     public Optional<Post> getPostById(@PathVariable String id) {
         return postService.getPostById(id);
-    }
+    }*/
 
     // working
     @DeleteMapping("/{id}")
@@ -55,8 +56,10 @@ class PostController {
         }
         else return ResponseEntity.internalServerError().body("Unauthorized");
     }
+
+
     //forse ok
-    @DeleteMapping("/comment/")
+    @DeleteMapping("/comment")
     public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
                                                 @RequestBody String text) {
         if(User.isAdmin(token)){
@@ -65,6 +68,7 @@ class PostController {
         }else
             return ResponseEntity.internalServerError().body("Unauthorized");
     }
+
 
     // http://localhost:8080/posts/report
     // working
@@ -76,7 +80,7 @@ class PostController {
             return ResponseEntity.badRequest().body("Invalid token");
         }
         try {
-            System.out.println("DATA ARRIVATA:" + request.getBody());
+            System.out.println("BODY ARRIVATO:" + request.getBody());
             if (postService.reportPost(request.getBody(), request.getUser(), request.getCommunity())) {
                 return ResponseEntity.ok("Success");
             }
@@ -100,7 +104,7 @@ class PostController {
         }
     }
 
-    // uccide tutti i commenti lol
+
     @PutMapping("/comment/report")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
                                              @RequestBody ReportCommentRequest report)
@@ -136,7 +140,7 @@ class PostController {
 
             Comment comment = new Comment();
             comment.setUser(commenterUsername);
-            comment.setTimestamp(LocalDateTime.now());
+            comment.setTimestamp(String.valueOf(LocalDateTime.now()));
             comment.setText(commentDTO.getComment());
             comment.setReported(false);
 

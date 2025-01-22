@@ -18,11 +18,6 @@ public interface PostRepository extends MongoRepository<Post, String> {
     @Query("{'post':?0 , 'username': ?1, 'community': ?2 }")
     Optional<Post> findPostByTimestampAndUsernameAndCommunity(String body, String username, String community);
 
-
-
-    @Query("{ 'reported_post': true }")
-    List<Post> findByReported_postTrue();
-
     @Aggregation(pipeline = {
             "{ '$unwind': '$comment' }", // Esplodi l'array dei commenti
             "{ '$match': { 'comment.reported': true } }", // Filtra i commenti segnalati

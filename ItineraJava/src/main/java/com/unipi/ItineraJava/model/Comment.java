@@ -5,12 +5,12 @@ import java.time.LocalDateTime;
 // COMMENT
 public class Comment {
     private String user;
-    private LocalDateTime timestamp;
+    private String timestamp;
     private String text;
     private boolean reported;
 
     public Comment() {}
-    public Comment(String user, LocalDateTime timestamp, String text, boolean reported) {
+    public Comment(String user, String  timestamp, String text, boolean reported) {
         this.user = user;
         this.timestamp = timestamp;
         this.text = text;
@@ -22,10 +22,10 @@ public class Comment {
     public void setUser(String user) {
         this.user = user;
     }
-    public LocalDateTime getTimestamp() {
+    public String  getTimestamp() {
         return timestamp;
     }
-    public void setTimestamp(LocalDateTime timestamp) {
+    public void setTimestamp(String  timestamp) {
         this.timestamp = timestamp;
     }
     public String getText() {

@@ -5,7 +5,6 @@ public class ReportPostRequest {
     private String body;
     private String user;
     private String community;
-    private String textComment;
 
     // Getter e Setter
     public String getBody() {
@@ -30,12 +29,5 @@ public class ReportPostRequest {
 
     public void setCommunity(String community) {
         this.community = community;
-    }
-
-    public String getTextComment() {
-        return textComment;
-    }
-    public void setTextComment(String textComment) {
-        this.textComment = textComment;
     }
 }
