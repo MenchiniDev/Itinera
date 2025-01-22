@@ -58,12 +58,11 @@ public class PostService {
                         post.setComment(postDTO.getComment());
                         return post;
                     });
-        }catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
             return Optional.empty();
         }
     }
-
 
 
     public Post save(Post post) {
@@ -98,7 +97,7 @@ public class PostService {
         }
     }
 
-        public boolean reportComment(String community, String user, String text) {
+    public boolean reportComment(String community, String user, String text) {
         try {
             Query query = new Query();
             query.addCriteria(Criteria.where("community").is(community));
@@ -137,14 +136,13 @@ public class PostService {
         long postId = post.getId();
         System.out.println(post);
 
-        if(!communityNeo4jRepository.isAlreadyJoined(commenterUsername, community)){
-            throw new IllegalArgumentException("User has not joined community: " + community);
+        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
+            throw new IllegalArgumentException("User has not joined community: " + postCommunity);
         }
 
-        if (post != null) {
-            comment.setUser(commenterUsername);
-            comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
-                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")))));
+        comment.setUsername(commenterUsername);
+        comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
+                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")))));
         comment.setUsername(commenterUsername);
         comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
                 .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
@@ -157,44 +155,10 @@ public class PostService {
         post.setNum_comment(post.getNum_comment() + 1);
         postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
         return postRepository.save(post);
-
-        throw new IllegalArgumentException("Post not found for username: " + postUsername + " and timestamp: " + postTimestamp);
     }
 
     public List<PostSummaryDto> findControversialPosts() {
         return postRepository.findTopReportedPostsByCommentCount();
-    }
-
-    private String generatePreview(String content) {
-        if (content == null || content.isEmpty()) {
-            return "";
-        }
-        return content.length() > 30 ? content.substring(0, 30) + "..." : content;
-    }
-
-
-    public void updatePostAfterCommentRemoval(String body) {
-        // Trova il post che contiene il commento con il body specificato e con reported=true
-        Post post = postRepository.findPostByReportedComment(body);
-
-        if (post == null) {
-            System.out.println("Nessun post trovato per il commento specificato.");
-            return; // Se non trovi il post, esci
-        }
-
-        // Modifica il post rimuovendo il commento
-        post.getComment().removeIf(comment -> comment.getBody().equals(body) && comment.isReported());
-
-        // Decrementa il numero dei commenti
-        post.setNum_comment(post.getNum_comment() - 1);
-
-        // Salva il post aggiornato
-        postRepository.save(post);
-    }
-
-
-    public void deleteByBody(String text) {
-        postRepository.deleteByText(text);
     }
 }
 
