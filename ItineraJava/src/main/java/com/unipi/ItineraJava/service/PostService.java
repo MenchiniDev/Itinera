@@ -1,7 +1,6 @@
 package com.unipi.ItineraJava.service;
 
 
-import com.unipi.ItineraJava.DTO.PostDTO;
 import com.unipi.ItineraJava.DTO.PostSummaryDto;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
@@ -94,7 +93,7 @@ public class PostService {
             Query query = new Query();
             query.addCriteria(Criteria.where("community").is(community));
             query.addCriteria(Criteria.where("comment.username").is(user));
-            query.addCriteria(Criteria.where("comment.text").is(text));
+            query.addCriteria(Criteria.where("comment.body").is(text));
 
 
             Update update = new Update();
@@ -121,29 +120,26 @@ public class PostService {
         return postRepository.findByCommunity(communityName);
     }
 
-    public Post addCommentToPost(String postUsername, String postTimestamp, String commenterUsername, Comment comment) {
+    public Post addCommentToPost(String postUsername, String postCommunity, String commenterUsername, Comment comment) {
 
         comment.setReported(false);
-        Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
-        Long postId = Long.parseLong(post.getId());
+        Post post = postRepository.findPostByUsernameAndCommunity(postUsername, postCommunity);
+        long postId = post.getId();
         System.out.println(post);
 
-        if (post != null) {
-            comment.setUser(commenterUsername);
-            comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
-                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")))));
+        comment.setUsername(commenterUsername);
+        comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
+                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
 
 
-            if (post.getComment() == null) {
-                post.setComment(new ArrayList<>());
-            }
-            post.getComment().add(comment);
-            post.setNum_comment(post.getNum_comment() + 1);
-            postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
-            return postRepository.save(post);
+        if (post.getComment() == null) {
+            post.setComment(new ArrayList<>());
         }
+        post.getComment().add(comment);
+        post.setNum_comment(post.getNum_comment() + 1);
+        postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
+        return postRepository.save(post);
 
-        throw new IllegalArgumentException("Post not found for username: " + postUsername + " and timestamp: " + postTimestamp);
     }
 
     public List<PostSummaryDto> findControversialPosts() {
@@ -155,10 +151,30 @@ public class PostService {
             return "";
         }
         return content.length() > 30 ? content.substring(0, 30) + "..." : content;
-
     }
 
-    public void deleteByText(String text) {
+
+    public void updatePostAfterCommentRemoval(String body) {
+        // Trova il post che contiene il commento con il body specificato e con reported=true
+        Post post = postRepository.findPostByReportedComment(body);
+
+        if (post == null) {
+            System.out.println("Nessun post trovato per il commento specificato.");
+            return; // Se non trovi il post, esci
+        }
+
+        // Modifica il post rimuovendo il commento
+        post.getComment().removeIf(comment -> comment.getBody().equals(body) && comment.isReported());
+
+        // Decrementa il numero dei commenti
+        post.setNum_comment(post.getNum_comment() - 1);
+
+        // Salva il post aggiornato
+        postRepository.save(post);
+    }
+
+
+    public void deleteByBody(String text) {
         postRepository.deleteByText(text);
     }
 }
