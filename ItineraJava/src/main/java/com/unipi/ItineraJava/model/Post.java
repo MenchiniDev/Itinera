@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 // POST
-
+@Document(collection = "Post")
 public class Post {
     @Id
     private String id;
