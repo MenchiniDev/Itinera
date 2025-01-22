@@ -1,5 +1,6 @@
 package com.unipi.ItineraJava.service;
 
+import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import com.unipi.ItineraJava.repository.ReviewRepository;
@@ -15,6 +16,7 @@ import java.time.LocalDateTime;
 import java.util.Comparator;
 
 import java.util.List;
+import java.util.UUID;
 
 @Service
 public class ReviewService {
@@ -23,12 +25,15 @@ public class ReviewService {
     private ReviewRepository reviewRepository;
 
     @Autowired
+    private PlaceService placeService;
+
+    @Autowired
     private PlaceRepository placeRepository;
 
     @Autowired
     private MongoTemplate mongoTemplate;
 
-    public Review addReview(String username, String placeId, int stars, String text) {
+    public Review addReview(String username, String placeName, int stars, String text) {
         // Validazione dei parametri
         if (stars < 1 || stars > 5) {
             throw new IllegalArgumentException("Il rateo deve essere compreso tra 1 e 5.");
@@ -36,13 +41,18 @@ public class ReviewService {
 
         // Creazione del nuovo oggetto Review
         Review review = new Review();
-        review.setPlace_name(placeId);
+        review.setId(UUID.randomUUID().toString()); // Genera un ID unico come stringa e non un tipo ObjectId
+        review.setPlace_name(placeName);
         review.setUser(username);
         review.setStars(stars);
         review.setText(text);
-        review.setTimestamp(LocalDateTime.now().toString());
+        review.setTimestamp(LocalDateTime.now().toString());// questo non mette la Z
         review.setReported(false);
 
+        //incrementare il numero di recensioni nell'oggetto embedded
+        placeService.incrementReviewCount(placeName);
+
+        //da correggere
         placeRepository.calculateReviewSummary();
 
         // Salvataggio
@@ -86,4 +96,45 @@ public class ReviewService {
             return List.of();
         }
     }
+
+
+
+    public String deleteReview(String reviewId) {
+        // Cerca la review per ottenere i dettagli
+        Review review = reviewRepository.findById(reviewId)
+                .orElseThrow(() -> new IllegalArgumentException("Review not found with ID: " + reviewId));
+
+        // Elimina la review
+        reviewRepository.deleteById(reviewId);
+
+        // Decrementa il conteggio delle recensioni per il posto associato
+        decrementReviewCount(review.getPlace_name());
+
+        return "Review successfully deleted";
+    }
+
+
+    private void decrementReviewCount(String placeName) {
+        // Query per trovare il documento corrispondente
+        Query query = new Query();
+        query.addCriteria(Criteria.where("name").is(placeName));
+
+        // Operazione di aggiornamento per decrementare `tot_rev_number`
+        Update update = new Update();
+        update.inc("reviews_info.tot_rev_number", -1);
+
+        // Esegui l'operazione di aggiornamento
+        mongoTemplate.updateFirst(query, update, "Places");
+
+        System.out.println("Decremented tot_rev_number for place: " + placeName);
+    }
+
+
+
+
+    public List<ControversialPlaceDTO> findControversialPlaces()
+    {
+        return reviewRepository.findMostControversialPlaces();
+    }
+
 }

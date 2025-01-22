@@ -1,5 +1,6 @@
 package com.unipi.ItineraJava.controller;
 
+import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.service.ReviewService;
@@ -36,7 +37,7 @@ public class ReviewController {
             int stars = (int) requestBody.get("stars");
             String text = (String) requestBody.get("text");
 
-            if (place_name == null || stars<=0 || stars>=6 || text == null) {
+            if (place_name == null || text == null) {
                 return ResponseEntity.badRequest().body("Please retry with different parameters");
             }
 
@@ -45,7 +46,7 @@ public class ReviewController {
             if(savedReview == null)
                 return ResponseEntity.badRequest().body("invalid review");
 
-            return ResponseEntity.ok("review correctly saved");
+            return ResponseEntity.ok("review correctly saved with id " + savedReview.getId());//ritorno id
 
         } catch (IllegalArgumentException e) {
 
@@ -55,6 +56,34 @@ public class ReviewController {
                     .body("An unexpected error occurred.");
         }
     }
+    // delete by id da testare
+    @DeleteMapping("/{reviewId}")
+    public ResponseEntity<String> deleteReview(@RequestHeader("Authorization") String token,
+                                               @PathVariable String reviewId) {
+        // Verifica l'utente dal token
+        String username = JwtTokenProvider.getUsernameFromToken(token);
+        if (username == null) {
+            return ResponseEntity.badRequest().body("Invalid token");
+        }
+
+        if (User.isAdmin(token)){
+
+            try {
+                String result = reviewService.deleteReview(reviewId);
+                return ResponseEntity.ok(result);
+            } catch (IllegalArgumentException e) {
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body(e.getMessage());
+            } catch (Exception e) {
+                return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("An error occurred");
+            }
+
+        }else{
+            return ResponseEntity.internalServerError().body("Unauthorized");
+        }
+
+
+    }
+
 
 
     //aggiunta menco questa mappatura get 
@@ -65,7 +94,8 @@ public class ReviewController {
         return ResponseEntity.ok(reviewService.getReviewsByName(name)).getBody();
     }
 
-  
+
+
     // rimosso il prendere il nome dal token in quanto un tizio reporterebbe la sua  stessa recensione,
     //facendo quello non veniva usato l'username che era passato nella richiesta
     @PutMapping("/report")
@@ -88,7 +118,6 @@ public class ReviewController {
 
     }
 
-
     // funzione utilizzabile soltanto da admin
     @GetMapping("/report")
     public ResponseEntity<List<Review>> showReviewReported(@RequestHeader("Authorization") String token) {
@@ -99,6 +128,14 @@ public class ReviewController {
         }
     }
 
-    // aggiungere delete(?)
+    @GetMapping("profile/places")
+    public ResponseEntity<List<ControversialPlaceDTO>> findControversialPlaces(@RequestHeader("Authorization") String token) {
+        if (User.isAdmin(token)) {
+            return ResponseEntity.ok(reviewService.findControversialPlaces());
+        }else
+        {
+            return ResponseEntity.badRequest().body(null);
+        }
+    }
 
 }

@@ -40,7 +40,6 @@ public interface UserRepository extends MongoRepository<User, String> {
     })
     long countCommentsByUser(String username);
 
-    //todo: crea l'architettura
     @Aggregation(pipeline = {
             "{ '$addFields': { " +
                     "   'activityScore': { '$add': [ " +
@@ -59,5 +58,6 @@ public interface UserRepository extends MongoRepository<User, String> {
     })
     List<ActiveUserDTO> findTopActiveUsers();
 
+    boolean deleteByUsername(String username);
 }
 

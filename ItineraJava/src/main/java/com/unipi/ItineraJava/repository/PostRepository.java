@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.repository;
 
 import com.unipi.ItineraJava.DTO.PostDTO;
+import com.unipi.ItineraJava.DTO.PostSummaryDto;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import org.springframework.cglib.core.Local;
@@ -35,5 +36,20 @@ public interface PostRepository extends MongoRepository<Post, String> {
     @Query(value = "{ '_id': ?0 }")
     Optional<PostDTO> getPostById(String id);
 
+
+    List<Post> findByCommunity(String communityName);
+
+    @Aggregation(pipeline = {
+            "{ '$match': { 'reportedpost': true } }", // Filtra solo i post segnalati
+            "{ '$addFields': { 'reportedComments': { '$size': { '$filter': { " +
+                    "       'input': '$comment', " +
+                    "       'as': 'c', " +
+                    "       'cond': { '$eq': ['$$c.reported', true] } " +
+                    "   } } } } }", // Conta i commenti segnalati
+            "{ '$sort': { 'reportedComments': -1 } }", // Ordina per numero di commenti segnalati (decrescente)
+            "{ '$limit': 10 }", // Limita ai 10 post con più commenti segnalati
+            "{ '$project': { '_id': 0, 'id': '$_id', 'community': 1, 'username': 1, 'post': 1, 'reportedComments': 1, 'timestamp': 1 } }" // Proietta i campi necessari
+    })
+    List<PostSummaryDto> findTopReportedPostsByCommentCount();
 
 }

@@ -5,6 +5,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
+import java.util.UUID;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -50,8 +51,6 @@ class UserController {
 
     @Autowired
     private PasswordEncoder passwordEncoder;
-    @Autowired
-    private User user;
 
     // http://localhost:8080/users/signup
     //@Transactional // Transactional per evitare che il metodo venga eseguito in caso di errore
@@ -63,6 +62,7 @@ class UserController {
         System.out.println("Received signup request: " + signupRequest);
         System.out.println(signupRequest.getUsername());
         User user = new User();
+        user.setId(UUID.randomUUID().toString()); // Genera un ID unico come stringa e non un tipo ObjectId
         user.setUsername(signupRequest.getUsername());
         user.setEmail(signupRequest.getEmail());
         user.setPassword(passwordEncoder.encode(signupRequest.getPassword()));
@@ -125,7 +125,7 @@ class UserController {
 
 
     // http://localhost:8080/users/678f461050e5455936170332
-    // deletes an user
+    // delete an user
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
                                             @PathVariable String id) {
@@ -264,6 +264,21 @@ class UserController {
     }*/
 
 
+    @DeleteMapping("/{username}")
+    public ResponseEntity<String> deleteUserByUsername(
+            @RequestHeader("Authorization") String token,
+            @PathVariable String username) {
+        if(User.isAdmin(token)) {
+            if (userService.deleteByUsername(username))
+                return ResponseEntity.ok("User deleted successfully");
+            else
+                return ResponseEntity.status(404).body("User not found");
+        }else {
+            return ResponseEntity.badRequest().body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+    }
+
 
 
     /// endpoint per vedere le community che l'utente ha joinato
@@ -314,6 +329,16 @@ class UserController {
         } catch (Exception ex) {
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                 .body("An error occurred while retrieving the communities: " + ex.getMessage());
+        }
+    }
+
+    // 1 BIG AGGREGATION
+    @GetMapping("/profile/active")
+    public ResponseEntity<List<ActiveUserDTO>> getActiveUser(@RequestHeader("Authorization") String token) {
+        if(User.isAdmin(token)) {
+            return ResponseEntity.ok(userService.findTopActiveUsers());
+        }else {
+            return ResponseEntity.badRequest().body(null);
         }
     }
     
