@@ -4,6 +4,7 @@ import com.unipi.ItineraJava.model.Review;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
+import org.springframework.data.mongodb.repository.Update;
 import org.springframework.stereotype.Repository;
 import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
 
@@ -54,6 +55,5 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
                     "     'reviews': '$mostControversial.reviews' } }" // Proietta i risultati finali
     })
     List<ControversialPlaceDTO> findMostControversialPlaces();
-
 
 }

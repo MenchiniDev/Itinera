@@ -69,7 +69,8 @@ public class ReviewController {
         if (User.isAdmin(token)){
 
             try {
-                String result = reviewService.deleteReview(reviewId);
+                //String result = reviewService.deleteReview(reviewId);
+                String result = reviewService.deleteReviewAndDecrement(reviewId);
                 return ResponseEntity.ok(result);
             } catch (IllegalArgumentException e) {
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body(e.getMessage());
@@ -85,8 +86,6 @@ public class ReviewController {
     }
 
 
-
-    //aggiunta menco questa mappatura get 
     // http://localhost:8080/review?city=roma&&category=hotel&&name=x
     @GetMapping
     public List<Review> getReviews(
