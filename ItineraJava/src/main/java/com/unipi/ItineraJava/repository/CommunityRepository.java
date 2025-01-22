@@ -27,23 +27,5 @@ public interface CommunityRepository extends MongoRepository<MongoCommunity, Str
 
         boolean existsByCity(String city);
 
-        //todo: architettura
-        @Aggregation(pipeline = {
-                "{ '$addFields': { " +
-                        "   'activityScore': { '$multiply': [ '$postCount', '$averageRating' ] } } }", // Punteggio attività: postCount x averageRating
-                "{ '$match': { 'city': ?0 } }", // Filtra per città
-                "{ '$sort': { 'activityScore': -1 } }", // Ordina per punteggio decrescente
-                "{ '$limit': 10 }", // Limita ai 10 community più attive
-                "{ '$project': { " +
-                        "   '_id': 0, " +
-                        "   'name': 1, " +
-                        "   'city': 1, " +
-                        "   'activityScore': 1, " +
-                        "   'postCount': 1, " +
-                        "   'averageRating': 1 } }" // Proietta i campi necessari
-        })
-        List<ActiveCommunityDTO> findTopActiveCommunities(String city);
-
-
         Post save(Post post);
 }

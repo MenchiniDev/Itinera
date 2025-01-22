@@ -21,7 +21,7 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
     @Query("{'place_name': ?0}")
     List<Review> findByPlace(String name);
 
-    //todo: architettura
+
     @Aggregation(pipeline = {
             "{ '$match': { 'reported': false } }", // Esclude recensioni segnalate
             "{ '$group': { " +

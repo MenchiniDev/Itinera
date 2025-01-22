@@ -10,6 +10,7 @@ import java.util.Optional;
 
 
 import com.mongodb.client.result.UpdateResult;
+import com.unipi.ItineraJava.DTO.ActiveCommunityDTO;
 import com.unipi.ItineraJava.model.*;
 import com.unipi.ItineraJava.repository.PostRepository;
 
@@ -188,4 +189,5 @@ public class CommunityService {
     public Boolean existsCommunity(String name) {
         return communityRepository.existsByCity(name);
     }
+
 }

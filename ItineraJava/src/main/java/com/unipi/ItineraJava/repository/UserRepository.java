@@ -39,7 +39,7 @@ public interface UserRepository extends MongoRepository<User, String> {
             "{ $group: { _id: '$comment.user', commentCount: { $sum: 1 } } }"  // Conta il numero di commenti
     })
     long countCommentsByUser(String username);
-    //todo: crea l'architettura
+
     @Aggregation(pipeline = {
             "{ '$addFields': { " +
                     "   'activityScore': { '$add': [ " +

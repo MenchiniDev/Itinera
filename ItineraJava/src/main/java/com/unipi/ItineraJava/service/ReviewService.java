@@ -1,5 +1,6 @@
 package com.unipi.ItineraJava.service;
 
+import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import com.unipi.ItineraJava.repository.ReviewRepository;
@@ -85,5 +86,10 @@ public class ReviewService {
             System.err.println("Error happened retrieving reviews: " + e.getMessage());
             return List.of();
         }
+    }
+
+    public List<ControversialPlaceDTO> findControversialPlaces()
+    {
+        return reviewRepository.findMostControversialPlaces();
     }
 }

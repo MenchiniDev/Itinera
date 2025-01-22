@@ -2,6 +2,7 @@ package com.unipi.ItineraJava.service;
 
 
 import com.unipi.ItineraJava.DTO.PostDTO;
+import com.unipi.ItineraJava.DTO.PostSummaryDto;
 import com.unipi.ItineraJava.configuration.StringToLocalDateTimeConverter;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
@@ -151,6 +152,10 @@ public class PostService {
         }
 
         throw new IllegalArgumentException("Post not found for username: " + postUsername + " and timestamp: " + postTimestamp);
+    }
+
+    public List<PostSummaryDto> findControversialPosts() {
+        return postRepository.findTopReportedPostsByCommentCount();
     }
 }
 
