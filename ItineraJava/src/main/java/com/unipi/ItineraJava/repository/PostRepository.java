@@ -8,6 +8,7 @@ import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
@@ -16,8 +17,8 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Post findByUsernameAndTimestamp(String postUsername, String postTimestamp);
 
 
-    @Query("{ 'timestamp': ?0, 'username': ?1, 'community': ?2 }")
-    Optional<PostDTO> findPostByTimestampAndUsernameAndCommunity(String timestamp, String username, String community);
+    @Query("{ 'username': ?0, 'community': ?1 }")
+    Optional<PostDTO> findPostByTimestampAndUsernameAndCommunity(String username, String community);
 
 
 

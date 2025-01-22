@@ -7,6 +7,7 @@ import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cglib.core.Local;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
@@ -27,8 +28,6 @@ public class PostService {
     @Autowired
     private MongoTemplate mongoTemplate;
 
-    StringToLocalDateTimeConverter converter = new StringToLocalDateTimeConverter();
-
     public List<Post> findAll() {
         return postRepository.findAll();
     }
@@ -42,7 +41,7 @@ public class PostService {
                         post.setCommunity(postDTO.getCommunity());
                         post.setUsername(postDTO.getUsername());
                         post.setPost(postDTO.getPost());
-                        post.setTimestamp(postDTO.getTimestamp().toString());
+                        post.setTimestamp(String.valueOf(postDTO.getTimestamp()));
                         post.setNum_comment(postDTO.getNcomment());
                         post.setReported_post(postDTO.isReported_post());
                         post.setComment(postDTO.getComment());
@@ -66,13 +65,22 @@ public class PostService {
 
     public boolean reportPost(String timestamp, String user, String community) {
         try {
-            Optional<PostDTO> postDTO = postRepository.findPostByTimestampAndUsernameAndCommunity(timestamp, user, community);
+            LocalDateTime timestampDate = LocalDateTime.parse(timestamp, DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
 
+            System.out.println(timestampDate);
+            System.out.println(user);
+            System.out.println(community);
+
+            System.out.println(postRepository.findPostByTimestampAndUsernameAndCommunity(user, community));
+
+            Optional<PostDTO> postDTO = postRepository.findPostByTimestampAndUsernameAndCommunity(user, community);
+
+            System.out.println(postDTO.isPresent());
             if (postDTO.isPresent()) {
                 PostDTO dto = postDTO.get();
 
                 Post post = new Post();
-                post.setTimestamp(dto.getTimestamp());
+                post.setTimestamp(String.valueOf(dto.getTimestamp()));
                 post.setUsername(dto.getUsername());
                 post.setCommunity(dto.getCommunity());
 
