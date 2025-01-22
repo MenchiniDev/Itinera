@@ -2,11 +2,11 @@ package com.unipi.ItineraJava.controller;
 
 
 import com.unipi.ItineraJava.DTO.PostSummaryDto;
+import com.unipi.ItineraJava.DTO.ReportCommentRequest;
 import com.unipi.ItineraJava.DTO.ReportPostRequest;
 import com.unipi.ItineraJava.DTO.commentDTO;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
-import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.service.CommunityService;
 import com.unipi.ItineraJava.service.PostService;
@@ -15,7 +15,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.awt.*;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
@@ -29,7 +28,7 @@ class PostController {
     private CommunityService communityService;
 
     // http://localhost:8080/posts
-    // returns all posts
+    // returns all posts of a community
     @GetMapping("/{communityName}")
     public List<Post> getAllPosts(@PathVariable String communityName) {
         if(communityName==null || communityName.isEmpty() || !communityService.existsCommunity(communityName)) {
@@ -41,10 +40,11 @@ class PostController {
 
     // http://localhost:8080/posts/678e56991a6dfb7aa1fbc30a
     // todo: indebuggabile
+    /*
     @GetMapping("/{id}")
     public Optional<Post> getPostById(@PathVariable String id) {
         return postService.getPostById(id);
-    }
+    }*/
 
     // working
     @DeleteMapping("/{id}")
@@ -58,7 +58,20 @@ class PostController {
     }
 
 
-    // todo: indebuggabile
+    //forse ok
+    @DeleteMapping("/comment")
+    public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
+                                                @RequestBody String text) {
+        if(User.isAdmin(token)){
+            postService.deleteByText(text);
+            return ResponseEntity.ok("Comment deleted");
+        }else
+            return ResponseEntity.internalServerError().body("Unauthorized");
+    }
+
+
+    // http://localhost:8080/posts/report
+    // working
     @PutMapping("/report")
     public ResponseEntity<String> reportPost(@RequestHeader("Authorization") String token,
                                              @RequestBody ReportPostRequest request) {
@@ -66,13 +79,22 @@ class PostController {
         if (username == null) {
             return ResponseEntity.badRequest().body("Invalid token");
         }
-        if (postService.reportPost(request.getTimestamp(), request.getUser(), request.getCommunity())) {
-            return ResponseEntity.ok("Success");
+        try {
+            System.out.println("BODY ARRIVATO:" + request.getBody());
+            if (postService.reportPost(request.getBody(), request.getUser(), request.getCommunity())) {
+                return ResponseEntity.ok("Success");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+            return ResponseEntity.internalServerError().body("Error parsing timestamp");
         }
+
         return ResponseEntity.internalServerError().body("Error");
     }
 
 
+    // http://localhost:8080/posts/report
+    // working
     @GetMapping("/report")
     public ResponseEntity<List<Post>> showPostReported(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -82,16 +104,15 @@ class PostController {
         }
     }
 
+
     @PutMapping("/comment/report")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
-                                             @RequestBody String timestamp,
-                                             @RequestBody String user,
-                                             @RequestBody String text)
+                                             @RequestBody ReportCommentRequest report)
     {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null)
             return ResponseEntity.badRequest().body("invalid token");
-        if (postService.reportComment(timestamp,user,text))
+        if (postService.reportComment(report.getCommunity(),report.getUser(),report.getTextComment()))
             return ResponseEntity.ok("success");
         return ResponseEntity.internalServerError().body("error");
     }
@@ -105,8 +126,7 @@ class PostController {
         }
     }
 
-
-
+    //aggiunge un commento
     @PostMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
@@ -120,7 +140,7 @@ class PostController {
 
             Comment comment = new Comment();
             comment.setUser(commenterUsername);
-            comment.setTimestamp(LocalDateTime.now());
+            comment.setTimestamp(String.valueOf(LocalDateTime.now()));
             comment.setText(commentDTO.getComment());
             comment.setReported(false);
 
