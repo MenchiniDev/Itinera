@@ -58,12 +58,11 @@ public class PostService {
                         post.setComment(postDTO.getComment());
                         return post;
                     });
-        }catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
             return Optional.empty();
         }
     }
-
 
 
     public Post save(Post post) {
@@ -98,12 +97,12 @@ public class PostService {
         }
     }
 
-        public boolean reportComment(String community, String user, String text) {
+    public boolean reportComment(String community, String user, String text) {
         try {
             Query query = new Query();
             query.addCriteria(Criteria.where("community").is(community));
             query.addCriteria(Criteria.where("comment.username").is(user));
-            query.addCriteria(Criteria.where("comment.text").is(text));
+            query.addCriteria(Criteria.where("comment.body").is(text));
 
 
             Update update = new Update();
@@ -130,50 +129,36 @@ public class PostService {
         return postRepository.findByCommunity(communityName);
     }
 
-    public Post addCommentToPost(String postUsername, String postTimestamp, String commenterUsername, Comment comment) {
+    public Post addCommentToPost(String postUsername, String postCommunity, String commenterUsername, Comment comment) {
 
         comment.setReported(false);
-        Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
-        Long postId = Long.parseLong(post.getId());
-        String community = post.getCommunity();
+        Post post = postRepository.findPostByUsernameAndCommunity(postUsername, postCommunity);
+        long postId = post.getId();
         System.out.println(post);
 
-        if(!communityNeo4jRepository.isAlreadyJoined(commenterUsername, community)){
-            throw new IllegalArgumentException("User has not joined community: " + community);
+        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
+            throw new IllegalArgumentException("User has not joined community: " + postCommunity);
         }
 
-        if (post != null) {
-            comment.setUser(commenterUsername);
-            comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
-                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")))));
+        comment.setUsername(commenterUsername);
+        comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
+                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")))));
+        comment.setUsername(commenterUsername);
+        comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
+                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
 
 
-            if (post.getComment() == null) {
-                post.setComment(new ArrayList<>());
-            }
-            post.getComment().add(comment);
-            post.setNum_comment(post.getNum_comment() + 1);
-            postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
-            return postRepository.save(post);
+        if (post.getComment() == null) {
+            post.setComment(new ArrayList<>());
         }
-
-        throw new IllegalArgumentException("Post not found for username: " + postUsername + " and timestamp: " + postTimestamp);
+        post.getComment().add(comment);
+        post.setNum_comment(post.getNum_comment() + 1);
+        postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
+        return postRepository.save(post);
     }
 
     public List<PostSummaryDto> findControversialPosts() {
         return postRepository.findTopReportedPostsByCommentCount();
-    }
-
-    private String generatePreview(String content) {
-        if (content == null || content.isEmpty()) {
-            return "";
-        }
-        return content.length() > 30 ? content.substring(0, 30) + "..." : content;
-
-    }
-
-    public void deleteByText(String text) {
-        postRepository.deleteByText(text);
     }
 }
 
