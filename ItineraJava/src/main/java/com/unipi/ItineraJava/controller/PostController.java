@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.controller;
 
 
+import com.unipi.ItineraJava.DTO.PostSummaryDto;
 import com.unipi.ItineraJava.DTO.ReportPostRequest;
 import com.unipi.ItineraJava.DTO.commentDTO;
 import com.unipi.ItineraJava.model.Comment;
@@ -14,6 +15,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.awt.*;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
@@ -104,6 +106,7 @@ class PostController {
     }
 
 
+
     @PostMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
@@ -133,6 +136,14 @@ class PostController {
             e.printStackTrace();
             return ResponseEntity.internalServerError().body(e.getMessage());
         }
+    }
+
+    @GetMapping("profile")
+    public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
+    {
+        if(User.isAdmin(token))
+            return ResponseEntity.ok(postService.findControversialPosts());
+        else return ResponseEntity.badRequest().body(null);
     }
 
 

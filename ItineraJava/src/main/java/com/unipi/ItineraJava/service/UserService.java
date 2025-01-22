@@ -156,4 +156,9 @@ public class UserService{
     public boolean deleteByUsername(String username) {
         return userRepository.deleteByUsername(username);
     }
+
+    public List<ActiveUserDTO> findTopActiveUsers()
+    {
+        return userRepository.findTopActiveUsers();
+    }
 }

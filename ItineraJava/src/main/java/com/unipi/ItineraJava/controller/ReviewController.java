@@ -1,5 +1,6 @@
 package com.unipi.ItineraJava.controller;
 
+import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.service.ReviewService;
@@ -88,7 +89,6 @@ public class ReviewController {
 
     }
 
-
     // funzione utilizzabile soltanto da admin
     @GetMapping("/report")
     public ResponseEntity<List<Review>> showReviewReported(@RequestHeader("Authorization") String token) {
@@ -99,6 +99,14 @@ public class ReviewController {
         }
     }
 
-    // aggiungere delete(?)
+    @GetMapping("profile/places")
+    public ResponseEntity<List<ControversialPlaceDTO>> findControversialPlaces(@RequestHeader("Authorization") String token) {
+        if (User.isAdmin(token)) {
+            return ResponseEntity.ok(reviewService.findControversialPlaces());
+        }else
+        {
+            return ResponseEntity.badRequest().body(null);
+        }
+    }
 
 }
