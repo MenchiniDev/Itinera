@@ -16,6 +16,7 @@ import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Optional;
@@ -127,6 +128,29 @@ public class PostService {
 
     public List<Post> findByCommunity(String communityName) {
         return postRepository.findByCommunity(communityName);
+    }
+
+    public Post addCommentToPost(String postUsername, String postTimestamp, String commenterUsername, Comment comment) {
+
+        comment.setReported(false);
+        Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
+        System.out.println(post);
+
+        if (post != null) {
+            comment.setUser(commenterUsername);
+            comment.setTimestamp(LocalDateTime.parse(LocalDateTime.now()
+                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"))));
+
+
+            if (post.getComment() == null) {
+                post.setComment(new ArrayList<>());
+            }
+            post.getComment().add(comment);
+            post.setNum_comment(post.getNum_comment() + 1);
+            return postRepository.save(post);
+        }
+
+        throw new IllegalArgumentException("Post not found for username: " + postUsername + " and timestamp: " + postTimestamp);
     }
 }
 

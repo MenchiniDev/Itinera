@@ -188,27 +188,4 @@ public class CommunityService {
     public Boolean existsCommunity(String name) {
         return communityRepository.existsByCity(name);
     }
-
-    public Post addCommentToPost(String postUsername, String postTimestamp, String commenterUsername, Comment comment) {
-
-        comment.setReported(false);
-        Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
-        System.out.println(post);
-
-        if (post != null) {
-            comment.setUser(commenterUsername);
-            comment.setTimestamp(LocalDateTime.parse(LocalDateTime.now()
-                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"))));
-
-
-            if (post.getComment() == null) {
-                post.setComment(new ArrayList<>());
-            }
-            post.getComment().add(comment);
-            post.setNum_comment(post.getNum_comment() + 1);
-            return communityRepository.save(post);
-        }
-
-        throw new IllegalArgumentException("Post not found for username: " + postUsername + " and timestamp: " + postTimestamp);
-    }
 }
