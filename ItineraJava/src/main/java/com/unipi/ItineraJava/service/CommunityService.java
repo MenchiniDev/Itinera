@@ -72,6 +72,7 @@ public class CommunityService {
     }
 
     public void deleteByName(String name) {
+        communityNeo4jRepository.deleteCommunity(name);
         communityRepository.deleteByCity(name);
     }
 

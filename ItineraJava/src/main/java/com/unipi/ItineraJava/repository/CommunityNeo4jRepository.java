@@ -13,6 +13,9 @@ public interface CommunityNeo4jRepository extends Neo4jRepository<CommunityGraph
    @Query("CREATE (c:Community {city: $city}) RETURN c")
    void createCommunityNode(String city);
 
+   @Query("MATCH (c:Community {city: $city}) DETACH DELETE c")
+   void deleteCommunity(String city);
+
     // Metodo per verificare se una community esiste
    @Query("MATCH (c:Community {city: $city}) RETURN COUNT(c) > 0")
    boolean existsByCity(String city);
