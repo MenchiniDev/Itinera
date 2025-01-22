@@ -34,8 +34,6 @@ public class PlaceController {
         return ResponseEntity.ok(placeService.getPlacesByCityAndCategory(city, category)).getBody();
     }
 
-    //QUERY DA SPOSTARE IN REVIEWS IN TOTO
-
 
     // http://localhost:8080/place?city=Rome&category=Restaurant&minRating=4.5
     // returns correctly ordered the category of a city by order

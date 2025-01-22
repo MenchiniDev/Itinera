@@ -1,19 +1,9 @@
 package com.unipi.ItineraJava.DTO;
-import java.time.LocalDateTime;
 
-public class ReportPostRequest {
-    private String body;
+public class ReportCommentRequest {
     private String user;
     private String community;
-
-    // Getter e Setter
-    public String getBody() {
-        return body;
-    }
-
-    public void setBody(String body) {
-        this.body = body;
-    }
+    private String textComment;
 
     public String getUser() {
         return user;
@@ -30,4 +20,12 @@ public class ReportPostRequest {
     public void setCommunity(String community) {
         this.community = community;
     }
+
+    public String getTextComment() {
+        return textComment;
+    }
+    public void setTextComment(String textComment) {
+        this.textComment = textComment;
+    }
 }
+

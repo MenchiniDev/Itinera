@@ -3,14 +3,15 @@ package com.unipi.ItineraJava.service;
 
 import com.unipi.ItineraJava.DTO.PostDTO;
 import com.unipi.ItineraJava.DTO.PostSummaryDto;
-import com.unipi.ItineraJava.configuration.StringToLocalDateTimeConverter;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
-import com.unipi.ItineraJava.repository.PostRepository;
 import com.unipi.ItineraJava.repository.PostNeo4jRepository;
+
 import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
+
+import com.unipi.ItineraJava.repository.PostRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cglib.core.Local;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
@@ -21,7 +22,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 import java.util.Optional;
 
 @Service
@@ -52,7 +52,7 @@ public class PostService {
                         post.setCommunity(postDTO.getCommunity());
                         post.setUsername(postDTO.getUsername());
                         post.setPost(postDTO.getPost());
-                        post.setTimestamp(String.valueOf(postDTO.getTimestamp()));
+                        post.setTimestamp(postDTO.getTimestamp());
                         post.setNum_comment(postDTO.getNcomment());
                         post.setReported_post(postDTO.isReported_post());
                         post.setComment(postDTO.getComment());
@@ -76,28 +76,17 @@ public class PostService {
         postNeo4jRepository.deletePostNode(postId);
     }
 
-    public boolean reportPost(String timestamp, String user, String community) {
+    public boolean reportPost(String body, String user, String community) {
         try {
-            LocalDateTime timestampDate = LocalDateTime.parse(timestamp, DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+            System.out.println(postRepository.findPostByTimestampAndUsernameAndCommunity(body, user, community));
 
-            System.out.println(timestampDate);
-            System.out.println(user);
-            System.out.println(community);
-
-            System.out.println(postRepository.findPostByTimestampAndUsernameAndCommunity(user, community));
-
-            Optional<PostDTO> postDTO = postRepository.findPostByTimestampAndUsernameAndCommunity(user, community);
+            Optional<Post> postDTO = postRepository.findPostByTimestampAndUsernameAndCommunity(body, user, community);
 
             System.out.println(postDTO.isPresent());
             if (postDTO.isPresent()) {
-                PostDTO dto = postDTO.get();
-
-                Post post = new Post();
-                post.setTimestamp(String.valueOf(dto.getTimestamp()));
-                post.setUsername(dto.getUsername());
-                post.setCommunity(dto.getCommunity());
-
-                postRepository.save(post);
+                Post dto = postDTO.get();
+                dto.setReported_post(true);
+                postRepository.save(dto);
                 return true;
             }
 
@@ -109,13 +98,11 @@ public class PostService {
         }
     }
 
-
-
-    public boolean reportComment(String timestamp, String user, String text) {
+        public boolean reportComment(String community, String user, String text) {
         try {
             Query query = new Query();
-            query.addCriteria(Criteria.where("timestamp").is(timestamp));
-            query.addCriteria(Criteria.where("comment.user").is(user));
+            query.addCriteria(Criteria.where("community").is(community));
+            query.addCriteria(Criteria.where("comment.username").is(user));
             query.addCriteria(Criteria.where("comment.text").is(text));
 
 
@@ -131,7 +118,7 @@ public class PostService {
     }
 
     public List<Post> getReportedPosts() {
-        return postRepository.findByReported_postTrue();
+        return postRepository.findByReportedpostTrue();
     }
 
     public List<Comment> showCommentReported() {
@@ -157,8 +144,8 @@ public class PostService {
 
         if (post != null) {
             comment.setUser(commenterUsername);
-            comment.setTimestamp(LocalDateTime.parse(LocalDateTime.now()
-                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"))));
+            comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
+                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")))));
 
 
             if (post.getComment() == null) {
@@ -183,6 +170,10 @@ public class PostService {
         }
         return content.length() > 30 ? content.substring(0, 30) + "..." : content;
 
+    }
+
+    public void deleteByText(String text) {
+        postRepository.deleteByText(text);
     }
 }
 

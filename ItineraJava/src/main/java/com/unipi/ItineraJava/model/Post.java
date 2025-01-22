@@ -5,10 +5,11 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.time.LocalDateTime;
+import java.util.Date;
 import java.util.List;
 
 // POST
-
+@Document(collection = "Post")
 public class Post {
     @Id
     private String id;

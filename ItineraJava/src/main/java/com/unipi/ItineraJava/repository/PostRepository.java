@@ -4,13 +4,10 @@ import com.unipi.ItineraJava.DTO.PostDTO;
 import com.unipi.ItineraJava.DTO.PostSummaryDto;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
-import org.springframework.cglib.core.Local;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
@@ -18,13 +15,8 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Post findByUsernameAndTimestamp(String postUsername, String postTimestamp);
 
 
-    @Query("{ 'username': ?0, 'community': ?1 }")
-    Optional<PostDTO> findPostByTimestampAndUsernameAndCommunity(String username, String community);
-
-
-
-    @Query("{ 'reported_post': true }")
-    List<Post> findByReported_postTrue();
+    @Query("{'post':?0 , 'username': ?1, 'community': ?2 }")
+    Optional<Post> findPostByTimestampAndUsernameAndCommunity(String body, String username, String community);
 
     @Aggregation(pipeline = {
             "{ '$unwind': '$comment' }", // Esplodi l'array dei commenti
@@ -52,4 +44,14 @@ public interface PostRepository extends MongoRepository<Post, String> {
     })
     List<PostSummaryDto> findTopReportedPostsByCommentCount();
 
+    List<Post> findByReportedpostTrue();
+
+    @Aggregation(pipeline = {
+            "{ '$match': { 'comment': { '$elemMatch': { 'body': ?0, 'reportedcomment': true } } } }", // Filtra i documenti che contengono almeno un commento che soddisfa i criteri
+            "{ '$set': { 'comment': { '$filter': { 'input': '$comment', 'as': 'c', 'cond': { '$and': [ { '$ne': ['$$c.body', ?0] }, { '$eq': ['$$c.reportedcomment', true] } ] } } } } }", // Rimuove i commenti che corrispondono
+            "{ '$match': { 'comment': { '$eq': [] } } }", // Filtra i documenti senza commenti residui
+            "{ '$unset': 'comment' }", // Elimina il campo 'comment' (opzionale)
+            "{ '$merge': { 'into': 'post', 'on': '_id', 'whenMatched': 'replace', 'whenNotMatched': 'fail' } }" // Aggiorna i documenti nel database
+    })
+    void deleteByText(String text);
 }

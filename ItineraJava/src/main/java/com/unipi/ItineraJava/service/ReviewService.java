@@ -98,7 +98,7 @@ public class ReviewService {
     }
 
 
-
+/*
     public String deleteReview(String reviewId) {
         // Cerca la review per ottenere i dettagli
         Review review = reviewRepository.findById(reviewId)
@@ -127,6 +127,15 @@ public class ReviewService {
         mongoTemplate.updateFirst(query, update, "Places");
 
         System.out.println("Decremented tot_rev_number for place: " + placeName);
+    }*/
+    public String deleteReviewAndDecrement(String reviewId) {
+        Review review = reviewRepository.findById(reviewId)
+                .orElseThrow(() -> new IllegalArgumentException("Review not found with ID: " + reviewId));
+        //metodo predefinito
+        reviewRepository.deleteById(reviewId);
+        //query per decrementare
+        placeRepository.decrementReviewCount(review.getPlace_name());
+        return "Review successfully deleted and count decremented";
     }
 
 

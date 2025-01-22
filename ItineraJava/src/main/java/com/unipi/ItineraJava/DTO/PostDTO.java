@@ -1,31 +1,22 @@
 package com.unipi.ItineraJava.DTO;
 
 import com.unipi.ItineraJava.model.Comment;
-import org.springframework.data.mongodb.core.mapping.Document;
 
-import java.time.LocalDateTime;
+import java.util.Date;
 import java.util.List;
 
-@Document(collection = "Post")
+
 public class PostDTO {
     private String id;
     private String community;
     private String username;
     private String post;
-    //@JsonFormat(shape = JsonFormat.Shape.STRING)
-    private LocalDateTime timestamp; // Campo come LocalDateTime
+    private String timestamp;
     private int ncomment;
-    private boolean reported_post;
+    private boolean reportedpost; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
     private List<Comment> comment;
 
-    public PostDTO() {}
 
-    public String getId() {
-        return id;
-    }
-    public void setId(String id) {
-        this.id = id;
-    }
     public String getCommunity() {
         return community;
     }
@@ -44,28 +35,24 @@ public class PostDTO {
     public void setPost(String post) {
         this.post = post;
     }
-    public LocalDateTime getTimestamp() {
+
+    public String getId() {
+        return id;
+    }
+
+    public String getTimestamp() {
         return timestamp;
     }
-    public void setTimestamp(LocalDateTime timestamp) {
-        this.timestamp = timestamp;
-    }
+
     public int getNcomment() {
         return ncomment;
     }
-    public void setNcomment(int ncomment) {
-        this.ncomment = ncomment;
-    }
+
     public boolean isReported_post() {
-        return reported_post;
+        return reportedpost;
     }
-    public void setReported_post(boolean reported_post) {
-        this.reported_post = reported_post;
-    }
+
     public List<Comment> getComment() {
         return comment;
-    }
-    public void setComment(List<Comment> comment) {
-        this.comment = comment;
     }
 }
