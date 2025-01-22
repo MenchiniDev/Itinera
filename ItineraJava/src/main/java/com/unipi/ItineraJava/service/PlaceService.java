@@ -9,6 +9,11 @@ import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration;
 import org.springframework.stereotype.Service;
+import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.data.mongodb.core.query.Update;
+
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -27,6 +32,9 @@ public class PlaceService {
     private JwtTokenProvider jwtTokenProvider;
     @Autowired
     private RestTemplateAutoConfiguration restTemplateAutoConfiguration;
+
+    @Autowired
+    private MongoTemplate mongoTemplate;
 
 
     public List<MongoPlace> getBestPlacesByCity(String city) {
@@ -67,6 +75,23 @@ public class PlaceService {
         return mongoPlaces.stream()
                 .filter(place -> place.getReviews().getOverall_rating() >= minRating)
                 .toList();
+    }
+
+
+    // Metodo per aggiornare il numero di reviews nella collezione Places
+    public void incrementReviewCount(String placeName) {
+        // Query per trovare il documento corrispondente
+        Query query = new Query();
+        query.addCriteria(Criteria.where("name").is(placeName));
+
+        // Operazione di aggiornamento per incrementare `tot_rev_number`
+        Update update = new Update();
+        update.inc("reviews_info.tot_rev_number", 1);
+
+        // Esegui l'operazione di aggiornamento
+        mongoTemplate.updateFirst(query, update, "Places");
+
+        System.out.println("Incremented tot_rev_number for place: " + placeName);
     }
 
 
