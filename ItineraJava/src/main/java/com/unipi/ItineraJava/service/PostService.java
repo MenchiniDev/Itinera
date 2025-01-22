@@ -124,5 +124,13 @@ public class PostService {
     public List<Comment> showCommentReported() {
         return postRepository.findReportedComments();
     }
+
+
+    private String generatePreview(String content) {
+        if (content == null || content.isEmpty()) {
+            return "";
+        }
+        return content.length() > 30 ? content.substring(0, 30) + "..." : content;
+    }
 }
 

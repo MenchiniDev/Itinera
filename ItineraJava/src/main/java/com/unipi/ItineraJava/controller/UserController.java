@@ -128,7 +128,7 @@ class UserController {
     // deletes an user
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
-                                             @PathVariable String id) {
+                                            @PathVariable String id) {
         try {
             if(User.isAdmin(token)) {
                 userService.deleteById(id);
