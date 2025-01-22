@@ -34,6 +34,7 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     })
     ArrayList<MongoPlace> findByCityAndCategoryOrderByOverallRating(String city, String category);
 
+    // sbagliata ///////
     @Aggregation(pipeline = {
             "{ '$unwind': '$reviews' }",
             "{ '$group': { '_id': '$name', 'averageRating': { '$avg': '$reviews.overall_rating' }, 'totalReviews': { '$sum': 1 } } }",

@@ -109,7 +109,7 @@ public class PostsCleaning {
             transformedJson.put("username", user);
             transformedJson.put("post", postBody);
             transformedJson.put("timestamp", formattedTimestamp);
-            transformedJson.put("nomment", numComments);
+            transformedJson.put("numcomment", numComments);
             transformedJson.put("reportedpost", false);
 
             JSONArray transformedComments = new JSONArray();
@@ -131,7 +131,7 @@ public class PostsCleaning {
                     transformedComment.put("username", commentUser);
                     transformedComment.put("timestamp", convertAndCorrectTimestamp(commentTimestamp));
                     transformedComment.put("body", originalComment.get("body"));
-                    transformedComment.put("reported_comment", false);
+                    transformedComment.put("reportedcomment", false);
 
                     transformedComments.add(transformedComment);
                 }
