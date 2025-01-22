@@ -7,7 +7,7 @@ import java.util.List;
 
 
 public class PostDTO {
-    private long id;
+    private String id;
     private String community;
     private String username;
     private String post;
@@ -36,7 +36,7 @@ public class PostDTO {
         this.post = post;
     }
 
-    public long getId() {
+    public String getId() {
         return id;
     }
 

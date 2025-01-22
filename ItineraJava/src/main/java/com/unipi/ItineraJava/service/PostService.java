@@ -133,16 +133,16 @@ public class PostService {
 
         comment.setReported(false);
         Post post = postRepository.findPostByUsernameAndCommunity(postUsername, postCommunity);
-        long postId = post.getId();
+        String postId = post.getId();
         System.out.println(post);
 
-        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
+        /*if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
             throw new IllegalArgumentException("User has not joined community: " + postCommunity);
-        }
+        }*/
 
         comment.setUsername(commenterUsername);
         comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
-                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")))));
+                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
         comment.setUsername(commenterUsername);
         comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
                 .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
@@ -153,12 +153,25 @@ public class PostService {
         }
         post.getComment().add(comment);
         post.setNum_comment(post.getNum_comment() + 1);
-        postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
+        //postNeo4jRepository.addCommentToPost(Long.valueOf(postId), comment.getTimestamp().toString(), commenterUsername);
         return postRepository.save(post);
     }
 
     public List<PostSummaryDto> findControversialPosts() {
         return postRepository.findTopReportedPostsByCommentCount();
     }
+
+    public void updatePostAfterCommentRemoval(String body) {
+        Post post = postRepository.findPostByReportedComment(body);
+        if (post == null) {
+            System.out.println("Nessun post trovato per il commento specificato.");
+            return;
+        }
+
+        post.getComment().removeIf(comment -> comment.getBody().equals(body) && comment.isReported());
+        post.setNum_comment(post.getNum_comment() - 1);
+        postRepository.save(post);
+    }
+
 }
 
