@@ -48,20 +48,6 @@ class PostController {
         else return ResponseEntity.internalServerError().body("Unauthorized");
     }
 
-
-    // http://localhost:8080/posts/comment
-    //working
-    @DeleteMapping("/comment")
-    public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
-                                                @RequestBody String text) {
-        if(User.isAdmin(token)){
-            postService.updatePostAfterCommentRemoval(text);
-            return ResponseEntity.ok("Comment deleted");
-        }else
-            return ResponseEntity.internalServerError().body("Unauthorized");
-    }
-
-
     // http://localhost:8080/posts/report
     // working
     @PutMapping("/report")
@@ -82,6 +68,18 @@ class PostController {
         }
 
         return ResponseEntity.internalServerError().body("Error");
+    }
+
+    // http://localhost:8080/posts/comment
+    //working
+    @DeleteMapping("/comment")
+    public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
+                                                @RequestBody String text) {
+        if(User.isAdmin(token)){
+            postService.updatePostAfterCommentRemoval(text);
+            return ResponseEntity.ok("Comment deleted");
+        }else
+            return ResponseEntity.internalServerError().body("Unauthorized");
     }
 
 
@@ -115,7 +113,15 @@ class PostController {
         return ResponseEntity.internalServerError().body("error");
     }
 
-    //non va ancora
+    //non va ancora, ritorna
+    //[
+    //    {
+    //        "username": null,
+    //        "timestamp": null,
+    //        "body": null,
+    //        "reported": false
+    //    }
+    //]
     @GetMapping("/comment/report")
     public ResponseEntity<List<Comment>> showCommentReported(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -125,7 +131,12 @@ class PostController {
         }
     }
 
-    //aggiunge un commento
+    //http://localhost:8080/posts/comment/Wooden-Secret5698
+    //{
+    //  "community": "Barcelona",
+    //  "timestamp": "2025-01-22T15:30:00Z",
+    //  "comment": "mesi mesi ankara mesi, immenso mesi"
+    //}
     @PostMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
@@ -156,7 +167,18 @@ class PostController {
             return ResponseEntity.internalServerError().body(e.getMessage());
         }
     }
-
+    // http://localhost:8080/posts/profile
+    // ritorna il post reportato con il maggior numero di commenti sotto
+    //[
+    //    {
+    //        "id": "679111e3bc7b0722300762be",
+    //        "community": "Barcelona",
+    //        "username": "Wooden-Secret5698",
+    //        "post": "this scammer found me 🤦‍♂️",
+    //        "reportedComments": 1,
+    //        "timestamp": "2024-12-22T13:37:44Z"
+    //    }
+    //]
     @GetMapping("profile")
     public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
     {
