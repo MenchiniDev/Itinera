@@ -264,6 +264,21 @@ class UserController {
     }*/
 
 
+    @DeleteMapping("/{username}")
+    public ResponseEntity<String> deleteUserByUsername(
+            @RequestHeader("Authorization") String token,
+            @PathVariable String username) {
+        if(User.isAdmin(token)) {
+            if (userService.deleteByUsername(username))
+                return ResponseEntity.ok("User deleted successfully");
+            else
+                return ResponseEntity.status(404).body("User not found");
+        }else {
+            return ResponseEntity.badRequest().body("User not authenticated. Please log in to access this endpoint.");
+        }
+
+    }
+
 
 
     /// endpoint per vedere le community che l'utente ha joinato

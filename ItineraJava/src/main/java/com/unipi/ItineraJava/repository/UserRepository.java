@@ -37,5 +37,7 @@ public interface UserRepository extends MongoRepository<User, String> {
             "{ $group: { _id: '$commenti.user', commentCount: { $sum: 1 } } }"  // Conta il numero di commenti
     })
     long countCommentsByUser(String username);
+
+    boolean deleteByUsername(String username);
 }
 
