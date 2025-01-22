@@ -4,10 +4,10 @@
   "username" : "9kSs",
   "post" : "Is it safe to park a rental car on the street on Isla de la Cartuja",
   "timestamp" : "2024-12-22T17:59:50Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "No problema at all. It is a good place to park near old town.",
     "username" : "elcarritoblanco",
     "timestamp" : "2024-12-22T17:59:50Z"

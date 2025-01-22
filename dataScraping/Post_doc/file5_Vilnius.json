@@ -4,10 +4,10 @@
   "username" : "vat0grafija",
   "post" : "A good dog I photographed today",
   "timestamp" : "2024-12-22T18:39:29Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Nice cat",
     "username" : "Agitated-League-7331",
     "timestamp" : "2024-12-22T18:39:29Z"

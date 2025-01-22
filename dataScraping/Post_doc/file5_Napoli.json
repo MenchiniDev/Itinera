@@ -4,15 +4,15 @@
   "username" : "lemon-jus",
   "post" : "Gruppi Trekking da Napoli? ",
   "timestamp" : "2024-12-23T09:34:44Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Su facebook ne trovi un botto, cerca il gruppo \"Trekking in Campania\" https://facebook.com/groups/45200629086/",
     "username" : "MenIntendo",
     "timestamp" : "2024-12-23T09:34:44Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "C'è la sezione del CAI di Napoli https://www.cainapoli.it/",
     "username" : "Netta00",
     "timestamp" : "2024-12-23T12:28:45Z"

@@ -4,10 +4,10 @@
   "username" : "Caratteraccio",
   "post" : "il napoletano Harold Stevens, noto anche come Colonello Buonasera",
   "timestamp" : "2024-12-23T12:15:39Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Buonasera a lei",
     "username" : "CommentRare5181",
     "timestamp" : "2024-12-23T12:15:39Z"

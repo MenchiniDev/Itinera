@@ -4,15 +4,15 @@
   "username" : "doctor6",
   "post" : "Killiney beach",
   "timestamp" : "2024-12-22T17:23:11Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Used to play down there almost daily as a kid.",
     "username" : "Noble_Ox",
     "timestamp" : "2024-12-22T17:23:11Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Great pic. Print and frame it.",
     "username" : "Silver_Mention_3958",
     "timestamp" : "2024-12-22T22:48:19Z"

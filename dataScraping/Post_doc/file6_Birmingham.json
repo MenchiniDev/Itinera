@@ -4,15 +4,15 @@
   "username" : "LolzTheGoat",
   "post" : "Railroad Park Today",
   "timestamp" : "2024-12-23T06:07:09Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Beautiful shots. Thanks",
     "username" : "savoryreflex",
     "timestamp" : "2024-12-23T06:07:09Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Beautiful!",
     "username" : "penalty-venture",
     "timestamp" : "2024-12-23T13:36:30Z"

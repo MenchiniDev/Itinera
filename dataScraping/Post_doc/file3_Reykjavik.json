@@ -4,15 +4,15 @@
   "username" : "Designer_Activity976",
   "post" : "A random day in July in Reykjavik 🫶🏽",
   "timestamp" : "2024-12-13T15:43:51Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "I don't believe you, I can see the sky.",
     "username" : "Glaesilegur",
     "timestamp" : "2024-12-13T15:43:51Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Hahahaha, it was a very sunny day though",
     "username" : "Designer_Activity976",
     "timestamp" : "2024-12-13T16:05:04Z"

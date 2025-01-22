@@ -4,10 +4,10 @@
   "username" : "ForeverFrog",
   "post" : "Working in Tallinn",
   "timestamp" : "2022-03-31T20:29:02Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Try r/eesti this sub is dead",
     "username" : "elagukalevostakulda",
     "timestamp" : "2022-03-31T20:29:02Z"

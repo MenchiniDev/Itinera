@@ -4,10 +4,10 @@
   "username" : "edgalimov",
   "post" : "Anyone up for playing chess offline?",
   "timestamp" : "2024-11-23T10:29:18Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "I sent you a PM :)",
     "username" : "crazzywak",
     "timestamp" : "2024-11-23T10:29:18Z"

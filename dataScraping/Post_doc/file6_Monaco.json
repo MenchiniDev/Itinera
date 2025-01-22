@@ -4,20 +4,20 @@
   "username" : "Heidelbeere27",
   "post" : "Flying from  NCE to BUD",
   "timestamp" : "2024-12-17T21:10:07Z",
-  "nomment" : 3,
+  "numcomment" : 3,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Can’t you just fill the lighter?",
     "username" : "Maxomans",
     "timestamp" : "2024-12-18T12:41:07Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Sending it by post would be simpler no?",
     "username" : "vilo236",
     "timestamp" : "2024-12-18T18:24:27Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "you’ll have more luck in the budapest subreddit.",
     "username" : "barrya29",
     "timestamp" : "2024-12-17T21:10:07Z"

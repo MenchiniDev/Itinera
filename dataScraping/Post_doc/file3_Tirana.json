@@ -4,15 +4,15 @@
   "username" : "yohana31",
   "post" : "Playing Football",
   "timestamp" : "2024-12-19T18:51:33Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Hey try and ask in facebook groups might have more luck there",
     "username" : "JustAnotherShqipe",
     "timestamp" : "2024-12-19T18:51:33Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Download android app called sportisti",
     "username" : "vegas1995",
     "timestamp" : "2024-12-21T23:09:32Z"

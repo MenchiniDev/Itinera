@@ -6,7 +6,11 @@ import com.unipi.ItineraJava.DTO.PostSummaryDto;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.PostNeo4jRepository;
+
+import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
+
 import com.unipi.ItineraJava.repository.PostRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
@@ -22,6 +26,9 @@ import java.util.Optional;
 
 @Service
 public class PostService {
+
+    @Autowired
+    private CommunityNeo4jRepository communityNeo4jRepository;
 
     @Autowired
     private PostNeo4jRepository postNeo4jRepository;
@@ -65,6 +72,8 @@ public class PostService {
 
     public void deleteById(String id) {
         postRepository.deleteById(id);
+        Long postId = Long.parseLong(id);
+        postNeo4jRepository.deletePostNode(postId);
     }
 
     public boolean reportPost(String body, String user, String community) {
@@ -126,7 +135,12 @@ public class PostService {
         comment.setReported(false);
         Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
         Long postId = Long.parseLong(post.getId());
+        String community = post.getCommunity();
         System.out.println(post);
+
+        if(!communityNeo4jRepository.isAlreadyJoined(commenterUsername, community)){
+            throw new IllegalArgumentException("User has not joined community: " + community);
+        }
 
         if (post != null) {
             comment.setUser(commenterUsername);

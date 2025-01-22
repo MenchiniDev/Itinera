@@ -4,15 +4,15 @@
   "username" : "Gamebyter",
   "post" : "Po burzliwych spotkaniach z mieszkańcami w sprawie Strefy Czystego Transportu urzędnicy zdecydowali o wydłużeniu konsultacji",
   "timestamp" : "2024-12-22T16:53:38Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Tom jest kurwa kpina nie konsultacje. Pierwsze dwa tygodnie konsultowano chuj wie co, jak już opublikowali projekt uchwały to dokręcili śrubę aż suty bolą a teraz jeszcze wydłużają konsultacje. Ciekawe co wyjdzie z tych ankiet co nawet captchy nie mają żeby weryfikować boty.",
     "username" : "Snejks",
     "timestamp" : "2024-12-22T20:17:35Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "To je są strefy czystego transportu tylko wykluczenia biednych posiadaczy aut. Możesz wjechać Land Roverem co pali 20litorw ale starszym Clio już nie.",
     "username" : "zRywii",
     "timestamp" : "2024-12-22T16:53:38Z"
