@@ -17,10 +17,7 @@ import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 @Component
 @JsonIgnoreProperties({"jwtTokenProvider"}) ///// AGGIUNTO PER FAR FUNZIONARE LOGIN SU SWAGGER
 public class User {
-
-    //@Schema(hidden = true)
     private static JwtTokenProvider jwtTokenProvider;
-
     @Autowired
     public void setJwtTokenProvider(JwtTokenProvider provider) {
         jwtTokenProvider = provider;
