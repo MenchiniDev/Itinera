@@ -4,15 +4,15 @@
   "username" : "KingOfTheNightfort",
   "post" : "Do not ask about illegal stuff. ",
   "timestamp" : "2024-11-19T11:32:00Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "[removed]",
     "username" : "None",
     "timestamp" : "2024-11-19T11:32:00Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Advertisements of any kind are not accepted.",
     "username" : "tirana-ModTeam",
     "timestamp" : "2024-11-19T11:32:47Z"

@@ -4,20 +4,20 @@
   "username" : "Hiccup9T",
   "post" : "Vožnja ",
   "timestamp" : "2024-12-22T09:24:47Z",
-  "nomment" : 3,
+  "numcomment" : 3,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Bilo koja AS. Platis sebi  casova koliko mislis da ti treba.",
     "username" : "mirgit",
     "timestamp" : "2024-12-22T09:24:47Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Iz mog licnog iskustva i za mene sto je dalo najbolje rezultate - jeftino auto da ide od tacke A do tacke B, sam u auto i vozi.",
     "username" : "Prestigious-Tea6246",
     "timestamp" : "2024-12-22T14:25:55Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Ako imas raju koja te vozika na izlascima pitaj ih da ti vozis rute koje inace oni voze, tj. ako imas strpljive raje :))",
     "username" : "iliijas",
     "timestamp" : "2024-12-23T12:15:46Z"

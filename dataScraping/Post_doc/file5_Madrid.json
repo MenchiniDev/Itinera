@@ -4,15 +4,15 @@
   "username" : "Emmanuel_I",
   "post" : "La exposición que muestra cómo la Escuela de Cine de Madrid fue un oasis de libertad en pleno franquismo",
   "timestamp" : "2024-12-23T09:13:33Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "[Sin muro de pago](https://archive.ph/cCciQ)",
     "username" : "Emmanuel_I",
     "timestamp" : "2024-12-23T09:14:59Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "He vuelto a leer el Confidencial. Te pido disculpas, u/clonehazard. No volverá a ocurrir.",
     "username" : "Emmanuel_I",
     "timestamp" : "2024-12-23T09:13:33Z"

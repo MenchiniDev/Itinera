@@ -4,15 +4,15 @@
   "username" : "Snoo_90160",
   "post" : "Nowe Miasto at night.",
   "timestamp" : "2024-12-21T13:26:57Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Really pretty (and seemingly underrated) little corner of Warsaw. I wish they put up a Christmas market there, it would be really beautiful if done right.",
     "username" : "Pr00ch",
     "timestamp" : "2024-12-21T13:26:57Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Noice!",
     "username" : "kociorro",
     "timestamp" : "2024-12-21T15:45:30Z"

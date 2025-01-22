@@ -4,30 +4,30 @@
   "username" : "CornelisGerard",
   "post" : "Does Riga know how to rock?",
   "timestamp" : "2024-12-16T12:58:15Z",
-  "nomment" : 5,
+  "numcomment" : 5,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "OP: I'm a London based musician that likes to explore the local music scene in other countries. This is a short vlog in which I explore the city and check out some live music.",
     "username" : "CornelisGerard",
     "timestamp" : "2024-12-16T12:58:15Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Sweet video. Did you try to gig down the corner ? The music scene in Riga is pretty nice.",
     "username" : "Loopbloc",
     "timestamp" : "2024-12-17T08:58:10Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Did you check out DJ Krankenwagen? Despite the name it’s a Riga based Band 😅",
     "username" : "IvanTheHobbit",
     "timestamp" : "2024-12-16T14:08:32Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "No, but I will be back again in the future because I found a venue that said I could perform there.",
     "username" : "CornelisGerard",
     "timestamp" : "2024-12-17T12:47:04Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "No, but thanks for the recommendation!",
     "username" : "CornelisGerard",
     "timestamp" : "2024-12-16T14:09:10Z"

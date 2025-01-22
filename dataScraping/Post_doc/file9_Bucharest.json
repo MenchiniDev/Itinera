@@ -4,10 +4,10 @@
   "username" : "huffmac",
   "post" : "My Dog's Original Owner",
   "timestamp" : "2024-05-14T06:47:34Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Looks like it s a block of flats with 50+ units.  You can go to the address and ask around. Many ppl speak english",
     "username" : "pantsnsocks",
     "timestamp" : "2024-05-14T06:47:34Z"

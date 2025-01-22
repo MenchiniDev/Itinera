@@ -4,10 +4,10 @@
   "username" : "Neither-Walrus2806",
   "post" : "What is the most convenient type of vehicle for family with 2 children in VLC?",
   "timestamp" : "2024-12-23T14:27:48Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Bicicleta",
     "username" : "extinctpolarbear",
     "timestamp" : "2024-12-23T14:27:48Z"

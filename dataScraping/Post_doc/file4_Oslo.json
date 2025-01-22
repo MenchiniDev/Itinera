@@ -4,15 +4,15 @@
   "username" : "Over_Sale7722",
   "post" : "Skøyteis i Spikersuppa? ",
   "timestamp" : "2024-12-23T11:10:43Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Ja",
     "username" : "GrethaThugberg",
     "timestamp" : "2024-12-23T11:10:43Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Takk. Da blir det skøyter og churros.",
     "username" : "Over_Sale7722",
     "timestamp" : "2024-12-23T11:20:49Z"

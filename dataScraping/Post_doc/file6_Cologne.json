@@ -4,10 +4,10 @@
   "username" : "bobbalm",
   "post" : "Tom Schneider ich suche dich",
   "timestamp" : "2024-12-23T14:31:03Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Schau mal bei LinkedIn",
     "username" : "sundayinitalian",
     "timestamp" : "2024-12-23T14:31:03Z"

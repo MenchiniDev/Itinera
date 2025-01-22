@@ -4,10 +4,10 @@
   "username" : "FLOORGAAANG",
   "post" : "Legend!",
   "timestamp" : "2021-08-01T11:28:23Z",
-  "nomment" : 1,
+  "numcomment" : 1,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "My eyes see 4 blocks but still a legendary 🙌",
     "username" : "tikislicktori-",
     "timestamp" : "2021-08-01T11:28:23Z"

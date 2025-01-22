@@ -4,15 +4,15 @@
   "username" : "Dishwasherunsafe1234",
   "post" : "Hbf gesperrt",
   "timestamp" : "2024-12-22T21:02:54Z",
-  "nomment" : 2,
+  "numcomment" : 2,
   "reportedpost" : false,
   "comment" : [ {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "Wohl Suizidankündigung und Strom abgestellt. S-Bahn soll wohl nicht betroffen sein.",
     "username" : "Strict_Pianist7051",
     "timestamp" : "2024-12-22T21:02:54Z"
   }, {
-    "reported_comment" : false,
+    "reportedcomment" : false,
     "body" : "S1 S2 S3 S5 konnten den hbf etwa eine halbe Stunde lang nicht passieren, aber der Verkehr wurde inzwischen wiederhergestellt. \nhttps://x.com/SBahnHamburg/status/1870929748525724105",
     "username" : "Newface117",
     "timestamp" : "2024-12-22T21:52:03Z"
