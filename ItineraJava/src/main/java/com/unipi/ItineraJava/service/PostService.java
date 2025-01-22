@@ -7,6 +7,7 @@ import com.unipi.ItineraJava.configuration.StringToLocalDateTimeConverter;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.PostRepository;
+import com.unipi.ItineraJava.repository.PostNeo4jRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cglib.core.Local;
 import org.springframework.data.mongodb.core.MongoTemplate;
@@ -24,6 +25,10 @@ import java.util.Optional;
 
 @Service
 public class PostService {
+
+    @Autowired
+    private PostNeo4jRepository postNeo4jRepository;
+
     @Autowired
     private PostRepository postRepository;
 
@@ -136,6 +141,7 @@ public class PostService {
 
         comment.setReported(false);
         Post post = postRepository.findByUsernameAndTimestamp(postUsername, postTimestamp);
+        Long postId = Long.parseLong(post.getId());
         System.out.println(post);
 
         if (post != null) {
@@ -149,6 +155,7 @@ public class PostService {
             }
             post.getComment().add(comment);
             post.setNum_comment(post.getNum_comment() + 1);
+            postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
             return postRepository.save(post);
         }
 
@@ -157,7 +164,7 @@ public class PostService {
 
     public List<PostSummaryDto> findControversialPosts() {
         return postRepository.findTopReportedPostsByCommentCount();
-
+    }
 
     private String generatePreview(String content) {
         if (content == null || content.isEmpty()) {
