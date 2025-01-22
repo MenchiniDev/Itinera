@@ -127,6 +127,7 @@ public class PostService {
         return postRepository.findReportedComments();
     }
 
+
     public List<Post> findByCommunity(String communityName) {
         return postRepository.findByCommunity(communityName);
     }
@@ -156,6 +157,14 @@ public class PostService {
 
     public List<PostSummaryDto> findControversialPosts() {
         return postRepository.findTopReportedPostsByCommentCount();
+
+
+    private String generatePreview(String content) {
+        if (content == null || content.isEmpty()) {
+            return "";
+        }
+        return content.length() > 30 ? content.substring(0, 30) + "..." : content;
+
     }
 }
 

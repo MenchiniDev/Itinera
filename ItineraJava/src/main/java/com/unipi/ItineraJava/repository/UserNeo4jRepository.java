@@ -16,33 +16,36 @@ import com.unipi.ItineraJava.model.UserGraph;
 public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
 
 
-    @Query("MATCH (u:User {username: $username}) RETURN count(u) > 0")
-    boolean existsByUsername(String username);
+       @Query("MATCH (u:User {username: $username}) RETURN count(u) > 0")
+       boolean existsByUsername(String username);
 
-    @Query("MATCH (u:User {username: $user})-[:FOLLOWING]->(u2:User {username: $userToFollow}) RETURN count(u) > 0")
-    boolean existsFollowRelationship(String user, String userToFollow);
+       @Query("MATCH (u:User {username: $user})-[:FOLLOWING]->(u2:User {username: $userToFollow}) RETURN count(u) > 0")
+       boolean existsFollowRelationship(String user, String userToFollow);
 
     //creazione nuovo nodo user alla signup
-    @Query("CREATE (u:User {username: $username}) RETURN u")
-    void createUserNode(String username);
+       @Query("CREATE (u:User {username: $username}) RETURN u")
+       void createUserNode(String username);
+
+       @Query("MATCH (u:User {username: $username}) DETACH DELETE u")
+       void deleteUserNode(String username);
 
     //lista delle community che l'utente loggato segue
-    @Query("MATCH (u:User {username: $username})-[:CONNECTED]->(c:Community) RETURN c.city AS city")
-    List<CommunityDTO>  getCommunityJoined(String username);
+       @Query("MATCH (u:User {username: $username})-[:CONNECTED]->(c:Community) RETURN c.city AS city")
+       List<CommunityDTO>  getCommunityJoined(String username);
 
-    @Query("MATCH (u1:User {username: $user}), (u2:User {username: $userToFollow}) " +
-                "MERGE (u1)-[:FOLLOWING]->(u2)")
-    void followUser(String user, String userToFollow);
+       @Query("MATCH (u1:User {username: $user}), (u2:User {username: $userToFollow}) " +
+              "MERGE (u1)-[:FOLLOWING]->(u2)")
+       void followUser(String user, String userToFollow);
 
-    @Query("MATCH (u:User {username: $user})-[f:FOLLOWING]->(u2:User {username: $userToUnfollow}) DELETE f")
-    void unfollowUser(String user, String userToUnfollow);
-
-
-    @Query("MATCH (u:User {username: $username})-[:FOLLOWING]->(u2:User) RETURN u2")
-    List<UserDTO> getFollowing(String username);
+       @Query("MATCH (u:User {username: $user})-[f:FOLLOWING]->(u2:User {username: $userToUnfollow}) DELETE f")
+       void unfollowUser(String user, String userToUnfollow);
 
 
-    @Query("MATCH (u:User {username: $username}) " +
+       @Query("MATCH (u:User {username: $username})-[:FOLLOWING]->(u2:User) RETURN u2")
+       List<UserDTO> getFollowing(String username);
+
+
+       @Query("MATCH (u:User {username: $username}) " +
            "OPTIONAL MATCH (u)-[:FOLLOWING]->(f:User)<-[:FOLLOWING]-(suggested1:User) " +
            "WHERE NOT (u)-[:FOLLOWING]->(suggested1) AND u <> suggested1 " +
            "WITH u, COLLECT(DISTINCT suggested1.username) AS firstLevelSuggestions " +
@@ -57,11 +60,11 @@ public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
            "UNWIND finalSuggestions AS suggestedUsername " +
            "RETURN DISTINCT suggestedUsername " +
            "LIMIT 10")
-    List<String> findSuggestedUsernames(@Param("username") String username);
+       List<String> findSuggestedUsernames(@Param("username") String username);
 
 
 
-    @Query("MATCH (u:User {username: $username}) " +
+       @Query("MATCH (u:User {username: $username}) " +
            "OPTIONAL MATCH (u)-[:FOLLOWING]->(f:User)-[:CONNECTED]->(suggestedCommunity:Community) " +
            "WHERE NOT (u)-[:CONNECTED]->(suggestedCommunity) " +
            "WITH u, COLLECT(DISTINCT suggestedCommunity.city) AS suggestedByFollowedUsers " +
@@ -72,10 +75,10 @@ public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
            "UNWIND allSuggestions AS suggestedCommunityName " +
            "RETURN DISTINCT suggestedCommunityName " +
            "LIMIT 5")
-    List<String> findSuggestedCommunities(@Param("username") String username);
+       List<String> findSuggestedCommunities(@Param("username") String username);
 
 
-    @Query("""
+       @Query("""
     MATCH (u:User {username: $username})
     OPTIONAL MATCH (u)-[:FOLLOWING]->(f:User)-[:ASSOCIATED]->(p:Post)
     OPTIONAL MATCH (p)-[:ASSOCIATED]->(c:Community)
@@ -112,7 +115,7 @@ public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
     }
     RETURN postId, preview, community
     """)
-    List<PostSuggestionDto> findSuggestedPosts(@Param("username") String username);
+       List<PostSuggestionDto> findSuggestedPosts(@Param("username") String username);
 
 
 
