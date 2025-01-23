@@ -1,10 +1,7 @@
 package com.unipi.ItineraJava.controller;
 
 
-import com.unipi.ItineraJava.DTO.PostSummaryDto;
-import com.unipi.ItineraJava.DTO.ReportCommentRequest;
-import com.unipi.ItineraJava.DTO.ReportPostRequest;
-import com.unipi.ItineraJava.DTO.commentDTO;
+import com.unipi.ItineraJava.DTO.*;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.model.User;
@@ -25,6 +22,22 @@ class PostController {
     private PostService postService;
     @Autowired
     private CommunityService communityService;
+    @Autowired
+    private User user;
+
+    @PostMapping("/{communityname}")
+    public ResponseEntity<String> createPost(@RequestHeader("Authorization") String token,
+                                                     @PathVariable String communityname,
+                                                     @RequestBody String post) {
+        String username = JwtTokenProvider.getUsernameFromToken(token);
+        if(username == null) {
+            return null;
+        }
+        if(postService.addPost(communityname, username, post))
+            return ResponseEntity.ok("post added successfully");
+        else
+            return ResponseEntity.badRequest().body("Error");
+    }
 
     // http://localhost:8080/posts
     // returns all posts of a community
