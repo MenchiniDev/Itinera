@@ -1,9 +1,16 @@
 package com.unipi.ItineraJava.model;
+
+import org.springframework.data.mongodb.core.mapping.Field;
+
 // COMMENT
 public class Comment {
+    @Field("username")
     private String username;
+    @Field("timestamp")
     private String timestamp;
+    @Field("body")
     private String body;
+    @Field("reported")
     private boolean reportedcomment;
 
     public Comment() {}

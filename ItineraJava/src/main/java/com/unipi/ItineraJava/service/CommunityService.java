@@ -192,6 +192,6 @@ public class CommunityService {
     }
 
     public boolean findByName(String community) {
-        return communityRepository.findByName(community);
+        return communityRepository.existsByName(community);
     }
 }

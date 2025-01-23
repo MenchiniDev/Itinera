@@ -29,5 +29,5 @@ public interface CommunityRepository extends MongoRepository<MongoCommunity, Str
 
         Post save(Post post);
 
-    boolean findByName(String community);
+    boolean existsByName(String community);
 }

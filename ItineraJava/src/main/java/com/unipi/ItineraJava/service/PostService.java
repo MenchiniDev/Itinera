@@ -195,13 +195,13 @@ public class PostService {
 
     public boolean addPost(String community, String username, String postBody) {
 
-        if (!communityNeo4jRepository.existsByCity(community)) {
+        /*if (!communityNeo4jRepository.existsByCity(community)) {
             throw new IllegalArgumentException("This community does not exists: " + community);
         }
 
         if (!communityNeo4jRepository.isAlreadyJoined(username, community)) {
             throw new IllegalArgumentException("User has not joined community: " + community);
-        }
+        }*/
 
 
         if(communityService.findByName(community))
@@ -216,7 +216,7 @@ public class PostService {
             post.setReported_post(false);
             post.setComment(new ArrayList<>()); // Inizializza come lista vuota 
             postRepository.save(post);
-            postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp());
+            //postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp());
             return true;
         } else {
             // Community non trovata

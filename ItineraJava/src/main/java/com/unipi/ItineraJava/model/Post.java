@@ -3,9 +3,8 @@ package com.unipi.ItineraJava.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.mongodb.core.mapping.Field;
 
-import java.time.LocalDateTime;
-import java.util.Date;
 import java.util.List;
 
 // POST
@@ -13,12 +12,19 @@ import java.util.List;
 public class Post {
     @Id
     private Long postId;
+    @Field("community")
     private String community;
+    @Field("username")
     private String username;
+    @Field("post")
     private String post;
+    @Field("timestamp")
     private String timestamp;
-    private int numcomment;
+    @Field("ncomment")
+    private int ncomment;
+    @Field("reportedpost")
     private boolean reportedpost; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
+    @Field("comment")
     private List<Comment> comment;
 
     public Post() {}
@@ -53,10 +59,10 @@ public class Post {
         this.timestamp = timestamp;
     }
     public int getNum_comment() {
-        return numcomment;
+        return ncomment;
     }
     public void setNum_comment(int num_comment) {
-        this.numcomment = num_comment;
+        this.ncomment = num_comment;
     }
     public boolean isReported_post() {
         return reportedpost;
