@@ -12,21 +12,21 @@ import java.util.List;
 @Document(collection = "Post")
 public class Post {
     @Id
-    private String postId;
+    private Long postId;
     private String community;
     private String username;
     private String post;
     private String timestamp;
-    private int ncomment;
+    private int numcomment;
     private boolean reportedpost; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
     private List<Comment> comment;
 
     public Post() {}
-    public String getId() {
+    public Long getId() {
         return postId;
     }
-    public void setId(String id) {
-        this.postId = id;
+    public void setId(Long postId) {
+        this.postId = postId;
     }
     public String getCommunity() {
         return community;
@@ -53,10 +53,10 @@ public class Post {
         this.timestamp = timestamp;
     }
     public int getNum_comment() {
-        return ncomment;
+        return numcomment;
     }
     public void setNum_comment(int num_comment) {
-        this.ncomment = num_comment;
+        this.numcomment = num_comment;
     }
     public boolean isReported_post() {
         return reportedpost;

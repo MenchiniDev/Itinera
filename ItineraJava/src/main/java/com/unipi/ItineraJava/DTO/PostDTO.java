@@ -7,7 +7,7 @@ import java.util.List;
 
 
 public class PostDTO {
-    private String id;
+    private Long postId;
     private String community;
     private String username;
     private String post;
@@ -36,8 +36,8 @@ public class PostDTO {
         this.post = post;
     }
 
-    public String getId() {
-        return id;
+    public Long getId() {
+        return postId;
     }
 
     public String getTimestamp() {
