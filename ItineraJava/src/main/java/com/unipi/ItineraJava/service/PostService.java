@@ -185,8 +185,25 @@ public class PostService {
         postRepository.save(post);
     }
 
+    private String generatePreview(String content) {
+        if (content == null || content.isEmpty()) {
+            return "";
+        }
+        return content.length() > 30 ? content.substring(0, 30) + "..." : content;
+    }
+
 
     public boolean addPost(String community, String username, String postBody) {
+
+        if (!communityNeo4jRepository.existsByCity(community)) {
+            throw new IllegalArgumentException("This community does not exists: " + community);
+        }
+
+        if (!communityNeo4jRepository.isAlreadyJoined(username, community)) {
+            throw new IllegalArgumentException("User has not joined community: " + community);
+        }
+
+
         if(communityService.findByName(community))
         {
             Post post = new Post();
@@ -198,7 +215,7 @@ public class PostService {
             post.setReported_post(false);
             post.setComment(null); //todo: forse da nullpointer
             postRepository.save(post);
-
+            postNeo4jRepository.createPostNode(postCounter.incrementAndGet(), generatePreview(postBody), post.getTimestamp());
             return true;
         } else {
             // Community non trovata
