@@ -11,10 +11,11 @@ import java.util.Set;
 @Node("User")
 public class UserGraph {
 
-    @Id
-    @GeneratedValue
-    private long id;
+    
+    //@GeneratedValue
+    //private Long id;
 
+    @Id
     @Property("username")
     private String username;
 

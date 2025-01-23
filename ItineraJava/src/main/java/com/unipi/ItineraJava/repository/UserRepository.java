@@ -12,6 +12,7 @@ import org.springframework.stereotype.Repository;
 
 import com.unipi.ItineraJava.model.User; //b
 
+
 @Repository
 public interface UserRepository extends MongoRepository<User, String> {
     
@@ -58,6 +59,9 @@ public interface UserRepository extends MongoRepository<User, String> {
     })
     List<ActiveUserDTO> findTopActiveUsers();
 
-    boolean deleteByUsername(String username);
+
+    
+    
+    Long deleteByUsername(String username);
 }
 

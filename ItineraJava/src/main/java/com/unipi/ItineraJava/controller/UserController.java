@@ -127,7 +127,7 @@ class UserController {
 
     // http://localhost:8080/users/678f461050e5455936170332
     // delete an user
-    @DeleteMapping("/{id}")
+    @DeleteMapping("/deleteById/{id}")
     public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
                                             @PathVariable String id) {
         try {
@@ -265,7 +265,7 @@ class UserController {
     }*/
 
 
-    @DeleteMapping("/{username}")
+    @DeleteMapping("/deletebyusername/{username}")
     public ResponseEntity<String> deleteUserByUsername(
             @RequestHeader("Authorization") String token,
             @PathVariable String username) {
