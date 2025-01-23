@@ -4,14 +4,14 @@ public class Comment {
     private String username;
     private String timestamp;
     private String body;
-    private boolean reported;
+    private boolean reportedcomment;
 
     public Comment() {}
     public Comment(String user, String  timestamp, String text, boolean reported) {
         this.username = user;
         this.timestamp = timestamp;
         this.body = text;
-        this.reported = reported;
+        this.reportedcomment = reported;
     }
     public String getUsername() {
         return username;
@@ -32,9 +32,9 @@ public class Comment {
         this.body = body;
     }
     public boolean isReported() {
-        return reported;
+        return reportedcomment;
     }
     public void setReported(boolean reported) {
-        this.reported = reported;
+        this.reportedcomment = reported;
     }
 }

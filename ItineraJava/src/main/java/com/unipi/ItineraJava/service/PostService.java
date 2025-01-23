@@ -138,7 +138,7 @@ public class PostService {
 
         comment.setReported(false);
         Post post = postRepository.findPostByUsernameAndCommunity(postUsername, postCommunity);
-        Long postId = Long.parseLong(post.getId());
+        Long postId = post.getId();
         System.out.println(post);
 
         if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
@@ -175,7 +175,7 @@ public class PostService {
 
         Comment comment1 = post.getComment().stream().filter(c -> c.getBody().equals(body)).findFirst().orElse(null);
         String usernameCommmenter = comment1.getUsername();
-        Long postId = Long.parseLong(post.getId());
+        Long postId = post.getId();
         String commentTimestamp = comment1.getTimestamp();
 
         postNeo4jRepository.deleteComment(usernameCommmenter, postId, commentTimestamp);
@@ -205,17 +205,18 @@ public class PostService {
 
 
         if(communityService.findByName(community))
-        {
+        {   Long postId = postCounter.incrementAndGet();
             Post post = new Post();
+            post.setId(postId);
             post.setUsername(username);
             post.setCommunity(community);
             post.setTimestamp(String.valueOf(LocalDateTime.now()));
             post.setPost(postBody);
             post.setNum_comment(0);
             post.setReported_post(false);
-            post.setComment(null); //todo: forse da nullpointer
+            post.setComment(new ArrayList<>()); // Inizializza come lista vuota 
             postRepository.save(post);
-            postNeo4jRepository.createPostNode(postCounter.incrementAndGet(), generatePreview(postBody), post.getTimestamp());
+            postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp());
             return true;
         } else {
             // Community non trovata
