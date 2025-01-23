@@ -21,6 +21,8 @@ public interface PostNeo4jRepository extends Neo4jRepository<PostGraph, Long>{
         "RETURN c")
     void addCommentToPost(Long postId, String timestamp, String username);
 
-    @Query("MATCH (u:User {username: $username})-[c:COMMENT]->(p:Post {postId: $postId}) DETACH DELETE c")
-    void deleteComment(String username, String postId);
+    @Query("MATCH (u:User {username: $username})-[c:COMMENT {timestamp: $timestamp}]->(p:Post {postId: $postId}) " +
+        "DETACH DELETE c")
+    void deleteComment(String username, Long postId, String timestamp);
+
 }

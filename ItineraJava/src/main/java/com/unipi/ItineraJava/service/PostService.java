@@ -23,6 +23,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
+import java.util.concurrent.atomic.AtomicLong;
 
 @Service
 public class PostService {
@@ -38,6 +39,8 @@ public class PostService {
 
     @Autowired
     private MongoTemplate mongoTemplate;
+
+    private final AtomicLong postCounter = new AtomicLong(200500);
 
     public List<Post> findAll() {
         return postRepository.findAll();
@@ -133,12 +136,12 @@ public class PostService {
 
         comment.setReported(false);
         Post post = postRepository.findPostByUsernameAndCommunity(postUsername, postCommunity);
-        String postId = post.getId();
+        Long postId = Long.parseLong(post.getId());
         System.out.println(post);
 
-        /*if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
+        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
             throw new IllegalArgumentException("User has not joined community: " + postCommunity);
-        }*/
+        }
 
         comment.setUsername(commenterUsername);
         comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
@@ -153,7 +156,7 @@ public class PostService {
         }
         post.getComment().add(comment);
         post.setNum_comment(post.getNum_comment() + 1);
-        //postNeo4jRepository.addCommentToPost(Long.valueOf(postId), comment.getTimestamp().toString(), commenterUsername);
+        postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
         return postRepository.save(post);
     }
 
@@ -168,10 +171,19 @@ public class PostService {
             return;
         }
 
+        Comment comment1 = post.getComment().stream().filter(c -> c.getBody().equals(body)).findFirst().orElse(null);
+        String usernameCommmenter = comment1.getUsername();
+        Long postId = Long.parseLong(post.getId());
+        String commentTimestamp = comment1.getTimestamp();
+
+        postNeo4jRepository.deleteComment(usernameCommmenter, postId, commentTimestamp);
+
         post.getComment().removeIf(comment -> comment.getBody().equals(body) && comment.isReported());
         post.setNum_comment(post.getNum_comment() - 1);
         postRepository.save(post);
     }
+
+
 
 }
 
