@@ -25,14 +25,15 @@ class PostController {
     @Autowired
     private User user;
 
-    @PostMapping
+    @PostMapping("/{communityname}")
     public ResponseEntity<String> createPost(@RequestHeader("Authorization") String token,
-                                                     @RequestBody addPostDTO post) {
+                                                     @PathVariable String communityname,
+                                                     @RequestBody String post) {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null) {
             return null;
         }
-        if(postService.addPost(post.getCommunity(), username, post.getPost()))
+        if(postService.addPost(communityname, username, post))
             return ResponseEntity.ok("post added successfully");
         else
             return ResponseEntity.badRequest().body("Error");
