@@ -191,4 +191,7 @@ public class CommunityService {
         return communityRepository.existsByCity(name);
     }
 
+    public boolean findByName(String community) {
+        return communityRepository.findByName(community);
+    }
 }

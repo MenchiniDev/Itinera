@@ -38,6 +38,8 @@ public class PostService {
 
     @Autowired
     private MongoTemplate mongoTemplate;
+    @Autowired
+    private CommunityService communityService;
 
     public List<Post> findAll() {
         return postRepository.findAll();
@@ -173,5 +175,24 @@ public class PostService {
         postRepository.save(post);
     }
 
+    public boolean addPost(String community, String username, String postBody) {
+        if(communityService.findByName(community))
+        {
+            Post post = new Post();
+            post.setUsername(username);
+            post.setCommunity(community);
+            post.setTimestamp(String.valueOf(LocalDateTime.now()));
+            post.setPost(postBody);
+            post.setNum_comment(0);
+            post.setReported_post(false);
+            post.setComment(null); //todo: forse da nullpointer
+            postRepository.save(post);
+
+            return true;
+        } else {
+            // Community non trovata
+            return false;
+        }
+    }
 }
 
