@@ -1,26 +1,23 @@
 package com.unipi.ItineraJava.model;
-
-import java.time.LocalDateTime;
-
 // COMMENT
 public class Comment {
-    private String user;
+    private String username;
     private String timestamp;
-    private String text;
+    private String body;
     private boolean reported;
 
     public Comment() {}
     public Comment(String user, String  timestamp, String text, boolean reported) {
-        this.user = user;
+        this.username = user;
         this.timestamp = timestamp;
-        this.text = text;
+        this.body = text;
         this.reported = reported;
     }
-    public String getUser() {
-        return user;
+    public String getUsername() {
+        return username;
     }
-    public void setUser(String user) {
-        this.user = user;
+    public void setUsername(String username) {
+        this.username = username;
     }
     public String  getTimestamp() {
         return timestamp;
@@ -28,11 +25,11 @@ public class Comment {
     public void setTimestamp(String  timestamp) {
         this.timestamp = timestamp;
     }
-    public String getText() {
-        return text;
+    public String getBody() {
+        return body;
     }
-    public void setText(String text) {
-        this.text = text;
+    public void setBody(String body) {
+        this.body = body;
     }
     public boolean isReported() {
         return reported;

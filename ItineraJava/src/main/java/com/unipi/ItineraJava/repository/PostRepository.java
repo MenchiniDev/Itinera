@@ -19,10 +19,12 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Optional<Post> findPostByTimestampAndUsernameAndCommunity(String body, String username, String community);
 
     @Aggregation(pipeline = {
-            "{ '$unwind': '$comment' }", // Esplodi l'array dei commenti
+            "{ '$unwind': { 'path': '$comment', 'preserveNullAndEmptyArrays': true } }", // Esplodi l'array dei commenti
+            "{ '$addFields': { 'comment.reported': { '$ifNull': ['$comment.reported', false] } } }", // Aggiungi il campo 'reported' se mancante
             "{ '$match': { 'comment.reported': true } }", // Filtra i commenti segnalati
-            "{ '$project': { 'comment.text': 1, 'comment.user': 1, 'comment.timestamp': 1 } }" // Restituisci solo i dati rilevanti
+            "{ '$project': { 'comment.body': 1, 'comment.username': 1, 'comment.timestamp': 1, 'comment.reported': 1 } }" // Restituisci solo i dati rilevanti
     })
+
     List<Comment> findReportedComments();
 
     @Query(value = "{ '_id': ?0 }")
@@ -47,11 +49,24 @@ public interface PostRepository extends MongoRepository<Post, String> {
     List<Post> findByReportedpostTrue();
 
     @Aggregation(pipeline = {
-            "{ '$match': { 'comment': { '$elemMatch': { 'body': ?0, 'reportedcomment': true } } } }", // Filtra i documenti che contengono almeno un commento che soddisfa i criteri
-            "{ '$set': { 'comment': { '$filter': { 'input': '$comment', 'as': 'c', 'cond': { '$and': [ { '$ne': ['$$c.body', ?0] }, { '$eq': ['$$c.reportedcomment', true] } ] } } } } }", // Rimuove i commenti che corrispondono
-            "{ '$match': { 'comment': { '$eq': [] } } }", // Filtra i documenti senza commenti residui
-            "{ '$unset': 'comment' }", // Elimina il campo 'comment' (opzionale)
-            "{ '$merge': { 'into': 'post', 'on': '_id', 'whenMatched': 'replace', 'whenNotMatched': 'fail' } }" // Aggiorna i documenti nel database
+            "{ '$match': { 'comment.body': ?0, 'comment.reported': true } }"
+    })
+    Post findPostByReportedComment(String body);
+
+    @Aggregation(pipeline = {
+            // Filtra i documenti che contengono almeno un commento che corrisponde ai criteri
+            "{ '$match': { 'comment': { '$elemMatch': { 'body': ?0, 'reported': true } } } }",
+
+            // Usa $pull per rimuovere solo il commento specifico dalla sottocollezione 'comment'
+            "{ '$set': { 'comment': { '$filter': { 'input': '$comment', 'as': 'c', 'cond': { '$not': { '$and': [ { '$eq': ['$$c.body', ?0] }, { '$eq': ['$$c.reported', true] } ] } } } } } }",
+
+            // Filtra i documenti che contengono commenti rimasti
+            "{ '$match': { 'comment': { '$ne': [] } } }", // Assicura che ci siano ancora commenti
+
+            // Opzionalmente, puoi rimuovere il campo 'comment' se non ci sono più commenti rimasti
+            "{ '$unset': 'comment' }"
     })
     void deleteByText(String text);
+
+    Post findPostByUsernameAndCommunity(String postUsername, String postCommunity);
 }

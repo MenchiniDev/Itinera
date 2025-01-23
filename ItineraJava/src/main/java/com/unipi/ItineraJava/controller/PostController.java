@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDateTime;
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 @RequestMapping("/posts")
@@ -38,14 +37,6 @@ class PostController {
         }
     }
 
-    // http://localhost:8080/posts/678e56991a6dfb7aa1fbc30a
-    // todo: indebuggabile
-    /*
-    @GetMapping("/{id}")
-    public Optional<Post> getPostById(@PathVariable String id) {
-        return postService.getPostById(id);
-    }*/
-
     // working
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deletePost(@RequestHeader("Authorization") String token,
@@ -56,19 +47,6 @@ class PostController {
         }
         else return ResponseEntity.internalServerError().body("Unauthorized");
     }
-
-
-    //forse ok
-    @DeleteMapping("/comment")
-    public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
-                                                @RequestBody String text) {
-        if(User.isAdmin(token)){
-            postService.deleteByText(text);
-            return ResponseEntity.ok("Comment deleted");
-        }else
-            return ResponseEntity.internalServerError().body("Unauthorized");
-    }
-
 
     // http://localhost:8080/posts/report
     // working
@@ -92,6 +70,18 @@ class PostController {
         return ResponseEntity.internalServerError().body("Error");
     }
 
+    // http://localhost:8080/posts/comment
+    //working
+    @DeleteMapping("/comment")
+    public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
+                                                @RequestBody String text) {
+        if(User.isAdmin(token)){
+            postService.updatePostAfterCommentRemoval(text);
+            return ResponseEntity.ok("Comment deleted");
+        }else
+            return ResponseEntity.internalServerError().body("Unauthorized");
+    }
+
 
     // http://localhost:8080/posts/report
     // working
@@ -104,7 +94,13 @@ class PostController {
         }
     }
 
-
+    // http://localhost:8080/posts/comment/report
+    // {
+    //    "user":"ZenBoyNothingHead",
+    //    "textComment":"Just moved into a new neighborhood and there's a community compost bin. I love the idea of composting so we can waste less, but there are no instructions or websites to find instructions on the bin. Anyone know how this works??",
+    //    "community":"Amsterdam"
+    // }
+    // working
     @PutMapping("/comment/report")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
                                              @RequestBody ReportCommentRequest report)
@@ -117,6 +113,15 @@ class PostController {
         return ResponseEntity.internalServerError().body("error");
     }
 
+    //non va ancora, ritorna
+    //[
+    //    {
+    //        "username": null,
+    //        "timestamp": null,
+    //        "body": null,
+    //        "reported": false
+    //    }
+    //]
     @GetMapping("/comment/report")
     public ResponseEntity<List<Comment>> showCommentReported(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -126,7 +131,12 @@ class PostController {
         }
     }
 
-    //aggiunge un commento
+    //http://localhost:8080/posts/comment/Wooden-Secret5698
+    //{
+    //  "community": "Barcelona",
+    //  "timestamp": "2025-01-22T15:30:00Z",
+    //  "comment": "mesi mesi ankara mesi, immenso mesi"
+    //}
     @PostMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
@@ -139,12 +149,12 @@ class PostController {
                 return ResponseEntity.internalServerError().body("token invalid");
 
             Comment comment = new Comment();
-            comment.setUser(commenterUsername);
+            comment.setUsername(commenterUsername);
             comment.setTimestamp(String.valueOf(LocalDateTime.now()));
-            comment.setText(commentDTO.getComment());
+            comment.setBody(commentDTO.getComment());
             comment.setReported(false);
 
-            Post updatedPost = postService.addCommentToPost(username, commentDTO.getTimestamp(), commenterUsername, comment);
+            Post updatedPost = postService.addCommentToPost(username, commentDTO.getCommunity(), commenterUsername, comment);
 
             if (updatedPost != null) {
                 return ResponseEntity.ok("Commento aggiunto");
@@ -157,7 +167,18 @@ class PostController {
             return ResponseEntity.internalServerError().body(e.getMessage());
         }
     }
-
+    // http://localhost:8080/posts/profile
+    // ritorna il post reportato con il maggior numero di commenti sotto
+    //[
+    //    {
+    //        "id": "679111e3bc7b0722300762be",
+    //        "community": "Barcelona",
+    //        "username": "Wooden-Secret5698",
+    //        "post": "this scammer found me 🤦‍♂️",
+    //        "reportedComments": 1,
+    //        "timestamp": "2024-12-22T13:37:44Z"
+    //    }
+    //]
     @GetMapping("profile")
     public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
     {

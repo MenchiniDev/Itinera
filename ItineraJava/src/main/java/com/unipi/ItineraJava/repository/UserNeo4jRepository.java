@@ -19,10 +19,10 @@ public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
        @Query("MATCH (u:User {username: $username}) RETURN count(u) > 0")
        boolean existsByUsername(String username);
 
-       @Query("MATCH (u:User {username: $user})-[:FOLLOWING]->(u2:User {username: $userToFollow}) RETURN count(u) > 0")
-       boolean existsFollowRelationship(String user, String userToFollow);
+       @Query("MATCH (u:User {username: $username})-[:FOLLOWING]->(u2:User {username: $userToFollow}) RETURN count(u) > 0")
+       boolean existsFollowRelationship(String username, String userToFollow);
 
-    //creazione nuovo nodo user alla signup
+    //creazione nuovo nodo username alla signup
        @Query("CREATE (u:User {username: $username}) RETURN u")
        void createUserNode(String username);
 
@@ -33,12 +33,12 @@ public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
        @Query("MATCH (u:User {username: $username})-[:CONNECTED]->(c:Community) RETURN c.city AS city")
        List<CommunityDTO>  getCommunityJoined(String username);
 
-       @Query("MATCH (u1:User {username: $user}), (u2:User {username: $userToFollow}) " +
+       @Query("MATCH (u1:User {username: $username}), (u2:User {username: $userToFollow}) " +
               "MERGE (u1)-[:FOLLOWING]->(u2)")
-       void followUser(String user, String userToFollow);
+       void followUser(String username, String userToFollow);
 
-       @Query("MATCH (u:User {username: $user})-[f:FOLLOWING]->(u2:User {username: $userToUnfollow}) DELETE f")
-       void unfollowUser(String user, String userToUnfollow);
+       @Query("MATCH (u:User {username: $username})-[f:FOLLOWING]->(u2:User {username: $userToUnfollow}) DELETE f")
+       void unfollowUser(String username, String userToUnfollow);
 
 
        @Query("MATCH (u:User {username: $username})-[:FOLLOWING]->(u2:User) RETURN u2")
