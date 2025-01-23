@@ -13,7 +13,7 @@ import com.unipi.ItineraJava.DTO.*;
 import com.unipi.ItineraJava.model.UserGraph;
 
 @Repository
-public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, Long> {
+public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, String> {
 
 
        @Query("MATCH (u:User {username: $username}) RETURN count(u) > 0")

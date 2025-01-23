@@ -53,10 +53,10 @@ public class UserService{
     }
 
     public void deleteById(String id) {
-        userRepository.deleteById(id);
         User user = userRepository.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException("User not found with id: " + id));
         String username = user.getUsername();
+        userRepository.deleteById(id);
         userNeo4jRepository.deleteUserNode(username);
 
     }
@@ -159,11 +159,19 @@ public class UserService{
     }
 
     public boolean deleteByUsername(String username) {
+        
         if(!userNeo4jRepository.existsByUsername(username)){
             throw new IllegalArgumentException("User not found: " + username);
         }
+
         userNeo4jRepository.deleteUserNode(username);
-        return userRepository.deleteByUsername(username);
+
+        if((!userNeo4jRepository.existsByUsername(username)) && (userRepository.deleteByUsername(username) > 0)){
+            return true;
+        }else{
+            return false;
+        }
+        
     }
 
     public List<ActiveUserDTO> findTopActiveUsers()
