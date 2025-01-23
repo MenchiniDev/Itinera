@@ -9,6 +9,7 @@ import org.springframework.data.mongodb.repository.Update;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     @Aggregation(pipeline = {
@@ -35,19 +36,27 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     })
     ArrayList<MongoPlace> findByCityAndCategoryOrderByOverallRating(String city, String category);
 
-    // sbagliata ///////
-    @Aggregation(pipeline = {
-            "{ '$unwind': '$reviews' }",
-            "{ '$group': { '_id': '$name', 'averageRating': { '$avg': '$reviews.overall_rating' }, 'totalReviews': { '$sum': 1 } } }",
-            "{ '$project': { '_id': 0, 'name': '$_id', 'averageRating': 1, 'totalReviews': 1 } }"
-    })
-    void calculateReviewSummary();
+
+
+
+
+
+
+
+    @Query("{ 'name': ?0 }")
+    @Update("{ '$set': { 'reviews_info.overall_rating': ?1, 'reviews_info.tot_rev_number': ?2 } }")
+    void updateReviewSummary(String placeName, double averageRating, int totalReviews);
+
+
+
+
 
     List<MongoPlace> findByCity(String city);
 
-    @Query("{ 'name': ?0 }")
+
+    /*@Query("{ 'name': ?0 }")
     @Update("{ '$inc': { 'reviews_info.tot_rev_number': -1 } }")
-    void decrementReviewCount(String placeName);
+    void decrementReviewCount(String placeName);*/
 
 
 }

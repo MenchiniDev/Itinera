@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.service;
 
 import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
+import com.unipi.ItineraJava.DTO.ReviewsReportedDTO;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.repository.PlaceRepository;
 import com.unipi.ItineraJava.repository.ReviewRepository;
@@ -49,14 +50,15 @@ public class ReviewService {
         review.setTimestamp(LocalDateTime.now().toString());// questo non mette la Z
         review.setReported(false);
 
-        //incrementare il numero di recensioni nell'oggetto embedded
-        placeService.incrementReviewCount(placeName);
 
-        //da correggere
-        placeRepository.calculateReviewSummary();
+        // Salva la recensione
+        Review savedReview = reviewRepository.save(review);
 
-        // Salvataggio
-        return reviewRepository.save(review);
+        // Aggiorna la media e il numero totale di recensioni
+        placeService.updateReviewSummary(placeName);
+
+        return savedReview;
+
     }
 
     public String reportReview(String place_name, String username, String timestamp) {
@@ -66,6 +68,9 @@ public class ReviewService {
             query.addCriteria(Criteria.where("place_name").is(place_name)
                     .and("user").is(username)
                     .and("timestamp").is(timestamp));
+
+            System.out.println("Query costruita: " + query.toString());
+
 
             // Crea l'operazione di aggiornamento per impostare reported su true
             Update update = new Update();
@@ -79,9 +84,11 @@ public class ReviewService {
         }
     }
 
-    public List<Review> showReviewReported() {
+
+    public List<ReviewsReportedDTO> showReviewReported() {
         return reviewRepository.findReportedComments();
     }
+
 
     public List<Review> getReviewsByName(String name) {
         try {
@@ -128,13 +135,13 @@ public class ReviewService {
 
         System.out.println("Decremented tot_rev_number for place: " + placeName);
     }*/
-    public String deleteReviewAndDecrement(String reviewId) {
+    public String deleteReview(String reviewId) {
         Review review = reviewRepository.findById(reviewId)
                 .orElseThrow(() -> new IllegalArgumentException("Review not found with ID: " + reviewId));
         //metodo predefinito
         reviewRepository.deleteById(reviewId);
         //query per decrementare
-        placeRepository.decrementReviewCount(review.getPlace_name());
+        placeService.updateReviewSummary(review.getPlace_name());
         return "Review successfully deleted and count decremented";
     }
 
