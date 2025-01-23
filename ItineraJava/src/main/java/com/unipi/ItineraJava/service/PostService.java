@@ -75,9 +75,11 @@ public class PostService {
     }
 
     public void deleteById(String id) {
-        postRepository.deleteById(id);
-        Long postId = Long.parseLong(id);
+        
+        Post post = postRepository.findById(id).orElse(null);
+        Long postId = post.getPostId();
         postNeo4jRepository.deletePostNode(postId);
+        postRepository.deleteById(id);
     }
 
     public boolean reportPost(String body, String user, String community) {
@@ -111,7 +113,7 @@ public class PostService {
 
 
             Update update = new Update();
-            update.set("comment.$.reported", true);
+            update.set("comment.$.reportedcomment", true);
 
             mongoTemplate.updateFirst(query, update, Post.class);
 
@@ -138,7 +140,7 @@ public class PostService {
 
         comment.setReported(false);
         Post post = postRepository.findPostByUsernameAndCommunity(postUsername, postCommunity);
-        Long postId = post.getId();
+        Long postId = post.getPostId();
         System.out.println(post);
 
         if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
@@ -170,13 +172,22 @@ public class PostService {
         Post post = postRepository.findPostByReportedComment(body);
         if (post == null) {
             System.out.println("Nessun post trovato per il commento specificato.");
-            return;
+            throw new IllegalArgumentException("There is no post with this comment.");
         }
 
         Comment comment1 = post.getComment().stream().filter(c -> c.getBody().equals(body)).findFirst().orElse(null);
+        if (comment1 == null) {
+            System.out.println("Nessun commento trovato.");
+            throw new IllegalArgumentException("This comment does not exists");
+            
+        }
         String usernameCommmenter = comment1.getUsername();
-        Long postId = post.getId();
+        Long postId = post.getPostId();
         String commentTimestamp = comment1.getTimestamp();
+        System.out.println("Eliminazione del commento con:");
+        System.out.println("Username del commentatore: " + usernameCommmenter);
+        System.out.println("Post ID: " + postId);
+        System.out.println("Timestamp del commento: " + commentTimestamp);
 
         postNeo4jRepository.deleteComment(usernameCommmenter, postId, commentTimestamp);
 
@@ -204,10 +215,10 @@ public class PostService {
         }
 
 
-        if(communityService.findByName(community))
+        if(communityService.existsByName(community))
         {   Long postId = postCounter.incrementAndGet();
             Post post = new Post();
-            post.setId(postId);
+            post.setPostId(postId);
             post.setUsername(username);
             post.setCommunity(community);
             post.setTimestamp(String.valueOf(LocalDateTime.now()));
@@ -216,7 +227,7 @@ public class PostService {
             post.setReported_post(false);
             post.setComment(new ArrayList<>()); // Inizializza come lista vuota 
             postRepository.save(post);
-            postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp());
+            postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp(), username, community);
             return true;
         } else {
             // Community non trovata
