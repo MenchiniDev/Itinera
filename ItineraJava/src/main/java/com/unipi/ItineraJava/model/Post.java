@@ -12,7 +12,7 @@ import java.util.List;
 @Document(collection = "Post")
 public class Post {
     @Id
-    private String id;
+    private String postId;
     private String community;
     private String username;
     private String post;
@@ -23,10 +23,10 @@ public class Post {
 
     public Post() {}
     public String getId() {
-        return id;
+        return postId;
     }
     public void setId(String id) {
-        this.id = id;
+        this.postId = id;
     }
     public String getCommunity() {
         return community;

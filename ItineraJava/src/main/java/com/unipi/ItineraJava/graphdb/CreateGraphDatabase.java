@@ -58,7 +58,7 @@ public class CreateGraphDatabase {
                     JSONObject post = (JSONObject) parser.parse(content);
 
                     // Estraggo dati dal post
-                    String postId = String.valueOf(post.get("id"));
+                    String postId = String.valueOf(post.get("postId"));
                     String communityName = (String) post.get("community");
                     String username = (String) post.get("username");
                     String preview = getPostPreview((String) post.get("post"));
