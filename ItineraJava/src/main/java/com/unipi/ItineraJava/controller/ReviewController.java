@@ -1,6 +1,7 @@
 package com.unipi.ItineraJava.controller;
 
 import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
+import com.unipi.ItineraJava.DTO.ReviewsReportedDTO;
 import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.service.ReviewService;
@@ -27,12 +28,16 @@ public class ReviewController {
             @RequestHeader("Authorization") String token,
             @RequestBody Map<String, Object> requestBody) {
 
+        System.out.println("Richiesta ricevuta con "+ requestBody);
+
         try {
+            System.out.println("sono dentro al primo blocco try");
             String username = JwtTokenProvider.getUsernameFromToken(token);
             if(username == null) {
                 return ResponseEntity.badRequest().body("invalid token");
 
             }
+
             String place_name = (String) requestBody.get("place_name");
             int stars = (int) requestBody.get("stars");
             String text = (String) requestBody.get("text");
@@ -40,8 +45,9 @@ public class ReviewController {
             if (place_name == null || text == null) {
                 return ResponseEntity.badRequest().body("Please retry with different parameters");
             }
-
+            //System.out.println("entro in add review");
             Review savedReview = reviewService.addReview(username, place_name, stars, text);
+            //System.out.println("uscito da add review");
 
             if(savedReview == null)
                 return ResponseEntity.badRequest().body("invalid review");
@@ -52,8 +58,9 @@ public class ReviewController {
 
             return ResponseEntity.badRequest().body("Validation error: " + e.getMessage());
         } catch (Exception e) {
+            e.printStackTrace();
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
-                    .body("An unexpected error occurred.");
+                    .body("An unexpected error occurred. Sorry for the inconvenient");
         }
     }
     // delete by id da testare
@@ -70,7 +77,7 @@ public class ReviewController {
 
             try {
                 //String result = reviewService.deleteReview(reviewId);
-                String result = reviewService.deleteReviewAndDecrement(reviewId);
+                String result = reviewService.deleteReview(reviewId);
                 return ResponseEntity.ok(result);
             } catch (IllegalArgumentException e) {
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body(e.getMessage());
@@ -109,7 +116,9 @@ public class ReviewController {
         String placeName = requestData.get("place_name");
         String username = requestData.get("username");
         //controlla eventuali valori nulli
-        if (timestamp == null || placeName == null || username == null) {
+        if (timestamp == null || timestamp.isBlank() ||
+                placeName == null || placeName.isBlank() ||
+                username == null || username.isBlank()){
             return ResponseEntity.badRequest().body("Missing required parameters: timestamp or place_name or username");
         }else{
             return ResponseEntity.ok(reviewService.reportReview(placeName,username,timestamp));
@@ -119,7 +128,7 @@ public class ReviewController {
 
     // funzione utilizzabile soltanto da admin
     @GetMapping("/report")
-    public ResponseEntity<List<Review>> showReviewReported(@RequestHeader("Authorization") String token) {
+    public ResponseEntity<List<ReviewsReportedDTO>> showReviewReported(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
             return ResponseEntity.ok(reviewService.showReviewReported());
         } else {

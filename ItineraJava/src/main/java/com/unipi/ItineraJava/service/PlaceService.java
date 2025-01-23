@@ -5,6 +5,7 @@ import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.ReviewSummary;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.repository.PlaceRepository;
+import com.unipi.ItineraJava.repository.ReviewRepository;
 import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration;
@@ -15,10 +16,7 @@ import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
 
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 @Service
 public class PlaceService {
@@ -35,6 +33,8 @@ public class PlaceService {
 
     @Autowired
     private MongoTemplate mongoTemplate;
+    @Autowired
+    private ReviewRepository reviewRepository;
 
 
     public List<MongoPlace> getBestPlacesByCity(String city) {
@@ -78,21 +78,27 @@ public class PlaceService {
     }
 
 
-    // Metodo per aggiornare il numero di reviews nella collezione Places
-    public void incrementReviewCount(String placeName) {
-        // Query per trovare il documento corrispondente
-        Query query = new Query();
-        query.addCriteria(Criteria.where("name").is(placeName));
+    public void updateReviewSummary(String placeName) {
+        // Calcola la media e il totale delle recensioni
+        ReviewSummary summary = reviewRepository.calculateReviewSummary(placeName);
+        System.out.println("funzione di aggiornamento chiamata");
+        System.out.println("Average Rating: " + summary.getOverall_rating());
+        System.out.println("Total Reviews: " + summary.getTot_rev_number());
 
-        // Operazione di aggiornamento per incrementare `tot_rev_number`
-        Update update = new Update();
-        update.inc("reviews_info.tot_rev_number", 1);
+        if (summary != null) {
+            System.out.println("calcolati media e totale recensioni,procedo ad aggiornarli");
+            // Estrai i valori calcolati
+            double averageRating = summary.getOverall_rating();
+            int totalReviews = summary.getTot_rev_number();
 
-        // Esegui l'operazione di aggiornamento
-        mongoTemplate.updateFirst(query, update, "Places");
-
-        System.out.println("Incremented tot_rev_number for place: " + placeName);
+            // Aggiorna il documento nella collezione Places
+            placeRepository.updateReviewSummary(placeName, averageRating, totalReviews);
+            System.out.println("valori aggiornati");
+        } else {
+            System.err.println("No reviews found for place, summary è null : " + placeName);
+        }
     }
+
 
 
 

@@ -87,6 +87,7 @@ class UserController {
         }
 
         User user = new User();
+        user.setId(UUID.randomUUID().toString()); // Genera un ID unico come stringa e non un tipo ObjectId
         user.setUsername(signupRequest.getUsername());
         user.setEmail(signupRequest.getEmail());
         user.setPassword(passwordEncoder.encode(signupRequest.getPassword()));
