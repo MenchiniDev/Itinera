@@ -159,6 +159,10 @@ public class UserService{
     }
 
     public boolean deleteByUsername(String username) {
+        if(!userNeo4jRepository.existsByUsername(username)){
+            throw new IllegalArgumentException("User not found: " + username);
+        }
+        userNeo4jRepository.deleteUserNode(username);
         return userRepository.deleteByUsername(username);
     }
 

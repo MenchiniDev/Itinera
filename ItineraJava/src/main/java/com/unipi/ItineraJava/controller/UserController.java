@@ -285,6 +285,7 @@ class UserController {
     /// endpoint per vedere le community che l'utente ha joinato
     /// http://localhost:8080/users/profile/communityJoined
     @GetMapping("/profile/communityJoined")
+    @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getCommunityJoined() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
     // Verifico se l'utente è autenticato
@@ -425,6 +426,7 @@ class UserController {
     }
     
     @GetMapping("/profile/peopleYouMayKnow")
+    @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getPeopleYouMayKnow() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         if (authentication == null || !authentication.isAuthenticated()) {
@@ -446,6 +448,7 @@ class UserController {
     }
 
     @GetMapping("/profile/reccomendedCommunities")
+    @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getSuggestedCommunities() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         if (authentication == null || !authentication.isAuthenticated()) {
@@ -468,6 +471,7 @@ class UserController {
     
 
     @GetMapping("/profile/reccomendedPosts")
+    @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getSuggestedPosts() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         if (authentication == null || !authentication.isAuthenticated()) {
