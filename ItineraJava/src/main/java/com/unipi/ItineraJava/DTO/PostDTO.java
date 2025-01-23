@@ -7,6 +7,7 @@ import java.util.List;
 
 
 public class PostDTO {
+    private String id;
     private Long postId;
     private String community;
     private String username;
@@ -16,6 +17,9 @@ public class PostDTO {
     private boolean reportedpost; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
     private List<Comment> comment;
 
+    public String getId() {
+        return id;
+    }
 
     public String getCommunity() {
         return community;
@@ -36,7 +40,7 @@ public class PostDTO {
         this.post = post;
     }
 
-    public Long getId() {
+    public Long getPostId() {
         return postId;
     }
 

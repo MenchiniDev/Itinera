@@ -11,6 +11,8 @@ import java.util.List;
 @Document(collection = "Post")
 public class Post {
     @Id
+    private String id;
+
     private Long postId;
     @Field("community")
     private String community;
@@ -28,10 +30,19 @@ public class Post {
     private List<Comment> comment;
 
     public Post() {}
-    public Long getId() {
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public Long getPostId() {
         return postId;
     }
-    public void setId(Long postId) {
+    public void setPostId(Long postId) {
         this.postId = postId;
     }
     public String getCommunity() {
