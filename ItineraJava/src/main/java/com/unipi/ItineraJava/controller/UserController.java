@@ -107,6 +107,15 @@ class UserController {
         if (existingUser.isEmpty()) {
             return ResponseEntity.status(401).body("Invalid username");
         }
+
+        //controllo campo active
+        boolean isActive = userService.isUserActive(user.getUsername());
+        if (!isActive) {
+            return ResponseEntity.status(403).body("User account is inactive. You no longer have access to this application.");
+        }
+
+
+
         passwordEncoder.matches(user.getPassword(), existingUser.get().getPassword());
         String token = JwtTokenProvider.generateToken(user.getUsername());
         return ResponseEntity.ok(token);
@@ -141,6 +150,24 @@ class UserController {
             throw new RuntimeException(e);
         }
     }
+
+    @PutMapping("/ban/{username}")
+    public ResponseEntity<String> deactivateUser(@RequestHeader("Authorization") String token,
+                                                 @PathVariable String username) {
+        // Controlla se il token appartiene a un amministratore
+        if (!User.isAdmin(token)) {
+            return ResponseEntity.status(403).body("Unauthorized: Only admins can ban users");
+        }
+
+        try {
+            // Aggiorna lo stato del campo active a false
+            userService.deactivateUser(username);
+            return ResponseEntity.ok("User banned successfully");
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.status(404).body("User not found: " + username);
+        }
+    }
+
 
     // PROFILE QUERIES
     /*
