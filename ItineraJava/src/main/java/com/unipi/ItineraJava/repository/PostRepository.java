@@ -68,5 +68,5 @@ public interface PostRepository extends MongoRepository<Post, String> {
     })
     void deleteByText(String text);
 
-    Post findPostByUsernameAndCommunityAndPost(String postUsername, String postCommunity, String post);
+    Post findPostByPostId(String postId);
 }

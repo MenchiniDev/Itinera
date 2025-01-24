@@ -136,30 +136,26 @@ public class PostService {
         return postRepository.findByCommunity(communityName);
     }
 
-    public Post addCommentToPost(String commenterUsername, String postUsername, commentDTO commentdto) {
-
-        Comment comment = new Comment();
-        comment.setBody(commentdto.getComment());
-        comment.setReported(false);
-        Post post = postRepository.findPostByUsernameAndCommunityAndPost(postUsername, commentdto.getCommunity(), commentdto.getTextpost());
-        Long postId = post.getPostId();
+    public Post addCommentToPost(String commenterUsername, String postId, String commentBody) {
+        Post post = postRepository.findPostByPostId(postId);
         System.out.println(post);
 
-        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, commentdto.getCommunity())) {
-            throw new IllegalArgumentException("User has not joined community: " + commentdto.getCommunity());
+        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, post.getCommunity())) {
+            throw new IllegalArgumentException("User has not joined community: " + post.getCommunity());
         }
-
-        comment.setUsername(commenterUsername);
-        comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
-                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
-
-
         if (post.getComment() == null) {
             post.setComment(new ArrayList<>());
         }
+
+        Comment comment = new Comment();
+        comment.setBody(commentBody);
+        comment.setReported(false);
+        comment.setUsername(commenterUsername);
+        comment.setTimestamp(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")));
+
         post.getComment().add(comment);
         post.setNum_comment(post.getNum_comment() + 1);
-        postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername);
+        postNeo4jRepository.addCommentToPost(Long.valueOf(postId), comment.getTimestamp().toString(), commenterUsername);
         return postRepository.save(post);
     }
 

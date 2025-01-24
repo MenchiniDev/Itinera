@@ -149,24 +149,21 @@ class PostController {
 
     //http://localhost:8080/posts/comment/Wooden-Secret5698
     //{
-    //  "community": "Barcelona",
-    //  "timestamp": "2025-01-22T15:30:00Z",
     //  "comment": "mesi mesi ankara mesi, immenso mesi"
-    //  "textpost": "bo non ho mongo"
     //}
     // todo: metti l'id al posto di community e user e timestamp
-    @PostMapping("/comment/{username}")
+    @PostMapping("/comment/{postId}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
-            @PathVariable String username, // of the post replying
-            @RequestBody commentDTO commentDTO) { // community timestamp comment textPost
+            @PathVariable String postId, // of the post replying
+            @RequestBody String comment) { // community timestamp comment textPost
         try {
             String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
             System.out.println(commenterUsername);
             if (commenterUsername == null)
                 return ResponseEntity.internalServerError().body("token invalid");
 
-            Post updatedPost = postService.addCommentToPost(commenterUsername,username, commentDTO);
+            Post updatedPost = postService.addCommentToPost(commenterUsername,postId, comment);
 
             if (updatedPost != null) {
                 return ResponseEntity.ok("Commento aggiunto");
