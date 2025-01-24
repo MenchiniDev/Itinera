@@ -10,8 +10,8 @@ import org.springframework.data.neo4j.core.schema.TargetNode;
 public class CommentRelationship {
 
     @Id
-    @GeneratedValue
-    private Long id;
+    @Property("commentId")
+    private String commentId;
 
     @Property("timestamp")
     private String timestamp; // Attributo della relazione
