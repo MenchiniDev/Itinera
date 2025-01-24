@@ -1,5 +1,5 @@
 {
-  "postId" : 200159,
+  "_id" : "6ec27593-362a-44f8-94f9-35bdf32cc2a1",
   "community" : "Madrid",
   "username" : "AutoModerator",
   "post" : "The Weekly. El Semanal. Semana del lunes 17 al domingo 23",
@@ -8,36 +8,43 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "a6b1e7f7-2ec7-4c72-888a-8c615bd31f7f",
     "body" : "Quiero hacer senderismo en manzanares el real en febrero. ¿Las rutas de senderismo y la ciudad suelen tener nieve en febrero?\n\ni want to go hiking in manzanares el real in february. do the hiking trails and town typically have snow in february?",
     "username" : "OkArtichokeJuice",
     "timestamp" : "2024-12-17T13:41:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3e8e489d-910d-421b-b246-c33043ef115e",
     "body" : "hello everyone!\n\ni'm traveling to madrid for the new year with two friends. we're looking for where to spend the new year and found two clubs that still have tickets available:\n\nlos amantes or teatro magno\n\nare those two any good? or is there something else you would recommend for us to do? we're leaning more towards los amantes, but google reviews are pretty bad\n\nregards from switzerland and thanks in advance!!",
     "username" : "browsingforawhile",
     "timestamp" : "2024-12-22T18:10:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c2c362be-b5d0-4556-b32a-1739be641c4d",
     "body" : "Bro esta semana empieza el dia 16",
     "username" : "RiddleViernes",
     "timestamp" : "2024-12-17T13:03:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "57f08e1f-94f4-4fce-a315-0aafceb1eb9c",
     "body" : "[removed]",
     "username" : "None",
     "timestamp" : "2024-12-17T15:20:08Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "15d181b1-612f-4fe6-9903-d580075f249b",
     "body" : "Hello!\n\nCould you suggest any bars near Barajas to watch today’s Barcelona-Atletico game?\n\nThank you",
     "username" : "Ecstatic-Study-9813",
     "timestamp" : "2024-12-21T17:31:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2045a311-5785-474e-b41f-7ff7cd59d22b",
     "body" : "Tengo un grupo donde hacemos rutas senderistas. Si te apetece le echas un ojo. Es para gente de 25-45 :)",
     "username" : "Pleasant_Tea820",
     "timestamp" : "2024-12-17T15:22:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7c0d57a9-37b7-4c5a-95b1-af4f85dd510f",
     "body" : "[removed]",
     "username" : "None",
     "timestamp" : "2024-12-18T08:43:41Z"

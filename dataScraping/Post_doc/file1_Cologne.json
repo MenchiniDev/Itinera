@@ -1,5 +1,5 @@
 {
-  "postId" : 200116,
+  "_id" : "0c3638fc-66e2-498d-b47a-f2cb6080fcab",
   "community" : "Cologne",
   "username" : "yaroslaw",
   "post" : "WATCH OUT! This subreddit IS NOT about colognes.",
@@ -8,111 +8,133 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "b1d879f0-28c0-4c71-9cfd-ffaaa99548d5",
     "body" : "This is not completely true… we do encourage to use 4711 only. Everything else is a fart in the dark anyway..#isso",
     "username" : "Funkkx",
     "timestamp" : "2023-11-13T16:56:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2960e339-225c-4afd-b06e-0988fb5a0fb0",
     "body" : "I came for the colognes and stayed for the city",
     "username" : "SpatenFungus",
     "timestamp" : "2023-11-13T18:34:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4e76a319-719c-4801-870c-1bbfc1d725d5",
     "body" : "Noooo I love reading the comments trolling them 😔",
     "username" : "TheLaughingBread",
     "timestamp" : "2023-11-13T18:45:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ff26fc50-a948-42ea-a123-19f94f8c530f",
     "body" : "But what if I want to know where to find Colognes in Cologne?",
     "username" : "open05",
     "timestamp" : "2023-11-13T17:03:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4072318d-1985-4be4-ae44-7d1c28614bc3",
     "body" : "Please delete this post - it spoils the fun for so many of us in Kölle.",
     "username" : "Caladeutschian",
     "timestamp" : "2023-11-19T16:06:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0f112a74-5c20-427c-930f-9b0ffe9c86cb",
     "body" : "Missed opportunity, to explain where the origin of cologne comes from. Which is... cologne.",
     "username" : "MehmetWalshoglu",
     "timestamp" : "2023-12-11T17:12:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "75407bec-ff2e-4bc0-817a-27f5c5fb1d49",
     "body" : "can you recommend me a nice summer fragrance to wear in cologne?",
     "username" : "oldtobes",
     "timestamp" : "2024-04-11T00:35:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5938a7e0-be56-4341-93e3-b6e48445c2c7",
     "body" : "Boooo!",
     "username" : "None",
     "timestamp" : "2024-03-18T07:49:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5efee085-2e0e-46b2-be82-c1f05b0d5cdf",
     "body" : "[removed]",
     "username" : "None",
     "timestamp" : "2024-06-08T06:25:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "40a08536-567f-4561-930d-f983cb52c11b",
     "body" : "i will come to buy some cologne from cologne it has to be done",
     "username" : "None",
     "timestamp" : "2024-06-28T17:03:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "def3b5e3-938a-410b-9f06-6f070a9366f7",
     "body" : "Ong someone had to say it",
     "username" : "AdeptRuin4319",
     "timestamp" : "2023-11-13T18:13:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "30e1b416-2ab0-4874-8124-d879d9679973",
     "body" : "Farina shaking its head thinking “you always think you’re better than me even though I was here first.”",
     "username" : "None",
     "timestamp" : "2023-11-14T10:40:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "210e33d2-3ded-45bb-b77c-442f1da4703a",
     "body" : "Cologne colognes or regular colognes in Cologne?",
     "username" : "OTee_D",
     "timestamp" : "2023-11-13T18:27:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "58b6dac1-f811-4c74-aa21-053d75256f3f",
     "body" : "There was a post somewhere this year about looking for a company for a master class about perfumes in Cologne. Was deeply satisfying to see!",
     "username" : "syzygy_is_a_word",
     "timestamp" : "2023-11-13T22:38:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "580f1d4e-3a3d-4cbd-8b2a-313b7f6cc8a8",
     "body" : "Please explain, I will add your text above 👆✌️",
     "username" : "yaroslaw",
     "timestamp" : "2023-12-30T17:20:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a8906247-1ca0-473e-a8dc-03a897734548",
     "body" : "Yes.",
     "username" : "yaroslaw",
     "timestamp" : "2024-04-11T18:16:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b443c0e0-3cfb-4a3f-b057-3e02cd21a987",
     "body" : "Hahaha",
     "username" : "Own_Garden432",
     "timestamp" : "2024-06-08T06:26:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f176578b-e885-46cc-9758-b19edd292df3",
     "body" : "This does not belong to the Cologne subreddit.\nPlease don't submit postings about the following topics:\n- Eau de Cologne\n- the search for an apartment\n- buy/sell (this is not Craigslist/Kleinanzeigen)\n- drugs\n\nPlease choose the right subreddit and try again. Thank you.",
     "username" : "cologne-ModTeam",
     "timestamp" : "2024-06-08T07:06:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a6ca07da-9813-4bef-91ad-742c42a691d1",
     "body" : "You are totally correct… pls except my apologies",
     "username" : "Funkkx",
     "timestamp" : "2023-11-14T10:41:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ab4a4396-6425-47ec-89af-f13075882166",
     "body" : "Spaghetti colognese?",
     "username" : "jrock2403",
     "timestamp" : "2023-11-13T18:40:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4770f1c4-7904-4b8c-be8e-87e3e9efd81f",
     "body" : "Cologne's Colognes in Cologne, not commom colognes in Cologne",
     "username" : "open05",
     "timestamp" : "2023-11-13T20:42:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cbcb8306-83cd-4cc4-9c60-d6db550c407d",
     "body" : "well its the city of cologne in germany. Eu de cologne originates from farina and 4711 based in cologne. Some of if not the first companies to broadly manufacture and globally ship their parfume as early as the late 18 hundreds i believe. But check for yourself I'm slightly blurrly on that particular historical titbit.",
     "username" : "MehmetWalshoglu",
     "timestamp" : "2024-01-05T21:19:32Z"

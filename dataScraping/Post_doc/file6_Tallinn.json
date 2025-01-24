@@ -1,5 +1,5 @@
 {
-  "postId" : 200177,
+  "_id" : "5b20f429-d17e-4e1b-a200-58c75b8758fb",
   "community" : "Tallinn",
   "username" : "ForeverFrog",
   "post" : "Working in Tallinn",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "b2f7dbd1-7741-4393-9b07-d0b81f75ccd1",
     "body" : "Try r/eesti this sub is dead",
     "username" : "elagukalevostakulda",
     "timestamp" : "2022-03-31T20:29:02Z"

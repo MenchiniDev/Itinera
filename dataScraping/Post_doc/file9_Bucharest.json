@@ -1,5 +1,5 @@
 {
-  "postId" : 200405,
+  "_id" : "44c10dd9-acd3-49a2-ab81-3b79c6108fe5",
   "community" : "Bucharest",
   "username" : "huffmac",
   "post" : "My Dog's Original Owner",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "c5559047-0c8e-4e4d-bd3d-f710eaef3de6",
     "body" : "Looks like it s a block of flats with 50+ units.  You can go to the address and ask around. Many ppl speak english",
     "username" : "pantsnsocks",
     "timestamp" : "2024-05-14T06:47:34Z"

@@ -1,5 +1,5 @@
 {
-  "postId" : 200308,
+  "_id" : "f5f79e44-27f5-4878-9211-bcd63dc6c658",
   "community" : "Reykjavik",
   "username" : "balaca40",
   "post" : "How is flying through Reykjavik during the winter?",
@@ -8,96 +8,115 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "fd277469-5637-4ab7-9a83-75a4c918ee4a",
     "body" : "You're most likely talking about Keflavík, because as has been mentioned the Reykjavik airport is primarily used for domestic flights, private charters or general aviation. \n\nWeather is only an issue when it's abnormally bad, which happens a few times every winter. Snowfall on its own is unlikely to cause severe disruptions.",
     "username" : "SteiniDJ",
     "timestamp" : "2024-12-03T07:49:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "de67b678-b2b8-4beb-8b04-18fb32fa15c1",
     "body" : "The airport in Reykjavík is barely international. Did you mean Keflavík? And snow is normally cleared for arrivals, but during the winter months there’s no way to be sure.",
     "username" : "TheDanQuayle",
     "timestamp" : "2024-12-03T06:59:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8acd1da8-86fb-46e3-981e-18cf6cef6220",
     "body" : "Absolutely fine and generally its a great time to visit",
     "username" : "Stokkurinn",
     "timestamp" : "2024-12-03T07:36:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "47002dd4-274f-4652-8cc6-8ddf8c8932ae",
     "body" : "r/visitingiceland",
     "username" : "VeReVoLiVeR",
     "timestamp" : "2024-12-03T15:14:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f6322a2c-dd07-4e8c-acc6-154d34baab06",
     "body" : "Assuming you mean Kef Airport in Sandgerði, as the Reykjavik Airport only offers very select international flights from time to time, usually just to and from Greenland.\n\nIt's fine. It's obviously more likely you'll see delays due to weather during winter than summer. But it's not a huge issue. You'll often see articles about mass delays/cancelations due to the weather, but I travel abroad to Spain or Norway to visit family during the winter a lot, and I've never dealt with delays or cancelations due to the weather. \n\nAnd if something like that *does* happen, your airline will cover you. Helping with accommodations and such.",
     "username" : "Thossi99",
     "timestamp" : "2024-12-03T15:18:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3d7049ec-acb1-4c3f-97b4-e7d946682039",
     "body" : "I flew in and out of Keflavik airport during the winter with no issues. \n\nOn the way out the weather was pretty bad. Snowing with high winds. I definitely thought we would be delayed but the ground staff got it sorted and ready to depart on time",
     "username" : "kwack250",
     "timestamp" : "2024-12-03T19:45:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b58709c4-9366-4190-ab88-6084f8cf91e6",
     "body" : "r/visitingiceland is where you want to be.",
     "username" : "Tanglefoot11",
     "timestamp" : "2024-12-04T05:25:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7b581919-c808-4954-9660-365fa0819516",
     "body" : "Currently sitting in a hotel in Keflavik after a 24 hour delay. Never flying Iceland Air again.",
     "username" : "welliliketurtlestoo",
     "timestamp" : "2024-12-05T11:20:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "be45b119-8e92-4503-be06-5698e73075a0",
     "body" : "Flying there in a few weeks!",
     "username" : "Independent_Mango895",
     "timestamp" : "2024-12-05T22:56:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "525292cf-e684-4f95-8666-1fb304a269b4",
     "body" : "Yes, delays are fairly common in winter. Mostly due to wind which makes it unsafe to open the doors and attach bridges/stairs.",
     "username" : "11MHz",
     "timestamp" : "2024-12-03T09:40:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0385f0ff-4540-47f7-ac9c-e2c2bb0c1750",
     "body" : "Keflavik International Airport serves Reykjavík along with Reykjavik Airport. \n\nIt is convention to use the name of the metro area the airport serves when speaking of the location.\n\nE.g. people flying to Newark say they are flying to New York City even though Newark Airport is not even in the state of New York. \n\nAlso, KEF airport is in Sandgerði, not Keflavík.",
     "username" : "11MHz",
     "timestamp" : "2024-12-03T09:38:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "579e1294-e2b3-42bb-a2cf-2de51e71e994",
     "body" : "Where are you going?",
     "username" : "sarame31",
     "timestamp" : "2024-12-05T17:14:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1e353320-855b-4d0b-8795-adc8d823cb08",
     "body" : "Fairly common is very harsh",
     "username" : "Justfunnames1234",
     "timestamp" : "2024-12-04T03:09:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4a0152a6-a437-4af1-8543-b17c5b4a0ecb",
     "body" : "Hver í fjandanum segir Reykjavíkur flugvöllur?",
     "username" : "Runarhalldor",
     "timestamp" : "2024-12-03T16:40:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5ed54d34-6491-4365-8e02-8da53969f82a",
     "body" : "[deleted]",
     "username" : "None",
     "timestamp" : "2024-12-03T10:08:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "781df4de-b95f-41f0-af51-16893c50d9b4",
     "body" : "Utan strandar villimenn fra stora heiminum",
     "username" : "Dry_Grade9885",
     "timestamp" : "2024-12-03T17:04:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "50190978-e66b-4661-bab7-a6447ead9c89",
     "body" : "People don’t. They just say they are flying to Reykjavík and that means any airport serving the Reykjavík area (KEF and RKV)",
     "username" : "11MHz",
     "timestamp" : "2024-12-03T18:42:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "34815b1f-570f-44fc-936e-8dc6be74fbe5",
     "body" : "It is. I'm from Sandgerði and at one point we were the richest town in the country because of the airport. Shame the local government has no idea how tf to use the money",
     "username" : "Thossi99",
     "timestamp" : "2024-12-03T15:13:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f94478ca-7636-4302-bc09-4c1f3af4543b",
     "body" : "It is. \n\nLook at the municipal lines: https://www.map.is/sudurnesjabaer/\n\nhttps://imgur.com/a/v0JhXWx\n\nOnly the corner of one runway is in Keflavík. The airport is in Sandgerði (Suðurnesjabær).",
     "username" : "11MHz",
     "timestamp" : "2024-12-03T10:33:16Z"

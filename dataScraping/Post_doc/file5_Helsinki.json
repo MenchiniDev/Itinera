@@ -1,5 +1,5 @@
 {
-  "postId" : 200138,
+  "_id" : "892c7ef5-39e6-490a-af08-6cb59142c12a",
   "community" : "Helsinki",
   "username" : "YogurtclosetLocal778",
   "post" : "Eläinlääkäri laskulle",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "054997a2-9d1b-457a-b831-834f5760db10",
     "body" : "Evidensialta ainakin saa. Edellyttää toki myönteisen luottopäätöksen heidän rahoituskumppaniltaan.",
     "username" : "Tulpukka",
     "timestamp" : "2024-12-23T12:29:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "038cdd6c-4f64-4d2d-9d1c-af9314f5143d",
     "body" : "Löysin ell joska saa laskulle ja tälle pöivälle ajan!☺️",
     "username" : "YogurtclosetLocal778",
     "timestamp" : "2024-12-23T12:53:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "20b89563-6422-421a-881b-ec1d0fa7fdb7",
     "body" : "Yleensä kannattaa hakea luotto/laina käyntiä varten muualta kuin eläinlääkäriltä. Eläinlääkäriasemilla ei yleensä ole omia rahoituspalveluita, ja jos on niin korot ja ehdot eivät todellakaan ole sieltä parhaasta päästä",
     "username" : "Melodic-Order-5621",
     "timestamp" : "2024-12-23T12:44:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f71f2977-d56b-4b2f-b900-5482f1061b91",
     "body" : "Viikki",
     "username" : "hupaisasurku",
     "timestamp" : "2024-12-23T12:51:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ef503f9b-46d1-48aa-b1b8-bdb0480ab828",
     "body" : "Suurimmalla osalla eläinlääkäriasemista on olemassa laskutus-/luottosopimuksia kolmansien osapuolien kautta (Klarnat, Sveat jne).",
     "username" : "whatisitmooncake",
     "timestamp" : "2024-12-23T12:53:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f600067e-e996-4634-bca7-1c3c95c6adbc",
     "body" : "Ei taida sellaista eläinlääkäriä olla joka laskulla hoitaa. ",
     "username" : "ndrjjhmn",
     "timestamp" : "2024-12-23T12:42:38Z"

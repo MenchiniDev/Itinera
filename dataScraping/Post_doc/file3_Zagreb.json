@@ -1,5 +1,5 @@
 {
-  "postId" : 200060,
+  "_id" : "824d65f6-cfdc-4dff-b842-c41454072162",
   "community" : "Zagreb",
   "username" : "Oblacniputnik",
   "post" : "Glavni kolodvor - Dubrava 170 eura",
@@ -8,226 +8,271 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "8f3a2dcb-f5e9-4584-b4dc-1f39003d6fe4",
     "body" : "Ako je platio karticom a čini se tako - onda i vidi koja je firma/ taxi služba to bila. Možda se i može nešto napraviti. Kakvi god bili i taxi trebaju imati cjenik po kilometru + start i taj cjenik treba biti vidljiv i objavljen. Možda da prikupiš što više podataka ( kad je voznja bila, je li mu uručen račun - najčešće nije - i koja je firma) pa bilo kontaktirati njih direktno - prvo usmeno a paralelno i pisano. Uz to se obratiti i udruzi Potrošač, možda i oni imaju nekih iskustava. Ti \"šahisti\" ispred kolodvora su najgori.",
     "username" : "Baba_NO_Riley",
     "timestamp" : "2024-12-22T23:53:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "50796bf5-8a2c-4a67-89af-1f1c4e69f8d0",
     "body" : "Pas mater koja stoka mrtva….starome covjeku to naplatit, pa gdje smo zavrsili kao ljudi…..NIGDJE",
     "username" : "Background_Read786",
     "timestamp" : "2024-12-22T23:26:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1f7abdcc-d17a-463f-9d00-930948e452b0",
     "body" : "inace nisam za nasilje al tog majmuna(/e) koji dezura ispred GK treba ispendrecit",
     "username" : "avrend",
     "timestamp" : "2024-12-22T23:59:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a495bdac-d5b0-4708-a73f-8a845da65453",
     "body" : "probisvijeti i klošari sa glavnog, koji vuku svaku staru osobu koja siđe sa vlaka da ih mogu pokrast. Uvijek su starci ti koji najebu, zašto meni ne naplate 170 eura? Aha, jer su čkepi. Dok sam vozio uber, pokupio sam dečka i curu sa glavnog. Do auta mi je došao jedan od tih šerifa sa glavnog i rekao da ne dolazim više tu. Kad sam mu izašao iz auta, mirno se povukao. Toliko o pičkama sa glavnog. Sve ih treba šamarat",
     "username" : "TomatilloBorn8458",
     "timestamp" : "2024-12-23T05:50:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ee4c6eae-4234-4f67-9306-cf4d0440b219",
     "body" : "kakva mafia. A Bolt i Uber vozace napadaju pred Kolodvorom, nedaju im tam stati. Kakvu stetu naprave i za turizam. Prvo sto Turist vidi od zagreba kad dodje sa vlakom, da te taxista odere. Jako dobra reklama. Taj bude sigurno i rado dosao opet.   \nNije mi jasno zasto gradski organi nista protiv toga ne pouzimaju. Nije to bas tako da su to dva ili tri slucaja.",
     "username" : "Jan_Vollgod",
     "timestamp" : "2024-12-23T05:41:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a80a3c59-06a6-45af-960b-fbbde081eadb",
     "body" : "Ako je placeno karticom, moze se pokusati napraviti chargeback u banci",
     "username" : "zAngryPvP",
     "timestamp" : "2024-12-22T23:56:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ab3ac7e7-720c-455f-a5f8-814144f6c2d4",
     "body" : "Rijetki su ljudi koje prezirem. Taksisti su na vrhu te liste!",
     "username" : "BornaBorski",
     "timestamp" : "2024-12-23T08:21:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8de2dd41-d3b9-4a43-a2c5-241ab144b2dd",
     "body" : "Tosu taksiji koji vize s nepoznatom tarifom, a onda il pitas tarifu pa ne ulazis ili se pogodis poprek, za sto sumnjam da ce pristati jer su gulikoze koji love ljude koji ne znaju o cemu se radi. Vidjela sam jednom da cak postoji taksi s Wizi oznakom na autu a ne vozi za njih i ne po njihovoj tarifi. Sva sreca nije bila duga voznja ali bila je preskupa!!! Ne mislim da tu ima pomoci kada je vec voznja gotova...",
     "username" : "Haloefekt",
     "timestamp" : "2024-12-23T01:47:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "276d6071-742f-44f5-a55c-23a88378d483",
     "body" : "Isao sam boltom u 3 ujutro s domjenka i ocekivao sam da ce me mrvu oderati za tih 3..4 km.\n\n4,1e su mi naplatili.\n\nJebeni gradski taksi, uzas.",
     "username" : "kemosabe1212",
     "timestamp" : "2024-12-23T08:35:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6f2b96af-6801-489c-8e2d-5fd4fb26eefe",
     "body" : "Grad bi trebao staviti table upozorenja, ako moze u tramvaju bit upozorenje na dzepare moze kod kolodvora i aerodroma bit upozorenje na drumske razbojnike",
     "username" : "avrend",
     "timestamp" : "2024-12-23T08:50:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "24035ba3-a872-4dc8-9997-c1e348242a74",
     "body" : "Plenković : To je ne-tema.\n\nŠta ne bi nevidljiva ruka tržišta to trebala riješiti ? I smanjiti cijenu taxi  usluge , kad je država im dopustila da slobodno formiraju cijene ? \n\nGdje je Goran Vojković koji zagovara liberalizaciju tržišta u ekonomiji,  bez državnih intervencija,  da nam pojasni kako je ovo dobra stvar za sve nas . \n\nI za 200 - 300 godina se budu cijene smanjile. \n\nŠta ste nestrpljivi ?",
     "username" : "CortexThrill",
     "timestamp" : "2024-12-23T03:46:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7d3a1b2a-040f-4ada-89bb-9bc129eccfb7",
     "body" : "A zašto vi te stare ljude kad idu u Zagreb ne upozorite da ima kretena i lopova koji samo čekaju ljude poput tvog djeda da mu naplate 170 eura. Ako može sam uzet taksi do bolnice, valjda može i taksista pitat koliko će ga doći vožnja. Doslovno uputite žrtvu direktno lopovima. \nRazumio bi da je prvi put, ali svaki tjedan na redditu, jedna baba ili djed, postanu žrtve uvijek iste grupe taksista. \nBabi ili djedu možete naručit taksi ispred kolodvora u Zagrebu i iz Karlovca ili Varaždina preko aplikacije.",
     "username" : "fritula00",
     "timestamp" : "2024-12-23T09:23:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "321e8e45-7ff6-4a7f-81d0-2ff832d63d52",
     "body" : "Na žalost,  to rade svakome koji nije iz Zagreba.  Još ga i vozaju unaokolo da vide jel znaš Zgb..i onda naplate. Svakako prijaviti jer će se dobiti novac natrag. \nNo kad smo kod toga, frajer taxi mi je od vinogradske do Trga Francuske revolucije, odnosno samo se spustio dolje i vratio gore pred Vinogradsku naplatil 14 eura.  Inače je 2 do 3..",
     "username" : "Ok-Explorer461",
     "timestamp" : "2024-12-23T10:19:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "82ac1de0-51fa-4c38-b1cc-92e420e1c695",
     "body" : "Tko je uopće dopustio tim krkanima da zauzmu cijeli prostor ispred kolodvora? Veća prava imaju taksisti od hitne.",
     "username" : "Powerful-Proposal139",
     "timestamp" : "2024-12-23T10:41:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e81624c0-26ef-4411-929a-18877e8d3a4d",
     "body" : "Sigurno se može, jer frajer sigurno ne naplaćuje svakome 170 eura, a morao bi za istu relaciju naplaćivati isto ili imati aplikaciju kao što Uber ima.",
     "username" : "tsereg",
     "timestamp" : "2024-12-23T11:29:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "aaf1af50-a8af-4473-b3be-452c974a0847",
     "body" : "Objaviti javno račun i ime firme i šofera pa će index objaviti. Nije baš da će nešto koristiti ali se može i poslati društvu za zaštitu potrošača.",
     "username" : "xennon",
     "timestamp" : "2024-12-23T13:25:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "85fe510e-2913-4cdd-a02f-abaf2eadc61c",
     "body" : "ne bi imao srca luki modricu naplatiti od tuđmana do sheratona toliko a ne starcu",
     "username" : "No-Permission5869",
     "timestamp" : "2024-12-23T13:41:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fffbc409-2a97-4f1c-9b2d-fc7a02fd0c54",
     "body" : "Ja bih to prijavio policiji. 170€ je očigledna prevara i vjerujem da se to može vratiti.",
     "username" : "Impressive-Blues",
     "timestamp" : "2024-12-23T13:59:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "73c69936-dfa4-4d76-a950-1509dd2f4578",
     "body" : "E bas ti hvala ja svoje roditelje od 60 nemrem nagovorit da nose karticu kad ovo procitaju pocet ce samo sitnis nosit",
     "username" : "Old-Enthusiasm-6286",
     "timestamp" : "2024-12-23T14:16:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1be04a16-4c8f-4be6-bd59-a6ca4765ccaf",
     "body" : "Ne mozes nista ljudi zasto ne pitate kad ulazite u taxi. Da znam da je debil taj taksist i neka propadne al drzava je omogucila da cijene mogu staviti kakve hocu. Uvijek pitajte pa jel pitate kad odete neku drugu uslugu trazit. U ovom slucaju su i tvoj djed i taj taksist krivi.",
     "username" : "Dr-k1ng321",
     "timestamp" : "2024-12-23T06:34:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "682ac37f-85f1-44ba-9ca9-e9ae6f42e0a8",
     "body" : "Sve je po zakonu i imaju propisno istaknute cijene. To su privatni obrti, nije radio taxi, i taktički su ispred autobusnog, glavnog, bolnica itd.\n\nLove stare ljude, turiste i slične koji nisu svjesni toga.",
     "username" : "Svudec",
     "timestamp" : "2024-12-23T08:27:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9aab6e7d-8e9b-40bc-ab56-a8e0c7d18b5b",
     "body" : "Ništa od svega toga, budi 2000% siguran, cijelu priču možeš okačit mačku o rep. Samo će se nasekirati i morati ranije na novu terapiju.\n\nPa, baba koja prodaje pečene kukuruze i marune deset metara od Trga nema istaknut cjenik, nego odmjeri kupca i izvali iznos. Ako se počneš derati na nju, odvede te ova tinejdžerska murija kojih je na Trgu više od svih drugih.\n\nJedini način je da čovjeku netko (ili on sam) instalira Bolt ili, nedajbože, Uber.",
     "username" : "MusicC1HzProd",
     "timestamp" : "2024-12-23T10:21:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "66854e99-0f10-4cf7-8d37-c427cbba04a0",
     "body" : "gradski taksisti nisu ljudi",
     "username" : "JadenAX",
     "timestamp" : "2024-12-23T00:28:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7fb2a22c-a8b1-4726-87ad-1243695857a6",
     "body" : "Zahvali ministarstvu prometa koji je dao da mogu slobodne cijene biti. Sve legalno ako je dobio racun.",
     "username" : "Dr-k1ng321",
     "timestamp" : "2024-12-23T06:35:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5a09a732-89bd-4338-bae1-25ce0a7a7361",
     "body" : "A gle, ne rade ništa protuzakonito. Zakon kaže da mogu naplatiti cijenu kakvu god žele. To što nije moralno je druga stvar. Ali čim si taksist na glavnom, moral ti je nepoznat pojam",
     "username" : "TomatilloBorn8458",
     "timestamp" : "2024-12-23T07:50:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f93841c9-1319-4012-b860-e5bc643b4557",
     "body" : "Al kad bolje pogledaš, sirotom taksistu je to 10 porcija Dubai fritula, plus mu ostane još za rundu pive s dečkima. Ako ima troje djece i žemu, to im je samo dva puta da uzmu fritule i vrte se po Trgu sat - dva da svi vide da ima se može se. Samo DVA PUTA!",
     "username" : "MusicC1HzProd",
     "timestamp" : "2024-12-23T10:15:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c39678ce-78b1-400f-a50d-c8a54f23be4a",
     "body" : "Onda bi ih trebao sve jer su svi takvi ",
     "username" : "TomatilloBorn8458",
     "timestamp" : "2024-12-23T05:47:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "24c37222-e297-40a3-91b1-ce7dfe4171f9",
     "body" : "A tko će ga ispendrečit kad pod a) sve je bilo po zakonu, i pod be) pendreci su kod murije, a murija je na njegovoj strani jer vidi pod a)?",
     "username" : "MusicC1HzProd",
     "timestamp" : "2024-12-23T10:25:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "181cea9d-07e2-4e0b-9633-81313fce144b",
     "body" : "S tim se slazem da sam znaju odrat starije ili turiste. Mlade ljude domace nece sigurno jer znaju da su najebali. Ista takva situacija tih serifa je i na aerodromu sad su se prebacili neki s kolodvora tam kolko sam skuzio.",
     "username" : "Dr-k1ng321",
     "timestamp" : "2024-12-23T06:37:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4b4882af-2690-460a-a39c-bdfdbe315264",
     "body" : "A gle. Sve više ljudi zna za taxi scam. Nije to samo u Hrvatskoj. \n\n\nTuristi su mislim već naučili pogotovo oni mlađi tako da se populacija smanjuje što češće oni to rade. \nAl očito se još uvijek isplati kad su još uvijek tam na tom mjestu i vrebaju.",
     "username" : "dinaakk",
     "timestamp" : "2024-12-23T06:09:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "be8023ad-6436-4561-8b5e-d1f3d816a546",
     "body" : "Moze on boga oca probat napast ako sam ga ja pozvala. Probali su jednom, nije im vise padalo napamet",
     "username" : "deviantLolit_a",
     "timestamp" : "2024-12-23T10:04:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "32e42d8b-410a-4b29-bdbd-e6850f64384d",
     "body" : "Da, ja sam tako napravila sa Boltom, ali ne znam da li bi ovo prihvatili budući nije išlo preko aplikacije (moj argument je bio da nije takav iznos pisao pri narudžbi).. jedino da možda kaže da nije cjenik bio jasno prikazan.",
     "username" : "Djozefin_djozla",
     "timestamp" : "2024-12-23T06:42:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "460845b6-c321-4d44-86f5-ee820c9345b5",
     "body" : "Drumske razbojnike, baš tako lol",
     "username" : "midnight_blur",
     "timestamp" : "2024-12-23T12:53:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e2772992-7916-455a-b91d-888724a99750",
     "body" : "Taxi prijevoz je nikad jeftiniji i dostupniji svima...ovo za sobom povlaci i mesto ovakvih klosara koji iskoristavaju situaciju i peljese ljude kojo su stari/neinformirani.\n\nDa je deda znao, 5 metata falje bi mu stao taxi koji za 6  eura vozi",
     "username" : "Forward_Slip_4386",
     "timestamp" : "2024-12-23T05:16:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9007a05e-3119-45b6-a732-3c898bd6f0e5",
     "body" : "Ralicom na njih i sve to povuci do CIOS-a",
     "username" : "Background_Read786",
     "timestamp" : "2024-12-23T00:36:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "29f132ae-07d3-4c0a-9500-5e3a2a0d3842",
     "body" : "I upravo se ovakvih stvari treba sjetiti kad budu kmečali protiv konkurencije",
     "username" : "NalaLee48",
     "timestamp" : "2024-12-23T08:23:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3002b7a2-c0e1-497e-85d9-52093ed9e3f8",
     "body" : "Ako su slobodne cijene krivac, kako to da onda iste priče ne čujemo za sve druge stvari u kojima se slobodno formiraju cijene - kruh, cipele, autobusna karta, itd.",
     "username" : "tsereg",
     "timestamp" : "2024-12-23T11:26:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cd17198e-8797-4834-9774-ce1b64b0ba7a",
     "body" : "Poznato je da svi taksisti govna, a oni s kolodvora i aerodroma su najveća govna među njima. O onom starom tipu taksista govorim, ne ovi uber i slični danas, ti si priča za sebe.",
     "username" : "NoExide",
     "timestamp" : "2024-12-23T07:28:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e8090c24-1eae-4078-ad14-3daafaf7d1ab",
     "body" : "A da se ograniči maksimalna cijena po km na ispod 20 eura ? Šta bi se desilo ?\n\nOvaj koji vozi za 6 eura bi prestao poslovati ?",
     "username" : "CortexThrill",
     "timestamp" : "2024-12-23T05:20:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6e3b3511-d3ed-4713-bf69-754406349dbc",
     "body" : "A sto ne cujes kako inflacija dize cijene i da su sve stvari osle gore. Naravno da moze trgovina stavit kruh po cijeni 10€ ako hoce. Ali uvijek ti pise cijena proizvoda ili ne pise ali znas otp kolko je kruh. Zamisli na trznici dodes kazes ocu 2 kg jabuka a nema cijene i ne pitas. Ovaj kaze 15€ ti das i onda kasnije skuzis kolko si dao. Ljudi moji nemre pomoci vama niko jedino sami sebi da pitate",
     "username" : "Dr-k1ng321",
     "timestamp" : "2024-12-23T11:29:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e0169145-dc6f-47a8-b1bc-2611e5b4a37e",
     "body" : "A gle u svakom poslu ce biti dio ljudi koji su govna i uzet pare sto vise za uslugu koju nude. Uvijek pitam kolika je cijena ne samo taxi nego bilo sto ako ne pise cijenik.",
     "username" : "Dr-k1ng321",
     "timestamp" : "2024-12-23T07:41:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7398a7c6-b2a8-43cf-8abe-4a0ef2443661",
     "body" : "Zašto bi drugačije bilo s taksijem? Isto ili piše cijena vožnje po kilometru ili ne piše (po zakonu, isto mora pisati, kao što po zakonu mora pisati i u dućanu). I u čemu je problem ako ti netko na placu kaže cijenu unaprijed i ti pristaneš? Meni su nudili kilu očišćenog graha za skoro 10 eura i nisam pristao. \n\nDa li bi po tebi vlada trebala određivati sve cijene, uključujući i cijenu tvog rada?",
     "username" : "tsereg",
     "timestamp" : "2024-12-23T11:32:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b98cc3db-8cbf-4c81-b3bc-7fa5bf9c4f66",
     "body" : "Ovi su govna i bez da uopće pričamo o novcima.",
     "username" : "NoExide",
     "timestamp" : "2024-12-23T09:20:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "05672782-be2f-46cb-8ef5-9d9a1e17d585",
     "body" : "Treba pisat cijenik ili ako ne vidis pitas kolko je start i km i kolko bi doslo do odredista. Ako ti ne pase odes u drugi jednostavno. Ja sam hrpu ljudi vidio koji sam ulete niti ne pitaju cijenu kolka. Pa onda kasnije stavljamo racune da je voznja od 7 km dosla 150€. Kriv si jednako jer nisi pitao cijenu. I ne treba odredivati cijene rada niti cijene namirnica. Slobodno je trziste svako moze staviti cijenu koju hoce, ako imas kupaca i ide ti zasto ne staviti cijenu 10€ start i 10€ po km.",
     "username" : "Dr-k1ng321",
     "timestamp" : "2024-12-23T11:40:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3348f1e6-60fe-4177-8901-36f8ac1f1a64",
     "body" : "Slažem se s tobom, ali nemoj previše to ponavljati jer će se javiti dosta njih koji će tvrditi da imaš problema u ponašanju i da ti treba hospitalizacija i terapija. Jer u biti napadaš divljačko slobodno tržište, a to je bog iznad Boga. Imaju genijalne metode, ponavljaju da si stalno mrzovoljan, da samo jamraš, i na kraju završiš s pričom \"ne vidi svijet u pravom svjetlu\". A Pravo Svjetlo su Dubai fritule i lampice na Trgu i čestit narod koji se raduje.",
     "username" : "MusicC1HzProd",
     "timestamp" : "2024-12-23T10:29:58Z"

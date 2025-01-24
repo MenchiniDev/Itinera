@@ -1,5 +1,5 @@
 {
-  "postId" : 200072,
+  "_id" : "4e794326-259e-483f-8254-cf2207c0b563",
   "community" : "Milano",
   "username" : "Benzinazero",
   "post" : "A Milano arriveranno i 'cuscini berlinesi' per rallentare le auto",
@@ -8,181 +8,217 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "9224805d-abe0-44d0-b7ba-437b5cbf7de2",
     "body" : "Ho avuto modo di \"provare\" questi dossi e devo dire che, rispetto ai tradizionali, sono molto più dolci e non mi sembra che l'auto decolli o perda le ruote a ogni passaggio.",
     "username" : "enrilo86",
     "timestamp" : "2024-12-18T10:30:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d9459d94-4e66-44aa-b4b0-fa7aaaacc8e7",
     "body" : "Inducono gli autisti a rallentare di auto con interasse largo, furgoni e camioncini?\n\nDalle mie parti ci sono dossi davvero \"tosti\", che devo dire funzionano bene: se non deceleri fino ai 20 ti saltano le otturazioni dai denti.",
     "username" : "acetaldeide",
     "timestamp" : "2024-12-18T11:14:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cce7f4ca-43ab-4dca-bfe2-5e048a280fef",
     "body" : "Bene, si possono schivare con la bici. Spero ne mettano il più possibile.",
     "username" : "BrodoDeluxe",
     "timestamp" : "2024-12-18T11:41:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "306c9513-373d-489e-8d84-f710ac034912",
     "body" : "Li mettessero ovunque. Ho appena rischiato per la centesima volta di essere investito sulle strisce a un incrocio dove tutti arrivato ad alta velocità, senza minimamente considerare che potrebbero ritrovarsi un pedone sulla traiettoria.",
     "username" : "Alessioproietti",
     "timestamp" : "2024-12-18T12:56:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "924b5daf-8009-4f44-9424-afae910437bb",
     "body" : "Devono tappezzare la città ci sono i vialoni come M.G. dove le auto sfrecciano da pazzi impunite.",
     "username" : "dodgeunhappiness",
     "timestamp" : "2024-12-18T10:42:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "003b9e36-b2fe-42fa-a597-34e73fc83423",
     "body" : "Non ho capito come funzionano, a vedere l’immagine sembra che l’auto andrebbe a toccare a prescindere dalla velocità, specie le auto basse andando a favorire i SUV che penso non sia l’intenzione alla base di questo progetto.",
     "username" : "iMattist",
     "timestamp" : "2024-12-18T11:46:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "df2fe117-db49-4476-9e7c-420bd71f10b1",
     "body" : "Speriamo. Milano unico luogo del mondo senza dossi",
     "username" : "PatientNumber1343",
     "timestamp" : "2024-12-18T10:52:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "904832f0-9030-41fd-b4a8-bc54d5afebaf",
     "body" : "Ogni giorno per attraversare piazza Napoli mindaccio il segno della croce… vedo ogni giorno moto che passano con il rosso senza ritegno. Devono metterli prima di ogni attraversamento e devono anche restringere le carreggiate altrimenti le moto si infilano…",
     "username" : "adea84",
     "timestamp" : "2024-12-19T08:00:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "63cd7a21-5bfb-4e3f-b3c0-c812e36bdd5a",
     "body" : "Di questi cosi (ho appreso si chiamassero \"cuscini berlinesi\" solo qualche mese fa grazie ad un articolo su HDblog) l'Inghilterra ne è piena (dove vivo e guido).\n\nLi **amo**, ma sono assolutamente **inutili**.\n\nLi amo, perché (non so con le altre auto) con la stragrande la maggior parte di essi si può tranquillamente e semplicemente passarci sopra *come se non ci fossero* (e non guido un Toyota Land Cruiser, ma una piccola segmento B), anche senza rallentare.\n\nSono inutili, per lo stesso motivo per cui li amo.\n\nOnestamente, per la maggior parte, non me capisco il senso.",
     "username" : "matteventu",
     "timestamp" : "2024-12-19T23:57:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "51895b23-90ad-4207-b2d2-4cacc8082b78",
     "body" : "Sono pericolosissimi e in altre città in Europa li stanno ritirando. Poco visibili e tremendi per le moto ad esempio.",
     "username" : "__Sim1__",
     "timestamp" : "2024-12-20T20:47:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dd23ff61-5489-43d5-9234-07b5e750442f",
     "body" : "Massi più li fanno illegalmente 30 cm più alti del necessario e li chiamano attraversamenti pedonali",
     "username" : "DysphoriaGML",
     "timestamp" : "2024-12-18T10:57:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2d980ef9-5d0f-4bbf-86d9-1ae26bf035c0",
     "body" : "Non mi sembrano nulla di che, dovrebbero solo \"migliorare\" quelli normali e magari metterli in coppia, tipo 2 belle rampette alte 30cm a un metro e mezzo di distanza, così con la bici le salti e con la macvhina ti schianti.",
     "username" : "Atanamir",
     "timestamp" : "2024-12-18T19:14:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "acc70c1f-55fb-4bea-8cb1-378ef323913f",
     "body" : "Tanto le auto a Milano si ribaltano comunque spesso, dossi sì o dossi no.",
     "username" : "Street-Inspectors",
     "timestamp" : "2024-12-19T01:05:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f02bf2fc-35c7-4cf4-9954-0ee14de8516b",
     "body" : "Se è così non sono per niente legali, visto che ci devono passare anche i mezzi di soccorso.",
     "username" : "guidocarosella",
     "timestamp" : "2024-12-19T07:24:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6802ebaf-a468-4b63-8412-0e335d62851a",
     "body" : "Vero, schivabili con la bici, ma se non c'è abbastanza spazio tra il dosso e il marciapiede rischi di prenderli di striscio e volare per terra (parlo per esperienza personale).",
     "username" : "Fullo98",
     "timestamp" : "2024-12-18T16:19:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "43f56841-5360-4cc3-b231-9a23f0c14c3d",
     "body" : "Hehehe non capisco se scherzi o fai la parte del ciclista anarchico per farsi odiare",
     "username" : "Ruvido_Design",
     "timestamp" : "2024-12-18T13:07:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "169994f5-4352-41a2-94f0-6aa4e1a7a3f9",
     "body" : "Le bici e le moto li possono schivare. Autoambulanze e autobus ci passano sopra ma sono più stretti della luce fra le ruote. Le auto sono costrette a passarci sopra o con le ruote destre o con le ruote sinistre.",
     "username" : "Benzinazero",
     "timestamp" : "2024-12-18T11:51:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e8d05f85-ea94-4ea4-9b9b-e7ea593904af",
     "body" : "Questa è una cazzata. In zona mia ce ne sono eccome.",
     "username" : "taxig",
     "timestamp" : "2024-12-18T20:54:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3ce9d12f-58fc-42d3-836b-897ce4f345a2",
     "body" : "Ma se é pieno?",
     "username" : "bravotipo",
     "timestamp" : "2024-12-18T22:35:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3a67b36b-7d1c-40a1-a11e-d2c0a3ab1ac8",
     "body" : "Hai della documentazione in proposito? Senza polemica",
     "username" : "Benzinazero",
     "timestamp" : "2024-12-21T06:14:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4784a964-e76d-4ff5-aa91-020f391d41a9",
     "body" : "Non so che dire, IMHO **i dossi sono la materializzazione dell'incapacità a rispettare i limiti**.\n\nLa strada in questione (https://maps.app.goo.gl/YTQAN7Js3p7saDgYA) ha una doppia curva e nel mezzo ospita un attraversamento ciclopedonale di un parco. Le auto usavano arrivare al suddetto attraversamento belli sparati, ignorando la precedenza di pedoni e ciclisti, nonostante i cartelli.\n\nAdesso tutti transitano in sicurezza. L'eventuale ambulanza dovrebbe rallentare, ma credo che la presenza dei dossi migliori le condizioni che determinano la sua chiamata per l'ennesimo investimento...",
     "username" : "acetaldeide",
     "timestamp" : "2024-12-19T10:06:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fe016309-5ba0-4d9f-bc43-7a2358716f7f",
     "body" : "Sono abbastanza stretti da consentire il transito ad autobus e vigili del fuoco senza andarci sopra, non sono un problema per le bici.",
     "username" : "Simgiov",
     "timestamp" : "2024-12-19T15:46:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "35123054-eeaa-43f8-bc86-6c9989df30fb",
     "body" : "Faccio la parte del ciclista che non vuole farsi mettere sotto da un coglione che non rispetta i limiti di velocità come succede ogni mese a Milano.",
     "username" : "BrodoDeluxe",
     "timestamp" : "2024-12-18T13:19:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "32ddc8e6-fa2e-47ec-9e29-10f8fba4a8b8",
     "body" : "La mia paura è che le auto basse, meno pericolose ed efficienti, saranno costrette a rallentare di più mentre auto alte, più pesanti e pericolose ci passeranno sopra tranquillamente. \n\nInoltre, il fatto di dover passare l’ostacolo spostandosi a destra o sinistra non rischia di creare manovre pericolose?",
     "username" : "iMattist",
     "timestamp" : "2024-12-18T12:28:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a7906426-dde6-4326-84fc-c9af204ae98b",
     "body" : "Risposta sbagliata. Dovevi dire che in africa non ci sono e quindi Milano non è l’unico posto",
     "username" : "PatientNumber1343",
     "timestamp" : "2024-12-18T20:59:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6598e2fb-f30e-4b9a-af1a-84cec1b8006c",
     "body" : "Non escludo ci siano zono coperte che io non frequento, ma dire sia pieno mi pare un'esagerazione. Frequento tutto l'est e gli unici dossi che incontro sono quelli in via cadute di marcinelle (confine con segrate) tranquillamente percorribili a 100 km/h +",
     "username" : "PatientNumber1343",
     "timestamp" : "2024-12-18T22:45:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c6ca830b-034c-457c-bf90-f7b6b93dcf11",
     "body" : "A parte esperienza personale che dovrebbe essere più che sufficiente, anch’io lo dico senza polemica ovvio.\n\nhttps://metropoliabierta.elespanol.com/movilidad/20240217/barcelona-mantiene-mas-de-cojines-berlineses-pese-su-peligrosidad-para-los-motoristas/832416878_0.amp.html\n\n\nhttps://amp.elperiodico.com/es/barcelona/20240408/sirera-pide-carta-collboni-retirada-cojines-berlineses-barcelona-100761162",
     "username" : "__Sim1__",
     "timestamp" : "2024-12-21T07:46:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "06a44957-cbf2-4bfe-bb1c-2be8f7bf9ac0",
     "body" : "E aggiungo, che mi ero scordato, costruiti tutti con materiali non omologati in caso di pioggia",
     "username" : "__Sim1__",
     "timestamp" : "2024-12-21T07:49:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "51dc786f-fbf7-4619-b6e5-4b91c1cb7166",
     "body" : "La gente continua a chiamare le ambulanze per minchiate in ogni caso, e si continua a fare avanti e indietro per strade di paese con 80mila dossi. Certo, senza investimenti si hanno meno codici rossi, ma i volontari e dipendenti nel soccorso bestemmiano lo stesso, anche perché i comuni esagerano, sia in dossi, che in rotonde del cazzo. E ci mettiamo anche di più a raggiungere la destinazione, perché le ambulanze non sono esattamente agili nella ripresa.\n\nFirmato, un soccorritore che soffre il mal d'auto.",
     "username" : "Leopardodellenevi",
     "timestamp" : "2024-12-19T12:59:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b9e626be-1550-42f6-a347-aa0c22f178fc",
     "body" : "o che non deve bestemmiare ogni giorno ripetutamente perché ci sono dei furbi che fanno delle ciclabili il loro parcheggio",
     "username" : "Askan_27",
     "timestamp" : "2024-12-18T13:29:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0e007c72-0800-4850-aa20-2b6fa646c67a",
     "body" : "I dossi ci stanno, il termine schivare no, sembri uno di quelli che per non prendere il dosso fa le virate improvvise, con questi non ci sarebbe biogno si schivare niente, magari son fatti anche per quel motivo...magari",
     "username" : "Ruvido_Design",
     "timestamp" : "2024-12-18T13:33:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e6f30298-90dc-472b-9de4-d5225ffc76e0",
     "body" : "vedo gia la fila fuori dal comune per la richiesta risarcimento danni a coppe dell'olio, alberi di trasmissione e vari",
     "username" : "ObviousResource5702",
     "timestamp" : "2024-12-19T13:38:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2c9e023d-ab7b-438d-b4cc-dac568804871",
     "body" : "Esatto!",
     "username" : "Onyx_Sensei",
     "timestamp" : "2024-12-18T16:19:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "82dbe23f-ad2c-46c2-8c7c-dd2f88414025",
     "body" : "Per ora non mi sembra documentazione conclusiva. Gli articoli parlano di un incidente a un motociclista, una petizione e una polemica politica. \n\nNon è uno studio che dimostri che i cuscini berlinesi siano particolarmente pericolosi, o più pericolosi rispetto ai dossi normali o niente dossi.",
     "username" : "Benzinazero",
     "timestamp" : "2024-12-21T08:08:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6aced2c8-2a99-4427-8baf-990bf0275c88",
     "body" : "Aah ok, no intendevo semplicemente che stando sulla destra con la bici lì eviti senza dover fare alcuna manovra improvvisa",
     "username" : "BrodoDeluxe",
     "timestamp" : "2024-12-18T13:40:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2dbe146c-5a15-4bc7-a331-8b42844ec529",
     "body" : "Allora: come ho già detto, è esperienza personale tanto alla guida e come ho spiegato in primo luogo in particolare pericoloso per le moto e per le bici. In secondo luogo, ne ho uno installato nell’incrocio di fianco casa e di media viene un’ambulanza ogni due settimane e non é una strada trafficata. Me han già tolti molti. \n\nPoi se ci si dovesse basare solo sugli studi… comunque omologazione per pioggia non l’hanno. Non sono omologati i materiali. \n\nChiaramente un giornalista deve vendere e ti parla di un incidente però ripeto: molti incidenti e no stanno rimuovendo molti. Poca visibilità, scivolosissimi in caso di pioggia. \n\nMeglio altri tipi di barriere IMHO",
     "username" : "__Sim1__",
     "timestamp" : "2024-12-21T10:33:06Z"

@@ -1,5 +1,5 @@
 {
-  "postId" : 200330,
+  "_id" : "97616ae0-9c1a-41f9-901b-9178d1409afc",
   "community" : "Vienna",
   "username" : "ExcitingHoneydew5271",
   "post" : "What district are we staying in?",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "f2c7a6a2-a939-49c5-ae42-36d92e1bbef5",
     "body" : "The middle two numbers of the post code in the address are the district and since that is 1090 according to Google maps you're in the 9th district Alsergrund",
     "username" : "sebastianelisa",
     "timestamp" : "2023-08-05T21:19:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3b1c56f7-2175-4b1c-9c3e-964879e2ce92",
     "body" : "Almost everything is in \"walking distance\" from there. You will be adjacent to the old town, you will have lots of trams you can use right in front of your doorstep, you will have a subway which brings you further outside.",
     "username" : "Julesvernevienna",
     "timestamp" : "2023-08-05T21:21:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "187975f2-bc8b-44c4-ac71-94cab7f2d2b7",
     "body" : "Bei diesem Beitrag scheint es sich um einen Post zum Tourismus in Wien zu handeln. Hilfreiche Tipps findest [hier](https://www.reddit.com/r/vienna/wiki/index/tourismus).\n\nThis post seems to be a post about tourism in Vienna. Helpful tips can be found [here](https://www.reddit.com/r/vienna/wiki/index/tourism).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/vienna) if you have any questions or concerns.*",
     "username" : "AutoModerator",
     "timestamp" : "2023-08-05T21:10:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "14b47b4a-9352-44c6-8a9c-2acba2fe1b99",
     "body" : "9th, but also basically directly at the borders to 1st and 8th. It's very central. \n\nJust look at google maps for restaurant near it. We know neither what type of restaurant you like, nor what you would consider walking distance (you could technically cross the whole 1st district within 2 km)",
     "username" : "--akai--",
     "timestamp" : "2023-08-05T21:21:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b6f2c782-6a23-4b63-a465-d02921b3dfee",
     "body" : "Just go to the Servitengasse (top 5 of the most beautiful streets in Vienna) :)",
     "username" : "Pronationbig",
     "timestamp" : "2023-12-11T12:45:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1a72b908-dbe7-44cb-99eb-a12102892b0e",
     "body" : "Worth mentioning right on the edge of 8 and 1 as well",
     "username" : "youremymymymylover",
     "timestamp" : "2023-08-07T19:48:30Z"

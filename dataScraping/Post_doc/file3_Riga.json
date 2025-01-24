@@ -1,5 +1,5 @@
 {
-  "postId" : 200118,
+  "_id" : "da4de895-abc0-437e-9ec2-21a516a1dc17",
   "community" : "Riga",
   "username" : "Spacey-touched-me",
   "post" : "New years",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "1b98b657-678b-4040-8d9d-abe4450b8d4f",
     "body" : "no",
     "username" : "77108",
     "timestamp" : "2024-12-22T23:32:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a5b99ac8-6d5e-4b0e-b1f7-35271fc2011f",
     "body" : "From the city organized: There will be 6 areas in the old town each with their own dj and or singers and lights etc., you can switch between those areas throughout the night. Look at the english Riga city website for details.\n\nThen also the dome square Christmas market basically turns into a New Year’s party \n\nThen a bunch of private parties you buy tickets to.",
     "username" : "hockeynow",
     "timestamp" : "2024-12-23T12:10:01Z"

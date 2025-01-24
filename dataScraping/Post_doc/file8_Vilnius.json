@@ -1,5 +1,5 @@
 {
-  "postId" : 200310,
+  "_id" : "8637a4a8-b98f-42c4-864c-45c01effe7da",
   "community" : "Vilnius",
   "username" : "Megatron3600",
   "post" : "Please build a metro… traffic is horrible ",
@@ -8,601 +8,721 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "67efe4c6-ef1d-4bd6-b1e8-caed94d35ae8",
     "body" : "Ok we start tomorrow",
     "username" : "krispisss",
     "timestamp" : "2024-12-20T10:15:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "90704e27-2ae1-49d0-a0d4-4e6093032836",
     "body" : "I'll get right on that.\n\nThanks though. I never realized that having big city traffic jams in a mid size city was bad until today.",
     "username" : "JoshMega004",
     "timestamp" : "2024-12-20T10:16:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ba4af645-3948-4ac1-a822-87290733ffdc",
     "body" : "Or lets build zeppelins, it's cool, it doesn't need roads or tunnels",
     "username" : "Tamsta-273C",
     "timestamp" : "2024-12-20T10:36:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "64a13353-c1de-428d-bfb9-f4d6c924f102",
     "body" : "Somehow smaller or similar population cities (Tallinn, Thessaloniki, Charleroi, Copenhagen, Helsinki, Lille, Lyon, Rennes, Toulouse, Nurnberg, Brescia, Catania, Bilbao) all have either a metro or an S-Bahn type of public transportation. Vilnius acts like we have no money to fund this but half of these cities have smaller budgets, significantly more corruption and still got it done. We have no excuses - other than incompetency and narrow-mindedness.",
     "username" : "Ill_Special_9239",
     "timestamp" : "2024-12-20T16:17:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "785ddf6f-f039-42fe-bb7c-9e5edb4e6a9f",
     "body" : "Ok, you’re financing",
     "username" : "HeyManNiceShot11",
     "timestamp" : "2024-12-20T10:33:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "26012f48-4115-41e4-b684-fc473146b1a0",
     "body" : "Next year we will have a few more boats on Neris! That will solve everything!",
     "username" : "ganriki_medis",
     "timestamp" : "2024-12-20T10:36:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8885af1e-c5e2-4626-96a6-8acf6ac05eb5",
     "body" : "Hi,\n\nCurrently I am too busy. But I have it scheduled for 2030. \n\nKind Regards,\n\nLongPickle",
     "username" : "LongPickle",
     "timestamp" : "2024-12-20T12:11:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4f240cab-12b6-4fc0-bedd-ef25dbf1c680",
     "body" : "You hope that everyone will jump into metro and then the streets will be empty and you will be able to drive your car without issues everywere?\n\nYeah, everyone else has the same plan.\n\nFunny thing: today I had to drive across the city a few times, traffic at 1pm was hell, yet somehow at 5pm (regular peak traffic jams) it was almost empty. What took me almost an hour at 1pm now took just 20 minutes.",
     "username" : "GrynaiTaip",
     "timestamp" : "2024-12-20T18:26:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3cc74a23-6194-4399-bd21-242ab23443c4",
     "body" : "No thank you, traffic is bad during christmas craze? You are part of that traffic, so please get out of the car",
     "username" : "aurimux",
     "timestamp" : "2024-12-20T14:25:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0d78d826-1a2b-41bc-8496-b09aef31dbcc",
     "body" : "Laughs in London traffic jams.\n\nI would like trams though. I think they’re very good ways of moving people around. And to get cyclists off pavements and onto roads.",
     "username" : "PasDeTout",
     "timestamp" : "2024-12-20T18:18:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5209fde4-6e5c-4648-84ae-c9ab97f25210",
     "body" : "I hate Zuokas mayor...but he was right in 2005.(Or in which year) .. Vilnius needs a metro. But it's expensive. And i think in 30 years, it's not gonna happen. Not even start talking about that",
     "username" : "LinasIsTaken",
     "timestamp" : "2024-12-20T13:54:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "67538ef1-c77c-4c8a-8102-daace05672a2",
     "body" : "Ok. You are funding this, right?",
     "username" : "blaivas007",
     "timestamp" : "2024-12-20T12:50:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cc368873-79c1-41af-8459-7e3f9668e2d7",
     "body" : "No, no, lets use the boats in the river",
     "username" : "depressedsoul027",
     "timestamp" : "2024-12-20T11:18:08Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e176ff71-9deb-4a26-8b97-0c5605bc0b3d",
     "body" : "Nah, won't work - you can’t get locals out of their cars, so I would suggest a Vilnius Loop - Musk’s Vegas Loop-like, but with Priuses instead of Teslas ;-)",
     "username" : "Rich_Organization_15",
     "timestamp" : "2024-12-20T12:17:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bb5abb4f-8272-4494-b2c1-9ebc65fef4f9",
     "body" : "Doesn't make sense to dig on our not-too-dencely packed town. A tram line or an overground/DLR style rail would make more sense.\n\n\n\n\nBut I agree, cars in VLN often make me want to move somewhere else",
     "username" : "MadamIzolda",
     "timestamp" : "2024-12-21T11:20:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d3ae23a8-cca5-4794-8ce5-96334985a72c",
     "body" : "how about no\n\nyou can start using the current public transportation instead",
     "username" : "alteregooo",
     "timestamp" : "2024-12-20T14:33:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "af3b25db-889f-46f8-b0c3-a32dbff83bf3",
     "body" : "Impossibile to biuld a metro in Vilnius. The city was disegned so bad that in some streets you do not even have sidewalks.",
     "username" : "ApprehensiveTruck655",
     "timestamp" : "2024-12-20T10:31:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "465fad15-703c-428a-9966-c7f469f11134",
     "body" : "Traffic in Vilnius can be solved fast and cheap. Metro is very expensive. Too expensive",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T10:27:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8a1c9ebc-d66d-4d18-8225-ccc9a789a986",
     "body" : "Hi guys,\nThinking about visiting Vilnius and other cities in Lithuania and using public transports to go to places I want to go.",
     "username" : "Friendly_Ostrich8320",
     "timestamp" : "2024-12-20T11:01:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "77fffbda-80a8-4a1b-9c58-7440311b31f6",
     "body" : "Cashapp 500€. Will get on it immediately👍",
     "username" : "Shetakubas",
     "timestamp" : "2024-12-20T14:21:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "943285b8-bde8-475d-9fba-9128d11c7341",
     "body" : "Zuokas, is that you Brother?",
     "username" : "somerandomnamei",
     "timestamp" : "2024-12-20T14:54:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ea2ffb0d-54a7-4511-b1d0-b4184deb3ea7",
     "body" : "Or metro-tram and independent bus lanes",
     "username" : "mantroomen",
     "timestamp" : "2024-12-20T18:32:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "40e48745-34d5-4a63-bcd0-f80c13ed722c",
     "body" : "How about just don't drive mmmmkay",
     "username" : "Phalanges-Magnum",
     "timestamp" : "2024-12-21T01:28:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "46cd5cb7-8f91-4bb6-a5b3-208631d050f0",
     "body" : "OR charge entrance to central Vilnius a fee of €12 per day, but before that, sort out public transport starting with buses. If the city can't operate a bus schedule, how fhey will manage with the underground/metro..",
     "username" : "Rand2Bs",
     "timestamp" : "2024-12-21T04:50:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1f53999f-4fe5-45cf-a86e-16863ba370ee",
     "body" : "Sure. That would be 2,3 trillion euros and we finish 2089. Maybe…",
     "username" : "dissmisa",
     "timestamp" : "2024-12-21T11:58:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c47d559a-0240-466c-883f-85ef7cbe63be",
     "body" : "Sure.\nStarting right after stadium is finished :/",
     "username" : "Mountain-Caramel4149",
     "timestamp" : "2024-12-21T12:42:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "407678fc-fb3f-4cab-96af-91e4b56674ec",
     "body" : "Several billion euros and off we go.",
     "username" : "Outrageous_Log_6727",
     "timestamp" : "2024-12-21T13:47:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a0218d83-9a22-4d15-b9d9-8b75fe1b4ae0",
     "body" : "Many traffic jams would be reduced if everyone had schools or kindergartens in their own neighborhoods. However, we continue to build new ones without investing in the necessary infrastructure.",
     "username" : "senisjura",
     "timestamp" : "2024-12-21T21:28:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7e83a139-d13d-4750-97af-340b9a815645",
     "body" : "Personally, a better alternative to this would be investing money in the available public transport systems. Increasing the frequency of the buses for ex., will help reduce the number of private vehicles on the roads and thus relieve traffic congestion. Building a metro sounds very attractive, but it is an intricate project that requires much planning and time and costs a great amount of money.",
     "username" : "Kornjii",
     "timestamp" : "2024-12-21T22:31:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "22f88446-ee35-4317-9147-ee7e05ac52e4",
     "body" : "It's the last working days before holidays/new year. At this time of the year every town needs a metro.\nThere's more movement on the streets, more sales, bigger queues at the parcel lockers.\nPlease be more mindful, try not to let your emotions take over and let them out on other people.\n\nEverybody has places to be, everyone is in a hurry, not just you.",
     "username" : "bronele",
     "timestamp" : "2024-12-20T13:30:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2d46241e-8883-4137-88c5-e9e8881bcb41",
     "body" : "Eventually we'll have to do it. I'd say we're just in a stage of denial now.",
     "username" : "dimkasuperf",
     "timestamp" : "2024-12-20T12:54:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "96d21915-e9ae-496e-8115-969652a71e07",
     "body" : "Yeah you're not wrong. The road system is a disaster. This medium size city (600k) has worse traffic than cities with millions of people in other parts of Europe. The metro idea would be too expensive. I do think adding in more designated turn lanes (center and sides), green arrows, allowing right turns on red and 3-4 trams lines would help and a cheaper solutions. Adding more bike lanes in a country were its cold, dark and rainy/snowy 9 months per year seems ridiculous.",
     "username" : "baltbcn90",
     "timestamp" : "2024-12-20T13:26:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f6697b50-a86f-4715-88db-54aa54b57841",
     "body" : "Start walking.",
     "username" : "nerodiskburner",
     "timestamp" : "2024-12-20T15:02:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "01ae51b9-ac22-4124-9080-f0a0aa5e75ed",
     "body" : "How could we not think of that earlier?! 😮😮😮",
     "username" : "CiupapaMunianio",
     "timestamp" : "2024-12-20T23:59:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bef3939b-ffb9-4242-8f2e-64c0be0ce9cb",
     "body" : "Just live in a proper town and dont have such problems",
     "username" : "CarpetOnDaWall",
     "timestamp" : "2024-12-21T19:40:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e2215c6e-8cd5-42b6-8bfa-cf463cb1c962",
     "body" : "maybe monorail?",
     "username" : "OriginalTuna",
     "timestamp" : "2024-12-22T07:07:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2845938a-473f-498c-b28e-74967768e0e3",
     "body" : "😅😅😅😅🤡🤡🤡",
     "username" : "MN1976MN",
     "timestamp" : "2024-12-22T07:21:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3633491a-f4b2-4a3b-b0a1-37ca63d84637",
     "body" : "So Zuokas was right all along 😅",
     "username" : "NewMeasurement1070",
     "timestamp" : "2024-12-22T10:06:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bcf2ec7a-f012-4c78-9d2c-7f7338b062eb",
     "body" : " Metro has nothing to do with traffic if you suck at urban design. And you can get rid of traffic without building metro. \nSo, I’d suggest demanding good urban design instead of vanity fair project that will suck the money and leave the traffic jams.",
     "username" : "Dziki_Jam",
     "timestamp" : "2024-12-22T15:07:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7dd3362b-12f9-4412-b29c-53106af3fc98",
     "body" : "Never had problem with public transport in Vilnius, public transport go on bus line and has priority.\n\nOr do you talk about driving a car? I don't know how metro is going to make traffic better if you don't plan to use it. The problem that most Lithuanians choose car vs public transport, and unlike in western Europe we have a stereotype that public transport is for poor people.\n\nPeople think \"let's build metro, so traffic for my car will be better\" but if everyone is going to think like that it won't change anything. You have to be committed to use public transport.",
     "username" : "C-Class_hero_Satoru",
     "timestamp" : "2024-12-23T05:52:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7b9f1621-d46f-4a24-9c5c-d239800fe0db",
     "body" : "Yesyesweneedmetrobruh",
     "username" : "Low_Station_5864",
     "timestamp" : "2024-12-23T09:33:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7fff9b9f-0ef0-4637-b4ad-a83aab5a2b2b",
     "body" : "We will draw more bicycle lines",
     "username" : "arxxas",
     "timestamp" : "2024-12-20T10:15:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b28fe4d8-646c-43dc-a502-daa6a04fcc83",
     "body" : "No metro, just a tram.",
     "username" : "toroidthemovie",
     "timestamp" : "2024-12-20T12:26:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2a3d8663-3333-4e59-a9b2-c5d672cf5c10",
     "body" : "A metro from where to where? :-)\n\nVilnius is a village, not a city.\n\nAll it really needs is fewer cars, and genuine enforcement of the actual traffic laws.\n\nThere is plenty of scope for improving traffic, encouraging use of public transport, walking, bikes, etc etc etc.\n\nAll it will take is enough citizens to actually calm down, think clearly, and work together.\n\nTherefore I do not see it happening in my lifetime ;-p",
     "username" : "mainhattan",
     "timestamp" : "2024-12-20T20:49:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c63eb7e2-c88d-4b9b-bb4d-9da72a387996",
     "body" : "lmao and be sensical? fuck no let's build 2 more stadiums",
     "username" : "mirtis_rusams",
     "timestamp" : "2024-12-20T17:12:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a612db24-b276-4058-a993-5602ea916542",
     "body" : "I would say neither metro or tram will solve the problem. The biggest problem is the suburbs with poor to zero social infrastructure. People are obliged to depend on private cars in order to get to work and take their children to kindergardens, schools, etc. It's been growing problem for the last 20 years and it's only escalating further exponentially. I don't know the solution either, unfortunately.",
     "username" : "prepsaro",
     "timestamp" : "2024-12-22T09:23:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a996e452-a923-4d5b-bfa1-93cd03497dc3",
     "body" : "Traffic is actually really horrible, although the public transportation isn't bad. But I guess increasing wealth leads to.higher car ownership which currently shows its challenges in a non-car-centric city design",
     "username" : "AssumptionExtra9041",
     "timestamp" : "2024-12-20T10:26:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b5cdb281-16e7-477c-8dd4-ca83e8e9f06d",
     "body" : "Can't. Too much historically significant stuff underground\nEdit: trams would be nice tho",
     "username" : "I_like_bloos",
     "timestamp" : "2024-12-20T12:39:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3e90bb78-0ff1-4f83-af01-c316cf470859",
     "body" : "go back to your country",
     "username" : "Intelligent_Algae_84",
     "timestamp" : "2024-12-20T12:37:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "48c99056-b4bd-45a7-be86-d8c380b6c0b4",
     "body" : "Thank you",
     "username" : "Megatron3600",
     "timestamp" : "2024-12-20T10:45:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "aa8b5ac4-9c5f-47f7-b1b4-ac538f0317d6",
     "body" : "I wouldn’t call 401 sq km mid size",
     "username" : "Megatron3600",
     "timestamp" : "2024-12-20T10:30:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "473f33d2-d957-4737-97c0-36fcf40635eb",
     "body" : "please no more zeppelins in the sky, one is enough",
     "username" : "vxndel",
     "timestamp" : "2024-12-20T10:39:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f2519733-206a-4bec-96e1-a761127f19d9",
     "body" : "Why are you looking back?? Look to the future! Only flying cars for me, please!",
     "username" : "Unhappy-Poetry-7867",
     "timestamp" : "2024-12-20T23:28:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "28f20f84-5d6f-4779-8752-fcaa6a0bdfc5",
     "body" : "As estonian i don’t agree. Vilnius traffic was really good, easy going and simple. Tallinn is fcked up. Mostly thanks to Russians.",
     "username" : "DJRichardo",
     "timestamp" : "2024-12-23T01:59:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "171b6a3d-6225-49e9-87ed-3e094c5e8d46",
     "body" : "With the number of hills in Vilnius, the cost will be insane. And how do you think metro will go through Neris? It will not? Good luck complaining about people jams near bridge areas",
     "username" : "Fresh-Band-3333",
     "timestamp" : "2024-12-22T13:20:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c90c6a70-fbca-4086-b940-e9c35f5f8f55",
     "body" : "Yea and Vilnius still doesn't have a stadium. So I wouldn't rush with any metro.",
     "username" : "Unhappy-Poetry-7867",
     "timestamp" : "2024-12-20T23:29:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fa4d727c-aebd-4281-bc7e-bc43dea88caf",
     "body" : "Tallin doesnt have metro and their \"s-bahn\" is same shit we got going from Vilnius to for example Trakai",
     "username" : "senisjura",
     "timestamp" : "2024-12-21T21:24:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "39fad8cf-90ae-4200-bfd6-1b8498e6cce3",
     "body" : "For sure that's part of it. A very car-brained city.",
     "username" : "mainhattan",
     "timestamp" : "2024-12-20T20:52:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "403c6152-0a2f-45a3-ac04-a6e2911df8c3",
     "body" : "Get out of the car and do what? Tell me better alternative. Public transportation sucks in Vilnius",
     "username" : "ex0oleg",
     "timestamp" : "2024-12-21T11:07:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "18eae341-9069-48e8-bbfc-e37b1af7b675",
     "body" : "If complainers don’t use the busses, why would they use the metro?\nAnd here’s how our further might go:\n- They don’t use the busses because they suck. \n- Why do you think the metro won’t suck?\n- Because we will build it properly.\n- How can we build the metro properly if the busses suck?\n\nSo, I’d suggest fixing busses. That’s cheaper. Traffic is all about organizing it, there’s no silver bullet.",
     "username" : "Dziki_Jam",
     "timestamp" : "2024-12-22T15:15:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "54c2831e-bfb4-407c-897e-40b754159501",
     "body" : "imma pass, going one hour from the fucking station to the university? i have better ways to spend that time.",
     "username" : "mirtis_rusams",
     "timestamp" : "2024-12-20T17:13:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a01671b7-5830-451e-998d-f70f74d81f5a",
     "body" : "Too expensive, yes. But the advantage of the metro system is that one can ignore most of the city design flaws. Trams, on the other hand, are much more reliant on the existant road network. Yet I believe we should build tram network first, and then to plan for metro, if needed.",
     "username" : "No_Men_Omen",
     "timestamp" : "2024-12-20T11:22:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "66ec5f4a-23de-4f9c-8f1b-a2922a99710c",
     "body" : "Will you keep us here waiting for the solution forever?",
     "username" : "arxxas",
     "timestamp" : "2024-12-20T11:12:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "eba1ba18-fc0b-49fd-9403-fe2062ba8976",
     "body" : "Buses are great in Vilnius (use the App called Trafi to quickly find your way). Also, the center is so small you can do a lot just walking.",
     "username" : "fbecart",
     "timestamp" : "2024-12-23T08:10:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ce9d460d-aa7a-4861-a8b2-969a033cb927",
     "body" : "everything other than Vilnius you'd be set",
     "username" : "mirtis_rusams",
     "timestamp" : "2024-12-20T17:13:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0eb60fad-fe0b-404e-8237-7ea5f0de6614",
     "body" : "Could you give some researches where we could compare the traffic?",
     "username" : "Dziki_Jam",
     "timestamp" : "2024-12-22T15:23:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9f5082fb-aa4e-489f-be9e-7b7e4da5b273",
     "body" : "What actually works, imagine all botl/wolt food worker would ride around in cars...",
     "username" : "Tamsta-273C",
     "timestamp" : "2024-12-20T10:32:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "eff7ae85-267c-4160-b4ab-51b005f3f95f",
     "body" : "401 sq km is not village",
     "username" : "Parking_Drawer5752",
     "timestamp" : "2024-12-20T22:09:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d99a0ef3-c294-458e-89ef-1c5ca66526fe",
     "body" : "[deleted]",
     "username" : "None",
     "timestamp" : "2024-12-20T10:35:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ddeb5d53-cb83-4de9-8c1d-8ab2577678e6",
     "body" : "Explain",
     "username" : "Megatron3600",
     "timestamp" : "2024-12-20T13:23:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e08e7e52-ce0d-45c9-8563-c49174391a25",
     "body" : "It's ok to have a metro and not be a large city. \n\nWe need a metro, S-Bahn or some sort of light rail system.  \n\nWe also need to accept that Vilnius is not a large city. Not by world or European standards. But no matter where we stand on the size of Vilnius, the fact that there is 0% rail transit options here and all we have are shitty buses is pathetic, to say the least.",
     "username" : "Ill_Special_9239",
     "timestamp" : "2024-12-20T16:09:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "aee9262e-ce7f-4c74-863e-44549284d628",
     "body" : "Two thirds of it is forest.",
     "username" : "GrynaiTaip",
     "timestamp" : "2024-12-21T11:46:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0d76be2b-7cc4-40ab-9728-cf8323050623",
     "body" : "It is only spread out like that, I read the land size of Vilnius is similar to one of Paris.\nPopulation wise it is mid size",
     "username" : "sneakermumba",
     "timestamp" : "2024-12-21T09:21:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b34cadb3-02c0-4002-a40a-0a4be626e591",
     "body" : "Imagine thousands of drones buzzing nonstop above your head. \n\nYou don't want flying cars with current level of technology.",
     "username" : "Tamsta-273C",
     "timestamp" : "2024-12-20T23:35:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "19c2f72e-cddf-4586-8033-61d9dce56dcd",
     "body" : "These are all terrible excuses. How do you think Rome, Barcelona or Athens built their metro? Even cities like Kyiv and Minsk have metro, Bucharest, Budapest, Warsaw. Are they all flat and have no riveres? New York built theirs over a 100 years ago, hills and rivers and all. Stockholm has it too. It's just a bunch of excuses for not getting it done.",
     "username" : "Ill_Special_9239",
     "timestamp" : "2024-12-22T22:15:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b171900b-f58f-47a9-991b-ac8733d17626",
     "body" : "Right, except Tallinn's S-Bahn connects important points within the city. Unlike Trakai-Vilnius, which is a train that takes people to the city rather than through it.",
     "username" : "Ill_Special_9239",
     "timestamp" : "2024-12-21T22:48:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "04d54601-2b46-4b46-a98e-6e45104d8c38",
     "body" : "I wasn't part of it, I drove a cargo van. Can't move large stuff on trolleybuses. \n\nEveryone seemingly took a day off for shopping before Christmas, that's the cause of the jams today.",
     "username" : "GrynaiTaip",
     "timestamp" : "2024-12-20T21:32:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b6b7ac17-cf3f-4c6d-8768-763cb77280fb",
     "body" : "Ride a bike or walk",
     "username" : "senisjura",
     "timestamp" : "2024-12-21T21:25:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6d9c0497-d800-41cf-8b65-f77058b2ec22",
     "body" : "You think public transport sucks in Vilnius? Checkout public transport in India, or checkout the German train service, notoriously known for it's tardiness.",
     "username" : "Bubbly_Pianist_5394",
     "timestamp" : "2024-12-22T08:31:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e79bc6e5-6a75-4754-b8d2-ccb89d08f257",
     "body" : "Its worse alternative, however there is not much options. Either you enjoy traffic in your personal car or enjoy bum smell in the public with everyone touching each other and breathing same musty air",
     "username" : "aurimux",
     "timestamp" : "2024-12-21T11:41:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8a4a10c3-b5e1-4498-83a2-7c3c5b04b748",
     "body" : "I use it all the time and I don’t have a car. It definitely could be improved, but it gets me where I want relatively quick.",
     "username" : "Dziki_Jam",
     "timestamp" : "2024-12-22T15:11:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cc800dba-96e3-4756-84dc-94767684c26e",
     "body" : "geras nickname lol",
     "username" : "alteregooo",
     "timestamp" : "2024-12-20T18:41:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2da1ca9b-2d2e-400e-8bf8-82e199e93364",
     "body" : "You can build whole tram network cheaper in 15 years than a single metro line, which can take up to 20 years.",
     "username" : "ak-92",
     "timestamp" : "2024-12-20T11:55:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "87bf1297-9341-41c6-8d34-8ae2f24a46b3",
     "body" : "Just simple return of green pointers would drasticaly imptoved trafic. Also stupid speed bumpers in the middle of roundabouts and remaking roundabouts itself would be beneficial improvement. Also some return of speeding lanes at some places ect ect.\nAlso trafic lights. Is it so hard to make green waves at some places? Fe - laisvės pr.",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T11:54:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "402fd298-77e4-4639-9393-ff827b6ed850",
     "body" : "Įsivaizduok, visi dviratininkai vėl į atomobilius suliptų, kiek automobilių srauto padaugėtų.",
     "username" : "Smodestas",
     "timestamp" : "2024-12-20T14:04:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2a59b215-98b5-4479-a42e-5e37cfdcef78",
     "body" : "It’s not about this. It’s about population density and how nuodinga are placed. Vilnius is one of the greenest cities because it has lots of forests right in the city. So, I wouldn’t call it a village, but it’s very unique and unusual.",
     "username" : "Dziki_Jam",
     "timestamp" : "2024-12-22T15:20:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d66f8f96-5972-484c-a41c-a7d7a2c1f822",
     "body" : "And you'll probably hate me but I love that so many bike paths are being built recently. The same should go for bus lanes.\n\nMobility is dynamic. People use what is most convenient. If we make busses and cycling more convenient, people will adapt to that. This would be great in terms of noise and air pollution since cars are highly inefficient in dense areas. This also majorly increases public health!",
     "username" : "AssumptionExtra9041",
     "timestamp" : "2024-12-20T10:49:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b1f9e88b-93ff-4ebf-a484-94a9ef93bd9f",
     "body" : "Well to be specific, I did not particularly point out that it's great, I just said it's not bad xD\n\nI'm a regular commuter in Zurich which is probably the heaven of public transportation. So of course I know what the standard should be. Yet, Vilnius could be doing much worse. Yeah, it's way too overcrowded, especially during rush hour. But that's unfortunately the case in most places...\n\nThe main issue is certainly the punctuality. But that's especially a result of traffic, as busses are for the most parts not separated from regular car traffic (which is a major shortfall of the bus system).\n\nSo I'd agree that it is certainly not great and also is far from perfect. And there's still much to improve. But I'd also say that it is fair enough and improvements might lead to rapid increases in quality.\n\nVilnius should try to get rid of cars as far as possible, especially in the center. This makes space for busses which can then operate much more frequently and reliable.",
     "username" : "AssumptionExtra9041",
     "timestamp" : "2024-12-20T10:45:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1f6015ef-0048-49fd-a43a-9ed57968f6d9",
     "body" : "The public transport is not the best here, but it's certainly better than in some neighboring cities of similar size. I was in Riga recently, and despite that city having trams, public transport anywhere outside the city center was mostly slow and infrequent. They don't have the live tracking of busses either, so good luck figuring out if your bus that's late is ever coming or not. Also, compared to Vilnius, Riga is severely lacking in bike lanes.",
     "username" : "_Lucinho_",
     "timestamp" : "2024-12-20T11:23:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3f6e29f3-6f3d-488e-a93f-d343950e9e58",
     "body" : "Usually folks from ex-USSR countries like to complain about the absence of metro, because in USSR metro was something special, not all cities could afford it.\nSo, it had this aura of something fancy, although “expensive underground tram” sound not as fancy as “metro” while means the same.",
     "username" : "Dziki_Jam",
     "timestamp" : "2024-12-22T15:22:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ba585fa7-ad2e-48bb-a346-cbc5527c3b06",
     "body" : "We should sort out the busses before spending billions on rail that will take a hundred years to complete.",
     "username" : "GrynaiTaip",
     "timestamp" : "2024-12-21T11:47:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "adf6ba82-f1c0-4215-a378-b9b49db92820",
     "body" : "Vilnius is too small for a metro",
     "username" : "Fresh-Band-3333",
     "timestamp" : "2024-12-23T14:17:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "132bc7f2-b765-45dd-a6ce-d13532ad507f",
     "body" : "If you consider Naujoji Vilnia impirtant point in the city ours does the same",
     "username" : "senisjura",
     "timestamp" : "2024-12-21T22:54:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "96a1db89-7160-436e-8deb-d2a0d320f481",
     "body" : "Yeah, traffic does legitimately get bad and a metro or something would be nice, but also massive traffic on the Friday before Christmas is basically the norm in any city.",
     "username" : "SexHarassmentPanda",
     "timestamp" : "2024-12-21T00:31:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ce43b184-ea66-45e9-808f-567eb1c2b8ca",
     "body" : "For sure, building a working tram system is much more feasible!",
     "username" : "No_Men_Omen",
     "timestamp" : "2024-12-20T12:06:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fd0a2d52-15a9-402a-8c28-7a116595228e",
     "body" : "That's a lot of BS. Even more (minor) changes towards a car-friendly environment within a system that suffers from just that - too many cars. Even worse, you are suggesting to make it more dangerous to be a pedestrian in Vilnius, the opposite to what we really need.",
     "username" : "No_Men_Omen",
     "timestamp" : "2024-12-20T12:12:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "968e1a93-e65b-4209-89c2-1b9438d54322",
     "body" : "The speed bumpers at the roundabouts are there to stop people driving the speed that stops other vehicles from entering the roundabout, making the traffic worse.",
     "username" : "bronele",
     "timestamp" : "2024-12-20T14:43:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a75f4405-685f-4cbb-93fb-f18809d56da4",
     "body" : "Unfortunately, we are clearly moving in an opposite direction. Explosive and chaotic growth of the suburbia is a major factor which will lead to the choking of the whole transportation system. Currently, there are not even talks about how to solve the transportation needs of the new suburbanite class. The official 'plans' of how to increase public transportation share are pure garbage, no connection to the reality whatsoever.",
     "username" : "No_Men_Omen",
     "timestamp" : "2024-12-20T11:20:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5bf82fb7-bd6d-4820-a06b-cb9a02ec8b87",
     "body" : "Can someone explain how trams would be something different than busses?",
     "username" : "Unhappy-Poetry-7867",
     "timestamp" : "2024-12-20T23:33:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b9cadc48-b15c-45c6-b5be-9608133dcc2b",
     "body" : "Vilnius is of the most lowest populated by density capital in the world. Also, compared to most other capitals has close to zero urban area population around it making. And can easy handle the curent and much bigger amount of cars.\nI have heard this stolupid argument of too many cats multiple times. Green pointers are gone. Millions invested in bike lanes. How many bikes did you seen today? 1?\nMaking artificial trafic jams did not solved anything. Almost nobody refused their cars because of that. The result is - twice bigger trafic jams and twice higher polution (also for the same pedestrians btw)\nAll the Europe managed to workaround with those green pointers, but yeh right, Vilnius for some reason can not.. Because car moving at 5kmh in crossroad making right turn is a big threat to pedestrians...",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T12:22:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cb36a8dc-3019-4bb0-94ef-55aac8116ad7",
     "body" : "The speed bumpers at the roundabouts stops vehicles from entering roundabout because enterer does not know what would be the speed of cars in the round about so they can not calculate right entering moment. Because some cars drops their speed to like 10km/h (especially BMWs) other car drops speed just slightly and others do not change their speed at all.\nThat is why there is a jam in Savanorių pr. roundabout all day long on entering from Tūkstanmecio g. on the entering that is just after that road bumper. There were no ir less jam in that place before.\nAlso, because of the same reason (cars slowing down to dufferent speeds) the whole roundabout and other enterins suffer.\nThis effect even has a name of „phantom trafic jam“ or/and „Traffic wave“ and that wave goes around fckn roundabout all day long without any reason.\n\nThis is an example.\nhttps://m.youtube.com/watch?v=Suugn-p5C1M&pp=ygULVHJhZmljIHdhdnc%3D",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T14:56:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ce16d16e-1e98-4848-b383-c03916d1fb34",
     "body" : "Trams are much bigger, faster, and more reliable. With permanent infrastructure in place, especially in the suburbs, they also encourage local economic development.\n\nIt is also true that much depends on the implementation. There needs to be complete priority over all other modes of traffic.",
     "username" : "No_Men_Omen",
     "timestamp" : "2024-12-21T07:03:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cfef5ea6-ef42-46bb-8c14-fe9633db7828",
     "body" : "Just one more lane bro",
     "username" : "Ok-Relationship3158",
     "timestamp" : "2024-12-20T13:53:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fa638565-785d-4e42-b8b3-722e7804df71",
     "body" : "On paper Vilnius' population density is low but that's mainly because the administrative area is unusually large. If you take a look at population density of central Vilnius (i.e. excluding neigbourhoods like Naujoji Vilnia, Grigiškės, etc) the density is actually not far off other large urban centers in Europe.\n\n\\---\n\nbtw if removing the \"turn right on red\" rule stopped at least one death, it's worth it. Don't forget that some vehicles have a large turning radius (buses, trucks) and they are extremely dangerous if pedestrians go under their rear wheels. There have been people who died on right turns for this exact reason and speed doesn't have much to do with it.",
     "username" : "errb",
     "timestamp" : "2024-12-20T14:49:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "07e90e6e-cfc8-458e-9d9c-0dd33466fec9",
     "body" : "In my hometown green pointers returned about a year ago. They had 0 effect on trafic.\n\n\nFor some reason VMS decided to absorbe nearby forsets. Remon those forests and populatio density becames high.",
     "username" : "acetonas378",
     "timestamp" : "2024-12-20T14:54:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1235b3c7-2e29-4764-83d7-a30442ea9766",
     "body" : "The speed bumps are designed for 30km/h speed. That's the speed that everyone is anticipating. Some people trying to go over that speed limit (especially BMWs /s) are the problem, making others not sure whether they can go or not.\n\nYou cannot believe that a few BMW vehicles driving 10 km/h is seriously the root of the issue.",
     "username" : "bronele",
     "timestamp" : "2024-12-20T15:01:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a8e884e9-539d-4e33-85bb-32c0426f10ea",
     "body" : "Been driving in Kaunas for 5 years on the same road. Once they added another lane for someone who turned left traffic was reduced by 50%. And this was 2 years ago. 2 months ago they closed auxiliary road for repairs, traffic went up by 50%.\n\nThis notion that adding lanes \"doesnt reduce traffic\" only works if there is another bottleneck in the system OR there is infinite amount of cars.\n\nI have been to many European cities in western countries of similar size, none of them had this problem with traffic, despite having similar amount of cars. Face it - Vilnius is badly designed, the last Mayor and his staff were absolute tools. And this problem will only get worse as Vilnius will only expand",
     "username" : "RandomAccount6733",
     "timestamp" : "2024-12-22T12:44:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "86325b1a-45fb-4329-96ec-c9df6b666354",
     "body" : "Gali daryt nors ir 10. Vistiek bottle neckai dėl debiliškų sprendimų kitur yra. Waršivoj 1 lane keliai juda greičiau, nei pas mus 3",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T13:57:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ea49a882-d4a6-4043-ac2e-526f0c652d31",
     "body" : "If you will look just at the „center of vilnius“ yra will have god damn wilage.\n„if removing turn right... at leats one death“\nPoluted air in lithuania kills almost 2000 people a year. And 120 dies in car accidents. Your 1 saved person from turning right red probably causes 10 deaths from polution because of thousands of standing cars what waits for their green light.\n\nSo why in countries where green pointer exists fatality rate in car accidents is much lower?\n\nWhole lithuanians read/car system is a joke because itvis runned by moronic idiots. Additionalnto removing green pointers.. \nIn 10 years lithuania became „country of road bumpers and speed radars“ it is like every 100m is one or another and.... Suprise suprise the fatality in the roads increased. It even became worse that Poland, where roads are more complicated, everyone is speeding in their autobans, there is no speed cams/road bumpers, and the traffic is much more intense.\n\nSoviet era made lithuanians mental slaves who think that restrictions and punishments can solve some things. It is an opposit.\n\nIn germany every day tenths of thousanda people moving in their at 200+kmh daily and have 3x lower road fatality rate than in lithuania with bumper/speed  cam/cop in bushes every 100m.\nBecause we are idiots and brain damaged soviets.",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T15:44:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b665fa2c-c93b-4f4d-8548-abf6b62bf079",
     "body" : "There two types of speed bumps desigend for different speed areas officialy descrilbed by a goverment/lawJust do some homework before posting. Bumpers designed for 30km/h are at the roads where official speed limit is 30km/h and they are not allowed to be build in areaa where speed limit is 50.\nAnd even if they were, some people would still beak down to 10km/h and another would go 40kmh. That makes trafik ubpredictable for entere. Because I do not know if how much car in roundabout will change speed. That leads to... Just stand on entering to roundabout and be like „damn I could enter roundabout like 5 times if I knew that those cars will slow down so drasticaly“ and/or forcing me to enter roundabout with a risk „sorry for crashing my car in to yours I thought that you will slow down on that bumper as these 5 cars before.\nI do not know why we even have this disscusion. That entering had much less jam before the bumper and this is an empiric fact.\nPS, if I see bmw driving above speed limit it causes zero problems for me entering roundabout because it is obvious wide gap to enter aftar that bnw passes my entering (just a simple logic).\nBumper „designed for xx speed“ is a joke. Because one car with thing tyres/wide rims, hard suspencion and owerall low clearance will ride bump in absolutely diferent speed compares to high tyre, high clearance and soft suspention one.",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T15:18:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9c323b4e-1052-4596-8649-e454b559154c",
     "body" : "I was driving in Vilnius 2 weeks ago, also used to Kaunas traffic, and Vilnius streets are just so much more narrow, and on almost every single street, you drive 5 min in a single lane and then you realize at the end that lane can only go right or something. Then you wait 2-3 min for someone to show mercy and let you slide in the other lane to just repeat the same thing again. \n\nIf most of the city had 1 extra lane and few more signs in advance on which lanes you can take, the city would have a lot less traffic. \n\nIn addition to that, the amount of tiny 1 ways that if you miss a turn you have to drive 3 extra kilometres to go to, make the traffic even worse",
     "username" : "PervySageCS",
     "timestamp" : "2024-12-22T17:20:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3fe55bf3-8edd-4fbe-973d-02208490e85e",
     "body" : "If you want to talk about pollution caused by the automotive industry, we shouldn't be talking about making cars faster and more convenient. You just induce more demand for more cars.\n\nand by saying \"central Vilnius\" I didn't mean \"Senamiestis\", I meant the area that most people think about when they say \"Vilnius\" or \"bad traffic in Vilnius\". Look up the administrative area of the city - a very big chunk of it are national forests and small towns which are also included in those density calculations. If you take these out, Vilnius becomes way more dense.",
     "username" : "errb",
     "timestamp" : "2024-12-20T15:59:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e8f90077-e995-42a9-99b3-d94d587bacca",
     "body" : "\"There two types of speed bumps desigend for different speed areas officialy descrilbed by a goverment/lawJust do some homework before posting\"\n\n\"Bumper „designed for xx speed“ is a joke.\"\n\nEnd of discussion.",
     "username" : "bronele",
     "timestamp" : "2024-12-20T15:26:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "10762e3b-aa41-4802-a184-882892128a8d",
     "body" : "You can take or exclude whatevr you want and the result will be the same - Vilnius is much less populated both by just count and/or density  and has multiple times less passangers than most other capital cities.",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T16:03:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1dcac5fe-28d4-4787-9658-647630edc060",
     "body" : "Eik, brone, indų plaut geriau",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T16:00:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e4fd04b7-2bf5-48e9-95a7-c5ff45f671ba",
     "body" : "It depends on what you’re comparing the numbers to. When you’re stating that it’s one of the least populated cities, I am pointing out the fact that a lot of other cities don’t include forests and surrounding towns in their data. This skews the numbers and makes Vilnius appear way less dense than it actually is.",
     "username" : "errb",
     "timestamp" : "2024-12-20T16:07:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "865c9af0-adc3-4543-b750-8f9c06fcb843",
     "body" : "So yes. Forests ect. And so what? Hiw does it change the fact of population dencity? Who cares why density is low? If there were houses instead of forests so then density were higher. And?\nThere is big forest near verkiai/zalieji ezerai and thousnads of houses under it.",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T16:12:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b17971bf-45e4-451a-9b29-4c1aa27ffeab",
     "body" : "OK, just give me an example of other capital city in Europe.",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T16:15:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d015bf00-c664-4ba1-8569-51cd600cd1e2",
     "body" : "Density is population over area. If you include the area where no one lives, it will make the density appear low.\n\nand you're the one who used low density as an argument, not me.",
     "username" : "errb",
     "timestamp" : "2024-12-20T16:15:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5db186c9-75b1-479b-b857-9877db4b638c",
     "body" : "So yes. If you have huge area with a lot of parks and forests that makes area less populated. So as a result you you have less cars/people for the same squere kilometer than you would have if there were houses instead of parks. So?\nMe myself live in area where is a lot forestes and houses are individual. So that leads lo low trafic in my area. Before I lived in Virsuliškės, where were soviet flat apartments making area dense leading to huge trafic.",
     "username" : "Firm-Chest-7628",
     "timestamp" : "2024-12-20T16:21:20Z"

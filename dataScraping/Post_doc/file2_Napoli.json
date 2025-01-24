@@ -1,5 +1,5 @@
 {
-  "postId" : 200047,
+  "_id" : "4ac0ca85-58e2-4cdb-82cc-6afa6559723a",
   "community" : "Napoli",
   "username" : "Ok-Excitement4831",
   "post" : "aperitivo del 24",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "0329f754-8590-4f5d-b49f-92407c2b8f64",
     "body" : "Io domani pomeriggio vado a Pozzuoli, credo il classico luogo dietro al Gozzetto\nÈ il mio primo aperitivo del 24 dopo 7 anni di schiavitù a lavoro",
     "username" : "Charlz__",
     "timestamp" : "2024-12-23T12:40:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b34309c5-1e89-4194-aa61-821e41814542",
     "body" : "Ubriacati alla faccia loro!",
     "username" : "No-Permission-5613",
     "timestamp" : "2024-12-23T12:46:45Z"

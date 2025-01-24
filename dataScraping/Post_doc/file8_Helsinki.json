@@ -1,5 +1,5 @@
 {
-  "postId" : 200316,
+  "_id" : "608ab984-b744-48af-903b-4645cc41de9a",
   "community" : "Helsinki",
   "username" : "apinanaivot",
   "post" : "/r/Helsinki is going private on 12th of June as protest against reddit API becoming inaccessible to third party app developers",
@@ -8,36 +8,43 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "de6718ea-0e36-42f8-974d-877f5b7cd8d4",
     "body" : "I support the blackout.✊",
     "username" : "StuntCockofGilead",
     "timestamp" : "2023-06-04T18:00:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "034ba68e-9178-4ef8-bb2b-d65dfd89399f",
     "body" : "Going all in!",
     "username" : "RayneYoruka",
     "timestamp" : "2023-06-04T18:03:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f4048295-5849-4269-9beb-457b46e0f706",
     "body" : "Why Helsinki, r/Suomi if fine, but do not make Helsinki private again!",
     "username" : "tushkeissi_bro",
     "timestamp" : "2023-07-08T22:48:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e0bab946-a96a-4681-9de0-d570c20b0b8d",
     "body" : "There's always r/Finland , besides this country is so small that all the stuff can be fit into one subreddit. :-D",
     "username" : "pelle_hermanni",
     "timestamp" : "2023-08-27T10:39:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0ff50676-ac69-459b-9181-cd668bc53b7f",
     "body" : "eilen?",
     "username" : "SmthRoskaa2",
     "timestamp" : "2024-06-13T10:10:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "812c2991-bc10-4565-ac37-53df40ab518b",
     "body" : "Omg wtf dudes...",
     "username" : "EduardoSpiritToes",
     "timestamp" : "2023-08-17T04:12:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b028658e-bbd8-4407-b128-18487cc2a85d",
     "body" : "aiheeseen liittyy: https://www.reddit.com/r/Suomi/comments/16j7qpg/rarkisuomi_on_n%C3%A4ht%C3%A4v%C3%A4sti_k%C3%A4yt%C3%A4nn%C3%B6ss%C3%A4_suljettu/",
     "username" : "None",
     "timestamp" : "2023-09-15T12:39:46Z"

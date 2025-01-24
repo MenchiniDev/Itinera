@@ -1,5 +1,5 @@
 {
-  "postId" : 200068,
+  "_id" : "d85252a2-05bb-4888-9d43-f61b5fab24d1",
   "community" : "Birmingham",
   "username" : "Randomuslessadvice",
   "post" : "Birmingham, AL | Dec, 2024. ",
@@ -8,46 +8,55 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "67d03ebe-5faf-458a-9080-7ef49956fdb6",
     "body" : "I like seeing the buildings lit up for Christmas, thanks for sharing.",
     "username" : "jlamperk",
     "timestamp" : "2024-12-22T20:04:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e5f91644-a466-45b0-9932-5c593b17c057",
     "body" : "I hate I'm not gonna see the Christmas building lit up in person, but this is just as good.\n\nThanks for sharing!",
     "username" : "the_neverdoctor",
     "timestamp" : "2024-12-22T22:08:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9acccf19-2d5a-4c1f-b643-e3658c763c7c",
     "body" : "Moved away in 2019 and I have to say, I miss Birmingham.",
     "username" : "neurad1",
     "timestamp" : "2024-12-23T04:33:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "316e3e8a-d4c4-4ae7-b598-7eb960839122",
     "body" : "I really like how they’ve done the lights on the children’s Hospital. Off-topic but I just found out that in many children’s hospitals across the country the window washers dress up like superheroes while they’re cleaning the windows. Go check it out on YouTube.",
     "username" : "simonthecat33",
     "timestamp" : "2024-12-23T04:18:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "31a3aa86-2e31-4de0-a0ba-ce0db5c3d387",
     "body" : "Lmao I think I know exactly what parking deck you’re at",
     "username" : "Epsilonop",
     "timestamp" : "2024-12-23T02:02:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5c8dca16-5393-45f7-9390-d2a820234f68",
     "body" : "Where is this, 2nd floor of Terrace appts?",
     "username" : "johnsmith98989",
     "timestamp" : "2024-12-23T09:02:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a91e407f-0f5a-45c0-be4d-8b5f5dbb2305",
     "body" : "Luv ❤️ my city around this tyme of year",
     "username" : "Specialist_Stay4986",
     "timestamp" : "2024-12-23T11:15:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "10f0a3bb-ac97-48dc-9ac9-3dc8b928cd12",
     "body" : "UAB is a pretty city",
     "username" : "SLE3PR",
     "timestamp" : "2024-12-23T02:26:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "29bc8a9a-389b-4f51-9d2d-b11b4a063959",
     "body" : "Ours do too!",
     "username" : "External-Difficult",
     "timestamp" : "2024-12-23T10:15:28Z"

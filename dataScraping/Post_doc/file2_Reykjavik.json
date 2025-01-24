@@ -1,5 +1,5 @@
 {
-  "postId" : 200035,
+  "_id" : "9587d2ee-2600-459e-85f5-5375796ab62e",
   "community" : "Reykjavik",
   "username" : "Deletedsoon321",
   "post" : "Good salary for living around Reykjavik",
@@ -8,251 +8,301 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "290aeb13-2af2-4125-b04a-284c8fb13057",
     "body" : "That's awful low. If paid legally and everything, it even feels illegal for a full 100% job.\nThe usual going rate for paid after taxes is ranging from a low of ~330.000 to a median of 460-550.000.",
     "username" : "Brolafsky",
     "timestamp" : "2024-12-13T10:12:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c5c0ed79-a9c9-4f36-8c55-16c4096498ec",
     "body" : "You will die from hunger",
     "username" : "icedoge",
     "timestamp" : "2024-12-13T10:18:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "af8ef13c-6dca-4f31-995a-c84f7d93f75d",
     "body" : "I sort of want to know what company you’re working for so I can report them. I’ve had too many foreign friends being fucked over by their bosses.\n\nDo you get meals? Or is the cheap accommodation all you get?\n\nBUT, to be fair - even if you would get 450000 a month and not a place to live at the price you’re getting it - you’d find a room for a 100k if you’re lucky or a studio for at least 170k. A one bedroom apartment would be 250k. \n\nSo yes, if you live cheap, you can definitely safe money. But you won’t do much besides eat and sleep.",
     "username" : "thebabeatthebingo",
     "timestamp" : "2024-12-13T13:50:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6b819113-d212-4f93-95ea-fc18cc7ca455",
     "body" : "Everything is expensive in Iceland. This salary sounds fairly low in my opinion. Is this for a full time job? \n\nBut to put things in perpective. A decent hamburger can cost around 2000 isk (often more) and a beer at a bar from 1000-1800 isk.\n\nA tank of petrol is 10-20.000 isk. A bus ride is 650 kr.",
     "username" : "run_kn",
     "timestamp" : "2024-12-13T10:16:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "933cbd42-8800-41cc-9bdd-2f81daf983fe",
     "body" : "Where tf get accommodation for 30.000kr. It’s gonna be in some moldy shithole with rats. You’re getting scammed for 250.000kr even 15 year olds make more by just taking a few shifts after school.",
     "username" : "Unlucky-Bread-1566",
     "timestamp" : "2024-12-13T18:26:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "51cd896b-d628-4937-945f-4d7f1adc1651",
     "body" : "This is a very bad deal and a bad idea. Even if you got accomodation for that price, you'd be dependent on your employer for accomodation and not able to choose your acommodation or choose to leave it. No one is offering reasonable accomodation for that price, but this job thing seems like a trick.\n\nThe normal numbers for what you are talking about are around 400k and 100k, big plus/minus, but not that big.",
     "username" : "always_wear_pyjamas",
     "timestamp" : "2024-12-13T21:16:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c9bfa6d4-b2c9-4d19-affd-e1185326301d",
     "body" : "It's very low, and probably illegal (for the employer, i.e. human trafficking). You'll pay 31,48% income tax (next step is for 446.137 - 1.252.501 kr., i.e ISK, 37,98% then over that it's 46,28% to give you an expectation of pay/tax brackets).\n\n250000\\*(1-0.3798) = 155050, or actually - 30000 more for the rent = 125050 ISK left and if you decide your room isn't good enough to give you an idea of a tiny room (9 square meters) very cheap in Reykjavík is 130.000 ISK, so you have very few options to leave to, while paying rent, and would have nothing left for food:  [https://myigloo.is/listings/10967](https://myigloo.is/listings/10967)\n\nYou need to have a resident and work permit (the employer will apply for you and provide it to you, if not, it's a illegal):\n\n[https://island.is/en/permit-based-on-work](https://island.is/en/permit-based-on-work)\n\n>An application submitted by an applicant who is in illegal stay will be rejected.\n\n>\n\n[https://island.is/en/permit-based-on-work/requirements](https://island.is/en/permit-based-on-work/requirements)\n\n>An insurance certificate must be submitted, confirming that the applicant has taken out (purchased) a health insurance\n\n>\\* \\[..\\] for at least six months from the date of the registration of the applicant's legal domicile in Iceland,\n\n>\\*  with a minimum coverage of ISK 2,000,000.\n\n>Six months after registering your legal domicile with Registers Iceland you will be automatically covered by the national health insurance.\n\n[https://www.internations.org/iceland-expats/guide/working-short](https://www.internations.org/iceland-expats/guide/working-short)\n\nYou will only be allowed to stay here if you have \"239.895\" ISK for each month of expected stay here, so I assume that's after tax (so you need to earn 386.802 ISK to have that left after tax).\n\n[https://www.government.is/diplomatic-missions/embassy-of-iceland-in-ottawa/work-and-live-in-iceland/](https://www.government.is/diplomatic-missions/embassy-of-iceland-in-ottawa/work-and-live-in-iceland/)\n\nThere ARE exceptions to paying tax in Iceland (that do not apply for you), I discovered, with recent new law for foreigners (while not applying to you, but could give you an idea what the government considers sufficient pay, before tax in your home country, to pay for things in Iceland):\n\n[https://work.iceland.is/working/remote-work-visa-faq/](https://work.iceland.is/working/remote-work-visa-faq/)\n\n>**10) What are the salary requirements to be eligible for the remote work long-term visa?**\n\n>The [regulation](https://www.althingi.is/lagas/nuna/2016080.html) is firm (Icelandic only), and applicants for a long-term visa must show that their income while working from Iceland will amount to 1,000,000 ISK per month for individuals – or 1,300,000 ISK if their spouse is joining them\n\n>\\[..\\]  \n**12) What are the ISK limits for health insurance?** \n\n>An applicant for a long-term visa needs to show proof of health insurance coverage of 2,000,000 ISK as a minimum per person\n\n[https://www.state.gov/reports/2024-trafficking-in-persons-report/iceland/](https://www.state.gov/reports/2024-trafficking-in-persons-report/iceland/)\n\n>The government also maintained a working group to combat “social dumping,” whereby employers provided workers with substandard pay, accommodations, or working conditions compared to the law",
     "username" : "PallHaraldsson",
     "timestamp" : "2024-12-13T22:36:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d426dcb1-2049-4234-b809-3a99c4af449f",
     "body" : "If your employer is giving you good accommodation, 250000 is still kind of low. You can expect to spend most of this 250k on food.",
     "username" : "GucciBeckham",
     "timestamp" : "2024-12-13T11:37:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c2c83a98-85fe-41f9-ac78-39407c8ca51a",
     "body" : "Okay, comparison, I made 260 a month when I was working 45% for the city. I never had overtime. If you are working anything more than 50% on that then YOU ARE BEING SCAMMED. Please do not take this job.",
     "username" : "grettlekettlesmettle",
     "timestamp" : "2024-12-14T01:26:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "98fd2f58-85d5-4fd8-9f71-7ff93ea4a9e5",
     "body" : "Reading the comments you seem so oblivious, it makes me think this is just a bait post",
     "username" : "Severe-Waltz1220",
     "timestamp" : "2024-12-13T14:10:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "119a21bd-714e-420e-99aa-77113cc678f0",
     "body" : "Minimum wage for an adult is 454.977 isk if you are in [VR](https://www.vr.is/media/erqf2rce/launatafla-vr-og-sa-2025.pdf), 425k in [Efling](https://efling.is/wp-content/uploads/2024/03/Kauptaxtar_2024_feb_SA.pdf). This does not include any overtime or work outside office hours, nor does it include benefits like pension, those go on top. So it's likely that the employer is skipping paying like half of what they should pay. And that down the line this will affect you.\n\nThe federation of unions is called ASÍ, their phone is: (+354) 535 5600  \nYou might call them and figure out which union you should talk to. \n\nUnemployment is still low. If you are a good worker, you should be able to do a lot better.",
     "username" : "svennirusl",
     "timestamp" : "2024-12-13T16:33:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "01b29d80-a1cf-4b66-ae62-2554a7d943d4",
     "body" : "Thank you for your answers. It wasn't a bait post and the salary is roughly equivalent to a 40 hour week minimum. \n\nI am aware that this is very low but I am putting myself in a different perspective. I'm young and not in need of money in the first place. Being able to live in Iceland for a few months and do a job where I'm mainly outside seeing wonderful landscapes is enough for me. I just wanted to make sure that this salary could at least cover my living expenses, knowing that I can't think of any other expenses other than eating and sleeping. \n\nI can understand anyone recommending that I don't take this job, but I think it's a win-win situation for both parties. It's not easy to find work when you're young, especially in a field and country that attracts you.\n\nThank you all.",
     "username" : "Deletedsoon321",
     "timestamp" : "2024-12-13T17:40:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e8a2e426-c740-46c8-8faf-24b82c7cac69",
     "body" : "This is very low and most definitely illegal if it is a fulltime job.\n\nIf you have permit to work in Iceland you should be able to do much better than that legally.\n\n30 minutes from Reykjavik is going to cost as well.\n\nWhat are your skills and what kind of job are you looking at.\n\nDo you have permit to work in the EU / EEA area?",
     "username" : "Stokkurinn",
     "timestamp" : "2024-12-14T12:46:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "217406a2-6b33-420c-b320-c508d6e8d584",
     "body" : "Note the pointers to talk to the unions here.  \n\nThey don't really care unless you are in this situation already, and when you are, you are not a member of the union so they will only go after the employer since they are illegal.\n\nIt won't really help you at all, so better to work yourself on finding a real job (the union does not help with this).",
     "username" : "Stokkurinn",
     "timestamp" : "2024-12-14T12:49:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "449cb124-cbce-418e-96c9-731404ae2375",
     "body" : "Salary is dangerously low (assuming full time). Also rent at that price sounds like it is from Fantasyland. 🤨 This thing is screaming \"scam and/or foreign worker abuse\". Name the company so they can be reported cause there have been a fair number of reports of people living in squalor in Iceland after going into contracts like that",
     "username" : "gardyna",
     "timestamp" : "2024-12-16T07:53:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c5617bce-5946-41f3-859b-04bf1086b7b6",
     "body" : "You can live but it will be hard, you can't go out to have beers often.. you could live but not very comfortably",
     "username" : "awasteofagoodname",
     "timestamp" : "2024-12-16T12:59:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1518eb66-555f-43fc-8c9d-5f03b83e32cf",
     "body" : "That pay is shit and the accommodation you get for 30k is probably shit.    I wouldn’t wish this on my worst enemy.   \nFind a different job.    You are setting yourself up for modern slavery.    You will be way to dependent on your employer for a place to live and won’t have enough money saved up to change jobs later when he shows his true colors and fucks you over.     He will own you unless you get outside help or are willing to live on the street.    \n\nIf you are 100% set on this and nothing we say is going to stop you I want to at least give you one advice.    Keep in your bank enough money for taxi fare to the international airport and to buy a plane ticket home to your family where you have support and never ever give your employer your passport to “keep safe”.   \nYou need to have a way to escape for when, not if your employer will fuck you over.   \nYou need to have a second job to have more money since this salary is not legal for 100% employment.  If your boss tells you that you can’t have another job then you are being fucked over.  \nI believe you are going to be employed as a contractor not as an employee since many tourism workers are contractors and that is one of the few ways he could get away with paying you such a shitty wage.  \nAs a contractor you have scary little rights for job security.    He could walk up to you today and with no real reason tell you to not show up tomorrow or ever again.  \n\nI would recommend to you to forget about this job and find something different. Almost anything else would be better.  \n\nWhere are you from?",
     "username" : "bigbear1108",
     "timestamp" : "2024-12-13T16:24:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0af407b6-cb43-41f6-9c3f-a0c1a6984052",
     "body" : "I have a part time job where I work about 18 hours a month. I get 280000þ a month.",
     "username" : "Loso220",
     "timestamp" : "2024-12-13T18:24:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fa878e1b-5228-4280-a726-0bbaa76fe29a",
     "body" : "Check with the union…",
     "username" : "Salt-Ad8933",
     "timestamp" : "2024-12-13T22:12:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fdc61903-2607-42cd-8af0-c3b8d66c1ac3",
     "body" : "Yes I understood it was low but since my employeer provide cheap accommodation I was thinking that I could still be saving some money per month, what do you think ?",
     "username" : "Deletedsoon321",
     "timestamp" : "2024-12-13T10:15:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9dde0ab6-527c-43e9-a33b-5703f77ceb5a",
     "body" : "Nope. Lowest legal salary is 340,000 before taxes.",
     "username" : "Own_Complaint_4322",
     "timestamp" : "2024-12-17T15:45:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2135beb9-7ce5-450d-9be4-49c3d26a4ad5",
     "body" : "Gleðilegan köku dag! 🍰😛",
     "username" : "CartographerLate206",
     "timestamp" : "2024-12-14T02:08:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "00e0c1e2-9dfe-4419-9b6d-fb1506912831",
     "body" : "It is very common in Iceland",
     "username" : "Glittering-Low-4285",
     "timestamp" : "2024-12-13T14:52:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d3311b87-e105-4ff0-bbcf-f6930c4ac630",
     "body" : "I don’t know if it’s union dependent or a general worker’s right, but If they will be giving tours and would not have access to a warm meal they would be entitled to fæðisfé but that’s usually pretty tiny",
     "username" : "thistlekisser",
     "timestamp" : "2024-12-13T15:02:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b254b8e8-fa76-4e77-907b-42cbffc87209",
     "body" : "I'm not really a big spender. I think 90% of my main expenses will be food. I wouldn't have a car, I wouldn't go out to bars or restaurants... Will my salary cover my living expenses?",
     "username" : "Deletedsoon321",
     "timestamp" : "2024-12-13T10:19:08Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a538e34f-b667-48b2-af78-5b3ac8662d8e",
     "body" : "Hann borgar ekki skatt af fyrstu 190.000kr. Og vinnuveitandinn er að ráðstafa honum húsnæði sem þýðir að það er frádráttur fyrir skatt. Hann er þá í raunini bara að borga um 10.000kr í skatt á mánuði, ekki 100.000kr.",
     "username" : "Glaesilegur",
     "timestamp" : "2024-12-14T02:34:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bb47963d-a563-4e6e-903c-8763a6b269ea",
     "body" : "You need to think about the social aspect of what you are doing. \nThis is a form of social dumping. \nYou allow criminals to run their business at your expenses. \nIt normalize a form of wage theft and slavery.",
     "username" : "Chinaski_on_the_ice",
     "timestamp" : "2024-12-13T18:02:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2241651d-be5c-46ef-a190-8db473d9ffad",
     "body" : "And on the end Peoople who agrees to shit like that ruin everything on a job market. If there going to be more people like you who agree to be a slave it’s going to be only worse. Bravo. 👏",
     "username" : "8astIOn",
     "timestamp" : "2024-12-13T18:04:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cd09a741-5b13-4845-8d4f-0c757933936e",
     "body" : "Stockholm syndrome has already manifested and you haven't even met your slaver.",
     "username" : "Glaesilegur",
     "timestamp" : "2024-12-14T02:37:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ce6f5e32-bd78-4c63-a20a-51a92deac221",
     "body" : "It is not hard at all to find a job in the tourism industry in Iceland. They are pretty desperate for people.",
     "username" : "pensive_moon",
     "timestamp" : "2024-12-15T09:27:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a14399de-a303-466f-b757-84d5eff143b2",
     "body" : "I agree with people saying you shouldn't take this job, especially because of the social aspect (encouraging wage theft and bad practices) There are so many jobs in the service industry (about 100 on alfred.is just now). If you are young and want to travel you could e.g. be a night guard at a hotel working for one week and one week off for traveling, and you would make twice this at least.",
     "username" : "Healthy-Act-1860",
     "timestamp" : "2024-12-15T20:51:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4f663d06-bcf2-42ee-8b3f-e6f76d39f2f7",
     "body" : "I do have a permit to work in the EU /EEA area and I am looking for almost any type of jobs in the tourism industry. I could not find more on Alfred or through spontaneous applications",
     "username" : "Deletedsoon321",
     "timestamp" : "2024-12-16T14:38:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "32e5d956-b39e-4288-9747-7c7ee4c10f39",
     "body" : "What type of work?\n\nI mean this salary sounds absolutely criminal, what company is it?",
     "username" : "Severe-Waltz1220",
     "timestamp" : "2024-12-13T10:17:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a6d19943-eec3-4103-a474-66cc1067e446",
     "body" : "If you're being paid below the legal minimum of 300.000 you're not saving anyone anything. You're accepting slave wages.\nHave you familiarized yourself with unions? You should pick one in the area you think about living and working in, and ask them about the salary before booking a plane ticket.",
     "username" : "Brolafsky",
     "timestamp" : "2024-12-13T10:20:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b48cdbad-0e23-4348-a2ea-b38148e6b1e8",
     "body" : "It's still low, to the point I'd start advising you to contact the union for your field (also, join the union for your field) and see if that contract is even legal. Your employer cannot pay under the negotiated minimum salary and benefits of the relevant union contract. Even if you get a half-decent studio apartment you'd still be living paycheck to paycheck with very few opportunities of saving money. Like, I'd be insulted to get that salary offer for a full time job *and* be expected to pay for my employer-provided accommodation, even if just 30k. \n\n250k gross is so low your total paid taxes each month doesn't even break the tax-discount barrier. You'd be paying no taxes other than social security (around 10k, hardly even worth the payment) because your owed tax is less than the 75 thousand króna tax discount everyone has. Don't know how benefits like included accommodations factor into taxes, but let's hope it doesn't count as benefits you have to pay taxes on.\n\nYour employer is trying to pass off the accommodation as a benefit, but I suspect that he's just trying to lower the salary paid because the rule of thumb is that the employer pays about twice their salary cost once all the fees and taxes are accounted for. 250k and a mortgage payment probably comes down to a lower cost to them than a proper salary and no mortgage.",
     "username" : "EgNotaEkkiReddit",
     "timestamp" : "2024-12-13T10:35:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ec1a2d63-688d-443b-8e5e-7a062b579bb0",
     "body" : "At that salary, accommodation should be free.",
     "username" : "foolmeonce-01",
     "timestamp" : "2024-12-15T21:35:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2aa7fb49-ab30-42f8-b9d5-c8f91e4ce641",
     "body" : "Yes. But they are still paying less than they should.",
     "username" : "Brief-Ad-2939",
     "timestamp" : "2024-12-15T11:18:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bb64f57b-1202-4b03-9c99-c45e68ed2caf",
     "body" : "I don't know what is unions, how can I find the contact of the one closest to where I live ?",
     "username" : "Deletedsoon321",
     "timestamp" : "2024-12-13T10:22:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ab1110cd-013e-449e-9f72-181c2337d11b",
     "body" : "[You can read about our Unions here](https://island.is/en/unions).\n\nBeing in a union here in Iceland isn't optional for the most part. We consider those who aren't in unions morons because they aren't in a union who protect their rights.",
     "username" : "Brolafsky",
     "timestamp" : "2024-12-13T10:40:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0b58cc9e-bf3c-404c-bdea-64434611a40d",
     "body" : "Unions are field dependent, but this should all have been mentioned by your employer. Heck, your contract probably should have already enrolled you into the union by default.\n\nWhat industry is this?",
     "username" : "EgNotaEkkiReddit",
     "timestamp" : "2024-12-13T10:40:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "26f26aaf-9caf-4a9a-9848-a7a7ca664c81",
     "body" : "Not sure where you are, but here are the two biggest unions in Iceland and i'm pretty sure they work all over iceland, please contact them and see what they say.\n\n[https://www.vr.is/en/](https://www.vr.is/en/)\n\n[https://efling.is/en/](https://efling.is/en/)",
     "username" : "2FrozenYogurts",
     "timestamp" : "2024-12-13T10:41:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "20fbbae9-f5d9-4d68-a99b-6699a124a6dd",
     "body" : "Tourism industry",
     "username" : "Deletedsoon321",
     "timestamp" : "2024-12-13T10:44:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "92dacb0a-db1b-4f92-943a-85b14c9642fb",
     "body" : "nope. I worked in tourism back in 2010 and once inevitable dispute arose we found that we were paying efling which had no jurisdiction over things outside the capital area",
     "username" : "friddi83",
     "timestamp" : "2024-12-13T16:09:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f0434dc7-c6fc-4888-a571-64e047670a5f",
     "body" : "Of course.\n\nHow many hours will you work each week? If it’s a 100% position, you’re being robbed. \n\nAnd getting a cheap accommodation from your employer, with your insanely low salary, they can have better control over you.",
     "username" : "gunnsi0",
     "timestamp" : "2024-12-13T11:20:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "51c34d36-994a-4c25-a533-bae91a494508",
     "body" : "Personally, I stay far, far away from working in tourism.\n\nIt's usually underpaid, and the pay is often with no maximum hours.\n\nBut if you're young and want to see parts of the world while working and having fun, sure, go for it.",
     "username" : "VarmKartoffelsalat",
     "timestamp" : "2024-12-13T16:25:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "90572f03-8f57-4c3a-a7dd-f2a9ae75d3f8",
     "body" : "NAFN OG TILGANGUR\n\n1. gr.\n\nFélagið heitir Efling stéttarfélag og nær starfssvið þess yfir lögsagnarumdæmi Reykjavíkur, Kópavogs, Seltjarnarness, Mosfellsbæjar og Kjósarsýslu að Botnsá, Grímsnes og Grafningshrepp, Hveragerðisbæ og Sveitarfélagið Ölfus. Starfssvið félagsmanna sem starfa á veitinga- og gististöðum og við iðnað nær auk þess yfir Hafnarfjörð, Garðabæ og Bessastaðahrepp. Starfssvið félagsmanna sem starfa á Vífilsstöðum og í heimaþjónustu nær auk þess yfir Garðabæ.",
     "username" : "odth12345678",
     "timestamp" : "2024-12-13T22:22:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ac708e01-5380-463d-b8bb-19856f7832dc",
     "body" : "Its probably 50% or 70% meant for students or as extra job on evenings.",
     "username" : "broken_leg",
     "timestamp" : "2024-12-13T15:52:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e170aa42-2406-4797-a150-1fc4d2b02daf",
     "body" : "This is wildly incorrect, and is more based around very few dirty players and political propaganda.  \n\nIn general the large companies in tourism pay very well, have plenty of work in the summers and reasonably in the winter and are very well liked by foreigners who are looking to save money.\n\nThere was recently an article in the polish news about a couple who worked here in tourism for a year and only worked a bit of overtime in the summer and managed to save 8.5m ISK\n\n[https://www.dv.is/fokus/2024/11/29/polskt-par-vann-islandi-eitt-ar-greina-fra-thvi-hvad-thau-nadu-ad-spara-mikid/](https://www.dv.is/fokus/2024/11/29/polskt-par-vann-islandi-eitt-ar-greina-fra-thvi-hvad-thau-nadu-ad-spara-mikid/)\n\nFulltime job at 250K gross even with accommodation sounds like something that you can easily get out of.",
     "username" : "Stokkurinn",
     "timestamp" : "2024-12-14T12:53:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "28eb1349-fe63-455c-9b9b-1f0dbf980d83",
     "body" : "nákvæmlega. þegar þú er kominn útfyrir selfoss tekur annað við. 60%af landinu fyrir utan starfssvið eflingar.",
     "username" : "friddi83",
     "timestamp" : "2024-12-13T23:22:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "54a7ad20-8258-4050-9e8a-276dd0c0bcf9",
     "body" : "Tja, 60% af landinu, já, en ekki 60% af íbúunum. \n\nMiðhálendið er t.d. um 40% af landinu og ekki er mikil þjónusta þar. Annars er ég bara að ranta hérna og hef ekki hugmynd um það hvers vegna Efling nær ekki yfir allt landið.",
     "username" : "odth12345678",
     "timestamp" : "2024-12-13T23:30:59Z"

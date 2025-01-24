@@ -1,5 +1,5 @@
 {
-  "postId" : 200203,
+  "_id" : "42c4be4a-d05d-4cd1-92b3-aca2aff46236",
   "community" : "Frankfurt",
   "username" : "Timon_von_Phleius",
   "post" : "Gute Alternative Friseure",
@@ -8,46 +8,55 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "3c4a6767-5fe4-408a-8f7f-752e243ae139",
     "body" : "Du müsstest \"untypisch\" ein bisschen konkretisieren",
     "username" : "JeanPierre-Blueberry",
     "timestamp" : "2024-12-22T20:49:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e5fcf06f-2d55-48f6-bc73-956a11384263",
     "body" : "Mr. Leons Scherenhände",
     "username" : "Competitive-Art",
     "timestamp" : "2024-12-22T21:27:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "aa0b94cb-e3d3-419e-b1b4-4aa880be652b",
     "body" : "Hello /u/Timon_von_Phleius, thank you for posting a question. Have you checked [our wiki](/r/frankfurt/wiki/index)  or the [stickied FAQ thread at the top of our subreddit](https://www.reddit.com/r/frankfurt/comments/otfb7a/visitors_and_newcomers_to_frankfurt_please_post/?utm_source=share&utm_medium=web2x&context=3)?\nWhen you have a satisfactory answer, please change the flair to \"Solved\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/frankfurt) if you have any questions or concerns.*",
     "username" : "AutoModerator",
     "timestamp" : "2024-12-22T20:45:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bdfd0edd-6811-4afd-b85b-15d8cd4beca0",
     "body" : "Barbershops dürfen keine Scheeren benutzen (dann Friseur und Meister Pflicht). ",
     "username" : "hombre74",
     "timestamp" : "2024-12-22T23:18:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "99fd0e4b-4597-4e01-b5aa-1c15a3030a8e",
     "body" : "Schon eher Punkige Sachen. Iros, Mullets, Chelsea Cuts und auch Haarschnitte aus 70er bis 90ern\nIch weiß das sind eigentlich alles eher do it yourself Schnitte aber ich brauche erstmal wieder eine gute Grundstruktur um die dann zurecht zu schnibbeln xD",
     "username" : "Timon_von_Phleius",
     "timestamp" : "2024-12-22T20:53:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cf537a7f-d3f2-43fd-bfc3-6185bf00923f",
     "body" : "Danke für die Empfehlung :D",
     "username" : "Timon_von_Phleius",
     "timestamp" : "2024-12-22T21:33:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f2ebd3b2-d382-475b-8f97-620294b15ed6",
     "body" : "Du hast Recht, aber davon wissen die Barbieren aber scheinbar nix",
     "username" : "suspicious_racoon",
     "timestamp" : "2024-12-22T23:58:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d732093d-3de1-48f4-87a7-eb4b7f56833c",
     "body" : "Bei Cowboys and Angels wirst du so was finden können :)",
     "username" : "thuglifesoul",
     "timestamp" : "2024-12-23T08:04:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "782b7e7c-6700-4b39-8470-438461fa8eb7",
     "body" : "Wissen schon aber hoffen wohl das sie nicht erwischt werden? Ist auch gefühlt ein anderes Klientel....",
     "username" : "hombre74",
     "timestamp" : "2024-12-23T06:34:25Z"

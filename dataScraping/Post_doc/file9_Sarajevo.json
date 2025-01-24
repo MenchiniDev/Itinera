@@ -1,5 +1,5 @@
 {
-  "postId" : 200374,
+  "_id" : "8bf8de2d-32c1-402b-ab68-5a6c063df383",
   "community" : "Sarajevo",
   "username" : "bebrillte_leseratte",
   "post" : "Tražim online instrukcije iz fizike",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "7ee273c4-d2c6-40f2-a000-c9c82c56364f",
     "body" : "Student medicine, ne nudim instrukcije ali evo jedan odličan resurs za fiziku https://youtube.com/@drphysicsa?si=Gee9n93sp2LQ-J2y\n\nProfesor je inače doktor nuklearne fizike, nije naravno po informatoru ali temeljno objašnjava baš kao što vjerovatno tražiš. Možeš krenuti od njegove GCSE revision playliste pa ići dalje. \n\nZa atomsku fiziku: https://youtube.com/playlist?list=PL01YLX2wuQD_E2szdIa4Ux9V3Gs3W1oQo&si=9PhQVWvvO72-TGS6\n\nIako primarno kanal za hemiju, pa super videa i o fizici. \n\nZa matematiku (ako bude potrebno za zadatke iz fizike): https://youtube.com/@professorleonard?si=e-RZflNVoMmzcx4B\n\nNadam se da će biti od pomoći i sretno",
     "username" : "xdkk",
     "timestamp" : "2024-12-23T03:49:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8255bf80-670a-4228-9545-20ab81d062f1",
     "body" : "Hvala puno!",
     "username" : "bebrillte_leseratte",
     "timestamp" : "2024-12-23T06:15:16Z"

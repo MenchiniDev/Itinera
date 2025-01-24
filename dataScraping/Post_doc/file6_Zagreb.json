@@ -1,5 +1,5 @@
 {
-  "postId" : 200140,
+  "_id" : "b1f0ed0c-5408-4cf7-96b4-bee4db236506",
   "community" : "Zagreb",
   "username" : "oniumnix12",
   "post" : "Problem s bucnim susjedima",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "7c31cb97-4740-40af-9441-88c28c270af0",
     "body" : "Možeš stvoriti neugodnu situaciju s predstavnikom stanara, ignorirati klince ili se odseliti. Izbor je na tebi",
     "username" : "Tall_Pop_4087",
     "timestamp" : "2024-12-23T14:23:23Z"

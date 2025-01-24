@@ -1,5 +1,5 @@
 {
-  "postId" : 200275,
+  "_id" : "c7fc50b9-9495-417d-b194-e90614385c4c",
   "community" : "Amsterdam",
   "username" : "kotomich",
   "post" : "Advice for unplugging district heating apartment unit ",
@@ -8,61 +8,73 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "75febccb-96b9-4b01-8762-fc852504dea8",
     "body" : "Probably will be fine. Probably.\n\nLooks like someone has been messing with that installation though. The loose wires, missing insulation box... Especially don't touch the exposed wires. Also I see what I think is a thermomotor (electrically controlled valve) lying loose on top of the heat exchanger (to the right). Basically someone has taken the whole thing apart?\n\nVery sad because these installations are basically unbreakable... if you leave them alone.\n\nThe right 230v plug is for your heating. You can unplug it which disables the pump. And then the limiter should prevent more heat from being added to the system.\nBetter also close the limiter. It's the manual valve to the absolute bottom right of your photo. Remember the setting! Have to put it back to the exact value it was, when you return.\n\nNo need to do anything with the warm water part (the heat exchanger on the left wall). It won't actively use much energy and it needs to maintain a constant heat to prevent salmonella.",
     "username" : "tz0",
     "timestamp" : "2024-12-23T09:45:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "05863327-f65d-4e0e-b1a5-f14c334d79b2",
     "body" : "Just unplugging them will close the valve and this should be fine. You could also only close the tubes that run to you heating. \n\n\nIn Amsterdam these heatexchange unit are owned by Vattenfall. They are not happy if you mess with them. \nIf you break the seal on this device you will have to pay a fine (experience here). \nCall a plumber with a license to work on these device and never mess with them yourself.",
     "username" : "rckoenes",
     "timestamp" : "2024-12-23T10:20:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c479dc18-61fb-4cfe-9b6d-ec140624867b",
     "body" : "Be aware that if it starts freezing in your apartment, then a non-operating heater might cause pipes to freeze and burst. \n\nNot saying it will happen anytime soon, but just keep that it mind.",
     "username" : "BespokeAlex",
     "timestamp" : "2024-12-23T09:44:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "47feb2ba-715d-4909-9e1c-e4b66f38eca0",
     "body" : "Oh vbt and their monopoly on forcing to use “their” heating companies. Can’t wait for their nefarious practices to one day come out in court!",
     "username" : "Fabulous-Web7719",
     "timestamp" : "2024-12-23T13:10:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5545f6a7-7e01-4e07-a95c-6e169ece174b",
     "body" : "First, that's a \"normal\" (although badly maintained) gas CV machine, not \"district heating\". Isn't it only for your apartment?\n\nAnd yes, you should be fine if you unplug it and plug it in again, but they do go through a boot up procedure, so it's possible it'll encounter some new error and refuse to work for whatever reason.",
     "username" : "avar",
     "timestamp" : "2024-12-23T09:04:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "abdc3044-ff13-4de4-bf5e-926408d2e257",
     "body" : "Thank you very much for the thorough advice. The whole thing was in this tate when we moved in. Both valves (there is one above as well you can't see in the picture) were set on max by the Bonarius mechanic in the attempt to get us heating working. I will unplug the right part and pray it works again when I'm back and plug it in.",
     "username" : "kotomich",
     "timestamp" : "2024-12-23T13:24:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "efb29c28-cbb9-45d9-85fa-800255f04bc7",
     "body" : "Never want to mess with it, but with the uncertainty of the high bill and the responsibility for it (trying to make vbt pay) I think I'll try to minimise the exposure by turning the heating part right off according to the advice above.",
     "username" : "kotomich",
     "timestamp" : "2024-12-23T13:28:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fc5c3155-29d2-4ade-b2a5-a2aceb57a7ce",
     "body" : "I think I'm betting that it won't happen in the next three weeks. Also the building is well isolated with apartments above and below its unlikely to happen, or so I hope.",
     "username" : "kotomich",
     "timestamp" : "2024-12-23T13:25:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3f8d5fb7-29b5-4696-8f9c-e28668350877",
     "body" : "I'm getting a feeling that making them pay for the high heating costs I'm now incurring due to their major oversight will require some sort of court...",
     "username" : "kotomich",
     "timestamp" : "2024-12-23T13:29:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2b58f6a2-3c20-4dcc-8df4-9708c6736ca2",
     "body" : "How do you arrive to the conclusion it’s a gas unit? You clearly see an arrival and return line in black isolation coming from the bottom and no copper/yellow gas line. On the back wall you see a manual for a kamstrup 602 which is a very common energy usage meter for Vattenfall stadsverwarming. \n\nTo answer your original question; yes you need to hook up a thermostaat to the unit. Can you post pictures of the wires coming out of the unit?",
     "username" : "ditrone",
     "timestamp" : "2024-12-23T09:42:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6b891336-1e30-4546-8875-ef0ddf3d7826",
     "body" : "Yes, you're right and I'm wrong. I don't know how I got that from eyeballing it earlier.\n\nThe ones I've seen don't need to be plugged in, they're just valves leading to some central heating unit. I can't imagine why such a setup would need power.",
     "username" : "avar",
     "timestamp" : "2024-12-23T11:27:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4c70ae80-641e-440b-bef7-73590e0e2796",
     "body" : "I don’t have my own setup super clear in my head but from memory there is a pump on it that needs 12 or 24v. That voltage goes to a relay in your thermostat, which when it closes completes the circuit and turns on the pump. The stadsverwarming and your own house heating are closed loop systems that only interact through the heat exchanger so you need something that provides the circulation on your own side.",
     "username" : "ditrone",
     "timestamp" : "2024-12-23T13:10:57Z"

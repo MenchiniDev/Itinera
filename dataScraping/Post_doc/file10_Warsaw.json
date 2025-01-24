@@ -1,5 +1,5 @@
 {
-  "postId" : 200431,
+  "_id" : "4c968c15-e40e-46ee-9f0c-768cdbe8e3d2",
   "community" : "Warsaw",
   "username" : "altraof",
   "post" : "Jasna 1",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "e25be630-f094-4eec-96a6-7ccc938a6559",
     "body" : "why do you wanna go if you’ve heard bad things?\n\nI haven’t had any bad experience there ever",
     "username" : "Helginson",
     "timestamp" : "2024-12-22T22:21:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "02f118fb-1fe2-4d7e-a2f0-c5470294dd89",
     "body" : "Jasna is cool, give it a shot. But maybe pre game before, the bar has at least German prices",
     "username" : "Marcomephopheno",
     "timestamp" : "2024-12-23T01:25:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1cb77458-1d16-46a8-903a-619a9f9fd5b9",
     "body" : "Go to the **Lustra** Club",
     "username" : "Dargorad",
     "timestamp" : "2024-12-23T00:12:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "df6dae1e-9052-4dc1-b152-844fa9155bc4",
     "body" : "I also heard that it's one the best techno clubs in warsaw but foreigners aren't as accepted just wanted to check",
     "username" : "altraof",
     "timestamp" : "2024-12-23T01:42:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ceec777b-a1c8-400d-a409-c2719c658708",
     "body" : "It's the best techno club in the city imo. As a foreigner, I can easily say the things you have heard about Jasna 1 are not true. I could always enter there, saw zero aggression from the bouncers there, and I've been there plenty of times. \n\nGo check there and I hope you will enjoy your night there.",
     "username" : "cucuman",
     "timestamp" : "2024-12-23T02:02:06Z"

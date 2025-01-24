@@ -1,5 +1,5 @@
 {
-  "postId" : 200231,
+  "_id" : "25f11c1a-5bef-424f-b146-f90aaea4e66f",
   "community" : "Madrid",
   "username" : "MadamPechuga",
   "post" : "Julianne Moore was living in Madrid and found her favorite supermarket",
@@ -8,276 +8,331 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "0a2f411b-54df-48f6-8fd1-eab58d9c7a77",
     "body" : "\"Vivía en Salamanca y me molaba El Corte Inglés.\"\n\nY yo que pensaba que iba al Lidl de García Noblejas...",
     "username" : "Neuromante",
     "timestamp" : "2024-12-21T14:42:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f2d4a4d1-63fc-4291-91cc-26251a4994dc",
     "body" : "Que pena que no fue al Día de Vallecas",
     "username" : "tjger",
     "timestamp" : "2024-12-21T16:18:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1f8e313f-7b2e-4727-95cb-e83eff85f968",
     "body" : "A principio de año me crucé con Tilda Swinton en Chueca. Estaba sacándose fotos con dos fotógrafos profesionales en uno de esos callejones meados mientras la miraban unas prostitutas callejeras.\n\nNo estoy siendo sarcástico, esto pasó de verdad",
     "username" : "MeCagoEnPeronconga",
     "timestamp" : "2024-12-22T00:55:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "49dc6b96-7ed4-4250-82d2-63aec984b0c9",
     "body" : "Mercadonaaaa, mercadonaaaaa!!!!",
     "username" : "Pep1113",
     "timestamp" : "2024-12-21T14:51:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0276179d-cb51-4fc4-9117-a354d5dea79e",
     "body" : "Estaba esperando que dijera Mercadona :(",
     "username" : "Manuel-Bueno",
     "timestamp" : "2024-12-21T15:43:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f1d76627-2a42-4c03-af91-f9594e954aaa",
     "body" : "Y yo que pensaba que iba decir el ahorraMas... Menuda decepción.",
     "username" : "angacitoeire",
     "timestamp" : "2024-12-21T15:34:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "50d788dd-3895-4fc1-9323-7db4672f22aa",
     "body" : "no dice English Cut?",
     "username" : "Conscious-Dingo4463",
     "timestamp" : "2024-12-21T22:09:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c0d05459-8d6a-428b-9cbb-5d754a4bb747",
     "body" : "es durete el vídeo",
     "username" : "Tongnah",
     "timestamp" : "2024-12-21T15:13:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "06658795-884d-4066-8a60-4b1f275bcc2f",
     "body" : "ONE OF US",
     "username" : "00zxcvbnmnbvcxz",
     "timestamp" : "2024-12-21T15:31:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "02f23172-3bb3-4b9c-982f-be3153c84bae",
     "body" : "Jesus vergüenza ajena",
     "username" : "Sel2g5",
     "timestamp" : "2024-12-21T14:40:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "16e697eb-312d-45bf-89c1-a1b621fd0a75",
     "body" : "Llevo poco en Madrid y España, no sabía que El Corte Inglés también tiene supermercado, es muy fancy? Qué los diferencía de los HiperCor por ejemplo?",
     "username" : "chuchofreeman",
     "timestamp" : "2024-12-21T19:02:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c65f36ec-0508-4855-9833-976cecca328f",
     "body" : "Al rastrillo",
     "username" : "Palmalagana",
     "timestamp" : "2024-12-21T23:20:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0ec73758-c1a2-45ef-b6ff-a93db59b9773",
     "body" : "Normal que estén los precios de las casas como están, con esta publi todo dios quiere ahora vivir o visitar Madrid.",
     "username" : "Faldo79",
     "timestamp" : "2024-12-22T02:25:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4561ecaf-8476-47c6-8389-8756e2114765",
     "body" : "Pensaba q iba a decir Mercadona jolin",
     "username" : "Educational_Pop5516",
     "timestamp" : "2024-12-22T22:28:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bfa08b4e-218d-4629-986b-c1e7e48f3a1f",
     "body" : "Una millonaria que no sabe ni lo que es una vida normal y dos sanguijuelas lame-culos que desean ser tan rica como ella hablando bien del Corte inglés por el puto supermercado Gourmet... Joder, por dónde empezar xD",
     "username" : "_IntrovertChapi",
     "timestamp" : "2024-12-22T13:03:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "adae6af3-3fe2-412b-82e6-b2fe43d23975",
     "body" : "No es Día??",
     "username" : "11111v11111",
     "timestamp" : "2024-12-21T18:55:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8d07009d-a070-4c4a-886d-7b68cccbc3de",
     "body" : "Y si escuchamos todos la conversación tiene toda la razón",
     "username" : "afriend027",
     "timestamp" : "2024-12-21T19:47:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "36691d9e-72ae-474b-9471-77fd623de5e6",
     "body" : "ONE OF US",
     "username" : "00zxcvbnmnbvcxz",
     "timestamp" : "2024-12-21T15:31:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9605422e-b833-42c8-a222-b534a9ec7168",
     "body" : "No sé ni por qué me sorprendo de que una rica elija El Corte Inglés....",
     "username" : "Ben__Harlan",
     "timestamp" : "2024-12-21T17:07:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "eef7e233-31fc-486f-aa3e-800d51642d03",
     "body" : "Que interesantes se creen algunos 🤦‍♀️",
     "username" : "tr45h55",
     "timestamp" : "2024-12-21T21:02:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4ab65c8b-7359-45a7-86e6-3b7855f66af8",
     "body" : "Que pijo",
     "username" : "mynameisnotthom",
     "timestamp" : "2024-12-21T17:47:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bd3fe157-619d-4b8d-ab40-3165e19b7167",
     "body" : "Da faak! En el corte ingles market?!?.... me cago en sus compras",
     "username" : "RavingGooseInsultor",
     "timestamp" : "2024-12-22T07:27:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c5eeed8f-2fa2-4d0e-8b7f-8c43babe0ccd",
     "body" : "This is parody, right?",
     "username" : "ohuprik",
     "timestamp" : "2024-12-21T21:23:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9d780ac1-e8d2-4674-8bac-1180a0c52d95",
     "body" : "Not vegetarian or vegan friendly. Extremely expensive.",
     "username" : "Responsible_Okra_672",
     "timestamp" : "2024-12-21T20:07:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b7248cf6-2d72-48b6-b6c7-d77d240d0808",
     "body" : "Al Aldi de Hortaleza",
     "username" : "Z3t4",
     "timestamp" : "2024-12-21T14:45:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d21e325f-313e-4a2b-b0fd-87e9b21a949f",
     "body" : "SQRUPS! de Arturo Soria!",
     "username" : "grafx_dude",
     "timestamp" : "2024-12-22T06:08:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "587b162f-a6e8-486c-852e-cae54ca90328",
     "body" : "Al Alcampo del puente.",
     "username" : "Z3t4",
     "timestamp" : "2024-12-21T16:41:08Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "96b234d5-7c92-49af-a0ab-945f90090a4d",
     "body" : "Mercadona en la mercado de puente de Vallecas",
     "username" : "mynameisnotthom",
     "timestamp" : "2024-12-21T17:46:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1636bce1-d5a4-406a-8c1a-c6d5035cecf7",
     "body" : "Te creo porque afirmas que es verdad",
     "username" : "davanger1980",
     "timestamp" : "2024-12-22T13:29:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "de711861-52ba-42dd-a7ec-7f1416db53d7",
     "body" : "La verdad",
     "username" : "StandClear1",
     "timestamp" : "2024-12-21T15:06:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "219a272e-1c55-4e08-b537-b49a17f7d6df",
     "body" : "He has too much dough for that🧐🧐🧐",
     "username" : "Pep1113",
     "timestamp" : "2024-12-21T19:02:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "46d4a7e9-d83d-4698-aabc-5dfa3a369ce7",
     "body" : "Eso y llamar al Corte Inglés *supermarket*? Menuda falta de respeto cultural, eso es Supercor de toda la vida lol.",
     "username" : "selectash",
     "timestamp" : "2024-12-21T23:23:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "911fe698-0f17-43c6-8b59-e5ef6880ede5",
     "body" : "The rich of Madrid? 🤷‍♂️",
     "username" : "davanger1980",
     "timestamp" : "2024-12-22T13:30:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0f68e902-2926-40a9-bab8-e3614c04a51f",
     "body" : "No es necesariamente lujoso pero tiene una gran selección de comida, incluidas opciones internacionales.",
     "username" : "solete",
     "timestamp" : "2024-12-21T19:36:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0e7c79b4-6857-4966-a71f-e119df617657",
     "body" : "El de Nuevos Ministerios tiene una tienda gourmet muy amplia.",
     "username" : "Crypto-Pito",
     "timestamp" : "2024-12-21T20:10:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "62de8eca-833e-4e93-9db8-4a27ada63e55",
     "body" : "Para mi lo mas diferencial es que el personal esta tranquilo, te ayuda con la bolsa, etc\n\nEn otros sitios el paso por caja es como un pit stop de f1",
     "username" : "PedroPerllugo",
     "timestamp" : "2024-12-21T23:13:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4c5c72ab-aec1-4133-9ff2-05fbb8b76a0c",
     "body" : "Pues vete a verlo. Para un americano o anglosajón es impresionante…",
     "username" : "Equal-Stand-144",
     "timestamp" : "2024-12-21T20:07:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6faca906-c391-4d13-ad35-5c975302182b",
     "body" : "Es algo más caro que el resto, pero también tiene más variedad y productos de mejor calidad. Hipercor es prácticamente lo mismo que Supermercados El Corte Inglés, tal vez Hipercor algo más grande.",
     "username" : "Spynner987",
     "timestamp" : "2024-12-22T19:44:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bf3698fd-96f9-404a-a405-d513e050757a",
     "body" : "Hay una diferencia entre el súpermercado donde vas a hacer tu compra diaria y el Gourmet. El súper tiene algún producto fancy, pero por lo central tiene los básicos cotidianos,  eso sí con una secciones de frescos impresionantes para un súper. En el Gourmet tienes cosas que solo podías soñar con ellas y restaurantes.",
     "username" : "SrZape",
     "timestamp" : "2024-12-23T10:11:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0c240ebd-b5dc-43f3-b457-e613cea70c28",
     "body" : "Culmen de la cultura occidental.",
     "username" : "ninpuukamui",
     "timestamp" : "2024-12-23T00:07:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2e153427-bc4c-44fb-ab3d-b4f2f688ff95",
     "body" : "Sí, tienen de todo! Tienen pan, pescado, congelados, harinas.. Es entretenimiento!\n\nFuck the right off mate.",
     "username" : "ninpuukamui",
     "timestamp" : "2024-12-23T00:05:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ff3a3346-4b8d-497f-9d06-76d8417c140f",
     "body" : "Did it really surprise you????",
     "username" : "Pep1113",
     "timestamp" : "2024-12-21T19:03:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d1a2b756-9433-4428-b38a-04fcd48ffe72",
     "body" : "Al Carrefour de Aluche",
     "username" : "aldebxran",
     "timestamp" : "2024-12-21T21:07:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "348d5eb6-4e8b-4fb4-94d3-ccea900c3256",
     "body" : "En la planta baja del de Goya está el supermercado",
     "username" : "SrZape",
     "timestamp" : "2024-12-23T10:00:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9a682bc4-cf1a-4b3b-a529-e8950bf8a0ab",
     "body" : "I’m not rich but I love el Corte",
     "username" : "00zxcvbnmnbvcxz",
     "timestamp" : "2024-12-22T14:23:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "50b49e76-af10-4c99-a858-cb7363bbef52",
     "body" : "Así es, y haciendo la compra online de los mismos productos me salen más o menos al mismo precio que en el Mercadona.. pero con más opciones. Las marcas blancas de ambos son parecidas, es más yo diría que las de El Corte Inglés (ni siquiera su línea Selection) son mucho mejores que las de Mercadona, y a un precio similar (e incluso más barato en ciertos productos).",
     "username" : "tobedeletedsoon_2024",
     "timestamp" : "2024-12-22T22:39:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1e5c9395-ea55-42c9-92e0-ab8e518c4c6e",
     "body" : "El Gourmet, que también hay en Goya, no es lo mismo que el supermercado... en uno venden whiskey a 30.000 pavos y en el otro puedes encontrar whiskey dyc",
     "username" : "SrZape",
     "timestamp" : "2024-12-23T10:04:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e36b6bd2-574d-4ae1-b44c-f3fc25fc6b16",
     "body" : "Hipercor es la línea de hiper de ECI por lo que a parte de tener lo mismo que el supermercado tiene libros,  electrónica, ropa  y todo eso.  Los supermercados de el corte inglés prescinden de todo lo que no es alimentación y droguería por que ya tienen el resto de plantas para ello",
     "username" : "SrZape",
     "timestamp" : "2024-12-23T10:06:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dd5d46ae-673d-4756-9f3d-0480488da79f",
     "body" : "Si estás acostumbrado a vivir en un sitio donde las secciones de frescos de los supermercados brillan por su ausencia ... pues claro",
     "username" : "SrZape",
     "timestamp" : "2024-12-23T10:13:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "127456ba-84dd-4c2d-ab36-89085517bc71",
     "body" : "Ni que ECI fuese Sánchez Pijero, está arriba en la escala de precios pero no ha mucha distancia de Carrefour o Alcampo",
     "username" : "SrZape",
     "timestamp" : "2024-12-23T10:07:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b042d08d-2227-410a-9b91-ad9b2121e09c",
     "body" : "El ganador sería claramente el Carrefour de Lavapiés!",
     "username" : "selectash",
     "timestamp" : "2024-12-21T23:17:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0c9e4426-98d6-4f0c-af11-c30db6e1581a",
     "body" : "En serio? En cuáles?",
     "username" : "ninpuukamui",
     "timestamp" : "2024-12-23T00:06:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f242f0a5-4243-4e4b-9af1-074f789de52a",
     "body" : "Tienes toda la razón. Es que llevo bastante sin entrar a uno y se me olvidó el reto.",
     "username" : "Spynner987",
     "timestamp" : "2024-12-23T10:08:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ae246b84-a41c-4843-8d45-377174b2d4e1",
     "body" : "Yo diría que comprar en el ECI es algo de gente mayor",
     "username" : "SrZape",
     "timestamp" : "2024-12-23T10:12:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bb9c0f37-8e93-4804-b7f1-ca0733c00fbc",
     "body" : "Cuando voy a una ciudad con mis padres, quieren comprar allí, así que tiene sentido",
     "username" : "Spynner987",
     "timestamp" : "2024-12-23T10:13:16Z"

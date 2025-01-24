@@ -1,5 +1,5 @@
 {
-  "postId" : 200196,
+  "_id" : "f2d9f825-a2cf-4de0-b5b5-99413be01a2a",
   "community" : "Napoli",
   "username" : "Caratteraccio",
   "post" : "il napoletano Harold Stevens, noto anche come Colonello Buonasera",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "cbd66820-8c12-4db7-ae8a-47c9e5b6403a",
     "body" : "Buonasera a lei",
     "username" : "CommentRare5181",
     "timestamp" : "2024-12-23T12:15:39Z"

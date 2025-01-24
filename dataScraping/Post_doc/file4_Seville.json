@@ -1,5 +1,5 @@
 {
-  "postId" : 200194,
+  "_id" : "40efc564-d116-4862-adf4-8f400cad9a61",
   "community" : "Seville",
   "username" : "itsmediinaa",
   "post" : "Adopting a dog in sevilla",
@@ -8,16 +8,19 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "7e5b88e6-3a93-49f5-9189-6364593c96cd",
     "body" : "I adopted my dog here: https://fundacionbm.com/.\n\nThey rescue galgos and have dogs of all ages. If you don't know about galgos they are spanish greyhounds. They are very mistreated by Hunters here in Spain and are very sweet, noble and calm dogs.\n\nWhen we adopted our galga we paid 180 euros, that included chip, passport, first shots, test from some diseases and sterilisation.\n\nWe spend around 65 euros/month in a good quality kibble and around 120 euros/year in shots (rabies, pentavalent and leishmania).\n\nBesides of that our dog is very spoiled so we spend more money in toys, treats, etc but I think you can get the idea with those prices.\n\nI hope you find your ideal companion.",
     "username" : "elektrolu_",
     "timestamp" : "2024-12-22T21:03:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "faf63634-3529-41b5-b478-337588f035ec",
     "body" : "You are welcome!",
     "username" : "elektrolu_",
     "timestamp" : "2024-12-22T22:01:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1954bf80-da91-4b9b-bfb9-b99dca957d00",
     "body" : "Thank you for your detailed response! I just filled out their questionnaire",
     "username" : "itsmediinaa",
     "timestamp" : "2024-12-22T21:21:49Z"

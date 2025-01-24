@@ -1,5 +1,5 @@
 {
-  "postId" : 200399,
+  "_id" : "268bcd35-bf44-41c0-89cf-93b9679d2af4",
   "community" : "Vienna",
   "username" : "Euibdwukfw",
   "post" : "Orf tvthek mit Hisense/Vidaa",
@@ -8,16 +8,19 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "5e7221c1-6eee-4796-a1c4-454171b12e89",
     "body" : "[removed]",
     "username" : "None",
     "timestamp" : "2023-07-31T18:06:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "51d82094-f006-4cf5-adb9-72d0eba219ae",
     "body" : "Habe leider die gleichen Erfahrungen mit einem Hisense TV gemacht .. bin seit über einem Monat mit Hisense im schriftlichen Kontakt und bekomme zwar immer wieder nett formulierte Anweisungen wie ich das Problem beseitigen kann (Softwareupdate, Cache löschen, App abmelden u. wieder anmelden usw.) aber das hat alles nichts geholfen bzw. funktioniert gar nicht. App abmelden geht nicht, da man ja in der ORF TVThek gar nicht angemeldet ist. Software war bereits bei Auslieferung aktuell, somit war zwar Update (auf den gleichen Stand) und Werkseinstellung möglich hat aber genau gar nichts verbessert. Schon beim Händler (MM) war das Problem mit dem Videostreaming in der ORF TVThek App zu erahnen, der hat sich aber auf die vielen gleichzeitigen Internetverbindungen der ausgestellten Geräte berufen. Vorletzte Info war die ORF Mediathek App (danach habe ich gar nicht gefragt) wird gar nicht auf dem Gerät unterstützt. Dann habe ich klargestellt, dass es sich seit meiner ersten Anfrage vor vielen Wochen immer um die ORF TVThek App gehandelt hat. Letzter Stand ist nun, dass ich Hbb aktivieren und dann nochmal den Cache löschen soll ? Ich werde das natürlich auch versuchen rechne aber nicht mit Besserung. Entweder ist das Hisense Gerät so langsam (andere Streaming Apps laufen aber korrekt) oder die App in der ausgelieferten Version ist einfach fehlerhaft. Dann darf sie aber aus meiner Sicht auch nicht beworben und mit ausgeliefert werden.",
     "username" : "TV-Fan-AT",
     "timestamp" : "2024-01-02T07:58:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2fe0bfcb-691a-4eb5-9bf3-8f0584bd528f",
     "body" : "Ja eh, bin aber so mit den anderen Apps zufrieden. Hatte mal einen Samsung da war die youtube app nicht schneller.\n\nDie tvthek app dürfte wohl die Schuld des ORF sein.",
     "username" : "Euibdwukfw",
     "timestamp" : "2023-07-31T18:10:33Z"

@@ -1,5 +1,5 @@
 {
-  "postId" : 200249,
+  "_id" : "f05d6902-dcee-4fe4-8e7f-051713af09bb",
   "community" : "Valencia",
   "username" : "Palomitosis",
   "post" : "\"Puntes d'embotits\" a VLC",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "ad238e78-e29a-4620-b9d0-7ea0e431475c",
     "body" : "El sempiterno picadillo que a tantos y tantos caldos ha dado sustancia en años de necesidad y hambre...no creo que en vlc lo encuentres pero... sigue jugando!",
     "username" : "Far-Willingness-9678",
     "timestamp" : "2024-12-22T21:32:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cf564fdc-c722-475f-82c9-ecb74b21c320",
     "body" : "A molts llocs ja ho fan com a forma de traure ingressos extra, no sabria dir-te exactament quin lloc, però ho envasen al buit i t'ho venen per un pall d'euros",
     "username" : "Mauella-Tauladella",
     "timestamp" : "2024-12-23T12:15:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a4c7383b-9d4c-490d-9b92-1b7ea18491b8",
     "body" : "Es que en mi pueblo no lo anuncian... lo tienes que pedir tú... como un pasadizo secreto de un juego",
     "username" : "Palomitosis",
     "timestamp" : "2024-12-22T22:39:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e59c2aa0-a414-4533-bafd-03304c8a106b",
     "body" : "Al meu consum en Valencia solen regalarte la punta si quan demanes s'acaba la peça. No sabia que podies demanar-ho.",
     "username" : "saataaaaaan",
     "timestamp" : "2024-12-22T23:19:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6d08fdbb-f8c1-40da-a6dd-7b12d0cfa702",
     "body" : "És que al meu poble les guarden i les venen al pes. De fet, les separen en embotits frescos, embotits curats i formatges i cadascun té un preu diferent. Però clar, volia informar-me abans de fer el ridícul jajaja",
     "username" : "Palomitosis",
     "timestamp" : "2024-12-22T23:23:21Z"

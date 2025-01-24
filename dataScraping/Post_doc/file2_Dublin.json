@@ -1,5 +1,5 @@
 {
-  "postId" : 200090,
+  "_id" : "7c936750-a9ba-4bac-8243-7c369ff4dd7e",
   "community" : "Dublin",
   "username" : "sted1983",
   "post" : "Christmas Parking",
@@ -8,61 +8,73 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "2ebb0fcd-42be-4669-b08d-3e20dcefe73a",
     "body" : "Same today at Aldi. Some auld lad parked his Lexus SUV across three spots. I told him he was being selfish, and he just laughed and walked off. 🤷🏼‍♂️",
     "username" : "dmullaney",
     "timestamp" : "2024-12-22T20:16:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3e24b90b-8c9d-452c-b8cd-7a93cd02acbc",
     "body" : "My mother lives in a housing estate near a big shopping centre and I have never seen it so bad as this year, I think it's peaked because amazon is coming soon.",
     "username" : "donall",
     "timestamp" : "2024-12-22T19:53:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d8a931b7-ab98-4181-904c-c9a77d46371c",
     "body" : "You think people are parking like shitehawks because Amazon are coming? Right.",
     "username" : "sted1983",
     "timestamp" : "2024-12-22T20:17:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1ca0a401-6850-471d-ab78-f59e37283cf5",
     "body" : "As in Amazon.ie?",
     "username" : "Silver_Mention_3958",
     "timestamp" : "2024-12-22T20:06:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a87e4c24-4814-4a0f-a60a-03fe85584325",
     "body" : "I think he's suggesting there will be less shitehawks after Amazon.ie launches like they will magically disappear",
     "username" : "DrWarlock",
     "timestamp" : "2024-12-22T20:32:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c70835ab-6511-4637-92d8-532f2dc14862",
     "body" : "I've no idea what the fuck he's talking about if I'm honest.",
     "username" : "sted1983",
     "timestamp" : "2024-12-22T20:37:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "21729a78-9fec-4897-b025-0d5c8233d98f",
     "body" : "Maybe Super Valu in Killester will be down a few morons cos Amazon is open in Ireland? Doubt it. By the way big shout out to the tall lad doing the car park cos he's an animal.",
     "username" : "sted1983",
     "timestamp" : "2024-12-22T20:39:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "adf10989-d0b7-49fd-96e8-762dd18c5687",
     "body" : "The worst offender are parents at schools, dunno how Amazon.ie will change it unless they can somehow prime service will deliver kids home",
     "username" : "DrWarlock",
     "timestamp" : "2024-12-22T20:43:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "01923e90-c29c-4ddd-a68c-86f708bfc224",
     "body" : "I'd love to see a huge Amazon van deliver kids home from school. Just lash the cunts out of the van and drive on.",
     "username" : "sted1983",
     "timestamp" : "2024-12-22T20:44:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d8244e2c-1347-4bfc-a21f-a42dfd033b12",
     "body" : "But don’t you know those almost-adult secondary schoolers need to be dropped right at the door",
     "username" : "percybert",
     "timestamp" : "2024-12-23T00:01:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "825a4f48-dee8-4f6b-a956-4b5a6dab9c11",
     "body" : "Your child has been delivered.",
     "username" : "sted1983",
     "timestamp" : "2024-12-22T20:46:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ec67b7fa-6f18-4a0e-b2bb-38181ed82902",
     "body" : "Your child is in your green bin",
     "username" : "Duckfacefuckface",
     "timestamp" : "2024-12-22T21:31:19Z"

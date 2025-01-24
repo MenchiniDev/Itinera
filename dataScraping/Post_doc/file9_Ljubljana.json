@@ -1,5 +1,5 @@
 {
-  "postId" : 200396,
+  "_id" : "7b92032a-bce4-4938-8a00-59da463e57ff",
   "community" : "Ljubljana",
   "username" : "Dense_Percentage8005",
   "post" : "prodajam darilo kartico douglas. vrednost 40€. hmu",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "17ef10c4-5496-4c05-818a-471986d0690d",
     "body" : "Dam 50",
     "username" : "renaulttrucks",
     "timestamp" : "2024-12-22T09:44:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2c87f023-a156-4693-8563-a30fbbd24f72",
     "body" : "kupim za 30€",
     "username" : "Mammoth-Temporary920",
     "timestamp" : "2024-12-22T05:20:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "36df5083-93d4-485a-b322-ab32417c2295",
     "body" : "Js dam 20",
     "username" : "GregaEnigma",
     "timestamp" : "2024-12-22T09:04:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7f6e347f-3c7f-4661-9123-375b977a20bb",
     "body" : "Dam 2e",
     "username" : "kalubasukdeod",
     "timestamp" : "2024-12-23T09:08:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "916a83f2-0b7a-44e7-bd53-20c1c4733593",
     "body" : "10 pa roka",
     "username" : "Smooth-Curve-2454",
     "timestamp" : "2024-12-22T09:05:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e67b1959-5c49-47a3-91c5-c4e7767a4b2f",
     "body" : "Das za 5?",
     "username" : "Rambo-Shark6328",
     "timestamp" : "2024-12-22T23:06:49Z"

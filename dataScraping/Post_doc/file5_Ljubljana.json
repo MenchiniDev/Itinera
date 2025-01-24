@@ -1,5 +1,5 @@
 {
-  "postId" : 200250,
+  "_id" : "1cc420c8-2336-44b0-84e7-ceba551b75b9",
   "community" : "Ljubljana",
   "username" : "keops112",
   "post" : "Dobro meso",
@@ -8,66 +8,79 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "c68c5862-19af-49d2-8eaf-dd2e4a9d19c8",
     "body" : "Argentino",
     "username" : "TheDragon991",
     "timestamp" : "2024-12-22T18:58:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ebb907fb-f05b-49b9-bc66-807097f73bf9",
     "body" : "coolhouse?",
     "username" : "TheStol",
     "timestamp" : "2024-12-22T18:54:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "47c17628-96f2-46c5-b135-c91d06664563",
     "body" : "Krušič, Striček",
     "username" : "BrotherKaramazov",
     "timestamp" : "2024-12-22T22:41:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "52111357-3bc7-4009-b93c-12d46e6cb93b",
     "body" : "Špajza ali pa gostilna Pečnikar (super piščanc)",
     "username" : "bublca",
     "timestamp" : "2024-12-22T23:32:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e3843258-262e-428e-9bc3-840499c8b66b",
     "body" : "A je kdo realno bil ze v meatpointu? Mene ful mika. Nikol me ne zanese pot tja. Kako to da so ocene tok slabe?",
     "username" : "mfWeeWee",
     "timestamp" : "2024-12-22T17:29:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2d98fb72-9fc5-476e-9655-d643b59c9bd6",
     "body" : "Sorbara steak house, skaručna gostilna....",
     "username" : "AdLast3306",
     "timestamp" : "2024-12-22T17:48:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f5dc5767-1ca9-4fd8-9199-efd77926e1e7",
     "body" : "Čad",
     "username" : "Extreme-Tradition503",
     "timestamp" : "2024-12-22T19:56:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "17b40b74-fb15-4de8-a5cc-3740f60a6973",
     "body" : "To!  Hvala. Jaoo, nisem se spomnil na Argentino.",
     "username" : "keops112",
     "timestamp" : "2024-12-22T19:19:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ec9afeb5-4f6a-4200-a4b7-dd84326b2796",
     "body" : "Coolhouse je le še bleda senca tistega, kar so bili.",
     "username" : "keops112",
     "timestamp" : "2024-12-22T18:58:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0fa6593c-2ff7-43b5-8490-ac62c80b9a9c",
     "body" : "Jaz sem bil zadnjič in se mi je zdelo kar solidno. Jedel sem pa goveja lička",
     "username" : "Uporabik",
     "timestamp" : "2024-12-22T20:48:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d0c23974-698a-442a-9976-3147a4be0143",
     "body" : "Tourist trap. Ni misljeno za domacine",
     "username" : "AnduinTheHealer",
     "timestamp" : "2024-12-22T19:21:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a00e155e-94cb-41a0-a1a2-d4bbbcc43b5d",
     "body" : "Skaručna je odličen predlog,  ampak tako kot Orle, žal jutri zaprto.",
     "username" : "keops112",
     "timestamp" : "2024-12-22T18:00:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "38630a85-7740-4a78-9c46-88b12d2a3264",
     "body" : "Od kdaj pa to? Je res da že nek časa (beri pol leta-leto) nisem bil tam, ampak je blo vedno super.",
     "username" : "potocnik512",
     "timestamp" : "2024-12-23T13:48:52Z"

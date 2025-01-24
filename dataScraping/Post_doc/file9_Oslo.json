@@ -1,5 +1,5 @@
 {
-  "postId" : 200369,
+  "_id" : "f11cb3a2-2f45-444b-8b79-af81614c9930",
   "community" : "Oslo",
   "username" : "GoldIndication6621",
   "post" : "Noen som adopterer meg til jul?",
@@ -8,21 +8,25 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "ceeed2ff-d4c3-40b0-b398-aae94ee7caac",
     "body" : "Veldig fint tanke, men det er kanskje like greit å melde seg som frivillig til Oslos allerede gratis matservering av julemiddag :)   \n  \n[https://alternativjul.no/](https://alternativjul.no/)",
     "username" : "Hansemannn",
     "timestamp" : "2024-12-23T12:03:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0c19ba36-ea22-44b2-ba80-368ddd5aa296",
     "body" : "Dersom jeg ikke hadde reist hjem til bygda i morgen hadde jeg ordna plass til deg på julemiddag sammen med vennene mine som og meg som pleier å feirer jul i byen. Dog, jeg pleier å feire jul i byen annethvert år, så det blir mulighet neste år.",
     "username" : "LePure",
     "timestamp" : "2024-12-23T13:52:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4802985c-7dbe-4caf-82a6-effd8240bce7",
     "body" : "God jul :)  \nJeg håper noen tar kontakt, det er et veldig fint tiltak du har her!",
     "username" : "Eldbrand",
     "timestamp" : "2024-12-23T11:44:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3dfd6d5c-26d1-4256-a02e-072d4ab2b021",
     "body" : "Kan anbefales! Koselig også får du noen å feire med!",
     "username" : "missThora",
     "timestamp" : "2024-12-23T14:19:02Z"

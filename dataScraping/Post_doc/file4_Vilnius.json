@@ -1,5 +1,5 @@
 {
-  "postId" : 200202,
+  "_id" : "026713bf-4078-41f3-b272-4d0bacd22d73",
   "community" : "Vilnius",
   "username" : "ponasvilius",
   "post" : "Sendaikčiai Vilniuje",
@@ -8,61 +8,73 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "121e4986-5bdb-47be-9e5f-3c37fa0a3ac5",
     "body" : "Prie compensos šeštadieniais būna",
     "username" : "adstk",
     "timestamp" : "2024-12-19T14:25:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9f7f4162-592e-412d-8552-1a3ceeb34fe6",
     "body" : "Šeštadienio rytais prie Compensa (kitoj pusėj nuo Ozo), aikštelėje.",
     "username" : "Ciakis_Lee",
     "timestamp" : "2024-12-19T18:36:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d775c1d4-785b-4e94-bc8e-4ded41695355",
     "body" : "Antakalnio gale prie troleibusų žiedo, nepamenu tik ar šeštadieniais ar sekmadieniais. Prie BP degalinės",
     "username" : "Competitive-Love1696",
     "timestamp" : "2024-12-19T16:21:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ab557e6c-a992-4c73-ac8b-a1c50d10f957",
     "body" : "Kalvarijų turgus nuo antradienio iki sekmadienio. Savaitgaly galimi visai padorus laimikiai.",
     "username" : "AdministrativeJob913",
     "timestamp" : "2024-12-21T14:14:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b1dd5bd8-c76c-420e-9484-1431ffebe1d4",
     "body" : "Naujamiestyje, Kedrų g., stiklinės durys.",
     "username" : "Chance_Okra_4093",
     "timestamp" : "2024-12-19T12:47:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b8fda8f7-be61-4e4e-b58a-aff219c9178d",
     "body" : "Savva krautuvėlė",
     "username" : "bronele",
     "timestamp" : "2024-12-19T15:07:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e25215be-039a-4486-95c0-f0aac30e2838",
     "body" : "Šeštadienį - compensoj\nSekmadienį - akropolis",
     "username" : "I_like_bloos",
     "timestamp" : "2024-12-20T02:58:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "48191aac-6d5a-4cb2-80c9-f901592d28a3",
     "body" : "My attic krautuvėlė",
     "username" : "Lijyte",
     "timestamp" : "2024-12-20T19:06:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "03413a81-b843-48cc-9ece-1826520d5354",
     "body" : "Užantis parduotuvė (Užupio 1) kasdien  \nOldskūl (Halės turguje nuo trečiadienio iki  sekmadienio)",
     "username" : "AdministrativeJob913",
     "timestamp" : "2024-12-21T14:16:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "38df9c80-a716-4fc1-971d-e29aab461b65",
     "body" : "Antiknews rekomenduoju del vinilu, kainos tikrai padorios ir yra visai idomiu variantu",
     "username" : "YamIndependent9818",
     "timestamp" : "2024-12-23T14:10:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8bd18887-9112-4e8b-847e-31abe76cb810",
     "body" : "up",
     "username" : "Insan3xd",
     "timestamp" : "2024-12-19T11:30:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "07a37876-b5c6-4bbe-8468-336ea0964347",
     "body" : "Gariūnuose vyksta sendaikčių mugė kas kelis mėnesius, bet buvo praeitą savaitę, tai kitąkart kažkada pavasarį, kokį kovą, bus. Ko ieškot? Nes buvau, tai galėčiau pasakyti ar mačiau.",
     "username" : "RedWillia",
     "timestamp" : "2024-12-19T13:07:10Z"

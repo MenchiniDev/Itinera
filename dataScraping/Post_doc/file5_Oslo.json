@@ -1,5 +1,5 @@
 {
-  "postId" : 200259,
+  "_id" : "7f12268e-1d8e-4ad9-860d-274d1123541e",
   "community" : "Oslo",
   "username" : "diabolus25",
   "post" : "International Braces 🦷 ",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "c8645e53-7e8a-4d0b-b3f2-fdeb27cd9fd9",
     "body" : "Braces require periodic adjustment, and sometimes changing bits. I would not recommend using a different orthodontist for follow-up than braces. \n\nThat means either using some here for everything, or committing to returning frequently (6 8 times per year?) to your orthodontist in another country.\n\nIf you need them for medical reasons, they can be partially funded by the national health system.",
     "username" : "Linkcott18",
     "timestamp" : "2024-12-23T07:54:35Z"

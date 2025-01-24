@@ -1,5 +1,5 @@
 {
-  "postId" : 200129,
+  "_id" : "972f4db1-8168-4696-b4e8-070490799d3a",
   "community" : "Vilnius",
   "username" : "KFiteni91",
   "post" : "Where to dispose of used vapes?",
@@ -8,36 +8,43 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "d4e4c363-5e5f-43d5-bd10-96e788fd1982",
     "body" : "Most grocery stores have electronics bins in store, near the entrance. All vape shops have them too. \n\nIf the amount is large, then you can donate them to one of many charities, they use the batteries to make power banks for Ukrainian soldiers.",
     "username" : "GrynaiTaip",
     "timestamp" : "2024-12-20T18:43:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0eb255fb-c7b2-4f5d-85cb-c493ba1c471c",
     "body" : "Any vape shop must have a special bin for you to throw these vapes out, they're mandated by law.",
     "username" : "GarlicMotor",
     "timestamp" : "2024-12-22T10:27:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d02bb35d-b377-43f2-b2f9-0a311777f3ef",
     "body" : "a bin or a recycling center",
     "username" : "NewSouthWalesMan",
     "timestamp" : "2024-12-20T14:24:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7d377ac9-3750-47a4-914a-797de23535f9",
     "body" : "Miške palik, į ežerą įmesk, dar gali į Nerį įmesti. Ant Gedimino kalno išpilti galima. Šiaip bet kur palik ir sueis.",
     "username" : "Agitated-League-7331",
     "timestamp" : "2024-12-20T14:23:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b1cbb8c0-a08f-40dd-901c-e067b12dd09a",
     "body" : "Anything with a battery regardless how small it is should not be thrown out in the general bin!\nA general recycling bin found in most shops for small electronics is where you should dispose of used vapes\nhttps://www.delfi.lt/grynas/aplinka/primena-kaip-tvarkyti-vienkartines-elektronines-cigaretes-i-siuksliadeze-ju-mesti-negalima-88736957",
     "username" : "Dull_Ad9278",
     "timestamp" : "2024-12-20T15:29:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "60c25cef-441a-441c-b2a3-727936dd2cf8",
     "body" : "Jaučiu šitas subas sarkazmo nespranta.",
     "username" : "SamTheBananaManLol",
     "timestamp" : "2024-12-20T15:30:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "36f8196c-4a76-4e9a-8050-871a67fc6bcd",
     "body" : "Yea, I meant a special bin. Forgot to mention that - thanks",
     "username" : "NewSouthWalesMan",
     "timestamp" : "2024-12-20T15:39:37Z"

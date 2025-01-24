@@ -1,5 +1,5 @@
 {
-  "postId" : 200031,
+  "_id" : "b5542bcd-d9ec-4f7e-ac36-58ae332647b6",
   "community" : "Frankfurt",
   "username" : "elandorr035",
   "post" : "airport cafe that are open all night",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "40ce4ec0-749d-4b5f-aebb-b7d7dbd6e926",
     "body" : "I only know Mc Donalds closes at 1 am in Terminal 1 and opening around 4 am again at the airport. Sadly don‘t know if anything has open inbetween that time",
     "username" : "khang0210",
     "timestamp" : "2024-12-22T23:12:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e4bbcbf0-2696-4428-beac-63791a3826cb",
     "body" : "I think this is the only one open in the publicly accessible areas: https://maps.app.goo.gl/qHv2CJLTf92CoW8X7?g_st=com.google.maps.preview.copy",
     "username" : "apfelwein19",
     "timestamp" : "2024-12-23T00:35:11Z"

@@ -24,6 +24,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.concurrent.atomic.AtomicLong;
+import java.util.UUID;
 
 @Service
 public class PostService {
@@ -42,7 +43,7 @@ public class PostService {
     @Autowired
     private CommunityService communityService;
 
-    private final AtomicLong postCounter = new AtomicLong(200500);
+    //private final AtomicLong postCounter = new AtomicLong(200500);
 
     public List<Post> findAll() {
         return postRepository.findAll();
@@ -53,7 +54,7 @@ public class PostService {
             return postRepository.getPostById(id)
                     .map(postDTO -> {
                         Post post = new Post();
-                        post.setId(postDTO.getId());
+                        //post.setId(postDTO.getId());
                         post.setCommunity(postDTO.getCommunity());
                         post.setUsername(postDTO.getUsername());
                         post.setPost(postDTO.getPost());
@@ -75,9 +76,9 @@ public class PostService {
     }
 
     public void deleteById(String id) {
-
+        
         Post post = postRepository.findById(id).orElse(null);
-        Long postId = post.getPostId();
+        String postId = post.getId();
         postNeo4jRepository.deletePostNode(postId);
         postRepository.deleteById(id);
     }
@@ -150,12 +151,25 @@ public class PostService {
         Comment comment = new Comment();
         comment.setBody(commentBody);
         comment.setReported(false);
+        Post post = postRepository.findPostByUsernameAndCommunityAndPost(postUsername, commentdto.getCommunity(), commentdto.getTextpost());
+        Long postId = post.getPostId();
+        System.out.println(post);
+
+        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, commentdto.getCommunity())) {
+            throw new IllegalArgumentException("User has not joined community: " + commentdto.getCommunity());
+        }
+
         comment.setUsername(commenterUsername);
         comment.setTimestamp(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")));
 
+
+        if (post.getComment() == null) {
+            post.setComment(new ArrayList<>());
+        }
         post.getComment().add(comment);
         post.setNum_comment(post.getNum_comment() + 1);
-        postNeo4jRepository.addCommentToPost(Long.valueOf(postId), comment.getTimestamp().toString(), commenterUsername);
+        //postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername, );
+        //postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp(), commenterUsername, commentId);
         return postRepository.save(post);
     }
 
@@ -174,18 +188,18 @@ public class PostService {
         if (comment1 == null) {
             System.out.println("Nessun commento trovato.");
             throw new IllegalArgumentException("This comment does not exists");
-
+            
         }
         String usernameCommmenter = comment1.getUsername();
-        Long postId = post.getPostId();
+        String postId = post.getId();
         String commentTimestamp = comment1.getTimestamp();
         System.out.println("Eliminazione del commento con:");
         System.out.println("Username del commentatore: " + usernameCommmenter);
         System.out.println("Post ID: " + postId);
         System.out.println("Timestamp del commento: " + commentTimestamp);
 
-        postNeo4jRepository.deleteComment(usernameCommmenter, postId, commentTimestamp);
-
+       // postNeo4jRepository.deleteComment(usernameCommmenter, postId, commentTimestamp); //QUESTA VA MODIFICATA CON COMMENT ID
+        //postNeo4jRepository.deleteComment(comment1.getId());
         post.getComment().removeIf(comment -> comment.getBody().equals(body) && comment.isReported());
         post.setNum_comment(post.getNum_comment() - 1);
         postRepository.save(post);
@@ -210,9 +224,9 @@ public class PostService {
 
 
         if(communityService.existsByName(community))
-        {   Long postId = postCounter.incrementAndGet();
+        {   String postId = UUID.randomUUID().toString();
             Post post = new Post();
-            post.setId(String.valueOf(postId));
+            post.setId(postId);
             post.setUsername(username);
             post.setCommunity(community);
             post.setTimestamp(String.valueOf(LocalDateTime.now()));

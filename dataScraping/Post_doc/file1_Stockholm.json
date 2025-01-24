@@ -1,5 +1,5 @@
 {
-  "postId" : 200034,
+  "_id" : "7b0e70f0-f306-45e4-9401-343b05ee27a3",
   "community" : "Stockholm",
   "username" : "Isthisanonymus",
   "post" : "Adopt me for Chirstmas",
@@ -8,46 +8,55 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "a6d3c8db-32f6-45a9-a318-0f77807fa3a8",
     "body" : "Good luck bro! But I think the best idea is to have a nice slow Christmas eve by yourself and then try to get out to meet some people at international pubs at like the 25/26.",
     "username" : "Tankarpavift",
     "timestamp" : "2024-12-22T23:45:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6feab79e-75fe-44cb-a7f1-aca2b8b00238",
     "body" : "Also check with r/Stockholmsocialclub who may be up to something.",
     "username" : "pettdan",
     "timestamp" : "2024-12-23T09:48:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5f0febd3-3df2-444d-a616-2e1dcdfbacea",
     "body" : "What part of Stockholm are you staying in? Sorry about the lack of snow. If you take the train for the day just a little north to Uppsala, there might still be a little snow there. There was on Saturday at least. They have a nice river through town and huge church you can tour for free.",
     "username" : "heatheraudrey",
     "timestamp" : "2024-12-23T09:05:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "93aa0672-5a61-400d-8708-fb0c9007b197",
     "body" : "Christmas is family only in Sweden, even inviting friends is considered absurd.\nIf you happen to find someone who will invite a stranger to their Christmas celebration, they most likely have some ulterior motive (like recruiting you into a religious cult).",
     "username" : "NeoGoober",
     "timestamp" : "2024-12-23T00:32:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "81080847-264e-4554-987c-c160d8e53685",
     "body" : "Thanks - lines up with what I read online, might resort to that :)",
     "username" : "Isthisanonymus",
     "timestamp" : "2024-12-23T04:32:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3d9ac38f-a39a-427c-ae7e-8f3c0394f20a",
     "body" : "In Nacka - but that is a good tip, will keep that in mind! Thanks",
     "username" : "Isthisanonymus",
     "timestamp" : "2024-12-23T11:24:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bf1c9848-4ede-41f3-af51-d6616ae94d7d",
     "body" : "This is definitely not how it is.\n\n\nBut as a complete stranger to be invited yeah that is rare.\nI suggest posting in local fb groups or perhaps check out Stadsmissionen, know that they have something going in every day",
     "username" : "spoonbendingmonkey",
     "timestamp" : "2024-12-23T01:40:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9a275a63-8565-4cfc-8572-28b7e0714cae",
     "body" : "Nah, my family has always (until the last 2 years) taken in lonely people for the holidays. And none of us belongs to any churches or the likes.",
     "username" : "Dardrol7",
     "timestamp" : "2024-12-23T07:18:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fd34a78f-a528-439a-aa21-3cdbe370163c",
     "body" : "Thanks! I have seen some events here and there - might go there (lets see how far this here goes)",
     "username" : "Isthisanonymus",
     "timestamp" : "2024-12-23T04:33:49Z"

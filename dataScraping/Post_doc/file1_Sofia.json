@@ -1,5 +1,5 @@
 {
-  "postId" : 200058,
+  "_id" : "88d2a910-df72-4daf-9596-fdf3fe031d88",
   "community" : "Sofia",
   "username" : "happylina",
   "post" : "Празнуване на рожден ден",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "c18ab4d6-b408-4678-92bc-32e43deb7f43",
     "body" : "Има място, което се казва 'Терен'. Вижте това.",
     "username" : "StoyanLalovski",
     "timestamp" : "2024-12-23T13:49:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "70beb9d8-e78e-410b-8a33-0575d3d1ec83",
     "body" : "Защо не погледнеш booking за някоя вила около софия",
     "username" : "Silent-Heart-7097",
     "timestamp" : "2024-12-23T10:58:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e63d84a3-e4a7-4688-b3c8-012c8ce0d1f5",
     "body" : "https://www.instagram.com/tihiakut_events\n\nЕй тва ми излиза напоследък като реклама.",
     "username" : "neurotekk",
     "timestamp" : "2024-12-23T12:35:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "30e13337-5e32-4ce0-b231-e3c63dacfd0c",
     "body" : "Повече такива шано места за събиране може да намериш в alo.bg , аз така си празнувах в едно заведение в младост 2 , беше 400лв за 1 ден и ти си носиш алкохол и ядене, от тях мястото с музиката , бара и т.н , но не мога да се сетя как се казваше",
     "username" : "Lonely-Ad-1775",
     "timestamp" : "2024-12-23T13:29:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "59451e09-9e76-4505-bad2-f93ca2f9d474",
     "body" : "Има зали, които също можеш да резервираш. Знам за една в студентски град има и подходящи във Fabrica 126.",
     "username" : "DefectBG",
     "timestamp" : "2024-12-23T11:52:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0ace9f59-97db-479a-b444-a74299325dd4",
     "body" : "Точно това щях да предложа.",
     "username" : "ComfortableParty2933",
     "timestamp" : "2024-12-23T11:43:18Z"

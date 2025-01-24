@@ -1,5 +1,5 @@
 {
-  "postId" : 200187,
+  "_id" : "b0567eaa-212c-49af-91fe-7f8872f449db",
   "community" : "Cologne",
   "username" : "JoYou_02",
   "post" : "What's the biggest supermarket/hypermarket in Cologne? ",
@@ -8,51 +8,61 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "cf8b4a0b-f25b-4383-b408-363adaae5999",
     "body" : "Globus in Marsdorf is pretty big.",
     "username" : "marvis303",
     "timestamp" : "2024-12-23T12:01:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f232cad1-f851-40bd-b5db-4fac5b293bd4",
     "body" : "Globus in Marsdorf, maybe HIT in Braunsfeld?",
     "username" : "ilovejjajjang",
     "timestamp" : "2024-12-23T12:02:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9ab653d9-c4d5-4cfa-8a00-03bafcd39fec",
     "body" : "Metro and Handelshof. Or directly at the Großmarkt, theres a couple of big places (but mainly B2B)",
     "username" : "Creeyu",
     "timestamp" : "2024-12-23T11:56:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b62115a2-0b31-40cf-bacc-d20a1be60b4f",
     "body" : "Yep Hauptstr. 128 - 3.850 m² - with over 40.000 products",
     "username" : "Schlecklecker69",
     "timestamp" : "2024-12-23T13:04:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "873ecd3a-12bb-49a4-a5f5-22f8dec9d251",
     "body" : "kaufland in ehrenfeld is also pretty big",
     "username" : "corthammer",
     "timestamp" : "2024-12-23T12:36:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e119d079-b09c-40a0-b257-d7cb0fca45c0",
     "body" : "Is it the largest supermarket in Cologne? No idea - but definitely the largest Rewe store\n\n[https://www.rewe-istas.de](https://www.rewe-istas.de)",
     "username" : "Level_Fish_7248",
     "timestamp" : "2024-12-23T11:51:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "eea0e679-9c67-4cfc-a0d5-491d1543718d",
     "body" : "That’s in Erftstadt.. biggest in Cologne is probably some REWE Center or the Selgros (members only) markets",
     "username" : "craftymacshank",
     "timestamp" : "2024-12-23T11:57:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f8208823-8aa7-4669-8d15-b7a70342d5f9",
     "body" : "Istas is also in Rodenkirchen. The biggest Rewe in Cologne",
     "username" : "Schlecklecker69",
     "timestamp" : "2024-12-23T12:54:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3f4dece7-8c65-4770-9e0a-cedc8f327e6d",
     "body" : "Phu - I am not sure, but isn‘t METRO larger than Selgros? Well - maybe not longer since METRO is changing their system … But nevertheless both are members only ….",
     "username" : "Level_Fish_7248",
     "timestamp" : "2024-12-23T14:06:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4e014a65-46ac-49c1-b5db-2e14011a3d71",
     "body" : "That Rewe at Hauptstraße?",
     "username" : "Nippes60",
     "timestamp" : "2024-12-23T13:02:02Z"

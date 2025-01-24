@@ -1,5 +1,5 @@
 {
-  "postId" : 200247,
+  "_id" : "f3e60e8b-04a4-4bc4-99d1-38c06a17159a",
   "community" : "Vienna",
   "username" : "dontuever",
   "post" : "Part time job opportunities",
@@ -8,41 +8,49 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "009a97b8-61f8-4882-9789-73ddf56ead82",
     "body" : "Bei diesem Beitrag scheint es sich um einen Post zum Tourismus in Wien zu handeln. Hilfreiche Tipps findest [hier](https://www.reddit.com/r/vienna/wiki/index/tourismus).\n\nThis post seems to be a post about tourism in Vienna. Helpful tips can be found [here](https://www.reddit.com/r/vienna/wiki/index/tourism).\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/vienna) if you have any questions or concerns.*",
     "username" : "AutoModerator",
     "timestamp" : "2023-08-05T18:30:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "39ebf0b9-70fa-45f3-98fb-5c97570e3c73",
     "body" : "Try looking for a job in a pub. You normally only find english speaking ppl there.",
     "username" : "thenerdlygentleman",
     "timestamp" : "2023-08-05T18:42:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d804e3c4-3c1a-4877-bdd8-71315e4a4352",
     "body" : "definitely doable ! a few of the cafés I frequent have english speaking baristas. you should however be able to understand an order in german. oh and btw, r/vienna isn't very active, the locals use r/wien just in case you have any more questions :)",
     "username" : "maronimaedchen",
     "timestamp" : "2023-08-05T19:52:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b131d9c4-6836-4a24-96ae-1b61d6765b46",
     "body" : "Are you an EU citizen?\n\nTry delivery jobs, warehouse work, dish cleaning, hostels, hotels, concert venues, private tutoring",
     "username" : "youremymymymylover",
     "timestamp" : "2023-08-07T19:50:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c8dbfc6d-096d-468f-9ffd-c1ab5ad0ee5f",
     "body" : "thnx sm!",
     "username" : "dontuever",
     "timestamp" : "2023-08-10T00:16:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "699bddfd-1d94-49cf-aafc-835912690d81",
     "body" : "Any suggestions for non-eu / full time ?",
     "username" : "Ryan17co",
     "timestamp" : "2023-09-24T16:15:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "edd71682-1a04-4265-bc75-b80147633528",
     "body" : "Study in an Austrian university and specialize in a Mangelfach. \n\nShow international companies with research departments that you would be valuable to their team.\n\nEmbassy\n\nCopywriting",
     "username" : "youremymymymylover",
     "timestamp" : "2023-09-24T18:12:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6708c54e-e7b1-45cf-94cb-29b28ea9a846",
     "body" : "I’m actually asking for a family friend who just finished her master in Austria- but is non-eu and it seems to be quite a challenge to get a company willing to arrange a visa. I’ll pass on your advice, thanks!",
     "username" : "Ryan17co",
     "timestamp" : "2023-09-24T20:23:21Z"

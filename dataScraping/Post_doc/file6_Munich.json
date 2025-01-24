@@ -1,5 +1,5 @@
 {
-  "postId" : 200195,
+  "_id" : "fd8d93c6-ddd2-432e-ba06-98baee77a5e9",
   "community" : "Munich",
   "username" : "CiciCasablancas",
   "post" : "Wo/wie könnte ich in Muc bis morgen noch an dieses französische Maggi-Produkt kommen",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "3ba5baa6-c21b-428e-91e0-a36e656c1746",
     "body" : "Eine andere Gelatine tut es nicht? Laut Internet sind da noch ein paar andere Zutaten drin, aber nichts, was man nicht selbst noch hinzufügen könnte (MSG/Maggi, Salz, usw.)",
     "username" : "Important_Raccoon667",
     "timestamp" : "2024-12-23T11:47:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d4943261-dfc6-466d-9e4e-6ae09c719f77",
     "body" : "Das ist ganz normales Madeiragelee, nichts anderes als Gelatine, Fleischbrühe und ein bisschen Madeira-Wein (oder Port). Kann man leicht selbst zubereiten.",
     "username" : "SkidZ66",
     "timestamp" : "2024-12-23T11:49:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "df111fee-bc72-43d5-ab6c-1b1e92b9a47e",
     "body" : "Danke - So genau hatte ich es mir noch nicht angeschaut. Ich weiß nur dass sie (eine Dame gehobenen Alters) wohl nur oder ganz besonders darauf schwört. :)",
     "username" : "CiciCasablancas",
     "timestamp" : "2024-12-23T12:12:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2abf64cf-5967-4149-b2dd-1f54685eb40f",
     "body" : "Vielen Dank! Das ist vielleicht wirklich eine gute, einfache Alternative!",
     "username" : "CiciCasablancas",
     "timestamp" : "2024-12-23T12:13:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9fa7c26e-a66a-409c-9781-676422ed5f08",
     "body" : "Fleischbrühe kannst du bei manchen Metzgern fertig in top Qualität kaufen",
     "username" : "PuzzleheadedFun5156",
     "timestamp" : "2024-12-23T13:33:42Z"

@@ -1,5 +1,5 @@
 {
-  "postId" : 200303,
+  "_id" : "7413e805-7684-490f-9901-efad9a65e87f",
   "community" : "Sarajevo",
   "username" : "acidbahia",
   "post" : "Sarajevo now ",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "7e2b4830-4eae-4016-9f58-9150a72fcc5c",
     "body" : "Jebote njemacko doesn‘t have snow",
     "username" : "T1DDYSLAYER18769420",
     "timestamp" : "2024-12-23T11:34:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "db40dfd5-765f-4a41-aaf5-c063dcda9a03",
     "body" : "Wtf is this shit",
     "username" : "Otherwise-Sky7266",
     "timestamp" : "2024-12-23T11:49:30Z"

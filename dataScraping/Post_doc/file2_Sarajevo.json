@@ -1,5 +1,5 @@
 {
-  "postId" : 200037,
+  "_id" : "6451c08b-8e65-4121-b936-8d23ea3f7a96",
   "community" : "Sarajevo",
   "username" : "Due-Screen-7395",
   "post" : "Jahorina bus",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "8c7bd0d5-a0cd-4a03-a6f8-df3e2cb62b8e",
     "body" : "None from Sarajevo. Try Lukavica or East Sarajevo.",
     "username" : "only_4kids",
     "timestamp" : "2024-12-23T11:56:22Z"

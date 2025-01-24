@@ -1,5 +1,5 @@
 {
-  "postId" : 200024,
+  "_id" : "33704bac-d8fc-4e66-9d41-ea7c9e6b3b86",
   "community" : "Dublin",
   "username" : "MummysSpecialBoy",
   "post" : "Best buffet in the city centre?",
@@ -8,41 +8,49 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "40552676-eb58-4d03-ac09-5662648e0a6a",
     "body" : "What type of buffet? There's Wing's World Cuisine near The Church and Nando's by Mary St.",
     "username" : "JoulSauron",
     "timestamp" : "2024-12-23T13:08:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "531fb5a1-c6a3-430b-a6ef-824499ef58ab",
     "body" : "one at the top of stephens green shopping centre?",
     "username" : "CommunicationIll5583",
     "timestamp" : "2024-12-23T13:27:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "47fefc17-fb41-443f-b158-c61269f8a364",
     "body" : "Any buffet would do me, although I do really like a Chinese. What's the best in your opinion?",
     "username" : "MummysSpecialBoy",
     "timestamp" : "2024-12-23T13:14:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f7b1005f-7f32-4910-8704-5174c62d2992",
     "body" : "Dyk what kind of buffet it is?",
     "username" : "MummysSpecialBoy",
     "timestamp" : "2024-12-23T13:42:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7b8a525d-05b3-46a7-ae52-ee5220049133",
     "body" : "I actually don't know any, it's been a long time since I last went to one. I heard good things about Wing's, they have a bit of every cuisine.\n\nFortune Terrace is a Chinese buffet in O'Connell St.\n\nThe Mongolian Barbeque in Temple bar is another classic that does all you can eat, a classic!",
     "username" : "JoulSauron",
     "timestamp" : "2024-12-23T13:18:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "abdee0f1-36b7-447c-9385-b2652964964a",
     "body" : "Chinese",
     "username" : "rocker_bunny",
     "timestamp" : "2024-12-23T13:43:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6bee560f-78e6-42b0-9849-21e36f32b135",
     "body" : "Thank you!",
     "username" : "MummysSpecialBoy",
     "timestamp" : "2024-12-23T13:24:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f4f1ba12-9243-418b-9bc5-776b4b861e8c",
     "body" : "Legend thank u",
     "username" : "MummysSpecialBoy",
     "timestamp" : "2024-12-23T13:47:39Z"

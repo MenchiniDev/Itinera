@@ -1,5 +1,5 @@
 {
-  "postId" : 200304,
+  "_id" : "586030e5-c34f-4759-8158-a85d568ae4c0",
   "community" : "Copenhagen",
   "username" : "Lovelemonade00",
   "post" : "Lige flyttet i denne lejlighed i Valby, men vinduerne ser sådan ud",
@@ -8,81 +8,97 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "3af01b19-5a73-4244-a42e-4b3be84abf16",
     "body" : "Luft ud 2-3 gange om dagen. Gennemtræk i 5-10 minutter\n\nLad vær med at hænge tøj til tørre indenfor, luft ud når du har været i bad så badeværelset er helt tørt\n\nTør kondens af ruderne\n\nDet er lidt af et arbejde at holde fugten for døren om vinteren specielt, men det er det værd for dit helbred og for at der ikke opstår skader på lejligheden",
     "username" : "133DK",
     "timestamp" : "2024-12-23T13:59:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e3b78cc3-68cf-411c-8aad-2baae6fa6121",
     "body" : "Taking a shower, cooking, etc… the ventilation in most of the apartments is horrible. I am also dealing with the same issues in an old apartment in Valby. When I was renovating the place, I found most of the ventilation shafts cemented… 😀",
     "username" : "Interesting-Bit7800",
     "timestamp" : "2024-12-23T14:07:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4989b0ac-1c58-4032-a2da-291fe44eedac",
     "body" : "Skimmelsvamp, I gang med Cilit Bang Zero Black Mould",
     "username" : "NasserAjine",
     "timestamp" : "2024-12-23T14:09:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "de6b77d3-87e4-4d24-a921-83deb086c7e7",
     "body" : "Der mangler udluftning. Der kan eftermonteres til forholdsvis billige penge nogle luftnings ventiler i vindueskarmen. Problem løst.\nhttps://handyman.dk/handyman/tips-og-tricks/monter-en-friskluftventil-i-vinduet-biobe-ventil/\n\nOh - og Rodalon, til at begynde med.",
     "username" : "Steimertaler",
     "timestamp" : "2024-12-23T14:14:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "72df6912-3045-438a-8d14-c3538d5143eb",
     "body" : "Din udlejer kommer til at fortælle dig at du skal huske at lufte ekstra ud, holde døren til badeværelset lukket efter bad, brug emhætten og så videre. \nDet er som sådan ikke lejligheden som er fugtig, men din livsstil.🙂 ikke at du lever mere fugtigt end andre, men fugten kommer fra udånding, madlavning you name it.\nSå der vil din udlejer helt sikkert starte. Din vinduer bliver ikke udskiftet, kan jeg godt forberede dig på🙂Der kan også være konstruktionsfejl i din bygning, men det er mindre sandsynligt.",
     "username" : "Known_Business_1002",
     "timestamp" : "2024-12-23T14:13:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9cd9ab08-54fd-42a4-b648-058b9f832eb6",
     "body" : "Sådan ser vores vinduer også ud. Luft ud tit og brug Cilit Bang Zero Mould en gang hveranden måned i de kolde måneder.",
     "username" : "laugefar",
     "timestamp" : "2024-12-23T14:24:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c1376661-057e-433a-b45a-499583257c70",
     "body" : "Ring til kommunen og få en sagkyndig ud og kigge på lortet. Hvis han vurdere at det er noget lort, så kan du få dine penge tilbage. Det er dog vigtigt at du gør det inden du har boet der i et år, for hvis det ikke sker inden, så kan du ikke få en krone tilbage.\n\nSkynd dig at gøre det imens du leder efter en ny lejlighed og sørg for at det er gjort inden et år, så har du hele din husleje tilbage, hvis det er galt nok.",
     "username" : "Sneakyfartin",
     "timestamp" : "2024-12-23T14:24:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7791d312-635c-41c5-ab71-28e3de769a12",
     "body" : "Nu er det bare mig, men det ligner da allerede der er skimmelsvamp ved vinduet?",
     "username" : "WineOptics",
     "timestamp" : "2024-12-23T13:52:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a400fa7c-ec87-4686-8a19-88fe1f3d9f09",
     "body" : "Yes. Det vil jeg gøre jeg melder det også ind da jeg lige er flyttet ind. Så håber virkelig de skifter det.",
     "username" : "Lovelemonade00",
     "timestamp" : "2024-12-23T14:00:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "50dad191-03b4-4053-8945-5a4427aa987f",
     "body" : "Pyha… har prøvet tage det meste med skimmel middel men ja. Ved ikke lige hvad jeg ellers skal gøre andet end at håbe de udskifter det her.",
     "username" : "Lovelemonade00",
     "timestamp" : "2024-12-23T14:10:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b394b284-c368-4120-95a2-dea0e92bc117",
     "body" : "De her er geniale. Specielt om vinteren når man tager et bad om morgenen og skal afsted før luftfugtigheden er faldet nok.",
     "username" : "RevolutionaryDelight",
     "timestamp" : "2024-12-23T14:25:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ecd0c31d-99c5-438c-a403-e8b6083afd2d",
     "body" : "Hej! Jeg lige flyttet ind den er helt nyrenoveret så at få den i denne stand gør mig lidt urolig for der er et skimmel problem her desværre.. men jeg håber virkelig de vil lave det selvfølgelig",
     "username" : "Lovelemonade00",
     "timestamp" : "2024-12-23T14:14:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ea28eafd-611e-4cb5-b6d7-cff11afe9ae2",
     "body" : "Jeg lige flyttet ind, er ved lave det her i indflytningsrapporten. Men jeg prøver give dem et kald, men tak!",
     "username" : "Lovelemonade00",
     "timestamp" : "2024-12-23T14:27:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "82ca6996-7767-4fae-a72c-5c3049ff1155",
     "body" : "Jeg har selv boet i en lejlighed med skimmelsvamp og der er ingen hjælp at hente nogen steder. Lad være med at prøve at løse problemet. Ring til kommunen og få en sagkyndig ud og kigge. Når de har kigget laver de en rapport. Rapporten vil fortælle dig hvad du skal gøre som det næste. Lad mig høre hvad du gør, så er jeg villig til at hjælpe dig.",
     "username" : "Sneakyfartin",
     "timestamp" : "2024-12-23T14:29:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "63814682-5ced-4db4-a2cf-8183275f7318",
     "body" : "Jeps.. gør det nemlig også, og er rædselsslagen.. synes det møg ubehageligt aner ikke hvad jeg gør her.",
     "username" : "Lovelemonade00",
     "timestamp" : "2024-12-23T13:53:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "55088d75-02f4-4fc8-a21f-f7a8bc05abb7",
     "body" : "Tak. Er lige flyttet ind så det bare super øv, for er flyttet fra en lejlighed hvor der var skimmel problem så det er simpelthen så mega øv det her.. håber virkelig at der ikke er skimmel andre steder og det bare er ruderne her 😟",
     "username" : "Lovelemonade00",
     "timestamp" : "2024-12-23T14:32:19Z"

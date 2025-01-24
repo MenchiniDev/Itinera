@@ -1,5 +1,5 @@
 {
-  "postId" : 200064,
+  "_id" : "b4d81038-60ff-4bf3-9955-2dda88d466ab",
   "community" : "Helsinki",
   "username" : "ShadowMLSL",
   "post" : "Visiting on Xmas Eve",
@@ -8,56 +8,67 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "1ac29bc4-b9b3-4da7-a189-9163a0ae432d",
     "body" : "I’m sorry but you really couldn’t have picked any worse moment to visit Helsinki. Literally everything is closed in Christmas Eve and day.",
     "username" : "VernerofMooseriver",
     "timestamp" : "2024-12-23T07:13:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "67565a8b-d9d7-4c5f-9c23-a4d6acda45fd",
     "body" : "It is very easy to spend christmas eve and day in Helsinki on a budget because likely everyting is closed so you really can’t spend money during your stay.\n\nYou picked the worst days of the year to be a tourist in Helsinki.",
     "username" : "DoubleSaltedd",
     "timestamp" : "2024-12-23T08:24:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e180577f-013c-44d4-9342-84be4eefa377",
     "body" : "https://www.myhelsinki.fi/en/your-local-guide-to-christmas",
     "username" : "Relzu13",
     "timestamp" : "2024-12-23T07:04:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5496bc37-e7e8-4710-a1e0-3f65316b1615",
     "body" : "Walk around in the Hietalahti Cemetary. That's absolutely beautiful as a part of the tradition is to light candles.",
     "username" : "PeaDelicious9786",
     "timestamp" : "2024-12-23T09:12:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2cdb8759-9cc8-4c5a-bcd4-bc13c7158f88",
     "body" : "Nothing is open and there aint even snow so everything looks like shit.",
     "username" : "WolfOfVaasankatu",
     "timestamp" : "2024-12-23T11:27:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "352d1974-66eb-46e5-987f-ce02f7027fb3",
     "body" : "You could go to Tallinn and visit their Christmas market if you really want a Christmas market. And theirs has won awards in the past.",
     "username" : "baked_potato_",
     "timestamp" : "2024-12-23T07:07:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d1b08b92-c42d-4a9e-b015-12dabaf54ca0",
     "body" : "As someone else suggested I'd consider a day trip to Tallinn, the city is pretty and some stuff including the Christmas market should be open. \n\nYou could go to Suomenlinna with a short super cheap (same ticket as usual public transport) ferry ride for some nice history, architecture and good views, just make sure to dress warm. \n\nYou might be able to make your way to Nuuksio or Sipoonkorpi national park, but given its a bit icy it's probably not the most comfortable experience and a bit risky, especially solo. \n\nThe Merisatama/Eira area and Kallio are reasonably pretty to walk around, although perhaps not as much with the current weather and conditions.\n\nI can't think of much more than that...",
     "username" : "LievePoro",
     "timestamp" : "2024-12-23T09:40:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ec988e52-5f57-4850-ada5-7442ed8c60ad",
     "body" : "Juhannus would be second candidate, but at least nature is at its best at that time 🤔",
     "username" : "JHMK",
     "timestamp" : "2024-12-23T10:49:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8b943940-3a9a-43f0-a7f1-9a7eb9557875",
     "body" : "You know things are bad when even Prisma closes at 18.",
     "username" : "WolfOfVaasankatu",
     "timestamp" : "2024-12-23T11:25:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "340fd146-311b-4a2f-bd4f-6984c3b9ea1d",
     "body" : "This is a pretty good idea. OP could take the ferry that leaves in the morning from Helsinki, then have a few hours in Tallinn and come back.\n\nIt's really odd that the Christmas market in Helsinki closes before Christmas, would be nice to visit on Christmas Eve morning I think. Or maybe that's cause I'm from Turku originally and am used to leaving the house before midday to go to the Christmas Peace declaration and then to have glögi somewhere downtown.\n\nI'm not religious but I like the Christmas Carol events they have at churches. There's this in English in the main cathedral on Christmas Day at 4pm if you're interested OP. [https://www.helsinginseurakunnat.fi/tuomiokirkkoseurakunta/tapahtumat/kauneimmatjoululaulutjohanneksenkirkossa/20241226](https://www.helsinginseurakunnat.fi/tuomiokirkkoseurakunta/tapahtumat/kauneimmatjoululaulutjohanneksenkirkossa/20241226) (weirdly the url has a completely different church listed than the page...)\n\nAllas Sea Pool is popular among both tourists and locals, and it is open on Christmas. It's really nice on winter/Christmas times cause you can swim and look at the lights everywhere and then have a sauna. [https://allasseapool.fi/?lang=en](https://allasseapool.fi/?lang=en)",
     "username" : "leela_martell",
     "timestamp" : "2024-12-23T09:28:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0d90a16f-4702-4779-a0ed-988b936647ad",
     "body" : "It's not very great weather for national parks. Also while public is running, other question is how frequently",
     "username" : "Seeteuf3l",
     "timestamp" : "2024-12-23T10:34:53Z"

@@ -1,5 +1,5 @@
 {
-  "postId" : 200409,
+  "_id" : "6be60a5d-7d5f-418d-a54d-cac4fc9ee718",
   "community" : "Zagreb",
   "username" : "Naive_Platypus290",
   "post" : "Najbolji kebab u zapadnom dijelu grada?",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "5ee88711-e15c-48f5-b221-a39e826aa0a3",
     "body" : "Lezzet na Jarunskom placu",
     "username" : "Prudent-Print-8675",
     "timestamp" : "2024-12-23T00:58:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5fa86f46-f1a9-4d7c-90b5-bb4f7c4c7077",
     "body" : "Fali nam najbolji kebab post i da connosieuri kebaba daju malo pregled situacije! Lajkam post.\n\nNisam ziher koji je najbolji na zapadu grada, ali ću izvaliti jedan blast from the past - na Savici na placu prije 15-20 godina kebab na ćošku gdje je sad (jebena) kladionica. To je bio show program.\n\nA od trenutnih meni Adria uzima titulu.",
     "username" : "BexMaster",
     "timestamp" : "2024-12-23T03:57:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7337cc16-08ed-4f6c-89dd-1184e5d78d72",
     "body" : "Kebab Aga na tržnici Špansko, probaj cheese kebab... unholy unija cheesburgera i kebaba - TOP",
     "username" : "Simple-Television-61",
     "timestamp" : "2024-12-23T12:16:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0c22f22b-33e0-493f-8059-4a2cac053bfa",
     "body" : "Adria je najbolji u zgu",
     "username" : "Moonlora45",
     "timestamp" : "2024-12-23T11:26:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "58d75d91-cb78-41ae-bf17-b3ee9093910a",
     "body" : "Ne znam spada li pod zapadni dio grada ali onaj drive in kebab pored Ritz kluba mi je super.",
     "username" : "MrExpecto",
     "timestamp" : "2024-12-23T10:55:07Z"

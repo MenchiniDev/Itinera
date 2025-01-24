@@ -1,5 +1,5 @@
 {
-  "postId" : 200157,
+  "_id" : "002e0749-1457-4653-8727-863ec18470ef",
   "community" : "Ljubljana",
   "username" : "intothewoid",
   "post" : "TIL: Lekarna pri polikliniki - brezplačno parkiranje do 30min",
@@ -8,46 +8,55 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "1f99a911-37a6-4ab7-ad9b-babc8aff81e2",
     "body" : "To je treba pokazat vsem ki parkirajo za hoferjem pred parkirno hiso 🤦🏻‍♂️",
     "username" : "tadejflaka",
     "timestamp" : "2024-12-22T21:22:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "856e0f1a-b98a-423a-b597-57f0ebb981de",
     "body" : "Saj če greš v to lekarno je 50/50, da bo vrsta daljša od 30min",
     "username" : "Terrible-Road-3309",
     "timestamp" : "2024-12-22T22:07:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e8889672-c573-4c38-b0d1-eb271b5afa59",
     "body" : "Tisti ki pred rampo parkirajo so res klošarji. 2e je ena ura parkinga. Avti pa vsi neki suv pa 2015+ letnik pa nemske znamke",
     "username" : "kalubasukdeod",
     "timestamp" : "2024-12-23T00:01:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4fc78620-6c09-4994-a5e5-06ae00d000e9",
     "body" : "Hvala, nisem vedela. Nisem nikoli pred rampo parkirala, sem bila vedno z možem, ki mi je ustavil in krožil okrog po ulicah dokler nisem končala.",
     "username" : "slovenka88",
     "timestamp" : "2024-12-23T05:22:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "93dbc26b-26dc-484a-bb8f-f98cd5e72c38",
     "body" : "Vseeno je kljub parkingu potrebno naredit par korakov - in to večini ni po godu.",
     "username" : "Used_Professional117",
     "timestamp" : "2024-12-23T09:22:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7343a84a-9c62-4455-96d2-6f0b4974fdb8",
     "body" : "Ce moram kdaj v to lekarno ga pac parkiram v parkirno hiso in dam ta 2€, ker je v 95% primerih vrsta daljsa od 30min",
     "username" : "Flimsy-Definition438",
     "timestamp" : "2024-12-23T10:13:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e004342e-4ab0-469b-b24b-82003bc94c5b",
     "body" : "Jaz parkiram nasproti, na parkirišču z rampo. Bistveno ceneje kot Meksiko.",
     "username" : "GCdotSup",
     "timestamp" : "2024-12-23T10:51:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "996f3f57-02ef-4a54-a276-3c0ab8c46b84",
     "body" : "Sem mislim da je to splošno znanje. Oh well 😁",
     "username" : "DanimilFX",
     "timestamp" : "2024-12-22T21:38:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c82ab21d-985e-4975-a310-78fc78c29998",
     "body" : "Zna bit, da bi bil parking cenejši,  vsekakor pa bolj komot",
     "username" : "Tomazzy",
     "timestamp" : "2024-12-23T13:41:41Z"

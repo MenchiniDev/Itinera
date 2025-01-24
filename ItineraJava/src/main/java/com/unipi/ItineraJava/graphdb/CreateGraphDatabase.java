@@ -19,9 +19,9 @@ import org.neo4j.driver.Session;
 
 public class CreateGraphDatabase {
 
-    private static final String NEO4J_URI = "bolt://10.1.1.23:7687";
-    private static final String NEO4J_USERNAME = "neo4j"; //default
-    private static final String NEO4J_PASSWORD = "12345678";
+    private static final String NEO4J_URI = "bolt://localhost:7687";
+    private static final String NEO4J_USERNAME = "neo4j"; // default
+    private static final String NEO4J_PASSWORD = "root1234";
 
     public static Session getNeo4jSession() {
         Driver driver = GraphDatabase.driver(NEO4J_URI, AuthTokens.basic(NEO4J_USERNAME, NEO4J_PASSWORD));
@@ -58,7 +58,7 @@ public class CreateGraphDatabase {
                     JSONObject post = (JSONObject) parser.parse(content);
 
                     // Estraggo dati dal post
-                    String postId = String.valueOf(post.get("postId"));
+                    String postId = String.valueOf(post.get("_id"));
                     String communityName = (String) post.get("community");
                     String username = (String) post.get("username");
                     String preview = getPostPreview((String) post.get("post"));
@@ -118,15 +118,16 @@ public class CreateGraphDatabase {
 
                         // Creo un arco COMMENT tra l'utente e il post
                         session.executeWrite(tx -> {
-                            tx.run("MATCH (u:User {username: $username}), (p:Post {preview: $preview}) " +
-                                    "MERGE (u)-[:COMMENT {timestamp: $timestamp}]->(p)",
+                            tx.run("MATCH (u:User {username: $username}), (p:Post {postId: $postId}) " +
+                                    "MERGE (u)-[:COMMENT {commentId: $commentId, timestamp: $timestamp}]->(p)",
                                     org.neo4j.driver.Values.parameters(
                                             "username", commentUsername,
-                                            "preview", preview,
+                                            "postId", postId,
+                                            "commentId", commentId, // Aggiungi l'attributo commentId
                                             "timestamp", commentTimestamp));
                             return null;
                         });
-                        System.out.println("Creato arco COMMENT tra " + commentUsername + " e il Post.");
+                        System.out.println("Creato arco COMMENT con commentId: " + commentId + " tra " + commentUsername + " e il Post.");
 
                         // Connetto il commentatore alla community del post
                         session.executeWrite(tx -> {

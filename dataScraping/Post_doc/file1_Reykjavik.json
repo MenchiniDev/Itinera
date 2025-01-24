@@ -1,5 +1,5 @@
 {
-  "postId" : 200003,
+  "_id" : "ca137c44-ec79-418a-b220-bea041a956dc",
   "community" : "Reykjavik",
   "username" : "Razoar_Oklahoma",
   "post" : "HPV vaccine in Iceland\n",
@@ -8,36 +8,43 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "dab11f35-4142-4f7d-a05f-fe2482408813",
     "body" : "Ask at heilsugæsla, heilsuvera.is",
     "username" : "baddi80",
     "timestamp" : "2024-12-09T22:04:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "990affa1-174c-4496-a660-ff724f1faf2c",
     "body" : "If you have a kennitala you can log into heilsuvera.is and use their online chat or call 1700",
     "username" : "fidelises",
     "timestamp" : "2024-12-11T22:34:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "77a8f5b6-e189-4a6a-b70f-00ffdbdd7ea0",
     "body" : "HPV ad an adult seldomly makes sense, because during puberty you very likely get exposed to the Virus.",
     "username" : "comrad1980",
     "timestamp" : "2024-12-09T23:32:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "662d052e-1a0f-4561-8c29-736c49e51508",
     "body" : "This is wrong. An HPV infection lasts for 1-3 years usually, the vaccine will be effective towards any future infections of the four strains of HPV that are malignant. It's not recommended for people over 45 though. \n\nHowever, it's very pricey. Three shots at over 30k each.",
     "username" : "IcelandickSadist",
     "timestamp" : "2024-12-10T15:31:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "27c99a8a-0bcd-4341-a552-020f1760b227",
     "body" : "That is entirely dependent on how sexually active the person is. \n\nIf they are with just one person the probability is quite low.",
     "username" : "11MHz",
     "timestamp" : "2024-12-10T02:09:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "eb441cff-f48c-4ea9-89d8-829cfa0dfee8",
     "body" : "Where can I get vaccinated?",
     "username" : "Razoar_Oklahoma",
     "timestamp" : "2024-12-10T22:01:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3199e369-f13a-4dbe-a62c-e23d80fd5450",
     "body" : "Speak to your heilsugæsla. If they are sketchy about it, then talk to smitsjúkdómadeild LSH",
     "username" : "IcelandickSadist",
     "timestamp" : "2024-12-10T22:22:19Z"

@@ -1,5 +1,5 @@
 {
-  "postId" : 200146,
+  "_id" : "98ab79c9-8f6f-4ed2-9bc4-d1c52b3ab3de",
   "community" : "Cologne",
   "username" : "scbeibdd",
   "post" : "Kennt Ihr einen Tierarzt, der heute noch geöffnet ist?",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "8a7c690d-e240-40e0-904d-a105c0d499ca",
     "body" : "Hast du mal gegoogelt? Durch ne schnelle Suche habe ich eben mind. 9 Tierärzte gefunden die heute alle noch auf haben.",
     "username" : "_MrZogs_",
     "timestamp" : "2024-12-23T08:55:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8ddd9c85-cca4-48a8-b017-2bc08bd9ed61",
     "body" : "Praxis Holland/Dr Unna in Bayenthal, die sind heute bis 22 Uhr besetzt und betreuen auch immer die Polizeihunde. Da müsstest du kurzfristig noch vorbeikommen können.",
     "username" : "Wollmi18",
     "timestamp" : "2024-12-23T09:16:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "247e257a-03c1-4b76-be6f-ba0fe254ba18",
     "body" : "Versuch mal den mobilen Tierarzt FELMO..\n\n[Tierarzt Köln 💚 Hausbesuche | felmo](https://felmo.de/lp/koeln-lp?utm_medium=cpc&utm_source=google&utm_campaign=K_Search_Brand&utm_adgroup=felmo_Brand&utm_content=&utm_campaignid=12257565071&utm_adgroupid=134523273996&utm_targetid=kwd-403134167678&utm_adid=587710329270&utm_term=felmo&utm_devicecategory=c&gad_source=1&gclid=CjwKCAiAjp-7BhBZEiwAmh9rBXQn0rQhCLFB4n09Rh6xcN-bVuDLmySEY1V5jiGCD9m3qeI4uYgZDRoC1hYQAvD_BwE)",
     "username" : "MizzyvonMuffling",
     "timestamp" : "2024-12-23T07:50:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3e62ba51-c76b-479d-9f37-4ba3cefc58a3",
     "body" : "Beruhigungstablettenzeug?   \nRollos runter   \nMusik Laut und so tun als wäre nichts klappt nicht? :(",
     "username" : "AndiArbyte",
     "timestamp" : "2024-12-23T09:58:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ade060d1-1ca0-48c7-8dd8-b4223ab45c45",
     "body" : "Also heute vormittag hatten die Tierärzte an der Kapelle in Kalk auf. Haben da noch ein Medikament für unsere Hündin bekommen, sind allerdings auch schon länger dort.",
     "username" : "phantasmagorovich",
     "timestamp" : "2024-12-23T13:06:31Z"

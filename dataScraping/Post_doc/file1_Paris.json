@@ -1,5 +1,5 @@
 {
-  "postId" : 200002,
+  "_id" : "c964139b-57b1-47f2-93f8-dc9d0274ff93",
   "community" : "Paris",
   "username" : "amy-schumer-tampon",
   "post" : "Pensez vous finir vos jours a Paris ?",
@@ -8,201 +8,241 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "93529816-f1a1-4fc1-acac-bf1d87eec2dd",
     "body" : "Oui totalement. J’adore la France entière mais Paris… c’est juste… la maison. J’y suis trop attachée",
     "username" : "BK010989",
     "timestamp" : "2024-12-22T21:15:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "75608360-4572-4c85-9265-884e38ca3b4d",
     "body" : "J'aime Paris, mais la météo commence vraiment à me peser.\nLes journées de grisaille semblent s''enchaîner sans fin, et les rares jours de soleil semblent faire exception. Je ne dis pas que Paris ait été particulièrement ensoleillée par le passé, mais ces dernières années, j'ai l'impression que le soleil est plus rare. \n\nC'est peut-être juste une impression, mais j'espère pouvoir passer mes vieux jours dans un endroit plus paisible et ensoleillé, même si ma carrière me retient encore pour le moment. Il y a des coins sympas dans le sud.",
     "username" : "johnnys7788",
     "timestamp" : "2024-12-22T21:10:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cb3c45be-e725-492f-948d-f9768488b245",
     "body" : "Je suis parisien.\n\nJ’ai grandi à Paris, entre le 13ᵉ et le 5ᵉ arrondissement, et j’ai poursuivi mes études à Londres. Aujourd’hui, je vis dans le 15ᵉ. Honnêtement, je ne me vois pas habiter ailleurs que dans une grande ville.\n\nBien sûr, parfois c’est le chaos : le temps est gris, il pleut sans s’arrêter et il y a toujours quelqu’un d’étrange qui veut te coller sans raison. Mais, il y a tellement de belles choses à voir, de conversations à partager et de plats à découvrir. Et puis, ces rares moments où l’on peut prendre un peu de hauteur sur Paris me touchent toujours autant.",
     "username" : "Mrcactus90",
     "timestamp" : "2024-12-22T23:13:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4f291c7b-0e32-4140-8471-0a71e8721181",
     "body" : "Oui, sans aucun doute. Cette ville a beaucoup de défauts mais j'y suis trop attachée pour ne serait-ce qu'envisager de partir.",
     "username" : "Chuusei_",
     "timestamp" : "2024-12-22T21:35:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c8f2232c-a920-4f33-834b-55af08c5f9ca",
     "body" : "Pour les transports, les soins et les hopitaux c’est surement la meilleure ville de France pour ça. L’accessibilité je n’en suis pas certain par contre vu les transports en commun.",
     "username" : "Mouffles",
     "timestamp" : "2024-12-23T00:40:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f2333ff5-8bb7-45a6-8a16-fee99d810608",
     "body" : "J'adore Paris et je compte rester le temps que je peux en profiter. Mais à un moment donné, je partirai",
     "username" : "flyblown",
     "timestamp" : "2024-12-22T21:51:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3dd920a9-a4ff-49d2-bc04-3846d4172d61",
     "body" : "Non, j’adore Paris et je passe un super moment, mais j’ai besoin d’accès à la nature et de vie un peu plus “simple”. Mais la diversité culturelle parisienne va carrément me manquer",
     "username" : "Tchaikovskin",
     "timestamp" : "2024-12-22T22:07:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "86e0a5d0-d78d-4633-bde0-9d0e0ef47c3e",
     "body" : "Non.",
     "username" : "WorriedWorry1371",
     "timestamp" : "2024-12-22T22:56:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "38f22b06-fdbc-4b23-8bd8-8f5dc8ef5cff",
     "body" : "Non. C'est pour les études et le début de la vie active. Après, on ne sait pas de quoi demain sera fait.",
     "username" : "Moug-10",
     "timestamp" : "2024-12-22T21:21:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b74afed0-fa25-4b31-8c27-fac2ae5395ea",
     "body" : "Non. J'espère pouvoir retourner sur le bord de la Méditerranée là où j'ai grandi. Paris j'aime bien mais honnêtement je ne suis là que pour y travailler.",
     "username" : "CMDRJohnCasey",
     "timestamp" : "2024-12-23T00:54:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c641da7d-7482-4f0f-947e-33d0a7615cbf",
     "body" : "Je suis né à Paris, hôpital Saint Antoine. Et j'ai pratiquement toujours vécu en banlieue. À cause de mon asthme infantile, mes parents ont dû déménager fin 59, sinon c'était cure à la Bourboule tout au long de l'année. \n\nOn l'a oublié maintenant, mais Paris était encore plus polluée que maintenant à cause du chauffage au charbon et des trains à vapeur, sans compter la pollution automobile et les interminables bouchons.\n\nJe ne me vois pas forcément vivre à Paris à cause de la chaleur l'été.",
     "username" : "Garsbriel",
     "timestamp" : "2024-12-23T08:58:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "da27d245-4ade-4090-8687-6b807335d1a7",
     "body" : "Je suis né et j'ai été élevé à Paris, dans le 5ème arrondissement.\n\nJ'ai voyagé dans toute l'Europe, en Asie, en Amérique du Nord. J'ai longtemps cru que rien ne me serait plus doux que de m'éteindre rive gauche.\n\nMais aujourd'hui je ne reconnais plus la ville et les clans qui l'occupent et s'affrontent. Le piéton est le nouveau Gazaoui : les bonnes consciences le pleureront quand il aura disparu... Le plus vite possible ! \n\nDe cosmopolite et multiculturelle, Paris est devenue une ''ville ouverte'' : livrée à l'occupant dans l'espoir qu'il n'y fera pas trop de dégâts. Peine perdue : de bites en banquettes, de couloirs en pistes, l'espace urbain est divisé, sectorisé, massacré.\n\nLes villages qui composaient ce grand patchwork on disparu.  Les marchés se sont réduits, les bouchers les premiers ont baissé le rideau, suivi par tous les petits commerces chassés par des loyers indécents. On n'achète plus une baguette, mais une bannette... de Pelleport à la Croix Nivert, tous les franprix se ressemblent. \n\nBref.\n\nC'est le sens de l'histoire, comme dirait une édile en préretraite (plus que 18 mois, courage). Moi je m'exile en Bourgogne. Je m'exile ?  Non : je renais au milieu de gens vrais connectés à la terre et pour lesquels l'écologie ne se limite pas à promener ses poubelles multicolores en vélo cargo.\n\nBon courage à ceux qui restent,  puissiez vous voir la ville renaître après 2026 🙏",
     "username" : "Serendipi-me",
     "timestamp" : "2024-12-23T00:01:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "638787ce-5ad2-4d71-bfb3-48154fe8f940",
     "body" : "Oui ! \n\nEn tout cas en l'état actuel des choses je ne me vois pas habiter durablement ailleurs et je serais ravi d'un vieillir entouré de choses que j'aime.",
     "username" : "LeRaminagrobis",
     "timestamp" : "2024-12-22T21:56:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1d116e73-a77d-454f-9a5b-ce8e5f7951f2",
     "body" : "Probablement.",
     "username" : "ClarkSebat",
     "timestamp" : "2024-12-22T22:41:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "74165b2f-f284-4dc0-9ef7-91a9130ad493",
     "body" : "Je ne sais pas. Pour le moment je travaille à Paris donc j'y reste. C'est sympa et pas besoin de voiture. Je n'arrive pas à me projeter dans le futur. Paris m'offre le travail alors je reste. Et puis cela fait 20 ans que j'y suis, c'est une belle ville 😃",
     "username" : "Jennifer24242424",
     "timestamp" : "2024-12-22T22:57:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ca1e2c01-b0eb-4686-9a05-e4ab38d76472",
     "body" : "Non",
     "username" : "StoreWeak5292",
     "timestamp" : "2024-12-22T23:48:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "69377eef-932b-42af-9031-04faa0aa547c",
     "body" : "Si la vie le permet, oui",
     "username" : "Alternative_Ad_3300",
     "timestamp" : "2024-12-23T01:04:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "26b4854b-f937-4ac7-86ab-d87a26ab6994",
     "body" : "Il y a des chances... J'ai besoin d'un suivi médical qui ne va pas s'améliorer avec le temps... Donc ceci explique cela.",
     "username" : "minuipile",
     "timestamp" : "2024-12-23T07:38:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "aa273d07-80d1-4804-9e8b-1316a5089850",
     "body" : "Je suis sur la région parisienne proche Paris depuis 2013.je suis du Sud.et un jour je retournerai dans le Sud.",
     "username" : "Aromatic-Bell-7085",
     "timestamp" : "2024-12-23T07:50:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a62a7598-3f1f-422d-9961-7512020e1cd7",
     "body" : "Oui. Je suis expat depuis 2005 et c'est une ville magnifique. Cette année j'ai aussi acheté ma résidence principale à côté - secteur Boulogne - donc je vais littéralement y passer le reste de ma vie et ça me va très bien! 😂",
     "username" : "fm75",
     "timestamp" : "2024-12-23T09:27:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "29ee28be-4c0c-473e-80b5-756ed0c8362f",
     "body" : "Je l’espère oui",
     "username" : "gamoulox",
     "timestamp" : "2024-12-23T10:55:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "df53b9a8-97e8-4316-95bf-6475d24dc131",
     "body" : "Oui, 100%",
     "username" : "pvalverdee",
     "timestamp" : "2024-12-23T12:38:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "10fa5582-0bf6-4fb4-983a-e2411bc0884e",
     "body" : "Oui, je ne me vois pas vivre ailleurs",
     "username" : "encreturquoise",
     "timestamp" : "2024-12-23T12:42:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5e82e71f-cb3a-4491-b49a-c6ea87146594",
     "body" : "absolument pas\n\nparis est bien pour travailler et avoir unbon salaire mais la retraite sera ailleurs",
     "username" : "hyp_reddit",
     "timestamp" : "2024-12-23T13:31:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c4d8676f-7763-46e4-86a9-18a913317d10",
     "body" : "Non, j’ai besoin d’un jardin et de vraie gadoue. Ce sera la Normandie mais je garderai mon chez moi parisien et le marocain aussi",
     "username" : "fdesouche",
     "timestamp" : "2024-12-23T14:21:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "36aaa8eb-b61f-44aa-9669-a0f8159c4cc0",
     "body" : "Plutôt mourir",
     "username" : "Additional-Bed365",
     "timestamp" : "2024-12-22T22:15:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "44bcd6fd-c757-4dc3-87ac-89939845f601",
     "body" : "J'aimerais bien mais je ne sais pas si j'aurais les moyens financièrement quand je serais à la retraite. Je pense que le coût de la vie m'aura fait partir d'ici là malheureusement.",
     "username" : "RubberDuck404",
     "timestamp" : "2024-12-22T22:45:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bac25d14-2902-46d8-9929-faeb588ac5d2",
     "body" : "C'est une très bonne question je vis à Paris et en ce moment je crois que je vais regagner une petite ville tranquille qu'on appelle Vichy pour la tranquillité",
     "username" : "DoublePsychology9598",
     "timestamp" : "2024-12-23T02:06:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fd0b4968-1de6-45bd-82be-422df5264451",
     "body" : "Absolument pas.",
     "username" : "Hartmallen",
     "timestamp" : "2024-12-23T09:12:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7c0c7f02-0149-4458-807a-9a7c8a027ba7",
     "body" : "Jusqu’à récemment, je me voyais facilement finir ma vie à Paris. J’adore cette ville, son architecture, sa vie culturelle, son cosmopolitisme. \n\nMais avec le réchauffement climatique qui se fait de plus en plus sentir et les épisodes de canicule de plus en plus longs et intenses (pas en 2024, certes), j’en suis beaucoup moins sûre. Les épisodes de canicule sont particulièrement pénibles dans cette ville et sa banlieue.\n\nCertes la municipalité actuelle fait de gros efforts pour adapter la ville aux fortes chaleurs végétaliser et réduire la place de la voiture, mais la ville part de très loin et pour le moment, la banlieue suit à pas mesurés. Je crains que d’ici 2050, ce soit un coin trop hostile 4 mois par an pour pouvoir y rester.",
     "username" : "ReinePoulpe",
     "timestamp" : "2024-12-22T22:02:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a255deff-c8b6-42e8-8d22-3428dc1f27cc",
     "body" : "Je n'envisage pas d'en partir pour le moment.\nC'est trop cool Paris.",
     "username" : "Zgnorf",
     "timestamp" : "2024-12-22T21:46:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "76eb8ba3-7157-45b4-b088-07f7e5703cea",
     "body" : "Ben oui, pourquoi pas ? Ça ne devrait pas ?",
     "username" : "Alps_Disastrous",
     "timestamp" : "2024-12-22T22:53:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "196f69a2-dada-4a18-a37d-73122eea6edf",
     "body" : "Non puisque je n'y habite pas.",
     "username" : "Relative-Tune85",
     "timestamp" : "2024-12-23T01:14:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "345002b5-60d2-404e-a90f-3edaec0315a9",
     "body" : "J’ai l’impression que c’est presque devenu inavouable en public. Les gens aiment tellement cracher sur la ville pour je ne sais quelle raison. Alors que oui, Paris c’est la maison.",
     "username" : "Captain_Flemme",
     "timestamp" : "2024-12-22T21:36:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a0498343-585a-45ad-bdfe-128c59d0ee75",
     "body" : "Absolument ! Fluctuat nec mergitur",
     "username" : "Mrcactus90",
     "timestamp" : "2024-12-22T23:15:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7d53a591-afe9-4606-9e26-9c8fda6dcd10",
     "body" : "Je suis rentré d'Irlande l'année dernière et Paris me semble une ville dans un pays tropical 😂",
     "username" : "fm75",
     "timestamp" : "2024-12-22T21:12:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1ccda171-edc7-4672-9f57-da79e1421067",
     "body" : "On a été gâté en 2022 et c'était même trop",
     "username" : "Exact_Deal1348",
     "timestamp" : "2024-12-23T05:55:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "76653d9f-a832-4c35-810e-61bde6d261fc",
     "body" : "Le mauvais temps c’est bien pire ailleurs, t’as encore moins de choses à faire quand il fait moche en province.",
     "username" : "Mouffles",
     "timestamp" : "2024-12-23T00:42:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "46362be0-fe10-4ed6-8409-56e981fffb16",
     "body" : "Oui c’est vrai ! On me demande souvent quand est-ce que je vais partir, pourquoi je reste, « mais si t’as des enfants » … je comprends pas pourquoi se justifier",
     "username" : "BK010989",
     "timestamp" : "2024-12-23T05:23:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e9d80969-2354-4d71-bec8-32b487720604",
     "body" : "Oui tout est relatif. C'est sûr.",
     "username" : "johnnys7788",
     "timestamp" : "2024-12-22T21:14:32Z"

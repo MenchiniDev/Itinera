@@ -1,5 +1,5 @@
 {
-  "postId" : 200377,
+  "_id" : "29a3643f-4c8d-462d-a541-314462cf07a0",
   "community" : "Hamburg",
   "username" : "Dishwasherunsafe1234",
   "post" : "Hbf gesperrt",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "8bbddb5e-02f1-4940-b269-3548821e3f34",
     "body" : "Wohl Suizidankündigung und Strom abgestellt. S-Bahn soll wohl nicht betroffen sein.",
     "username" : "Strict_Pianist7051",
     "timestamp" : "2024-12-22T21:02:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "70d8a970-e6b0-40f8-9314-7eadcfc6eba9",
     "body" : "S1 S2 S3 S5 konnten den hbf etwa eine halbe Stunde lang nicht passieren, aber der Verkehr wurde inzwischen wiederhergestellt. \nhttps://x.com/SBahnHamburg/status/1870929748525724105",
     "username" : "Newface117",
     "timestamp" : "2024-12-22T21:52:03Z"

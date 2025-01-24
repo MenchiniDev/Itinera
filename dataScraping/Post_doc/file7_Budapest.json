@@ -1,5 +1,5 @@
 {
-  "postId" : 200322,
+  "_id" : "48e55909-7797-40e0-baf1-768f37aca715",
   "community" : "Budapest",
   "username" : "MrP-YL",
   "post" : "Hova vigyek régi erdész gyűrűt javításra?",
@@ -8,71 +8,85 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "e61cd715-69bf-4cd0-9e9c-571d494fae4b",
     "body" : "Mi lassan 30 éve járunk Budaörsre a Máthé ékszerészetbe, javíttatni, formából öntetni, rajz alapján… messze van de megéri.",
     "username" : "jucusinthesky",
     "timestamp" : "2024-12-22T13:38:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b8853af7-ac2f-44b8-b55b-acab4508d0e1",
     "body" : "Én annak idején a karika gyűrűket csináltattam a Mihailovics Manufaktúrában, Mihailovics Andrással (régen Soroksáron dolgozott, most a 17. kerület). Megbízható, precíz, kifejezetten igényes, viszont nem tudom, hogy foglalkozik-e javítással, de egy kérdést szerintem megér.\n\nLink: [Mihailovics Manufaktúra](https://www.mihalovitsmanufaktura.hu/)",
     "username" : "Necessary_Pollution",
     "timestamp" : "2024-12-22T13:49:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e338684b-de0d-4a82-87f0-fff9c225e0b4",
     "body" : "Én tudom, hol készítik ezeket a gyűrűket, vagy legalábbis 10+ éve hol készítették. Ugyanilyenem van, csak lófejjel (a kőszegi lovászoknak készítenek ilyet, illetve a mezőgazdasági szaknak búzakalásszal - a sulitól tudom, én nem oda jártam).\n\nMegpróbálom kideríteni, de valahol a Ferenciek tere környékén volt az ékszerész, aki nekem is csinált ilyet.",
     "username" : "Icy-Window-181",
     "timestamp" : "2024-12-22T14:00:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c9c7edc3-655f-436b-933e-2b2ae1dc91e3",
     "body" : "Sopronban évente 40-50 db-t adnak el. Na ott javítják is.",
     "username" : "AdvantageAutomatic30",
     "timestamp" : "2024-12-22T14:20:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "776f5787-2563-46c4-99a9-3f6e60f5dc20",
     "body" : "https://ekszerkeszito.hu/ Ferenciek terénél van.",
     "username" : "Fun-Jellyfish1",
     "timestamp" : "2024-12-22T16:04:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3fda8960-b7d1-4e2e-adc3-d4eff1f06907",
     "body" : "Nem tudom miért gondolod hogy az ékszerészek ne tudnák a dolgukat. Abból élnek.",
     "username" : "Natural-Put",
     "timestamp" : "2024-12-22T13:29:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a188ad5b-b8ce-431e-b5ea-a471e66ef2f3",
     "body" : "Esetleg Sopron, Miskolc, Dunaújváros, talán Székesfehérvár. Ezeken a helyeken őrzik a bányász hagyományokat, ahol elég sok ilyen gyűrű található. Szóval jó eséllyel hozzá értő ékszerész is. :)",
     "username" : "Capital_Army_1059",
     "timestamp" : "2024-12-22T22:03:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c5aff96c-7062-45c1-974a-5c4a9f620d39",
     "body" : "[https://www.belvarantik.hu](https://www.belvarantik.hu) Belvárosi Antikvitás, Veres Pálné utca",
     "username" : "Tight_Web_3162",
     "timestamp" : "2024-12-22T23:29:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e9bce629-e494-45e3-aed3-647498c8e609",
     "body" : "Én is itt vettem annó, anyukám erdész volt, neki volt, én nagyon megszerettem, azért nem adta nekem mert az is el volt vékonyodba, ezért ott vettünk nekem egy újat.",
     "username" : "Gwellian",
     "timestamp" : "2024-12-22T20:45:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e24869d0-2ba4-488b-b890-cfecb6cdc462",
     "body" : "Az ékszerekhez persze értenek, de az erdész gyűrű ördöglakat is egyben. Lehet valaki harminc éve ékszerész, de ha még életében nem látott ilyet, nem fogja tudni hogyan kell visszahajlítani rendesen.\n\nAztán lehet hogy nem olyan ritka ez a fajta gyűrű mint gondolom, de ez az amit nem tudok.\n\nMeg persze nem minden ékszerbolt egyenlő. Olvastam pár nem kicsit rémisztő véleményt google mapen egyes helyekről.",
     "username" : "MrP-YL",
     "timestamp" : "2024-12-22T13:44:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4edf2a5e-496f-4ada-83b0-9ed2a8febee1",
     "body" : "kerdezz korbe a kozeli erdeszeteknel, agrar sulikban ha nagyon felsz egy atlag ekszeresztol, de azokba is siman behemetsz megkerdezni tudnak-e vele kezdeni valamit\n\npar eve meg adtak ilyen gyurut szoval nem ilyen krisztus elotti ez a dolog",
     "username" : "kress5",
     "timestamp" : "2024-12-22T13:57:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "75eecd7a-812a-48e5-ba1a-274ff7961ae7",
     "body" : "Ha csak ez aggaszt akkor lehet kicsit túlgondolod a dolgot. Ez a típusú gyűrű egyáltalán nem ritka, a legtöbb ékszerész találkozhatott már ilyennel, mivel hosszú évtizedek óta hagyomány a viselése a selmeczi utódiskolák hallgatóinak körében. Szóval elég könnyen találhatsz olyat akire bátran rábízhatod, csak ne plázafolyosós bóvliárushoz menj, hanem rendes órás-ékszerészhez. Egyébként öröm látni, hogy nem hagysz elkallódni egy ilyen tárgyat, remélem sikerül megjavíttatnod.",
     "username" : "kepzol",
     "timestamp" : "2024-12-22T14:51:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "36eb681e-fccc-491a-b165-99f0c773ff11",
     "body" : "Szerintem meg túlbonyolítod. Spekulálsz mindenen ahelyett hogy bemennél a legközelebbi ékszerészhez és megkérdeznéd mi a helyzet.",
     "username" : "Natural-Put",
     "timestamp" : "2024-12-22T13:46:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e2c6c1e1-650f-4b1b-bc20-05d9b9e8830d",
     "body" : "Mátrafüredi és a Soproni erdész suliban tutira adnak ilyet. Gondolom van egy fix emberük aki csinálja. Egy telefon és adnak kontaktot.",
     "username" : "CloudCalmaster",
     "timestamp" : "2024-12-22T14:35:24Z"

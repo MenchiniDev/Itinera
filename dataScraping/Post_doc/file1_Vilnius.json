@@ -1,5 +1,5 @@
 {
-  "postId" : 200023,
+  "_id" : "5c45c3c0-4963-4f75-a104-3ebab0cd1737",
   "community" : "Vilnius",
   "username" : "kaboomcik",
   "post" : "Tortas per kalėdas Vilniuje",
@@ -8,61 +8,73 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "da27ccd2-9e18-4b1e-a8c2-334eb36545d1",
     "body" : "Gal galima uzsakyti kad i sita idetu ir pasiimtum kai butum 25 diena.\n\n[https://www.sharefreeze.lt/](https://www.sharefreeze.lt/)",
     "username" : "Miserable_Ad7246",
     "timestamp" : "2024-12-19T12:23:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f8b0514e-4450-48a1-b598-ba8ae5aa0212",
     "body" : "gal ne tortai, bet kmyninėj yra tekę pirkt skanių pyragų paskutinėm minutėm kūčių ar kalėdų dieną",
     "username" : "vxndel",
     "timestamp" : "2024-12-19T11:43:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a2b48b14-39cf-4b5e-be14-09ef7b7a05ad",
     "body" : "Gal turi kokį draugą kuris galėtų pasaugoti iki grįši?",
     "username" : "Competitive-Love1696",
     "timestamp" : "2024-12-19T12:09:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ea79f1c5-4bed-4ffe-afc5-9d917fd98630",
     "body" : "Yra daug konditerių kurie gamina namuose (su licenzija) pagooglinus ar paieškojus facebooke tikrai rasi ne vieną. Jie gali tau viską pagaminti ir tikrai gali sutarti kad per kalėdas atiduotų (jie iš to gyvena)",
     "username" : "romienas",
     "timestamp" : "2024-12-19T16:13:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "eb73ae53-8d4d-4847-9eb0-4a4aaa1e5146",
     "body" : "Jeigu dar neradai ir reikia pagalbos, tai paieškok aplink Lazdynus kas kepa ir galiu nupirkti 23 d. ir pasaugoti iki 25d. Yra Lazdynuose Clafuti, bet iki vakar tik priėmė rezervacijas, nors visada galima bandyti kreiptis gal padarys.",
     "username" : "Fabulous_Wolf_4999",
     "timestamp" : "2024-12-20T18:25:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "24593118-b288-4d3b-a455-3dead425f680",
     "body" : "Oho kokia įdomi paslauga. Ačiū, pasidomėsiu!",
     "username" : "kaboomcik",
     "timestamp" : "2024-12-19T13:25:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b51411df-80ad-45d6-80c3-24992000f9fb",
     "body" : "nedirbs 25d.",
     "username" : "chronosculptor777",
     "timestamp" : "2024-12-19T11:48:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4f8d3ea2-648b-48b9-9d31-7180fadc95cb",
     "body" : "Deja ne :(",
     "username" : "kaboomcik",
     "timestamp" : "2024-12-19T13:26:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4b33f06a-4a08-4f44-b76f-64eccab38290",
     "body" : "Ačiū labai už tokį pasiūlymą! Jau susiradau su tais \"paštomatais/šaldytuvais\" variantą ;)",
     "username" : "kaboomcik",
     "timestamp" : "2024-12-20T18:41:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a0570f86-fd52-462b-a74e-ec1a42b30a86",
     "body" : "O šiaip ir paprastas paštomatas veiktų, dabar iki Kalėdų kieme šadytuvo temperatūra, ar truputį žemiau.",
     "username" : "hundreds_of_others",
     "timestamp" : "2024-12-21T04:35:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2b6ce92d-d82f-4425-ae65-ab1a4fbef7e9",
     "body" : "Dar variantas paieškoti kas privačiai kepa, FB grupese, pažiurek Tartaledi. Gal sutartum, kad pasiimti 25",
     "username" : "Competitive-Love1696",
     "timestamp" : "2024-12-19T13:28:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5657571b-7664-49af-8358-bf7c6b820a60",
     "body" : "Rajono FB grupes patikrink, daugumoje yra moteriškių, kurios kepa tortus. Pas mane net kelios yra, kaimynai atsiliepimus teigiamus rašo, tai iškart žinau, kad ne šūdą parduoda. Kadangi dirba iš namų, tadangi ir 25-ą dieną atsiimti nebūtų bėda.",
     "username" : "GrynaiTaip",
     "timestamp" : "2024-12-20T18:46:11Z"

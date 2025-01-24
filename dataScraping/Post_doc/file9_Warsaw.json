@@ -1,5 +1,5 @@
 {
-  "postId" : 200411,
+  "_id" : "8e1fb78e-5479-4a0c-bdba-3180b054f0b0",
   "community" : "Warsaw",
   "username" : "drparzival_",
   "post" : "places open on holiday",
@@ -8,16 +8,19 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "574256a2-4ce0-4b52-90c0-fb3e5b93990a",
     "body" : "Most if not all cafes and restaurants will be open",
     "username" : "StateDeparmentAgent",
     "timestamp" : "2024-12-22T18:43:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4c686f5b-a7f4-46bb-8c71-33c50eaa1e55",
     "body" : "probably not",
     "username" : "No-Strawberry7",
     "timestamp" : "2024-12-22T18:39:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "94be7794-2c8e-48dc-a908-7fcef3bf72b4",
     "body" : "Monday 23th is a regular working day for most places, dafuq is this question.",
     "username" : "eckowy",
     "timestamp" : "2024-12-22T18:54:43Z"

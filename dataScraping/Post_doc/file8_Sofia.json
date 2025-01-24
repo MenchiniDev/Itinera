@@ -1,5 +1,5 @@
 {
-  "postId" : 200320,
+  "_id" : "ef8e7b6b-9794-4f00-8222-730974049ea3",
   "community" : "Sofia",
   "username" : "Old-Charity-3839",
   "post" : "Готино място за гледане на мачове в София? ",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "c501b526-475c-4482-8e46-1bd4b8c4bcc2",
     "body" : "Looserpool can go fuck off 😂",
     "username" : "KpacTaBu4ap",
     "timestamp" : "2024-12-22T13:15:27Z"

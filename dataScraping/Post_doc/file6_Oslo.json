@@ -1,5 +1,5 @@
 {
-  "postId" : 200278,
+  "_id" : "aaaf5f5b-3271-4d41-85a9-33f2d89dfbd0",
   "community" : "Oslo",
   "username" : "Jakob_Lundberg",
   "post" : "Skal lage en kortfilm den 18. og 19. januar. Vi er i den sammenhengen på utkikk etter en leilighet vi kan filme i en av disse datoene, som har tilsvarende detaljer og stil som avbildet leilighet. Noen tips?",
@@ -8,51 +8,61 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "e87450c9-02a8-4b36-bde5-ece2c8155e29",
     "body" : "Norsk Folkemuseum har en leilighet som ser veldig lik ut: [https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965](https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965)\n\nVet ikke om de tillater filminnspillinger der, men det skader jo ikke å spørre.",
     "username" : "SentientSquirrel",
     "timestamp" : "2024-12-22T17:18:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "43cea143-37c5-4df0-b40b-bd089cbcc1f9",
     "body" : "Hva betaler dere?",
     "username" : "HI_im_TroyMcClure_",
     "timestamp" : "2024-12-22T16:52:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "87a7ded2-f574-42df-b891-73bcfffbdebc",
     "body" : "Fett! Ser ut som leiligheten til Fleksnes",
     "username" : "vargtass_666",
     "timestamp" : "2024-12-22T17:25:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8a10b4b8-bc24-474e-8a16-6b60c287f69e",
     "body" : "Ta kontakt med NRK Oslo, sikkert noen der som kan hjelpe dere.",
     "username" : "stonedshrimp",
     "timestamp" : "2024-12-22T16:59:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9cf03cd6-aa59-4188-a021-0ee146786332",
     "body" : "Føles veldig Kampen:ish.",
     "username" : "Lonely_Adagio558",
     "timestamp" : "2024-12-22T22:00:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "605ad9dd-2821-44c7-a702-cb5352d821da",
     "body" : "Skal dere filme i en leilighet på en søndag (19. januar)? I så fall regner jeg med at du innhenter tillatelse fra naboene rundt. Helligdagsfreden skal du ikke tulle med.",
     "username" : "QuestGalaxy",
     "timestamp" : "2024-12-23T08:33:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a78fc804-d27d-4774-9dc1-cb2bbe3b1cd4",
     "body" : "Om vi får planlagt støtte ser vi for oss å betale en sum på mellom 1500kr - 2500kr",
     "username" : "Jakob_Lundberg",
     "timestamp" : "2024-12-22T17:40:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7cc562d1-545f-4963-8bf9-0a4f69223546",
     "body" : "Daaaay-o!",
     "username" : "mr_greenmash",
     "timestamp" : "2024-12-23T00:06:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "02273066-f65f-4e43-9bd9-ed60c06720b1",
     "body" : "Trodde at standard pris var 15.000kr",
     "username" : "bashnu",
     "timestamp" : "2024-12-22T22:06:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "26517c49-4746-4192-b4bb-406384cb17b1",
     "body" : "Yep.",
     "username" : "Archkat",
     "timestamp" : "2024-12-22T22:14:15Z"

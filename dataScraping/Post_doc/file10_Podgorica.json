@@ -1,5 +1,5 @@
 {
-  "postId" : 200425,
+  "_id" : "522200ba-3cc3-4d8f-b980-9c022483fb0e",
   "community" : "Podgorica",
   "username" : "edgalimov",
   "post" : "Anyone up for playing chess offline?",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "d319f28b-a334-46f1-a623-325b3b6cd3d3",
     "body" : "I sent you a PM :)",
     "username" : "crazzywak",
     "timestamp" : "2024-11-23T10:29:18Z"

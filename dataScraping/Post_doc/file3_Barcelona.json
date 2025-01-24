@@ -1,5 +1,5 @@
 {
-  "postId" : 200150,
+  "_id" : "061ff9f0-b071-4188-bbda-c5df29be45f0",
   "community" : "Barcelona",
   "username" : "un_redditor",
   "post" : "La T-usual i la T-jove mantindran les bonificacions del 50% durant tot el 2025",
@@ -8,36 +8,43 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "7f0d1856-de1e-46e4-a1b8-27d4ed939628",
     "body" : "This means that the T-usual for 1 zone will cost still 21 euros every 30 days even on 2025?",
     "username" : "CiccioGraziani",
     "timestamp" : "2024-12-21T20:31:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f392e082-c328-4f1c-b4d0-020ed50c3a07",
     "body" : "~~puto~~ collboni.",
     "username" : "volivav",
     "timestamp" : "2024-12-21T20:48:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b051f189-ac20-46db-a45c-03c1361133ba",
     "body" : "Poca broma, són 240€ a l'any que ens estalviem. Tan de bo fos per sempre.",
     "username" : "xalaux",
     "timestamp" : "2024-12-23T09:23:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b5825732-5318-4157-a9cd-75e9232e5404",
     "body" : "Visca la psoe potser els voto",
     "username" : "chabacanito",
     "timestamp" : "2024-12-21T20:21:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "acd1d2b8-211e-41b6-ab1a-28c7215c26b1",
     "body" : "For at least the first 6 months of the year, yes. Also the cheap Rodalies ticket.\n\n\nEdit: I read in a different article it was only the first 6 months, but maybe that's changed.",
     "username" : "volcanoesarecool",
     "timestamp" : "2024-12-21T22:11:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d7953a19-2437-4adf-abd9-b551f5910fb1",
     "body" : "Puto collobini i puta psc",
     "username" : "Zenar45",
     "timestamp" : "2024-12-22T12:02:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "760219e0-e2bc-44c3-82ad-48005bc3e2fd",
     "body" : "Nice thanks for the info mate!",
     "username" : "CiccioGraziani",
     "timestamp" : "2024-12-22T07:06:09Z"

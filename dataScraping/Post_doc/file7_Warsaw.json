@@ -1,5 +1,5 @@
 {
-  "postId" : 200325,
+  "_id" : "097af467-0637-43d0-a3e2-eba1976bb803",
   "community" : "Warsaw",
   "username" : "Snoo_90160",
   "post" : "Nowe Miasto at night.",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "f4bf433b-a8f2-46f0-87cb-9696419aa945",
     "body" : "Really pretty (and seemingly underrated) little corner of Warsaw. I wish they put up a Christmas market there, it would be really beautiful if done right.",
     "username" : "Pr00ch",
     "timestamp" : "2024-12-21T13:26:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d0f7a939-b085-4c60-8708-afe29367a0f9",
     "body" : "Noice!",
     "username" : "kociorro",
     "timestamp" : "2024-12-21T15:45:30Z"

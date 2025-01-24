@@ -1,5 +1,5 @@
 {
-  "postId" : 200301,
+  "_id" : "e7d80e62-29f3-41dc-8da4-f7d4b897ae30",
   "community" : "Stockholm",
   "username" : "jocke75",
   "post" : "Person i mörk Golf söks fortfarande efter riktigt taskig nedstänkning vid översvämning på Vasagatan i Stockholm, sommaren 1982. Foto: Kent Lundqvist",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "40386af1-8da5-4627-8abd-f3b8b67d8b5a",
     "body" : "BYO634, Fordonet är avregistrerat, kontakta Transportstyrelsen på 0771-14 15 16",
     "username" : "stepphieann",
     "timestamp" : "2024-12-23T06:05:43Z"

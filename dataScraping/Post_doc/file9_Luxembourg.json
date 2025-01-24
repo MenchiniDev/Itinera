@@ -1,5 +1,5 @@
 {
-  "postId" : 200389,
+  "_id" : "12ab33b3-7f1a-403e-9609-c291c4a5e6d7",
   "community" : "Luxembourg",
   "username" : "1plaakegen",
   "post" : "physio in lux city",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "cba51bde-1faf-427d-988d-c24321c4ba0c",
     "body" : "[Sylvain Frecon](https://www.kine-frecon-aroldi.com/) is really good",
     "username" : "LuxInterior66",
     "timestamp" : "2024-12-23T11:33:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "66112d83-1573-4c2c-9730-94cbbeece63a",
     "body" : "Caroline Martin is a good one",
     "username" : "Tech_Dude1994",
     "timestamp" : "2024-12-23T13:02:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0f91de62-7d5c-41e3-a24b-053d83db3309",
     "body" : "Not in the city center but the best physio by far is Arnaud Ominetti. He’s based in Thionville. Most of the football players here in Luxembourg work with him.",
     "username" : "Kennethe92",
     "timestamp" : "2024-12-23T13:14:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "20f42dad-9606-46ff-a161-086d4a932cf1",
     "body" : "I really like M&B Moes in Merl. \n\nBTW the way it usually works is that you go to your GP and they give you a physiotherapy prescription AND a prescription for a scan and/or a referral to a specialist (but you can usually go to a specialist of your choice). From my experience a physio won't give you advice on whether you need surgery, a specialist will do that.",
     "username" : "Hellojeds",
     "timestamp" : "2024-12-23T13:52:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "57d07a9a-f4c5-4768-b98a-740a09eee53d",
     "body" : "Jennifer Agyepong from cabinet de thérapie manuelle in bonnevoie helped me a lot, I strongly recommend",
     "username" : "Traditional_Bet_4221",
     "timestamp" : "2024-12-23T14:00:44Z"

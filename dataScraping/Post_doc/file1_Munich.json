@@ -1,5 +1,5 @@
 {
-  "postId" : 200033,
+  "_id" : "775e853b-2418-40a2-b96b-ed5491a1757f",
   "community" : "Munich",
   "username" : "MaleficentVehicle705",
   "post" : "Münchens bekanntester Fußballkneipe droht das Aus",
@@ -8,256 +8,307 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "60f7fbd7-5839-439b-9907-875cc81c5a3a",
     "body" : "Du ziehst an eine Hauptstraße neben eine Fußballkneipe und das erste was du machst ist die Kneipe anzuschwärzen und Lärmmessung durchzuführen. Netter Mensch.",
     "username" : "living_rabies",
     "timestamp" : "2024-12-22T08:01:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7100a51a-2d49-4bb3-9fea-e1833f3d6997",
     "body" : "Wer einzieht nachdem die jeweilige Einrichtung eröffnet hat, sollte kein Rechtsanspruch dagegen haben sry.. so ein Witz. Das weiß man davor.",
     "username" : "m4ius",
     "timestamp" : "2024-12-22T09:49:32Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3adbd5ce-37fe-4b97-9376-9a7d6876c470",
     "body" : "Die Bonzen machen die Stadt kaputt, schleichts eich",
     "username" : "blinksc2",
     "timestamp" : "2024-12-22T08:15:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d60e08c3-38d4-44f8-8168-88dd934a22b3",
     "body" : "Gestern Abend: Nachbarstochter feiert im Gartenhäuschen in ihren Geburtstag rein. Um Mitternacht wurde es mal kurz (!) laut. Kommt Klischeenachbar Yuppi Neureich aus der neuen Millionärs-DHH an den Zaun und beschwert sich.",
     "username" : "QuastQuan",
     "timestamp" : "2024-12-22T09:09:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e85624ff-2004-4f27-9eb8-87bd429ffc98",
     "body" : "Hassen ist ein hartes Wort. Aber ich hasse solche Menschen",
     "username" : "sonnygreen42",
     "timestamp" : "2024-12-22T09:15:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "882d00b9-db58-423b-b19c-9149eb7ef308",
     "body" : "Das macht mich so traurig. Es gibt in München nichts vergleichbares. So ein toller Ort und dann hast du solche Menschen. Als ob nicht klar war, was bedeutet dort zu wohnen. Vermutlich wirkt es sich auch noch positiv auf den Mietpreis aus…",
     "username" : "Electronic-Effort-65",
     "timestamp" : "2024-12-22T09:58:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8dde100b-e8b2-4575-91e1-04a007011ecb",
     "body" : "Gut dass es scheinbar überparteilichen Konsens gibt, etwas gegen dieses Spießertum zu tun. Trotzdem ist das Problem ja bekannt, in der Vergangenheit hatten ja schon etliche Dorffeste und Lokale in Deutschland Probleme.\n\nEs darf nicht sein, dass ein komischer Kauz den Spaß für alle anderen verderben kann. Es braucht dringend eine Änderung der Gesetzesgrundlage.",
     "username" : "PM-ME-CRYPTO-ASSETS",
     "timestamp" : "2024-12-22T15:46:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8006ff2a-5dc5-4655-89ed-7a40d5f46228",
     "body" : "Tja, so ist das nun mal mit der Gentrifizierung, und es wird nur noch schlimmer bevor sich was positives tut. \n\nDie Wohnungen werden immer teurer, die einzigen, die sich das Leisten können sind dann von immer höheren Gesellschaften-Schichten. Und die wollen keine Kneipen, sondern irgend welche schicke Cafés und Restaurants. Oder Gallerien. \n\nDann werden die Wohnung noch teuerer, und werden dann nur noch von Leuten gekauft die für ihre gelegentliche Besuche in der Stadt zu fein sind für ein Hotel, oder als Anlage. Und eine leere Wohnung lässt sich besser verkaufen als eine mit einem Mieter drinnen.\n\nDann gehen die schicken Restaurants und Cafés pleite, weil kaum noch einer regelmäßig vorbeischaut. Dann werden daraus Büros oder stehen auch leer, weil es ein Investitionsobjekt ist. \n\nWas danach kommt ist noch offen, aber wir werden das noch miterleben - in Obermenzingen gibt es ein Haus welches seit ca. 6 Monaten auf dem Markt ist für 6,3 Millionen. Fertiggestellt in 2023 für einen Besitzer der, laut Makler, “selten in München ist”.",
     "username" : "RamuneRaider",
     "timestamp" : "2024-12-22T14:23:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bcfac3af-1638-4c80-8252-e196df91e246",
     "body" : "Das ist wie auf die Alm ziehen und sich über Kühe und deren Glocken zu beschweren.",
     "username" : "None",
     "timestamp" : "2024-12-22T13:16:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1035d383-ef24-4d78-951c-9e71dfe09a67",
     "body" : "Ein derartiges Treiben muss endlich ein Ende haben, oder jeglicher Spaß und gelebte Kultur geht verloren. An dieser Stelle muss ganz klar gelten. Das Stadion war lange vor dem Mieter da, aus Ende!",
     "username" : "lostinhifi",
     "timestamp" : "2024-12-22T15:57:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ca55ae6d-262c-494b-85d6-d9feb717cca4",
     "body" : "Ich kannte einen ähnlichen Fall. Ein Bekannter hat ein Restaurant und einen Tages hat sich ein Anwohner aus dem 2. Stock drüber beschwert, dass es ihm laut ist und er die Arbeit in der Küche aus dem Erdgeschoss hören könnte. Die Beschwerde kam von einem Anwohner aus dem zweiten und nicht ersten Stock.... Schon verrückt.\n\nDer Vermieter hat auch schon angefangen zu vermitteln und in der Küche wurden diverse Verbesserungen durchgeführt um \"Lärm\" zu verringern.\n\nHalbes Jahr später rückte die Feuerwehr an, die Person hat sich leider umgebracht, indem sie sich mit Gas erstickt hat.\n\nWas ich damit sagen möchte, solche Personen die so perfide sind, haben manchmal ganz andere Probleme mit sich, die sie nach außen tragen müssen....",
     "username" : "sir_twentygoodmen",
     "timestamp" : "2024-12-22T22:45:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3443deb6-747c-43c5-b4ef-66148e23498e",
     "body" : "Eine 80qm-Wohnung in dem Haus kostet 3000 EUR Kaltmiete. Für den Betrag ist es klar, dass die Mieter Ansprüche haben. Wenn man genügsamere Bewohner will, muss man halt für die Hälfte des Betrags an Studenten-WGs vermieten.",
     "username" : "ceo_of_mess",
     "timestamp" : "2024-12-23T13:11:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e0914a9d-c719-4692-aae0-c039b554a7f7",
     "body" : "Naja, so sehr ich das Stadion mag, ist es in Deutschland so dass existierende Vorschriften einzuhalten sind, hier wärs an der Politik die selbst erlassen Vorschriften zu überarbeiten, sie wird fürstlich entlohnt ihren Job zu machen, die bisherigen Vorschriftten scheinen das Stadtleben nicht gut abzubilden.\n\nSo wie Borkum, da gabs auch seit vielen  Jahren Sozialleben dass von einigen Anwohner als Belästigung empfunden wurde, da konnte auch nicht gesagt wetden „das ist Kultur und wir machen das schonviele Jahre so, geh halt woandes hin“, da wurde diie Belästigung abgestellt.\n\nMal schauen welche Lösung gefunden wird.",
     "username" : "milbertus",
     "timestamp" : "2024-12-22T08:44:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "210e5a5e-1d31-43d8-92e5-6323056f9113",
     "body" : "kenn ich nicht...",
     "username" : "Rupertredloh",
     "timestamp" : "2024-12-22T11:12:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f813c723-8ef5-4f4b-b57d-d4e835701127",
     "body" : "Wir wollten das alle so. Wir hätten etwas unternehmen können dagegen, wir wollten nichts dagegen unternehmen. Wir sollten aufhören uns zu beschweren. Wir sind alle das Problem.",
     "username" : "Physical-Result7378",
     "timestamp" : "2024-12-22T10:25:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "085fedda-f291-48a3-a420-a6ee0a35ba63",
     "body" : "Es ist sowas von zum Kotzen. Beim Salon Irkutsk in Schwabing gabs mal ein ähnliches Drama, nur ohne Fußball. Der musste ein halbes Jahr lang auch um 22 Uhr schließen und konnte nur wirtschaftlich überleben, weil der Besitzer genügend Rücklagen hatte. (Um sich neben dem verkürzten Barbetrieb ganz nebenbei auch noch die geforderte lärmreduzierende Sanierung zu leisten.)\n\nIch HASSE solche Leute wie die Pest. Gesellschaftliches Zusammenleben ist manchmal mit Lautstärke verbunden. Wenn du so ein lärmempfindlicher Pedant bist, zieh auf ein scheiß Dorf und versauer in deiner Einsamkeit. Realrap, diese Leute verdienen eine Pissplatte unter ihrer Wohnungstür.",
     "username" : "LadendiebMafioso",
     "timestamp" : "2024-12-22T08:11:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "841c6796-991e-4b2a-b7a6-6920b7079efc",
     "body" : "Das ist so scheiße und ein Hauptgrund warum München kulturell verarmt. Richtig viele tolle Bars mussten schon schließen, weil die Leute in eine überteuerte Wohnung mitten in der Stadt ziehen und sich dann über Lärm beschweren. Als Ordnungsamt müsste man halt man sagen: \"selber schuld\".",
     "username" : "invest-interest",
     "timestamp" : "2024-12-22T08:25:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "614193b5-d4d1-4edc-ba78-7bb8b3e35b59",
     "body" : "Was heißt Versuch? Klappt doch wunderbar. Hat im Irkutsk auch genauso funktioniert. Und das kvr macht gerne die Drecksarbeit für die Hurensöhne.",
     "username" : "kekbooi",
     "timestamp" : "2024-12-22T12:55:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d5dba486-9218-4547-b393-834ef27bab42",
     "body" : "Dennoch bekommen die oft Recht vor Gericht. Und das ist ein globales Problem. In Auckland, Neuseeland, werden seit Jahrzehnten den Western Springs Soeedway immer mehr Auflagen und Einschränkungen aufgelegt, und es wird immer wieder versucht per Gericht eine Schließung der Anlage zu erzwingen. Wieso? Weil sobald die Anlage schließen würde, die Haus Preise dort um 20-30% nach oben springen würden, und bei durchschnittliche Hauspreise von weit über eine Million NZD sich das für Besitzer richtig lohnt.",
     "username" : "RamuneRaider",
     "timestamp" : "2024-12-22T14:34:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "554bd1b5-3297-4e2a-9db3-8917ee2f2661",
     "body" : "Yuppies haben noch nicht genügend Hass im Leben erfahren.",
     "username" : "LadendiebMafioso",
     "timestamp" : "2024-12-22T08:36:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f80c7bae-61cf-4167-9201-ad13a917ea5c",
     "body" : "Ganz ehrlich? Kann ich schon verstehen, wenn man in der früh raus muss um sein Geld für sich arbeiten zu lassen... :D",
     "username" : "wstdsgn",
     "timestamp" : "2024-12-22T11:12:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c22f7d60-7d0f-4b47-a080-941ce3d340d6",
     "body" : "Das ist verständlich, er muss Sonntags früh hoch um ja sein Frühstücksyoga nicht zu verpassen.",
     "username" : "ziplin19",
     "timestamp" : "2024-12-22T11:14:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d8978ab2-fc44-473a-a502-55b0d074da64",
     "body" : "Google mal nach Fürth und Gustavstrasse. Da wollten diese Spezialisten eine ganze Kneipenstrasse schließen lassen.",
     "username" : "Wise_Television_8173",
     "timestamp" : "2024-12-22T10:10:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7f8e41c1-d934-4bcf-9fe1-7c9b21c38a48",
     "body" : "Warum so nachsichtig? Das hat dieser Abschaum nicht verdient.",
     "username" : "kekbooi",
     "timestamp" : "2024-12-22T13:08:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8a252d66-3daa-4ac6-8309-2730736e93ab",
     "body" : "Der Eigenbedarf von Wohnungen wird in Deutschland sowieso schmutzig nach Wetterlage durchgesetzt, der Vermieter hat \"leider\" eine Änderung der Lebenssituation und sein adoptierter Onkel aus dem Uralgebirge braucht die Wohnung.",
     "username" : "michael0n",
     "timestamp" : "2024-12-23T06:53:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8bd14963-b316-4e2a-ad7d-630b3ad10d7d",
     "body" : "Da gibt es seit 2011 einen Kindergarten der sich ständig mit juristisch kreativen Stumpf-Nachbarn [kabbeln](https://archive.ph/NUedQ) darf. Das Argument ist klar, der Wert für die Häuser steigert sich merklich wenn es keine Berieselung durch spielende Kinder gibt. Es gibt also einen direkten Vorteil diese Klagen weiter durchzuführen.",
     "username" : "michael0n",
     "timestamp" : "2024-12-23T07:00:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5059353c-16ca-4675-a54e-6bc9eb81ceed",
     "body" : "Lol. Der Vergleich zwischen Lärm wegen gesellschaftlichem Zusammenleben und buchstäblichem Missbrauch und sexueller Belästigung ist nicht nur gewollt konstruiert, sondern auch extrem beschämend.",
     "username" : "LadendiebMafioso",
     "timestamp" : "2024-12-22T09:36:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "04e46e9a-e9af-4027-b5b1-02538aac17e4",
     "body" : "Den Vergleich finde ich grenzwertig. Das eine ist eine Fußballkneipe, in der es mal laut wird, das andere Frauen mit (ich glaube es waren Kuhhörner?) verdreschen",
     "username" : "MaleficentVehicle705",
     "timestamp" : "2024-12-22T09:00:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1233ae6b-b85c-4f2e-85c9-b6be21bf3ead",
     "body" : "Inwiefern?",
     "username" : "dennhemm",
     "timestamp" : "2024-12-22T11:09:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7f87d7a1-d9f6-43f5-a4bf-a99a5120d817",
     "body" : "Solche Leute sind überall scheisse, auf dem Dorf sind es dann die [Kuhglocken](https://www.merkur.de/welt/laerm-klage-abgewiesen-kuhglocken-duerfen-weiter-laeuten-zr-91921674.html)",
     "username" : "living_rabies",
     "timestamp" : "2024-12-22T08:47:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a0f98987-568b-47c4-a9d3-fe1b3e49adb2",
     "body" : "Ich kann an diesen Posts nicht vorbei, ohne zu berichten, wie in Wien einer ganz stolz erzählt hat, dass er es jetzt nicht mehr weit bis in unser Stammlokal hat, weil er sich drüber eine Wohnung genommen hat. Drei Tage später begannen die Polizei Auftritte, die zuvor nie stattgefunden hatten, \"ein Nachbar habe sich beschwert\". 4 Monate später hat der Wirt entnervt aufgegeben und zugesperrt \nFucking wankers.",
     "username" : "zerenato76",
     "timestamp" : "2024-12-22T09:47:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9c9d639a-b00a-4dea-b84b-665ab94ce5fe",
     "body" : "Das Problem ist doch eher das KVR, dass auf solch asoziales Gesindel hört.",
     "username" : "kekbooi",
     "timestamp" : "2024-12-22T12:57:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "73649644-c584-4ec5-8fa5-3e7f96dc751e",
     "body" : "Ach, seit wann dürfen die im Irkutsk wieder länger? Habe das nicht mehr verfolgt/mitbekommen.",
     "username" : "nonzero_",
     "timestamp" : "2024-12-22T17:01:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8c426297-87a9-4cdc-a64a-98e55e7f9a0a",
     "body" : ">Wenn du so ein lärmempfindlicher Pedant bist, zieh auf ein scheiß Dorf und versauer in deiner Einsamkeit. Realrap, diese Leute verdienen eine Pissplatte unter ihrer Wohnungstür.\n\nDas Problem ist halt, die Makler sind da nicht wirklich ehrlich (oder wissen es nicht besser) was es die Lärmbelästigung durch nahe Gastronomie angeht. Und die \"Zugezogenen\" wissen's auch nicht besser, sind meist froh *überhaupt* eine Bude gefunden zu haben und können sich einen weiteren Umzug weder nervlich noch finanziell leisten.\n\nAm Ende ist es halt hier wieder wie so oft, der Mangel an Wohnraum ist die Hauptursache.",
     "username" : "mschuster91",
     "timestamp" : "2024-12-22T10:41:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "54471a2c-5910-4bf4-bb6d-ac8eaf428257",
     "body" : "Du bist in der Kneipe ein mal in der Woche vielleicht. Die Nachbarn sind dort jeden Tag",
     "username" : "NimbleWorm",
     "timestamp" : "2024-12-22T08:44:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1cd73a23-fc91-4334-9cc9-5bd0c84f2844",
     "body" : "Da müssen die Lowperformer mal an ihrem Mindset arbeiten, dann könnten sie das auch nachvollziehen!",
     "username" : "UnlikelyLikably",
     "timestamp" : "2024-12-22T11:52:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c5536488-933e-4e77-9750-b38482b76c57",
     "body" : "Hat's der Typ danach nicht auch in Gostenhof oder woanders in Nürnberg versucht?\nVor allem Wohnung gekauft, nicht selbst bewohnt und trotzdem geklagt. Sofern ich das richtig im Kopf habe. \nDas war einfach ein armseliger Mensch, der anderen keinen Spaß gönnt.",
     "username" : "molotov0815",
     "timestamp" : "2024-12-22T22:01:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1441c416-c444-41a6-bd15-bf82c88b1576",
     "body" : "Es geht nur um Vorschriftswidriges verhalten dass nicht willkürlich durchgehen lassen werden kann „weil war immer so“. Abstrahieren bitte. Schade dass unsere Politik hier keine brauchbaren Regelungen finden konnte, ist wohl zu schwierig",
     "username" : "milbertus",
     "timestamp" : "2024-12-22T09:45:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "00427c38-0f55-495b-abd8-6a53080628d5",
     "body" : "Aus verwaltungstechnischer Sicht ist beides verboten. Darum sage ich ja die Politik muss hier vernünftige Vorschriften erlassen und nicht willkürlich unter den Tisch fallen lassen.",
     "username" : "milbertus",
     "timestamp" : "2024-12-22T09:28:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9b302fc5-5094-42c1-9f24-8f6dfc77db3a",
     "body" : "Wie lange regiert die CSU nun schon in Bayern?",
     "username" : "Physical-Result7378",
     "timestamp" : "2024-12-22T14:29:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fc4934f2-17c8-4dac-8663-497207b01a46",
     "body" : "Oder wie in Rottach, als sich ein Düsseldorfer darüber beschwerte dass die Bäckerei ihn mit ihrem Geruch belästigte. \n\nAber ist ja klar, wenn ich 5000€ oder auch mehr pro qm für eine Wohnung bezahle, will ich den Geruch vom frisch gebackenen Brot nicht riechen…",
     "username" : "swedething",
     "timestamp" : "2024-12-22T09:39:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f95e3683-7265-4c4a-8db3-54b147da4e38",
     "body" : "Wobei Kuhglocken auf einer eingezäunten Weide auch irgendwie Irrsinn sind.",
     "username" : "Oekogott",
     "timestamp" : "2024-12-22T21:33:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "22270d7d-ef7c-4c7c-8321-f2b108fcd2e6",
     "body" : "Deswegen sollte man sich die Wohnung anschauen, bevor man einzieht. Wenn ich über eine Kneipe ziehe, brauche ich mich über Kneipengeräusche nicht zu beschweren.",
     "username" : "MaleficentVehicle705",
     "timestamp" : "2024-12-22T08:59:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "62c32fa7-f072-4a8a-9055-f245e46ea90e",
     "body" : "Tja. Und andere sind jeden Tag ein Arschloch. Aber das ist eine bewusste Entscheidung, genau wie über ne Kneipe zu ziehen und sich danach über Lärm aufzuregen. So wie du.",
     "username" : "kekbooi",
     "timestamp" : "2024-12-22T13:00:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1418299f-a206-4246-981a-6787b949d01b",
     "body" : "Jokes on you, ich bin jeden Tag in der Kneipe, weil ich ein hoffnungsloser Alkoholiker bin. /s\n\nNein, aber im Ernst: Das ist ironisch, weil ich tatsächlich über einem italienischem Restaurant wohne, in dem die High Society jeden Abend bis 1 Uhr laut gackernd feiert. Was soll ich sagen? Das Restaurant war vor mir da und ich gönne es Leuten, Spaß zu haben. Ist doch besser, als wenn sich alle depressiv anschweigen. Es war bis jetzt noch nie der Fall, aber wenn es wirklich mal zu arg wird, hab ich auch noch Ohrstöpsel in der Wohnung liegen. Die sollen angeblich Wunder helfen.",
     "username" : "LadendiebMafioso",
     "timestamp" : "2024-12-22T08:50:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9388e21a-be57-4c0e-b788-38fea517ddb1",
     "body" : "Als ich ihn ihrem Alter war hatte ich bereits zwei Startups, da war nichts mit Geburtstag feiern in der Gartenlaube",
     "username" : "wstdsgn",
     "timestamp" : "2024-12-22T12:36:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "79185ad4-cdaf-40e2-8ec3-c1f03f63f482",
     "body" : "Selten dämliche Aussage.. die Mehrheit hat eben dafür gestimmt. Du scherst mit deiner Aussage alle über einen Kamm. Was sollen wir denn alle deiner Meinung nach tun?",
     "username" : "dennhemm",
     "timestamp" : "2024-12-22T14:41:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1caf523c-9774-4e02-ba1f-050259de718a",
     "body" : "Es ist bekannt, wer die Stadt München seit Jahrzehnten regiert, oder?",
     "username" : "medi132",
     "timestamp" : "2024-12-22T16:28:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "aa6ac65e-5a0f-4d76-80ed-45b7c6466b5b",
     "body" : "Im Artikel steht jetzt nichts von eingezäunt, oder?. Zudem hängt es ja von der Größe ab? Die meisten Kuhweiden sind zudem eingezäunt, selbst auf den Almen.",
     "username" : "living_rabies",
     "timestamp" : "2024-12-22T21:58:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5ae8fd3b-070d-4b23-b6ec-839b756679e0",
     "body" : "Aufhören die CSU zu wählen wäre schon mal ein Anfang, so generell. Wird aber in Bayern nicht passieren.",
     "username" : "Physical-Result7378",
     "timestamp" : "2024-12-22T14:41:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4593a464-9374-4005-ba5a-60f1b3fc4145",
     "body" : "Ja, aber die Stadt kann da wenig machen, da die CSU ohnehin alles sinnvolle blockiert.",
     "username" : "Physical-Result7378",
     "timestamp" : "2024-12-22T16:50:44Z"

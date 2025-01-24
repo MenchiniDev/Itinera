@@ -1,5 +1,5 @@
 {
-  "postId" : 200193,
+  "_id" : "ef301365-1e53-4c05-85ba-aed37adfa511",
   "community" : "Krakow",
   "username" : "Gamebyter",
   "post" : "Uniwersytecki Szpital Dziecięcy w Krakowie mocno ogranicza odwiedziny pacjentów. Liczba chorych na grypę cały czas rośnie",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "fd38004b-0b94-4a54-a945-fff6987c8079",
     "body" : "Jak wyjaśnia nam rzecznik lecznicy: - Ograniczenia obowiązują cały szpital, bez wyjątków.\n\n- Jesteśmy w okresie zwiększonych infekcji, zwłaszcza powodowanych wirusem grypy. W całym miesiącu - listopadzie - odnotowaliśmy 40 przypadków zachorowań na grypę wśród pacjentów zgłaszających się do Szpitalnego Oddziału Ratunkowego USDK, a od początku grudnia do dnia wczorajszego, 18 grudnia, mamy - samych przypadków grypy zgłoszonych przez SOR - już 114. Musimy chronić naszych pacjentów, ograniczyć im narażenie na kontakt z wirusem. Stąd decyzja o ograniczeniu odwiedzin - wyjaśnia Katarzyna Pokorna-Hryniszyn.",
     "username" : "Gamebyter",
     "timestamp" : "2024-12-23T08:09:57Z"

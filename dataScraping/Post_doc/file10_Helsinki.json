@@ -1,5 +1,5 @@
 {
-  "postId" : 200404,
+  "_id" : "afc8fcf4-a241-41ad-a13c-5b86dc843653",
   "community" : "Helsinki",
   "username" : "Entire_Deal_4346",
   "post" : "Finnish Souvenirs",
@@ -8,41 +8,49 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "561e1d2d-3c5c-4d41-96a9-ffe65c8bac34",
     "body" : "My go-to gift is Cloudberry jam and/or Cloudberry liquor. People who have never been to the Nordics have not heard of, let alone tasted, cloudberries, so it’s a real experience for them (invariably leading to checking on the Internet what cloudberries are, etc).",
     "username" : "Telefinn",
     "timestamp" : "2024-12-22T18:02:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "80558f80-07a3-4fdb-a24f-b274fa40711d",
     "body" : "Different kinds of fazer chocolate is always a good idea. Finnish teablends could be interesting but they are kinda basic.",
     "username" : "Onnimanni_Maki",
     "timestamp" : "2024-12-22T15:13:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ebd95ac0-cd82-4384-b493-45b8d8cce5c0",
     "body" : "If anyone likes licorice  -  “Kouvolan lakritsia” is a good choice. It can be found in most food stores.",
     "username" : "Impressive-Sky2848",
     "timestamp" : "2024-12-22T16:38:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "24be6d33-e815-4b67-bd42-a3d0c5cf0b36",
     "body" : "Good recommendation. It's a very unique taste, as well.",
     "username" : "feli468",
     "timestamp" : "2024-12-22T22:39:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8e5dca82-45f1-48ba-bcf6-09a60af141ac",
     "body" : "This is what I do too, and if possible some leipäjuusto to go with the jam. ",
     "username" : "kalaneuvos",
     "timestamp" : "2024-12-23T05:35:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0a37ccbb-2d56-4dc5-92f8-a7a8452d037f",
     "body" : "Second Fazer chocolate.",
     "username" : "strykecondor",
     "timestamp" : "2024-12-22T15:14:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1974d37c-59ba-46cb-b809-2b19575348b6",
     "body" : "Fazer Chocolate is the Hershey Bar of Finland. It’s chocolate all right, but not the premium stuff you may think it is. For that, turn to Belgian and Swiss manufacturers. Fazer even cheapened their recipe this year.",
     "username" : "DiskKiller2",
     "timestamp" : "2024-12-22T18:18:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e39405ce-58ef-4d8c-acba-a3ac44ec0479",
     "body" : "Porvoon lakritsi is even better.",
     "username" : "Onnimanni_Maki",
     "timestamp" : "2024-12-22T18:20:09Z"

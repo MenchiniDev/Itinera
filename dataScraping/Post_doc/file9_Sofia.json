@@ -1,5 +1,5 @@
 {
-  "postId" : 200352,
+  "_id" : "4a1e4de8-29a0-4ede-bcd9-4fb47065a948",
   "community" : "Sofia",
   "username" : "Lopsided_Nothing9533",
   "post" : "Learning bulgarian",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "baabb691-8f6d-44cb-a6da-ee32b626ae31",
     "body" : "There's a facebook group called Foreigners in Sofia & Friends. Might be easier finding the right type of people there.",
     "username" : "CautiousRice",
     "timestamp" : "2024-12-22T23:50:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d2ba3e86-52c6-43b2-9cbd-1c3d8cb58cfb",
     "body" : "Maybe check out this guy I guess\n\n[https://www.reddit.com/r/Sofia/comments/1hg9key/meeting\\_new\\_people/](https://www.reddit.com/r/Sofia/comments/1hg9key/meeting_new_people/)",
     "username" : "ViktorKitov",
     "timestamp" : "2024-12-22T23:56:00Z"

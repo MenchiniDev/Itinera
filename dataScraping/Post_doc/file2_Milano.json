@@ -1,5 +1,5 @@
 {
-  "postId" : 200041,
+  "_id" : "08de1eec-21de-443b-978c-ea26123890b6",
   "community" : "Milano",
   "username" : "Bakura92",
   "post" : "Milano vieta il fumo di sigaretta per strada dal 1 gennaio 2025",
@@ -8,326 +8,391 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "b00c6a33-1321-4dad-8011-875791b4b318",
     "body" : "Prendo il suburbano e a porta Venezia c'è sempre chi fuma in banchina...nella stazione sotterranea!",
     "username" : "giancul",
     "timestamp" : "2024-12-16T19:33:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0ecc8775-ccfa-429e-bb00-8b8d625ee8ed",
     "body" : "Finalmente! Io direi pure multa a chi butta i mozziconi per strada.. è ormai un second layer dopo il cemento",
     "username" : "SamsBeckett",
     "timestamp" : "2024-12-16T18:32:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2cbdf5b5-2330-4eb0-a131-2251cde67201",
     "body" : "Si sarebbe bello vedere quante persone verranno effettivamente multate... Se almeno i ristoranti faranno valere la regola sarà una grande vittoria.\nIo sono anni che non mangio all'aperto al ristorante perché c'è sempre quello di fianco che decide di rovinare la sua e la mia cena fumando",
     "username" : "Bencio5",
     "timestamp" : "2024-12-16T17:32:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c33a4db2-5216-414a-b772-b84a72995810",
     "body" : "La motivazione di ridurre le emissioni di co2 è veramente ridicola.",
     "username" : "taxig",
     "timestamp" : "2024-12-16T19:05:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4e69f91f-925a-4409-89d7-5d49b29a7132",
     "body" : "la merda e la piscia di cane (e umani) sui marciapiedi però no.",
     "username" : "bravotipo",
     "timestamp" : "2024-12-16T20:31:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4051b9fa-1145-47af-8aad-301745b36572",
     "body" : "Puoi fare tutte le leggi che vuoi ma senza controlli ciaone",
     "username" : "ilviggo",
     "timestamp" : "2024-12-16T22:02:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ce809aa8-3ee1-463e-8286-d11dab0951a8",
     "body" : "Prima cosa buona fatta da Sala in 10 anni, godo come un riccio",
     "username" : "davide494",
     "timestamp" : "2024-12-17T08:53:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c95ae597-5382-4cee-8908-751b70fba7cf",
     "body" : "Lo aggiungiamo alla lista di leggi che nessuno rispetta perché a Milano non esiste alcun controllo",
     "username" : "Undoxxxxable",
     "timestamp" : "2024-12-19T20:15:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "38481523-a5e4-4f2f-976e-ef3017df1fae",
     "body" : "Lol\nA parte nel centro chi cazzo controlla?\nDai facciamo i bauscia con questa pirlata",
     "username" : "demiandclxvi",
     "timestamp" : "2024-12-16T17:51:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d655767c-999a-4784-8419-89c983ceb5ff",
     "body" : "Beh, penso che il fumo in pubblico dovrebbe essere completamente vietato. Come fumatore, evito di fumare in pubblico perché una volta ero anche un non fumatore e odiavo quando altre persone fumavano in giro. 🙂",
     "username" : "Ok_Adagio_7521",
     "timestamp" : "2024-12-17T06:26:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "941b0bf8-9168-4ed7-b1fb-01e4eed1a24f",
     "body" : "Vietare il fumo per strada per impedire che buttino i mozziconi in giro è un po' estremo, ma abbastanza giusto. Comunque multare chi butta i mozziconi di sigaretta per la strada è semplice:\n\n1. Ordinanza che obbliga chi fuma ad avere con sé un posacenere tascabile\n\n2. Chi viene visto da un vigile o poliziotto fumare in strada deve avere il posacenere con sé. In caso contrario, multa.\n\n  \nI mozziconi di sigaretta che finiscono ogni giorno nelle fognature, nei canali, nei fiumi e nel mare sono tonnellate. Ogni mozzicone pesa 1 grammo circa. Un milione di fumatori producono diverse tonnellate di mozziconi al giorno.",
     "username" : "Benzinazero",
     "timestamp" : "2024-12-18T10:12:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7fe0be9a-54af-4443-8b49-c4e3b2674af8",
     "body" : "Splendido, così le mie colleghe tabagiste perennemente incazzate lo saranno ancora di più",
     "username" : "drpbrock",
     "timestamp" : "2024-12-16T17:42:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a04829a9-e4b1-415d-8498-94a10676a79b",
     "body" : "I thought it was already banned in some way, but this is molto bene :) tired of fumo in my face from some tezio maleducato porco...",
     "username" : "thecoolestpickle",
     "timestamp" : "2024-12-17T00:10:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0cdc732e-d1eb-4de6-863e-489ff8d7ec49",
     "body" : "L'ennesima inutile legge in questo paese pieno fino all'orlo di leggi, decreti e regolamenti inutili. Tra questo e quella troiata colossale di nuovo codice della strada della minchia mi viene voglia di emigrare\n\nUna nota per chi lavora a palazzo marino: uscite dalle vostre gabbie dorate, venite con il vostro autista privato a Quarto Oggiaro alla fermata della 57 a dire all'operaio che non può fumarsi la sigaretta alla mattina prima di andare al lavoro e vedete cosa vi risponde. \n\nChe teste di cazzo",
     "username" : "RadialPrawn",
     "timestamp" : "2024-12-16T18:37:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7365d4e8-c705-4446-8eaa-5756d48e47a3",
     "body" : "Non era già in vigore da 3 anni? Mi sembra di avere le traveggole.",
     "username" : "logosfabula",
     "timestamp" : "2024-12-16T18:42:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "90dcedfa-a449-4748-9058-e2f039b6613a",
     "body" : "Non mi aspetto che venga rispettata",
     "username" : "mark_lenders",
     "timestamp" : "2024-12-18T00:36:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bf6ef65e-3d78-4a2f-b883-9bce8b8f6324",
     "body" : "Vale anche per sigarette elettroniche e quelle che puzzano di culo?",
     "username" : "Street-Inspectors",
     "timestamp" : "2024-12-19T01:08:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "47db0d62-db38-43b7-876a-aa5202109710",
     "body" : "Sarebbe vietato fumare anche dentro San Siro dal 2021, ma il rispetto viene demandato agli steward che vengono presi a insulti e schiaffi persino in tribuna dalla gente vestita bene. Fumatori razza terribile. Se il Comune di Milano volesse tirare su 1 milione di euro per qualche progetto speciale dovrebbe soltanto mettere 1 vigile per anello a San Siro ogni domenica.",
     "username" : "_Sparagnino_",
     "timestamp" : "2024-12-19T09:21:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "07bc6b43-46d3-4914-86d1-33cc8d809061",
     "body" : "Sto preparando il fucile per tirar giù chiunque si avvicini mentre sto fumando, lol",
     "username" : "LuBrigante",
     "timestamp" : "2024-12-21T09:33:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fec531a6-8a6a-41e6-a362-b8aa3999ad83",
     "body" : "C'è un link sul sito del comune?   \nMi piacerebbe capire se c'è un \"buco\", perchè in tutti gli articoli si parla di \"fumo di sigaretta\", senza menzionare sigari e pipe.",
     "username" : "cfwoo",
     "timestamp" : "2024-12-21T10:13:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f5325187-4eff-402c-b644-85321646300e",
     "body" : "finalmente",
     "username" : "Justalbypt",
     "timestamp" : "2024-12-21T21:53:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "64d1721a-8a8a-42a5-9dc4-205edd879192",
     "body" : "ennesimo provvedimento inutile per spostare l'attenzione.\n\ni 10 metri sono da qualsiasi persona?se uno mi si avvicina devo scappare? come verrano controllate le distanze? se voglio fumarmi una sigaretta in sempione durante l'aperitivo devo andare sotto il ponte della ghisolfa, dove li trovo 10 metri intorno a me?\n\nSe proprio vuoi fare un provvedimento del genere fammi le zone fumatori come in giappone.",
     "username" : "ObviousResource5702",
     "timestamp" : "2024-12-17T09:59:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5e819921-cade-4b39-af73-25c41f513223",
     "body" : ">Il fumo di sigaretta, secondo i dati di Arpa Lombardia riportati dal Comune, è infatti responsabile del 7% delle emissioni di polveri sottili, quindi danneggia tutti, non solo i fumatori.\n\nSette per cento!!   \nDa fumatore posso capire il fastidio.. ma così mi prendi per il culo e basta!",
     "username" : "Marzi0",
     "timestamp" : "2024-12-16T20:03:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "de0899c3-5c55-47e9-b32f-34277b08acea",
     "body" : "Me ne fregherò allegramente, tanto cosa mi fanno? La multina?",
     "username" : "Docttor_Zoidberg",
     "timestamp" : "2024-12-16T18:22:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0a6148ed-43e6-46dc-b211-690f68c50c10",
     "body" : "Continuerò a fumare bellamente in fermata",
     "username" : "BurdPitt",
     "timestamp" : "2024-12-16T19:53:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "92076a40-0eed-4910-a108-0f6fb37928e7",
     "body" : "Il passante è terra di nessuno",
     "username" : "WalkMyself",
     "timestamp" : "2024-12-16T20:17:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9bded5d8-226a-4374-ba1c-10024b001e50",
     "body" : "Eccomi",
     "username" : "Sangue_digiuda",
     "timestamp" : "2024-12-16T20:09:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "82a8a2ea-23d4-4958-826b-e36229ed0c85",
     "body" : "È già illegale… da qui a fare la multa non so quanto sia fattibile per tutti",
     "username" : "appropriate-sidewalk",
     "timestamp" : "2024-12-16T18:33:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "508f0bdd-2235-4101-958a-5b8f7ba72966",
     "body" : "O mettiamo le videocamere a biometria facciale come in Cina, oppure non ci liberemo mai di questi comportamenti ormai interiorizzati dall'italiano medio.",
     "username" : "BrodoDeluxe",
     "timestamp" : "2024-12-18T14:49:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8c64aa85-a2e5-4784-b37c-6553e6d3cd89",
     "body" : "Che fastidio cazzo. Già se la rispettassero bar e ristoranti la qualità della vita migliorerebbe di brutto. \nOggi molti non lo ricordano, ma quando si poteva fumare nei ristoranti, nei cinema e nei locali era un incubo. Senza divieti la gente semplicemente quel minimo di rispetto non ce l'ha.",
     "username" : "uspinji",
     "timestamp" : "2024-12-16T21:01:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0807f774-af2e-40d9-aba9-b890c7df0a24",
     "body" : "Mamma mia una volta ho fatto una litigata con uno stronzo perché fumava come un turco di fianco a noi, poi ora di pagare il conto vedo che si alza e viene alla cassa.. Era il proprietario! Un coglionazzo, zero rispetto per le regole e i clienti.",
     "username" : "jacksp666",
     "timestamp" : "2024-12-18T00:56:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "606ed85e-2df8-4e31-b8eb-2c811f62a51d",
     "body" : "Prepariamoci alle sigarette col FAP",
     "username" : "lo11o",
     "timestamp" : "2024-12-16T20:57:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ac100c10-0089-46f3-8c2c-35a168b8256f",
     "body" : "non la vedo menzionata nell'articolo",
     "username" : "jacopofar",
     "timestamp" : "2024-12-16T19:48:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7c4261fd-c10b-48ad-adfe-4a8ad30c1b2e",
     "body" : "La pipi no ma la cacca è vietato non raccoglierla. Poi che non vengano fatte multe è un altro discorso.",
     "username" : "jacksp666",
     "timestamp" : "2024-12-18T00:58:34Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2a36c0b1-d894-474e-9244-3541933ad3cd",
     "body" : "E i marò?",
     "username" : "Glum_Manager",
     "timestamp" : "2024-12-19T12:10:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "24daeb74-9d28-40a6-b4b0-9e0b71c6fcb8",
     "body" : "Yeah io agree con you, mi sono broke the cazzo",
     "username" : "y39oB_",
     "timestamp" : "2024-12-17T05:26:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b3ffc756-d5c9-495b-ba96-64c24e27f457",
     "body" : "Magari l'operaio di Quarto Oggiaro potrebbe pensare alla studentessa non fumatrice mezza addormentata che gli sta accadento e che condivide una vita difficile, e adesso più difficile per colpa sua. Se chi pensa di fare una vita misera si sente per questo in diritto di fare danno al prossimo, sarà sempre una guerra tra poveri. Se invece ci rispettiamo a vicenda, la vita migliorerà per tutti. ",
     "username" : "Aines",
     "timestamp" : "2024-12-17T04:04:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dd05882d-08af-4bc1-875e-d7a941c31853",
     "body" : "Che commento retrogrado, uno non può fare un lavoro manuale ed essere rispettoso degli altri? Poi tanto si sa che il cestino è per terra e ci lamentiamo del degrado",
     "username" : "Kalicolocts",
     "timestamp" : "2024-12-16T19:08:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dbba7905-c95a-4c10-89bb-973dfcecde14",
     "body" : "Non dice che l'operaio non può fumare... Dice che se deve fumare lo fa lontano dagli altri senza apprestare il prossimo...",
     "username" : "Bencio5",
     "timestamp" : "2024-12-16T19:18:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c7ebfacb-042e-4c91-a7d3-a2b82e8d8791",
     "body" : "Alla fermata della 57 sarebbe già vietato da anni",
     "username" : "mark_lenders",
     "timestamp" : "2024-12-18T00:39:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "07d0b562-0e4b-4227-8836-d782dfed9c5d",
     "body" : "Concordo in tutto e per tutto",
     "username" : "Malobestin0",
     "timestamp" : "2024-12-16T18:50:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "90c7e7d2-50f0-416d-aa66-ce83c1b36844",
     "body" : "Non ti confondi con il divieto di fumo alle fermate dei mezzi e dei parchi?\n\n[https://www.fanpage.it/milano/da-oggi-a-milano-sara-vietato-fumare-alle-fermate-dei-tram-e-dei-bus-e-nei-parchi/](https://www.fanpage.it/milano/da-oggi-a-milano-sara-vietato-fumare-alle-fermate-dei-tram-e-dei-bus-e-nei-parchi/)",
     "username" : "Malobestin0",
     "timestamp" : "2024-12-16T18:51:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "502dea72-7970-4c78-80e4-3cd69d27ddf6",
     "body" : "No, per quelle no",
     "username" : "LuBrigante",
     "timestamp" : "2024-12-21T09:32:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "87a5c1d1-31d9-47cb-ba6d-c4bdc2040654",
     "body" : "[removed]",
     "username" : "None",
     "timestamp" : "2024-12-16T19:48:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cf835cbf-6b4b-4f34-afde-141cbdc77c77",
     "body" : "Fintanto che quei sacchettini rinsecchiti con cui respiri ti reggono",
     "username" : "_TobiIsAGoodBoy_",
     "timestamp" : "2024-12-17T09:28:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b0349d7d-847f-4abf-bbe8-a8839f26fc70",
     "body" : "Ma seriamente vi sentite fighi a trasgredire le regole intossicando gli altri, per giunta? E' vietato da alcuni anni fumare dove c'è una fermata bus o sulla banchina della metro.",
     "username" : "Bakura92",
     "timestamp" : "2024-12-16T20:14:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fc8e8e9a-5cef-4c53-9cc8-fe5843222276",
     "body" : "Pezzo di fango",
     "username" : "Ym4n",
     "timestamp" : "2024-12-16T21:02:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "aeffb9b6-d23d-4b22-802d-04e88f7b650e",
     "body" : "Sei fortunato a non avermi beccato, io chiamo le guardie della stazione e i fumatori fanno una bella figura di cacca, quante soddisfazioni.",
     "username" : "Bakura92",
     "timestamp" : "2024-12-16T20:15:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2702de25-8218-4605-be71-6254f496c54e",
     "body" : "Lol mi ricordo quando fu introdotto il divieto di fumare nei locali non mi sembrava una ricca così importante poi mi resi conto che prima di allora non avevo mai visto il soffitto del pub dove Abano ogni settimana",
     "username" : "Bencio5",
     "timestamp" : "2024-12-17T06:17:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f24acf10-f811-40bb-ae4b-b58e98fd6959",
     "body" : ">Il fumo di sigaretta, secondo i dati di Arpa Lombardia riportati dal Comune, è infatti responsabile del 7% delle emissioni di polveri sottili, quindi danneggia tutti, non solo i fumatori.\n\nil 7% mahh",
     "username" : "Marzi0",
     "timestamp" : "2024-12-16T20:00:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "176e5c29-c373-410d-9734-97c0dbdc7800",
     "body" : "Che poi mi son sempre chiesto perché non c'è alcuna norma per il piscio. Cioè fa schifo quanto la merda e deve essere pulito dai padroni.",
     "username" : "BrodoDeluxe",
     "timestamp" : "2024-12-18T14:54:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b44d43b0-4b42-4164-9aa1-b42c6453d280",
     "body" : "Grazie ☺️",
     "username" : "logosfabula",
     "timestamp" : "2024-12-16T19:15:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fdaffafc-19c9-4884-9587-cc60e97ec801",
     "body" : "L-le guardie d-della stazione?😰",
     "username" : "Sangue_digiuda",
     "timestamp" : "2024-12-16T20:17:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b455450b-78b3-486f-bc46-58dd09a25931",
     "body" : "Già solo il non dover buttare tutto in lavatrice dopo ogni serata fuori era stata una rivoluzione",
     "username" : "mark_lenders",
     "timestamp" : "2024-12-18T00:37:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "00fd889f-1bbd-481b-9934-2f91521e790f",
     "body" : "Sono numeri buttati a caso. Sono strasicuro che il 90% delle emissioni sia generato da quella tabagista della mia ex. Non c'è nessuna vecchia caldaia in grado di batterla.",
     "username" : "Hungry_War_2290",
     "timestamp" : "2024-12-16T20:02:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7ef1bbb1-a425-4483-ae7a-f313a7302ac0",
     "body" : "Si, sembra una cifra decisamente poco credibile",
     "username" : "WalkMyself",
     "timestamp" : "2024-12-16T20:18:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "732f26af-6abb-49b8-9e0c-66cb2051f934",
     "body" : "Ma sono polveri sottili, è un'altra cosa",
     "username" : "jacopofar",
     "timestamp" : "2024-12-16T21:34:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b6e1a762-6897-436b-99d4-3f979f48f41c",
     "body" : "Perché la pipi anche in gran quantità con la pioggia o comunque un po' d'acqua va via, la cacca rimane e anzi diventa peggio.",
     "username" : "jacksp666",
     "timestamp" : "2024-12-18T15:58:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ecbd73ba-7c6f-49d1-8910-f1087823293d",
     "body" : "L'hai scampata per un pelo...",
     "username" : "2020Stop",
     "timestamp" : "2024-12-17T03:40:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7ccd322c-1b31-466b-a5fc-7fdc5f21a33b",
     "body" : "lol",
     "username" : "Marzi0",
     "timestamp" : "2024-12-16T20:04:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2007cdd3-7780-4116-ae2e-ef6b06593e50",
     "body" : "Più che altro non è che se fumo sul balcone di casa le emissioni non le faccio, ammesso che quel numero sia reale, e onestamente non ci credo molto.",
     "username" : "taxig",
     "timestamp" : "2024-12-16T20:50:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "66ee9e97-c4f5-4bfb-a711-636cd50ce4d8",
     "body" : "Hai ragione, ho sbagliato inquinante, ma la sostanza non cambia: se fumo a 10m dai passanti o sul mio balcone creo meno PM10?",
     "username" : "taxig",
     "timestamp" : "2024-12-16T22:37:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ad3c9b5e-84cc-4287-8651-2b369a436742",
     "body" : "Non vedo perché sia una giustificazione. Finché non piove rimane comunque lì, puzza e porta malattie e degrado. \n\nDovrebbero obbligare i padroni ad andare in giro con una bottiglietta d'acqua per lavarla immediatamente.",
     "username" : "BrodoDeluxe",
     "timestamp" : "2024-12-18T16:02:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "100b7ad0-a202-4ad1-9d8f-0d4c3a28ff6f",
     "body" : "Ma certo che le fai, ma il 7%??? Tra tutte le fabbriche, tir, riscaldamenti, trasporti e vattelapesa il 7% mi sembra errato di diversi ordini di grandezza",
     "username" : "WalkMyself",
     "timestamp" : "2024-12-18T00:36:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9a2ab467-4fa0-484d-bc33-dd60c919132e",
     "body" : "Sì, ci sta, ma tieni conto che la strada non è asettica anche senza bisogni dei cani, il motivo della multa credo sia più il mantenere il decoro piuttosto che prevenire malattie.",
     "username" : "jacksp666",
     "timestamp" : "2024-12-18T16:05:03Z"

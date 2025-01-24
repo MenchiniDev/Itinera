@@ -1,5 +1,5 @@
 {
-  "postId" : 200028,
+  "_id" : "194ba659-7d14-4016-9ffb-a896681bbd0f",
   "community" : "Bratislava",
   "username" : "Chance-Olive-1223",
   "post" : "Trains",
@@ -8,86 +8,103 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "09ecbb35-e592-4e22-a558-942875efc7bd",
     "body" : "I am looking at a train schedule and only train going to Vienna is international train to Zurich very early in the morning. \n\nOnly station that is serviced by trains to/from Vienna is in Petrzalka. \nIt is because of reconstruction of rails between Devinska Nova Ves(SK) and Marchegg(AUT), which is scheduled for completion in July 2025.\n\nIt goes every hour and you will be in Vienna in an hour.\nOther possible route is by bus.",
     "username" : "svjaty",
     "timestamp" : "2024-12-20T07:43:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6ed7f502-74ac-4508-a0d4-2459549ede16",
     "body" : "Bratislava Central Station (hlavna stanica) is currently not connected well with Vienna due to electrification works between Devínska Nová Ves and SK-AT border. So the north connection between Bratislava and Vienna does not work. You have to take the south route from Bratislava-Petržalka. You can take a bus 93 from Central Station or city center (President Palace) to Bratislava-Petržalka bus stop to get there. You do not need a bus ticket if you already have a valid train ticket from Bratislava to Vienna. The train leaves hourly at HH:16 and the journey takes 59 minutes.\n\nTaking a train is more comfortable than a bus.",
     "username" : "netroSK",
     "timestamp" : "2024-12-20T07:52:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ef3cbf41-22e0-4b09-8393-869b6f4a7e62",
     "body" : "Thank you very much for feedback and reply. Have a lovely day. 😇",
     "username" : "Chance-Olive-1223",
     "timestamp" : "2024-12-20T07:49:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "014a0dc1-99a1-4493-a5a1-721dfadb406d",
     "body" : "Hopefully I can catch the last train that leaves at 11:00 PM. My plane lands around 21:15/30 PM at Letishko. I expect I need less than an hour to get to Petrzhalka.",
     "username" : "Chance-Olive-1223",
     "timestamp" : "2024-12-20T07:56:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "08021caf-98c0-4b67-8253-3ef1a417debb",
     "body" : "oh, from Bratislava Airport I may suggest you a better option, just a minute",
     "username" : "netroSK",
     "timestamp" : "2024-12-20T08:05:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "eadc4155-6e2e-4b84-b67f-d3a826764f43",
     "body" : "**Option 1 (taxi + Flixbus coach)**: There is Flixbus leaving at 22:00 from Bratislava Bus Station (Nivy) or another option is to catch it 22:15 from city center (SNP Bridge) which goes directly to Vienna. The price is about 10 EUR (flixbus.sk). I would actually sugeest you to take Uber or Bolt since it is evening and there will be no car traffic. It would be up to 10 EUR. Public transit would most likely not get you there on time.\n\n**Ootion 2 (trolleybus 61 + bus 93 + train)**: The other option is to take a public transit to Bratislava Central Station (hlavna stanica) with direct line no. 61. It has 15 min headways, leaving HH:14, HH:29, HH:44 and HH:59 from the stop in front of the Airport building. Then you just switch to bus 93 which get you within 10 mins to Bratislava-Petržalka. You can take Uber/Bolt/Hopin taxi (install them in advance). Do not take other taxi service, they would most likely scam you and you end up paying 30-50 EUR. The train is leaving 23:16 and cost 18.50 EUR (it is actually a return ticket) or maybe you can catch the earlier one with taxi. [https://cp.sk/vlakbusmhd/spojenie/prehled/?p=Fyb5SSWpsOoONi1oXlJD3UqVO9h9mkoyEk1JIHq9ulkUc.n23HKxL9ef0QPon0LbcjYUOw7SVs0N7u6rRNxiJ15yUnoK2gTwRJR:m5374LHo3u04DBHNaXlB4XHNicA:Z.YeX8WEA0o1wUqX9s:hEgI7CFiQ9nQ45gBF5cdSXyspHAKvGJT8aNzb8AkEpYZPTm3anVQ:PQA-](https://cp.sk/vlakbusmhd/spojenie/prehled/?p=Fyb5SSWpsOoONi1oXlJD3UqVO9h9mkoyEk1JIHq9ulkUc.n23HKxL9ef0QPon0LbcjYUOw7SVs0N7u6rRNxiJ15yUnoK2gTwRJR:m5374LHo3u04DBHNaXlB4XHNicA:Z.YeX8WEA0o1wUqX9s:hEgI7CFiQ9nQ45gBF5cdSXyspHAKvGJT8aNzb8AkEpYZPTm3anVQ:PQA-)",
     "username" : "netroSK",
     "timestamp" : "2024-12-20T08:30:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f4fc0da7-f412-48d4-8aca-f6da17d50ccc",
     "body" : "Much appreciated ! I will opt for the second option perhaos. Do you know how  much a taxi would cost me from Hlavna to Petrzhalka ?",
     "username" : "Chance-Olive-1223",
     "timestamp" : "2024-12-20T08:34:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "963fb05c-28ff-4d22-94fe-b6fe4ba2cd5c",
     "body" : "you should also consider this, there is direct bus from Bratislava airport to Vienna, it's Flixbus\n\n23:00 **Bratislava,,Letisko-Airport**\n\n* 0:20 - 0:25**Vienna International Airport**l\n* 0:40 **Vienna Erdberg (VIB)**",
     "username" : "pakachi2048",
     "timestamp" : "2024-12-20T11:39:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6b0845d2-1cc1-49ca-816d-51bbad80bac9",
     "body" : "dont take taxi, take bolt",
     "username" : "OkAlternative1655",
     "timestamp" : "2024-12-20T15:08:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b062469e-f6a6-486e-b921-701c5b40e4b2",
     "body" : "just check out Uber app and the price ranges from 15 to 27 EUR depending on the sevice (Comfort, UberX, UberX Saver), Bolt shows prices from 7 to 13 EUR (Bolt, Comfort, Green, XL). But in the evening they might be different, based on demand.",
     "username" : "netroSK",
     "timestamp" : "2024-12-20T08:38:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "893721f1-a4cc-4acf-8a52-a73731947ce9",
     "body" : "Yes i am aware of that option as well, but the driving with the bus is too much..",
     "username" : "Chance-Olive-1223",
     "timestamp" : "2024-12-20T11:41:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8de7d5c7-898b-44bc-90e3-dcac8a35f271",
     "body" : "ou sorry, that was from the airport... from Hlavna to Petržalka it would be about 5 EUR, but bus 93 is really fast",
     "username" : "netroSK",
     "timestamp" : "2024-12-20T08:40:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2dbae377-749c-40bb-a0a8-7a2011e1919b",
     "body" : "I prefer trains too, so I understand. But in case of any delays this might be the only viable option",
     "username" : "pakachi2048",
     "timestamp" : "2024-12-20T12:00:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f9cad2a2-89bc-4416-ab50-531702c93c1f",
     "body" : "you don't need to drive the bus, you can sit there as a passenger. /s",
     "username" : "teo_sk",
     "timestamp" : "2024-12-20T12:25:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e73895d6-8161-445d-9cef-b5d2cecf077e",
     "body" : "flixbus is notorious for having HUGE delays",
     "username" : "varovec",
     "timestamp" : "2024-12-20T14:41:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "73b47070-2b2d-4391-9d40-d51fd1788de8",
     "body" : "Ha-ha-ha, you cheeky little..",
     "username" : "Chance-Olive-1223",
     "timestamp" : "2024-12-20T12:34:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "acdfa2d3-96bc-4a3f-bee6-c962c0aed59b",
     "body" : "I was referring to delays of flight, offboarding at the airport etc more than actual bus as I  was not aware of this. This happens possibly on longer routes than this one, checked todays connections and there were only minor delays, max 7min, but you never know. [https://cp.sk/vlakbus/spojenie/vysledky/?time=07:00&f=Bratislava,,Letisko-Airport&fc=200003&t=Viede%C5%88;%20Rak%C3%BAsko&tc=1](https://cp.sk/vlakbus/spojenie/vysledky/?time=07:00&f=Bratislava,,Letisko-Airport&fc=200003&t=Viede%C5%88;%20Rak%C3%BAsko&tc=1)",
     "username" : "pakachi2048",
     "timestamp" : "2024-12-20T15:21:07Z"

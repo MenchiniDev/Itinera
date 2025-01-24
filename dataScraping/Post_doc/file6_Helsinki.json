@@ -1,5 +1,5 @@
 {
-  "postId" : 200192,
+  "_id" : "29f2187e-a51e-42ac-b4ea-34bc4949443b",
   "community" : "Helsinki",
   "username" : "Difficult-Court9522",
   "post" : "What is open the next few days?",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "bc0e2697-cbe8-4ac1-91f7-3355546e7981",
     "body" : "www.google.com",
     "username" : "Nebuladiver",
     "timestamp" : "2024-12-23T14:22:01Z"

@@ -1,5 +1,5 @@
 {
-  "postId" : 200314,
+  "_id" : "9ff118ce-bbf7-48c6-8e84-46c1cd71bce9",
   "community" : "Munich",
   "username" : "ermwhatsmyname",
   "post" : "‘München Modell’ property renting advice needed!",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "e24ccacf-e300-4b25-b41e-62dbfa4533a2",
     "body" : "Just to keep in mind on average there are 350 people with a permit applying for each München Modell apartment that is vacant.",
     "username" : "crashblue81",
     "timestamp" : "2024-12-23T08:27:39Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dd23b337-867e-43f6-adc1-05032dc97864",
     "body" : "Pretty sure you have to re-register for sowon six Months before your current registration ends. Otherwise, you will be locked ist of the system for months.",
     "username" : "Altruistic-Local9329",
     "timestamp" : "2024-12-23T08:34:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "af99d2a4-5b25-42b8-809e-880386a7003a",
     "body" : "I don‘t know how immowelt works, but on Immobilienscout24 you can check the „Wohnberechtigungsschein erforderlich“ option in the additional filters. Münchner Wohnen (formerly GEWOFAG and GWG) used that option for the München Modell apartments in their portfolio. I had a scraper with that filter running when I was looking with my family - although we never got one, got something else from GEWOFAG at the time.",
     "username" : "fhandschuch",
     "timestamp" : "2024-12-23T09:31:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d0f321bc-a237-4f81-968d-bd0cad2d95f2",
     "body" : "Where's that number from? Is it the same for families with kids? Just asking because literally all families I know that searched for one (did sometimes take a few years, of course), eventually got into a Genossenschaft/München Modell.",
     "username" : "tofudoener",
     "timestamp" : "2024-12-23T11:40:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f0341ac4-c257-446e-9f83-db0e1b2ed43b",
     "body" : "That was on average from a SZ article I read.",
     "username" : "crashblue81",
     "timestamp" : "2024-12-23T11:40:47Z"

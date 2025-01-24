@@ -1,5 +1,5 @@
 {
-  "postId" : 200135,
+  "_id" : "8442d4e1-e14e-43d0-8483-be27c91e5b44",
   "community" : "Valencia",
   "username" : "CyberNidal",
   "post" : "LDR gift",
@@ -8,16 +8,19 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "fc5d9526-76f4-4d22-87aa-baf19f0c149d",
     "body" : "Many. What does he like? What did you have in mind?",
     "username" : "MerakDubhe",
     "timestamp" : "2024-12-22T12:28:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bdcbf822-43ae-49e1-a9fd-26ca0f55ef5e",
     "body" : "Amazon, ali express, media markt, el corte ingles. It would cover pretty much all categories",
     "username" : "SouthAcanthaceae3567",
     "timestamp" : "2024-12-22T21:29:52Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1f6e47e7-5654-43d6-a138-4eb2e64dba8d",
     "body" : "Amazon.es you can sign in with your country Amazon credentials, and just add his address.",
     "username" : "BOBWORKS_SQ",
     "timestamp" : "2024-12-23T13:45:51Z"

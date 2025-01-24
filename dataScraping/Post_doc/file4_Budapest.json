@@ -1,5 +1,5 @@
 {
-  "postId" : 200171,
+  "_id" : "4489f2a7-0781-4731-8b65-167b1502286e",
   "community" : "Budapest",
   "username" : "FancyLatte_",
   "post" : "Lumina vagy Garden of Lights (2024)?",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "780397f4-d242-4e6b-b229-fc0da0282668",
     "body" : "Welcome to r/Budapest! Please check out our [Unnecessarily Long Guide to Budapest](https://www.reddit.com/r/budapest/wiki/index/guide-to-budapest/) for general information and recommendations!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/budapest) if you have any questions or concerns.*",
     "username" : "AutoModerator",
     "timestamp" : "2024-12-23T07:49:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bebefc58-148f-49a2-95d0-22f05f7b8f62",
     "body" : "Mindketto izgalmas, Lumina kicsit interaktivabb, lehet gombokat nyomkodni, viszont erzesre sokkal zsufoltabb, mint a fuveszkert, illetve sokkal nagyobb teruleten van es eleg hosszu kisgyerekkel. Plusz amikor emberek minden fenyfuzerrel akarnak egy kozos kepet es felhaborodnak, hogy belesetal a gyerek a kepbe, az kicsit faraszto, Luminaban ez kifejezetten jellemzo volt. Szerintem amugy egyikkel sem losz nagyon melle, mert mindketto latvanyos.",
     "username" : "CCester",
     "timestamp" : "2024-12-23T11:41:57Z"

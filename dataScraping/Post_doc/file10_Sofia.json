@@ -1,5 +1,5 @@
 {
-  "postId" : 200412,
+  "_id" : "c23c4ac2-38ad-43d7-aba7-3c44e51a310b",
   "community" : "Sofia",
   "username" : "alabs2001",
   "post" : "Skiing in Sofia",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "9b448bc6-08b2-4364-ac1c-01ec7ec6cc79",
     "body" : "You can go skiing without leaving the city  - Vitosha has ski tracks.   It's just a 20 minute drive to the pistes.    Of course you can rent a car with non-EU licence.   Or you can just take bus 66 and to with the public transport, the main ski track is located at \"Aleko Hut\".\nYou can take bus 66 from Paradise Mall.   You can rent equipment directly from the tracks.   Don't know about prices though.     \nUntil last year you could even just take the cabin lift directly from the city and go there, but sadly that's been closed for now. \nSofia almost became the winter olympics host back in 1992 because of that reason, the mountain is part of the city proper and there are ski pistes and all of that.\nYou can also just take a taxi to get there, this is another option.  \nThere's also Spark - an app that has electric vehicles that are found all around the city, you unlock one through the app and pay for the duration that ylu want.  You can also rent it for 24 hours or longer.   Similar to how the electric scooters work.    The thing is I'm not sure if they accept non-EU licences but you can try to see if you can register with the app.",
     "username" : "dwartbg9",
     "timestamp" : "2024-12-22T10:15:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "509181f6-30d8-4067-addb-1344ca3252b1",
     "body" : "You may need an international driving license. You should check with the car rental company. For example, here are terms of one of the popular companies:\n\n[https://toprentacar.bg/en/terms-and-conditions](https://toprentacar.bg/en/terms-and-conditions)",
     "username" : "exasolar",
     "timestamp" : "2024-12-22T22:10:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c9b48b8b-9312-4580-ab20-12b4138139dd",
     "body" : "Rent a car from Toprentacar and go to Seven Rila Lakes. (70 km from Sofia)\nThere is wonderful conditions for skiing and there are not many people.",
     "username" : "Primary-Tap4496",
     "timestamp" : "2024-12-23T09:25:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ceccc2b1-50da-401c-a180-e26d6dadc9f5",
     "body" : "As of now, Vitosha has one open track, which is rather short and the lift is slow. Especially during the weekends - it’s not worthy. If you want a “proper” resort - go to Borovets. Rilski Ezera is another option if you are more advanced.",
     "username" : "Reasonable-Total7327",
     "timestamp" : "2024-12-22T19:29:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "906b6cb6-4a52-4839-a3b8-19450aa5dd04",
     "body" : "Thank you",
     "username" : "alabs2001",
     "timestamp" : "2024-12-22T11:22:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a7ac2c28-656e-45b0-a7ac-34b144c1c15d",
     "body" : "Bus 66 stops working at 5pm and the slope is illuminated and works after that, don't get stranded there.\n\nMaybe go to Borovetz, that would be a better experience.",
     "username" : "CautiousRice",
     "timestamp" : "2024-12-22T14:46:15Z"

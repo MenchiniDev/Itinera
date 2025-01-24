@@ -1,5 +1,5 @@
 {
-  "postId" : 200342,
+  "_id" : "a1af7b4b-45f9-41c6-9961-633426f51a2f",
   "community" : "Hamburg",
   "username" : "Individual_Exit635",
   "post" : "Schöne Spielplätze mit Babyschaukel? Wooo :‘(",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "cc8859d2-beaf-4c8a-afcf-04f1cf6e515f",
     "body" : "Auf dem Spielplatz im Hammer Park gibt's Babyschaukeln.. ist aber ein Stück von Schnelsen.. vielleicht hat da jemand noch naheliegendere Vorschläge (:",
     "username" : "Wonderful_Door_3296",
     "timestamp" : "2024-12-23T08:52:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fe33956e-981d-495e-b3a1-084c44f47c85",
     "body" : "Meinst du mit Babyschaukel eine Nestschaukel? So eine gibt es am Spielplatz Lüttkamp in Lurup. (Da kommt man aus Schnelsen auch gut mit dem Bus 284 hin.)",
     "username" : "Lady_Bonita",
     "timestamp" : "2024-12-23T14:22:27Z"

@@ -1,5 +1,5 @@
 {
-  "postId" : 200309,
+  "_id" : "051e78bd-a36e-4c76-9d21-1d6921835f93",
   "community" : "Oslo",
   "username" : "totorania",
   "post" : "Mangler du vinyl?",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "fa1cab56-877c-4bcf-bdc2-149b41f7f011",
     "body" : "Har parkett",
     "username" : "UsernameFor2016",
     "timestamp" : "2024-12-23T13:23:19Z"

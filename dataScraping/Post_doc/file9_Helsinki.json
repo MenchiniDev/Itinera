@@ -1,5 +1,5 @@
 {
-  "postId" : 200358,
+  "_id" : "95f43d8f-c55e-42d9-b5b3-549242435cfe",
   "community" : "Helsinki",
   "username" : "unknownfoldr",
   "post" : "Snow Anywhere?",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "d641c486-8ec3-473f-b2c2-575ce3ec9bbd",
     "body" : "Having a snowy yule in Helsinki is a bit of a gamble and according to FMI between 2006-2023 the probability is just 44% and the minimum definition White Christmas is quite a stretch from the full blown Winter Wonderland. \n\nCome back in late January or go north. Or go back in time 50 years or so.",
     "username" : "RingedSeal33",
     "timestamp" : "2024-12-23T11:55:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fcac1924-ee05-4284-8153-473ce90f0d96",
     "body" : "That's called climate change. Try Lapland.",
     "username" : "jansmanss",
     "timestamp" : "2024-12-23T11:35:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7c51bb54-492d-429e-b7a9-c3563917cca7",
     "body" : "For snow and freezing temperatures you'll have to move some hundred kilometers inland to the north.\n\nSee https://en.ilmatieteenlaitos.fi/ for the weather situation. As the \"Snow depth\" section shows, there is snow by just going some 50-100 km inland, but as the \"Max temperature\" section shows, you'll have to travel half-way up to Lapland through Finland in order to get out of melting temperatures (the yellow area).",
     "username" : "tsvk",
     "timestamp" : "2024-12-23T12:52:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6dca23b3-7bcd-44c7-a409-7b8cc52e3066",
     "body" : "It's a daily gamble",
     "username" : "Patralgan",
     "timestamp" : "2024-12-23T12:59:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0668e0cb-c5c5-49b7-a7f1-50b4f7c43587",
     "body" : "There's not a lot of snow even in Lapland right now.\n\nActually looking at the Ilmatieteen laitos map (don't know how precise it is) there's more snow in Tampere than Rovaniemi.",
     "username" : "leela_martell",
     "timestamp" : "2024-12-23T11:39:57Z"

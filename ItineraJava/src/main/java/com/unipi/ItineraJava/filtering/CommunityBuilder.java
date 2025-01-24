@@ -112,7 +112,7 @@ public class CommunityBuilder {
         saveCommunityDocuments(communityMap, outputFolderPath);
 
         // Stampo l'ultimo ID generato
-        System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
+       // System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
     }
 
     private static String subtractOneHour(String timestamp) {
@@ -148,7 +148,7 @@ public class CommunityBuilder {
 
     private static JSONObject createCommunityDocument(String cityName, String communityName) {
         JSONObject community = new JSONObject();
-        community.put("id", globalIdCounter.getAndIncrement());
+        //community.put("id", globalIdCounter.getAndIncrement());
         community.put("city", cityName);
         community.put("name", communityName);
         community.put("created", "9999-12-31T23:59:59Z");
@@ -190,7 +190,7 @@ public class CommunityBuilder {
 
             // Riposiziona l'attributo "Post" come ultimo elemento
             LinkedHashMap<String, Object> orderedCommunity = new LinkedHashMap<>();
-            orderedCommunity.put("id", communityDocument.get("id"));
+            //orderedCommunity.put("id", communityDocument.get("id"));
             orderedCommunity.put("city", communityDocument.get("city"));
             orderedCommunity.put("name", communityDocument.get("name"));
             orderedCommunity.put("created", communityDocument.get("created"));
