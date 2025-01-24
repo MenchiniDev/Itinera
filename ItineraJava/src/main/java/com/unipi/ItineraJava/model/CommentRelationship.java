@@ -1,17 +1,17 @@
 package com.unipi.ItineraJava.model;
 
-import org.springframework.data.neo4j.core.schema.GeneratedValue;
-import org.springframework.data.neo4j.core.schema.Id;
-import org.springframework.data.neo4j.core.schema.Property;
-import org.springframework.data.neo4j.core.schema.RelationshipProperties;
-import org.springframework.data.neo4j.core.schema.TargetNode;
+import org.springframework.data.neo4j.core.schema.*;
 
 @RelationshipProperties
 public class CommentRelationship {
 
+    // Aggiungi un campo id generato automaticamente
     @Id
+    @GeneratedValue
+    private String internalId; // ID generato internamente per la relazione
+
     @Property("commentId")
-    private String commentId;
+    private String commentId; // ID personalizzato
 
     @Property("timestamp")
     private String timestamp; // Attributo della relazione
@@ -19,9 +19,28 @@ public class CommentRelationship {
     @TargetNode
     private PostGraph post; // Nodo di destinazione
 
-    public CommentRelationship(String timestamp, PostGraph post) {
+    // Costruttore
+    public CommentRelationship(String commentId, String timestamp, PostGraph post) {
+        this.commentId = commentId; // ID personalizzato
         this.timestamp = timestamp;
         this.post = post;
+    }
+
+    // Getter e setter
+    public String getInternalId() {
+        return internalId;
+    }
+
+    public void setInternalId(String internalId) {
+        this.internalId = internalId;
+    }
+
+    public String getCommentId() {
+        return commentId;
+    }
+
+    public void setCommentId(String commentId) {
+        this.commentId = commentId;
     }
 
     public String getTimestamp() {

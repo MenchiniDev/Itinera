@@ -13,7 +13,7 @@ public class CommunityGraph {
 
     @Id
     @GeneratedValue
-    private long id;
+    private Long id;
     
     @Property("city")
     private String city;
