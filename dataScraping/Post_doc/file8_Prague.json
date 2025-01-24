@@ -1,5 +1,5 @@
 {
-  "_id" : 200270,
+  "_id" : "78ded2b1-148c-47f4-a1dc-14f5f36d941a",
   "community" : "Prague",
   "username" : "UnhappyDumpling",
   "post" : "How to present to the foreigners police online",
@@ -8,16 +8,19 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "6ff149c4-e36d-4dfb-9f2e-8d32b5bad9d7",
     "body" : "Not 72 hours but three workdays.",
     "username" : "vlnaa",
     "timestamp" : "2024-12-23T12:25:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "133c45ac-6f03-4df3-a332-67b48e2d3842",
     "body" : "If they're closed, I doubt they'd scold you too harshly if you go on the first day they're open again. If they do, you can say you showed up and found them closed. Knocked on the door, to no avail.\n\nI was far more delinquent and blamed the pandemic (four years ago). I was okay. \n\nOf course, I can't be certain, but...\n\nIt might depend on how irritable they are that day.\n\nShe should bring all necessary documents called for. I assume her passport will show her date of arrival. A date they were closed, and possibly already celebrating.",
     "username" : "Constant-Security525",
     "timestamp" : "2024-12-23T12:22:13Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ec448e62-75ec-42c4-a3f9-b0eb39d927bd",
     "body" : "They can still fine you even if they were closed and you had no way to register, as the law doesn't account for this.\n\nHowever, they are usually considerate with this and act in good faith unless you behave undesirably.",
     "username" : "trichaq",
     "timestamp" : "2024-12-23T12:44:31Z"

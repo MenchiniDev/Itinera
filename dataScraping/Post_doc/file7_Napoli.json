@@ -1,5 +1,5 @@
 {
-  "_id" : 200357,
+  "_id" : "0877837d-1c0e-429a-9207-dfca34284d67",
   "community" : "Napoli",
   "username" : "Disastrous_Stick_254",
   "post" : "Cosa fare il 24 prima del cenone a Napoli",
@@ -8,41 +8,49 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "f39d5517-743c-42d1-8df1-642bc7da52e6",
     "body" : "> passeggiata il 24\n\n> piacevole\n\nPick one",
     "username" : "Ashamed-Addendum-661",
     "timestamp" : "2024-12-22T20:31:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3f4ff2fd-52a8-41ac-a0e6-74731262717e",
     "body" : "In zona Bellini ci sarà un grande aperitivo",
     "username" : "KekkoPalu2001",
     "timestamp" : "2024-12-22T20:54:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "50fe7b05-65c4-4675-83ba-4b7913557103",
     "body" : "Credo che stare in centro il 24 con tutto quel flusso di gente è solo un intossicazione.",
     "username" : "Major_Employee3087",
     "timestamp" : "2024-12-23T01:35:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3e0122b7-87e0-4a40-b675-90c30ae3f13c",
     "body" : "up",
     "username" : "Ok-Excitement4831",
     "timestamp" : "2024-12-23T10:10:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "404e4bcc-74bf-4be1-9a2d-5d713f88010f",
     "body" : "Spara bombe finché non ti rimangono tre dita per mano.",
     "username" : "sborravosullevecchie",
     "timestamp" : "2024-12-23T13:24:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "06b3f4a5-f6b4-4169-b39a-595847bf2078",
     "body" : "non per forza passeggiata",
     "username" : "Disastrous_Stick_254",
     "timestamp" : "2024-12-22T20:51:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f69d3ec8-93e2-426f-b657-f78f65d44e5c",
     "body" : "da Peppe?",
     "username" : "Disastrous_Stick_254",
     "timestamp" : "2024-12-23T10:40:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e36052b9-d037-42e6-83f4-ce3cff7f230c",
     "body" : "eh un amico che l’anno scorso andò in zona baretti mi ha detto lo stesso",
     "username" : "Disastrous_Stick_254",
     "timestamp" : "2024-12-23T10:40:36Z"

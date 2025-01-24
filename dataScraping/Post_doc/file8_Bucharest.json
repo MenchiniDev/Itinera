@@ -1,5 +1,5 @@
 {
-  "_id" : 200397,
+  "_id" : "14a6fdc1-f604-4465-b394-c3f128901e67",
   "community" : "Bucharest",
   "username" : "cestamp",
   "post" : "what area's of Bucharest should a group in their 20's visit during the day, and during the night?",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "bc9af802-3f3e-4e0a-be0d-13ef343230a8",
     "body" : "The old town is the go-to area for night life. There are loads of shopping centres in bucharest, just google them :) as for parks, the best are herastrau, cismigiu and tineretului. A street loaded with history is the victoriei street, lots of historical monuments there, old buildings and such, and the former royal palace(now, the national gallery). Victoriei street connects university square(which, in turn, is right near the old town) to victoriei square, where some of the best museums are(Antipa natural history museum, romanian traditional history museum). Also, you will be using the metro a lot, it is the best transport system, so consider buying a day pass. Oh, and while some people dont seem to know english, ask for a student's or young man's help, most are bilingual(romanian and english) or even trilingual(mostly german or french), they are really friendly. Dont forget to google everything in advance, and look up other people's impressions!",
     "username" : "bogdoomy",
     "timestamp" : "2022-04-08T19:34:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f2be462b-172b-42ee-9da3-34863b5affa8",
     "body" : "Thanks for the info!\nAny streets in particular I should check out on Google maps to get an idea?",
     "username" : "cestamp",
     "timestamp" : "2022-04-13T02:01:58Z"

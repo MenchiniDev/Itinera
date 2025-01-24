@@ -1,5 +1,5 @@
 {
-  "_id" : 200380,
+  "_id" : "0abd8f63-b313-4b0c-a1be-1fa0a3cb6490",
   "community" : "Paris",
   "username" : "LasseInt",
   "post" : "Christmas tips to our Gardien",
@@ -8,21 +8,25 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "ccb8a9d3-ede0-47ea-be7e-a8e016f268cb",
     "body" : "My gardienne is an angel : she receives packages e.g. Amazon, distributes postal mail to my door (no mailboxes in building), and knows *everything* going on in an older building with eleven étages. \n\nShe also has a wicked sense of humor, scowls mockingly at my less than fluent French, and is always informative and funny. \n\nI gave her a card with €100 in it. I guess it depends on your budget and what you value in their services over the year. Bonne fête.",
     "username" : "lo-cal-host",
     "timestamp" : "2024-12-23T10:08:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2a3c7de8-0e7a-4d8e-8ecd-32b967ab9484",
     "body" : "I’ve read that you’re expected to gift 20% of your monthly rent, although I struggle to see how people who aren’t wealthy can afford to gift such an amount these days with how much the cost of everything has increased. For me that amount would be a few weeks of groceries.",
     "username" : "succubus-witch",
     "timestamp" : "2024-12-23T12:27:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1f7b8d12-f486-4588-9b3a-8547775201f5",
     "body" : "Exactly, that would be over 600€. I don't want to be cheap and want to do the right thing here because we like her.\nWe ended up with 150€",
     "username" : "LasseInt",
     "timestamp" : "2024-12-23T12:30:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "41aedb76-1363-4416-b4ce-09f5d7bdbe63",
     "body" : "That’s still a very generous amount for you to gift them",
     "username" : "succubus-witch",
     "timestamp" : "2024-12-23T13:56:41Z"

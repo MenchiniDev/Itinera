@@ -1,5 +1,5 @@
 {
-  "_id" : 200076,
+  "_id" : "c2f64f3d-039a-4a04-8f31-303f0adb6eb1",
   "community" : "Sarajevo",
   "username" : "Fancy-Consequence216",
   "post" : "Dobar VAG majstor u Sarajevu",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "08d0fac1-72ca-48bc-b116-8aa31a249a24",
     "body" : "cigic almir dobar majstor za vw,kosevsko brdo majstori, kum,elva kobilja glava i to je to sto znam",
     "username" : "satroneznamznam",
     "timestamp" : "2024-12-22T19:31:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b5a15cd9-30c7-46e1-a317-a7e497868e27",
     "body" : "Kum ugorsko ! Nema boljeg",
     "username" : "hotonj82",
     "timestamp" : "2024-12-23T08:05:47Z"

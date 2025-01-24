@@ -1,5 +1,5 @@
 {
-  "_id" : 200173,
+  "_id" : "b62af1c4-66ba-430d-ad1b-590e672d87d6",
   "community" : "Krakow",
   "username" : "Terrible-Business-67",
   "post" : "Student ID Auschwitz",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "73fe4374-acb8-404f-8e83-244c7e5f9c51",
     "body" : "Student visa is not valid student ID. Maybe it'll work, but be prepared to pay difference in price of normal and student ticket.",
     "username" : "Koordian",
     "timestamp" : "2024-12-23T06:13:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d258337c-172b-405a-8289-11d1093e0394",
     "body" : "Worth to give a try",
     "username" : "v1rotatev2",
     "timestamp" : "2024-12-23T09:04:46Z"

@@ -1,5 +1,5 @@
 {
-  "_id" : 200104,
+  "_id" : "b0ca4c89-cefd-42d6-a663-070c326178e3",
   "community" : "Luxembourg",
   "username" : "blast-from-the-80s",
   "post" : "Annoying Spam via SMS group chats",
@@ -8,56 +8,67 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "208f8f58-52ad-4a40-a543-5b06330292ec",
     "body" : "Mark as spam, block, move on\n\nI am recieving the same message since 2 days",
     "username" : "Red-_-Lion",
     "timestamp" : "2024-12-22T12:04:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0821c316-81a4-4ad1-985a-8fa96272d8b1",
     "body" : "https://preview.redd.it/fir874eoae8e1.jpeg?width=1080&format=pjpg&auto=webp&s=8fa68abd2ca7dba8e7875b89dc8ce19b849f7ab8\n\nYeah, Christmas is coming... I bet they came across the saying \"work smarter, not harder\" 🤣",
     "username" : "RevolutionaryRoom964",
     "timestamp" : "2024-12-22T12:39:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f69765ad-a70d-4ded-863c-138ba6327882",
     "body" : "I don‘t understand, why it seems impossible for the providers like post or orange to block such messages? Especially those scam-messages send to hundreds of poeple at the same time, with the same content?!",
     "username" : "No-Living-3639",
     "timestamp" : "2024-12-22T14:15:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "189836d4-d143-4c12-b9ba-6433083d4467",
     "body" : "Finally someone using RCS /s",
     "username" : "fonzzzzz",
     "timestamp" : "2024-12-22T15:41:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "780f067f-a79d-4e91-8deb-5eb7cb9579a3",
     "body" : "Yeah I've been getting them too. The scammers are getting lazy can't even do phishing on one of us at a time anymore 🤣\n\nSo insanely annoying though. But even my mom thought that was a scam, so it's obviously a horrid strategy.\n\nScammers confuse me.",
     "username" : "Toedeli",
     "timestamp" : "2024-12-22T12:21:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "53faa393-81a5-4a0c-abd6-652cf57e9448",
     "body" : "Got that too. Really great knowing that my number is being sent to random other people too :(",
     "username" : "pa79",
     "timestamp" : "2024-12-22T15:13:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bb76453e-89c9-4bb0-92ac-b63a72d4c314",
     "body" : "This is RCS by google, if you deactivate it you will see your spam reducing\nhttps://messages.google.com/disable-chat",
     "username" : "betixaf646",
     "timestamp" : "2024-12-22T13:44:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dd239bc9-eb0a-40a6-bd9d-44225107987f",
     "body" : "That will involve them going through your texts without your knowledge. Privacy laws prohibit it. Even if they block it then there is a chance a legit SMS being blocked leading to them being held liable.",
     "username" : "KohliTendulkar",
     "timestamp" : "2024-12-22T14:51:45Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0b86bffb-d943-4c72-b42c-451d90cc5d2c",
     "body" : "Would be nice but if you just block and report them a few times on your phone, they will also get automatically flagged in the future. Works very reliable for me (Android).\n\n\n\nMost people don't seem to know.",
     "username" : "MizmoDLX",
     "timestamp" : "2024-12-22T21:12:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "922d3bd7-33fa-4aef-9111-95955d0a3c47",
     "body" : "Thanks for the link. I didn't know this.👍🏻",
     "username" : "SanSabaPete",
     "timestamp" : "2024-12-23T12:20:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7bca750b-a420-48b6-9dee-52f34ca1f71e",
     "body" : "didn‘t think about that, sounds logic, so thanks. But to be honest, i don‘t think governments give a shit about our privacy (PRISM), so if were beeing spied on, why aren‘t scammers 😉",
     "username" : "No-Living-3639",
     "timestamp" : "2024-12-22T17:29:42Z"

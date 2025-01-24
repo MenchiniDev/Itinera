@@ -1,5 +1,5 @@
 {
-  "_id" : 200198,
+  "_id" : "bbc725a8-0511-4b6d-9ec1-bc6edb561849",
   "community" : "Sofia",
   "username" : "Skuchubra",
   "post" : "Търся бижутерия Ge Oro",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "04383ab1-c01d-4079-8bfb-9ed1ddbdecb0",
     "body" : "В Парадайс мол има",
     "username" : "Going-Bananas-here",
     "timestamp" : "2024-12-21T14:07:14Z"

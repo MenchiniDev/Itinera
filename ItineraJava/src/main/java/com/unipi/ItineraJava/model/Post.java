@@ -13,7 +13,7 @@ import java.util.List;
 public class Post {
     
     @Id
-    private Long _id;
+    private String _id;
 
     private String community;
     private String username;
@@ -25,11 +25,11 @@ public class Post {
 
     public Post() {}
 
-    public Long getId() {
+    public String getId() {
         return _id;
     }
 
-    public void setId(Long id) {
+    public void setId(String id) {
         this._id = id;
     }
 

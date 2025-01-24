@@ -1,5 +1,5 @@
 {
-  "_id" : 200403,
+  "_id" : "e1006c24-2a2b-44eb-90d4-aa63c2808b43",
   "community" : "Munich",
   "username" : "marneusc",
   "post" : "Alle Weihnachtsmärkte in München ",
@@ -8,36 +8,43 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "9da71a54-4f0b-44cd-be14-f56efbc2e585",
     "body" : "Looks like a bunch are missing, including nice ones like https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/christkindlmarkt-am-luise-kiesselbach-platz",
     "username" : "Usual_Ad_3368",
     "timestamp" : "2024-11-22T11:47:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "11e94e86-e3cb-4009-b50a-a28c6bc1b95c",
     "body" : "Super! Schon unter Favorit gespeichert, da wir über die Feiertage in München verweilen werden!",
     "username" : "swedething",
     "timestamp" : "2024-11-22T09:58:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fbca2d3b-0883-4d02-b58e-bc03ad71dba0",
     "body" : "There are also short-term christmas markets (e.g. Hoffest Landwirtschaftsministerium) and christmas markets for a good cause.\nPersonally I'd like to promote the Weihnachtsmarkt from the Stiftung Pfennigparade this friday (November 29):\n\nhttps://www.pfennigparade.de/veranstaltung/weihnachtsmarkt-der-stiftung-pfennigparade-2024/",
     "username" : "bahalana944",
     "timestamp" : "2024-11-27T21:41:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fbb373a9-9a24-49fc-8955-0a48fda8c315",
     "body" : "ohh thank you so much!",
     "username" : "Cheesus_22",
     "timestamp" : "2024-11-22T06:13:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ccb82c3a-bfe3-48f8-b897-4879f9fec198",
     "body" : "Leider kann ich den Beitrag nicht editieren, aber sollte noch jemand fehlende Märkte finden, kann man diese an \n[Tourismus.multimedia@muenchen.de](http://Tourismus.multimedia@muenchen.de)\nsenden. Hier wird die Liste zusammengestellt!",
     "username" : "marneusc",
     "timestamp" : "2024-11-25T07:31:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "97411dfb-f351-4ed8-903d-20ac47f2cebf",
     "body" : "Ich nehme mal an, der Markt wurde von der Redaktion vom Tourismusbüro, die die Liste für das Portal zur Verfügung gestellt haben, nicht als relevant eingestuft. \n\nDas ist natürlich sehr schade. Ich habe denen mal geschrieben, links oben ist ein Kontaktformular. Vor allem, da der Markt auf Muenchen.de ja genannt wird...",
     "username" : "marneusc",
     "timestamp" : "2024-11-22T12:08:23Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3a338bab-b8f3-4fb3-9487-76a8ea6322fe",
     "body" : "Der Support hat geantwortet, per Mail an Tourismus.multimedia@muenchen.de kann man fehlende Märkte melden. \nWarum es überhaupt zwei  verschiedene Listen gibt hat man natürlich nicht beantwortet ;-)",
     "username" : "marneusc",
     "timestamp" : "2024-11-25T07:33:38Z"

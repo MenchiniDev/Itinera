@@ -1,5 +1,5 @@
 {
-  "_id" : 200130,
+  "_id" : "5bfb240e-cc04-43f2-9064-b0f46b706b01",
   "community" : "Monaco",
   "username" : "Salty-Cartoonist-155",
   "post" : "Brut net ",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "84eb8d24-e232-4a60-85cc-5296f9bed969",
     "body" : "100.000€ brut - environ 13% charges sociales \n87.000€ net si je ne me trompe pas",
     "username" : "StoreWeak5292",
     "timestamp" : "2024-12-19T11:43:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c77e8830-ba88-4674-b07b-0ee76161ffb3",
     "body" : "Tu enlèves 13%",
     "username" : "Bluray50",
     "timestamp" : "2024-12-19T11:52:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "400b447e-dd33-4347-83bf-04b4d9fa4d3e",
     "body" : "Entre 13 et 16.5%, peut être plus en fonction de ton statut et de ta convention collective",
     "username" : "RunAcrobatic2411",
     "timestamp" : "2024-12-19T12:46:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "bd4f1e8e-b200-4aec-9b01-d8e4239c2090",
     "body" : "Merci !",
     "username" : "Salty-Cartoonist-155",
     "timestamp" : "2024-12-19T11:45:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "72485d0f-dddc-4330-bc93-417163ab31de",
     "body" : "Merci !",
     "username" : "Salty-Cartoonist-155",
     "timestamp" : "2024-12-19T11:53:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e05d0210-f8fc-48c5-815b-90fc22fb78c0",
     "body" : "Après je ne sais pas sûr à 100%",
     "username" : "StoreWeak5292",
     "timestamp" : "2024-12-19T11:46:18Z"

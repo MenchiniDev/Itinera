@@ -1,5 +1,5 @@
 {
-  "_id" : 200365,
+  "_id" : "f6d1f523-23f4-42a4-8be8-16a16fcf9cbc",
   "community" : "Birmingham",
   "username" : "BushLeagueQuant",
   "post" : "Blue Street Lights",
@@ -8,101 +8,121 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "81f3298e-22f3-4d49-a8e2-9556e9b633d7",
     "body" : "Defective LEDs. Still cool. Wish we could paint our night roads with beauty and do this on purpose",
     "username" : "savoryreflex",
     "timestamp" : "2024-12-23T05:53:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b3c34bfa-df1e-4a8e-ba6a-dc4478397b19",
     "body" : "There is an apt complex in Gardendale… I think around where Stouts Rd turns into Main St but I can’t remember. If I pass it again I’ll re-comment.",
     "username" : "EH_Operator",
     "timestamp" : "2024-12-23T06:46:29Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f6faefda-7771-4068-b1ee-d39d3bad809e",
     "body" : "12th court N and 12th St N, in fountain heights. Somewhere near that intersection.",
     "username" : "Kilomona",
     "timestamp" : "2024-12-23T07:10:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8e56871d-6272-4d03-a2b5-8f1f2f459dbe",
     "body" : "I've always wondered why they're popping up",
     "username" : "hwofufrerr",
     "timestamp" : "2024-12-23T05:30:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "69dbaa51-d4f9-448f-a910-8662c2e4e786",
     "body" : "I'm pretty sure Glen Iris Elementary has a blue/purple degraded street light, I'll try checking it out tonight to confirm",
     "username" : "NotFlameRetardant",
     "timestamp" : "2024-12-23T08:42:19Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7b80912d-3572-4aaa-bf92-71abb1f23df9",
     "body" : "Went to Iceland this year. In Keflavik the street lights are color tinted - very cool. And I imagine it’s nice to see some color in the winter there.",
     "username" : "upsetmojo",
     "timestamp" : "2024-12-23T09:55:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "89a2e575-0d8c-4fb5-ac12-58585614645c",
     "body" : "7th Ave S and 36th St the United Way lots all have blue lights.",
     "username" : "Guilty-Drive-1733",
     "timestamp" : "2024-12-23T12:54:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "78f1938f-2038-4a03-929d-919c8fe53d85",
     "body" : "I just pretend I'm in a safe zone in dying light",
     "username" : "lBartholomewl",
     "timestamp" : "2024-12-23T12:46:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c095c218-062f-4446-b168-45be03e21a2c",
     "body" : "Good night, good luck",
     "username" : "Apprehensive_Pass636",
     "timestamp" : "2024-12-23T13:25:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "48128355-b619-43c8-987a-51e1ff848f37",
     "body" : "It happens all over the country. If you're curious, here's an explanation of the failure mechanism.\n\nhttps://inside.lighting/news/24-05/heres-why-led-streetlights-are-turning-city-highway-purple",
     "username" : "Curious-Scientist260",
     "timestamp" : "2024-12-23T14:24:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7e31449d-ef1a-4377-bc2b-091baaf735f8",
     "body" : "Woodbrook Apartments",
     "username" : "ConcentrateEmpty711",
     "timestamp" : "2024-12-23T13:23:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "72507856-596f-4273-a2d0-1957bc129798",
     "body" : "Good info thanks!",
     "username" : "BushLeagueQuant",
     "timestamp" : "2024-12-23T13:56:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ccc8666e-edea-46aa-8012-4e557d801518",
     "body" : "Thanks!",
     "username" : "BushLeagueQuant",
     "timestamp" : "2024-12-23T13:58:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5f5d5c81-da5e-49cb-abcc-48b4f0f2566f",
     "body" : "These are white LED street lights, but something you may not know is that LEDs can’t be white, LEDs emit only one frequency of light but white is the entire visible spectrum, so what they do is take LEDs that emit ultraviolet light and put them behind a covering of phosphorescent coated material which, when hit with UV light, glows brightly white. The coating is degrading and thus UV light is spilling out, making the area blue/purple",
     "username" : "NetTough7499",
     "timestamp" : "2024-12-23T06:43:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "73a8c33a-1e3f-40a0-9089-1da2b77faeb8",
     "body" : "Thanks! St Elias Church has quite a few and they are super close.",
     "username" : "BushLeagueQuant",
     "timestamp" : "2024-12-23T13:59:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "83cb06cb-0f89-4e1b-a95e-9866426c2f15",
     "body" : "Iceland is dope, went back in 2016 and did all of Hwy 1 over a week and half. Planning to go back in the next few years.",
     "username" : "BushLeagueQuant",
     "timestamp" : "2024-12-23T14:01:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0b3d03fc-2300-4725-8c3a-4bacf0821b5d",
     "body" : "Thanks!",
     "username" : "BushLeagueQuant",
     "timestamp" : "2024-12-23T14:06:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b723ac44-850b-43f0-aa50-b2d0d812f23e",
     "body" : "Thanks!",
     "username" : "BushLeagueQuant",
     "timestamp" : "2024-12-23T13:56:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e5fa440f-baef-4619-a3c0-d052ac641dfc",
     "body" : "Damn. Who is gonna argue with that?",
     "username" : "savoryreflex",
     "timestamp" : "2024-12-23T07:48:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e481f584-9a44-4e50-8207-76e7ab9402c2",
     "body" : "We went in late summer. Weather was great!  Only rained part of 2 days.   Did the Ring Road in 8 days in a camper van.",
     "username" : "upsetmojo",
     "timestamp" : "2024-12-23T14:12:15Z"

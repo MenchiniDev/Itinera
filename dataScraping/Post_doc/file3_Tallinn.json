@@ -1,5 +1,5 @@
 {
-  "_id" : 200071,
+  "_id" : "67efb834-9dd9-4fd8-a430-b69c785b5653",
   "community" : "Tallinn",
   "username" : "Comfortable-Boss3541",
   "post" : "Tattoo prices",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "7f53271d-b78f-467e-9eb6-8b47d186b8dd",
     "body" : "For more detailed answer ask this in r/eesti\nMy 3x3 tattoo was 60€ (minimum price of the artist). Maybe that will give you an estimate",
     "username" : "nugetky",
     "timestamp" : "2022-01-25T17:05:58Z"

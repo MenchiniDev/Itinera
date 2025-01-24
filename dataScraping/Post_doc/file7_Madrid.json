@@ -1,5 +1,5 @@
 {
-  "_id" : 200329,
+  "_id" : "7c57cc6a-6f0c-4dc2-b796-619b517c34d4",
   "community" : "Madrid",
   "username" : "Emmanuel_I",
   "post" : "Destino Madrid: ocho historias entre un millón de acentos latinoamericanos",
@@ -8,21 +8,25 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "6a8b44cd-93fa-4d37-bed0-d0d4066f00a1",
     "body" : "[Sin muro de pago](https://archive.ph/XDVze)",
     "username" : "Emmanuel_I",
     "timestamp" : "2024-12-23T06:33:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0203e622-984d-433d-ae21-1c6771f544a1",
     "body" : "hispanoamericanos. hay que comenzar a llamarnos bien por favor. La palabra latinoamericano la introdujeron los franceses de forma despectiva para segregar y por odio al imperio ya en su tiempo.",
     "username" : "bordalash",
     "timestamp" : "2024-12-23T09:12:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "61eb96e2-9810-427b-9964-c6ee558e9297",
     "body" : "Que yo sepa los dos términos obedecían a intereses imperialistas, sólo que uno a los intereses franceses y otro a los españoles. No veo razón para el cambio.",
     "username" : "BenigDK",
     "timestamp" : "2024-12-23T10:29:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "52d7fe19-dfe6-4877-9bc5-141fcf255274",
     "body" : "Como latino, en verdad me da igual cualquiera. No te preocupes que creo que a ninguno le importa.",
     "username" : "chrundle18",
     "timestamp" : "2024-12-23T14:25:35Z"

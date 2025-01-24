@@ -1,5 +1,5 @@
 {
-  "_id" : 200223,
+  "_id" : "ed4a9be0-2272-4fa9-920b-94f5d1abfc5d",
   "community" : "Seville",
   "username" : "9kSs",
   "post" : "Still possible to get last minutes tickets to a nativity scene today? ",
@@ -8,36 +8,43 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "09c193d7-1803-44a9-8ee6-e950476cf261",
     "body" : "There are many where you just stay on a queue. Try with Fundacion Cajasol, in Chicarreroa Street, pretty centric and they have a website",
     "username" : "Little_Paramedic_451",
     "timestamp" : "2024-12-23T06:36:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "e5c2d931-d7f4-4343-882b-0c7fa70270cd",
     "body" : "Do you know when is the show today? I don’t see it in the website",
     "username" : "9kSs",
     "timestamp" : "2024-12-23T07:10:01Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "012da8d9-36b4-4c1d-aae6-e0f15289f021",
     "body" : "It's not a show, it's a display... you can get more info on their website... it runs all day non-stop, and it's quite popular. I remember visiting it as a child. Some towns in the outskirts",
     "username" : "Little_Paramedic_451",
     "timestamp" : "2024-12-23T07:44:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0a0fce28-476d-4997-a92d-5d38a133f1d7",
     "body" : "It's just a scene. Like a set up of miniatures. Nothing moves, there's no music, it's not theatre. So you can go any time and look at it. Just that there will be queues.",
     "username" : "Zealousideal_West_16",
     "timestamp" : "2024-12-23T08:00:22Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8addfe9f-3c33-4f0b-b997-7fc285d86975",
     "body" : "That'd be something, a show. Can you imagine the had shows on about Christmas?",
     "username" : "theairscout",
     "timestamp" : "2024-12-23T08:50:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "22c5554c-7cf1-4d6f-aa89-c6191fa125fe",
     "body" : "Thanks",
     "username" : "9kSs",
     "timestamp" : "2024-12-23T08:27:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0c57142c-ef87-4375-b78a-6ee3e3367138",
     "body" : "There are some towns that have recreations on a schedule (imagine how painful can it be to redo from start every time a car parks in town... come on, boys, take the angel back to the top of the church! Star ready! On your marks! Where the hell is baby Jesús?)",
     "username" : "Little_Paramedic_451",
     "timestamp" : "2024-12-23T09:59:36Z"

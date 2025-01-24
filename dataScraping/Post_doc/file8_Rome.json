@@ -1,5 +1,5 @@
 {
-  "_id" : 200328,
+  "_id" : "ea2b1bf6-5cd3-49db-859e-f13279573c28",
   "community" : "Rome",
   "username" : "thesadsalmonn",
   "post" : "Where is this located?",
@@ -8,36 +8,43 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "7c6de3c2-9e59-41f8-a9fb-ef912bb11c68",
     "body" : "it’s the Piazza del Campidoglio, you find the Capitoline Museums next to it",
     "username" : "kriszszszz",
     "timestamp" : "2024-12-23T08:26:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "36ff2419-108c-4a7b-8cb7-aaba069d2622",
     "body" : "[Here](https://maps.app.goo.gl/GcDt8wrH8ebK7tRd6). Designed by Michelangelo. \n\n(I got married there.)",
     "username" : "RomeVacationTips",
     "timestamp" : "2024-12-23T08:28:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9dbf388a-1dfe-48cd-94dc-f03c010ce9c8",
     "body" : "https://maps.app.goo.gl/aAAksdoFSJmDv6Zn8",
     "username" : "giokey58",
     "timestamp" : "2024-12-23T08:31:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a488e986-f01e-43e7-a53c-95279a8d6ba0",
     "body" : "In Rome 😃👍❤️❤️",
     "username" : "Gabriele0819",
     "timestamp" : "2024-12-23T12:30:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6ed375ab-93d1-4386-ac07-f468f6ec8318",
     "body" : "Well done Kriszszszz 👍",
     "username" : "Gabriele0819",
     "timestamp" : "2024-12-23T12:30:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f120910c-905c-48c1-8757-7cde6f38d6f0",
     "body" : "Wow. That’s a pretty spectacular wedding venue. Curious what made you choose it. I (non Italian, American) also got married in Italy based solely on my first trip there and nothing more than a single visit before the big event.",
     "username" : "rHereLetsGo",
     "timestamp" : "2024-12-23T09:25:56Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "59dbbcba-d7cf-45d6-9ac2-a2bbb412cafb",
     "body" : "it's pretty common to get married there if you are only doing a civil ceremony.",
     "username" : "MissYoshiBaggins",
     "timestamp" : "2024-12-23T11:02:53Z"

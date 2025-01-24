@@ -12,7 +12,7 @@ public class PostGraph {
 
     @Id
     @Property("postId")
-    private Long postId;
+    private String postId;
 
     @Property("preview")
     private String preview;
@@ -33,11 +33,11 @@ public class PostGraph {
         this.timestamp = timestamp;
     }
 
-    public Long getPostId() {
+    public String getPostId() {
         return postId;
     }
 
-    public void setPostId(Long id) {
+    public void setPostId(String id) {
         this.postId = id;
     }
 

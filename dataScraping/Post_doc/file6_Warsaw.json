@@ -1,5 +1,5 @@
 {
-  "_id" : 200321,
+  "_id" : "25cd0261-b1da-4fb1-a277-1e3155d2ae12",
   "community" : "Warsaw",
   "username" : "Additional_Edge_2186",
   "post" : "Best option..?",
@@ -8,41 +8,49 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "a9b7cddb-284b-4e11-ac9b-38e81d5fa9d3",
     "body" : "Nobody gives a shit where you studied. Experience and skills are key.",
     "username" : "lyllopip",
     "timestamp" : "2024-12-23T10:09:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "140610b5-658b-4cf7-aac4-2aac63c0ffe7",
     "body" : "I studied CS on both (1 year in each place) but never finished as I found a great job in programming in the meantime. This was in 2014-2016, so thing might have changed since then.\n\nWarsaw University of Technology was a lot about proper computer SCIENCE. Understanding how computers actually work, getting full general knowledge but teaching little to nothing about actual programming.\n\nWhen I later switched to PJAIT, it was ALL about programming in different languages, databases, I also had to do some classes from the first year to make up for the differences in the programs - when I was learning about the architecture of the first processors in WUT, they were learning advanced MS Excel on their fist year.\n\nAll in all - doesn’t really matter which one you finish, but WUT will give you a proper understanding of computers and teach very little about actual commercial programming, whilst PJAIT will make you a fairly decent junior developer with close to zero understanding of the SCIENCE part of computer science \n\nGL",
     "username" : "divedev",
     "timestamp" : "2024-12-23T06:54:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "8f50d88f-c02f-4262-ba85-a70eb87d7f34",
     "body" : "When hireing companies Look mostly for experience like hackathons, student associacions, internships.\n\nNawet of the uni is secondary thing.",
     "username" : "ricola_aaa",
     "timestamp" : "2024-12-23T05:50:54Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ca890b6f-525b-4832-b4e1-a975a6e8f809",
     "body" : "In Warsaw honestly companies dont really care about your education,most important is experience and skills",
     "username" : "Ok_Profile_1673",
     "timestamp" : "2024-12-23T06:29:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7d8adc06-49d6-4345-a66e-d1b0ddcd57c9",
     "body" : "Companies don't really hire from universities. Getting an internship is often times up to you and skills are the only thing that matter, paper is just paper",
     "username" : "dangoth",
     "timestamp" : "2024-12-23T12:00:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ee8a3a69-e78f-4c34-bb26-410393e5f315",
     "body" : "Thanks for replying, does PJAIT give decent internship experience?",
     "username" : "Additional_Edge_2186",
     "timestamp" : "2024-12-23T10:06:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "98166269-a9b2-4229-9f34-bb7f0030e7e4",
     "body" : "Thankyou for replying, in general, how is the reputation of PJATK?",
     "username" : "Additional_Edge_2186",
     "timestamp" : "2024-12-23T06:00:33Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dd9f8287-4f44-4302-ac37-cb859c2b7767",
     "body" : "It is a decent uni, however, you should focus on getting internships etc. Experience and actual skills matter a lot more. And there are few openings for juniors right now.",
     "username" : "esquarken",
     "timestamp" : "2024-12-23T06:07:36Z"

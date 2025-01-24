@@ -1,5 +1,5 @@
 {
-  "_id" : 200426,
+  "_id" : "531f0d55-9f4e-48e4-8fa9-75ffeb675f99",
   "community" : "London",
   "username" : "polkadotska",
   "post" : "London info",
@@ -8,46 +8,55 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "f2ca3bf3-a3a9-46e5-8237-49011dadab72",
     "body" : "It doesn't work at all on Old Reddit.",
     "username" : "Angel_Omachi",
     "timestamp" : "2024-12-17T16:57:11Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "44fd26b0-13b3-40d8-8a3c-d1196e11e746",
     "body" : "Hey folks, if anyone is wondering what this is, we're testing the new Community Hub feature on Reddit, will be filling out some of the sections in the next few hours/days.",
     "username" : "ianjm",
     "timestamp" : "2024-12-17T12:52:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f6ff7491-5b35-4b74-ad19-8352a66c3fb8",
     "body" : "Doesn't work in third party apps either which is a shame",
     "username" : "JBWalker1",
     "timestamp" : "2024-12-20T22:40:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6016d1aa-9fa3-4be5-b1ff-a3c592a0e1e1",
     "body" : "Ooo that's cool. Maybe public transport resources in there? E.g. a link to [https://truetubestatus.com/](https://truetubestatus.com/) maybe (I'm the creator.)",
     "username" : "SimpleMetrics",
     "timestamp" : "2024-12-21T18:54:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1fab5111-ff6c-46c3-8a74-bdd2d1794e41",
     "body" : "That's actually quite cool, too bad it doesnt work on old reddit and new new reddit is even worse than new reddit.",
     "username" : "ab00",
     "timestamp" : "2024-12-19T07:51:08Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0e5ad4bc-610a-4c1a-b677-282a2666cdaa",
     "body" : "what dis",
     "username" : "Triptycho",
     "timestamp" : "2024-12-17T14:19:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2a054edd-492e-4667-b553-4e2e3aed9748",
     "body" : "Yep, guess I'll file this under a list of things I'll never see or use then",
     "username" : "AnotherSlowMoon",
     "timestamp" : "2024-12-17T20:01:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0a132b38-af67-4653-870a-18c9c7130886",
     "body" : "Yeah, annoying. Most people we're aiming this at will probably be new users on new Reddit or mobile though.",
     "username" : "ianjm",
     "timestamp" : "2024-12-17T17:18:35Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ce03023a-24f9-49d8-b427-315187c1db15",
     "body" : "new phone",
     "username" : "ianjm",
     "timestamp" : "2024-12-17T14:44:19Z"

@@ -15,6 +15,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
+import java.util.UUID;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -28,7 +29,7 @@ public class PostsCleaning {
 
     private static final Map<String, Integer> communityFileCounter = new HashMap<>();
     private static final Set<String> uniqueUsernames = new HashSet<>(); 
-    private static final AtomicInteger globalIdCounter = new AtomicInteger(200000); 
+    
 
     private static final Set<String> ignoredPatterns = Set.of("england", "FCInterMilan", "lombardia");
 
@@ -61,7 +62,7 @@ public class PostsCleaning {
 
         saveUsernamesToFile(usernamesFilePath);
 
-        System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
+       // System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
     }
 
     private static void transformJsonFile(File jsonFile, String outputFolderPath) {
@@ -104,7 +105,7 @@ public class PostsCleaning {
             String formattedTimestamp = convertAndCorrectTimestamp(timestamp);
             int numComments = ((JSONArray) originalJson.get("comments")).size();
 
-            transformedJson.put("_id", globalIdCounter.getAndIncrement());
+            transformedJson.put("_id", UUID.randomUUID());
             transformedJson.put("community", communityName);
             transformedJson.put("username", user);
             transformedJson.put("post", postBody);
@@ -127,7 +128,8 @@ public class PostsCleaning {
                     if (commentUser != null) {
                         uniqueUsernames.add(commentUser);
                     }
-
+                    
+                    transformedComment.put("_id", UUID.randomUUID());
                     transformedComment.put("username", commentUser);
                     transformedComment.put("timestamp", convertAndCorrectTimestamp(commentTimestamp));
                     transformedComment.put("body", originalComment.get("body"));

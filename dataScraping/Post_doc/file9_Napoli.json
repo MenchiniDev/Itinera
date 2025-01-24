@@ -1,5 +1,5 @@
 {
-  "_id" : 200401,
+  "_id" : "3906b162-8ae9-4c74-ab54-9c9b4cbe0f26",
   "community" : "Napoli",
   "username" : "Slow_Cardiologist365",
   "post" : "How to Get from Naples to Sorrento: Travel Options Explained",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "eaeee36e-9b28-4960-acae-fe3f0ff29674",
     "body" : "With Circumvesuviana ( type of metro)\nhttps://www.sorrentoinsider.com/it/orari-vesuviana-napoli-sorrento",
     "username" : "No_Cat_9638",
     "timestamp" : "2024-12-23T10:15:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b6cbf94b-0ce0-4e24-bd5f-0a8fe7c4f34e",
     "body" : "Don't, thanks!",
     "username" : "Tipo_Dell_Abisso",
     "timestamp" : "2024-12-23T13:01:32Z"

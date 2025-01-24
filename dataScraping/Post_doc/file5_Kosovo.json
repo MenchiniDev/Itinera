@@ -1,5 +1,5 @@
 {
-  "_id" : 200293,
+  "_id" : "b7a6c824-cd92-4368-ae8f-59e27309869f",
   "community" : "Kosovo",
   "username" : "AIbanian",
   "post" : "Po vjen era shteta o çuna!",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "d6ac1c29-18da-4707-947d-9d2657d5dc08",
     "body" : "knena shkijet tu u kall ne Beograd me Vuçiqin e knena tu bllokue hymja ne zgjedhje. o Inshallah flaka i del shkive kudo qe jan !!",
     "username" : "AIbanian",
     "timestamp" : "2024-12-23T14:29:04Z"

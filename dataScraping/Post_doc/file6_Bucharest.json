@@ -1,5 +1,5 @@
 {
-  "_id" : 200190,
+  "_id" : "a99dfe75-4a2f-417f-bb18-23705d934c97",
   "community" : "Bucharest",
   "username" : "Prov91",
   "post" : "Football Tickets",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "36a7e2f4-9885-4ab6-88c4-ee579d2d1152",
     "body" : "Sure, it is possible!",
     "username" : "Elisss56",
     "timestamp" : "2022-10-22T20:16:56Z"

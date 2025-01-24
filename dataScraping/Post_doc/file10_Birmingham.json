@@ -1,5 +1,5 @@
 {
-  "_id" : 200419,
+  "_id" : "72a00a30-c52d-4b49-bffb-338f70ba1b94",
   "community" : "Birmingham",
   "username" : "CharacterBig6915",
   "post" : "Finding Coffee Type",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "e0de045d-bdd7-4cd1-8c94-e40ffa418d5d",
     "body" : "I like chicory coffee too!  You can order Cafe du Monde coffee online",
     "username" : "RollTider365",
     "timestamp" : "2024-12-23T13:43:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a98e21c4-c0b0-4b3c-b584-13e913fa6ae1",
     "body" : "I haven't seen it here at coffee shops. You're not likely to find it outside of Louisiana unless it's at a place like Mo'Bay Beignets (which doesn't have a Bham location).\n\n\nAlmost every grocery store here carries Community Coffee though that you can make at home. But yeah for a hot cup from a coffee shop, not likely.",
     "username" : "puzzlealbatross",
     "timestamp" : "2024-12-23T13:47:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c4fc4cec-ea9d-46be-abfd-ed4fcf72fd96",
     "body" : "Publix carries it if you’re wanting to brew your own.",
     "username" : "Cold_Ad7516",
     "timestamp" : "2024-12-23T13:54:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d9eaf7c0-9212-4fbf-9b97-0f15031338b4",
     "body" : "Maybe O'Henry's? Any decent coffee place isn't gonna serve that shit.",
     "username" : "GrumpsMcWhooty",
     "timestamp" : "2024-12-23T13:18:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "72d075d0-ed01-4f6c-9809-3cd3806e8b14",
     "body" : "Why you being so mean!",
     "username" : "upsetmojo",
     "timestamp" : "2024-12-23T14:15:13Z"
