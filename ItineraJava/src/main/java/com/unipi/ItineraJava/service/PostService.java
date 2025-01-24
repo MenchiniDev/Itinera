@@ -215,10 +215,10 @@ public class PostService {
         }
 
 
-        if(communityService.findByName(community))
+        if(communityService.existsByName(community))
         {   Long postId = postCounter.incrementAndGet();
             Post post = new Post();
-            post.setId(postId);
+            post.setId(String.valueOf(postId));
             post.setUsername(username);
             post.setCommunity(community);
             post.setTimestamp(String.valueOf(LocalDateTime.now()));
