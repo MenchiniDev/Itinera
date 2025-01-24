@@ -65,7 +65,7 @@ class PostController {
     // working
     @PutMapping("/report")
     public ResponseEntity<String> reportPost(@RequestHeader("Authorization") String token,
-                                             @RequestBody ReportPostRequest request) {
+                                             @RequestBody ReportPostRequest request) { //body, user, community
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if (username == null) {
             return ResponseEntity.badRequest().body("Invalid token");
@@ -116,7 +116,7 @@ class PostController {
     // working
     @PutMapping("/comment/report")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
-                                             @RequestBody ReportCommentRequest report)
+                                             @RequestBody ReportCommentRequest report) //user community textcomment
     {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null)
@@ -149,25 +149,20 @@ class PostController {
     //  "community": "Barcelona",
     //  "timestamp": "2025-01-22T15:30:00Z",
     //  "comment": "mesi mesi ankara mesi, immenso mesi"
+    //  "textpost": "bo non ho mongo"
     //}
     @PostMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
             @PathVariable String username, // of the post replying
-            @RequestBody commentDTO commentDTO) {
+            @RequestBody commentDTO commentDTO) { // community timestamp comment textPost
         try {
             String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
             System.out.println(commenterUsername);
             if (commenterUsername == null)
                 return ResponseEntity.internalServerError().body("token invalid");
 
-            Comment comment = new Comment();
-            comment.setUsername(commenterUsername);
-            comment.setTimestamp(String.valueOf(LocalDateTime.now()));
-            comment.setBody(commentDTO.getComment());
-            comment.setReported(false);
-
-            Post updatedPost = postService.addCommentToPost(username, commentDTO.getCommunity(), commenterUsername, comment);
+            Post updatedPost = postService.addCommentToPost(commenterUsername,username, commentDTO);
 
             if (updatedPost != null) {
                 return ResponseEntity.ok("Commento aggiunto");

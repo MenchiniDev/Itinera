@@ -13,7 +13,17 @@ public class commentDTO {
     @JsonProperty("comment")
     private String comment;
 
+    private String textpost;
+
     public commentDTO() {}
+
+    public String getTextpost() {
+        return textpost;
+    }
+
+    public void setTextpost(String textpost) {
+        this.textpost = textpost;
+    }
 
     public String getCommunity() {
         return community;
