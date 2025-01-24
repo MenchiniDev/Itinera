@@ -113,9 +113,6 @@ class UserController {
         if (!isActive) {
             return ResponseEntity.status(403).body("User account is inactive. You no longer have access to this application.");
         }
-
-
-
         passwordEncoder.matches(user.getPassword(), existingUser.get().getPassword());
         String token = JwtTokenProvider.generateToken(user.getUsername());
         return ResponseEntity.ok(token);

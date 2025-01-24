@@ -63,17 +63,16 @@ class PostController {
 
     // http://localhost:8080/posts/report
     // working
-    // todo metti l'_id al posto del ReportPostRequest
-    @PutMapping("/report")
+    // todo metti l'_id al posto del ReportPostRequest ok
+    @PutMapping("/report/{postId}")
     public ResponseEntity<String> reportPost(@RequestHeader("Authorization") String token,
-                                             @RequestBody ReportPostRequest request) { //body, user, community
+                                             @PathVariable String postId ) { //body, user, community
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if (username == null) {
             return ResponseEntity.badRequest().body("Invalid token");
         }
         try {
-            System.out.println("BODY ARRIVATO:" + request.getBody());
-            if (postService.reportPost(request.getBody(), request.getUser(), request.getCommunity())) {
+            if (postService.reportPost(postId)) {
                 return ResponseEntity.ok("Success");
             }
         } catch (Exception e) {
@@ -116,15 +115,16 @@ class PostController {
     //    "textPost": "bo"
     // }
     // working
-    // todo: metti il Postid anzichè user e community
-    @PutMapping("/comment/report")
+    // todo: metti il Postid anzichè user e community ok
+    @PutMapping("/comment/report/{postId}/{commentId}")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
-                                             @RequestBody ReportCommentRequest report) //user community textcomment
+                                             @PathVariable String postId,
+                                             @RequestBody String  commentId)
     {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null)
             return ResponseEntity.badRequest().body("invalid token");
-        if (postService.reportComment(report.getCommunity(),report.getUser(),report.getTextComment()))
+        if (postService.reportComment(postId,commentId))
             return ResponseEntity.ok("success");
         return ResponseEntity.internalServerError().body("error");
     }
@@ -151,7 +151,7 @@ class PostController {
     //{
     //  "comment": "mesi mesi ankara mesi, immenso mesi"
     //}
-    // todo: metti l'id al posto di community e user e timestamp
+    // todo: metti l'id al posto di community e user e timestamp ok
     @PostMapping("/comment/{postId}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
@@ -188,8 +188,8 @@ class PostController {
     //        "timestamp": "2024-12-22T13:37:44Z"
     //    }
     //]
-    //todo: migliora nome
-    @GetMapping("trendingpostreported")
+    //todo: migliora nome ok
+    @GetMapping("viralposts")
     public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
     {
         if(User.isAdmin(token))

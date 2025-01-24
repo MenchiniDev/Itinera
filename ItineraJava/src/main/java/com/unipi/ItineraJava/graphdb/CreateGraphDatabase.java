@@ -104,6 +104,7 @@ public class CreateGraphDatabase {
                         JSONObject comment = (JSONObject) commentObj;
                         String commentUsername = (String) comment.get("username");
                         String commentTimestamp = (String) comment.get("timestamp");
+                        String commentId = (String) comment.get("_id");
 
                         // Aggiungo l'utente del commento al set di utenti
                         users.add(commentUsername);

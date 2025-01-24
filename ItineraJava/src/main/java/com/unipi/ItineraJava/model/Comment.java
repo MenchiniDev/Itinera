@@ -4,6 +4,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 
 // COMMENT
 public class Comment {
+    private String commentId;
     @Field("username")
     private String username;
     @Field("timestamp")
@@ -14,11 +15,11 @@ public class Comment {
     private boolean reportedcomment;
 
     public Comment() {}
-    public Comment(String user, String  timestamp, String text, boolean reported) {
-        this.username = user;
-        this.timestamp = timestamp;
-        this.body = text;
-        this.reportedcomment = reported;
+    public void setCommentId(String commentId) {
+        this.commentId = commentId;
+    }
+    public String getCommentId() {
+        return commentId;
     }
     public String getUsername() {
         return username;
