@@ -26,7 +26,7 @@ public class ReviewController {
     @PostMapping
     public ResponseEntity<String> addReview(
             @RequestHeader("Authorization") String token,
-            @RequestBody Map<String, Object> requestBody) {
+            @RequestBody Map<String, Object> requestBody) { //controllo con mappa
 
         System.out.println("Richiesta ricevuta con "+ requestBody);
 

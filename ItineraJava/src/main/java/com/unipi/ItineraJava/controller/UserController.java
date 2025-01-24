@@ -232,14 +232,14 @@ class UserController {
 
     // Endpoint per aggiornare il campo "reported" per uno specifico user
     @PutMapping("/report/{username}")
-    public ResponseEntity<?> reportUser(@PathVariable String username, @RequestParam boolean reported) {
+    public ResponseEntity<?> reportUser(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         // Verifica se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN)
                     .body("User not authenticated. Please log in to access this endpoint.");
         }
-        userService.updateReportedByUsername(username, reported);
+        userService.updateReportedByUsername(username, true);
         return ResponseEntity.status(HttpStatus.OK)
                 .body("User correctly reported.");
 
