@@ -3,6 +3,7 @@ package com.unipi.ItineraJava.repository;
 import java.util.List;
 import java.util.Optional;
 
+import com.unipi.ItineraJava.DTO.ActiveStatusDTO;
 import com.unipi.ItineraJava.DTO.ActiveUserDTO;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
@@ -66,7 +67,7 @@ public interface UserRepository extends MongoRepository<User, String> {
 
 
     @Query(value = "{ 'username': ?0 }", fields = "{ 'active': 1, '_id': 0 }")
-    Optional<Boolean> findActiveStatusByUsername(String username);
+    Optional<ActiveStatusDTO> findActiveStatusByUsername(String username);
 
     @Query(value = "{ 'username': ?0 }")
     @Update(value = "{ '$set': { 'active': ?1 } }")

@@ -83,7 +83,7 @@ public class UserService{
     //verifica lo stato del campo active di un utente
     public boolean isUserActive(String username) {
         // Recupera il valore del campo 'active'
-        return userRepository.findActiveStatusByUsername(username)
+        return userRepository.findActiveStatusByUsername(username).map(ActiveStatusDTO::isActive) //restituisce direttamente un bool
                 .orElseThrow(() -> new IllegalArgumentException("User not found: " + username));
     }
 
