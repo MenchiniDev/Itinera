@@ -10,8 +10,13 @@ import com.unipi.ItineraJava.model.*;
 public interface PostNeo4jRepository extends Neo4jRepository<PostGraph, Long>{
     
 
-    @Query("CREATE (p:Post {postId: $postId, preview: $preview, timestamp: $timestamp}) RETURN p")
-    void createPostNode(Long postId, String preview, String timestamp);
+    @Query("MERGE (u:User {username: $username}) " +
+       "MERGE (c:Community {city: $community}) " +
+       "CREATE (p:Post {postId: $postId, preview: $preview, timestamp: $timestamp}) " +
+       "MERGE (u)-[:ASSOCIATED]->(p) " +
+       "MERGE (p)-[:ASSOCIATED]->(c) " +
+       "RETURN p")
+    void createPostNode(Long postId, String preview, String timestamp, String username, String community);
 
     @Query("MATCH (p:Post {postId: $id}) DETACH DELETE p")
     void deletePostNode(Long id);
