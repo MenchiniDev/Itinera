@@ -1,5 +1,5 @@
 {
-  "_id" : 200421,
+  "_id" : "2d9177c5-da0f-437c-bb06-aba7ded52b47",
   "community" : "Milano",
   "username" : "Intelligent_Cat_1512",
   "post" : "Mercatino di Natale e apparso per magia? ",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "d2dec5c9-a12c-4f3e-9886-01e618c132d8",
     "body" : "Il 10 dicembre sono passato per Duomo, verso le 18-19, e stavano montando le varie casette (ed erano ancora in alto mare). Dunque mi sembra semplicemente un bias di persone che o non ci hanno fatto caso oppure non sono passare per il Duomo in quei giorni.",
     "username" : "InformalRich",
     "timestamp" : "2024-12-21T12:21:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6a5dcb0c-c09a-4bca-8a22-2ca4248e6aa1",
     "body" : "è la magia del natale",
     "username" : "mark_lenders",
     "timestamp" : "2024-12-21T23:33:54Z"

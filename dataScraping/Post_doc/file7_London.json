@@ -1,5 +1,5 @@
 {
-  "_id" : 200311,
+  "_id" : "1584adf3-6e38-4b5c-8302-f85fd5a5c764",
   "community" : "London",
   "username" : "sharj94",
   "post" : "Anyone else notice how good the WiFi on the tube is today?",
@@ -8,121 +8,145 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "0ee10e54-4a85-46cb-bda0-08383373c573",
     "body" : "Most other Tube-like systems have 4/5G in the tunnels… we struggle to get signal even when it’s above ground (e.g. the Osterley dead spot).",
     "username" : "are_wethere_yet",
     "timestamp" : "2024-12-23T10:30:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9826c6db-84da-43e3-bc69-040f4ee31791",
     "body" : "International tourists generally wouldn't have access to tube wifi anyway, I wouldn't have thought. Some with a local sim might, but that's a low proportion, and the proportion of those that are accessing the wifi is even lower.",
     "username" : "jmr1190",
     "timestamp" : "2024-12-23T11:47:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "38b221b5-09c5-4538-985e-bb2053868b83",
     "body" : "I prefer to disable WiFi when on the tube and just use 4G/5G - it connects much much faster and have had download speed of over 100MB even in the tunnel section. I even do all my apps update while on the tube thesedays 😊😊",
     "username" : "CrabbyKrabs",
     "timestamp" : "2024-12-23T11:48:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c855842c-c389-4545-af05-3c02b7b83bee",
     "body" : "Yeah man, I celebrated by face-timing mum for the whole journey home. She talks really loudly these days as her hearing is going, but nobody seemed to mind.",
     "username" : "MissionFig5582",
     "timestamp" : "2024-12-23T12:09:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ff4cf2c9-f6b5-41f6-ba87-475a97a4940f",
     "body" : "But what’s the password ?",
     "username" : "findthemistke",
     "timestamp" : "2024-12-23T10:24:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "02749d48-34b8-41d3-aece-5b09cdabdc6a",
     "body" : "The mobile coverage is getting better! Decent stretch of the northern line has it now.",
     "username" : "Gooooglemale",
     "timestamp" : "2024-12-23T10:36:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b74f2fd7-1247-44f3-97e4-a3e0bd138cf2",
     "body" : "The locals probably campaigned against masts",
     "username" : "secretlondon",
     "timestamp" : "2024-12-23T13:27:51Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "962b76ef-17b0-445f-b308-08edadf545bc",
     "body" : "The subsurface lines are the most annoying ones for me. Like we're only just below the roads why is there no 4/5g and even the TfL wifi doesn't work!",
     "username" : "BradlinhoM",
     "timestamp" : "2024-12-23T11:46:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0ad3efc2-df11-45e6-bc0f-7dcf19f20381",
     "body" : "Osterley dead spot is horrible. I thought it was just my network, so it’s not just me!",
     "username" : "Accurate_Prompt_8800",
     "timestamp" : "2024-12-23T10:35:18Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b7b11830-5a76-488d-9f9d-f68ad14d2a60",
     "body" : "Osterley? I get good reception there on both Vodafone and O2. The only part I hate is when you go into the tunnel at Earls Court and then (I think?) to Green Park there is no reception or 4G/5G service annoyingly.",
     "username" : "OxbridgeDingoBaby",
     "timestamp" : "2024-12-23T10:41:14Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f2062799-1e45-4f03-90e0-ba8d28947583",
     "body" : "I guess it depends who they are piggybacking off",
     "username" : "RFCSND",
     "timestamp" : "2024-12-23T12:25:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "87c2488e-8485-4985-8144-09c3db2ece2b",
     "body" : "This is what's so frustrating about wifi on the tube - it could be so good but the authentication is so slow by the time you've connected you've started to leave the station. If anyone from TFL is reading, please implement 802.11k/v/r on your wifi APs or similar!",
     "username" : "ramakitty",
     "timestamp" : "2024-12-23T11:52:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "fc0c736a-9910-4362-b4b9-c8ba021dc03c",
     "body" : "Hunter2",
     "username" : "polkadotska",
     "timestamp" : "2024-12-23T10:39:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "704d881c-af91-492d-92b3-8fbbe5ff721b",
     "body" : "They paused the expansion for some reason though? Hopefully they will continue soon, I need that gap between Camden and KX filled 😁 oh and that tiny drop around Highgate as well",
     "username" : "trooperer",
     "timestamp" : "2024-12-23T10:48:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1025b05c-74c6-475c-90e3-f6c16f13cbaf",
     "body" : "The word “just” in “just below” is doing quite a bit of work there. A couple of meters of concrete is not the best thing for mobile coverage ",
     "username" : "HeartyBeast",
     "timestamp" : "2024-12-23T13:54:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1f934971-554c-4095-abf1-9c3cdfe5ff92",
     "body" : "Why? 4g/5g is a much better solution.",
     "username" : "Nicebutdimbo",
     "timestamp" : "2024-12-23T12:43:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0ddad41a-02eb-4f90-aa0f-18a8c5ec5dad",
     "body" : "That's just asterisks...",
     "username" : "RobSamson",
     "timestamp" : "2024-12-23T11:03:38Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "2098b5e2-1e69-4aa6-9168-7e48e52adf31",
     "body" : "Lizzie line rollout just finished 2 weeks ago. Looks like the northern line gaps will be sorted next year …. Then we’ll be able to enjoy teenagers TikTok’s non stop all the way from morden to Moorgate! :-)\n\n“Large sections of central London now have coverage, and work is underway to expand coverage along the Northern line towards Morden, as well as between King’s Cross St Pancras and Moorgate by the end of the year and early 2025. Coverage on the Bakerloo line will shortly be extended along the tunnelled sections between Piccadilly Circus and Embankment, with further stations along the line, as well as the Piccadilly and Victoria lines, set to get coverage in the coming months.”\n\nhttps://groundtransportgroup.com/news-and-media/mobile-coverage-on-the-entire-elizabeth-line-complete-ahead-of-festive-season/",
     "username" : "Gooooglemale",
     "timestamp" : "2024-12-23T10:55:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7c56e7c4-5c76-42cd-8d33-5323592e3cd7",
     "body" : "Have they paused it? I've noticed stretches and stations south of London Bridge have been getting coverage over the last two or three weeks.",
     "username" : "RetepNamenots",
     "timestamp" : "2024-12-23T12:12:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ccbeba29-8c0e-45a9-9009-a9e7348c4806",
     "body" : "I thought the highgate bit been 'fixed'? I've been getting signal all the way from Highgate to EF for about a month now!!",
     "username" : "CrabbyKrabs",
     "timestamp" : "2024-12-23T11:50:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4b46c348-3331-413d-afe9-0df98d9946f9",
     "body" : "I mean, relative to having wifi on the deep level tubes, it is pretty much just below the road",
     "username" : "BradlinhoM",
     "timestamp" : "2024-12-23T14:26:06Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dd8b2658-d92f-40fd-95c1-1c31c35a7e41",
     "body" : "hope they do battersea power station section for northern line",
     "username" : "xenomorph-85",
     "timestamp" : "2024-12-23T11:36:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b393d926-571a-49ae-bf5d-8d60a924bf33",
     "body" : "Yes it started at Clapham Common and is spreading! Maybe next year I’ll be able to check my email all the way to Tooting!",
     "username" : "secretlondon",
     "timestamp" : "2024-12-23T13:28:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a13f6e1e-9d15-4e02-bc59-e66fbf0305bf",
     "body" : "Hm, maybe it's EE acting out. But I still have some interruptions. It's nothing major, it's definitely first world problems at this point to be honest:)",
     "username" : "trooperer",
     "timestamp" : "2024-12-23T13:09:53Z"

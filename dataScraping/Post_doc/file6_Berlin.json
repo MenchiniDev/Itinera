@@ -1,5 +1,5 @@
 {
-  "_id" : 200319,
+  "_id" : "d5a34ce4-8d83-42ea-a5bc-9a78c0fb68c6",
   "community" : "Berlin",
   "username" : "Skytoto02",
   "post" : "Merry Christmas from good old Berlin ",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "0b2ee1a6-db94-4588-b50d-0a3cb80d3b98",
     "body" : "If your photography is for photography's sake, please use /r/berlinpics instead.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/berlin) if you have any questions or concerns.*",
     "username" : "AutoModerator",
     "timestamp" : "2024-12-22T22:10:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7a180247-ea15-4922-bb6e-bd54400fe133",
     "body" : "It looks like Bar Jeder Vernunft",
     "username" : "Total_Slip8731",
     "timestamp" : "2024-12-23T12:17:27Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c39dab37-4fb3-4cd0-80ac-41f445bff7b2",
     "body" : "Berlin is not good anymore. It's too dirty. The rents are too high. Impossible to find an apartment anyway. The homeless and drug problems seem to be out of control. The public transport is getting worse. There is a perpetual war between car owners and bike riders both sides seem to be losing. The culture is being hit by a decrease in subsidies cuts. There seems to be an increase in ideologically motivated violence. So, yeah...",
     "username" : "MisanthropeRobot",
     "timestamp" : "2024-12-22T22:58:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cc5ad636-a8f1-4b4b-8efb-9bd07aeb80db",
     "body" : "Now it was an Event Called Palazzo",
     "username" : "Skytoto02",
     "timestamp" : "2024-12-23T12:38:16Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f8461240-4b93-404e-9051-e118cfa0d962",
     "body" : "It happens in so many European Capital cities, not only in Berlin.\n\n London, for example, is not good anymore. It's too dirty.The rents are too high. Impossible to find an apartment anyway.  The homeless and drug problem seems out of control, and 3/4 of Londoners are foreigners.",
     "username" : "Blaueveilchen",
     "timestamp" : "2024-12-22T23:11:42Z"

@@ -1,5 +1,5 @@
 {
-  "_id" : 200055,
+  "_id" : "e42e51e3-d075-4503-9cdb-452b566f0e50",
   "community" : "Bucharest",
   "username" : "PCB_1",
   "post" : "Looking for a garsoniera in Unversitate or surroundings, price max 350 including utilities",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "007aa260-5a71-416f-8345-83cd41082917",
     "body" : "Check out www.imobliare.ro & www.anuntul.ro",
     "username" : "RoyalSorin",
     "timestamp" : "2022-09-15T12:05:22Z"

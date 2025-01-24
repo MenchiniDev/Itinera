@@ -1,5 +1,5 @@
 {
-  "_id" : 200351,
+  "_id" : "d6af5509-820a-4afc-8f51-b17f84241759",
   "community" : "Warsaw",
   "username" : "Top-Cartographer7433",
   "post" : "New Work Permit Rules: For Foreign Students?",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "2488cf68-9907-4bf2-a2aa-62e39571e9ed",
     "body" : "*It's not certain yet. The bill will go to the Sejm next month; only then will we know, and even if we assume the bill passes, the implementation will take longer.*",
     "username" : "No-Strawberry7",
     "timestamp" : "2024-12-23T01:54:24Z"

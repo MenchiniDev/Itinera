@@ -1,5 +1,5 @@
 {
-  "_id" : 200151,
+  "_id" : "eec5ff51-aaf3-420d-b961-0f62a71d417c",
   "community" : "Tirana",
   "username" : "yohana31",
   "post" : "Fresh fish market",
@@ -8,26 +8,31 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "4c92f689-abd6-48b5-8b89-1eb91ef0dafa",
     "body" : "Theres no huge market same as youve seen we have for fruits and veggies, but there are many small fish shops. If you can tell us your area we may help suggesting the most known there.\n\nPs: also know that even some fish shops that look like restaurants also sell raw fish to buy for home or they can cook it for 1$ extra fee and you come pick it in less than an hour after you call",
     "username" : "Echye",
     "timestamp" : "2024-12-18T13:42:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ad00c3de-c227-4359-b1c3-abd4062af929",
     "body" : "Where do you live? There are meat of fish shops almost anywhere.",
     "username" : "Tree-Puzzleheaded",
     "timestamp" : "2024-12-18T12:49:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "adbd8776-5074-4225-981a-97340ef28b1c",
     "body" : "Ah I was looking for it as well!",
     "username" : "cutekindcat",
     "timestamp" : "2024-12-20T15:07:40Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c3a6f606-bdc2-4dad-8852-a992dabbaa5b",
     "body" : "yup i realized that, there's one close to me i went there and got a couple fish for lunch, thank you :)",
     "username" : "yohana31",
     "timestamp" : "2024-12-19T15:12:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "222980ff-166c-4a54-8108-9b6423cbc84a",
     "body" : "idk where you're at but i got the fish at a place called \"aloha fish & grill\".",
     "username" : "yohana31",
     "timestamp" : "2024-12-20T15:21:54Z"

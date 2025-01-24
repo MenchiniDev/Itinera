@@ -1,5 +1,5 @@
 {
-  "_id" : 200289,
+  "_id" : "2953fa23-21ff-4adb-98dc-f79d55f0d704",
   "community" : "Rome",
   "username" : "Back2rule",
   "post" : "Fist bumps: Let it go",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "ab84f68d-8ba1-465f-8a29-deb35199a122",
     "body" : "Let's not have multiple threads on the same annoyance, which has been around for years. \n\nPlease refer to [this thread](https://www.reddit.com/r/rome/comments/1hk2cu6/what_is_this_scam/) for further discussion.",
     "username" : "RomeVacationTips",
     "timestamp" : "2024-12-23T05:45:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1df4771d-559a-47b1-8d85-710f2952d71a",
     "body" : "Also if someone tries to toss you something or put anything around your neck/wrist ignore them.",
     "username" : "infiniti30",
     "timestamp" : "2024-12-23T04:01:31Z"

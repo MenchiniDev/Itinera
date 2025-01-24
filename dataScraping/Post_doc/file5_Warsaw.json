@@ -1,5 +1,5 @@
 {
-  "_id" : 200218,
+  "_id" : "bc5f76e4-ab40-438d-ae29-bfbbf546f303",
   "community" : "Warsaw",
   "username" : "OstdeutschNL",
   "post" : "Ideas for new year parties",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "94279077-aebd-42f1-a24b-e29db2569bff",
     "body" : "Searching this subreddit for crying out loud. Everything is explained: tips from last year, list of places and questions from this year, guide to finding events to browse and make a decision. Don't be lazy, take initiative. Merry Christmas.",
     "username" : "eckowy",
     "timestamp" : "2024-12-23T07:43:25Z"

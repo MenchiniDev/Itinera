@@ -1,5 +1,5 @@
 {
-  "_id" : 200391,
+  "_id" : "a1635aae-364e-439c-a754-a621cdd011d2",
   "community" : "Monaco",
   "username" : "Weird_Ad_6445",
   "post" : "Do most hotels close during the winter months?",
@@ -8,21 +8,25 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "e3bc7513-b56e-4c17-8a38-a7949fc4d947",
     "body" : "There are indeed some seasonal hotel, but there are plenty of options open. Depending on your budget.",
     "username" : "issoequeerabom",
     "timestamp" : "2024-12-23T08:53:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a243b5de-6444-423a-a23c-80b977ac08c3",
     "body" : "Maybourne Riviera is open all year round and so is Cap d'Estel. Hotels that close for the winter (like MC Beach Hotel) will already be closed by now, usually they close in October/November. \n\nI suggest Ceto (the Maybourne Riviera restaurant) for a good restaurant with a view, and I suggest to go for lunch because it's much nicer. You can also go to Mirazur which is owned by the same chef. \n\nThere is also the classic Chevre d'Or, food is kind of classic French and not my favourite for that kind of place, but the views are stunning too.\n\nThe Grill in Hotel de Paris has a beautiful view too, especially form the side terrace where you have the private dining room.",
     "username" : "Vast_Decision3680",
     "timestamp" : "2024-12-23T09:49:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "84e205ba-d05f-4696-a530-af28f087a8e4",
     "body" : "It says the Maybourne Riviera is closed January 20 until June on its website. Also no booking availability for dining or rooms on Cap Estel. Thank you for the alternative suggestions! ",
     "username" : "Weird_Ad_6445",
     "timestamp" : "2024-12-23T12:48:53Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dfc2dc29-88b3-4a17-b98b-89d0c9e0ed2c",
     "body" : "Well, I heard they have some issues with the municipality because they built stuff not according to regulations so maybe they are closing for some renovation. Otherwise there's the risk of permanent closure.",
     "username" : "Vast_Decision3680",
     "timestamp" : "2024-12-23T13:17:14Z"

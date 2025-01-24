@@ -1,5 +1,5 @@
 {
-  "_id" : 200182,
+  "_id" : "77f9f191-7457-490a-8cb4-df773d5d6403",
   "community" : "Barcelona",
   "username" : "Mowgli_78",
   "post" : "Missatges d'odi als carrers de BCN",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "5ad5af49-03f1-45e3-b841-730b80e27b60",
     "body" : "Hi ha pintades lletges i merdes de gos a tot arreu a Bcn, però mai no he vist ningú pintant o deixant que el seu gos cagui sense recollir la merda 🤔 ",
     "username" : "atzucach",
     "timestamp" : "2024-12-21T19:38:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cfd52ffc-2e77-40d5-9dec-9ff8f46f25ec",
     "body" : "La poli no ha ensumat aquest barri ni de lluny",
     "username" : "blackburn42",
     "timestamp" : "2024-12-21T21:38:21Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "67d690b1-73dd-457e-8a32-3d9b0785dfc3",
     "body" : "Multa per castellanot, merescudíssima",
     "username" : "chabacanito",
     "timestamp" : "2024-12-21T20:21:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "03885715-6dfb-47fe-9027-ce4c59ccdcff",
     "body" : "Multar per embrutar els carrers es normal, sí",
     "username" : "Dimsum852",
     "timestamp" : "2024-12-22T12:25:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "5e4f0d60-3f17-43f8-9df3-14c18c817ded",
     "body" : "Millor que les signatures de carrer",
     "username" : "kayama57",
     "timestamp" : "2024-12-22T15:52:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "87097dc1-c558-4696-89da-ed9a4edbb4a2",
     "body" : "Vaya, que majo.",
     "username" : "bioscire",
     "timestamp" : "2024-12-21T22:00:00Z"

@@ -1,5 +1,5 @@
 {
-  "_id" : 200372,
+  "_id" : "56dbfdd3-4ef0-44b7-bb41-46586c97a044",
   "community" : "Tirana",
   "username" : "KingOfTheNightfort",
   "post" : "Do not ask about illegal stuff. ",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "40ac41b0-11a3-44d8-ad4f-6628d04af890",
     "body" : "[removed]",
     "username" : "None",
     "timestamp" : "2024-11-19T11:32:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "9db4e6aa-20da-4319-8a9e-05985647b38e",
     "body" : "Advertisements of any kind are not accepted.",
     "username" : "tirana-ModTeam",
     "timestamp" : "2024-11-19T11:32:47Z"

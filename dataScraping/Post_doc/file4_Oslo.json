@@ -1,5 +1,5 @@
 {
-  "_id" : 200228,
+  "_id" : "84c83ee6-266a-4ce1-a0ba-13a0c14811a2",
   "community" : "Oslo",
   "username" : "Over_Sale7722",
   "post" : "Skøyteis i Spikersuppa? ",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "1a6d9139-59c8-4305-8eb3-b5643d81c115",
     "body" : "Ja",
     "username" : "GrethaThugberg",
     "timestamp" : "2024-12-23T11:10:43Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4380d554-25c9-40ab-a07c-2c0b3f504d85",
     "body" : "Takk. Da blir det skøyter og churros.",
     "username" : "Over_Sale7722",
     "timestamp" : "2024-12-23T11:20:49Z"

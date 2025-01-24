@@ -1,5 +1,5 @@
 {
-  "_id" : 200360,
+  "_id" : "dd268bc7-01b5-4275-b3b4-2a43d3bdfd72",
   "community" : "Seville",
   "username" : "9kSs",
   "post" : "Where can I get a good woolen sweater?",
@@ -8,11 +8,13 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "f4c95e4a-2e7a-4e39-8343-6d61ec75b439",
     "body" : "El corte inglés",
     "username" : "Zealousideal_West_16",
     "timestamp" : "2024-12-23T10:18:30Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f8a4cb65-d638-49df-bbd7-6debf41d2034",
     "body" : "Online",
     "username" : "Zealousideal_West_16",
     "timestamp" : "2024-12-23T10:05:15Z"

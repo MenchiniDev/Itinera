@@ -1,5 +1,5 @@
 {
-  "_id" : 200239,
+  "_id" : "47ca58a8-3f81-4716-9259-2d57c0d20c00",
   "community" : "Riga",
   "username" : "Existing-Big-6709",
   "post" : "Sauna",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "bf4667ff-9b37-493f-82dc-7604d69dfbbb",
     "body" : "Jokerklubs.lv\n\nSeven different saunas, pool, etc.",
     "username" : "Ok_Corgi4225",
     "timestamp" : "2024-12-19T11:18:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a3fad2c5-ea4d-4231-9e65-7bd7f025bf37",
     "body" : "Wellton Spa",
     "username" : "Commercial-Long-1727",
     "timestamp" : "2024-12-19T12:06:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "87e385fe-d0c5-45e3-8773-6dd71f701cbf",
     "body" : "Grand poet hotel also welton riga hotel",
     "username" : "mrsrsp",
     "timestamp" : "2024-12-19T15:58:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a8ab0d12-9201-4e48-9e5a-e0752b662bbb",
     "body" : "ESPA can be nice",
     "username" : "isthistofu",
     "timestamp" : "2024-12-20T00:07:12Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1452246d-e861-4fb7-a845-943b781c8036",
     "body" : "Unimarine SPA, quite cheap, three saunas, decent pool with streams, so it's actually fun to swim around, bar & food. Also, the only place I know where you are allowed to stay for unlimited time.",
     "username" : "mizanscena",
     "timestamp" : "2024-12-20T06:03:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0be148dd-f64c-41f0-af4a-07efda8a8e27",
     "body" : "MyFitness",
     "username" : "NoNegativeBoi",
     "timestamp" : "2024-12-19T09:26:34Z"

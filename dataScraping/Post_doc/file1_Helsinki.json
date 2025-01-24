@@ -1,5 +1,5 @@
 {
-  "_id" : 200021,
+  "_id" : "ac05588f-09d0-4354-883c-8c9f6170644c",
   "community" : "Helsinki",
   "username" : "wasting_myLife_here",
   "post" : "Spending Christmas in Helsinki this year ",
@@ -8,86 +8,103 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "52f503c4-93a8-43c7-aae6-c043857e784d",
     "body" : "According to HSL app's route planner, the first I train to the city will leave at 8:04.\n\nThere is no bus until 10:30.\n\nSo either wait around for the train or grab a taxi. There are fixed price airport shared taxis ( it's really a minibus), at least there used to be. I'm not sure if those exist anymore. Those are the cheapest. \n\nAnd you're probably not the only person trying to get downtown, so maybe sharing a cab could be possible. It's holiday pricing, so it won't be cheap.",
     "username" : "Korpikuusenalla",
     "timestamp" : "2024-12-22T04:02:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1f230616-ca64-4e88-b49e-60291c9618f9",
     "body" : "Regarding restaurants, I would imagine most if not all (except maybe some fast food chains and hotel restaurants) would be closed on Christmas Day, and many (if not all) will be open on the following days, as will shops.\n\nThat said, did you not do your research BEFORE booking your trip? It seems a bit odd turning up at a place without knowing the basics about transport and food! No offense intended, just genuinely curious.",
     "username" : "Telefinn",
     "timestamp" : "2024-12-22T04:42:07Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c399ab86-ebc1-4082-a43f-53a8821c002e",
     "body" : "This could be useful for you regarding open things (run it through a translator):\nhttps://www.myhelsinki.fi/fi/info/joulunaika-helsingiss%C3%A4-2024\n\nGetting from the airport the taxis are normally a fixed price of ~35-40e to the center (ask the driver beforehand, there are different queues to different companies) if public transport isn't running yet.",
     "username" : "mawkus",
     "timestamp" : "2024-12-22T05:35:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4d9f3cbd-d6c3-4a2a-bb3c-1157880f96d6",
     "body" : "I haven't had issues using taxis from the airport, but it's a fair point that random taxis in the city can be ripoffs, and Bolt/Uber is a better idea.\n\nI've never tried this, but it could be an option: https://www.uber.com/global/en/r/airports/hel/pickup/",
     "username" : "mawkus",
     "timestamp" : "2024-12-22T07:22:44Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "dbc67b5b-39be-4206-bdc0-981ef4e1fc31",
     "body" : "Menevä has fixed price of 39€ to Helsinki city center. Fixutaxi and Taksi Helsinki have fixed price of 35€ to Helsinki city center.",
     "username" : "arri92",
     "timestamp" : "2024-12-22T06:57:47Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d3f1d369-3560-4fef-9b0d-e4289286c6b3",
     "body" : "Thank you!",
     "username" : "wasting_myLife_here",
     "timestamp" : "2024-12-22T06:30:42Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "4e38d4c4-47a0-4577-9499-35a16b1326a6",
     "body" : "Many restaurants are open, link by u/mawkus has a good, but not complete, list",
     "username" : "The_Grinning_Reaper",
     "timestamp" : "2024-12-22T05:43:09Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "af9883ca-32dc-4150-879f-cf53db0316da",
     "body" : "Many thanks!\n\nI did do some basic research to know that at least i'll be able to find a way around and get some food. \n\nI didn't word it quite clearly. I guess I want to know, out of all the restaurants that still open, what are some good choices?",
     "username" : "wasting_myLife_here",
     "timestamp" : "2024-12-22T06:30:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b3869fec-2c3d-48f1-8192-2bcb60a6b2f0",
     "body" : "Thanks! This is useful.",
     "username" : "wasting_myLife_here",
     "timestamp" : "2024-12-22T06:31:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c5a5dcbf-2817-4ddc-a0e7-32a654ef8b63",
     "body" : "They are definitely going to rip him off on the one morning of the year when public transportation is not running.",
     "username" : "DoubleSaltedd",
     "timestamp" : "2024-12-22T06:32:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "6ec2c597-c4a0-4f19-a51c-7c25134b9f08",
     "body" : "Yeah. Id rather go with Uber over taxi. That way I'd know exactly what I pay upfront. Thanks!\n\nBut like others have said. I can choose the train at 8 am.",
     "username" : "wasting_myLife_here",
     "timestamp" : "2024-12-22T07:25:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "071c03e9-10be-41f0-a4c8-e1edc4167920",
     "body" : "Is the fixed price the same holidays and nights as well?",
     "username" : "Korpikuusenalla",
     "timestamp" : "2024-12-22T08:11:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "da2ced16-a58a-42fa-b281-104b577a887d",
     "body" : "Thanks!",
     "username" : "wasting_myLife_here",
     "timestamp" : "2024-12-22T06:30:26Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7e28036b-e634-48a5-b90f-a0a2e3038dd9",
     "body" : "they have **fixed prices** : 35€ to the city",
     "username" : "nicol9",
     "timestamp" : "2024-12-22T07:59:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "15f2550b-cb9b-4c0e-a2c5-b4c6fae6ac7e",
     "body" : "It is their fixed price. I have used them after midnight and still the price was fixed price.",
     "username" : "arri92",
     "timestamp" : "2024-12-22T08:14:03Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1c798e84-8c61-4392-98e2-c5d997b6ffc9",
     "body" : "You can use table reservation tools to see open restaurants e.g. https://www.tableonline.fi/fi/search?city=Helsinki&q=&Hae=\n\nor\n\nhttps://www.quandoo.fi/helsinki-toeoeloe?bookable=true&quantity=1&dateTime=2024-12-25T19:00",
     "username" : "The_Grinning_Reaper",
     "timestamp" : "2024-12-22T07:31:59Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d14644be-e142-4d89-b728-8fc32079e1bc",
     "body" : ">Thanks!\n\nYou're welcome!",
     "username" : "exclaim_bot",
     "timestamp" : "2024-12-22T06:30:42Z"

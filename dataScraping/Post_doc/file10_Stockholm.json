@@ -1,5 +1,5 @@
 {
-  "_id" : 200417,
+  "_id" : "5c700e9e-7c85-4621-9c2e-c09866f2f5bb",
   "community" : "Stockholm",
   "username" : "FreeDo0m",
   "post" : "Var ska man fira nyår?",
@@ -8,101 +8,121 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "1e4c2f94-5040-41dd-85ef-7ad2d8a429b7",
     "body" : "I world of warcraft",
     "username" : "korvolga",
     "timestamp" : "2024-12-22T18:12:15Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "3f7e1b74-bea3-4b1e-8688-519df174d128",
     "body" : "Det beror väl lite på vad du är ute efter? Är det Skansen-mys, klubb, pub? Vill du bli full, eller vara nykter?",
     "username" : "SecondaryDockingBot",
     "timestamp" : "2024-12-22T17:16:31Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c97bc110-0bbe-4591-a435-5861c5c8eedd",
     "body" : "Tolvslaget antingen Norr mälarstrand, Söder Mälarstrand, Strandvägen, Mariaberget, Monteliusvägen, Fjällgatan eller Västerbron - i absolut nödfall: Slussen.",
     "username" : "MaqeSweden",
     "timestamp" : "2024-12-22T17:16:36Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a9b5656c-b955-461c-861e-05b66b7535d6",
     "body" : "He regn på lången såklart",
     "username" : "Fast_Government_541",
     "timestamp" : "2024-12-22T18:31:58Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "211f90b7-71eb-4b7d-ab55-749f52279e58",
     "body" : "jag skulle vilja kolla på fyrverkerier från erstaterassen och sen rejva tills morgonen i slakthuset!",
     "username" : "Perfect_Emu255",
     "timestamp" : "2024-12-22T19:12:10Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "93b7f761-6dbc-4423-990f-740520128b3c",
     "body" : "I Berlin",
     "username" : "cougarlt",
     "timestamp" : "2024-12-22T17:13:04Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "d5e4b919-417f-4758-9557-7741ad41ee82",
     "body" : "Framför Bingolotto (småbarn som ska sova)",
     "username" : "Dodavinkelnn",
     "timestamp" : "2024-12-22T20:35:25Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "ee6199c3-6a96-4514-a455-6954174a9355",
     "body" : "Drar till Berlin o Brandenburg Gate partyt. Sen blir det spa bad o mys nyårsdagen.",
     "username" : "Economy-Effort3445",
     "timestamp" : "2024-12-22T19:51:50Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "68334621-9053-435c-a6b8-7d40e6b90130",
     "body" : "Riche",
     "username" : "Star_Peppe",
     "timestamp" : "2024-12-22T17:15:55Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "f5f14744-c452-413d-adc6-c055087a0d33",
     "body" : "Jag ska ha lite fest här hemma, men du är nog inte bjuden",
     "username" : "skumgummii",
     "timestamp" : "2024-12-22T20:01:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "48762a7e-6ba0-4444-97cf-5d38318f77d8",
     "body" : "Med familj och/eller vänner",
     "username" : "Republiken",
     "timestamp" : "2024-12-22T18:07:48Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "15cf08a8-a17d-4069-ab35-c6b2b48a0d0f",
     "body" : "based",
     "username" : "Big_Departure3049",
     "timestamp" : "2024-12-22T19:10:46Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "1b4772a3-75e6-4b90-b444-15104adaddb2",
     "body" : "Är det nåt firande der inne?",
     "username" : "Historical-Pen-7484",
     "timestamp" : "2024-12-23T10:54:57Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "237add70-680b-4915-84fa-d1efc232370f",
     "body" : "Yuh",
     "username" : "Miserable_Speed_7116",
     "timestamp" : "2024-12-23T02:27:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "7b570862-20d0-4931-88c7-3a651abe95ff",
     "body" : "Är lite ute efter pub eller klubb. Allt förutom rave bara. Behöver inte vara nykter men siktar inte på att bli dyngrak åtminstone. Nånstans som allmänt brukar ha sköna människor på nyår.",
     "username" : "FreeDo0m",
     "timestamp" : "2024-12-22T18:34:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "0d353edb-34bf-4704-8e90-65f2b3bd3b4d",
     "body" : "Vet du om man behöver ha biljett eller hålla på med gästlista osv. för att komma in under nyår?",
     "username" : "FreeDo0m",
     "timestamp" : "2024-12-22T18:37:02Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "686e3a29-31e0-4fca-aad3-d380de97c881",
     "body" : "Tänkte dra med mig ett par vänner",
     "username" : "FreeDo0m",
     "timestamp" : "2024-12-22T18:35:20Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "339943dd-f095-4e55-89d1-411f59f5b346",
     "body" : "Ah, okej. Men här kommer några tips, det kan ju vara fullbokat redan. Men ring och kolla läget!\n\nUnder Bron – Om du vill köra fullt ös med DJs, dunk och fest hela natten. Perfekt om du vill ragga eller bara ha kul, men du kan ju också bara stå där och chilla om du inte vill vara helt i gasen.\n\nSödra Teatern – Bra mix med fest och fet utsikt över fyrverkerierna. Lätt att hitta en vibe här oavsett om du vill dricka eller vara mer low-key.\n\nOliver Twist – En riktig Söderpub med bra öl och skön stämning. Inte direkt nån storslagen nyårsfest, men om du vill sitta och slänga käft, med ett jävla bra ölutbud är det trevligt.\n\nDebaser – Här får du både fest och nostalgisk musik. Detta är en välbesökt klubb året runt, men nyårskvällarna brukar bli lite extra festliga.. som sig bör.\n\nNalen – Om du vill ha livemusik och en klassisk tjusig nyårskänsla, men ändå kunna ta det relativt lugnt.",
     "username" : "SecondaryDockingBot",
     "timestamp" : "2024-12-22T21:14:41Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b2699d0d-e092-4af1-b02c-e9e736c6bd5e",
     "body" : "I o med att du ska gå med vänner. Så ring och kolla nu på måndag. Kanske finns det bord att boka.",
     "username" : "Bornhigh11",
     "timestamp" : "2024-12-22T19:31:00Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "cf129317-6f0e-4481-ab5c-28f2969d548c",
     "body" : "Under bron och Debaser har jag varit på förut och det var ju trevligt. Aldrig under nyår dock men det låter kul och det kanske blir återbesök på ett av dem då. Tack för tipsen!",
     "username" : "FreeDo0m",
     "timestamp" : "2024-12-22T21:24:34Z"

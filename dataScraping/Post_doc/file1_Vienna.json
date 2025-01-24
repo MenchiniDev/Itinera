@@ -1,5 +1,5 @@
 {
-  "_id" : 200019,
+  "_id" : "3a1d55a9-ec16-4c9d-a2f6-9e947137dbcc",
   "community" : "Vienna",
   "username" : "No_Price_6717",
   "post" : "Lost iPhone 1060",
@@ -8,31 +8,37 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "4da914ac-8aec-4913-bbd4-ed6afbded429",
     "body" : "It can happen that someone found it and deposited in the lost and found box placed throughout the city.\n\nYou can search in their website or physically go there \n\nhttps://www.wien.gv.at/verwaltung/fundservice/",
     "username" : "ankitdhanna",
     "timestamp" : "2023-08-01T22:18:05Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "a8a166c2-78d6-4425-80d3-c864e329ee2a",
     "body" : "Did you not have the find my app (if I recall correctly) on the phone from IPhone? If so you can use that to locate the phone, provided it is still powered on.",
     "username" : "walee1",
     "timestamp" : "2023-07-31T15:04:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "b93abbfb-8e03-4c88-8cfe-d55e7a794a24",
     "body" : "i am one of those people who turn their phone off altogether at the movies and i hate myself for it :(",
     "username" : "No_Price_6717",
     "timestamp" : "2023-07-31T15:05:17Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "967f9d17-1649-4a7f-9abd-00126b009b53",
     "body" : ">Well even then you can try using the desktop version of the app to set a message that will be displayed if someone finds it and turns it on as well as pinging you when it is turned on. Sorry not super familiar with iPhones as I don't use them but hope it helps you\n\nIPhones can even be found if turned off!",
     "username" : "kogamas",
     "timestamp" : "2023-07-31T15:33:28Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "11269a2a-5173-4806-a15b-923ac872984e",
     "body" : "Well even then you can try using the desktop version of the app to set a message that will be displayed if someone finds it and turns it on as well as pinging you when it is turned on. Sorry not super familiar with iPhones as I don't use them but hope it helps you\n\n\nETA: https://www.apple.com/icloud/find-my/\n\n\nYou can view the info there",
     "username" : "walee1",
     "timestamp" : "2023-07-31T15:08:24Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "65877232-81a2-4e53-a735-2f0beb298cbc",
     "body" : "my old stolen iphone was found with the app… at the danube canal bottom 😂",
     "username" : "RoliDaddy",
     "timestamp" : "2023-07-31T17:01:32Z"

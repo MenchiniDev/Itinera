@@ -1,5 +1,5 @@
 {
-  "_id" : 200240,
+  "_id" : "a885f7e3-510e-44e3-bcca-5e3c551606f2",
   "community" : "Kosovo",
   "username" : "AIbanian",
   "post" : "The Serbian Terrorist List under the Alex Vucic warlord won't be Certified as a Political Party during the upcoming elections in February.",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "3dab18b7-7427-4865-beae-3b0515e160d5",
     "body" : "PDK was against this decision.\n\n\noh how the mighty has fallen ...",
     "username" : "AIbanian",
     "timestamp" : "2024-12-23T14:24:55Z"

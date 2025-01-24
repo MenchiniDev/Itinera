@@ -1,5 +1,5 @@
 {
-  "_id" : 200315,
+  "_id" : "7196cdbd-2195-464e-9f60-7887d89d8bdb",
   "community" : "Rome",
   "username" : "Proud-Actuary-2677",
   "post" : "Recommendations for 2-days-trip in Rome ",
@@ -8,6 +8,7 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "0f2e69bb-60b9-4349-8ec3-773b8c739f0a",
     "body" : "Hi! If you write \"2 days\" in the sub's search bar, you'll find tons of recommendations :)",
     "username" : "lzcaIIi",
     "timestamp" : "2024-12-23T13:27:36Z"

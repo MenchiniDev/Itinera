@@ -1,5 +1,5 @@
 {
-  "_id" : 200121,
+  "_id" : "c3bf8472-08e3-408c-bdac-eeb2f16421d0",
   "community" : "Reykjavik",
   "username" : "Bumblepanding",
   "post" : "Looking for specific ule Lads decorations ",
@@ -8,16 +8,19 @@
   "reportedpost" : false,
   "comment" : [ {
     "reportedcomment" : false,
+    "_id" : "b37d2d52-3127-4459-a123-37b35bf9fa92",
     "body" : "We saw these at the Christmas store on Laugavegur. May have also been at some of the bigger Icewear stores as well.",
     "username" : "treehugger312",
     "timestamp" : "2024-12-22T21:00:37Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "92ec9d6a-d1f2-4cd8-99e5-8d0cb4ccf666",
     "body" : "You could try to contact the Christmas store on Laugavegur. Maybe they could help.\n\nhttps://jolabudin.is",
     "username" : "CharacterNo8585",
     "timestamp" : "2024-12-22T22:38:49Z"
   }, {
     "reportedcomment" : false,
+    "_id" : "c4593f94-50cd-4fbb-aa47-e599a9be8c51",
     "body" : "These are widely available downtown. \nIcewear, Viking, Islandia..",
     "username" : "Chinaski_on_the_ice",
     "timestamp" : "2024-12-23T10:05:47Z"
