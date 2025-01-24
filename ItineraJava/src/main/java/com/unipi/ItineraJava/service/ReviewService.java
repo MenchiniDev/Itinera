@@ -35,6 +35,12 @@ public class ReviewService {
     private MongoTemplate mongoTemplate;
 
     public Review addReview(String username, String placeName, int stars, String text) {
+        //controllo se place esiste
+        if (!placeService.doesPlaceExist(placeName)) {
+            throw new IllegalArgumentException("The place '" + placeName + "' does not exist.");
+        }
+
+
         // Validazione dei parametri
         if (stars < 1 || stars > 5) {
             throw new IllegalArgumentException("Il rateo deve essere compreso tra 1 e 5.");

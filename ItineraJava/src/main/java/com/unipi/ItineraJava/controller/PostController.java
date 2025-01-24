@@ -25,15 +25,15 @@ class PostController {
     @Autowired
     private User user;
 
-    @PostMapping("/{communityname}")
+    @PostMapping("/{community}")
     public ResponseEntity<String> createPost(@RequestHeader("Authorization") String token,
-                                                     @PathVariable String communityname,
+                                                     @PathVariable String community,
                                                      @RequestBody String post) {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null) {
             return null;
         }
-        if(postService.addPost(communityname, username, post))
+        if(postService.addPost(community, username, post))
             return ResponseEntity.ok("post added successfully");
         else
             return ResponseEntity.badRequest().body("Error");
@@ -63,9 +63,10 @@ class PostController {
 
     // http://localhost:8080/posts/report
     // working
+    // todo metti l'_id al posto del ReportPostRequest
     @PutMapping("/report")
     public ResponseEntity<String> reportPost(@RequestHeader("Authorization") String token,
-                                             @RequestBody ReportPostRequest request) {
+                                             @RequestBody ReportPostRequest request) { //body, user, community
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if (username == null) {
             return ResponseEntity.badRequest().body("Invalid token");
@@ -112,11 +113,13 @@ class PostController {
     //    "user":"ZenBoyNothingHead",
     //    "textComment":"Just moved into a new neighborhood and there's a community compost bin. I love the idea of composting so we can waste less, but there are no instructions or websites to find instructions on the bin. Anyone know how this works??",
     //    "community":"Amsterdam"
+    //    "textPost": "bo"
     // }
     // working
+    // todo: metti il Postid anzichè user e community
     @PutMapping("/comment/report")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
-                                             @RequestBody ReportCommentRequest report)
+                                             @RequestBody ReportCommentRequest report) //user community textcomment
     {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null)
@@ -149,25 +152,21 @@ class PostController {
     //  "community": "Barcelona",
     //  "timestamp": "2025-01-22T15:30:00Z",
     //  "comment": "mesi mesi ankara mesi, immenso mesi"
+    //  "textpost": "bo non ho mongo"
     //}
+    // todo: metti l'id al posto di community e user e timestamp
     @PostMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
             @PathVariable String username, // of the post replying
-            @RequestBody commentDTO commentDTO) {
+            @RequestBody commentDTO commentDTO) { // community timestamp comment textPost
         try {
             String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
             System.out.println(commenterUsername);
             if (commenterUsername == null)
                 return ResponseEntity.internalServerError().body("token invalid");
 
-            Comment comment = new Comment();
-            comment.setUsername(commenterUsername);
-            comment.setTimestamp(String.valueOf(LocalDateTime.now()));
-            comment.setBody(commentDTO.getComment());
-            comment.setReported(false);
-
-            Post updatedPost = postService.addCommentToPost(username, commentDTO.getCommunity(), commenterUsername, comment);
+            Post updatedPost = postService.addCommentToPost(commenterUsername,username, commentDTO);
 
             if (updatedPost != null) {
                 return ResponseEntity.ok("Commento aggiunto");
@@ -192,7 +191,8 @@ class PostController {
     //        "timestamp": "2024-12-22T13:37:44Z"
     //    }
     //]
-    @GetMapping("profile")
+    //todo: migliora nome
+    @GetMapping("trendingpostreported")
     public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
     {
         if(User.isAdmin(token))

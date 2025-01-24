@@ -59,5 +59,10 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     void decrementReviewCount(String placeName);*/
 
 
+    // trovare un posto tramite il nome
+    @Query(value = "{ 'name': ?0 }", exists = true)
+    boolean existsByName(String name);
+
+
 }
 

@@ -99,7 +99,10 @@ public class PlaceService {
         }
     }
 
-
+    //metodo per controllare l'esistenza del posto in questione
+    public boolean doesPlaceExist(String placeName) {
+        return placeRepository.existsByName(placeName);
+    }
 
 
 

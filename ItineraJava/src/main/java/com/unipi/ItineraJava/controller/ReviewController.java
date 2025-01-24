@@ -26,12 +26,12 @@ public class ReviewController {
     @PostMapping
     public ResponseEntity<String> addReview(
             @RequestHeader("Authorization") String token,
-            @RequestBody Map<String, Object> requestBody) {
+            @RequestBody Map<String, Object> requestBody) { //controllo con mappa
 
         System.out.println("Richiesta ricevuta con "+ requestBody);
 
         try {
-            System.out.println("sono dentro al primo blocco try");
+            //System.out.println("sono dentro al primo blocco try");
             String username = JwtTokenProvider.getUsernameFromToken(token);
             if(username == null) {
                 return ResponseEntity.badRequest().body("invalid token");
@@ -63,7 +63,7 @@ public class ReviewController {
                     .body("An unexpected error occurred. Sorry for the inconvenient");
         }
     }
-    // delete by id da testare
+    // delete by id
     @DeleteMapping("/{reviewId}")
     public ResponseEntity<String> deleteReview(@RequestHeader("Authorization") String token,
                                                @PathVariable String reviewId) {

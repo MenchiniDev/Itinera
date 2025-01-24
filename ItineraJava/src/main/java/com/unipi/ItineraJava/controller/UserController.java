@@ -107,6 +107,15 @@ class UserController {
         if (existingUser.isEmpty()) {
             return ResponseEntity.status(401).body("Invalid username");
         }
+
+        //controllo campo active
+        boolean isActive = userService.isUserActive(user.getUsername());
+        if (!isActive) {
+            return ResponseEntity.status(403).body("User account is inactive. You no longer have access to this application.");
+        }
+
+
+
         passwordEncoder.matches(user.getPassword(), existingUser.get().getPassword());
         String token = JwtTokenProvider.generateToken(user.getUsername());
         return ResponseEntity.ok(token);
@@ -127,6 +136,7 @@ class UserController {
 
     // http://localhost:8080/users/678f461050e5455936170332
     // delete an user
+    /*
     @DeleteMapping("/deleteById/{id}")
     public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
                                             @PathVariable String id) {
@@ -140,7 +150,25 @@ class UserController {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
+    }*/
+
+    @PutMapping("/ban/{username}")
+    public ResponseEntity<String> deactivateUser(@RequestHeader("Authorization") String token,
+                                                 @PathVariable String username) {
+        // Controlla se il token appartiene a un amministratore
+        if (!User.isAdmin(token)) {
+            return ResponseEntity.status(403).body("Unauthorized: Only admins can ban users");
+        }
+
+        try {
+            // Aggiorna lo stato del campo active a false
+            userService.deactivateUser(username);
+            return ResponseEntity.ok("User banned successfully");
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.status(404).body("User not found: " + username);
+        }
     }
+
 
     // PROFILE QUERIES
     /*
@@ -205,14 +233,14 @@ class UserController {
 
     // Endpoint per aggiornare il campo "reported" per uno specifico user
     @PutMapping("/report/{username}")
-    public ResponseEntity<?> reportUser(@PathVariable String username, @RequestParam boolean reported) {
+    public ResponseEntity<?> reportUser(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         // Verifica se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN)
                     .body("User not authenticated. Please log in to access this endpoint.");
         }
-        userService.updateReportedByUsername(username, reported);
+        userService.updateReportedByUsername(username, true);
         return ResponseEntity.status(HttpStatus.OK)
                 .body("User correctly reported.");
 
@@ -265,7 +293,7 @@ class UserController {
     }*/
 
 
-    @DeleteMapping("/deletebyusername/{username}")
+    @DeleteMapping("/{username}")
     public ResponseEntity<String> deleteUserByUsername(
             @RequestHeader("Authorization") String token,
             @PathVariable String username) {
@@ -335,7 +363,8 @@ class UserController {
     }
 
     // 1 BIG AGGREGATION
-    @GetMapping("/profile/active")
+    // returns all most active users
+    @GetMapping("/profile/mostactiveuser")
     public ResponseEntity<List<ActiveUserDTO>> getActiveUser(@RequestHeader("Authorization") String token) {
         if(User.isAdmin(token)) {
             return ResponseEntity.ok(userService.findTopActiveUsers());

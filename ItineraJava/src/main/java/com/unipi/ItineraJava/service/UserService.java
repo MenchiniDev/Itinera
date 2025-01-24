@@ -69,9 +69,22 @@ public class UserService{
     }
 
     // Aggiorna il campo "reported" per uno specifico username
-    // DA MODIFICARE CON AUTENTICAZIONE
     public void updateReportedByUsername(String username, boolean reported) {
         userRepository.updateReportedByUsername(username, reported);
+    }
+
+    //aggiorna il campo "active" per uno specifico username
+    public void deactivateUser(String username) {
+        // Aggiorna il campo active a false
+        userRepository.updateActiveStatusByUsername(username, false);
+    }
+
+
+    //verifica lo stato del campo active di un utente
+    public boolean isUserActive(String username) {
+        // Recupera il valore del campo 'active'
+        return userRepository.findActiveStatusByUsername(username).map(ActiveStatusDTO::isActive) //restituisce direttamente un bool
+                .orElseThrow(() -> new IllegalArgumentException("User not found: " + username));
     }
 
     //trova
