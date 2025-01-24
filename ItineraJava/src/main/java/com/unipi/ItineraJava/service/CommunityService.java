@@ -147,8 +147,6 @@ public class CommunityService {
     }
 
 
-    //////////
-
     public ResponseEntity<String> updateCommunity(String username, String text, String name) {
         try {
             Post post = new Post();

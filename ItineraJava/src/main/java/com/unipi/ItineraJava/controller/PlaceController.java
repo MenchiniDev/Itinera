@@ -21,7 +21,6 @@ public class PlaceController {
     // returns a list with all places ordered by decrescent rating
     @GetMapping("/{city}")
     public List<MongoPlace> getTopPlaces(@PathVariable String city) {
-        System.out.println(city);
         return ResponseEntity.ok(placeService.getBestPlacesByCity(city)).getBody();
     }
 
