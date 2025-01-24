@@ -77,7 +77,7 @@ public class PostService {
     public void deleteById(String id) {
         
         Post post = postRepository.findById(id).orElse(null);
-        Long postId = post.getPostId();
+        Long postId = post.getId();
         postNeo4jRepository.deletePostNode(postId);
         postRepository.deleteById(id);
     }
@@ -142,7 +142,7 @@ public class PostService {
         comment.setBody(commentdto.getComment());
         comment.setReported(false);
         Post post = postRepository.findPostByUsernameAndCommunityAndPost(postUsername, commentdto.getCommunity(), commentdto.getTextpost());
-        Long postId = post.getPostId();
+        Long postId = post.getId();
         System.out.println(post);
 
         if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, commentdto.getCommunity())) {
@@ -181,7 +181,7 @@ public class PostService {
             
         }
         String usernameCommmenter = comment1.getUsername();
-        Long postId = post.getPostId();
+        Long postId = post.getId();
         String commentTimestamp = comment1.getTimestamp();
         System.out.println("Eliminazione del commento con:");
         System.out.println("Username del commentatore: " + usernameCommmenter);
@@ -216,7 +216,7 @@ public class PostService {
         if(communityService.existsByName(community))
         {   Long postId = postCounter.incrementAndGet();
             Post post = new Post();
-            post.setPostId(postId);
+            post.setId(postId);
             post.setUsername(username);
             post.setCommunity(community);
             post.setTimestamp(String.valueOf(LocalDateTime.now()));

@@ -104,7 +104,7 @@ public class PostsCleaning {
             String formattedTimestamp = convertAndCorrectTimestamp(timestamp);
             int numComments = ((JSONArray) originalJson.get("comments")).size();
 
-            transformedJson.put("postId", globalIdCounter.getAndIncrement());
+            transformedJson.put("_id", globalIdCounter.getAndIncrement());
             transformedJson.put("community", communityName);
             transformedJson.put("username", user);
             transformedJson.put("post", postBody);

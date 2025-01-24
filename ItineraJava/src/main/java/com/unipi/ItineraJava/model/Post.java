@@ -11,10 +11,10 @@ import java.util.List;
 // POST
 @Document(collection = "Post")
 public class Post {
+    
     @Id
-    private String id;
+    private Long _id;
 
-    private Long postId;
     private String community;
     private String username;
     private String post;
@@ -25,20 +25,14 @@ public class Post {
 
     public Post() {}
 
-    public String getId() {
-        return id;
+    public Long getId() {
+        return _id;
     }
 
-    public void setId(String id) {
-        this.id = id;
+    public void setId(Long id) {
+        this._id = id;
     }
 
-    public Long getPostId() {
-        return postId;
-    }
-    public void setPostId(Long postId) {
-        this.postId = postId;
-    }
     public String getCommunity() {
         return community;
     }
