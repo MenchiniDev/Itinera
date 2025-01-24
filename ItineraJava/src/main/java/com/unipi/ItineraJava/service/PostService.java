@@ -1,8 +1,8 @@
 package com.unipi.ItineraJava.service;
 
 
-import com.unipi.ItineraJava.DTO.PostDTO;
 import com.unipi.ItineraJava.DTO.PostSummaryDto;
+import com.unipi.ItineraJava.DTO.commentDTO;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.PostNeo4jRepository;
@@ -136,20 +136,19 @@ public class PostService {
         return postRepository.findByCommunity(communityName);
     }
 
-    public Post addCommentToPost(String postUsername, String postCommunity, String commenterUsername, Comment comment) {
+    public Post addCommentToPost(String commenterUsername, String postUsername, commentDTO commentdto) {
 
+        Comment comment = new Comment();
+        comment.setBody(commentdto.getComment());
         comment.setReported(false);
-        Post post = postRepository.findPostByUsernameAndCommunity(postUsername, postCommunity);
+        Post post = postRepository.findPostByUsernameAndCommunityAndPost(postUsername, commentdto.getCommunity(), commentdto.getTextpost());
         Long postId = post.getPostId();
         System.out.println(post);
 
-        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, postCommunity)) {
-            throw new IllegalArgumentException("User has not joined community: " + postCommunity);
+        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, commentdto.getCommunity())) {
+            throw new IllegalArgumentException("User has not joined community: " + commentdto.getCommunity());
         }
 
-        comment.setUsername(commenterUsername);
-        comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
-                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
         comment.setUsername(commenterUsername);
         comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
                 .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
@@ -202,7 +201,6 @@ public class PostService {
         }
         return content.length() > 30 ? content.substring(0, 30) + "..." : content;
     }
-
 
     public boolean addPost(String community, String username, String postBody) {
 
