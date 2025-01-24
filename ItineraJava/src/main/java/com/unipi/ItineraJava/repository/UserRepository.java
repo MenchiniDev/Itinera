@@ -63,5 +63,14 @@ public interface UserRepository extends MongoRepository<User, String> {
     
     
     Long deleteByUsername(String username);
+
+
+    @Query(value = "{ 'username': ?0 }", fields = "{ 'active': 1, '_id': 0 }")
+    Optional<Boolean> findActiveStatusByUsername(String username);
+
+    @Query(value = "{ 'username': ?0 }")
+    @Update(value = "{ '$set': { 'active': ?1 } }")
+    void updateActiveStatusByUsername(String username, boolean active);
+
 }
 
