@@ -25,15 +25,15 @@ class PostController {
     @Autowired
     private User user;
 
-    @PostMapping("/{communityname}")
+    @PostMapping("/{community}")
     public ResponseEntity<String> createPost(@RequestHeader("Authorization") String token,
-                                                     @PathVariable String communityname,
+                                                     @PathVariable String community,
                                                      @RequestBody String post) {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null) {
             return null;
         }
-        if(postService.addPost(communityname, username, post))
+        if(postService.addPost(community, username, post))
             return ResponseEntity.ok("post added successfully");
         else
             return ResponseEntity.badRequest().body("Error");
@@ -63,6 +63,7 @@ class PostController {
 
     // http://localhost:8080/posts/report
     // working
+    // todo metti l'_id al posto del ReportPostRequest
     @PutMapping("/report")
     public ResponseEntity<String> reportPost(@RequestHeader("Authorization") String token,
                                              @RequestBody ReportPostRequest request) { //body, user, community
@@ -112,8 +113,10 @@ class PostController {
     //    "user":"ZenBoyNothingHead",
     //    "textComment":"Just moved into a new neighborhood and there's a community compost bin. I love the idea of composting so we can waste less, but there are no instructions or websites to find instructions on the bin. Anyone know how this works??",
     //    "community":"Amsterdam"
+    //    "textPost": "bo"
     // }
     // working
+    // todo: metti il Postid anzichè user e community
     @PutMapping("/comment/report")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
                                              @RequestBody ReportCommentRequest report) //user community textcomment
@@ -151,6 +154,7 @@ class PostController {
     //  "comment": "mesi mesi ankara mesi, immenso mesi"
     //  "textpost": "bo non ho mongo"
     //}
+    // todo: metti l'id al posto di community e user e timestamp
     @PostMapping("/comment/{username}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
@@ -187,7 +191,8 @@ class PostController {
     //        "timestamp": "2024-12-22T13:37:44Z"
     //    }
     //]
-    @GetMapping("profile")
+    //todo: migliora nome
+    @GetMapping("trendingpostreported")
     public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
     {
         if(User.isAdmin(token))

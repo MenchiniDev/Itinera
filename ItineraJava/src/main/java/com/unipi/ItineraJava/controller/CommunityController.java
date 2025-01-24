@@ -57,20 +57,15 @@ class CommunityController {
     @GetMapping
     public ResponseEntity<List<MongoCommunity>> getAllCommunity() {
         List<MongoCommunity> communities = mongoCommunityRepository.findAll();
-        System.out.println(communities);
         return ResponseEntity.ok(communities);
     }
 
     // http://localhost:8080/Community/678e41769d6b117cd029652e
     // returns the {id} community with all his data
-    @GetMapping("/{id}")
-    public Optional<MongoCommunity> getCommunityById(@PathVariable String id) {
-        return ResponseEntity.ok(communityService.findById(id)).getBody();
-    }
-
-    @GetMapping("/details")
+    //todo: cambiala tutta usando cityName
+    @GetMapping("/details/{name}")
     public ResponseEntity<?> getCommunityDetails(
-            @RequestParam String id,
+            @RequestParam String name,
             @RequestParam String username) {
         /*boolean isJoined = graphDbService.isUserJoinedCommunity(username, id);
         if (isJoined) {
@@ -84,11 +79,11 @@ class CommunityController {
     // adds a post inside a community
     // token -> user auth token
     // text -> post body, plain test no json
-    // the name of the city
+    // name -> the name of the city
     // http://localhost:8080/Community/Rome
-    @PutMapping("/{name}")
+    @PutMapping("/{city}")
     public ResponseEntity<String> updateCommunity(@RequestHeader("Authorization") String token,
-                                                  @PathVariable String name,
+                                                  @PathVariable String city,
                                                   @RequestBody String text)
     {
         try{
@@ -97,8 +92,8 @@ class CommunityController {
                 return ResponseEntity.status(400).body("Invalid token");
             if (text == null)
                 return ResponseEntity.status(400).body("Invalid text");
-            if(communityService.existsCommunity(name)) {
-                return communityService.updateCommunity(username, text, name);
+            if(communityService.existsCommunity(city)) {
+                return communityService.updateCommunity(username, text, city);
             }else
             {
                 return ResponseEntity.status(400).body("Invalid Community name");
@@ -133,12 +128,12 @@ class CommunityController {
     }
     // http://localhost:8080/Community/Viareggio
     // deletes a community
-    @DeleteMapping("/{name}")
+    @DeleteMapping("/{city}")
     public ResponseEntity<String> deleteCommunity(@RequestHeader("Authorization") String token,
-                                                  @PathVariable String name) {
+                                                  @PathVariable String city) {
         try {
             if (User.isAdmin(token)) {
-                communityService.deleteByName(name);
+                communityService.deleteByName(city);
             } else {
                 return ResponseEntity.status(400).body("User not authenticated as Admin");
             }
@@ -237,8 +232,6 @@ class CommunityController {
             return ResponseEntity.status(HttpStatus.FORBIDDEN)
                 .body("User not authenticated. Please log in to access this endpoint.");
         }
-
-        String username = authentication.getName();
         try {
             String mostActiveCommunity = communityService.getMostActiveCommunity();
             if (mostActiveCommunity == null) {
@@ -264,7 +257,4 @@ class CommunityController {
                 .body("An error occurred while retrieving post count: " + ex.getMessage());
         }
     }
-
-    
-
 }

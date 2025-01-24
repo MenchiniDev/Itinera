@@ -29,9 +29,6 @@ public class MongoDBUploader {
         String jsonFolderPath = "../dataScraping/Post_doc"; // Percorso reale dei file JSON
         //String jsonFolderPath = "../dataScraping/Community_doc"; // Percorso reale dei file JSON
 
-
-
-
         // Connessione a MongoDB
         try (MongoClient mongoClient = getMongoConnection(mongoUri)) {
             MongoDatabase database = mongoClient.getDatabase(databaseName);
@@ -59,7 +56,6 @@ public class MongoDBUploader {
                     e.printStackTrace();
                 }
             }
-
             System.out.println("Tutti i file JSON sono stati caricati nella collezione MongoDB.");
         } catch (Exception e) {
             System.err.println("Errore durante la connessione a MongoDB con l'URI: " + mongoUri);

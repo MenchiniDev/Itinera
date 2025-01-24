@@ -136,6 +136,7 @@ class UserController {
 
     // http://localhost:8080/users/678f461050e5455936170332
     // delete an user
+    /*
     @DeleteMapping("/deleteById/{id}")
     public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
                                             @PathVariable String id) {
@@ -149,7 +150,7 @@ class UserController {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
-    }
+    }*/
 
     @PutMapping("/ban/{username}")
     public ResponseEntity<String> deactivateUser(@RequestHeader("Authorization") String token,
@@ -292,7 +293,7 @@ class UserController {
     }*/
 
 
-    @DeleteMapping("/deletebyusername/{username}")
+    @DeleteMapping("/{username}")
     public ResponseEntity<String> deleteUserByUsername(
             @RequestHeader("Authorization") String token,
             @PathVariable String username) {
@@ -362,7 +363,8 @@ class UserController {
     }
 
     // 1 BIG AGGREGATION
-    @GetMapping("/profile/active")
+    // returns all most active users
+    @GetMapping("/profile/mostactiveuser")
     public ResponseEntity<List<ActiveUserDTO>> getActiveUser(@RequestHeader("Authorization") String token) {
         if(User.isAdmin(token)) {
             return ResponseEntity.ok(userService.findTopActiveUsers());
