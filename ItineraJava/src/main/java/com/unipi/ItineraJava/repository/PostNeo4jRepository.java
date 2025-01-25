@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 
 import com.unipi.ItineraJava.model.*;
 
-public interface PostNeo4jRepository extends Neo4jRepository<PostGraph, Long>{
+public interface PostNeo4jRepository extends Neo4jRepository<PostGraph, String>{
     
 
     @Query("MERGE (u:User {username: $username}) " +

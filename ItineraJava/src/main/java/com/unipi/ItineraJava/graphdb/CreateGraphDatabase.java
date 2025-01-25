@@ -19,9 +19,9 @@ import org.neo4j.driver.Session;
 
 public class CreateGraphDatabase {
 
-    private static final String NEO4J_URI = "bolt://localhost:7687";
+    private static final String NEO4J_URI = "bolt://10.1.1.23:7687";
     private static final String NEO4J_USERNAME = "neo4j"; // default
-    private static final String NEO4J_PASSWORD = "root1234";
+    private static final String NEO4J_PASSWORD = "12345678";
 
     public static Session getNeo4jSession() {
         Driver driver = GraphDatabase.driver(NEO4J_URI, AuthTokens.basic(NEO4J_USERNAME, NEO4J_PASSWORD));

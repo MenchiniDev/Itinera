@@ -17,12 +17,13 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
 
     @Aggregation(pipeline = {
             "{ '$match': { 'reported': true } }", // Filtra le recensioni segnalate
-            "{ '$project': { 'place_name': 1, 'user': 1, 'text': 1, 'timestamp': 1, _id: 0} }" // Restituisci solo i dati rilevanti
+            "{ '$project': { 'place_id': 1, 'user': 1, 'text': 1, 'timestamp': 1, _id: 0} }" // Restituisci solo i dati rilevanti
     })
     List<ReviewsReportedDTO> findReportedComments();
 
-    @Query("{'place_name': ?0}")
-    List<Review> findByPlace(String name);
+
+    @Query("{'place_id': ?0}")
+    List<Review> findByPlace(String place_id);
 
 
     @Aggregation(pipeline = {
@@ -60,10 +61,11 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
 
 
     @Aggregation(pipeline = {
-            "{ '$match': { 'place_name': ?0 } }", // Filtra per il nome del posto
+            "{ '$match': { 'place_id': ?0 } }", // Filtra per l'id del posto
             "{ '$group': { '_id': null, 'overall_rating': { '$avg': '$stars' }, 'tot_rev_number': { '$sum': 1 } } }",
             "{ '$project': { '_id': 0, 'overall_rating': { '$round': ['$overall_rating', 3] }, 'tot_rev_number': 1 } }" // Arrotondo la media alle prime 3 cifre decimali
     })
-    ReviewSummary calculateReviewSummary(String placeName);
+    ReviewSummary calculateReviewSummary(String placeId);
+
 
 }

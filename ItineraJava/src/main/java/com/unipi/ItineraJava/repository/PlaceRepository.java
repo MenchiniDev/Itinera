@@ -43,9 +43,9 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
 
 
 
-    @Query("{ 'name': ?0 }")
+    @Query("{ '_id': ?0 }")
     @Update("{ '$set': { 'reviews_info.overall_rating': ?1, 'reviews_info.tot_rev_number': ?2 } }")
-    void updateReviewSummary(String placeName, double averageRating, int totalReviews);
+    void updateReviewSummary(String placeId, double averageRating, int totalReviews);
 
 
 
@@ -59,9 +59,10 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     void decrementReviewCount(String placeName);*/
 
 
-    // trovare un posto tramite il nome
-    @Query(value = "{ 'name': ?0 }", exists = true)
-    boolean existsByName(String name);
+    // trovare un posto tramite l'id
+    @Query(value = "{ '_id': ?0 }", exists = true)
+    boolean existsById(String id);
+
 
 
 }
