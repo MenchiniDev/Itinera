@@ -7,7 +7,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Review {
     @Id
     private String id;
-    private String place_name; // cambiato place id_con place_name e rinominati gli usages
+    private String place_id;
     private String user;
     private int stars;
     private String text;
@@ -17,8 +17,8 @@ public class Review {
     // Getters e Setters
     public String getId() { return id; }
     public void setId(String id) { this.id = id; }
-    public String getPlace_name() { return place_name; }
-    public void setPlace_name(String place_name) { this.place_name = place_name; }
+    public String getPlace_id() { return place_id; }
+    public void setPlace_id(String place_id) { this.place_id = place_id; }
     public String getUser() { return user; }
     public void setUser(String user) { this.user = user; }
     public int getStars() { return stars; }

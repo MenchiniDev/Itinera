@@ -255,6 +255,27 @@ class UserController {
 
     }
 
+
+
+    @GetMapping("/reported")
+    public ResponseEntity<List<ReportedUserDTO>> getReportedUsers(@RequestHeader("Authorization") String token) {
+        if (User.isAdmin(token)) {
+            List<ReportedUserDTO> reportedUsers = userService.getReportedUsers();
+            if (reportedUsers.isEmpty()) {
+                return ResponseEntity.noContent().build();
+            }
+            return ResponseEntity.ok(reportedUsers);
+        }else{
+            return ResponseEntity.status(401).body(null);
+        }
+    }
+
+
+
+
+
+
+
     //endpoint per ritornare l'ultimo post di un utente
     //funzionante
     @GetMapping("/lastpost/{username}")

@@ -38,15 +38,15 @@ public class ReviewController {
 
             }
 
-            String place_name = (String) requestBody.get("place_name");
+            String place_id = (String) requestBody.get("place_id");
             int stars = (int) requestBody.get("stars");
             String text = (String) requestBody.get("text");
 
-            if (place_name == null || text == null) {
+            if (place_id == null || text == null) {
                 return ResponseEntity.badRequest().body("Please retry with different parameters");
             }
             //System.out.println("entro in add review");
-            Review savedReview = reviewService.addReview(username, place_name, stars, text);
+            Review savedReview = reviewService.addReview(username, place_id, stars, text);
             //System.out.println("uscito da add review");
 
             if(savedReview == null)
@@ -93,36 +93,25 @@ public class ReviewController {
     }
 
 
-    // http://localhost:8080/review?city=roma&&category=hotel&&name=x
-    @GetMapping
+    // http://localhost:8080/review/place_id
+    @GetMapping("/{placeId}")
     public List<Review> getReviews(
-            @RequestParam String name) {
-        return ResponseEntity.ok(reviewService.getReviewsByName(name)).getBody();
+            @PathVariable String placeId) {
+        return ResponseEntity.ok(reviewService.getReviewsByName(placeId)).getBody();
     }
 
 
 
     // rimosso il prendere il nome dal token in quanto un tizio reporterebbe la sua  stessa recensione,
     //facendo quello non veniva usato l'username che era passato nella richiesta
-    @PutMapping("/report")
+    @PutMapping("/report/{reviewId}")
 
     public ResponseEntity<String> updateReview(
             @RequestHeader("Authorization") String token,
-            @RequestBody Map<String, String> requestData
+            @PathVariable String reviewId
             )
     {
-        // Recupera i valori dalla mappa
-        String timestamp = requestData.get("timestamp");
-        String placeName = requestData.get("place_name");
-        String username = requestData.get("username");
-        //controlla eventuali valori nulli
-        if (timestamp == null || timestamp.isBlank() ||
-                placeName == null || placeName.isBlank() ||
-                username == null || username.isBlank()){
-            return ResponseEntity.badRequest().body("Missing required parameters: timestamp or place_name or username");
-        }else{
-            return ResponseEntity.ok(reviewService.reportReview(placeName,username,timestamp));
-        }
+        return ResponseEntity.ok(reviewService.reportReviewById(reviewId));
 
     }
 
