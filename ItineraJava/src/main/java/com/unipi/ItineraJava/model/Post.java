@@ -11,10 +11,11 @@ import java.util.List;
 // POST
 @Document(collection = "Post")
 public class Post {
-    
+
     @Id
     private String _id;
 
+    private String postId;
     private String community;
     private String username;
     private String post;

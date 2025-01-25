@@ -19,9 +19,9 @@ import org.neo4j.driver.Session;
 
 public class CreateGraphDatabase {
 
-    private static final String NEO4J_URI = "bolt://localhost:7687";
+    private static final String NEO4J_URI = "bolt://10.1.1.23:7687";
     private static final String NEO4J_USERNAME = "neo4j"; // default
-    private static final String NEO4J_PASSWORD = "root1234";
+    private static final String NEO4J_PASSWORD = "12345678";
 
     public static Session getNeo4jSession() {
         Driver driver = GraphDatabase.driver(NEO4J_URI, AuthTokens.basic(NEO4J_USERNAME, NEO4J_PASSWORD));
@@ -30,7 +30,7 @@ public class CreateGraphDatabase {
 
     public static void main(String[] args) {
         // Path della cartella contenente i JSON dei post
-        String postsFolderPath = "itinera/dataScraping/Post_doc";
+        String postsFolderPath = "../dataScraping/Post_doc";
 
         try (Driver driver = GraphDatabase.driver(NEO4J_URI, AuthTokens.basic(NEO4J_USERNAME, NEO4J_PASSWORD));
              Session session = driver.session()) {
@@ -102,9 +102,9 @@ public class CreateGraphDatabase {
 
                     for (Object commentObj : comments) {
                         JSONObject comment = (JSONObject) commentObj;
-                        String commentId = (String) comment.get("_id"); // Estrai l'ID del commento
                         String commentUsername = (String) comment.get("username");
                         String commentTimestamp = (String) comment.get("timestamp");
+                        String commentId = (String) comment.get("_id");
 
                         // Aggiungo l'utente del commento al set di utenti
                         users.add(commentUsername);
@@ -177,7 +177,7 @@ public class CreateGraphDatabase {
         List<String> userList = new ArrayList<>(users);
 
         // Utilizzo un seed fisso per ottenere risultati consistenti tra esecuzioni
-        Random random = new Random(42);
+        Random random = new Random(42); 
 
         int totalFollowsCreated = 0;
 

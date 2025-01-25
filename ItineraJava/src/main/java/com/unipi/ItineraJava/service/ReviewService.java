@@ -12,7 +12,6 @@ import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.stereotype.Service;
 
-import java.time.Instant;
 import java.time.LocalDateTime;
 import java.util.Comparator;
 
@@ -34,10 +33,10 @@ public class ReviewService {
     @Autowired
     private MongoTemplate mongoTemplate;
 
-    public Review addReview(String username, String placeName, int stars, String text) {
+    public Review addReview(String username, String placeId, int stars, String text) {
         //controllo se place esiste
-        if (!placeService.doesPlaceExist(placeName)) {
-            throw new IllegalArgumentException("The place '" + placeName + "' does not exist.");
+        if (!placeService.doesPlaceExist(placeId)) {
+            throw new IllegalArgumentException("The place with id'" + placeId + "' does not exist.");
         }
 
 
@@ -49,7 +48,7 @@ public class ReviewService {
         // Creazione del nuovo oggetto Review
         Review review = new Review();
         review.setId(UUID.randomUUID().toString()); // Genera un ID unico come stringa e non un tipo ObjectId
-        review.setPlace_name(placeName);
+        review.setPlace_id(placeId);
         review.setUser(username);
         review.setStars(stars);
         review.setText(text);
@@ -61,24 +60,22 @@ public class ReviewService {
         Review savedReview = reviewRepository.save(review);
 
         // Aggiorna la media e il numero totale di recensioni
-        placeService.updateReviewSummary(placeName);
+        placeService.updateReviewSummary(placeId);
 
         return savedReview;
 
     }
 
-    public String reportReview(String place_name, String username, String timestamp) {
+    public String reportReviewById(String reviewId) {
         // Crea una query per cercare la recensione in base ai parametri
         try {
             Query query = new Query();
-            query.addCriteria(Criteria.where("place_name").is(place_name)
-                    .and("user").is(username)
-                    .and("timestamp").is(timestamp));
+            query.addCriteria(Criteria.where("_id").is(reviewId));
 
+            // Stampa la query costruita per debug
             System.out.println("Query costruita: " + query.toString());
 
-
-            // Crea l'operazione di aggiornamento per impostare reported su true
+            // Costruisci l'operazione di aggiornamento per impostare reported a true
             Update update = new Update();
             update.set("reported", true);
 
@@ -86,7 +83,7 @@ public class ReviewService {
             mongoTemplate.updateFirst(query, update, Review.class);
             return "review reported";
         }catch (Exception e){
-            return "error occurred";
+            return "error occurred in ReportReviewById"+ e.getMessage();
         }
     }
 
@@ -96,9 +93,9 @@ public class ReviewService {
     }
 
 
-    public List<Review> getReviewsByName(String name) {
+    public List<Review> getReviewsByName(String place_id) {
         try {
-            List<Review> reviews = reviewRepository.findByPlace(name);
+            List<Review> reviews = reviewRepository.findByPlace(place_id);
             System.out.println(reviews.size());
             return reviews.stream()
                     .sorted(Comparator.comparingInt(Review::getStars).reversed())
@@ -121,7 +118,7 @@ public class ReviewService {
         reviewRepository.deleteById(reviewId);
 
         // Decrementa il conteggio delle recensioni per il posto associato
-        decrementReviewCount(review.getPlace_name());
+        decrementReviewCount(review.getPlace_id());
 
         return "Review successfully deleted";
     }
@@ -147,7 +144,7 @@ public class ReviewService {
         //metodo predefinito
         reviewRepository.deleteById(reviewId);
         //query per decrementare
-        placeService.updateReviewSummary(review.getPlace_name());
+        placeService.updateReviewSummary(review.getPlace_id());
         return "Review successfully deleted and count decremented";
     }
 

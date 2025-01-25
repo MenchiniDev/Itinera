@@ -12,7 +12,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.time.LocalDateTime;
 import java.util.List;
 
 @RestController
@@ -25,6 +24,9 @@ class PostController {
     @Autowired
     private User user;
 
+    // adds a post in a community
+    // STESSA FUNZIONE DELLA PUT COMMUNITY, ma qui meno completa
+    // DECIDERE QUALCE MANTENERE
     @PostMapping("/{community}")
     public ResponseEntity<String> createPost(@RequestHeader("Authorization") String token,
                                                      @PathVariable String community,
@@ -41,6 +43,7 @@ class PostController {
 
     // http://localhost:8080/posts
     // returns all posts of a community
+    //funzionante sabato
     @GetMapping("/{communityName}")
     public List<Post> getAllPosts(@PathVariable String communityName) {
         if(communityName==null || communityName.isEmpty() || !communityService.existsCommunity(communityName)) {
@@ -51,6 +54,7 @@ class PostController {
     }
 
     // working
+    //funzionante sabato
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deletePost(@RequestHeader("Authorization") String token,
                            @PathVariable String id) {
@@ -63,17 +67,16 @@ class PostController {
 
     // http://localhost:8080/posts/report
     // working
-    // todo metti l'_id al posto del ReportPostRequest
-    @PutMapping("/report")
+    //funzionante sabato
+    @PutMapping("/report/{postId}")
     public ResponseEntity<String> reportPost(@RequestHeader("Authorization") String token,
-                                             @RequestBody ReportPostRequest request) { //body, user, community
+                                             @PathVariable String postId ) {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if (username == null) {
             return ResponseEntity.badRequest().body("Invalid token");
         }
         try {
-            System.out.println("BODY ARRIVATO:" + request.getBody());
-            if (postService.reportPost(request.getBody(), request.getUser(), request.getCommunity())) {
+            if (postService.reportPost(postId)) {
                 return ResponseEntity.ok("Success");
             }
         } catch (Exception e) {
@@ -86,11 +89,12 @@ class PostController {
 
     // http://localhost:8080/posts/comment
     //working
+    // todo: da fixare ora che usiamo l'id e non il body
     @DeleteMapping("/comment")
     public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
-                                                @RequestBody String text) {
+                                                @RequestBody String commentID) {
         if(User.isAdmin(token)){
-            postService.updatePostAfterCommentRemoval(text);
+            postService.updatePostAfterCommentRemoval(commentID);
             return ResponseEntity.ok("Comment deleted");
         }else
             return ResponseEntity.internalServerError().body("Unauthorized");
@@ -116,15 +120,15 @@ class PostController {
     //    "textPost": "bo"
     // }
     // working
-    // todo: metti il Postid anzichè user e community
-    @PutMapping("/comment/report")
+    @PutMapping("/comment/report/{postId}/{commentId}")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
-                                             @RequestBody ReportCommentRequest report) //user community textcomment
+                                             @PathVariable String postId,
+                                             @RequestBody String  commentId)
     {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null)
             return ResponseEntity.badRequest().body("invalid token");
-        if (postService.reportComment(report.getCommunity(),report.getUser(),report.getTextComment()))
+        if (postService.reportComment(postId,commentId))
             return ResponseEntity.ok("success");
         return ResponseEntity.internalServerError().body("error");
     }
@@ -149,24 +153,20 @@ class PostController {
 
     //http://localhost:8080/posts/comment/Wooden-Secret5698
     //{
-    //  "community": "Barcelona",
-    //  "timestamp": "2025-01-22T15:30:00Z",
     //  "comment": "mesi mesi ankara mesi, immenso mesi"
-    //  "textpost": "bo non ho mongo"
     //}
-    // todo: metti l'id al posto di community e user e timestamp
-    @PostMapping("/comment/{username}")
+    @PostMapping("/comment/{postId}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
-            @PathVariable String username, // of the post replying
-            @RequestBody commentDTO commentDTO) { // community timestamp comment textPost
+            @PathVariable String postId, // of the post replying
+            @RequestBody String comment) { // community timestamp comment textPost
         try {
             String commenterUsername = JwtTokenProvider.getUsernameFromToken(token);
             System.out.println(commenterUsername);
             if (commenterUsername == null)
                 return ResponseEntity.internalServerError().body("token invalid");
 
-            Post updatedPost = postService.addCommentToPost(commenterUsername,username, commentDTO);
+            Post updatedPost = postService.addCommentToPost(commenterUsername,postId, comment);
 
             if (updatedPost != null) {
                 return ResponseEntity.ok("Commento aggiunto");
@@ -191,8 +191,7 @@ class PostController {
     //        "timestamp": "2024-12-22T13:37:44Z"
     //    }
     //]
-    //todo: migliora nome
-    @GetMapping("trendingpostreported")
+    @GetMapping("viralposts")
     public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
     {
         if(User.isAdmin(token))

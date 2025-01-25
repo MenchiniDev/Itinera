@@ -53,33 +53,39 @@ class UserController {
     private PasswordEncoder passwordEncoder;
 
     // http://localhost:8080/users/signup
-    //@Transactional // Transactional per evitare che il metodo venga eseguito in caso di errore
+    //funzionante sabato
     @PostMapping("/signup")
     public ResponseEntity<String> signup(@RequestBody SignupRequest signupRequest) {
-        if (userRepository.findByUsername(signupRequest.getUsername()).isPresent()) {
-            return ResponseEntity.badRequest().body("Username already exists");
+        try {
+            if (userRepository.findByUsername(signupRequest.getUsername()).isPresent()) {
+                return ResponseEntity.badRequest().body("Username already exists");
+            }
+            System.out.println("Received signup request: " + signupRequest);
+            System.out.println(signupRequest.getUsername());
+            User user = new User();
+            user.setId(UUID.randomUUID().toString()); // Genera un ID unico come stringa e non un tipo ObjectId
+            user.setUsername(signupRequest.getUsername());
+            user.setEmail(signupRequest.getEmail());
+            user.setPassword(passwordEncoder.encode(signupRequest.getPassword()));
+            user.setRole("USER");
+            user.setCreated(LocalDateTime.now().toString());
+            user.setActive(true);
+            user.setReported(false);
+            System.out.println(user.getUsername());
+            System.out.println("Saving user: " + user);
+            userRepository.save(user);
+
+            userNeo4jRepository.createUserNode(user.getUsername());
+
+            return ResponseEntity.ok("User registered successfully");
+        }catch (Exception e) {
+            e.printStackTrace();
+            return ResponseEntity.badRequest().body(e.getMessage());
         }
-        System.out.println("Received signup request: " + signupRequest);
-        System.out.println(signupRequest.getUsername());
-        User user = new User();
-        user.setId(UUID.randomUUID().toString()); // Genera un ID unico come stringa e non un tipo ObjectId
-        user.setUsername(signupRequest.getUsername());
-        user.setEmail(signupRequest.getEmail());
-        user.setPassword(passwordEncoder.encode(signupRequest.getPassword()));
-        user.setRole("USER");
-        user.setCreated(LocalDateTime.now().toString());
-        user.setActive(true);
-        user.setReported(false);
-        System.out.println(user.getUsername());
-        System.out.println("Saving user: " + user);
-        userRepository.save(user);
-
-        userNeo4jRepository.createUserNode(user.getUsername());
-
-        return ResponseEntity.ok("User registered successfully");
     }
 
     // http://localhost:8080/users/signup/admin WORKING
+    // funzionante sabato
     @PostMapping("/signup/admin")
     public ResponseEntity<String> signupAdmin(@RequestBody SignupRequest signupRequest) {
         if (userRepository.findByUsername(signupRequest.getUsername()).isPresent()) {
@@ -101,6 +107,7 @@ class UserController {
     }
 
     // http://localhost:8080/users/login
+    // funzionante sabato
     @PostMapping("/login")
     public ResponseEntity<String> login(@RequestBody User user) {
         Optional<User> existingUser = userRepository.findByUsername(user.getUsername());
@@ -114,15 +121,16 @@ class UserController {
             return ResponseEntity.status(403).body("User account is inactive. You no longer have access to this application.");
         }
 
-
-
-        passwordEncoder.matches(user.getPassword(), existingUser.get().getPassword());
-        String token = JwtTokenProvider.generateToken(user.getUsername());
-        return ResponseEntity.ok(token);
+        if(passwordEncoder.matches(user.getPassword(), existingUser.get().getPassword())) {
+            String token = JwtTokenProvider.generateToken(user.getUsername());
+            return ResponseEntity.ok(token);
+        }else
+            return ResponseEntity.status(401).body("Invalid password");
     }
 
     // http://localhost:8080/users
     // returns a list with all users
+    //funzionante sabato
     @GetMapping
     public ResponseEntity<List<User>> getAllUsers(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -152,6 +160,7 @@ class UserController {
         }
     }*/
 
+    // funzionante sabato
     @PutMapping("/ban/{username}")
     public ResponseEntity<String> deactivateUser(@RequestHeader("Authorization") String token,
                                                  @PathVariable String username) {
@@ -220,6 +229,7 @@ class UserController {
 
 
     // http://localhost:8080/users/find/test
+    //funzionante sabato
     @GetMapping("/find/{username}")
     public Optional<User> getUserByUsername(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -232,8 +242,9 @@ class UserController {
 
 
     // Endpoint per aggiornare il campo "reported" per uno specifico user
+    //funzionante sabato
     @PutMapping("/report/{username}")
-    public ResponseEntity<?> reportUser(@PathVariable String username) {
+    public ResponseEntity<String> reportUser(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         // Verifica se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
@@ -245,6 +256,27 @@ class UserController {
                 .body("User correctly reported.");
 
     }
+
+
+    //funzionante sabato
+    @GetMapping("/reported")
+    public ResponseEntity<List<ReportedUserDTO>> getReportedUsers(@RequestHeader("Authorization") String token) {
+        if (User.isAdmin(token)) {
+            List<ReportedUserDTO> reportedUsers = userService.getReportedUsers();
+            if (reportedUsers.isEmpty()) {
+                return ResponseEntity.noContent().build();
+            }
+            return ResponseEntity.ok(reportedUsers);
+        }else{
+            return ResponseEntity.status(401).body(null);
+        }
+    }
+
+
+
+
+
+
 
     //endpoint per ritornare l'ultimo post di un utente
     //funzionante

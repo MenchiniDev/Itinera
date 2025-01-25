@@ -8,6 +8,7 @@ import java.util.Map;
 import java.util.Optional;
 
 import com.unipi.ItineraJava.DTO.ActiveCommunityDTO;
+import com.unipi.ItineraJava.DTO.CommunityDTO;
 import org.neo4j.cypherdsl.core.Return;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -54,6 +55,7 @@ class CommunityController {
 
     // http://localhost:8080/Community
     // returns all communities with details
+    // sabato funzionante
     @GetMapping
     public ResponseEntity<List<MongoCommunity>> getAllCommunity() {
         List<MongoCommunity> communities = mongoCommunityRepository.findAll();
@@ -62,11 +64,11 @@ class CommunityController {
 
     // http://localhost:8080/Community/678e41769d6b117cd029652e
     // returns the {id} community with all his data
-    //todo: cambiala tutta usando cityName
-    @GetMapping("/details/{name}")
-    public ResponseEntity<?> getCommunityDetails(
-            @RequestParam String name,
-            @RequestParam String username) {
+    //todo: ross now its up to you :)
+    @GetMapping("/details/{city}")
+    public ResponseEntity<?> getCommunityDetails( @RequestHeader("Authorization") String token,
+                                                  @PathVariable String city) {
+        String username = JwtTokenProvider.getUsernameFromToken(token);
         /*boolean isJoined = graphDbService.isUserJoinedCommunity(username, id);
         if (isJoined) {
             return ResponseEntity.ok(communityService.getAllPostsAndComments(id));
@@ -81,6 +83,7 @@ class CommunityController {
     // text -> post body, plain test no json
     // name -> the name of the city
     // http://localhost:8080/Community/Rome
+    //todo: fixare il postSummary della community
     @PutMapping("/{city}")
     public ResponseEntity<String> updateCommunity(@RequestHeader("Authorization") String token,
                                                   @PathVariable String city,
@@ -106,28 +109,29 @@ class CommunityController {
 
     // http://localhost:8080/Community
     //creates a community checking if the admin is sending the request
+    //todo::non va
     @PostMapping
     public ResponseEntity<String> createCommunity(
             @RequestHeader("Authorization") String token,
-            @RequestBody MongoCommunity mongoCommunity) {
+            @RequestBody CommunityDTO communityDTO) {
         try {
             if(User.isAdmin(token)) {
-                if (mongoCommunityRepository.findByCityAndName(mongoCommunity.getCity(), mongoCommunity.getName()).isPresent()) {
+                if (mongoCommunityRepository.findByCityAndName(communityDTO.getCity(), communityDTO.getName()).isPresent()) {
                     return ResponseEntity.status(400).body("A community with the same City and Name already exists.");
-                }
-                mongoCommunity.setCreated(new Date().toString());
-                mongoCommunityRepository.save(mongoCommunity);
-                communityNeo4jRepository.createCommunityNode(mongoCommunity.getCity());
-                return ResponseEntity.ok("Community created successfully with ID: " + mongoCommunity.getId());
+                }else
+                    communityService.createCommunity(communityDTO);
             }else {
                 return ResponseEntity.status(400).body("User not authenticated as Admin");
             }
             } catch (Exception e) {
+            e.printStackTrace();
             return ResponseEntity.status(500).body("Error creating community: " + e.getMessage());
         }
+        return null;
     }
     // http://localhost:8080/Community/Viareggio
     // deletes a community
+    //funzionante sabato
     @DeleteMapping("/{city}")
     public ResponseEntity<String> deleteCommunity(@RequestHeader("Authorization") String token,
                                                   @PathVariable String city) {

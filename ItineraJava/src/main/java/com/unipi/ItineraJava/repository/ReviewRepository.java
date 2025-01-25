@@ -17,53 +17,47 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
 
     @Aggregation(pipeline = {
             "{ '$match': { 'reported': true } }", // Filtra le recensioni segnalate
-            "{ '$project': { 'place_name': 1, 'user': 1, 'text': 1, 'timestamp': 1, _id: 0} }" // Restituisci solo i dati rilevanti
+            "{ '$project': { 'place_id': 1, 'user': 1, 'text': 1, 'timestamp': 1, _id: 0} }" // Restituisci solo i dati rilevanti
     })
     List<ReviewsReportedDTO> findReportedComments();
 
-    @Query("{'place_name': ?0}")
-    List<Review> findByPlace(String name);
+
+    @Query("{'place_id': ?0}")
+    List<Review> findByPlace(String place_id);
 
 
     @Aggregation(pipeline = {
             "{ '$match': { 'reported': false } }", // Esclude recensioni segnalate
             "{ '$group': { " +
-                    "     '_id': '$placeId', " +
-                    "     'placeName': { '$first': '$placeName' }, " +
-                    "     'placeCategory': { '$first': '$placeCategory' }, " +
+                    "     '_id': '$place_id', " +
                     "     'averageStars': { '$avg': '$stars' }, " +
-                    "     'standardDeviation': { '$stdDevPop': '$stars' }, " +
-                    "     'reviews': { '$push': { 'stars': '$stars', 'text': '$text' } }" +
+                    "     'standardDeviation': { '$stdDevPop': '$stars' } " +
                     "} }", // Raggruppa per luogo e calcola deviazione standard
-            "{ '$addFields': { 'variance': { '$pow': ['$standardDeviation', 2] } } }", // Calcola la varianza
-            "{ '$sort': { 'placeCategory': 1, 'variance': -1 } }", // Ordina per categoria e varianza decrescente
-            "{ '$group': { " +
-                    "     '_id': '$placeCategory', " +
-                    "     'mostControversial': { '$first': { " +
-                    "         'id': '$_id', " +
-                    "         'name': '$placeName', " +
-                    "         'category': '$placeCategory', " +
-                    "         'variance': '$variance', " +
-                    "         'averageStars': '$averageStars', " +
-                    "         'reviews': '$reviews' } } }" +
-                    "}", // Raggruppa per categoria, scegliendo il luogo più controverso
+            "{ '$addFields': { " +
+                    "     'variance': { '$round': [{ '$pow': ['$standardDeviation', 2] }, 3] }, " +
+                    "     'averageStars': { '$round': ['$averageStars', 3] }, " +
+                    "     'standardDeviation': { '$round': ['$standardDeviation', 3] } " +
+                    "} }", // Arrotonda varianza, deviazione standard e media a 3 cifre decimali
+            "{ '$match': { 'standardDeviation': { '$gt': 1.3 } } }", // Filtra luoghi con deviazione standard > 1.3
+            "{ '$sort': { 'variance': -1 } }", // Ordina per varianza decrescente
             "{ '$project': { " +
                     "     '_id': 0, " +
-                    "     'category': '$_id', " +
-                    "     'id': '$mostControversial.id', " +
-                    "     'name': '$mostControversial.name', " +
-                    "     'variance': '$mostControversial.variance', " +
-                    "     'averageStars': '$mostControversial.averageStars', " +
-                    "     'reviews': '$mostControversial.reviews' } }" // Proietta i risultati finali
+                    "     'id': '$_id', " +
+                    "     'variance': 1, " +
+                    "     'standardDeviation': 1, " +
+                    "     'averageStars': 1 } }" // Proietta id, varianza, deviazione standard e media
     })
     List<ControversialPlaceDTO> findMostControversialPlaces();
 
 
+
+
     @Aggregation(pipeline = {
-            "{ '$match': { 'place_name': ?0 } }", // Filtra per il nome del posto
+            "{ '$match': { 'place_id': ?0 } }", // Filtra per l'id del posto
             "{ '$group': { '_id': null, 'overall_rating': { '$avg': '$stars' }, 'tot_rev_number': { '$sum': 1 } } }",
             "{ '$project': { '_id': 0, 'overall_rating': { '$round': ['$overall_rating', 3] }, 'tot_rev_number': 1 } }" // Arrotondo la media alle prime 3 cifre decimali
     })
-    ReviewSummary calculateReviewSummary(String placeName);
+    ReviewSummary calculateReviewSummary(String placeId);
+
 
 }
