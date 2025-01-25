@@ -22,6 +22,15 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain)
             throws ServletException, IOException {
 
+        String path = request.getServletPath();
+
+
+        if (path.startsWith("/users/login") || path.startsWith("/users/signup") || path.startsWith("/users/signup/admin") ||
+                path.startsWith("/v3/api-docs") || path.startsWith("/swagger-ui")) {
+            filterChain.doFilter(request, response);
+            return;
+        }
+
         // Estrai il token dal header Authorization
         String token = getJwtFromRequest(request);
         System.out.println("TOKEN_" + token);
