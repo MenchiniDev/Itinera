@@ -132,14 +132,7 @@ public class PostService {
         return postRepository.findReportedComments();
     }
 
-    //todo
-    public List<Post> findByCommunity(String communityName) {
-
-        //controlli, se è joinato i post
-        //se non è joinato community
-
-        return postRepository.findByCommunity(communityName);
-    }
+   
 
     public Post addCommentToPost(String commenterUsername, String postId, String commentBody) {
 

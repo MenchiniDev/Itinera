@@ -43,18 +43,7 @@ class PostController {
             return ResponseEntity.badRequest().body("Error");
     }
 
-    // http://localhost:8080/posts
-    // returns all posts of a community
-    //funzionante sabato
-    @GetMapping("/{communityName}")
-    public List<Post> getAllPosts(@PathVariable String communityName) {
-        if(communityName==null || communityName.isEmpty() || !communityService.existsCommunity(communityName)) {
-            return null;
-        }else {
-            return postService.findByCommunity(communityName);
-        }
-    }
-
+ 
     // working
     //funzionante sabato
     @DeleteMapping("/{id}")

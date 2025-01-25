@@ -81,7 +81,7 @@ class CommunityController {
     
     // http://localhost:8080/Community
     //creates a community checking if the admin is sending the request
-    //todo::non va
+   
     @PostMapping
     public ResponseEntity<String> createCommunity(
             @RequestHeader("Authorization") String token,
