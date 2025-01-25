@@ -38,6 +38,10 @@ public class ReviewController {
 
             }
 
+            if (User.isAdmin(token)){
+                return ResponseEntity.badRequest().body("Admins can not add reviews");
+            }
+
             String place_id = (String) requestBody.get("place_id");
             int stars = (int) requestBody.get("stars");
             String text = (String) requestBody.get("text");
@@ -116,6 +120,9 @@ public class ReviewController {
             return ResponseEntity.badRequest().body("Invalid token");
         }
 
+        if (User.isAdmin(token)){
+            return ResponseEntity.badRequest().body("Admins can not report reviews");
+        }
         return ResponseEntity.ok(reviewService.reportReviewById(reviewId));
 
     }
