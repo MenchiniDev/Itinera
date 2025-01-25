@@ -61,7 +61,6 @@ public class UserService{
 
     }
 
-    //////////////////////////////////////modifiche bache//////////////////////////////////////////
 
     // Trova un utente per username
     public static Optional<User> findByUsername(String username) {
@@ -191,4 +190,9 @@ public class UserService{
     {
         return userRepository.findTopActiveUsers();
     }
+
+    public List<ReportedUserDTO> getReportedUsers() {
+        return userRepository.findUsersReported();
+    }
+
 }

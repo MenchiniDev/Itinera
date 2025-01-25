@@ -1,7 +1,6 @@
 package com.unipi.ItineraJava.service;
 
 import com.unipi.ItineraJava.model.MongoPlace;
-import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.ReviewSummary;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.repository.PlaceRepository;
@@ -11,9 +10,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration;
 import org.springframework.stereotype.Service;
 import org.springframework.data.mongodb.core.MongoTemplate;
-import org.springframework.data.mongodb.core.query.Criteria;
-import org.springframework.data.mongodb.core.query.Query;
-import org.springframework.data.mongodb.core.query.Update;
 
 
 import java.util.*;
@@ -78,30 +74,30 @@ public class PlaceService {
     }
 
 
-    public void updateReviewSummary(String placeName) {
+    public void updateReviewSummary(String placeId) {
         // Calcola la media e il totale delle recensioni
-        ReviewSummary summary = reviewRepository.calculateReviewSummary(placeName);
-        System.out.println("funzione di aggiornamento chiamata");
+        ReviewSummary summary = reviewRepository.calculateReviewSummary(placeId);
+        //System.out.println("funzione di aggiornamento chiamata");
         System.out.println("Average Rating: " + summary.getOverall_rating());
         System.out.println("Total Reviews: " + summary.getTot_rev_number());
 
         if (summary != null) {
-            System.out.println("calcolati media e totale recensioni,procedo ad aggiornarli");
+            //System.out.println("calcolati media e totale recensioni,procedo ad aggiornarli");
             // Estrai i valori calcolati
             double averageRating = summary.getOverall_rating();
             int totalReviews = summary.getTot_rev_number();
 
             // Aggiorna il documento nella collezione Places
-            placeRepository.updateReviewSummary(placeName, averageRating, totalReviews);
-            System.out.println("valori aggiornati");
+            placeRepository.updateReviewSummary(placeId, averageRating, totalReviews);
+            System.out.println("values updated");
         } else {
-            System.err.println("No reviews found for place, summary è null : " + placeName);
+            System.err.println("No reviews found for place, summary is null : " + placeId);
         }
     }
 
     //metodo per controllare l'esistenza del posto in questione
-    public boolean doesPlaceExist(String placeName) {
-        return placeRepository.existsByName(placeName);
+    public boolean doesPlaceExist(String placeId) {
+        return placeRepository.existsById(placeId);
     }
 
 
