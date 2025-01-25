@@ -1,5 +1,8 @@
 package com.unipi.ItineraJava.service;
 
+import com.google.gwt.place.shared.Place;
+import com.mongodb.client.MongoClient;
+import com.unipi.ItineraJava.DTO.PlaceDTO;
 import com.unipi.ItineraJava.model.MongoPlace;
 import com.unipi.ItineraJava.model.ReviewSummary;
 import com.unipi.ItineraJava.repository.CommunityRepository;
@@ -31,6 +34,8 @@ public class PlaceService {
     private MongoTemplate mongoTemplate;
     @Autowired
     private ReviewRepository reviewRepository;
+    @Autowired
+    private MongoClient mongo;
 
 
     public List<MongoPlace> getBestPlacesByCity(String city) {
@@ -101,5 +106,20 @@ public class PlaceService {
     }
 
 
+    public void addPlace(PlaceDTO place) {
+        try {
+            MongoPlace mongoPlace = new MongoPlace();
+            mongoPlace.setId(UUID.randomUUID().toString());
+            mongoPlace.setCity(place.getCity());
+            mongoPlace.setName(place.getName());
+            mongoPlace.setAddress(place.getAddress());
+            mongoPlace.setCategory(place.getCategory());
+            mongoPlace.setReviews(new ReviewSummary(0, 0));
 
+            placeRepository.save(mongoPlace);
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }
 }

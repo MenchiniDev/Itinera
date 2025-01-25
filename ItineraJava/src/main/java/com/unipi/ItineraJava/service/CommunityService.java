@@ -3,18 +3,18 @@ package com.unipi.ItineraJava.service;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 
 
+import com.mongodb.client.MongoClient;
 import com.mongodb.client.result.UpdateResult;
 import com.unipi.ItineraJava.DTO.ActiveCommunityDTO;
+import com.unipi.ItineraJava.DTO.CommunityDTO;
 import com.unipi.ItineraJava.model.*;
 import com.unipi.ItineraJava.repository.PostRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.MongoManagedTypes;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
@@ -44,6 +44,10 @@ public class CommunityService {
     private MongoTemplate mongoTemplate;
     @Autowired
     private PostRepository postRepository;
+    @Autowired
+    private MongoClient mongo;
+    @Autowired
+    private MongoManagedTypes mongoManagedTypes;
 
     public Optional<MongoCommunity> findById(String id) {
         return communityRepository.findById(id);
@@ -146,7 +150,7 @@ public class CommunityService {
         return communityNeo4jRepository.countPostsInCommunity(city);
     }
 
-
+    //todo: da modificare: non deve aggiungere un postSummary ma deve rimuovere il primo dei due e metterci questo, in più deve propagare il post dentro la community
     public ResponseEntity<String> updateCommunity(String username, String text, String name) {
         try {
             Post post = new Post();
@@ -162,6 +166,7 @@ public class CommunityService {
             post.setReported_post(false);
             post.setComment(null);
             userService.updateLastPost(username,post.getPost());
+            postRepository.save(post);
 
             PostSummary postSummary = new PostSummary();
             postSummary.setUser(username);
@@ -191,5 +196,19 @@ public class CommunityService {
 
     public boolean existsByName(String community) {
         return communityRepository.existsByName(community);
+    }
+
+    public void createCommunity(CommunityDTO communityDTO) {
+        try {
+            MongoCommunity mongoCommunity = new MongoCommunity();
+            mongoCommunity.setName(communityDTO.getName());
+            mongoCommunity.setCity(communityDTO.getCity());
+            mongoCommunity.setCreated(LocalDateTime.now().toString());
+            mongoCommunity.setId(UUID.randomUUID().toString());
+            mongoCommunity.setPost(new ArrayList<PostSummary>());
+        }catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 }
