@@ -5,8 +5,8 @@ import org.springframework.data.mongodb.core.mapping.Field;
 // COMMENT
 public class Comment {
 
-    @Field("commentId")
-    private String commentId;
+    @Field("_id")
+    private String _id;
     @Field("username")
     private String username;
     @Field("timestamp")
@@ -18,10 +18,10 @@ public class Comment {
 
     public Comment() {}
     public void setCommentId(String commentId) {
-        this.commentId = commentId;
+        this._id = _id;
     }
     public String getCommentId() {
-        return commentId;
+        return _id;
     }
     public String getUsername() {
         return username;

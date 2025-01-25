@@ -71,6 +71,9 @@ public interface PostRepository extends MongoRepository<Post, String> {
     @Query(value = "{ '_id': ?0 }")
     Optional<Post> findPostByIdForComment(String postId);
 
+    
+    List<Post> findByCommunity(String community);
+
 
     Post findPostById(String postId);
 

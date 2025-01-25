@@ -4,6 +4,7 @@ package com.unipi.ItineraJava.service;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
+import java.util.stream.Collectors;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.client.MongoClient;
@@ -61,20 +62,37 @@ public class CommunityService {
         communityRepository.deleteById(id);
     }
 
-    public List<Post> getAllPostsAndComments(String communityId) {
-        MongoCommunity mongoCommunity = communityRepository.findById(communityId)
-                .orElseThrow(() -> new ResourceNotFoundException("Community not found"));
-        return mongoCommunity.getPosts(); // Include automaticamente i commenti nei post
-    }
+    
+    
 
-    public Post getLastPostPreview(String communityId) {
-        MongoCommunity mongoCommunity = communityRepository.findById(communityId)
-                .orElseThrow(() -> new ResourceNotFoundException("Community not found"));
-        return mongoCommunity.getPosts()
-                .stream()
-                .max(Comparator.comparing(Post::getTimestamp))
-                .orElse(null); // Ritorna l'ultimo post o null se non esistono post
+    public List<Post> getAllPostsAndComments(String city) {
+        // Query diretta sulla collezione Post
+        List<Post> posts = postRepository.findByCommunity(city);
+    
+        // Ritorna lista vuota se non ci sono post
+        if (posts == null) {
+            System.out.println("No posts found for city: " + city);
+            return new ArrayList<>();
+        }
+    
+        System.out.println("Number of posts found: " + posts.size());
+        return posts;
     }
+    
+
+    public List<PostSummary> getLastTwoPostPreviews(String city) {
+        MongoCommunity mongoCommunity = communityRepository.findByCity(city);
+        if (mongoCommunity == null || mongoCommunity.getPosts() == null) {
+            return new ArrayList<>(); // Prevenire null
+        }
+    
+        // Ordina i post e restituisci i due più recenti
+        return mongoCommunity.getPost()
+                .stream()
+                .collect(Collectors.toList());
+    }
+    
+
 
     public void deleteByName(String name) {
         communityNeo4jRepository.deleteCommunity(name);
@@ -190,7 +208,6 @@ public class CommunityService {
     }
     
 
-    
 
     public Boolean existsCommunity(String name) {
         return communityRepository.existsByCity(name);
@@ -203,7 +220,7 @@ public class CommunityService {
     public void createCommunity(CommunityDTO communityDTO) {
         try {
             MongoCommunity mongoCommunity = new MongoCommunity();
-            mongoCommunity.setName(communityDTO.getName());
+            mongoCommunity.setName(communityDTO.getCity());
             mongoCommunity.setCity(communityDTO.getCity());
             mongoCommunity.setCreated(LocalDateTime.now().toString());
             mongoCommunity.setId(UUID.randomUUID().toString());
