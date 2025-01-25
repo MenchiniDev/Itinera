@@ -19,6 +19,7 @@ public class PlaceController {
 
     // http://localhost:8080/place/Amsterdam
     // returns a list with all places ordered by decrescent rating
+    //funzionante sabato
     @GetMapping("/{city}")
     public List<MongoPlace> getTopPlaces(@PathVariable String city) {
         return ResponseEntity.ok(placeService.getBestPlacesByCity(city)).getBody();
@@ -26,11 +27,18 @@ public class PlaceController {
 
     // http://localhost:8080/place/search?city=Amsterdam&&category=Hotel
     // returns all category places in the city ordered by rating
-    @GetMapping("/search")
+
+    @GetMapping("/search/{city}/{category}")
     public List<MongoPlace> getPlacesByCityAndCategory(
-            @RequestParam String city,
-            @RequestParam String category) {
-        return ResponseEntity.ok(placeService.getPlacesByCityAndCategory(city, category)).getBody();
+            @PathVariable String city,
+            @PathVariable String category) {
+        try {
+            return ResponseEntity.ok(placeService.getPlacesByCityAndCategory(city, category)).getBody();
+        }
+        catch (Exception e) {
+            e.printStackTrace();
+            return null;
+        }
     }
 
 

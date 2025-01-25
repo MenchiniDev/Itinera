@@ -62,11 +62,11 @@ class CommunityController {
 
     // http://localhost:8080/Community/678e41769d6b117cd029652e
     // returns the {id} community with all his data
-    //todo: cambiala tutta usando cityName
-    @GetMapping("/details/{name}")
-    public ResponseEntity<?> getCommunityDetails(
-            @RequestParam String name,
-            @RequestParam String username) {
+    //todo: ross now its up to you :)
+    @GetMapping("/details/{city}")
+    public ResponseEntity<?> getCommunityDetails( @RequestHeader("Authorization") String token,
+                                                  @PathVariable String city) {
+        String username = JwtTokenProvider.getUsernameFromToken(token);
         /*boolean isJoined = graphDbService.isUserJoinedCommunity(username, id);
         if (isJoined) {
             return ResponseEntity.ok(communityService.getAllPostsAndComments(id));

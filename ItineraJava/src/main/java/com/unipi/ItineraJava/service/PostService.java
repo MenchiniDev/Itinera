@@ -2,7 +2,6 @@ package com.unipi.ItineraJava.service;
 
 
 import com.unipi.ItineraJava.DTO.PostSummaryDto;
-import com.unipi.ItineraJava.DTO.commentDTO;
 import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.repository.PostNeo4jRepository;
@@ -23,7 +22,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
-import java.util.concurrent.atomic.AtomicLong;
 import java.util.UUID;
 
 @Service
@@ -83,45 +81,36 @@ public class PostService {
         postRepository.deleteById(id);
     }
 
-    public boolean reportPost(String body, String user, String community) {
+    public boolean reportPost(String postId) {
         try {
-            System.out.println(postRepository.findPostByTimestampAndUsernameAndCommunity(body, user, community));
+            Post post = postRepository.findPostByPostId(postId);
+            post.setReported_post(true);
+            postRepository.save(post);
 
-            Optional<Post> postDTO = postRepository.findPostByTimestampAndUsernameAndCommunity(body, user, community);
-
-            System.out.println(postDTO.isPresent());
-            if (postDTO.isPresent()) {
-                Post dto = postDTO.get();
-                dto.setReported_post(true);
-                postRepository.save(dto);
-                return true;
-            }
-
-            System.out.println("Non trovato");
-            return false;
+            return true;
         } catch (Exception e) {
             e.printStackTrace();
             return false;
         }
     }
 
-    public boolean reportComment(String community, String user, String text) {
-        try {
-            Query query = new Query();
-            query.addCriteria(Criteria.where("community").is(community));
-            query.addCriteria(Criteria.where("comment.username").is(user));
-            query.addCriteria(Criteria.where("comment.body").is(text));
+    public boolean reportComment(String postId,String commentId) {
+        Optional<Post> post = postRepository.findPostByIdAndCommentId(postId, commentId);
 
+        if (post.isPresent() && !post.get().getComment().isEmpty()) {
+            // Ottieni il commento specifico
+            Comment comment = post.get().getComment().get(0);
 
-            Update update = new Update();
-            update.set("comment.$.reportedcomment", true);
+            // Modifica il campo `reportedcomment` nel commento
+            comment.setReported(true);
 
-            mongoTemplate.updateFirst(query, update, Post.class);
+            // Salva il post aggiornato
+            postRepository.save(post.get());
 
             return true;
-        } catch (Exception e) {
-            return false;
         }
+
+        return false;
     }
 
     public List<Post> getReportedPosts() {
@@ -137,23 +126,28 @@ public class PostService {
         return postRepository.findByCommunity(communityName);
     }
 
-    public Post addCommentToPost(String commenterUsername, String postUsername, commentDTO commentdto) {
+    public Post addCommentToPost(String commenterUsername, String postId, String commentBody) {
 
-        Comment comment = new Comment();
-        comment.setBody(commentdto.getComment());
-        comment.setReported(false);
-        Post post = postRepository.findPostByUsernameAndCommunityAndPost(postUsername, commentdto.getCommunity(), commentdto.getTextpost());
-        String postId = post.getId();
+        Post post = postRepository.findPostByPostId(postId);
         System.out.println(post);
 
-        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, commentdto.getCommunity())) {
-            throw new IllegalArgumentException("User has not joined community: " + commentdto.getCommunity());
+        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, post.getCommunity())) {
+            throw new IllegalArgumentException("User has not joined community: " + post.getCommunity());
+        }
+        if (post.getComment() == null) {
+            post.setComment(new ArrayList<>());
         }
 
+        Comment comment = new Comment();
+        comment.setBody(commentBody);
+        comment.setReported(false);
         comment.setUsername(commenterUsername);
-        comment.setTimestamp(String.valueOf(LocalDateTime.parse(LocalDateTime.now()
-                .format(DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss")))));
+        comment.setTimestamp(LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")));
+        comment.setCommentId(UUID.randomUUID().toString());
 
+        if (!communityNeo4jRepository.isAlreadyJoined(commenterUsername, post.getCommunity())) {
+            throw new IllegalArgumentException("User has not joined community: " + post.getCommunity());
+        }
 
         if (post.getComment() == null) {
             post.setComment(new ArrayList<>());
@@ -190,7 +184,7 @@ public class PostService {
         System.out.println("Post ID: " + postId);
         System.out.println("Timestamp del commento: " + commentTimestamp);
 
-       // postNeo4jRepository.deleteComment(usernameCommmenter, postId, commentTimestamp); //QUESTA VA MODIFICATA CON COMMENT ID 
+       // postNeo4jRepository.deleteComment(usernameCommmenter, postId, commentTimestamp); //QUESTA VA MODIFICATA CON COMMENT ID
         //postNeo4jRepository.deleteComment(comment1.getId());
         post.getComment().removeIf(comment -> comment.getBody().equals(body) && comment.isReported());
         post.setNum_comment(post.getNum_comment() - 1);

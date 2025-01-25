@@ -229,6 +229,7 @@ class UserController {
 
 
     // http://localhost:8080/users/find/test
+    //funzionante sabato
     @GetMapping("/find/{username}")
     public Optional<User> getUserByUsername(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -241,8 +242,9 @@ class UserController {
 
 
     // Endpoint per aggiornare il campo "reported" per uno specifico user
+    //funzionante sabato
     @PutMapping("/report/{username}")
-    public ResponseEntity<?> reportUser(@PathVariable String username) {
+    public ResponseEntity<String> reportUser(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         // Verifica se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
@@ -256,7 +258,7 @@ class UserController {
     }
 
 
-
+    //funzionante sabato
     @GetMapping("/reported")
     public ResponseEntity<List<ReportedUserDTO>> getReportedUsers(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {

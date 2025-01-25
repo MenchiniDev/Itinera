@@ -102,9 +102,9 @@ public class CreateGraphDatabase {
 
                     for (Object commentObj : comments) {
                         JSONObject comment = (JSONObject) commentObj;
-                        String commentId = (String) comment.get("_id"); // Estrai l'ID del commento
                         String commentUsername = (String) comment.get("username");
                         String commentTimestamp = (String) comment.get("timestamp");
+                        String commentId = (String) comment.get("_id");
 
                         // Aggiungo l'utente del commento al set di utenti
                         users.add(commentUsername);
@@ -177,7 +177,7 @@ public class CreateGraphDatabase {
         List<String> userList = new ArrayList<>(users);
 
         // Utilizzo un seed fisso per ottenere risultati consistenti tra esecuzioni
-        Random random = new Random(42);
+        Random random = new Random(42); 
 
         int totalFollowsCreated = 0;
 
