@@ -1,13 +1,15 @@
 {
   "city" : "Napoli",
   "name" : "Napoli",
-  "created" : "2024-09-16T17:03Z",
+  "created" : "2024-10-25T23:04:15Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "1a411f27-a640-4ab5-abab-69c3c7aaef06",
+    "text" : "Dati accesso luoghi d'interesse",
     "user" : "dnosr",
-    "timestamp" : "2024-09-16T18:03Z"
+    "timestamp" : "2024-10-26T00:04:15Z"
   }, {
-    "text" : null,
+    "_id" : "1312a928-452f-4eac-998b-e9c9e81cb9ff",
+    "text" : "Razzismo solo online",
     "user" : "simongaslebo",
     "timestamp" : "2024-12-22T17:04:13Z"
   } ]

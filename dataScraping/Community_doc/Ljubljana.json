@@ -1,13 +1,15 @@
 {
   "city" : "Ljubljana",
   "name" : "Ljubljana",
-  "created" : "2024-09-16T16:57:49Z",
+  "created" : "2024-10-25T22:57:32Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "0dfae5e0-3fe0-4e52-8e82-81e98d28be44",
+    "text" : "NYE ",
     "user" : "Ok_Aide7125",
-    "timestamp" : "2024-09-16T17:57:49Z"
+    "timestamp" : "2024-10-25T23:57:32Z"
   }, {
-    "text" : null,
+    "_id" : "91e0b8f0-c437-4fc1-a3ea-e7c4416f81dc",
+    "text" : "Podaljšani kroji M",
     "user" : "Gregor988",
     "timestamp" : "2024-12-20T19:29:20Z"
   } ]

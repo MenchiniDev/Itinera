@@ -3,11 +3,13 @@
   "name" : "Bratislava",
   "created" : "2024-12-18T14:07:20Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "43d81a29-3213-4d8e-9a18-662e65ed03c7",
+    "text" : "You are from Bratislava, around 20, you like music and would love to make a new friend? You might've found your candidate!",
     "user" : "Rock-Punk-Metal_Fan",
     "timestamp" : "2024-12-18T15:07:20Z"
   }, {
-    "text" : null,
+    "_id" : "194ba659-7d14-4016-9ffb-a896681bbd0f",
+    "text" : "Trains",
     "user" : "Chance-Olive-1223",
     "timestamp" : "2024-12-20T07:43:36Z"
   } ]

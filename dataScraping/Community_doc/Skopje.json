@@ -1,14 +1,16 @@
 {
   "city" : "Skopje",
   "name" : "Skopje",
-  "created" : "2024-09-16T17:09:11Z",
+  "created" : "2024-10-25T23:06:59Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "4b2db60f-8b56-49d2-b604-36182cd9cb2d",
+    "text" : "New year celebration ",
     "user" : "Clean_Patient_5010",
-    "timestamp" : "2024-09-16T18:09:11Z"
+    "timestamp" : "2024-10-26T00:06:59Z"
   }, {
-    "text" : null,
+    "_id" : "bcb06759-6f51-47eb-ac06-263ea240d1a9",
+    "text" : "Активен Македонски Discord сервер \"Macedonian Mingle\"\n",
     "user" : "paceeex3",
-    "timestamp" : "2024-09-16T18:28:26Z"
+    "timestamp" : "2024-10-26T00:19:27Z"
   } ]
 }

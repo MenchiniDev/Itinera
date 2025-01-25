@@ -1,14 +1,16 @@
 {
   "city" : "Paris",
   "name" : "Paris",
-  "created" : "2024-09-16T17:27:46Z",
+  "created" : "2024-10-25T23:17:24Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "7fd1e403-09dd-4387-aed8-c0a9f83b18c9",
+    "text" : "FORUM LIBRE : TOURISTS AND RESIDENTS, ASK YOUR COMMON QUESTIONS IN THIS WEEKLY THREAD : Open Forum -- 22, December, 2024",
     "user" : "RichardHenri",
-    "timestamp" : "2024-09-16T18:27:46Z"
+    "timestamp" : "2024-10-26T00:17:24Z"
   }, {
-    "text" : null,
+    "_id" : "cfcc7268-8ebe-40cd-a614-421dc86d01c8",
+    "text" : "Parigo#255 - Ticket unique : la révolution billettique",
     "user" : "jusou_44",
-    "timestamp" : "2024-09-16T18:58:18Z"
+    "timestamp" : "2024-10-26T00:32:41Z"
   } ]
 }

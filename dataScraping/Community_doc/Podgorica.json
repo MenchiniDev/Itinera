@@ -3,11 +3,13 @@
   "name" : "Podgorica",
   "created" : "2024-08-15T07:09:27Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "b2ab0591-cde7-4989-9031-c2b810570c01",
+    "text" : "prizren",
     "user" : "nina-art",
     "timestamp" : "2024-08-15T08:09:27Z"
   }, {
-    "text" : null,
+    "_id" : "b1b12ded-dcc1-4374-a69b-643435e0650a",
+    "text" : "Im coming to montenegro",
     "user" : "Dry-Meet-9956",
     "timestamp" : "2024-08-19T01:10:06Z"
   } ]

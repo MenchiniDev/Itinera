@@ -3,11 +3,13 @@
   "name" : "Bucharest",
   "created" : "2022-04-08T18:34:23Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "14a6fdc1-f604-4465-b394-c3f128901e67",
+    "text" : "what area's of Bucharest should a group in their 20's visit during the day, and during the night?",
     "user" : "cestamp",
     "timestamp" : "2022-04-08T19:34:23Z"
   }, {
-    "text" : null,
+    "_id" : "4ffa6001-c4e3-4815-8c59-261e17e07e1b",
+    "text" : "Any good places for a solotraveler to see nature around Bucharest?",
     "user" : "None",
     "timestamp" : "2022-07-31T14:38:10Z"
   } ]

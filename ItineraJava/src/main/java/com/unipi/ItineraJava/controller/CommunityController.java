@@ -78,35 +78,7 @@ class CommunityController {
         return null;
     }
 
-    // adds a post inside a community
-    // token -> user auth token
-    // text -> post body, plain test no json
-    // name -> the name of the city
-    // http://localhost:8080/Community/Rome
-    //todo: fixare il postSummary della community
-    @PutMapping("/{city}")
-    public ResponseEntity<String> updateCommunity(@RequestHeader("Authorization") String token,
-                                                  @PathVariable String city,
-                                                  @RequestBody String text)
-    {
-        try{
-            String username = JwtTokenProvider.getUsernameFromToken(token);
-            if (username == null)
-                return ResponseEntity.status(400).body("Invalid token");
-            if (text == null)
-                return ResponseEntity.status(400).body("Invalid text");
-            if(communityService.existsCommunity(city)) {
-                return communityService.updateCommunity(username, text, city);
-            }else
-            {
-                return ResponseEntity.status(400).body("Invalid Community name");
-            }
-        }catch (Exception e) {
-            e.printStackTrace();
-            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(e.getMessage());
-        }
-    }
-
+    
     // http://localhost:8080/Community
     //creates a community checking if the admin is sending the request
     //todo::non va

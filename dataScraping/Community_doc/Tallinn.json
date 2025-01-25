@@ -3,11 +3,13 @@
   "name" : "Tallinn",
   "created" : "2021-12-22T23:21:03Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "5e866328-1a08-4ad1-8178-47f79f5b610e",
+    "text" : "Visiting for New Years!",
     "user" : "Nor_Cal_Native",
     "timestamp" : "2021-12-23T00:21:03Z"
   }, {
-    "text" : null,
+    "_id" : "24c70d9a-1f96-474e-9969-3d711f76ce5a",
+    "text" : "I have an extra ticket to the Opera -giving it away for free",
     "user" : "InternationalPin6177",
     "timestamp" : "2022-01-15T13:50:08Z"
   } ]

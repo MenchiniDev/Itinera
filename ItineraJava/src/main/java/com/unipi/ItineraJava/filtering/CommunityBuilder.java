@@ -158,8 +158,9 @@ public class CommunityBuilder {
 
     private static JSONObject createPostDocument(JSONObject postJson) {
         JSONObject post = new JSONObject();
+        post.put("_id", postJson.get("_id"));
         post.put("user", postJson.get("username"));
-        post.put("text", postJson.get("post_body"));
+        post.put("text", postJson.get("post"));
         post.put("timestamp", postJson.get("timestamp"));
         return post;
     }

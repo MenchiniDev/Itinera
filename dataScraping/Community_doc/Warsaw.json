@@ -1,13 +1,15 @@
 {
   "city" : "Warsaw",
   "name" : "Warsaw",
-  "created" : "2024-09-16T17:02:20Z",
+  "created" : "2024-10-25T23:03:37Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "d29f7884-b590-4649-8bd4-164a0a9856dc",
+    "text" : "A portable stove",
     "user" : "fijifig",
-    "timestamp" : "2024-09-16T18:02:20Z"
+    "timestamp" : "2024-10-26T00:03:37Z"
   }, {
-    "text" : null,
+    "_id" : "097af467-0637-43d0-a3e2-eba1976bb803",
+    "text" : "Nowe Miasto at night.",
     "user" : "Snoo_90160",
     "timestamp" : "2024-12-21T13:26:57Z"
   } ]

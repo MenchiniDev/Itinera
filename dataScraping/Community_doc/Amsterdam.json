@@ -1,13 +1,15 @@
 {
   "city" : "Amsterdam",
   "name" : "Amsterdam",
-  "created" : "2024-09-16T17:14:12Z",
+  "created" : "2024-10-25T23:08:55Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "56000966-b7d5-4f91-82a0-6c3d504e9835",
+    "text" : "Kerstviering bezoeken in Amsterdam? Hier ben je welkom op kerstavond",
     "user" : "dullestfranchise",
-    "timestamp" : "2024-09-16T18:14:12Z"
+    "timestamp" : "2024-10-26T00:08:55Z"
   }, {
-    "text" : null,
+    "_id" : "c01b2b5d-78f7-4065-92dd-5c4cda9b37b5",
+    "text" : "Dancing in the Oosterpark",
     "user" : "HetGewildeWesten",
     "timestamp" : "2024-12-22T08:26:29Z"
   } ]

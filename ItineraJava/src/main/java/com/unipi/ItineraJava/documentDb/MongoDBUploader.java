@@ -28,7 +28,7 @@ public class MongoDBUploader {
         String collectionName = "Community";// Nome della collezione
 
         //String jsonFolderPath = "../dataScraping/Post_doc"; // Percorso reale dei file JSON
-        String jsonFolderPath = "../dataScraping/Community_doc"; // Percorso reale dei file JSON
+        String jsonFolderPath = "itinera/dataScraping/Community_doc"; // Percorso reale dei file JSON
 
         // Connessione a MongoDB
         try (MongoClient mongoClient = getMongoConnection(mongoUri)) {

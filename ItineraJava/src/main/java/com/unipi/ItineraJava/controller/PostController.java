@@ -33,8 +33,10 @@ class PostController {
                                                      @RequestBody String post) {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null) {
-            return null;
+            return ResponseEntity.status(400).body("Invalid token");
         }
+        if (post == null)
+            return ResponseEntity.status(400).body("Invalid text");
         if(postService.addPost(community, username, post))
             return ResponseEntity.ok("post added successfully");
         else
