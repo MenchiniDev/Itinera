@@ -95,9 +95,9 @@ public class ReviewController {
 
     // http://localhost:8080/review/place_id
     @GetMapping("/{placeId}")
-    public List<Review> getReviews(
+    public List<Review> getReviews(@RequestHeader("Authorization") String token,
             @PathVariable String placeId) {
-        return ResponseEntity.ok(reviewService.getReviewsByName(placeId)).getBody();
+        return ResponseEntity.ok(reviewService.getReviewsById(placeId)).getBody();
     }
 
 
@@ -111,6 +111,11 @@ public class ReviewController {
             @PathVariable String reviewId
             )
     {
+        String username = JwtTokenProvider.getUsernameFromToken(token);
+        if (username == null) {
+            return ResponseEntity.badRequest().body("Invalid token");
+        }
+
         return ResponseEntity.ok(reviewService.reportReviewById(reviewId));
 
     }
