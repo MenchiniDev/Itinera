@@ -31,7 +31,7 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Optional<PostDTO> getPostById(String id);
 
 
-    List<Post> findByCommunity(String communityName);
+    
 
     @Aggregation(pipeline = {
             "{ '$match': { 'reportedpost': true } }", // Filtra solo i post segnalati
@@ -68,9 +68,11 @@ public interface PostRepository extends MongoRepository<Post, String> {
     })
     void deleteByText(String text);
 
-    @Query(value = "{ '_id': ?0, 'comment._id': ?1 }",
-            fields = "{ 'comment.$': 1 }")
-    Optional<Post> findPostByIdAndCommentId(String postId, String commentId);
+    @Query(value = "{ '_id': ?0 }")
+    Optional<Post> findPostByIdForComment(String postId);
+
+    
+    List<Post> findByCommunity(String community);
 
 
     Post findPostById(String postId);

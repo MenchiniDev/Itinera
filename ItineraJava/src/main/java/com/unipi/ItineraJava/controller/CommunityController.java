@@ -9,6 +9,8 @@ import java.util.Optional;
 
 import com.unipi.ItineraJava.DTO.ActiveCommunityDTO;
 import com.unipi.ItineraJava.DTO.CommunityDTO;
+import com.unipi.ItineraJava.exception.ResourceNotFoundException;
+
 import org.neo4j.cypherdsl.core.Return;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -27,10 +29,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.unipi.ItineraJava.model.Comment;
-import com.unipi.ItineraJava.model.MongoCommunity;
-import com.unipi.ItineraJava.model.Post;
-import com.unipi.ItineraJava.model.User;
+import com.unipi.ItineraJava.model.*;
+
 import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
 import com.unipi.ItineraJava.repository.CommunityRepository;
 import com.unipi.ItineraJava.service.CommunityService;
@@ -52,6 +52,9 @@ class CommunityController {
     @Autowired
     private User user;
 
+    
+
+   
 
     // http://localhost:8080/Community
     // returns all communities with details
@@ -64,31 +67,37 @@ class CommunityController {
 
     // http://localhost:8080/Community/678e41769d6b117cd029652e
     // returns the {id} community with all his data
-    //todo: ross now its up to you :)
     @GetMapping("/details/{city}")
-    public ResponseEntity<?> getCommunityDetails( @RequestHeader("Authorization") String token,
-                                                  @PathVariable String city) {
-        String username = JwtTokenProvider.getUsernameFromToken(token);
-        /*boolean isJoined = graphDbService.isUserJoinedCommunity(username, id);
-        if (isJoined) {
-            return ResponseEntity.ok(communityService.getAllPostsAndComments(id));
-        } else {
-            return ResponseEntity.ok(communityService.getLastPostPreview(id));
-        }*/
-        return null;
+public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") String token,
+                                             @PathVariable String city) {
+    String username = JwtTokenProvider.getUsernameFromToken(token);
+    boolean isJoined = communityNeo4jRepository.isAlreadyJoined(username, city);
+
+    if (isJoined) {
+        // Restituisce tutti i post e i commenti
+        List<Post> posts = communityService.getAllPostsAndComments(city);
+        return ResponseEntity.ok(posts);
+    } else {
+        // Restituisce solo due post riassuntivi
+        List<PostSummary> postPreviews = communityService.getLastTwoPostPreviews(city);
+        return ResponseEntity.ok(postPreviews);
     }
+}
+
+
 
     
     // http://localhost:8080/Community
     //creates a community checking if the admin is sending the request
-    //todo::non va
+   
     @PostMapping
     public ResponseEntity<String> createCommunity(
             @RequestHeader("Authorization") String token,
             @RequestBody CommunityDTO communityDTO) {
         try {
             if(User.isAdmin(token)) {
-                if (mongoCommunityRepository.findByCityAndName(communityDTO.getCity(), communityDTO.getName()).isPresent()) {
+                MongoCommunity mongoCommunity = mongoCommunityRepository.findByCity(communityDTO.getCity());
+                if (mongoCommunity == null) {
                     return ResponseEntity.status(400).body("A community with the same City and Name already exists.");
                 }else
                     communityService.createCommunity(communityDTO);

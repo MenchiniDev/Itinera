@@ -18,6 +18,8 @@ import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
+import java.util.Objects;
+
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -97,24 +99,30 @@ public class PostService {
         }
     }
 
-    public boolean reportComment(String postId,String commentId) {
-        Optional<Post> post = postRepository.findPostByIdAndCommentId(postId, commentId);
-
+    public boolean reportComment(String postId, String commentId) {
+        Optional<Post> post = postRepository.findPostByIdForComment(postId);
+    
         if (post.isPresent() && !post.get().getComment().isEmpty()) {
-            // Ottieni il commento specifico
-            Comment comment = post.get().getComment().get(0);
-
-            // Modifica il campo `reportedcomment` nel commento
-            comment.setReported(true);
-
-            // Salva il post aggiornato
-            postRepository.save(post.get());
-
-            return true;
+            // Trova il commento specifico
+            Comment comment = post.get().getComment().stream()
+                .filter(c -> Objects.equals(c.getCommentId(), commentId)) // Gestisce i valori null
+                .findFirst()
+                .orElse(null);
+    
+            if (comment != null) {
+                // Modifica il campo `reported` del commento
+                comment.setReported(true);
+    
+                // Salva il post aggiornato
+                postRepository.save(post.get());
+                return true;
+            }
         }
-
+    
         return false;
     }
+    
+    
 
     public List<Post> getReportedPosts() {
         return postRepository.findByReportedpostTrue();
@@ -124,10 +132,7 @@ public class PostService {
         return postRepository.findReportedComments();
     }
 
-
-    public List<Post> findByCommunity(String communityName) {
-        return postRepository.findByCommunity(communityName);
-    }
+   
 
     public Post addCommentToPost(String commenterUsername, String postId, String commentBody) {
 
@@ -165,25 +170,42 @@ public class PostService {
     }
 
     public void updatePostAfterCommentRemoval(String commentId) {
+        
         Post post = postRepository.findPostByReportedComment(commentId);
         if (post == null) {
             System.out.println("Nessun post trovato per il commento specificato.");
             throw new IllegalArgumentException("There is no post with this comment.");
         }
-
-        Comment comment1 = post.getComment().stream().filter(c -> c.getBody().equals(commentId)).findFirst().orElse(null);
+    
+        // Stampa i commenti per il debug
+        System.out.println("Commenti nel post:");
+        post.getComment().forEach(c -> System.out.println(" - Comment ID: " + c.getCommentId() + ", Body: " + c.getBody()));
+    
+        // Trova il commento specifico
+        Comment comment1 = post.getComment().stream()
+            .filter(c -> Objects.equals(c.getCommentId(), commentId)) // Usa il campo corretto per il confronto
+            .findFirst()
+            .orElse(null);
+    
         if (comment1 == null) {
             System.out.println("Nessun commento trovato.");
-            throw new IllegalArgumentException("This comment does not exists");
-            
+            throw new IllegalArgumentException("This comment does not exist.");
         }
-        
+    
+        // Elimina il commento da Neo4j
         postNeo4jRepository.deleteComment(commentId);
-        post.getComment().removeIf(comment -> comment.getBody().equals(commentId) && comment.isReported());
+    
+        // Rimuovi il commento dalla lista del post
+        post.getComment().removeIf(comment -> Objects.equals(comment.getCommentId(), commentId));
+    
+        // Aggiorna il numero di commenti
         post.setNum_comment(post.getNum_comment() - 1);
+    
+        // Salva il post aggiornato
         postRepository.save(post);
     }
 
+    
     private String generatePreview(String content) {
         if (content == null || content.isEmpty()) {
             return "";
