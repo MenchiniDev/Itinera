@@ -1,32 +1,32 @@
 package com.unipi.ItineraJava.model;
 
 public class PostSummary {
-    private String User;
-    private String Text;
-    private String Timestamp; // Cambiato Timestamp in Date
+    private String user;
+    private String text;
+    private String timestamp;
 
     // Getters and Setters
     public String getUser() {
-        return User;
+        return user;
     }
 
     public void setUser(String user) {
-        this.User = user;
+        this.user = user;
     }
 
     public String getText() {
-        return Text;
+        return text;
     }
 
     public void setText(String text) {
-        this.Text = text;
+        this.text = text;
     }
 
     public String getTimestamp() {
-        return Timestamp;
+        return timestamp;
     }
 
     public void setTimestamp(String timestamp) {
-        this.Timestamp = String.valueOf(timestamp);
+        this.timestamp = String.valueOf(timestamp);
     }
 }

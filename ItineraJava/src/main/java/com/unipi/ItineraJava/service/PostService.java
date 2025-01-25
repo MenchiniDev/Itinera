@@ -37,9 +37,10 @@ public class PostService {
     private PostRepository postRepository;
 
     @Autowired
-    private MongoTemplate mongoTemplate;
-    @Autowired
     private CommunityService communityService;
+
+    @Autowired
+    private UserService userService;
 
     //private final AtomicLong postCounter = new AtomicLong(200500);
 
@@ -83,7 +84,7 @@ public class PostService {
 
     public boolean reportPost(String postId) {
         try {
-            Post post = postRepository.findPostByPostId(postId);
+            Post post = postRepository.findPostBy_id(postId);
             post.setReported_post(true);
             postRepository.save(post);
 
@@ -163,14 +164,14 @@ public class PostService {
         return postRepository.findTopReportedPostsByCommentCount();
     }
 
-    public void updatePostAfterCommentRemoval(String body) {
-        Post post = postRepository.findPostByReportedComment(body);
+    public void updatePostAfterCommentRemoval(String commentID) {
+        Post post = postRepository.findPostByReportedComment(commentID);
         if (post == null) {
             System.out.println("Nessun post trovato per il commento specificato.");
             throw new IllegalArgumentException("There is no post with this comment.");
         }
 
-        Comment comment1 = post.getComment().stream().filter(c -> c.getBody().equals(body)).findFirst().orElse(null);
+        Comment comment1 = post.getComment().stream().filter(c -> c.getBody().equals(commentID)).findFirst().orElse(null);
         if (comment1 == null) {
             System.out.println("Nessun commento trovato.");
             throw new IllegalArgumentException("This comment does not exists");
@@ -186,7 +187,7 @@ public class PostService {
 
        // postNeo4jRepository.deleteComment(usernameCommmenter, postId, commentTimestamp); //QUESTA VA MODIFICATA CON COMMENT ID
         //postNeo4jRepository.deleteComment(comment1.getId());
-        post.getComment().removeIf(comment -> comment.getBody().equals(body) && comment.isReported());
+        post.getComment().removeIf(comment -> comment.getBody().equals(commentID) && comment.isReported());
         post.setNum_comment(post.getNum_comment() - 1);
         postRepository.save(post);
     }
@@ -221,6 +222,7 @@ public class PostService {
             post.setReported_post(false);
             post.setComment(new ArrayList<>()); // Inizializza come lista vuota 
             postRepository.save(post);
+            userService.updateLastPost(username,post.getPost());
             postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp(), username, community);
             return true;
         } else {

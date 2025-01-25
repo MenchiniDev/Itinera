@@ -74,4 +74,6 @@ public interface PostRepository extends MongoRepository<Post, String> {
 
 
     Post findPostByPostId(String postId);
+
+    Post findPostBy_id(String postId);
 }
