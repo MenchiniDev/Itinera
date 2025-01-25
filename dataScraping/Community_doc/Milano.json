@@ -1,13 +1,15 @@
 {
   "city" : "Milano",
   "name" : "Milano",
-  "created" : "2024-09-16T17:34:40Z",
+  "created" : "2024-10-25T23:22:53Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "bc93147f-15a9-43bd-8d2c-a8abf82fddb6",
+    "text" : "[Week n.51] PLEASE ASK YOUR QUESTIONS ABOUT MILAN HERE",
     "user" : "AutoModerator",
-    "timestamp" : "2024-09-16T18:34:40Z"
+    "timestamp" : "2024-10-26T00:22:53Z"
   }, {
-    "text" : null,
+    "_id" : "d2517c92-6861-4fd4-8c07-4337ac3bdbf8",
+    "text" : "Nuova App ATM con abbonamento digitale e redesign",
     "user" : "xEchDaniel",
     "timestamp" : "2024-12-16T15:53:36Z"
   } ]

@@ -1,13 +1,15 @@
 {
   "city" : "Barcelona",
   "name" : "Barcelona",
-  "created" : "2024-09-16T17:12:46Z",
+  "created" : "2024-10-25T23:08:02Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "2c00ec00-0a3c-43f4-b9f3-99284994277b",
+    "text" : "Got a question about Barcelona? Post in /r/AskBarcelona!",
     "user" : "un_redditor",
-    "timestamp" : "2024-09-16T18:12:46Z"
+    "timestamp" : "2024-10-26T00:08:02Z"
   }, {
-    "text" : null,
+    "_id" : "f6822d24-899e-48d3-9d0f-c3a1fdd616dd",
+    "text" : "Un policia desenfunda la seva pistola en el desnonament de Verdum",
     "user" : "aniol",
     "timestamp" : "2024-12-20T09:37:50Z"
   } ]

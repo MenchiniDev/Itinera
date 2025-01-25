@@ -3,11 +3,13 @@
   "name" : "Birmingham",
   "created" : "2024-12-16T14:22:02Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "0ceeac40-70b9-4590-bdfb-1609630e6753",
+    "text" : "What's Happening In Birmingham This Week? December 16, 2024",
     "user" : "AutoModerator",
     "timestamp" : "2024-12-16T15:22:02Z"
   }, {
-    "text" : null,
+    "_id" : "98b6b475-8549-480f-9b37-18ce4a15b202",
+    "text" : "Find a friend this week!",
     "user" : "AutoModerator",
     "timestamp" : "2024-12-17T11:35:23Z"
   } ]

@@ -3,11 +3,13 @@
   "name" : "Vilnius",
   "created" : "2024-12-19T10:30:34Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "026713bf-4078-41f3-b272-4d0bacd22d73",
+    "text" : "Sendaikčiai Vilniuje",
     "user" : "ponasvilius",
     "timestamp" : "2024-12-19T11:30:34Z"
   }, {
-    "text" : null,
+    "_id" : "5c45c3c0-4963-4f75-a104-3ebab0cd1737",
+    "text" : "Tortas per kalėdas Vilniuje",
     "user" : "kaboomcik",
     "timestamp" : "2024-12-19T11:43:32Z"
   } ]

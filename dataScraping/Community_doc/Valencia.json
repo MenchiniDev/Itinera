@@ -1,14 +1,16 @@
 {
   "city" : "Valencia",
   "name" : "Valencia",
-  "created" : "2024-09-16T17:10:43Z",
+  "created" : "2024-10-25T23:07:11Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "979cbe7f-f9c3-4000-af82-ec23d286f524",
+    "text" : "Anyone who likes Psytrance and want to make friends?",
     "user" : "Warm_Cranberry4472",
-    "timestamp" : "2024-09-16T18:10:43Z"
+    "timestamp" : "2024-10-26T00:07:11Z"
   }, {
-    "text" : null,
+    "_id" : "2be3bd39-1ce3-42b2-8b04-a7ded8f49d66",
+    "text" : "Nochevieja",
     "user" : "Pretty-Appearance694",
-    "timestamp" : "2024-09-16T18:17:52Z"
+    "timestamp" : "2024-10-26T00:14:09Z"
   } ]
 }

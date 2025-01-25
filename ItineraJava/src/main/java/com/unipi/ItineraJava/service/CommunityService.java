@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 
-
+import com.mongodb.BasicDBObject;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.result.UpdateResult;
 import com.unipi.ItineraJava.DTO.ActiveCommunityDTO;
@@ -150,45 +150,47 @@ public class CommunityService {
         return communityNeo4jRepository.countPostsInCommunity(city);
     }
 
-    //todo: da modificare: non deve aggiungere un postSummary ma deve rimuovere il primo dei due e metterci questo, in più deve propagare il post dentro la community
-    public ResponseEntity<String> updateCommunity(String username, String text, String name) {
-        try {
-            Post post = new Post();
-            post.setPost(text);
-            post.setCommunity(name);
-            post.setUsername(username);
-
-            String currentTimestamp = LocalDateTime.now()
-                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
-            post.setTimestamp(currentTimestamp);
-
-            post.setNum_comment(0);
-            post.setReported_post(false);
-            post.setComment(null);
-            userService.updateLastPost(username,post.getPost());
-            postRepository.save(post);
-
-            PostSummary postSummary = new PostSummary();
-            postSummary.setUser(username);
-            postSummary.setText(text);
-            postSummary.setTimestamp(currentTimestamp);
-            if (updateByPost(name,postSummary))
-                return ResponseEntity.ok("post created");
-            else
-                return ResponseEntity.internalServerError().body("error creating post");
-        }catch (Exception e) {
-            return ResponseEntity.internalServerError().body("error creating post");
+   
+    
+    public boolean updateByPost(String name, PostSummary newPostSummary) {
+        // 1. Trova la Community con i post
+        Query query = new Query(Criteria.where("name").is(name));
+        MongoCommunity community = mongoTemplate.findOne(query, MongoCommunity.class);
+    
+        if (community == null) {
+            // Nessuna community trovata
+            return false;
         }
-
-    }
-    public boolean updateByPost(String name, PostSummary postSummary) {
-            Query query = new Query(Criteria.where("name").is(name));
-            Update update = new Update().push("post", postSummary);
-
-            UpdateResult result = mongoTemplate.updateFirst(query, update, MongoCommunity.class);
-
+    
+        // 2. Verifica se la lista dei post è vuota
+        if (community.getPost() == null || community.getPost().isEmpty()) {
+            // Aggiungi direttamente il nuovo PostSummary
+            Update addUpdate = new Update().push("post", newPostSummary);
+            UpdateResult result = mongoTemplate.updateFirst(query, addUpdate, MongoCommunity.class);
             return result.getModifiedCount() > 0;
+        }
+    
+        // 3. Trova il PostSummary con il timestamp meno recente
+        PostSummary oldestPost = community.getPost().stream()
+                .min(Comparator.comparing(PostSummary::getTimestamp))
+                .orElse(null);
+    
+        if (oldestPost != null) {
+            // 4. Rimuovi il PostSummary più vecchio
+            Update removeUpdate = new Update().pull("post", new BasicDBObject("timestamp", oldestPost.getTimestamp()));
+            mongoTemplate.updateFirst(query, removeUpdate, MongoCommunity.class);
+        }
+    
+        // 5. Aggiungi il nuovo PostSummary alla lista
+        Update addUpdate = new Update().push("post", newPostSummary);
+        UpdateResult result = mongoTemplate.updateFirst(query, addUpdate, MongoCommunity.class);
+    
+        // 6. Restituisci true se almeno un documento è stato modificato
+        return result.getModifiedCount() > 0;
     }
+    
+
+    
 
     public Boolean existsCommunity(String name) {
         return communityRepository.existsByCity(name);

@@ -3,11 +3,13 @@
   "name" : "Hamburg",
   "created" : "2024-11-13T17:28:04Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "e968c290-6d2d-4cf8-9834-1eeb404bc170",
+    "text" : "Weihnachtsmarkt / Christmas market Megathread!",
     "user" : "paulihunter",
     "timestamp" : "2024-11-13T18:28:04Z"
   }, {
-    "text" : null,
+    "_id" : "e81588c2-c38d-4bd7-aea0-f156695df22d",
+    "text" : "Was geht ab im Dezember 2024?",
     "user" : "paulihunter",
     "timestamp" : "2024-12-01T02:22:57Z"
   } ]

@@ -3,11 +3,13 @@
   "name" : "Helsinki",
   "created" : "2023-06-04T17:00:38Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "608ab984-b744-48af-903b-4645cc41de9a",
+    "text" : "/r/Helsinki is going private on 12th of June as protest against reddit API becoming inaccessible to third party app developers",
     "user" : "apinanaivot",
     "timestamp" : "2023-06-04T18:00:38Z"
   }, {
-    "text" : null,
+    "_id" : "b859510d-5828-437f-a24b-9ffe255fbfba",
+    "text" : "Where to buy adobo and culantro in Helsinki ?",
     "user" : "takepityontheloser",
     "timestamp" : "2024-12-21T11:45:07Z"
   } ]

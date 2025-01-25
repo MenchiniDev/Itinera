@@ -3,11 +3,13 @@
   "name" : "Sofia",
   "created" : "2024-12-20T13:03:09Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "63ee4522-6b0f-4ae9-8877-437a32fade66",
+    "text" : "Why are there always so many people? paying taxes? ",
     "user" : "AlbatrossHummingbird",
     "timestamp" : "2024-12-20T14:03:09Z"
   }, {
-    "text" : null,
+    "_id" : "c9c16bd4-da55-4ca7-a1c0-67055fd7418e",
+    "text" : "Редовна липса на топла вода",
     "user" : "GreenHero681",
     "timestamp" : "2024-12-21T11:51:15Z"
   } ]
