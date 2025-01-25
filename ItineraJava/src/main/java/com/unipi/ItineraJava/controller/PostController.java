@@ -91,7 +91,7 @@ class PostController {
 
     // http://localhost:8080/posts/comment
     //working
-    // todo: da fixare ora che usiamo l'id e non il body
+   
     @DeleteMapping("/comment/{commentID}")
     public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
                                                 @PathVariable String commentID) {
@@ -125,7 +125,7 @@ class PostController {
     @PutMapping("/comment/report/{postId}/{commentId}")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
                                              @PathVariable String postId,
-                                             @RequestBody String  commentId)
+                                             @PathVariable String  commentId)
     {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null)

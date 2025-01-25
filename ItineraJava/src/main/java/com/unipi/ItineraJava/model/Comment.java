@@ -4,6 +4,8 @@ import org.springframework.data.mongodb.core.mapping.Field;
 
 // COMMENT
 public class Comment {
+
+    @Field("commentId")
     private String commentId;
     @Field("username")
     private String username;

@@ -68,9 +68,8 @@ public interface PostRepository extends MongoRepository<Post, String> {
     })
     void deleteByText(String text);
 
-    @Query(value = "{ '_id': ?0, 'comment._id': ?1 }",
-            fields = "{ 'comment.$': 1 }")
-    Optional<Post> findPostByIdAndCommentId(String postId, String commentId);
+    @Query(value = "{ '_id': ?0 }")
+    Optional<Post> findPostByIdForComment(String postId);
 
 
     Post findPostById(String postId);

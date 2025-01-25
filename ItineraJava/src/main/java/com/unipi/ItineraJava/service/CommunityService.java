@@ -208,6 +208,9 @@ public class CommunityService {
             mongoCommunity.setCreated(LocalDateTime.now().toString());
             mongoCommunity.setId(UUID.randomUUID().toString());
             mongoCommunity.setPost(new ArrayList<PostSummary>());
+
+            communityRepository.save(mongoCommunity);  
+            communityNeo4jRepository.createCommunityNode(communityDTO.getCity());
         }catch (Exception e) {
             e.printStackTrace();
         }

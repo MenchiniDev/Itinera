@@ -4,6 +4,9 @@ public class CommunityDTO {
     private String city;
     private String name;
 
+    public CommunityDTO() {
+    }
+
     public CommunityDTO(String city, String name) {
         this.city = city;
         this.name = city;
