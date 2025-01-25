@@ -92,9 +92,9 @@ class PostController {
     // http://localhost:8080/posts/comment
     //working
     // todo: da fixare ora che usiamo l'id e non il body
-    @DeleteMapping("/comment")
+    @DeleteMapping("/comment/{commentID}")
     public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
-                                                @RequestBody String commentID) {
+                                                @PathVariable String commentID) {
         if(User.isAdmin(token)){
             postService.updatePostAfterCommentRemoval(commentID);
             return ResponseEntity.ok("Comment deleted");
