@@ -125,7 +125,7 @@ public class ReviewController {
         }
     }
 
-    @GetMapping("profile/places")
+    @GetMapping("/controversial/places")
     public ResponseEntity<List<ControversialPlaceDTO>> findControversialPlaces(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
             return ResponseEntity.ok(reviewService.findControversialPlaces());
