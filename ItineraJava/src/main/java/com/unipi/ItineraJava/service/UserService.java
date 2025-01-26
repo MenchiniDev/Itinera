@@ -55,7 +55,7 @@ public class UserService{
         return userRepository.save(user);
     }
 
-    /* 
+     
     public void deleteById(String id) {
         User user = userRepository.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException("User not found with id: " + id));
@@ -63,8 +63,7 @@ public class UserService{
         userNeo4jRepository.deleteUserNode(username);
         userRepository.deleteById(id);
     }
-    */
-
+    
     // Trova un utente per username
     public static Optional<User> findByUsername(String username) {
         return userRepository.findByUsername(username);
