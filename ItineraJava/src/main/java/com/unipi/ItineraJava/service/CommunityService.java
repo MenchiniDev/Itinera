@@ -62,36 +62,36 @@ public class CommunityService {
         communityRepository.deleteById(id);
     }
 
-    
-    
+
+
 
     public List<Post> getAllPostsAndComments(String city) {
         // Query diretta sulla collezione Post
         List<Post> posts = postRepository.findByCommunity(city);
-    
+
         // Ritorna lista vuota se non ci sono post
         if (posts == null) {
             System.out.println("No posts found for city: " + city);
             return new ArrayList<>();
         }
-    
+
         System.out.println("Number of posts found: " + posts.size());
         return posts;
     }
-    
+
 
     public List<PostSummary> getLastTwoPostPreviews(String city) {
         MongoCommunity mongoCommunity = communityRepository.findByCity(city);
         if (mongoCommunity == null || mongoCommunity.getPosts() == null) {
             return new ArrayList<>(); // Prevenire null
         }
-    
+
         // Ordina i post e restituisci i due più recenti
         return mongoCommunity.getPost()
                 .stream()
                 .collect(Collectors.toList());
     }
-    
+
 
 
     public void deleteByName(String name) {
@@ -168,18 +168,18 @@ public class CommunityService {
         return communityNeo4jRepository.countPostsInCommunity(city);
     }
 
-   
-    
+
+
     public boolean updateByPost(String name, PostSummary newPostSummary) {
         // 1. Trova la Community con i post
         Query query = new Query(Criteria.where("name").is(name));
         MongoCommunity community = mongoTemplate.findOne(query, MongoCommunity.class);
-    
+
         if (community == null) {
             // Nessuna community trovata
             return false;
         }
-    
+
         // 2. Verifica se la lista dei post è vuota
         if (community.getPost() == null || community.getPost().isEmpty()) {
             // Aggiungi direttamente il nuovo PostSummary
@@ -187,26 +187,26 @@ public class CommunityService {
             UpdateResult result = mongoTemplate.updateFirst(query, addUpdate, MongoCommunity.class);
             return result.getModifiedCount() > 0;
         }
-    
+
         // 3. Trova il PostSummary con il timestamp meno recente
         PostSummary oldestPost = community.getPost().stream()
                 .min(Comparator.comparing(PostSummary::getTimestamp))
                 .orElse(null);
-    
+
         if (oldestPost != null) {
             // 4. Rimuovi il PostSummary più vecchio
             Update removeUpdate = new Update().pull("post", new BasicDBObject("timestamp", oldestPost.getTimestamp()));
             mongoTemplate.updateFirst(query, removeUpdate, MongoCommunity.class);
         }
-    
+
         // 5. Aggiungi il nuovo PostSummary alla lista
         Update addUpdate = new Update().push("post", newPostSummary);
         UpdateResult result = mongoTemplate.updateFirst(query, addUpdate, MongoCommunity.class);
-    
+
         // 6. Restituisci true se almeno un documento è stato modificato
         return result.getModifiedCount() > 0;
     }
-    
+
 
 
     public Boolean existsCommunity(String name) {
@@ -226,7 +226,7 @@ public class CommunityService {
             mongoCommunity.setId(UUID.randomUUID().toString());
             mongoCommunity.setPost(new ArrayList<PostSummary>());
 
-            communityRepository.save(mongoCommunity);  
+            communityRepository.save(mongoCommunity);
             communityNeo4jRepository.createCommunityNode(communityDTO.getCity());
         }catch (Exception e) {
             e.printStackTrace();
