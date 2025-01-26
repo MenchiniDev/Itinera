@@ -21,7 +21,7 @@ import org.springframework.retry.annotation.Backoff;
 import org.springframework.retry.annotation.Retryable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.TransactionSystemException;
-
+import com.unipi.ItineraJava.DTO.CommentDTO;
 import java.util.Objects;
 
 
@@ -137,9 +137,10 @@ public class PostService {
         return postRepository.findByReportedpostTrue();
     }
 
-    public List<Comment> showCommentReported() {
-        return postRepository.findReportedComments();
-    }
+public List<Comment> showCommentReported() {
+    return postRepository.findReportedComments();
+}
+
 
    
     @Retryable(

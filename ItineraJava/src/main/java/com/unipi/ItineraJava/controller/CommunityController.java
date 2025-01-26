@@ -87,8 +87,7 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
 
     
     // http://localhost:8080/Community
-    //creates a community checking if the admin is sending the request
-   
+    //creates a community checking if the admin is sending the request OK
     @PostMapping
     public ResponseEntity<String> createCommunity(
             @RequestHeader("Authorization") String token,
@@ -96,10 +95,12 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
         try {
             if(User.isAdmin(token)) {
                 MongoCommunity mongoCommunity = mongoCommunityRepository.findByCity(communityDTO.getCity());
-                if (mongoCommunity == null) {
+                if (mongoCommunity != null) {
                     return ResponseEntity.status(400).body("A community with the same City and Name already exists.");
-                }else
+                }else {
                     communityService.createCommunity(communityDTO);
+                    return ResponseEntity.status(201).body("Community "+communityDTO.getCity()+" successfully.");
+                }
             }else {
                 return ResponseEntity.status(400).body("User not authenticated as Admin");
             }
@@ -107,11 +108,9 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
             e.printStackTrace();
             return ResponseEntity.status(500).body("Error creating community: " + e.getMessage());
         }
-        return null;
     }
     // http://localhost:8080/Community/Viareggio
-    // deletes a community
-    //funzionante sabato
+    // deletes a community OK
     @DeleteMapping("/{city}")
     public ResponseEntity<String> deleteCommunity(@RequestHeader("Authorization") String token,
                                                   @PathVariable String city) {
@@ -161,30 +160,32 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
     //http://localhost:8080/Community/joinCommunity/city
     @PutMapping("/leaveCommunity/{city}")
     @PreAuthorize("hasRole('USER')")
-    public ResponseEntity<String> leaveCommunity(@PathVariable String city) {
-        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-    
-        if (authentication != null && authentication.isAuthenticated()) {
-            String username = authentication.getName();
-    
-            try {
-                // Chiamo il servizio per rimuovere l'utente dalla community
-                communityService.leaveCommunity(username, city);
-    
-                // Restituisco il messaggio di successo
-                return ResponseEntity.ok("Community successfully left");
-    
-            } catch (IllegalArgumentException | IllegalStateException ex) {
-                // Restituisco il messaggio di errore in caso di eccezione
-                return ResponseEntity.badRequest().body(ex.getMessage());
+    public ResponseEntity<String> leaveCommunity(@RequestHeader("Authorization") String token,
+                                                @PathVariable String city) {
+        if(!User.isAdmin(token)) {
+            Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+
+            if (authentication != null && authentication.isAuthenticated()) {
+                String username = authentication.getName();
+
+                try {
+                    // Chiamo il servizio per rimuovere l'utente dalla community
+                    communityService.leaveCommunity(username, city);
+
+                    // Restituisco il messaggio di successo
+                    return ResponseEntity.ok("Community successfully left");
+
+                } catch (IllegalArgumentException | IllegalStateException ex) {
+                    // Restituisco il messaggio di errore in caso di eccezione
+                    return ResponseEntity.badRequest().body(ex.getMessage());
+                }
             }
         }
-    
-        // Se l'utente non è autenticato, restituisce un errore di accesso negato
         return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
     }
 
-
+    //http://localhost:8080/Community/showMostActiveUser/Amsterdam
+    // OK
     @GetMapping("/showMostActiveUser/{city}")
     public ResponseEntity<?> getMostActiveUser(@PathVariable String city) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -209,6 +210,7 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
         }
     }
 
+    // http://localhost:8080/Community/showMostActiveCommunity OK
     @GetMapping("/showMostActiveCommunity")
     public ResponseEntity<?> getMostActiveUser() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -231,6 +233,7 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
         }
     }
 
+    // http://localhost:8080/Community/postCount/Amsterdam OK
     @GetMapping("/postCount/{city}")
     public ResponseEntity<?> getPostCount(@PathVariable String city) {
         try {
