@@ -7,6 +7,7 @@ import com.unipi.ItineraJava.model.Post;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
+import com.unipi.ItineraJava.DTO.CommentDTO;
 
 import java.util.List;
 import java.util.Optional;
@@ -19,14 +20,22 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Optional<Post> findPostByTimestampAndUsernameAndCommunity(String body, String username, String community);
 
     @Aggregation(pipeline = {
-            "{ '$match': { 'comment.reported': true } }", // Filtra i post che contengono almeno un commento segnato
-            "{ '$unwind': { 'path': '$comment' } }", // Esplode i commenti
-            "{ '$match': { 'comment.reported': true } }", // Filtra solo i commenti segnati come 'reported'
-            "{ '$project': {'comment._id': 1, 'comment.username': 1, 'comment.timestamp': 1, 'comment.body': 1 } }" // Proietta i campi desiderati
+        "{ '$match': { 'comment.reported': true } }",
+        "{ '$unwind': { 'path': '$comment' } }",
+        "{ '$match': { 'comment.reported': true } }",
+        "{ '$project': { " +
+        "'_id': 0, " +
+        "'_id': '$comment._id', " +
+        "'username': '$comment.username', " +
+        "'timestamp': '$comment.timestamp', " +
+        "'body': '$comment.body', " +
+        "'reported': '$comment.reported' } }"
     })
     List<Comment> findReportedComments();
-
-
+    
+    
+    
+    
 
     @Query(value = "{ '_id': ?0 }")
     Optional<PostDTO> getPostById(String id);
