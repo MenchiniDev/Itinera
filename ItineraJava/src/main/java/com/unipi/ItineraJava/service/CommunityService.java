@@ -201,7 +201,12 @@ public class CommunityService {
     public void createCommunity(CommunityDTO communityDTO) {
         try {
             MongoCommunity mongoCommunity = new MongoCommunity();
-            mongoCommunity.setName(communityDTO.getName());
+
+            if(communityDTO.getName()==null)
+                mongoCommunity.setName(communityDTO.getCity());
+            else
+                mongoCommunity.setName(communityDTO.getName());
+
             mongoCommunity.setCity(communityDTO.getCity());
             mongoCommunity.setCreated(LocalDateTime.now().toString());
             mongoCommunity.setId(UUID.randomUUID().toString());
