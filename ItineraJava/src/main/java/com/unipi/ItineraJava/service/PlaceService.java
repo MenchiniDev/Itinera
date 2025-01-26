@@ -106,6 +106,7 @@ public class PlaceService {
     }
 
 
+    
     public void addPlace(PlaceDTO place) {
         try {
             MongoPlace mongoPlace = new MongoPlace();

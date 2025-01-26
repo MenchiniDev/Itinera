@@ -62,7 +62,7 @@ public class PostsCleaning {
 
         saveUsernamesToFile(usernamesFilePath);
 
-       // System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
+    
     }
 
     private static void transformJsonFile(File jsonFile, String outputFolderPath) {

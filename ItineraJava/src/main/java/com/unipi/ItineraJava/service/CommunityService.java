@@ -21,7 +21,10 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.http.ResponseEntity;
+import org.springframework.retry.annotation.Backoff;
+import org.springframework.retry.annotation.Retryable;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.TransactionSystemException;
 
 import com.mongodb.client.result.UpdateResult;
 import com.unipi.ItineraJava.exception.ResourceNotFoundException;
@@ -58,10 +61,11 @@ public class CommunityService {
         return communityRepository.save(mongoCommunity);
     }
 
+/* 
     public void deleteById(String id) {
         communityRepository.deleteById(id);
     }
-
+*/
 
 
 
@@ -93,7 +97,11 @@ public class CommunityService {
     }
 
 
-
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     public void deleteByName(String name) {
         communityNeo4jRepository.deleteCommunity(name);
         communityRepository.deleteByCity(name);
@@ -106,17 +114,17 @@ public class CommunityService {
     public void joinCommunity(String username, String city) {
         // Verifico se la community esiste
         if (!communityNeo4jRepository.existsByCity(city)) {
-            // Lancio un'eccezione con un messaggio personalizzato
+            // Lancio un'eccezione
             throw new IllegalArgumentException("Community not found: " + city);
         }
     
         // Verifico se la relazione esiste già
         if (communityNeo4jRepository.isAlreadyJoined(username, city)) {
-            // Lancio un'eccezione con un messaggio personalizzato
+            // Lancio un'eccezione 
             throw new IllegalStateException("User " + username + " has already joined the community: " + city);
         }
     
-        // Se i controlli sono positivi, creo la relazione
+        
         communityNeo4jRepository.createJoinToCommunity(username, city);
     
         
@@ -138,7 +146,7 @@ public class CommunityService {
 
        communityNeo4jRepository.deleteJoinToCommunity(username, city); //elimina la relazione
 
-        // (opzionale) Log per debug
+    
         System.out.println("User " + username + " successfully joined community: " + city);
     }
 
@@ -170,9 +178,9 @@ public class CommunityService {
 
 
 
-    public boolean updateByPost(String name, PostSummary newPostSummary) {
-        // 1. Trova la Community con i post
-        Query query = new Query(Criteria.where("name").is(name));
+    public boolean updateByPost(String city, PostSummary newPostSummary) {
+        // Trova la Community con i post
+        Query query = new Query(Criteria.where("city").is(city));
         MongoCommunity community = mongoTemplate.findOne(query, MongoCommunity.class);
 
         if (community == null) {
@@ -180,7 +188,7 @@ public class CommunityService {
             return false;
         }
 
-        // 2. Verifica se la lista dei post è vuota
+        // Verifico se la lista dei post è vuota
         if (community.getPost() == null || community.getPost().isEmpty()) {
             // Aggiungi direttamente il nuovo PostSummary
             Update addUpdate = new Update().push("post", newPostSummary);
@@ -188,22 +196,22 @@ public class CommunityService {
             return result.getModifiedCount() > 0;
         }
 
-        // 3. Trova il PostSummary con il timestamp meno recente
+        //Trovo il PostSummary con il timestamp meno recente
         PostSummary oldestPost = community.getPost().stream()
                 .min(Comparator.comparing(PostSummary::getTimestamp))
                 .orElse(null);
 
         if (oldestPost != null) {
-            // 4. Rimuovi il PostSummary più vecchio
+            // Rimuovo il PostSummary più vecchio
             Update removeUpdate = new Update().pull("post", new BasicDBObject("timestamp", oldestPost.getTimestamp()));
             mongoTemplate.updateFirst(query, removeUpdate, MongoCommunity.class);
         }
 
-        // 5. Aggiungi il nuovo PostSummary alla lista
+        // Aggiungo il nuovo PostSummary alla lista
         Update addUpdate = new Update().push("post", newPostSummary);
         UpdateResult result = mongoTemplate.updateFirst(query, addUpdate, MongoCommunity.class);
 
-        // 6. Restituisci true se almeno un documento è stato modificato
+        // Restituisc true se almeno un documento è stato modificato
         return result.getModifiedCount() > 0;
     }
 
@@ -217,6 +225,11 @@ public class CommunityService {
         return communityRepository.existsByName(community);
     }
 
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     public void createCommunity(CommunityDTO communityDTO) {
         try {
             MongoCommunity mongoCommunity = new MongoCommunity();

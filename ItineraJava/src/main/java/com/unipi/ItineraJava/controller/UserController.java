@@ -10,11 +10,14 @@ import java.util.UUID;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.retry.annotation.Backoff;
+import org.springframework.retry.annotation.Retryable;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.transaction.TransactionSystemException;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -54,6 +57,11 @@ class UserController {
 
     // http://localhost:8080/users/signup
     //funzionante sabato
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     @PostMapping("/signup")
     public ResponseEntity<String> signup(@RequestBody SignupRequest signupRequest) {
         try {
@@ -86,6 +94,11 @@ class UserController {
 
     // http://localhost:8080/users/signup/admin WORKING
     // funzionante sabato
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     @PostMapping("/signup/admin")
     public ResponseEntity<String> signupAdmin(@RequestBody SignupRequest signupRequest) {
         if (userRepository.findByUsername(signupRequest.getUsername()).isPresent()) {

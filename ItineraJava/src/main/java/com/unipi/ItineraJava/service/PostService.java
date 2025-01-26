@@ -17,7 +17,11 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.http.ResponseEntity;
+import org.springframework.retry.annotation.Backoff;
+import org.springframework.retry.annotation.Retryable;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.TransactionSystemException;
+
 import java.util.Objects;
 
 
@@ -46,7 +50,7 @@ public class PostService {
     @Autowired
     private UserService userService;
 
-    //private final AtomicLong postCounter = new AtomicLong(200500);
+   
 
     public List<Post> findAll() {
         return postRepository.findAll();
@@ -78,6 +82,11 @@ public class PostService {
         return postRepository.save(post);
     }
 
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     public void deleteById(String id) {
         
         Post post = postRepository.findById(id).orElse(null);
@@ -133,7 +142,11 @@ public class PostService {
     }
 
    
-
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     public Post addCommentToPost(String commenterUsername, String postId, String commentBody) {
 
         Post post = postRepository.findPostBy_id(postId);
@@ -160,7 +173,6 @@ public class PostService {
         }
         post.getComment().add(comment);
         post.setNum_comment(post.getNum_comment() + 1);
-        //postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp().toString(), commenterUsername, );
         postNeo4jRepository.addCommentToPost(postId, comment.getTimestamp(), commenterUsername, commentId);
         return postRepository.save(post);
     }
@@ -169,6 +181,11 @@ public class PostService {
         return postRepository.findTopReportedPostsByCommentCount();
     }
 
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     public void updatePostAfterCommentRemoval(String commentId) {
         
         Post post = postRepository.findPostByReportedComment(commentId);
@@ -213,6 +230,11 @@ public class PostService {
         return content.length() > 30 ? content.substring(0, 30) + "..." : content;
     }
 
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     public boolean addPost(String community, String username, String postBody) {
 
         if (!communityNeo4jRepository.existsByCity(community)) {
@@ -234,9 +256,10 @@ public class PostService {
             post.setNum_comment(0);
             post.setReported_post(false);
             post.setComment(new ArrayList<>()); // Inizializza come lista vuota 
+            postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp(), username, community);
             postRepository.save(post);
             userService.updateLastPost(username,post.getPost());
-            postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp(), username, community);
+            
 
             //aggiornamento di postSummary dentro community
             PostSummary postSummary = new PostSummary();
