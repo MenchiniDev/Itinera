@@ -9,6 +9,9 @@ import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.TransactionSystemException;
+import org.springframework.retry.annotation.Backoff;
+import org.springframework.retry.annotation.Retryable;
 
 import com.unipi.ItineraJava.DTO.*;
 
@@ -52,15 +55,15 @@ public class UserService{
         return userRepository.save(user);
     }
 
+    /* 
     public void deleteById(String id) {
         User user = userRepository.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException("User not found with id: " + id));
         String username = user.getUsername();
-        userRepository.deleteById(id);
         userNeo4jRepository.deleteUserNode(username);
-
+        userRepository.deleteById(id);
     }
-
+    */
 
     // Trova un utente per username
     public static Optional<User> findByUsername(String username) {
@@ -170,6 +173,11 @@ public class UserService{
         return userNeo4jRepository.findSuggestedPosts(username);
     }
 
+    @Retryable(
+            retryFor = TransactionSystemException.class,
+            maxAttempts = 3,
+            backoff = @Backoff(delay = 2000)
+    )
     public boolean deleteByUsername(String username) {
         
         if(!userNeo4jRepository.existsByUsername(username)){

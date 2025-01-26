@@ -25,7 +25,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 
 public class CommunityBuilder {
 
-    private static final AtomicInteger globalIdCounter = new AtomicInteger(200436); // Contatore globale per ID
+    
 
     public static void main(String[] args) {
         // Percorsi dei file
@@ -111,8 +111,7 @@ public class CommunityBuilder {
         // Salvo ogni community in un file separato
         saveCommunityDocuments(communityMap, outputFolderPath);
 
-        // Stampo l'ultimo ID generato
-       // System.out.println("L'ultimo ID utilizzato è: " + (globalIdCounter.get() - 1));
+    
     }
 
     private static String subtractOneHour(String timestamp) {
