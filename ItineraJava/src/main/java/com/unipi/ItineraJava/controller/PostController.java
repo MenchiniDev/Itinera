@@ -97,7 +97,7 @@ class PostController {
         }
     }
 
-    // http://localhost:8080/posts/comment/report ok
+    // http://localhost:8080/posts/comment/report OK
     @PutMapping("/comment/report/{postId}/{commentId}")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
                                              @PathVariable String postId,
