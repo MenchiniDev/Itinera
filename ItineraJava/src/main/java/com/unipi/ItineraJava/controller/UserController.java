@@ -237,10 +237,6 @@ class UserController {
             return ResponseEntity.status(400).body("Invalid Reponse").getBody();
         }
     }
-
-    ///////////////////////////////////modifiche Bache/////////////////////////////////////////////////////////
-
-
     // http://localhost:8080/users/find/test
     //funzionante sabato
     @GetMapping("/find/{username}")

@@ -52,36 +52,35 @@ class CommunityController {
     @Autowired
     private User user;
 
-    
-
-   
-
     // http://localhost:8080/Community
-    // returns all communities with details
-    // sabato funzionante
+    // returns all communities with details OK
     @GetMapping
     public ResponseEntity<List<MongoCommunity>> getAllCommunity() {
         List<MongoCommunity> communities = mongoCommunityRepository.findAll();
         return ResponseEntity.ok(communities);
     }
 
-    // http://localhost:8080/Community/678e41769d6b117cd029652e
-    // returns the {id} community with all his data
+    //http://localhost:8080/Community/details/6796303dc9b98870aea09b22
+    // returns the {id} community with all his data OK
     @GetMapping("/details/{city}")
 public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") String token,
                                              @PathVariable String city) {
-    String username = JwtTokenProvider.getUsernameFromToken(token);
-    boolean isJoined = communityNeo4jRepository.isAlreadyJoined(username, city);
+        if(!User.isAdmin(token)) {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            boolean isJoined = communityNeo4jRepository.isAlreadyJoined(username, city);
 
-    if (isJoined) {
-        // Restituisce tutti i post e i commenti
-        List<Post> posts = communityService.getAllPostsAndComments(city);
-        return ResponseEntity.ok(posts);
-    } else {
-        // Restituisce solo due post riassuntivi
-        List<PostSummary> postPreviews = communityService.getLastTwoPostPreviews(city);
-        return ResponseEntity.ok(postPreviews);
-    }
+            if (isJoined) {
+                // Restituisce tutti i post e i commenti
+                List<Post> posts = communityService.getAllPostsAndComments(city);
+                return ResponseEntity.ok(posts);
+            } else {
+                // Restituisce solo due post riassuntivi
+                List<PostSummary> postPreviews = communityService.getLastTwoPostPreviews(city);
+                return ResponseEntity.ok(postPreviews);
+            }
+        }else {
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
+        }
 }
 
 
@@ -131,7 +130,7 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
 
 
     //join ad una community da parte dello user loggato 
-    //http://localhost:8080/Community/joinCommunity/{city}
+    //http://localhost:8080/Community/joinCommunity/{city} OK
     @PutMapping("/joinCommunity/{city}")
     @PreAuthorize("hasRole('User')")
     public ResponseEntity<String> joinCommunity(@PathVariable String city) {

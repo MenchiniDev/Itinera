@@ -1,23 +1,33 @@
 package com.unipi.ItineraJava.configuration;
 
+import com.mongodb.MongoClientSettings;
+import com.mongodb.ReadPreference;
+import com.mongodb.ServerAddress;
 import com.mongodb.WriteConcern;
+import com.mongodb.client.MongoClient;
+import com.mongodb.client.MongoClients;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.mongodb.core.MongoTemplate;
-import org.springframework.data.mongodb.core.WriteConcernResolver;
+
+import java.util.List;
 
 @Configuration
 public class MongoConfig {
 
     @Bean
-    public WriteConcernResolver writeConcernResolver() {
-        // Specifica il Write Concern desiderato, ad esempio "MAJORITY"
-        return action -> WriteConcern.MAJORITY;
+    public MongoClient mongoClient() {
+        MongoClientSettings settings = MongoClientSettings.builder()
+                .applyToClusterSettings(builder -> builder.hosts(List.of(new ServerAddress("10.1.1.25", 27017))))
+                .readPreference(ReadPreference.nearest()) //  le Read Preferences
+                .writeConcern(WriteConcern.MAJORITY)     //  Write Concern
+                .build();
+
+        return MongoClients.create(settings);
     }
 
     @Bean
-    public MongoTemplate mongoTemplate(MongoTemplate mongoTemplate) {
-        mongoTemplate.setWriteConcernResolver(writeConcernResolver());
-        return mongoTemplate;
+    public MongoTemplate mongoTemplate(MongoClient mongoClient) {
+        return new MongoTemplate(mongoClient, "itineraDB");
     }
 }
