@@ -61,11 +61,9 @@ public class CommunityService {
         return communityRepository.save(mongoCommunity);
     }
 
-/* 
     public void deleteById(String id) {
         communityRepository.deleteById(id);
     }
-*/
 
 
 
