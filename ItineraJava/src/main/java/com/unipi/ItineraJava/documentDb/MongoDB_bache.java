@@ -14,7 +14,7 @@ import java.util.List;
 public class MongoDB_bache {
     public static void main(String[] args) {
         // Configurazione MongoDB
-        String mongoUri = "mongodb://myUserAdmin:root@localhost:27017"; // URI di connessione
+        String mongoUri = "mongodb://myUserAdmin:root@10.1.1.25:27017/itineraDB?authSource=admin&authMechanism=SCRAM-SHA-256";
         String databaseName = "itineraDB"; // Nome del database
 
         // Liste di file JSON da importare
