@@ -52,44 +52,42 @@ class CommunityController {
     @Autowired
     private User user;
 
-    
-
-   
-
     // http://localhost:8080/Community
-    // returns all communities with details
-    // sabato funzionante
+    // returns all communities with details OK
     @GetMapping
     public ResponseEntity<List<MongoCommunity>> getAllCommunity() {
         List<MongoCommunity> communities = mongoCommunityRepository.findAll();
         return ResponseEntity.ok(communities);
     }
 
-    // http://localhost:8080/Community/678e41769d6b117cd029652e
-    // returns the {id} community with all his data
+    //http://localhost:8080/Community/details/6796303dc9b98870aea09b22
+    // returns the {id} community with all his data OK
     @GetMapping("/details/{city}")
 public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") String token,
                                              @PathVariable String city) {
-    String username = JwtTokenProvider.getUsernameFromToken(token);
-    boolean isJoined = communityNeo4jRepository.isAlreadyJoined(username, city);
+        if(!User.isAdmin(token)) {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            boolean isJoined = communityNeo4jRepository.isAlreadyJoined(username, city);
 
-    if (isJoined) {
-        // Restituisce tutti i post e i commenti
-        List<Post> posts = communityService.getAllPostsAndComments(city);
-        return ResponseEntity.ok(posts);
-    } else {
-        // Restituisce solo due post riassuntivi
-        List<PostSummary> postPreviews = communityService.getLastTwoPostPreviews(city);
-        return ResponseEntity.ok(postPreviews);
-    }
+            if (isJoined) {
+                // Restituisce tutti i post e i commenti
+                List<Post> posts = communityService.getAllPostsAndComments(city);
+                return ResponseEntity.ok(posts);
+            } else {
+                // Restituisce solo due post riassuntivi
+                List<PostSummary> postPreviews = communityService.getLastTwoPostPreviews(city);
+                return ResponseEntity.ok(postPreviews);
+            }
+        }else {
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
+        }
 }
 
 
 
     
     // http://localhost:8080/Community
-    //creates a community checking if the admin is sending the request
-   
+    //creates a community checking if the admin is sending the request OK
     @PostMapping
     public ResponseEntity<String> createCommunity(
             @RequestHeader("Authorization") String token,
@@ -97,10 +95,12 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
         try {
             if(User.isAdmin(token)) {
                 MongoCommunity mongoCommunity = mongoCommunityRepository.findByCity(communityDTO.getCity());
-                if (mongoCommunity == null) {
+                if (mongoCommunity != null) {
                     return ResponseEntity.status(400).body("A community with the same City and Name already exists.");
-                }else
+                }else {
                     communityService.createCommunity(communityDTO);
+                    return ResponseEntity.status(201).body("Community "+communityDTO.getCity()+" successfully.");
+                }
             }else {
                 return ResponseEntity.status(400).body("User not authenticated as Admin");
             }
@@ -108,11 +108,9 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
             e.printStackTrace();
             return ResponseEntity.status(500).body("Error creating community: " + e.getMessage());
         }
-        return null;
     }
     // http://localhost:8080/Community/Viareggio
-    // deletes a community
-    //funzionante sabato
+    // deletes a community OK
     @DeleteMapping("/{city}")
     public ResponseEntity<String> deleteCommunity(@RequestHeader("Authorization") String token,
                                                   @PathVariable String city) {
@@ -131,7 +129,7 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
 
 
     //join ad una community da parte dello user loggato 
-    //http://localhost:8080/Community/joinCommunity/{city}
+    //http://localhost:8080/Community/joinCommunity/{city} OK
     @PutMapping("/joinCommunity/{city}")
     @PreAuthorize("hasRole('User')")
     public ResponseEntity<String> joinCommunity(@PathVariable String city) {
@@ -162,30 +160,32 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
     //http://localhost:8080/Community/joinCommunity/city
     @PutMapping("/leaveCommunity/{city}")
     @PreAuthorize("hasRole('USER')")
-    public ResponseEntity<String> leaveCommunity(@PathVariable String city) {
-        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-    
-        if (authentication != null && authentication.isAuthenticated()) {
-            String username = authentication.getName();
-    
-            try {
-                // Chiamo il servizio per rimuovere l'utente dalla community
-                communityService.leaveCommunity(username, city);
-    
-                // Restituisco il messaggio di successo
-                return ResponseEntity.ok("Community successfully left");
-    
-            } catch (IllegalArgumentException | IllegalStateException ex) {
-                // Restituisco il messaggio di errore in caso di eccezione
-                return ResponseEntity.badRequest().body(ex.getMessage());
+    public ResponseEntity<String> leaveCommunity(@RequestHeader("Authorization") String token,
+                                                @PathVariable String city) {
+        if(!User.isAdmin(token)) {
+            Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+
+            if (authentication != null && authentication.isAuthenticated()) {
+                String username = authentication.getName();
+
+                try {
+                    // Chiamo il servizio per rimuovere l'utente dalla community
+                    communityService.leaveCommunity(username, city);
+
+                    // Restituisco il messaggio di successo
+                    return ResponseEntity.ok("Community successfully left");
+
+                } catch (IllegalArgumentException | IllegalStateException ex) {
+                    // Restituisco il messaggio di errore in caso di eccezione
+                    return ResponseEntity.badRequest().body(ex.getMessage());
+                }
             }
         }
-    
-        // Se l'utente non è autenticato, restituisce un errore di accesso negato
         return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
     }
 
-
+    //http://localhost:8080/Community/showMostActiveUser/Amsterdam
+    // OK
     @GetMapping("/showMostActiveUser/{city}")
     public ResponseEntity<?> getMostActiveUser(@PathVariable String city) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -210,6 +210,7 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
         }
     }
 
+    // http://localhost:8080/Community/showMostActiveCommunity OK
     @GetMapping("/showMostActiveCommunity")
     public ResponseEntity<?> getMostActiveUser() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -232,6 +233,7 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
         }
     }
 
+    // http://localhost:8080/Community/postCount/Amsterdam OK
     @GetMapping("/postCount/{city}")
     public ResponseEntity<?> getPostCount(@PathVariable String city) {
         try {

@@ -19,13 +19,14 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Optional<Post> findPostByTimestampAndUsernameAndCommunity(String body, String username, String community);
 
     @Aggregation(pipeline = {
-            "{ '$unwind': { 'path': '$comment', 'preserveNullAndEmptyArrays': true } }", // Esplodi l'array dei commenti
-            "{ '$addFields': { 'comment.reported': { '$ifNull': ['$comment.reported', false] } } }", // Aggiungi il campo 'reported' se mancante
-            "{ '$match': { 'comment.reported': true } }", // Filtra i commenti segnalati
-            "{ '$project': { 'comment.body': 1, 'comment.username': 1, 'comment.timestamp': 1, 'comment.reported': 1 } }" // Restituisci solo i dati rilevanti
+            "{ '$match': { 'comment.reported': true } }", // Filtra i post che contengono almeno un commento segnato
+            "{ '$unwind': { 'path': '$comment' } }", // Esplode i commenti
+            "{ '$match': { 'comment.reported': true } }", // Filtra solo i commenti segnati come 'reported'
+            "{ '$project': {'comment._id': 1, 'comment.username': 1, 'comment.timestamp': 1, 'comment.body': 1 } }" // Proietta i campi desiderati
     })
-
     List<Comment> findReportedComments();
+
+
 
     @Query(value = "{ '_id': ?0 }")
     Optional<PostDTO> getPostById(String id);

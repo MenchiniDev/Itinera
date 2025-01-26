@@ -115,7 +115,7 @@ public class User {
             System.out.println("Role: " + user.getRole());
 
             // Controlla se l'utente è ADMIN
-            if ("ADMIN".equals(user.getRole().toString())) {
+            if ("ADMIN".equals(user.getRole())) {
                 System.out.println("L'utente è ADMIN");
                 return true;
             } else {

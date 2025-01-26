@@ -235,7 +235,7 @@ public class CommunityService {
             mongoCommunity.setCity(communityDTO.getCity());
             mongoCommunity.setCreated(LocalDateTime.now().toString());
             mongoCommunity.setId(UUID.randomUUID().toString());
-            mongoCommunity.setPost(new ArrayList<PostSummary>());
+            mongoCommunity.setPost(communityDTO.getPost());
 
             communityRepository.save(mongoCommunity);
             communityNeo4jRepository.createCommunityNode(communityDTO.getCity());

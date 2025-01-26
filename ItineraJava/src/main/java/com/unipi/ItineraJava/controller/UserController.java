@@ -92,8 +92,7 @@ class UserController {
         }
     }
 
-    // http://localhost:8080/users/signup/admin WORKING
-    // funzionante sabato
+    // http://localhost:8080/users/signup/admin OK
     @Retryable(
             retryFor = TransactionSystemException.class,
             maxAttempts = 3,
@@ -119,8 +118,7 @@ class UserController {
         return ResponseEntity.ok("User registered successfully");
     }
 
-    // http://localhost:8080/users/login
-    // funzionante sabato
+    // http://localhost:8080/users/login OK
     @PostMapping("/login")
     public ResponseEntity<String> login(@RequestBody User user) {
         Optional<User> existingUser = userRepository.findByUsername(user.getUsername());
@@ -141,9 +139,7 @@ class UserController {
             return ResponseEntity.status(401).body("Invalid password");
     }
 
-    // http://localhost:8080/users
-    // returns a list with all users
-    //funzionante sabato
+    // http://localhost:8080/users OK
     @GetMapping
     public ResponseEntity<List<User>> getAllUsers(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -173,7 +169,7 @@ class UserController {
         }
     }*/
 
-    // funzionante sabato
+    // OK
     @PutMapping("/ban/{username}")
     public ResponseEntity<String> deactivateUser(@RequestHeader("Authorization") String token,
                                                  @PathVariable String username) {
@@ -237,10 +233,6 @@ class UserController {
             return ResponseEntity.status(400).body("Invalid Reponse").getBody();
         }
     }
-
-    ///////////////////////////////////modifiche Bache/////////////////////////////////////////////////////////
-
-
     // http://localhost:8080/users/find/test
     //funzionante sabato
     @GetMapping("/find/{username}")
@@ -348,7 +340,7 @@ class UserController {
             else
                 return ResponseEntity.status(404).body("User not found");
         }else {
-            return ResponseEntity.badRequest().body("User not authenticated. Please log in to access this endpoint.");
+            return ResponseEntity.badRequest().body("User not authenticated. Please log in as an admin to access this endpoint.");
         }
 
     }
