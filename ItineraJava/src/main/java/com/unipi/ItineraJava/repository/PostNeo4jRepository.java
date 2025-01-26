@@ -39,7 +39,7 @@ public interface PostNeo4jRepository extends Neo4jRepository<PostGraph, String>{
     void deleteComment(String username, String postId, String timestamp); //VA MODIFICATA CON COMMENT ID 
     */
 
-    @Query("MATCH (u:User)-[c:COMMENT {commentId: $commentId}]->(p:Post) " +
+    @Query("MATCH ()-[c:COMMENT {commentId: $commentId}]->() " +
         "DETACH DELETE c")
     void deleteComment(String commentId);
 

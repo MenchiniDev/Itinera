@@ -3,11 +3,13 @@
   "name" : "Travel",
   "created" : "2024-07-09T20:26:47Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "f53ca899-836f-4e72-ae94-b2a76311587b",
+    "text" : "All Layover Questions - READ THIS NOTICE",
     "user" : "protox88",
     "timestamp" : "2024-07-09T21:26:47Z"
   }, {
-    "text" : null,
+    "_id" : "eeea6a69-7757-47fb-a0d3-4963fb1c544c",
+    "text" : "A roadtrip through Namibia. An out of this world experience for nature and wildlife lovers.",
     "user" : "National-Actuary-547",
     "timestamp" : "2024-12-22T17:21:53Z"
   } ]

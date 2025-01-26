@@ -69,6 +69,12 @@ public class ReviewService {
     public String reportReviewById(String reviewId) {
         // Crea una query per cercare la recensione in base ai parametri
         try {
+
+            // Verifica se l'ID della review esiste
+            if (!reviewRepository.existsById(reviewId)) {
+                return "Review with ID " + reviewId + " does not exist.";
+            }
+
             Query query = new Query();
             query.addCriteria(Criteria.where("_id").is(reviewId));
 
@@ -93,7 +99,7 @@ public class ReviewService {
     }
 
 
-    public List<Review> getReviewsByName(String place_id) {
+    public List<Review> getReviewsById(String place_id) {
         try {
             List<Review> reviews = reviewRepository.findByPlace(place_id);
             System.out.println(reviews.size());

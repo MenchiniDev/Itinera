@@ -3,11 +3,13 @@
   "name" : "London",
   "created" : "2024-12-17T11:52:46Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "531f0d55-9f4e-48e4-8fa9-75ffeb675f99",
+    "text" : "London info",
     "user" : "polkadotska",
     "timestamp" : "2024-12-17T12:52:46Z"
   }, {
-    "text" : null,
+    "_id" : "42180cec-9895-48db-8891-45c31a830c3e",
+    "text" : "When is it appropriate to call for a welfare check?",
     "user" : "deadlykillerpanda",
     "timestamp" : "2024-12-22T23:31:32Z"
   } ]

@@ -1,13 +1,15 @@
 {
   "city" : "Copenhagen",
   "name" : "Copenhagen",
-  "created" : "2024-09-16T17:54:06Z",
+  "created" : "2024-10-25T23:30:20Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "87b1b55f-2160-47f7-b54e-d5b356b77446",
+    "text" : "Scanne plade cover og trykke på sweatshirt ",
     "user" : "Ok_Source_3977",
-    "timestamp" : "2024-09-16T18:54:06Z"
+    "timestamp" : "2024-10-26T00:30:20Z"
   }, {
-    "text" : null,
+    "_id" : "7067cff5-1f2e-4a8a-b710-43fcd4c95df7",
+    "text" : "Monthly thread for advice and recommendations, December 2024 – ask your questions here!",
     "user" : "AutoModerator",
     "timestamp" : "2024-12-01T06:58:09Z"
   } ]

@@ -3,11 +3,13 @@
   "name" : "Marseille",
   "created" : "2022-05-05T17:11:01Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "239be894-eb27-47f6-a481-69b894ad6246",
+    "text" : "This subreddit is a mere redirect. Please use /r/aixmarseille only",
     "user" : "Silly_Crotch",
     "timestamp" : "2022-05-05T18:11:01Z"
   }, {
-    "text" : null,
+    "_id" : "e90e5295-8ca2-4782-a473-86c4970570b5",
+    "text" : "Lost Teddy Bear, Marseille Airport",
     "user" : "TheBlackPajama",
     "timestamp" : "2022-05-05T23:57:15Z"
   } ]

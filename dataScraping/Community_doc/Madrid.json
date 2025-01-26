@@ -1,14 +1,16 @@
 {
   "city" : "Madrid",
   "name" : "Madrid",
-  "created" : "2024-09-16T17:09:45Z",
+  "created" : "2024-10-25T23:07:04Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "fab112f5-d172-458e-bbe1-7000492a79c1",
+    "text" : "Mi ruta de churros en Arganzuela",
     "user" : "juliocfebres",
-    "timestamp" : "2024-09-16T18:09:45Z"
+    "timestamp" : "2024-10-26T00:07:04Z"
   }, {
-    "text" : null,
+    "_id" : "bec57c5f-631b-46b6-b7a2-a94fa3ce2eb1",
+    "text" : "How Edisun’s 941MW Madrid Solar Plant Will Power AI-Powered Data Centers with Clean, Renewable Energy ",
     "user" : "viral_pinktastic",
-    "timestamp" : "2024-09-16T18:37:02Z"
+    "timestamp" : "2024-10-26T00:24:59Z"
   } ]
 }

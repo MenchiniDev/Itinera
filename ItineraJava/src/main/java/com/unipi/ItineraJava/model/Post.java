@@ -15,7 +15,6 @@ public class Post {
     @Id
     private String _id;
 
-    private String postId;
     private String community;
     private String username;
     private String post;

@@ -3,11 +3,13 @@
   "name" : "Vienna",
   "created" : "2023-07-31T12:56:46Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "44150bc9-b9ed-4bee-8335-22696df672fa",
+    "text" : "Train from Vienna to Bratislava",
     "user" : "None",
     "timestamp" : "2023-07-31T13:56:46Z"
   }, {
-    "text" : null,
+    "_id" : "3a1d55a9-ec16-4c9d-a2f6-9e947137dbcc",
+    "text" : "Lost iPhone 1060",
     "user" : "No_Price_6717",
     "timestamp" : "2023-07-31T15:04:28Z"
   } ]

@@ -3,11 +3,13 @@
   "name" : "Munich",
   "created" : "2024-06-07T08:23:48Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "093ac1d1-711d-47dc-9ec0-b4c1b8464ce0",
+    "text" : "FAQ for Visitors / FAQ für Besucher",
     "user" : "ax0ne",
     "timestamp" : "2024-06-07T09:23:48Z"
   }, {
-    "text" : null,
+    "_id" : "e1006c24-2a2b-44eb-90d4-aa63c2808b43",
+    "text" : "Alle Weihnachtsmärkte in München ",
     "user" : "marneusc",
     "timestamp" : "2024-11-22T06:13:15Z"
   } ]

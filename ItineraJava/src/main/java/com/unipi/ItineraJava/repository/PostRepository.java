@@ -31,7 +31,7 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Optional<PostDTO> getPostById(String id);
 
 
-    List<Post> findByCommunity(String communityName);
+    
 
     @Aggregation(pipeline = {
             "{ '$match': { 'reportedpost': true } }", // Filtra solo i post segnalati
@@ -49,9 +49,9 @@ public interface PostRepository extends MongoRepository<Post, String> {
     List<Post> findByReportedpostTrue();
 
     @Aggregation(pipeline = {
-            "{ '$match': { 'comment.body': ?0, 'comment.reported': true } }"
+            "{ '$match': { 'comment.commentId': ?0, 'comment.reported': true } }"
     })
-    Post findPostByReportedComment(String body);
+    Post findPostByReportedComment(String commentId);
 
     @Aggregation(pipeline = {
             // Filtra i documenti che contengono almeno un commento che corrisponde ai criteri
@@ -68,12 +68,14 @@ public interface PostRepository extends MongoRepository<Post, String> {
     })
     void deleteByText(String text);
 
-    @Query(value = "{ '_id': ?0, 'comment._id': ?1 }",
-            fields = "{ 'comment.$': 1 }")
-    Optional<Post> findPostByIdAndCommentId(String postId, String commentId);
+    @Query(value = "{ '_id': ?0 }")
+    Optional<Post> findPostByIdForComment(String postId);
+
+    
+    List<Post> findByCommunity(String community);
 
 
-    Post findPostByPostId(String postId);
+    Post findPostById(String postId);
 
     Post findPostBy_id(String postId);
 }

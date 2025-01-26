@@ -3,11 +3,13 @@
   "name" : "Oslo",
   "created" : "2022-07-19T10:35:35Z",
   "post" : [ {
-    "text" : null,
+    "_id" : "3765fcfa-7981-4962-a464-43fa95402934",
+    "text" : "Basic Tourist Information",
     "user" : "nechered",
     "timestamp" : "2022-07-19T11:35:35Z"
   }, {
-    "text" : null,
+    "_id" : "00406c4a-8b9e-434e-9cf2-95c7b9d294c8",
+    "text" : "Bryter du loven?",
     "user" : "None",
     "timestamp" : "2022-10-18T07:23:29Z"
   } ]

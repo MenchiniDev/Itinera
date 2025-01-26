@@ -33,26 +33,17 @@ class PostController {
                                                      @RequestBody String post) {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null) {
-            return null;
+            return ResponseEntity.status(400).body("Invalid token");
         }
+        if (post == null)
+            return ResponseEntity.status(400).body("Invalid text");
         if(postService.addPost(community, username, post))
             return ResponseEntity.ok("post added successfully");
         else
             return ResponseEntity.badRequest().body("Error");
     }
 
-    // http://localhost:8080/posts
-    // returns all posts of a community
-    //funzionante sabato
-    @GetMapping("/{communityName}")
-    public List<Post> getAllPosts(@PathVariable String communityName) {
-        if(communityName==null || communityName.isEmpty() || !communityService.existsCommunity(communityName)) {
-            return null;
-        }else {
-            return postService.findByCommunity(communityName);
-        }
-    }
-
+ 
     // working
     //funzionante sabato
     @DeleteMapping("/{id}")
@@ -89,10 +80,10 @@ class PostController {
 
     // http://localhost:8080/posts/comment
     //working
-    // todo: da fixare ora che usiamo l'id e non il body
-    @DeleteMapping("/comment")
+   
+    @DeleteMapping("/comment/{commentID}")
     public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
-                                                @RequestBody String commentID) {
+                                                @PathVariable String commentID) {
         if(User.isAdmin(token)){
             postService.updatePostAfterCommentRemoval(commentID);
             return ResponseEntity.ok("Comment deleted");
@@ -123,7 +114,7 @@ class PostController {
     @PutMapping("/comment/report/{postId}/{commentId}")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
                                              @PathVariable String postId,
-                                             @RequestBody String  commentId)
+                                             @PathVariable String  commentId)
     {
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if(username == null)
