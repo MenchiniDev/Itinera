@@ -15,7 +15,6 @@ import java.util.Optional;
 public interface PostRepository extends MongoRepository<Post, String> {
 
     @Aggregation(pipeline = {
-//        "{ '$match': { 'comment.reported': true } }", commentato perche secondo me non serve poi testo
         "{ '$unwind': { 'path': '$comment' } }",
         "{ '$match': { 'comment.reported': true } }",
         "{ '$project': { " +
