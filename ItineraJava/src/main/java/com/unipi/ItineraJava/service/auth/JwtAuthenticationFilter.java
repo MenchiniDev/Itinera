@@ -31,7 +31,6 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
             return;
         }
 
-        // Estrai il token dal header Authorization
         String token = getJwtFromRequest(request);
         System.out.println("TOKEN_" + token);
 

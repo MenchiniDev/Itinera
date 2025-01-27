@@ -19,7 +19,7 @@ public class MongoConfig {
     public MongoClient mongoClient() {
         MongoClientSettings settings = MongoClientSettings.builder()
                 .applyToClusterSettings(builder -> builder.hosts(List.of(new ServerAddress("10.1.1.25", 27017))))
-                .readPreference(ReadPreference.nearest()) //  le Read Preferences
+                .readPreference(ReadPreference.nearest()) //  Read Preferences
                 .writeConcern(WriteConcern.MAJORITY)     //  Write Concern
                 .build();
 

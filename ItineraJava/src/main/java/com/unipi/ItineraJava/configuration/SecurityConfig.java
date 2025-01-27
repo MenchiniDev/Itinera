@@ -29,13 +29,11 @@ public class SecurityConfig {
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         log.info("Initializing Security Filter Chain...");
 
-        // Disabilita CSRF per test
         http.csrf(csrf -> {
             log.info("Disabling CSRF protection...");
             csrf.disable();
         });
 
-        // Configurazione delle autorizzazioni per gli endpoint
         http.authorizeHttpRequests(auth -> {
             log.info("Configuring authorization rules...");
             auth
@@ -46,7 +44,6 @@ public class SecurityConfig {
                     .authenticated(); // Tutti gli altri richiedono autenticazione
         });
 
-        // Aggiungo il filtro JWT alla catena di filtri di Spring Security
         log.info("Adding JWT Authentication Filter...");
         http.addFilterBefore(new JwtAuthenticationFilter(jwtTokenProvider), UsernamePasswordAuthenticationFilter.class);
 

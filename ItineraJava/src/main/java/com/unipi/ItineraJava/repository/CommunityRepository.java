@@ -19,15 +19,11 @@ public interface CommunityRepository extends MongoRepository<MongoCommunity, Str
 
         List<MongoCommunity> findAll();
 
-        Optional<MongoCommunity> findByCityAndName(String city, String name);
-
         MongoCommunity save(MongoCommunity community);
 
         MongoCommunity findByCity(String city);
 
         boolean existsByCity(String city);
-
-        Post save(Post post);
 
         boolean existsByName(String community);
 }

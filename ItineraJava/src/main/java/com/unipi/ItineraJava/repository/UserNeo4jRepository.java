@@ -22,14 +22,12 @@ public interface UserNeo4jRepository extends Neo4jRepository<UserGraph, String> 
        @Query("MATCH (u:User {username: $username})-[:FOLLOWING]->(u2:User {username: $userToFollow}) RETURN count(u) > 0")
        boolean existsFollowRelationship(String username, String userToFollow);
 
-    //creazione nuovo nodo username alla signup
        @Query("CREATE (u:User {username: $username}) RETURN u")
        void createUserNode(String username);
 
        @Query("MATCH (u:User {username: $username}) DETACH DELETE u")
        void deleteUserNode(String username);
 
-    //lista delle community che l'utente loggato segue
        @Query("MATCH (u:User {username: $username})-[:CONNECTED]->(c:Community) RETURN c.city AS city")
        List<CommunityDTO>  getCommunityJoined(String username);
 

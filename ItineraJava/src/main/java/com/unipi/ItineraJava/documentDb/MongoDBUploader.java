@@ -13,7 +13,6 @@ import com.mongodb.client.MongoDatabase;
 
 public class MongoDBUploader {
 
-    // Metodo per ottenere una connessione a MongoDB
     public static MongoClient getMongoConnection(String uri) {
         return MongoClients.create(uri);
     }
@@ -22,20 +21,19 @@ public class MongoDBUploader {
 
         String mongoUri = "mongodb://myUserAdmin:root@10.1.1.25:27017/itineraDB?authSource=admin&authMechanism=SCRAM-SHA-256";
         //String mongoUri = "mongodb://myUserAdmin:root@localhost:27017/itineraDB?authSource=admin&authMechanism=SCRAM-SHA-1";
-        String databaseName = "itineraDB"; // Nome del database
+        String databaseName = "itineraDB";
 
         //String collectionName = "Post";
-        String collectionName = "Community";// Nome della collezione
+        String collectionName = "Community";
 
-        //String jsonFolderPath = "../dataScraping/Post_doc"; // Percorso reale dei file JSON
-        String jsonFolderPath = "../dataScraping/Community_doc"; // Percorso reale dei file JSON
+        //String jsonFolderPath = "../dataScraping/Post_doc";
+        String jsonFolderPath = "../dataScraping/Community_doc";
 
-        // Connessione a MongoDB
         try (MongoClient mongoClient = getMongoConnection(mongoUri)) {
             MongoDatabase database = mongoClient.getDatabase(databaseName);
             MongoCollection<Document> collection = database.getCollection(collectionName);
 
-            // Leggo i file JSON dalla cartella
+
             File folder = new File(jsonFolderPath);
             File[] jsonFiles = folder.listFiles((dir, name) -> name.endsWith(".json"));
 
@@ -44,7 +42,6 @@ public class MongoDBUploader {
                 return;
             }
 
-            // Caricamento dei file JSON nella collezione
             for (File file : jsonFiles) {
                 try {
                     String content = new String(Files.readAllBytes(Paths.get(file.getAbsolutePath())));

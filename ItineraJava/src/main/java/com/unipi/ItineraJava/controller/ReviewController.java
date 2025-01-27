@@ -21,17 +21,11 @@ public class ReviewController {
     @Autowired
     private ReviewService reviewService;
 
-
-
     @PostMapping
     public ResponseEntity<String> addReview(
             @RequestHeader("Authorization") String token,
-            @RequestBody Map<String, Object> requestBody) { //controllo con mappa
-
-        System.out.println("Richiesta ricevuta con "+ requestBody);
-
+            @RequestBody Map<String, Object> requestBody) {
         try {
-            //System.out.println("sono dentro al primo blocco try");
             String username = JwtTokenProvider.getUsernameFromToken(token);
             if(username == null) {
                 return ResponseEntity.badRequest().body("invalid token");
@@ -49,10 +43,7 @@ public class ReviewController {
             if (place_id == null || text == null) {
                 return ResponseEntity.badRequest().body("Please retry with different parameters");
             }
-            //System.out.println("entro in add review");
             Review savedReview = reviewService.addReview(username, place_id, stars, text);
-            //System.out.println("uscito da add review");
-
             if(savedReview == null)
                 return ResponseEntity.badRequest().body("invalid review");
 
@@ -67,11 +58,11 @@ public class ReviewController {
                     .body("An unexpected error occurred. Sorry for the inconvenient");
         }
     }
+
     // delete by id
     @DeleteMapping("/{reviewId}")
     public ResponseEntity<String> deleteReview(@RequestHeader("Authorization") String token,
                                                @PathVariable String reviewId) {
-        // Verifica l'utente dal token
         String username = JwtTokenProvider.getUsernameFromToken(token);
         if (username == null) {
             return ResponseEntity.badRequest().body("Invalid token");
@@ -80,7 +71,6 @@ public class ReviewController {
         if (User.isAdmin(token)){
 
             try {
-                //String result = reviewService.deleteReview(reviewId);
                 String result = reviewService.deleteReview(reviewId);
                 return ResponseEntity.ok(result);
             } catch (IllegalArgumentException e) {
@@ -106,10 +96,8 @@ public class ReviewController {
 
 
 
-    // rimosso il prendere il nome dal token in quanto un tizio reporterebbe la sua  stessa recensione,
-    //facendo quello non veniva usato l'username che era passato nella richiesta
+    // reports a review
     @PutMapping("/report/{reviewId}")
-
     public ResponseEntity<String> updateReview(
             @RequestHeader("Authorization") String token,
             @PathVariable String reviewId
@@ -127,7 +115,7 @@ public class ReviewController {
 
     }
 
-    // funzione utilizzabile soltanto da admin
+    // gets all review only if the user is logged as Admin
     @GetMapping("/report")
     public ResponseEntity<List<ReviewsReportedDTO>> showReviewReported(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -137,6 +125,7 @@ public class ReviewController {
         }
     }
 
+    //returns a list of Places with high variability in the review score
     @GetMapping("/controversial/places")
     public ResponseEntity<List<ControversialPlaceDTO>> findControversialPlaces(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {

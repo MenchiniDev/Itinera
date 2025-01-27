@@ -17,7 +17,6 @@ public class SwaggerConfig {
         final String securitySchemeName = "bearerAuth";
 
         return new OpenAPI()
-                // Informazioni generali sull'API
                 .info(new Info()
                         .title("API Documentation")
                         .description("API Documentation with JWT Authentication")

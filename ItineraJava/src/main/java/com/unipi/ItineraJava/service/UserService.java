@@ -28,7 +28,7 @@ public class UserService{
     private UserNeo4jRepository userNeo4jRepository;
 
 
-    @Autowired // necessario altrimenti non consente autenticazione ruolo con funzione User.isAdmin()
+    @Autowired
     public UserService(UserRepository userRepository, UserNeo4jRepository userNeo4jRepository) {
         this.userRepository = userRepository;
         this.userNeo4jRepository = userNeo4jRepository;
@@ -39,22 +39,6 @@ public class UserService{
         return String.valueOf(count);
     }
 
-    public static long getPostCount(String username) {
-        return userRepository.countPostsByUser(username);
-    }
-
-    public static long getCommentCount(String username) {
-        return userRepository.countCommentsByUser(username);
-    }
-
-    public List<User> findAll() {
-        return userRepository.findAll();
-    }
-
-    public User save(User user) {
-        return userRepository.save(user);
-    }
-
      
     public void deleteById(String id) {
         User user = userRepository.findById(id)
@@ -63,34 +47,27 @@ public class UserService{
         userNeo4jRepository.deleteUserNode(username);
         userRepository.deleteById(id);
     }
-    
-    // Trova un utente per username
+
     public static Optional<User> findByUsername(String username) {
         return userRepository.findByUsername(username);
     }
 
-    // Aggiorna il campo "reported" per uno specifico username
     public void updateReportedByUsername(String username, boolean reported) {
         userRepository.updateReportedByUsername(username, reported);
     }
 
-    //aggiorna il campo "active" per uno specifico username
     public void deactivateUser(String username) {
-        // Aggiorna il campo active a false
+
         userRepository.updateActiveStatusByUsername(username, false);
     }
 
 
-    //verifica lo stato del campo active di un utente
     public boolean isUserActive(String username) {
-        // Recupera il valore del campo 'active'
         return userRepository.findActiveStatusByUsername(username).map(ActiveStatusDTO::isActive) //restituisce direttamente un bool
                 .orElseThrow(() -> new IllegalArgumentException("User not found: " + username));
     }
 
-    //trova
     public Last_post getLastPostByUsername(String username) {
-        //prendo user
         User user = userRepository.findByUsername(username)
                 .orElseThrow(() -> new IllegalArgumentException("User not found with username: " + username));
 
@@ -116,8 +93,6 @@ public class UserService{
         return userRepository.save(user);
     }
 
-
-    /////GRAPH
     public List<CommunityDTO> getCommunityJoined(String username) {
         List<CommunityDTO> communities = userNeo4jRepository.getCommunityJoined(username);
         communities.forEach(community -> {
@@ -128,12 +103,10 @@ public class UserService{
 
     
     public void followUser(String user, String userToFollow){
-        //controllo se esiste l'utente
         if(!userNeo4jRepository.existsByUsername(userToFollow)){
             throw new IllegalArgumentException("User not found: " + userToFollow);
         }
 
-        //controllo se esiste già la relazione
         if(userNeo4jRepository.existsFollowRelationship(user, userToFollow)){
             throw new IllegalArgumentException("User already followed: " + userToFollow);
         }

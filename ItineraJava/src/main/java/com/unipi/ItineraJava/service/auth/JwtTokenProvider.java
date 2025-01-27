@@ -49,20 +49,14 @@ public class JwtTokenProvider {
     }
 
     public Authentication getAuthentication(String token) {
-        // Estrai il nome utente dal token
         String username = getUsernameFromToken(token);
-
-        // Recupera le autorità dell'utente (es. ruolo)
         Optional<User> user = userService.findByUsername(username);
         if (user.isPresent()) {
-            // Creiamo un'istanza di UserDetails con le informazioni dell'utente (ruolo, etc.)
             UserDetails userDetails = new org.springframework.security.core.userdetails.User(
                     user.get().getUsername(),
                     user.get().getPassword(),
                     AuthorityUtils.createAuthorityList(user.get().getRole().toString()) // Usa il ruolo per le authorities
             );
-
-            // Restituisce un'istanza di Authentication (è autenticato)
             return new UsernamePasswordAuthenticationToken(userDetails, token, userDetails.getAuthorities());
         } else {
             throw new IllegalArgumentException("User not found");
@@ -87,9 +81,5 @@ public class JwtTokenProvider {
             e.printStackTrace();
             throw new IllegalArgumentException("Token non valido o scaduto");
         }
-    }
-
-    public String getSecretKey(){
-        return secretKey;
     }
 }
