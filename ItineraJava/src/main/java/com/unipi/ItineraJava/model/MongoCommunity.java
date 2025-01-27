@@ -10,7 +10,7 @@ import java.util.List;
 @Document(collection = "Community")
 public class MongoCommunity {
     @Id
-    private String id; // String per l'ID
+    private String id;
     private String city;
     private String name;
     private String created;

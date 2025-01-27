@@ -49,8 +49,6 @@ class CommunityController {
     @Autowired
 
     private CommunityRepository mongoCommunityRepository;
-    @Autowired
-    private User user;
 
     // http://localhost:8080/Community
     // returns all communities with details OK
@@ -128,7 +126,7 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
 
 
 
-    //join ad una community da parte dello user loggato 
+    //join in a community for a logged user
     //http://localhost:8080/Community/joinCommunity/{city} OK
     @PutMapping("/joinCommunity/{city}")
     @PreAuthorize("hasRole('User')")
@@ -139,24 +137,17 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
             String username = authentication.getName();
 
         try {
-            // Chiamo il servizio per unire l'utente alla community
             communityService.joinCommunity(username, city);
-
-            // Restituisco il messaggio di successo
             return ResponseEntity.ok("User " + username + " successfully joined community: " + city);
 
         } catch (IllegalArgumentException | IllegalStateException ex) {
-            // Restituisco un messaggio di errore al chiamante
             return ResponseEntity.badRequest().body(ex.getMessage());
         }
     }
-
-    // Gestione del caso in cui l'utente non è autenticato
     return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
 }
 
 
-     //lasciare una community  
     //http://localhost:8080/Community/joinCommunity/city
     @PutMapping("/leaveCommunity/{city}")
     @PreAuthorize("hasRole('USER')")
@@ -169,14 +160,10 @@ public ResponseEntity<?> getCommunityDetails(@RequestHeader("Authorization") Str
                 String username = authentication.getName();
 
                 try {
-                    // Chiamo il servizio per rimuovere l'utente dalla community
                     communityService.leaveCommunity(username, city);
-
-                    // Restituisco il messaggio di successo
                     return ResponseEntity.ok("Community successfully left");
 
                 } catch (IllegalArgumentException | IllegalStateException ex) {
-                    // Restituisco il messaggio di errore in caso di eccezione
                     return ResponseEntity.badRequest().body(ex.getMessage());
                 }
             }

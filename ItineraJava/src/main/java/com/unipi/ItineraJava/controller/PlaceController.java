@@ -19,8 +19,6 @@ public class PlaceController {
 
     @Autowired
     private PlaceService placeService;
-    @Autowired
-    private PostService postService;
 
     // http://localhost:8080/place/Amsterdam
     // returns a list with all places ordered by decrescent rating OK

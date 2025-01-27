@@ -22,7 +22,7 @@ class PostController {
 
     // adds a post in a community
     // http://localhost:8080/posts/Rome OK
-    // bono il ramen ao
+    // nice day today in Rome!
     @PostMapping("/{community}")
     public ResponseEntity<String> createPost(@RequestHeader("Authorization") String token,
                                                      @PathVariable String community,
@@ -75,7 +75,6 @@ class PostController {
     }
 
     // http://localhost:8080/posts/comment ok
-   
     @DeleteMapping("/comment/{commentID}")
     public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
                                                 @PathVariable String commentID) {
@@ -111,15 +110,7 @@ class PostController {
         return ResponseEntity.internalServerError().body("error");
     }
 
-    //non va ancora, ritorna
-    //[
-    //    {
-    //        "username": null,
-    //        "timestamp": null,
-    //        "body": null,
-    //        "reported": false
-    //    }
-    //]
+    // returns all the comment reported in the project
     @GetMapping("/comment/report")
     public ResponseEntity<List<Comment>> showCommentReported(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -130,7 +121,7 @@ class PostController {
     }
 
     //http://localhost:8080/posts/comment/Wooden-Secret5698 ok
-    //  "comment": "mesi mesi ankara mesi, immenso mesi"
+    //  "comment": "thats a comment!"
     @PostMapping("/comment/{postId}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
@@ -164,6 +155,4 @@ class PostController {
             return ResponseEntity.ok(postService.findControversialPosts());
         else return ResponseEntity.badRequest().body(null);
     }
-
-
 }

@@ -43,35 +43,14 @@ public class CommunityService {
     @Autowired
     private CommunityNeo4jRepository communityNeo4jRepository;
     @Autowired
-    private UserService userService;
-    @Autowired
     private MongoTemplate mongoTemplate;
     @Autowired
     private PostRepository postRepository;
-    @Autowired
-    private MongoClient mongo;
-    @Autowired
-    private MongoManagedTypes mongoManagedTypes;
-
-    public Optional<MongoCommunity> findById(String id) {
-        return communityRepository.findById(id);
-    }
-
-    public MongoCommunity save(MongoCommunity mongoCommunity) {
-        return communityRepository.save(mongoCommunity);
-    }
-
-    public void deleteById(String id) {
-        communityRepository.deleteById(id);
-    }
 
 
 
     public List<Post> getAllPostsAndComments(String city) {
-        // Query diretta sulla collezione Post
         List<Post> posts = postRepository.findByCommunity(city);
-
-        // Ritorna lista vuota se non ci sono post
         if (posts == null) {
             System.out.println("No posts found for city: " + city);
             return new ArrayList<>();
@@ -87,8 +66,6 @@ public class CommunityService {
         if (mongoCommunity == null || mongoCommunity.getPosts() == null) {
             return new ArrayList<>(); // Prevenire null
         }
-
-        // Ordina i post e restituisci i due più recenti
         return mongoCommunity.getPost()
                 .stream()
                 .collect(Collectors.toList());
@@ -104,21 +81,12 @@ public class CommunityService {
         communityNeo4jRepository.deleteCommunity(name);
         communityRepository.deleteByCity(name);
     }
-
-
-
-    //////// GRAPH
     
     public void joinCommunity(String username, String city) {
-        // Verifico se la community esiste
         if (!communityNeo4jRepository.existsByCity(city)) {
-            // Lancio un'eccezione
             throw new IllegalArgumentException("Community not found: " + city);
         }
-    
-        // Verifico se la relazione esiste già
         if (communityNeo4jRepository.isAlreadyJoined(username, city)) {
-            // Lancio un'eccezione 
             throw new IllegalStateException("User " + username + " has already joined the community: " + city);
         }
     
@@ -132,12 +100,9 @@ public class CommunityService {
 
 
     public void leaveCommunity(String username, String city) {
-
-      //Verifico se la community esiste
         if (!communityNeo4jRepository.existsByCity(city)) {
             throw new IllegalArgumentException("Community not found: " + city);
         }
-        //Verifico se la relazione esiste o no
         if (!communityNeo4jRepository.isAlreadyJoined(username, city)) { //se non esiste eccezione
             throw new IllegalStateException("User " + username + " have not joined the community: " + city);
         }
@@ -151,17 +116,13 @@ public class CommunityService {
 
     public String getMostActiveUserByCommunity(String username, String city) {
 
-        // Verifica se la community esiste
         if (!communityNeo4jRepository.existsByCity(city)) {
             throw new IllegalArgumentException("Community not found: " + city);
         }
-
-        // Verifica se l'utente è un membro della community
         if (!communityNeo4jRepository.isAlreadyJoined(username, city)) {
             throw new IllegalStateException("User " + username + " has not joined the community: " + city);
         }
 
-        // Recupera l'utente più attivo
         return communityNeo4jRepository.findMostActiveUserByCommunity(city);
     }
 
@@ -177,46 +138,29 @@ public class CommunityService {
 
 
     public boolean updateByPost(String city, PostSummary newPostSummary) {
-        // Trova la Community con i post
         Query query = new Query(Criteria.where("city").is(city));
         MongoCommunity community = mongoTemplate.findOne(query, MongoCommunity.class);
 
         if (community == null) {
-            // Nessuna community trovata
             return false;
         }
-
-        // Verifico se la lista dei post è vuota
         if (community.getPost() == null || community.getPost().isEmpty()) {
-            // Aggiungi direttamente il nuovo PostSummary
             Update addUpdate = new Update().push("post", newPostSummary);
             UpdateResult result = mongoTemplate.updateFirst(query, addUpdate, MongoCommunity.class);
             return result.getModifiedCount() > 0;
         }
-
-        //Trovo il PostSummary con il timestamp meno recente
         PostSummary oldestPost = community.getPost().stream()
                 .min(Comparator.comparing(PostSummary::getTimestamp))
                 .orElse(null);
 
         if (oldestPost != null) {
-            // Rimuovo il PostSummary più vecchio
             Update removeUpdate = new Update().pull("post", new BasicDBObject("timestamp", oldestPost.getTimestamp()));
             mongoTemplate.updateFirst(query, removeUpdate, MongoCommunity.class);
         }
 
-        // Aggiungo il nuovo PostSummary alla lista
         Update addUpdate = new Update().push("post", newPostSummary);
         UpdateResult result = mongoTemplate.updateFirst(query, addUpdate, MongoCommunity.class);
-
-        // Restituisc true se almeno un documento è stato modificato
         return result.getModifiedCount() > 0;
-    }
-
-
-
-    public Boolean existsCommunity(String name) {
-        return communityRepository.existsByCity(name);
     }
 
     public boolean existsByName(String community) {

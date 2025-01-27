@@ -20,7 +20,7 @@ public class Post {
     private String post;
     private String timestamp;
     private int numcomment;
-    private boolean reportedpost; //se reported è true l'admin deciderà se eliminarlo o no, in caso contrario torna a false
+    private boolean reportedpost;
     private List<Comment> comment;
 
     public Post() {}

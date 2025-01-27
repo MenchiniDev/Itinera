@@ -16,8 +16,8 @@ import java.util.List;
 public interface ReviewRepository extends MongoRepository<Review, String> {
 
     @Aggregation(pipeline = {
-            "{ '$match': { 'reported': true } }", // Filtra le recensioni segnalate
-            "{ '$project': { 'place_id': 1, 'user': 1, 'text': 1, 'timestamp': 1, _id: 0} }" // Restituisci solo i dati rilevanti
+            "{ '$match': { 'reported': true } }",
+            "{ '$project': { 'place_id': 1, 'user': 1, 'text': 1, 'timestamp': 1, _id: 0} }"
     })
     List<ReviewsReportedDTO> findReportedComments();
 
@@ -27,32 +27,32 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
 
 
     @Aggregation(pipeline = {
-            "{ '$match': { 'reported': false } }", // Esclude recensioni segnalate
+            "{ '$match': { 'reported': false } }",
             "{ '$group': { " +
                     "     '_id': '$place_id', " +
                     "     'averageStars': { '$avg': '$stars' }, " +
                     "     'standardDeviation': { '$stdDevPop': '$stars' } " +
-                    "} }", // Raggruppa per luogo e calcola deviazione standard
+                    "} }",
             "{ '$addFields': { " +
                     "     'variance': { '$round': [{ '$pow': ['$standardDeviation', 2] }, 3] }, " +
                     "     'averageStars': { '$round': ['$averageStars', 3] }, " +
                     "     'standardDeviation': { '$round': ['$standardDeviation', 3] } " +
-                    "} }", // Arrotonda varianza, deviazione standard e media a 3 cifre decimali
-            "{ '$match': { 'standardDeviation': { '$gt': 1.3 } } }", // Filtra luoghi con deviazione standard > 1.3
-            "{ '$sort': { 'variance': -1 } }", // Ordina per varianza decrescente
+                    "} }",
+            "{ '$match': { 'standardDeviation': { '$gt': 1.3 } } }", // standard deviation threshold > 1.3
+            "{ '$sort': { 'variance': -1 } }",
             "{ '$project': { " +
                     "     '_id': 0, " +
                     "     'id': '$_id', " +
                     "     'variance': 1, " +
                     "     'standardDeviation': 1, " +
-                    "     'averageStars': 1 } }" // Proietta id, varianza, deviazione standard e media
+                    "     'averageStars': 1 } }"
     })
     List<ControversialPlaceDTO> findMostControversialPlaces();
 
     @Aggregation(pipeline = {
             "{ '$match': { 'place_id': ?0 } }", // Filtra per l'id del posto
             "{ '$group': { '_id': null, 'overall_rating': { '$avg': '$stars' }, 'tot_rev_number': { '$sum': 1 } } }",
-            "{ '$project': { '_id': 0, 'overall_rating': { '$round': ['$overall_rating', 3] }, 'tot_rev_number': 1 } }" // Arrotondo la media alle prime 3 cifre decimali
+            "{ '$project': { '_id': 0, 'overall_rating': { '$round': ['$overall_rating', 3] }, 'tot_rev_number': 1 } }"
     })
     ReviewSummary calculateReviewSummary(String placeId);
 

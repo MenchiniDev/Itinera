@@ -15,7 +15,7 @@ import com.unipi.ItineraJava.service.auth.JwtTokenProvider;
 // USERS
 @Document(collection = "Users")
 @Component
-@JsonIgnoreProperties({"jwtTokenProvider"}) ///// AGGIUNTO PER FAR FUNZIONARE LOGIN SU SWAGGER
+@JsonIgnoreProperties({"jwtTokenProvider"})
 public class User {
     private static JwtTokenProvider jwtTokenProvider;
     @Autowired
@@ -103,18 +103,13 @@ public class User {
         try {
             String jwt = token.replace("Bearer ", "").trim();
 
-            // Decodifica il token e ottieni lo username
             String username = JwtTokenProvider.getUsernameFromToken(jwt);
             System.out.println("Username: " + username);
 
-            // Recupera l'utente dalla UserService, o lancia un'eccezione se non trovato
             User user = UserService.findByUsername(username)
                     .orElseThrow(() -> new IllegalArgumentException("User not found: " + username));
-
-            // Stampa il ruolo dell'utente per debug
             System.out.println("Role: " + user.getRole());
 
-            // Controlla se l'utente è ADMIN
             if ("ADMIN".equals(user.getRole())) {
                 System.out.println("L'utente è ADMIN");
                 return true;
