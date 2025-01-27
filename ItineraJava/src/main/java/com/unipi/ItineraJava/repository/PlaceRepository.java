@@ -37,26 +37,12 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
     ArrayList<MongoPlace> findByCityAndCategoryOrderByOverallRating(String city, String category);
 
 
-
-
-
-
-
-
     @Query("{ '_id': ?0 }")
     @Update("{ '$set': { 'reviews_info.overall_rating': ?1, 'reviews_info.tot_rev_number': ?2 } }")
     void updateReviewSummary(String placeId, double averageRating, int totalReviews);
 
 
-
-
-
     List<MongoPlace> findByCity(String city);
-
-
-    /*@Query("{ 'name': ?0 }")
-    @Update("{ '$inc': { 'reviews_info.tot_rev_number': -1 } }")
-    void decrementReviewCount(String placeName);*/
 
 
     // trovare un posto tramite l'id

@@ -20,7 +20,7 @@ public interface PostRepository extends MongoRepository<Post, String> {
     Optional<Post> findPostByTimestampAndUsernameAndCommunity(String body, String username, String community);
 
     @Aggregation(pipeline = {
-        "{ '$match': { 'comment.reported': true } }",
+//        "{ '$match': { 'comment.reported': true } }", commentato perche secondo me non serve poi testo
         "{ '$unwind': { 'path': '$comment' } }",
         "{ '$match': { 'comment.reported': true } }",
         "{ '$project': { " +
@@ -62,21 +62,6 @@ public interface PostRepository extends MongoRepository<Post, String> {
             "{ '$match': { 'comment.commentId': ?0, 'comment.reported': true } }"
     })
     Post findPostByReportedComment(String commentId);
-
-    @Aggregation(pipeline = {
-            // Filtra i documenti che contengono almeno un commento che corrisponde ai criteri
-            "{ '$match': { 'comment': { '$elemMatch': { 'body': ?0, 'reported': true } } } }",
-
-            // Usa $pull per rimuovere solo il commento specifico dalla sottocollezione 'comment'
-            "{ '$set': { 'comment': { '$filter': { 'input': '$comment', 'as': 'c', 'cond': { '$not': { '$and': [ { '$eq': ['$$c.body', ?0] }, { '$eq': ['$$c.reported', true] } ] } } } } } }",
-
-            // Filtra i documenti che contengono commenti rimasti
-            "{ '$match': { 'comment': { '$ne': [] } } }", // Assicura che ci siano ancora commenti
-
-            // Opzionalmente, puoi rimuovere il campo 'comment' se non ci sono più commenti rimasti
-            "{ '$unset': 'comment' }"
-    })
-    void deleteByText(String text);
 
     @Query(value = "{ '_id': ?0 }")
     Optional<Post> findPostByIdForComment(String postId);

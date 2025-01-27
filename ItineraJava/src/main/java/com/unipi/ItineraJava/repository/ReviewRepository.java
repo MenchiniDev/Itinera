@@ -49,9 +49,6 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
     })
     List<ControversialPlaceDTO> findMostControversialPlaces();
 
-
-
-
     @Aggregation(pipeline = {
             "{ '$match': { 'place_id': ?0 } }", // Filtra per l'id del posto
             "{ '$group': { '_id': null, 'overall_rating': { '$avg': '$stars' }, 'tot_rev_number': { '$sum': 1 } } }",
