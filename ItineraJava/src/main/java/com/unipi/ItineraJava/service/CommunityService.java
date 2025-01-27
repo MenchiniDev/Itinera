@@ -2,39 +2,29 @@ package com.unipi.ItineraJava.service;
 
 
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.stream.Collectors;
 
 import com.mongodb.BasicDBObject;
-import com.mongodb.client.MongoClient;
 import com.mongodb.client.result.UpdateResult;
-import com.unipi.ItineraJava.DTO.ActiveCommunityDTO;
 import com.unipi.ItineraJava.DTO.CommunityDTO;
-import com.unipi.ItineraJava.model.*;
 import com.unipi.ItineraJava.repository.PostRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.mongodb.MongoManagedTypes;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
-import org.springframework.http.ResponseEntity;
 import org.springframework.retry.annotation.Backoff;
 import org.springframework.retry.annotation.Retryable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.TransactionSystemException;
 
-import com.mongodb.client.result.UpdateResult;
-import com.unipi.ItineraJava.exception.ResourceNotFoundException;
-import com.unipi.ItineraJava.model.Comment;
 import com.unipi.ItineraJava.model.MongoCommunity;
 import com.unipi.ItineraJava.model.Post;
 import com.unipi.ItineraJava.model.PostSummary;
 import com.unipi.ItineraJava.repository.CommunityNeo4jRepository;
 import com.unipi.ItineraJava.repository.CommunityRepository;
-import com.unipi.ItineraJava.repository.PostRepository;
 
 @Service
 public class CommunityService {

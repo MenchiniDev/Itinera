@@ -1,17 +1,11 @@
 package com.unipi.ItineraJava.controller;
 
 
-import java.time.LocalDateTime;
-import java.util.Date;
 import java.util.List;
 import java.util.Map;
-import java.util.Optional;
 
-import com.unipi.ItineraJava.DTO.ActiveCommunityDTO;
 import com.unipi.ItineraJava.DTO.CommunityDTO;
-import com.unipi.ItineraJava.exception.ResourceNotFoundException;
 
-import org.neo4j.cypherdsl.core.Return;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -26,7 +20,6 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.unipi.ItineraJava.model.*;
