@@ -3,7 +3,6 @@ package com.unipi.ItineraJava.model;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-import java.util.List;
 
 @Document(collection = "Places")
 public class MongoPlace {
@@ -13,7 +12,7 @@ public class MongoPlace {
     private String name;
     private String address;
     private String city;
-    private String category; // Hotel, Restaurant, Monument
+    private String category; // Hotel, Restaurant, Monument or Museum
     private ReviewSummary reviews_info;
 
 

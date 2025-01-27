@@ -19,33 +19,31 @@ import java.util.List;
 class PostController {
     @Autowired
     private PostService postService;
-    @Autowired
-    private CommunityService communityService;
-    @Autowired
-    private User user;
 
     // adds a post in a community
-    // STESSA FUNZIONE DELLA PUT COMMUNITY, ma qui meno completa
-    // DECIDERE QUALCE MANTENERE
+    // http://localhost:8080/posts/Rome OK
+    // nice day today in Rome!
     @PostMapping("/{community}")
     public ResponseEntity<String> createPost(@RequestHeader("Authorization") String token,
                                                      @PathVariable String community,
                                                      @RequestBody String post) {
-        String username = JwtTokenProvider.getUsernameFromToken(token);
-        if(username == null) {
-            return ResponseEntity.status(400).body("Invalid token");
+        if (!User.isAdmin(token)) {
+            String username = JwtTokenProvider.getUsernameFromToken(token);
+            if (username == null) {
+                return ResponseEntity.status(400).body("Invalid token");
+            }
+            if (post == null)
+                return ResponseEntity.status(400).body("Invalid text");
+            if (postService.addPost(community, username, post))
+                return ResponseEntity.ok("post added successfully");
+            else
+                return ResponseEntity.badRequest().body("Error");
         }
-        if (post == null)
-            return ResponseEntity.status(400).body("Invalid text");
-        if(postService.addPost(community, username, post))
-            return ResponseEntity.ok("post added successfully");
-        else
-            return ResponseEntity.badRequest().body("Error");
+        return ResponseEntity.status(400).body("Unauthorized");
     }
 
  
-    // working
-    //funzionante sabato
+    // http://localhost:8080/posts/1a18dcfb-d748-4d53-bfe3-db3c21508498 OK
     @DeleteMapping("/{id}")
     public ResponseEntity<String> deletePost(@RequestHeader("Authorization") String token,
                            @PathVariable String id) {
@@ -56,9 +54,7 @@ class PostController {
         else return ResponseEntity.internalServerError().body("Unauthorized");
     }
 
-    // http://localhost:8080/posts/report
-    // working
-    //funzionante sabato
+    // http://localhost:8080/posts/report OK
     @PutMapping("/report/{postId}")
     public ResponseEntity<String> reportPost(@RequestHeader("Authorization") String token,
                                              @PathVariable String postId ) {
@@ -78,9 +74,7 @@ class PostController {
         return ResponseEntity.internalServerError().body("Error");
     }
 
-    // http://localhost:8080/posts/comment
-    //working
-   
+    // http://localhost:8080/posts/comment ok
     @DeleteMapping("/comment/{commentID}")
     public ResponseEntity<String> deleteComment(@RequestHeader("Authorization") String token,
                                                 @PathVariable String commentID) {
@@ -92,8 +86,7 @@ class PostController {
     }
 
 
-    // http://localhost:8080/posts/report
-    // working
+    // http://localhost:8080/posts/report ok
     @GetMapping("/report")
     public ResponseEntity<List<Post>> showPostReported(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -103,14 +96,7 @@ class PostController {
         }
     }
 
-    // http://localhost:8080/posts/comment/report
-    // {
-    //    "user":"ZenBoyNothingHead",
-    //    "textComment":"Just moved into a new neighborhood and there's a community compost bin. I love the idea of composting so we can waste less, but there are no instructions or websites to find instructions on the bin. Anyone know how this works??",
-    //    "community":"Amsterdam"
-    //    "textPost": "bo"
-    // }
-    // working
+    // http://localhost:8080/posts/comment/report OK
     @PutMapping("/comment/report/{postId}/{commentId}")
     public ResponseEntity<String> reportComment(@RequestHeader("Authorization") String token,
                                              @PathVariable String postId,
@@ -124,15 +110,7 @@ class PostController {
         return ResponseEntity.internalServerError().body("error");
     }
 
-    //non va ancora, ritorna
-    //[
-    //    {
-    //        "username": null,
-    //        "timestamp": null,
-    //        "body": null,
-    //        "reported": false
-    //    }
-    //]
+    // returns all the comment reported in the project
     @GetMapping("/comment/report")
     public ResponseEntity<List<Comment>> showCommentReported(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -142,10 +120,8 @@ class PostController {
         }
     }
 
-    //http://localhost:8080/posts/comment/Wooden-Secret5698
-    //{
-    //  "comment": "mesi mesi ankara mesi, immenso mesi"
-    //}
+    //http://localhost:8080/posts/comment/Wooden-Secret5698 ok
+    //  "comment": "thats a comment!"
     @PostMapping("/comment/{postId}")
     public ResponseEntity<String> addCommentToPost(
             @RequestHeader("Authorization") String token,
@@ -170,18 +146,8 @@ class PostController {
             return ResponseEntity.internalServerError().body(e.getMessage());
         }
     }
-    // http://localhost:8080/posts/profile
-    // ritorna il post reportato con il maggior numero di commenti sotto
-    //[
-    //    {
-    //        "id": "679111e3bc7b0722300762be",
-    //        "community": "Barcelona",
-    //        "username": "Wooden-Secret5698",
-    //        "post": "this scammer found me 🤦‍♂️",
-    //        "reportedComments": 1,
-    //        "timestamp": "2024-12-22T13:37:44Z"
-    //    }
-    //]
+    // http://localhost:8080/posts/profile ok
+    // RETURNS THE POST NOT REPORTED WITH THE MOST NUMBER OF COMMENTS
     @GetMapping("viralposts")
     public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
     {
@@ -189,6 +155,4 @@ class PostController {
             return ResponseEntity.ok(postService.findControversialPosts());
         else return ResponseEntity.badRequest().body(null);
     }
-
-
 }

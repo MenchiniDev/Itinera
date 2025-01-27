@@ -92,8 +92,7 @@ class UserController {
         }
     }
 
-    // http://localhost:8080/users/signup/admin WORKING
-    // funzionante sabato
+    // http://localhost:8080/users/signup/admin OK
     @Retryable(
             retryFor = TransactionSystemException.class,
             maxAttempts = 3,
@@ -119,8 +118,7 @@ class UserController {
         return ResponseEntity.ok("User registered successfully");
     }
 
-    // http://localhost:8080/users/login
-    // funzionante sabato
+    // http://localhost:8080/users/login OK
     @PostMapping("/login")
     public ResponseEntity<String> login(@RequestBody User user) {
         Optional<User> existingUser = userRepository.findByUsername(user.getUsername());
@@ -141,9 +139,7 @@ class UserController {
             return ResponseEntity.status(401).body("Invalid password");
     }
 
-    // http://localhost:8080/users
-    // returns a list with all users
-    //funzionante sabato
+    // http://localhost:8080/users OK
     @GetMapping
     public ResponseEntity<List<User>> getAllUsers(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -173,7 +169,7 @@ class UserController {
         }
     }*/
 
-    // funzionante sabato
+    // OK
     @PutMapping("/ban/{username}")
     public ResponseEntity<String> deactivateUser(@RequestHeader("Authorization") String token,
                                                  @PathVariable String username) {
@@ -237,10 +233,6 @@ class UserController {
             return ResponseEntity.status(400).body("Invalid Reponse").getBody();
         }
     }
-
-    ///////////////////////////////////modifiche Bache/////////////////////////////////////////////////////////
-
-
     // http://localhost:8080/users/find/test
     //funzionante sabato
     @GetMapping("/find/{username}")
@@ -271,7 +263,7 @@ class UserController {
     }
 
 
-    //funzionante sabato
+    // returns all users reported
     @GetMapping("/reported")
     public ResponseEntity<List<ReportedUserDTO>> getReportedUsers(@RequestHeader("Authorization") String token) {
         if (User.isAdmin(token)) {
@@ -285,57 +277,27 @@ class UserController {
         }
     }
 
-
-
-
-
-
-
-    //endpoint per ritornare l'ultimo post di un utente
-    //funzionante
+    // returns the Last Post of a user
     @GetMapping("/lastpost/{username}")
     public ResponseEntity<Last_post> getLastPost(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-        // Verifica se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN)
                     .body(null);
         }
-
         try {
             Last_post last_post = userService.getLastPostByUsername(username);
-
-            // Verifica se l'utente ha un lastPost
             if (last_post == null) {
                 return ResponseEntity.status(HttpStatus.OK)
                         .body(null);
             }
 
-            return ResponseEntity.ok(last_post); // Restituisce il `lastPost` se trovato
+            return ResponseEntity.ok(last_post);
         } catch (IllegalArgumentException ex) {
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null); // Restituisce un errore 404
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
 
         }
     }
-
-    //cambia il parametro last post nella collection users, da usare quando viene pubblicato un nuovo post
-    //non penso abbia senso metterla come controller in quanto è eseguita solo alla pubblicazione di un post
-    /*
-    @PutMapping("/updateLastPost/{username}")
-    public ResponseEntity<?> updateLastPost(@PathVariable String username, @RequestParam String postBody) {
-        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-        // Verifica se l'utente è autenticato
-        if (authentication == null || !authentication.isAuthenticated()) {
-            return ResponseEntity.status(HttpStatus.FORBIDDEN)
-                    .body("User not authenticated. Please log in to access this endpoint.");
-        }
-        try {
-            User updatedUser = userService.updateLastPost(username, postBody);
-            return ResponseEntity.ok(updatedUser.getLastPost()); //RITORNA IL POST APPENA MESSO COM EULTIMO POST TRAMITE LA FUNZIONE
-        } catch (IllegalArgumentException ex) {
-            return ResponseEntity.status(HttpStatus.NOT_FOUND).body(ex.getMessage());
-        }
-    }*/
 
 
     @DeleteMapping("/{username}")
@@ -348,46 +310,39 @@ class UserController {
             else
                 return ResponseEntity.status(404).body("User not found");
         }else {
-            return ResponseEntity.badRequest().body("User not authenticated. Please log in to access this endpoint.");
+            return ResponseEntity.badRequest().body("User not authenticated. Please log in as an admin to access this endpoint.");
         }
 
     }
 
 
 
-    /// endpoint per vedere le community che l'utente ha joinato
-    /// http://localhost:8080/users/profile/communityJoined
+    // returns the communities joined by every single user
+    // http://localhost:8080/users/profile/communityJoined
     @GetMapping("/profile/communityJoined")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getCommunityJoined() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-    // Verifico se l'utente è autenticato
         if (authentication == null || !authentication.isAuthenticated()) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN)
                 .body("User not authenticated. Please log in to access this endpoint.");
         }
-    // Utente autenticato
         String username = authentication.getName();
 
         try {
-        // Recupero le community a cui l'utente è connesso
             List<CommunityDTO> communities = userService.getCommunityJoined(username);
-        // Se non ci sono community, restituisco un messaggio specifico
             if (communities.isEmpty()) {
                 return ResponseEntity.ok("No communities joined by the user.");
             }
-        // Restituisco le community con un messaggio di successo
             return ResponseEntity.ok(communities);
 
         } catch (Exception ex) {
-            // Gestione di errori imprevisti
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                 .body("An error occurred while retrieving the communities: " + ex.getMessage());
         }
     }
 
-    //endpoint per vedere le community che l'utente cercato ha joinato
-
+    // returns the communities joined by a given user
     @GetMapping("/profile/communityJoined/{username}")
     public ResponseEntity<?> getCommunityJoined(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -407,8 +362,7 @@ class UserController {
         }
     }
 
-    // 1 BIG AGGREGATION
-    // returns all most active users
+    // returns top 10 most active users, based on posts and comments
     @GetMapping("/profile/mostactiveuser")
     public ResponseEntity<List<ActiveUserDTO>> getActiveUser(@RequestHeader("Authorization") String token) {
         if(User.isAdmin(token)) {
@@ -420,8 +374,8 @@ class UserController {
     
     
 
-    ///endpoint per seguire un utente
-    ///http://localhost:8080/users/follow/{username}
+    // follows a user
+    // http://localhost:8080/users/follow/{username}
     @PostMapping("/follow/{username}")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<String> followUser(@PathVariable String username) {
@@ -438,7 +392,7 @@ class UserController {
         return ResponseEntity.status(HttpStatus.FORBIDDEN).body("User not authenticated");
     }
     
-    //endpoint per smettere di seguire un utente
+    // stops following a user
     //http://localhost:8080/users/unfollow/{username}
     @DeleteMapping("/unfollow/{username}")
     @PreAuthorize("hasRole('USER')")
@@ -457,7 +411,7 @@ class UserController {
     }
 
 
-    //endpoint per mostrare tutta la gente che l'user segue
+    // shows the people followed by every user
     @GetMapping("/showFollowing")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getFollowing() {
@@ -479,7 +433,7 @@ class UserController {
         }
     }
 
-    //endpoint per mostrare tutta la gente che l'user cercato segue
+    // shows given a user all the people he follows
     @GetMapping("/showFollowing/{username}")
     public ResponseEntity<?> getFollowing(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -498,7 +452,8 @@ class UserController {
                 .body("An error occurred while retrieving the followed users: " + ex.getMessage());
         }
     }
-    
+
+    // returns the people you may know based on your followings
     @GetMapping("/profile/peopleYouMayKnow")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getPeopleYouMayKnow() {
@@ -521,7 +476,8 @@ class UserController {
         }
     }
 
-    @GetMapping("/profile/reccomendedCommunities")
+    // returns all the recommended communities to join
+    @GetMapping("/profile/recommendedCommunities")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getSuggestedCommunities() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -543,8 +499,8 @@ class UserController {
         }
     }
     
-
-    @GetMapping("/profile/reccomendedPosts")
+    // shows the posts you might lose
+    @GetMapping("/profile/recommendedPosts")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getSuggestedPosts() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();

@@ -5,23 +5,22 @@ import org.springframework.data.neo4j.core.schema.*;
 @RelationshipProperties
 public class CommentRelationship {
 
-    // Aggiungi un campo id generato automaticamente
     @Id
     @GeneratedValue
-    private String internalId; // ID generato internamente per la relazione
+    private String internalId;
 
     @Property("commentId")
-    private String commentId; // ID personalizzato
+    private String commentId;
 
     @Property("timestamp")
-    private String timestamp; // Attributo della relazione
+    private String timestamp;
 
     @TargetNode
-    private PostGraph post; // Nodo di destinazione
+    private PostGraph post;
 
     // Costruttore
     public CommentRelationship(String commentId, String timestamp, PostGraph post) {
-        this.commentId = commentId; // ID personalizzato
+        this.commentId = commentId;
         this.timestamp = timestamp;
         this.post = post;
     }

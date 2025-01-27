@@ -21,7 +21,7 @@ import org.springframework.retry.annotation.Backoff;
 import org.springframework.retry.annotation.Retryable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.TransactionSystemException;
-
+import com.unipi.ItineraJava.DTO.CommentDTO;
 import java.util.Objects;
 
 
@@ -77,11 +77,6 @@ public class PostService {
         }
     }
 
-
-    public Post save(Post post) {
-        return postRepository.save(post);
-    }
-
     @Retryable(
             retryFor = TransactionSystemException.class,
             maxAttempts = 3,
@@ -112,7 +107,6 @@ public class PostService {
         Optional<Post> post = postRepository.findPostByIdForComment(postId);
     
         if (post.isPresent() && !post.get().getComment().isEmpty()) {
-            // Trova il commento specifico
             Comment comment = post.get().getComment().stream()
                 .filter(c -> Objects.equals(c.getCommentId(), commentId)) // Gestisce i valori null
                 .findFirst()
@@ -130,16 +124,15 @@ public class PostService {
     
         return false;
     }
-    
-    
 
     public List<Post> getReportedPosts() {
         return postRepository.findByReportedpostTrue();
     }
 
-    public List<Comment> showCommentReported() {
-        return postRepository.findReportedComments();
-    }
+public List<Comment> showCommentReported() {
+    return postRepository.findReportedComments();
+}
+
 
    
     @Retryable(
@@ -193,12 +186,8 @@ public class PostService {
             System.out.println("Nessun post trovato per il commento specificato.");
             throw new IllegalArgumentException("There is no post with this comment.");
         }
-    
-        // Stampa i commenti per il debug
         System.out.println("Commenti nel post:");
         post.getComment().forEach(c -> System.out.println(" - Comment ID: " + c.getCommentId() + ", Body: " + c.getBody()));
-    
-        // Trova il commento specifico
         Comment comment1 = post.getComment().stream()
             .filter(c -> Objects.equals(c.getCommentId(), commentId)) // Usa il campo corretto per il confronto
             .findFirst()
@@ -208,17 +197,12 @@ public class PostService {
             System.out.println("Nessun commento trovato.");
             throw new IllegalArgumentException("This comment does not exist.");
         }
-    
-        // Elimina il commento da Neo4j
         postNeo4jRepository.deleteComment(commentId);
-    
-        // Rimuovi il commento dalla lista del post
+
         post.getComment().removeIf(comment -> Objects.equals(comment.getCommentId(), commentId));
-    
-        // Aggiorna il numero di commenti
+
         post.setNum_comment(post.getNum_comment() - 1);
-    
-        // Salva il post aggiornato
+
         postRepository.save(post);
     }
 
@@ -255,13 +239,11 @@ public class PostService {
             post.setPost(postBody);
             post.setNum_comment(0);
             post.setReported_post(false);
-            post.setComment(new ArrayList<>()); // Inizializza come lista vuota 
+            post.setComment(new ArrayList<>());
             postNeo4jRepository.createPostNode(postId, generatePreview(postBody), post.getTimestamp(), username, community);
             postRepository.save(post);
             userService.updateLastPost(username,post.getPost());
-            
 
-            //aggiornamento di postSummary dentro community
             PostSummary postSummary = new PostSummary();
             postSummary.setUser(username);
             postSummary.setText(postBody);
@@ -272,7 +254,6 @@ public class PostService {
                 return false;
             
         } else {
-            // Community non trovata
             return false;
         }
     }

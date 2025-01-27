@@ -19,20 +19,16 @@ public class PlaceController {
 
     @Autowired
     private PlaceService placeService;
-    @Autowired
-    private PostService postService;
 
     // http://localhost:8080/place/Amsterdam
-    // returns a list with all places ordered by decrescent rating
-    //funzionante sabato
+    // returns a list with all places ordered by decrescent rating OK
     @GetMapping("/{city}")
     public List<MongoPlace> getTopPlaces(@PathVariable String city) {
         return ResponseEntity.ok(placeService.getBestPlacesByCity(city)).getBody();
     }
 
     // http://localhost:8080/place/search?city=Amsterdam&&category=Hotel
-    // returns all category places in the city ordered by rating
-    // funzionante sabato
+    // returns all category places in the city ordered by rating OK
     @GetMapping("/search/{city}/{category}")
     public List<MongoPlace> getPlacesByCityAndCategory(
             @PathVariable String city,
@@ -48,8 +44,7 @@ public class PlaceController {
 
 
     // http://localhost:8080/place?city=Rome&category=Restaurant&minRating=4.5
-    // returns correctly ordered the category of a city by order
-    //funzionante sabato
+    // returns correctly ordered the category of a city by order OK
     @GetMapping
     public ResponseEntity<List<MongoPlace>> getPlacesByRating(
             @RequestParam String city,
@@ -69,8 +64,7 @@ public class PlaceController {
     //    "address":"via degli eleocorni 55",
     //    "city":"Pontecorvo",
     //    "category":"Hotel"
-    //}
-    // sabato funzionante
+    //} OK
     @PostMapping
     public ResponseEntity<String> createPlace(
             @RequestHeader("Authorization") String token,

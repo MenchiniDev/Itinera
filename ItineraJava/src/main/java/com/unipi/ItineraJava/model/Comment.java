@@ -14,7 +14,7 @@ public class Comment {
     @Field("body")
     private String body;
     @Field("reported")
-    private boolean reportedcomment;
+    private boolean reported;
 
     public Comment() {}
     public void setCommentId(String commentId) {
@@ -42,9 +42,9 @@ public class Comment {
         this.body = body;
     }
     public boolean isReported() {
-        return reportedcomment;
+        return reported;
     }
     public void setReported(boolean reported) {
-        this.reportedcomment = reported;
+        this.reported = reported;
     }
 }
