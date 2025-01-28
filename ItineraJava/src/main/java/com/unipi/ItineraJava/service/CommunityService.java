@@ -163,6 +163,9 @@ public class CommunityService {
             backoff = @Backoff(delay = 2000)
     )
     public void createCommunity(CommunityDTO communityDTO) {
+        if (communityRepository.existsByCity(communityDTO.getCity())) {
+            throw new IllegalArgumentException("Community already exists: " + communityDTO.getCity());
+        }
         try {
             MongoCommunity mongoCommunity = new MongoCommunity();
             mongoCommunity.setName(communityDTO.getCity());
@@ -171,8 +174,9 @@ public class CommunityService {
             mongoCommunity.setId(UUID.randomUUID().toString());
             mongoCommunity.setPost(communityDTO.getPost());
 
-            communityRepository.save(mongoCommunity);
             communityNeo4jRepository.createCommunityNode(communityDTO.getCity());
+            communityRepository.save(mongoCommunity);
+            
         }catch (Exception e) {
             e.printStackTrace();
         }
