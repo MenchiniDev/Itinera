@@ -83,19 +83,14 @@ public class PlaceController {
 
     @GetMapping("/topCities")
     public ResponseEntity<List<TopRatedCitiesDTO>> getTopRatedCities(@RequestHeader("Authorization") String token) {
-
         if(User.isAdmin(token))
         {
-            List<TopRatedCitiesDTO> topCities= placeService.getTopRatedCities();
+            List<TopRatedCitiesDTO> topCities = placeService.getTopRatedCities();
             if (topCities.isEmpty()) {
-                return ResponseEntity.noContent().build();
+                return ResponseEntity.status(404).build();
             }
-
             return ResponseEntity.ok(topCities);
-
-
-        }else
-        {
+        }else {
             return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
         }
 
