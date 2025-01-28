@@ -39,7 +39,7 @@ public interface PostRepository extends MongoRepository<Post, String> {
                     "   } } } } }",
             "{ '$sort': { 'reportedComments': -1 } }",
             "{ '$limit': 10 }",
-            "{ '$project': { '_id': 0, 'id': '$_id', 'community': 1, 'username': 1, 'post': 1, 'reportedComments': 1, 'timestamp': 1 } }"
+            "{ '$project': { 'id': '$_id', 'community': 1, 'username': 1, 'post': 1, 'reportedComments': 1, 'timestamp': 1 } }"
     })
     List<PostSummaryDto> findTopReportedPostsByCommentCount();
 
