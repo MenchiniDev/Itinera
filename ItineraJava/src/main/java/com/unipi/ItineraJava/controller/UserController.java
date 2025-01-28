@@ -263,10 +263,14 @@ class UserController {
 
         try {
             List<CommunityDTO> communities = userService.getCommunityJoined(username);
+            List<String> commuList = new java.util.ArrayList<>();
+            for (CommunityDTO community : communities) {
+                commuList.add(community.getCity());
+            }
             if (communities.isEmpty()) {
                 return ResponseEntity.ok("No communities joined by the user.");
             }
-            return ResponseEntity.ok(communities);
+            return ResponseEntity.ok(commuList);
 
         } catch (Exception ex) {
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
