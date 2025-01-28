@@ -45,11 +45,11 @@ def generate_fake_data(input_file, output_file, posts_folder):
 
                     if post_data.get("username") == username:
                         # Confronta i timestamp per trovare il più recente
-                        post_timestamp = datetime.strptime(post_data["timestamp"], "%Y-%m-%d %H:%M:%S")
+                        post_timestamp = datetime.strptime(post_data["timestamp"].strip(), "%Y-%m-%dT%H:%M:%SZ")
                         if latest_timestamp is None or post_timestamp > latest_timestamp:
                             latest_timestamp = post_timestamp
                             latest_post = {
-                                "post_body": post_data["post_body"],
+                                "post_body": post_data["post"],
                                 "timestamp": post_data["timestamp"]
                             }
 
@@ -62,7 +62,7 @@ def generate_fake_data(input_file, output_file, posts_folder):
             "created": format_iso8601(final_date),
             "active": True,
             "reported": False,
-            "role": "User"
+            "role": "USER"
         }
 
         # Aggiungi il campo Last_post solo se trovato
@@ -80,7 +80,7 @@ def generate_fake_data(input_file, output_file, posts_folder):
     print(f"Dati generati con successo e salvati in '{output_file}'")
 
 input_file = "usernames.txt"  
-output_file = "users.json"  
+output_file = "usersOk.json"  
 posts_folder = "../Post_doc"  
 
 # Esegui la funzione
