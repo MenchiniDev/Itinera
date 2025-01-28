@@ -80,7 +80,7 @@ def generate_fake_data(input_file, output_file, posts_folder):
     print(f"Dati generati con successo e salvati in '{output_file}'")
 
 input_file = "usernames.txt"  
-output_file = "usersOk.json"  
+output_file = "users.json"  
 posts_folder = "../Post_doc"  
 
 # Esegui la funzione
