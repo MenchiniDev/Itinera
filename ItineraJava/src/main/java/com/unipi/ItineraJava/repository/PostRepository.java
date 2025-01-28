@@ -46,7 +46,7 @@ public interface PostRepository extends MongoRepository<Post, String> {
     List<Post> findByReportedpostTrue();
 
     @Aggregation(pipeline = {
-            "{ '$match': { 'comment.commentId': ?0, 'comment.reported': true } }"
+            "{ '$match': { 'comment._id': ?0, 'comment.reported': true } }"
     })
     Post findPostByReportedComment(String commentId);
 

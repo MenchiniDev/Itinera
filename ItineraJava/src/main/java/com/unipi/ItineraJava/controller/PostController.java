@@ -146,9 +146,9 @@ class PostController {
             return ResponseEntity.internalServerError().body(e.getMessage());
         }
     }
-    // http://localhost:8080/posts/profile ok
+    // http://localhost:8080/posts/viralposts ok
     // RETURNS THE POST NOT REPORTED WITH THE MOST NUMBER OF COMMENTS
-    @GetMapping("viralposts")
+    @GetMapping("/viralposts")
     public ResponseEntity<List<PostSummaryDto>> findControversialPosts(@RequestHeader("Authorization") String token)
     {
         if(User.isAdmin(token))
