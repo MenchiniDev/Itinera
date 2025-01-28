@@ -11,7 +11,7 @@ import org.bson.Document;
 import java.io.File;
 import java.util.List;
 
-public class MongoDB_bache {
+public class MongoDB_UsrRevPlaces {
     public static void main(String[] args) {
         String mongoUri = "mongodb://myUserAdmin:root@10.1.1.25:27017/itineraDB?authSource=admin&authMechanism=SCRAM-SHA-256";
         String databaseName = "itineraDB"; // Nome del database

@@ -13,6 +13,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration;
 import org.springframework.stereotype.Service;
 import org.springframework.data.mongodb.core.MongoTemplate;
+import com.unipi.ItineraJava.DTO.TopRatedCitiesDTO;
 
 
 import java.util.*;
@@ -22,6 +23,8 @@ public class PlaceService {
 
     @Autowired
     private PlaceRepository placeRepository;
+    
+    @Autowired
     private ReviewRepository reviewRepository;
 
 
@@ -86,4 +89,12 @@ public class PlaceService {
             e.printStackTrace();
         }
     }
+
+
+    public List<TopRatedCitiesDTO> getTopRatedCities() {
+        return placeRepository.findTopRatedCitiesByAverageRating();
+    }
+
+
+
 }

@@ -36,7 +36,7 @@ public class ReviewService {
         }
 
         if (stars < 1 || stars > 5) {
-            throw new IllegalArgumentException("Il rateo deve essere compreso tra 1 e 5.");
+            throw new IllegalArgumentException("rating should be between 1 and 5.");
         }
 
         Review review = new Review();
@@ -100,11 +100,15 @@ public class ReviewService {
 
 
     public String deleteReview(String reviewId) {
+        try{
         Review review = reviewRepository.findById(reviewId)
                 .orElseThrow(() -> new IllegalArgumentException("Review not found with ID: " + reviewId));
         reviewRepository.deleteById(reviewId);
         placeService.updateReviewSummary(review.getPlace_id());
         return "Review successfully deleted and count decremented";
+        }catch (Exception e){
+            return "Error occurred in deleteReview"+ e.getMessage();
+        }
     }
 
 
