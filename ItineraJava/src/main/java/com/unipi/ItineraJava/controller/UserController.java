@@ -297,7 +297,7 @@ class UserController {
                 .body("An error occurred while retrieving the communities: " + ex.getMessage());
         }
     }
-
+/* 
     // returns top 10 most active users, based on posts and comments
     @GetMapping("/profile/mostactiveuser")
     public ResponseEntity<List<ActiveUserDTO>> getActiveUser(@RequestHeader("Authorization") String token) {
@@ -308,7 +308,7 @@ class UserController {
         }
     }
     
-    
+ */   
 
     // follows a user
     // http://localhost:8080/users/follow/{username}
