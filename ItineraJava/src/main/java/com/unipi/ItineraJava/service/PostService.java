@@ -83,8 +83,10 @@ public class PostService {
             backoff = @Backoff(delay = 2000)
     )
     public void deleteById(String id) {
-        
-        Post post = postRepository.findById(id).orElse(null);
+        Post post = postRepository.findPostBy_id(id);
+        if(post == null) {
+            throw new IllegalArgumentException("Post not found");
+        }
         String postId = post.getId();
         postNeo4jRepository.deletePostNode(postId);
         postRepository.deleteById(id);
