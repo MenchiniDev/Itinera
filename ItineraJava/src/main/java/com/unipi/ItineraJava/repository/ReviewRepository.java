@@ -55,5 +55,9 @@ public interface ReviewRepository extends MongoRepository<Review, String> {
     })
     ReviewSummary calculateReviewSummary(String placeId);
 
+    @Query(value = "{ 'place_id': ?0 }", delete = true)
+    void deleteReviewsByPlaceId(String placeId);
+    
+
 
 }

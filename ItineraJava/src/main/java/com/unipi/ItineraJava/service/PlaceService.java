@@ -95,6 +95,15 @@ public class PlaceService {
         return placeRepository.findTopRatedCitiesByAverageRating();
     }
 
+    public void deletePlace(String id) {
+        try{
+        placeRepository.deleteById(id);
+        reviewRepository.deleteReviewsByPlaceId(id);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }
+
 
 
 }

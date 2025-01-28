@@ -96,6 +96,18 @@ public class PlaceController {
 
     }
 
+    @DeleteMapping("/{id}")
+    public ResponseEntity<String> deletePlace(@RequestHeader("Authorization") String token, @PathVariable String id) {
+        if(User.isAdmin(token))
+        {
+            placeService.deletePlace(id);
+            return ResponseEntity.ok("Place deleted");
+        }else
+        {
+            return ResponseEntity.badRequest().body("Unauthorized, log as an admin");
+        }
+    }
+
 
 
 }
