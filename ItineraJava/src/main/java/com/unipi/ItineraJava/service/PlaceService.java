@@ -103,7 +103,4 @@ public class PlaceService {
             e.printStackTrace();
         }
     }
-
-
-
 }
