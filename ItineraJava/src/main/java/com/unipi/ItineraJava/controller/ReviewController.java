@@ -96,7 +96,7 @@ public class ReviewController {
 
 
 
-    // reports a review
+    // reports a review OK
     @PutMapping("/report/{reviewId}")
     public ResponseEntity<String> updateReview(
             @RequestHeader("Authorization") String token,

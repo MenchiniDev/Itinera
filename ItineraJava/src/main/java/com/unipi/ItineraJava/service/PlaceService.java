@@ -22,6 +22,8 @@ public class PlaceService {
 
     @Autowired
     private PlaceRepository placeRepository;
+    
+    @Autowired
     private ReviewRepository reviewRepository;
 
 

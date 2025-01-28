@@ -6,7 +6,6 @@ import com.unipi.ItineraJava.model.ReviewSummary;
 import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
-import org.springframework.data.mongodb.repository.Update;
 import org.springframework.stereotype.Repository;
 import com.unipi.ItineraJava.DTO.ControversialPlaceDTO;
 
