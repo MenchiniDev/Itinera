@@ -56,7 +56,6 @@ class UserController {
     private PasswordEncoder passwordEncoder;
 
     // http://localhost:8080/users/signup
-    //funzionante sabato
     @Retryable(
             retryFor = TransactionSystemException.class,
             maxAttempts = 3,
@@ -150,25 +149,6 @@ class UserController {
         }
     }
 
-
-    // http://localhost:8080/users/678f461050e5455936170332
-    // delete an user
-    /*
-    @DeleteMapping("/deleteById/{id}")
-    public ResponseEntity<String> deleteUser(@RequestHeader("Authorization") String token,
-                                            @PathVariable String id) {
-        try {
-            if(User.isAdmin(token)) {
-                userService.deleteById(id);
-                return ResponseEntity.ok("user deleted");
-            }else{
-                return ResponseEntity.status(400).body("User not authenticated as Admin");
-            }
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        }
-    }*/
-
     // OK
     @PutMapping("/ban/{username}")
     public ResponseEntity<String> deactivateUser(@RequestHeader("Authorization") String token,
@@ -188,35 +168,6 @@ class UserController {
     }
 
 
-    // PROFILE QUERIES
-    /*
-    @GetMapping("/profile/numpost")
-    public long getPostCount(@RequestHeader("Authorization") String token)
-    {
-        try {
-            String username = JwtTokenProvider.getUsernameFromToken(token);
-            if (username == null)
-                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
-            return ResponseEntity.ok(UserService.getPostCount(username)).getBody();
-        }catch (Exception e)
-        {
-            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
-        }
-    }
-
-    @GetMapping("/profile/numcom")
-    public long getCommentCount(@RequestHeader("Authorization") String token)
-    {
-        try {
-            String username = JwtTokenProvider.getUsernameFromToken(token);
-            if (username == null)
-                return ResponseEntity.status(401).body("Invalid token").getStatusCodeValue();
-            return ResponseEntity.ok(UserService.getCommentCount(username)).getBody();
-        }catch (Exception e)
-        {
-            return ResponseEntity.status(400).body("Invalid Reponse").getStatusCodeValue();
-        }
-    }*/
     // http://localhost:8080/users/profile/numreview
     // working fine
     @GetMapping("/profile/numreview")
@@ -234,7 +185,6 @@ class UserController {
         }
     }
     // http://localhost:8080/users/find/test
-    //funzionante sabato
     @GetMapping("/find/{username}")
     public Optional<User> getUserByUsername(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -247,7 +197,6 @@ class UserController {
 
 
     // Endpoint per aggiornare il campo "reported" per uno specifico user
-    //funzionante sabato
     @PutMapping("/report/{username}")
     public ResponseEntity<String> reportUser(@PathVariable String username) {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
@@ -300,23 +249,6 @@ class UserController {
     }
 
 
-    @DeleteMapping("/{username}")
-    public ResponseEntity<String> deleteUserByUsername(
-            @RequestHeader("Authorization") String token,
-            @PathVariable String username) {
-        if(User.isAdmin(token)) {
-            if (userService.deleteByUsername(username))
-                return ResponseEntity.ok("User deleted successfully");
-            else
-                return ResponseEntity.status(404).body("User not found");
-        }else {
-            return ResponseEntity.badRequest().body("User not authenticated. Please log in as an admin to access this endpoint.");
-        }
-
-    }
-
-
-
     // returns the communities joined by every single user
     // http://localhost:8080/users/profile/communityJoined
     @GetMapping("/profile/communityJoined")
@@ -352,10 +284,14 @@ class UserController {
             }
         try {
             List<CommunityDTO> communities = userService.getCommunityJoined(username);
+            List <String> cities = new java.util.ArrayList<>();
+            for (CommunityDTO community : communities) {
+                cities.add(community.getCity());
+            }
             if (communities.isEmpty()) {
                 return ResponseEntity.ok("No communities joined by the user.");
             }
-            return ResponseEntity.ok(communities);
+            return ResponseEntity.ok(cities);
         } catch (Exception ex) {
             return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
                 .body("An error occurred while retrieving the communities: " + ex.getMessage());
@@ -411,7 +347,7 @@ class UserController {
     }
 
 
-    // shows the people followed by every user
+    // shows the people followed by user
     @GetMapping("/showFollowing")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getFollowing() {

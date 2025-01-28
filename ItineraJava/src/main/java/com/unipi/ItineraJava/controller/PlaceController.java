@@ -83,22 +83,29 @@ public class PlaceController {
 
     @GetMapping("/topCities")
     public ResponseEntity<List<TopRatedCitiesDTO>> getTopRatedCities(@RequestHeader("Authorization") String token) {
-
         if(User.isAdmin(token))
         {
-            List<TopRatedCitiesDTO> topCities= placeService.getTopRatedCities();
+            List<TopRatedCitiesDTO> topCities = placeService.getTopRatedCities();
             if (topCities.isEmpty()) {
-                return ResponseEntity.noContent().build();
+                return ResponseEntity.status(404).build();
             }
-
             return ResponseEntity.ok(topCities);
-
-
-        }else
-        {
+        }else {
             return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
         }
 
+    }
+
+    @DeleteMapping("/{id}")
+    public ResponseEntity<String> deletePlace(@RequestHeader("Authorization") String token, @PathVariable String id) {
+        if(User.isAdmin(token))
+        {
+            placeService.deletePlace(id);
+            return ResponseEntity.ok("Place deleted");
+        }else
+        {
+            return ResponseEntity.badRequest().body("Unauthorized, log as an admin");
+        }
     }
 
 
