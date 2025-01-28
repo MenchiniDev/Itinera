@@ -251,7 +251,6 @@ class UserController {
 
     // returns the communities joined by every single user
     // http://localhost:8080/users/profile/communityJoined
-    // todo: DA CONTROLLARE
     @GetMapping("/profile/communityJoined")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getCommunityJoined() {
@@ -348,7 +347,7 @@ class UserController {
     }
 
 
-    // shows the people followed by every user
+    // shows the people followed by user
     @GetMapping("/showFollowing")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<?> getFollowing() {
