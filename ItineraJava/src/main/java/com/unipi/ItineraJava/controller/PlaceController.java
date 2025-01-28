@@ -5,10 +5,12 @@ import com.unipi.ItineraJava.model.Review;
 import com.unipi.ItineraJava.model.User;
 import com.unipi.ItineraJava.service.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import com.unipi.ItineraJava.model.MongoPlace;
 import com.unipi.ItineraJava.service.PlaceService;
+import com.unipi.ItineraJava.DTO.TopRatedCitiesDTO;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -78,5 +80,28 @@ public class PlaceController {
             return ResponseEntity.badRequest().body("Unauthorized, log as an admin");
         }
     }
+
+    @GetMapping("/topCities")
+    public ResponseEntity<List<TopRatedCitiesDTO>> getTopRatedCities(@RequestHeader("Authorization") String token) {
+
+        if(User.isAdmin(token))
+        {
+            List<TopRatedCitiesDTO> topCities= placeService.getTopRatedCities();
+            if (topCities.isEmpty()) {
+                return ResponseEntity.noContent().build();
+            }
+
+            return ResponseEntity.ok(topCities);
+
+
+        }else
+        {
+            return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
+        }
+
+    }
+
+
+
 }
 
