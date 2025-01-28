@@ -43,17 +43,17 @@ public interface PlaceRepository extends MongoRepository<MongoPlace, String> {
 
     @Aggregation(pipeline = {
             "{ '$group': { " +
-                    "   '_id': '$city', " + // Raggruppa per città
-                    "   'averageRating': { '$avg': '$reviews_info.overall_rating' }, " + // Calcola la media di overall_rating
-                    "   'totalPlaces': { '$sum': 1 } " + // Conta il numero di luoghi nella città
+                    "   '_id': '$city', " +
+                    "   'averageRating': { '$avg': '$reviews_info.overall_rating' }, " +
+                    "   'totalPlaces': { '$sum': 1 } " +
                     "} }",
-            "{ '$sort': { 'averageRating': -1 } }", // Ordina per media decrescente
-            "{ '$limit': 3 }", // Limita ai primi 3 risultati
+            "{ '$sort': { 'averageRating': -1 } }",
+            "{ '$limit': 3 }",
             "{ '$project': { " +
                     "   '_id': 0, " +
-                    "   'city': '$_id', " + // Rinomina il campo `_id` come `city`
+                    "   'city': '$_id', " +
                     "   'averageRating': 1, " +
-                    "   'totalPlaces': 1 } }" // Mostra il totale dei luoghi per città
+                    "   'totalPlaces': 1 } }"
     })
     List<TopRatedCitiesDTO> findTopRatedCitiesByAverageRating();
 
