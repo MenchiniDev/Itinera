@@ -4,14 +4,14 @@ import java.time.LocalDateTime;
 
 public class CommentDTO {
 
-    private String _id;          // ID del commento
-    private String username;     // Username dell'autore del commento
-    private String timestamp; // Timestamp del commento
-    private String body;         // Testo del commento
-    private boolean reported;    // Flag che indica se il commento è stato segnalato
-    private String postId;       // ID del post a cui appartiene il commento (rinominato per evitare conflitti)
+    private String _id;          
+    private String username;     
+    private String timestamp; 
+    private String body;         
+    private boolean reported;    
+    private String postId;  
 
-    // Costruttori
+
     public CommentDTO(String _id, String username, String timestamp, String body, boolean reported, String postId) {
         this._id = _id;
         this.username = username;
